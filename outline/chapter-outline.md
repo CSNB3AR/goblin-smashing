@@ -1,35 +1,42 @@
 # Chapter Outline — Current Direction
 
-This is the confirmed beat-by-beat plan for the opening stretch of the redraft, current as of this pass. It supersedes the old draft's chapter breakdown for this stretch (see `bible/old-draft-chapter-bible.md` for what it replaces and why). Canon facts and craft rules live in `bible/writing-bible.md`; game mechanics live in `bible/game-system.md`. No prose has been drafted yet, this is beats only, pending the writing-style transcripts.
+This is the confirmed beat-by-beat plan for the opening stretch of the redraft, current as of this pass. It supersedes the old draft's chapter breakdown for this stretch (see `bible/old-draft-chapter-bible.md` for what it replaces and why). Canon facts and craft rules live in `bible/writing-bible.md`; game mechanics live in `bible/game-system.md`; voice guidance lives in `bible/style-notes.md`. Chapter 1 is drafted in `chapters/chapter-01.md`; everything past it is beats only.
 
 ## What changed from the old draft, and why
 
-Two restructuring decisions drive this pass:
+Three restructuring decisions drive this pass:
 
-1. **Compress the "find a pod" search.** The old draft spent a full chapter (old Chapter 3) on Tatsuya physically riding his moped from cafe to cafe across Tokyo looking for an open VR pod slot, only landing on Sakura Arcade as a last resort. The new direction moves the *search* online (he checks bookings from his phone while working the register) and keeps the moped for exactly one deliberate trip: Sakura Arcade. This tightens two chapters of real-world legwork into one search-and-decide beat plus one arcade visit.
-2. **Don't log him out the instant he gets the ultimatum.** The old draft has Tatsuya/Kaiseki get Sevish's three-day ultimatum and essentially leave the game world immediately after. The new direction wants him to live in camp for a stretch first, texture, a taste of goblin culture, the buildup toward accepting the "Call of the Bones" World Quest, before he chooses to log out. When he logs back in, that's when the "chained up" beat lands: held by Sevish's own camp as a suspected outsider during the proving trial, not an external captor. That tension is now something he returns to, not something he immediately flees.
+1. **Compress the "find a pod" search.** The old draft spent a full chapter (old Chapter 3) on Tatsuya physically riding his moped from cafe to cafe across Tokyo looking for an open VR pod slot, only landing on Sakura Arcade as a last resort. The new direction moves the *search* online and compresses it to a single paragraph inside Chapter 2, keeping the Haya EB for exactly one deliberate trip: Sakura Arcade.
+2. **Get him into the game early, and keep the real-world half of Chapter 2 trimmed hard.** Momentum matters more than thoroughness here: too long a real-world wait before login kills the pull into the game. Chapter 2's ride home, family beat, and pod search are all compressed so login lands around the chapter's midpoint, not its final page, leaving real room for the first camp scene to actually breathe.
+3. **Don't log him out the instant he gets the ultimatum.** The old draft has Tatsuya/Kaiseki get Sevish's three-day ultimatum and essentially leave the game world immediately after. The new direction wants him to live in camp for a stretch first, texture, a taste of goblin culture, the buildup toward accepting the "Call of the Bones" World Quest, before he chooses to log out. When he logs back in, that's when the "chained up" beat lands: held by Sevish's own camp as a suspected outsider during the proving trial, not an external captor. That tension is now something he returns to, not something he immediately flees.
 
-## Chapter 1 — WattsUp Shift
+## Chapter 1 — WattsUp Shift (~2,000-2,500 words)
 
-**Real world only.** Closing shift at Gato's WattsUp charge station. Winter Championship broadcast plays throughout in the background (Crystal League reveal lands live during this broadcast, per Writing Bible §7 timeline). Chiyo's text lands about Tabuchi pressure and the Tochi application option. Eren shows up (with driver/retainer) to charge his car and leans on Tatsuya over the family debt in front of a customer, an altercation Tatsuya absorbs rather than escalates, consistent with his established behavioral signature.
+**Real world only.** Closing shift at Gato's WattsUp charge station. Winter Championship broadcast plays throughout in the background. Chiyo's text lands about Tabuchi pressure and the Tochi application option. Tatsuya rides herd on the register while the broadcast runs behind him, the Haya EB parked out back for now.
 
-**New beat:** while working the register, between customers, Tatsuya pulls up pod-booking listings on his phone, checking for any open VR slot in Tokyo. This plants the desire and the obstacle (everything's booked or he can't afford it) inside the chapter itself, rather than requiring a whole separate chapter to discover it.
+**Broadcast beat:** as the Winter Championship wraps, Kazuku (the bear mascot) takes the broadcast, announces the Crystal League expansion, and follows it with a limited-time discount on HGO drives, a hardware promotion clearly meant to pull new players into the new content. This is the concrete spark: Tatsuya doesn't have any other realistic path in, so a discounted drive reads as his one shot.
 
-**Chapter ends** on the Crystal League expansion reveal hitting the broadcast live, and Tatsuya committing nearly his last yen to a booking/access key, his decision point. Classic Writing Bible §10 chapter-ending rule: ends on a decision, not a bow.
+**Eren beat:** Eren arrives (with driver/retainer) to charge his car, wearing his Kansai Black Lotus team jacket. Seeing it lands two ways at once, anger at Eren and the stolen build, and a spike of motivation, a physical reminder that this world is still open and Tatsuya still wants in. Eren leans on him over the family debt in front of a customer. Tatsuya absorbs it rather than escalates, consistent with his established behavioral signature.
 
-## Chapter 2 — No Open Pods
+**Chapter ends** on Tatsuya's decision: he commits nearly his last yen to a discounted drive. Ends on the decision, not a bow, per Writing Bible §10.
 
-Next day. His overnight booking requests come back empty, every third-gen cafe in Tokyo is booked solid off Winter Bash hype, second-gen isn't worth the lag even if a slot existed. This is where the pricing reality lands hard: a pod of his own is flatly out of the question on his money. One deliberate trip, not a tour, to Sakura Arcade as effectively his last option.
+## Chapter 2 — Into the Game (~2,000-2,500 words)
 
-Meets Leon. Sees the two first-gen Kazuhaya Tech pods and the "Kazuhaya" name hits him the way it's established to in Writing Bible §7, his father's company, still running, against all odds. Because of Daichi's tinkering knowledge (passed down, however informally, to Tatsuya), he clocks that these old machines might be reachable even though Leon isn't renting them out and they're not "available" in any normal sense.
+**Real-world half is trimmed hard, roughly the first third of the chapter, so login lands early rather than near the end.** The point of this chapter is momentum into the game; don't let the real-world setup outweigh the payoff.
 
-**Chapter ends** on Tatsuya resolving to try the override himself, setting up the login.
+**Ride home:** a short atmospheric beat on the Haya EB through Tokyo, a paragraph or two, not a scene. Texture, not travelogue.
 
-## Chapter 3 — First Login, Early Camp
+**Home:** Chiyo, Momo, and Taji, compressed to a quick, warm beat, not a full domestic scene. Enough to land the family grounding and any necessary plot info (Tochi deadline, Tabuchi pressure) without slowing the chapter down.
 
-The override succeeds (with the expected first-attempt failure/system-update snag from the old draft, if it still earns its place, see `bible/old-draft-chapter-bible.md` Chapter 3 for reference), and the goblin glitch drops him into Lunarest Outskirts. NPC skirmish (Gornak/Vesh-equivalent), Goblin Gas combos into a Goblin Flare kill, Wyx and Sevish intervene, the three-day ultimatum lands (prove himself with intel on a way into Lunarest, or be treated as an enemy). He picks his in-game name here.
+**The search, compressed:** a paragraph, not a chapter. Bookings come back empty, every third-gen cafe in Tokyo booked solid off Winter Bash hype, second-gen not worth the lag. A pod of his own is flatly out of the question on his money. Sakura Arcade becomes his one real option, and he goes, immediately, no tour.
 
-**Departure from the old draft:** he does not log out right after the ultimatum. Instead, this chapter (or this chapter bleeding into Chapter 3 if it needs the room) stays in-game for a stretch: camp texture, goblin culture from the inside, the early shape of trust with Wyx's day-to-day camp discipline, and the buildup toward the "Call of the Bones" World Quest prompt. Let the leveling and world-building breathe here rather than cutting back to the real world immediately, this is explicitly what makes the later leveling arc land right.
+**Sakura Arcade:** meets Leon, who applies a pressure beat of his own, a cost, a condition, or a warning, before Tatsuya gets anywhere near pod access. Sees the two first-gen Kazuhaya Tech pods, the "Kazuhaya" name hits him the way it's established to in Writing Bible §7. Because of Daichi's tinkering knowledge, he clocks that these old machines might be reachable even though they're not "available" in any normal sense. He tries the override (the expected first-attempt failure/system-update snag from the old draft can still earn its place here, see `bible/old-draft-chapter-bible.md` Chapter 3 for reference), keeping this beat quick rather than a drawn-out technical scene.
+
+**First login, first camp:** the goblin glitch drops him into Lunarest Outskirts. This should land by roughly the midpoint of the chapter, not the final page, leaving real room for the camp scene itself: NPC skirmish, Wyx and Sevish, the three-day ultimatum, and a taste of camp texture before the chapter ends. The rest of the camp arc continues into Chapter 3 rather than being rushed to fit here, but the reader needs to actually be in the game, with the story breathing there, well before this chapter's close.
+
+## Chapter 3 — Camp
+
+Stays in-game. The camp arc gets the room it needs here: texture, a taste of goblin culture from the inside, the early shape of trust with Wyx's day-to-day camp discipline, and the buildup toward the "Call of the Bones" World Quest prompt. This is what makes the later leveling arc land right, per restructuring point 3 above.
 
 **Chapter ends** on Tatsuya choosing to log out, real-world pressure (work, family, the clock on his booking) pulling him back rather than the game pushing him out.
 

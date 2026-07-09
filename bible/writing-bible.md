@@ -48,6 +48,9 @@ Esports is the visible, spectator-friendly PvP layer sitting on top of a much bi
 - One breath through the nose when something lands funny.
 - Does not smile where people can see it.
 
+### Possessions: the Haya EB
+His only ride, a beat-up electric moped/scooter, old enough that most people mistake it for an antique. Discontinued years ago, nobody makes parts for it anymore. Top speed around 120. Has an integrated touchscreen and helmet, leftover flourishes from when Daichi's tech ambitions extended past VR pods into everyday hardware. Runs at all only because Tatsuya keeps upgrading and repairing it himself, the same tinkering instinct that later lets him override a first-gen pod. His WattsUp job (charging and maintaining EVs all day) is the direct, practical reason he's able to keep it alive on no budget. It's his only way to get anywhere in Tokyo, work, the hospital, Sakura Arcade, all of it.
+
 ## 5. Family
 
 ### Daichi Kazehaya (father, deceased)
