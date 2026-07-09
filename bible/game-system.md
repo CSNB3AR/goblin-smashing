@@ -8,30 +8,36 @@ For character facts, world facts, and craft rules, defer to `bible/writing-bible
 
 ## 1. Core Stats: The Five Disciplines + Energy
 
-Every creature, player character, and named NPC in Eryndal runs on the same six numbers. These are also the stat line printed on any deck-building card representation of a creature or hero (see §4).
+Every creature, player character, and named NPC in Eryndal runs on the same six numbers. These are also the stat line printed on any deck-building card representation of a creature or hero (see §5).
 
 - **Courage** — willpower, bravery, leadership, fear resistance, stabilizing risky gambles. Drives "save the skill" checks and some defensive/social challenges.
 - **Power** — raw physical strength, damage output, intimidation, breaking things. Primary stat for physical attacks and Power Challenges.
 - **Wisdom** — perception, knowledge, cunning, magical affinity, resisting tricks or mental effects. Governs skill-learning speed and Wisdom Challenges.
 - **Speed** — agility, reflexes, evasion, movement, initiative in many situations. A goblin favorite for hit-and-run play.
-- **Fortune** — luck, probability, critical hits, loot quality, random-event success, and every Gambler-path effect. Higher Fortune makes gambles safer and better, and is the gate for goblin signature mechanics (see §3). Fortune Challenges cover high-variance moments.
+- **Fortune** — luck, probability, critical hits, loot quality, random-event success, and every Gambler-path effect. Higher Fortune makes gambles safer and better, and is the gate for goblin signature mechanics (see §4). Fortune Challenges cover high-variance moments.
 - **Energy** — the depletable resource pool: HP plus fuel for big abilities. Damage reduces it; zero means defeated. In the story, this reads as stamina/mana that regenerates between fights or slowly during them.
 
 **Resolving checks in prose:** opposed checks or checks against a difficulty are handled narratively, only surfaced on the page when the tension calls for it. Margin of success can add damage or a bonus effect. Author judgment and narrative weight drive most outcomes; a check is only shown as a number when a gamble is genuinely live.
 
-## 2. Leveling & Progression
+## 2. Character Creation: the Rare Race Roll
+
+At creation, every playable race has a chance to roll into a rare, upgraded variant right at the start, not just something earned through a later class promotion. An elf might roll High Elf, for instance, a genuine bonus tier with its own rare-class abilities, the equivalent of a mid-game knight-to-paladin promotion handed to a player on day one instead of earned over dozens of levels. It's a gacha-flavored bonus baked into the character screen, not something every player gets, and not something anyone can force.
+
+This is the mechanic Tatsuya's goblin lock interacts with and subverts (see Writing Bible §7, "The goblin glitch, mechanism," for the full scene-level detail): he was mid-selection, browsing race options on an overridden first-gen pod, when the arcade's power blipped and the pod rebooted mid-choice, locking in whatever he'd paused on. No roll ever happened. He didn't get a rare variant, he didn't even get a normal, deliberate pick, he got goblin, the weakest race in the game, by hardware accident. The irony is the point: the one system built to hand players a lucky break at creation is exactly the system that failed him.
+
+## 3. Leveling & Progression
 
 - Level starts at 1 (or backstory-appropriate).
 - XP comes from quests, fights, exploration, and world events.
 - On level up: +1 to all five Disciplines (baseline growth), a handful of stat points to distribute (narrated through action: training, quests, "the bones warmed at his throat"), an Energy increase, and occasionally a new Codex Entry (skill or minor item) from class/race lists or story rewards.
 - **Racial/Class growth:** Goblins grow Fortune faster than other races (an extra point or two per level, or a bias in free stat points), consistent with the underdog/luck-based arc the goblin race already carries in the Writing Bible. Other races grow more balanced or lean into their own strengths.
-- **Codex Entries** (skills, feats, gear) carry a rarity tier from the ladder in §4 (Common through World), introduced organically, two to four per major arc, never as an upfront catalog dump. Scaling comes from higher tiers and better gear, not bigger numbers pasted onto the page.
+- **Codex Entries** (skills, feats, gear) carry a rarity tier from the ladder in §5 (Common through World), introduced organically, two to four per major arc, never as an upfront catalog dump. Scaling comes from higher tiers and better gear, not bigger numbers pasted onto the page.
 
-## 3. The Goblin Signature Mechanic: The Call of the Bones Necklace
+## 4. The Goblin Signature Mechanic: The Call of the Bones Necklace
 
 This merges the old draft's central goblin artifact with the Gambler mechanic, rather than inventing a second item. Shiv's Warset stays a 7-piece legendary set (see `bible/old-draft-chapter-bible.md`); the necklace remains piece 1 of 7.
 
-**Call of the Bones Necklace** — **World-tier** (purple) bound item, granted by Shiv during the "Call of the Bones" World Quest, the top of the rarity ladder (see §4), reserved for World Quest rewards. Its card lists everything it grants in one place, so the item and its abilities always visibly correspond: a small bonus to Fortune, negates the goblin INT penalty, unlocks the Shaman's Veil spirit-magic path, and unlocks **Gambler's Gambit**.
+**Call of the Bones Necklace** — **World-tier** (purple) bound item, granted by Shiv during the "Call of the Bones" World Quest, the top of the rarity ladder (see §5), reserved for World Quest rewards. Its card lists everything it grants in one place, so the item and its abilities always visibly correspond: a small bonus to Fortune, negates the goblin INT penalty, unlocks the Shaman's Veil spirit-magic path, and unlocks **Gambler's Gambit**.
 
 **Design rule:** the Gambit never hands Tatsuya a borrowed or generic effect. It only ever amplifies or redirects abilities that are already his. One activation per in-game day, "the bones only speak once before dawn," and he chooses the mode at the moment he invokes it:
 
@@ -42,7 +48,7 @@ Both modes draw on the same single daily charge; he can't use both in one day. T
 
 Goblin Gas, the Goblin Gas + fire = **Goblin Flare** combo, and Ancient Boneflame Barrage (with its toxin-effect bonus) stay exactly as established in the old draft, unaffected by this merge, they belong to the goblin/shaman kit generally, not specifically to the necklace, and are exactly the kind of ability the Gambit's Amplify mode is built to juice.
 
-## 4. The Deck-Building Layer
+## 5. The Deck-Building Layer
 
 Ties directly to Pillar 3 of the Writing Bible: a player's permanent, earned inventory functions as their deck, and what they bring into a competitive match matters as much as their class. Never named as its direct inspiration on the page, described functionally only.
 
@@ -65,7 +71,7 @@ In VR, the card is not the object. The item is real: worn, held, used physically
 - **Skills:** played for damage, buffs, direct effects, or to trigger a Gamble. Some require winning a Discipline or Fortune Challenge to land.
 - Competitive matches (see Writing Bible §7 for the 3v3/5v5 ruleset) are where the deck-building layer is most visible on the page: players bring their earned kit in alongside their base class, and world-level items are nerfed for balance but still matter.
 
-## 5. Preserved Mechanics From the Old Draft
+## 6. Preserved Mechanics From the Old Draft
 
 These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged there as worth keeping:
 
@@ -78,6 +84,6 @@ These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged t
 - **In-game time dilation** — time moves faster inside HGO than in the real world. Flagged as needing pacing care: any quest timer stated in-game (e.g., a three-day ultimatum) needs to be checked against how it lands against Tatsuya's real-world schedule before it's used in a chapter.
 - **Live streaming as an organic exposition tool** — chat reactions doing the work of flagging "this is unusual" on-screen, without narration or an announcer stating it outright. A deliberate craft technique, not just a mechanic, reuse it the same way.
 
-## 6. Open Flags
+## 7. Open Flags
 
 - The Prestige/ranking ladder numbers above are old-draft placeholders (Platinum 40K, Diamond 75K, Master 120K+). Confirm with Bobby before they appear on the page if a chapter needs Tatsuya's or a rival's rank stated explicitly.

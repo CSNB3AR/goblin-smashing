@@ -61,11 +61,12 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - Died under suspicious circumstances — closed casket funeral, never fully explained. Was in debt to the Tabuchis but refused to hand over the schematics despite pressure, even when it might have cleared the debt.
 - His decline was a slow cascade — working more and more hours, disappearing from the family's daily life — before the family was simply told there had been a funeral.
 - Tatsuya has never processed the closed casket. It sits as an open wound and an open question.
+- **The funeral itself was held and funded by the Tabuchis**, which is how Kazuto got a foothold. At the funeral, Kazuto personally approached Tatsuya, not Chiyo, framed as an offer to help ("do this for your father, it'll cover..."), about the old schematics/computer files specifically. Tatsuya refused any contact, in part because Eren had already betrayed him by that point and he wasn't about to trust anything Tabuchi-shaped. This is the origin of the two years of pressure that follow. **Only Tatsuya knows this.** Chiyo assumes the pressure is ordinary debt collection, she was never at that conversation and doesn't know the files are the real target. Keep this as Tatsuya's private knowledge, surfaced sparingly and never as a dumped flashback, not something other characters reference.
 
 ### Ohema Kazehaya (mother)
 - Ghanaian. Came to Japan as a refugee child and was taken in and raised by Chiyo.
 - Former all-star volleyball player at Tochi Academy, later became a volleyball instructor there.
-- Currently in a coma. Chiyo covers her hospital bills.
+- Currently in a coma, and it's not stable, it's at a real threshold. Without surgery soon, the prognosis is terminal. Chiyo covers her hospital bills, but the surgery itself is a harder number to reach. **This is Tatsuya's real, concrete driving motivation**, not an abstract desire to prove himself or get back at Eren. Any moment where money (prize pools, discounts, a shot at HGO) lands in front of him should tie back to her specifically.
 
 ### Momo and Taji (twins, younger siblings)
 - Momo: sharp wit, big emotions, obsessed with J-pop and HGO host Yuna (specifically Yuna's music and persona).
@@ -78,6 +79,7 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - Has real family financial backing and ties to the underworld — she is not powerless, she is choosing restraint to protect other tenants.
 - Her connection to Tochi (instructor position + Ohema's volleyball legacy + Daichi's tech legacy) is Tatsuya's real path back into the school.
 - **She is their grandmother, plainly.** Ohema calls Chiyo "mom" outright, no qualifier. Chiyo raised her as her own daughter, which makes her Tatsuya's, Momo's, and Taji's real grandmother in every way that matters, not biological, but real. Treat this as settled family language, not a delicate distinction the text needs to keep explaining.
+- **Future-chapter note (not for Chapter 1):** she's prepared to make the Tochi decision for him herself if he stalls much longer, framed explicitly as love and protection, not control, "you're my grandkid, I'm not going to let you or your siblings get hurt while you're stuck." She'll insist on carrying the adult weight herself (money, the Tabuchis) so he can actually focus on the decision in front of him. Not indifference at any point, a real ultimatum from someone who loves him.
 
 ## 6. Supporting Cast
 
@@ -85,6 +87,10 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - Owner/manager of the WattsUp charge station where Tatsuya works.
 - Dark skin, gray stubble, sharp eyes behind thick glasses. Gruff but warm underneath.
 - Got Tatsuya the job. Tatsuya has worked there roughly a year, since dropping out of Tochi.
+- **Energy: Sanford and Son, Redd Foxx.** Not corporate-minded at all, he just follows the sponsorship rule because it's the deal, doesn't need or offer a reason why. Funny in a worn-in, cantankerous way. He's the human explanation for why the screen plays what it plays, not a policy document.
+
+### Location: WattsUp
+Visual reference locked in (see uploaded station image): an old-school covered charge canopy at night, weathered but well-kept, not deserted. A tall pylon sign out front (repurposed for HGO ad rotation instead of fuel prices). String lights/pennants along the canopy edge. Three charge bays under the canopy, worn paint, functional. Attached to one side, a small convenience-store building with a lit window, a stone/rock facade accent, a counter inside where Tatsuya actually works the register, snacks and drinks, a small seating area. Open 24 hours. The whole place reads lived-in and a little tired, not glamorous, but running, the same energy as the family's whole situation. The overhead screen(s) showing HGO broadcasts live inside, at the counter, not bolted to the outdoor canopy.
 
 ### Eren Tabuchi (antagonist)
 - Son of the Tabuchi family, who back/manufacture the second-generation pods.
@@ -100,9 +106,11 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 
 ### Kazuto Tabuchi (Eren's father, head of the Tabuchi family)
 - Cold, controlling, the real source of the pressure Eren carries out on his behalf.
-- Since Daichi's death, has repeatedly tried to get close to Tatsuya directly, citing that he "helped" Daichi, dangling help with Ohema's medical situation as an incentive. A manipulative overture, not a genuine one, Chiyo clocked it immediately and told Tatsuya to stay away and cut off all contact.
-- Because there has been no contact, the debt pressure has escalated in its place over the last couple of years, Eren showing up to lean on Tatsuya is the visible edge of that.
-- The real target has always been Daichi's old schematics and paperwork (see §8, Tabuchi motivation). Tatsuya doesn't know why they want it specifically, he hasn't connected it to third-gen pod tech, he just knows the pressure keeps coming down to some version of "hand over your father's old paperwork, or pay everything he owed." This should read on the page as something he half-notices doesn't add up, never explained outright.
+- Approached Tatsuya personally at Daichi's funeral (which the Tabuchis held and funded) about the old schematics/computer files, framed as an offer to help. Tatsuya refused and cut off contact, partly because Eren had already betrayed him by then. See Daichi's entry in §5 for the full detail, this is Tatsuya's private knowledge, not Chiyo's.
+- Chiyo's own instinct to keep Tatsuya away from the Tabuchis is separate and simpler, they're the family collecting on a dead man's debt, reason enough on its own. She doesn't know about the funeral conversation or the files.
+- Because there has been no contact since the funeral, the debt pressure has escalated in its place over the last couple of years, Eren showing up to lean on Tatsuya is the visible edge of that.
+- The real target has always been Daichi's old schematics and paperwork (see §8, Tabuchi motivation). Tatsuya doesn't consciously connect this to third-gen pod tech, he just knows the demands keep circling back to his father's old paperwork specifically, never fully squaring with "just pay us." This should read on the page as something he half-notices doesn't add up, never explained outright.
+- **Mutual-grievance angle (background, later chapters):** the Tabuchis see Eren's betrayal of Tatsuya as having cost them a shot at the schematics too, if Eren hadn't burned the friendship, the families might have gotten there through the boys' relationship instead. Kazuto was reportedly frustrated with Eren over exactly this, from his side it reads as Daichi's family stealing from him twice over, once by refusing to sell, once by Eren's own stunt poisoning any future goodwill.
 - The Tabuchi family's second-generation pod business was originally bankrolled by yakuza money, laundered in through the family. Part of why they're under real financial pressure themselves and part of why the pressure on Tatsuya hasn't let up.
 
 ### Haruto Murayama
@@ -167,9 +175,9 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 ### Account / character / reset mechanics
 - One character per hard drive. Once a character is built on a drive, that's the character.
 - Resets ARE possible for most players, but the fee is massive, payable either in a large sum of in-game currency earned through play, or an equivalent real-world payment. Most players who want one simply can't afford it.
-- **Tatsuya's situation is unique:** his goblin character was created through an unauthorized override on a first-gen drive running unsupported software. There is NO reset option available for that drive at all, not expensive, not offered. He is permanently locked. This is the central mechanical hook of the entire story.
+- **Tatsuya's situation is unique:** his goblin character was created on a first-gen drive running unsupported software, reached only through his own override, no reset option was ever offered for that drive, not expensive, not available at all. He is permanently locked. This is the central mechanical hook of the entire story.
 - The green drive clipped to his belt is his physical HGO account. It can only be properly read and run on first-gen hardware, meaning the two pods at Leon's arcade are the only place on Earth he can currently play his own character.
-- **The goblin glitch:** caused by running HGO on a first-gen pod through an unstable override. Character registration couldn't complete cleanly and defaulted him into the goblin race, the weakest starting class in the game.
+- **The goblin glitch, mechanism:** the override itself, Tatsuya getting an incompatible first-gen pod to run HGO software at all, is a real, deliberate technical act, using the same tinkering instinct that keeps the Haya EB alive. What race he ended up on was not deliberate at all. Mid character-creation, browsing race options, he paused on goblin (weakest in the game, almost out of dry curiosity more than intent) right as the arcade's power blipped, the pod's internal battery pack is dead and it's been running on direct wall power only, and the reboot mid-selection locked in whatever he'd been paused on. A hardware accident, not a targeted hack. Leon scrambles to help when the power drops, at one point referencing or borrowing Arya's own headset while troubleshooting, the first hint in the story that she has private hardware of her own, separate from the arcade's failing gear. See `bible/game-system.md` for the character-creation rare-race-roll mechanic this interacts with.
 
 ### World structure
 - Currently one supercontinent, one kingdom, one royal family, with named regions spread across it.
@@ -197,7 +205,9 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 ### Esports structure (current cycle)
 - Winter Championship prize pool: 40 million yen (won by London Spire this cycle).
 - Winter Bash: December 25th, 3v3v3 solo queue, expansion characters only, 10 million yen prize pool, no pre-mades, everyone starts fresh.
-- Four-day tournament format. Kansai Black Lotus (Eren's team) was knocked out in qualifiers two days before the final.
+- Four-day tournament format, running into a "Championship Sunday" finale. This is the single biggest annual event on the calendar, not routine programming, HGO has poured more production resources into it than anything else it runs. Kansai Black Lotus (Eren's team) was knocked out in qualifiers two days before the final.
+- **Presentation:** a hybrid broadcast, a virtual arena inside HGO itself plus a real, sold-out physical venue where fans gather and the newest hardware (third-gen helmets) is on public display. Big spectacle, real crowds, not just a screen.
+- Alongside the Winter Championship, HGO runs a season-long **Pro League** and a lower **Contenders League** development tier. Background/ecosystem detail, not needed on the page unless a scene calls for it.
 - Pro teams and major guilds are already well-established by this point in the game's life.
 - **Qualifier structure:** pool play, three teams per pool, each pair plays twice, six matches total. Kansai Black Lotus lost all six, worst record in their pool, Dosuke AI's team fell at the quarterfinal stage. Arya's all-girls team also went 0-6 in the same qualifiers, but still reached Winter Championship, by winning a separate guild event rather than through competitive qualifying (she's an established guild leader, see her entry above). None of this needs to land on the page in Chapter 1, it's background for later.
 
@@ -213,7 +223,7 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 ### Tabuchi motivation
 Not just the outstanding debt. The Tabuchis believe Tatsuya has copies of the first-gen schematics, or something else of his father's that could let them fix their second-gen hardware and finally compete with Kazuku's third-gen tech. That's their real endgame. Tatsuya doesn't know this yet, he just notices the questions don't add up to only being about money.
 
-Since Daichi's death, Kazuto has repeatedly tried to get close to Tatsuya directly rather than just through debt collection, framed as help (citing his history with Daichi, dangling assistance with Ohema's medical situation), which Chiyo recognized immediately as manipulation and shut down, telling Tatsuya to stay away and cut off all contact. The debt pressure that shows up in scenes like Eren's WattsUp visits is what escalated in place of that direct contact, not a separate, simpler thread. Tatsuya doesn't consciously connect any of this to pod technology, he just knows the demands keep circling back to his father's old paperwork specifically, which never fully squares with "just pay us."
+Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. See §5 (Daichi) and Kazuto's entry in §6 for the full detail, this is Tatsuya's private knowledge, Chiyo doesn't know it. The debt pressure that shows up in scenes like Eren's WattsUp visits is what's escalated in place of that direct contact ever since. Tatsuya doesn't consciously connect any of this to pod technology, he just knows the demands keep circling back to his father's old paperwork specifically, which never fully squares with "just pay us."
 
 ### Real-world stakes — keep this simple, do not over-explain
 HGO generates enormous real money because in-game currency and items convert directly into real-world currency. Because of that money, the game has attracted real-world business interest, government interest, and criminal interest, everyone wants a piece of this new economic space, and no country wants to be left out of it. Criminal activity in the real world connects naturally to the open-world item-drop mechanic: steal valuable items via in-game death, launder or sell for real money.
@@ -224,6 +234,10 @@ HGO generates enormous real money because in-game currency and items convert dir
 
 ### Tochi Academy
 Major, prestigious Tokyo sports and academic school running from elementary through academy level. Tatsuya got in on genuine merit, he tested in, smart and tech-savvy like his father, reinforced by Daichi's tech infrastructure contributions to the school. He needs to go back: Tochi has the resources and curriculum required to maintain the first-gen pods long-term, and his path back runs through Chiyo's instructor position, Ohema's volleyball legacy, and Daichi's tech legacy. Yuna has also been at Tochi since elementary school.
+
+Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family-influence targeting students on campus, which is exactly why it's the one place in Japan the Tabuchis have no reach at all. Tatsuya was hazed there and chose not to report it, consistent with his instinct to absorb rather than escalate, even with real institutional backup available to him. He only completed about three months of his first year before his father's death and Eren's betrayal pushed him out entirely. Eren's team funding (see his entry in §6) traces back to the Tabuchis investing in a school esports program once second-gen pods opened HGO access, consistent with Tochi's existing pedigree in competitive sports (baseball, Ohema's volleyball) and tech (Daichi's infrastructure work), the school leans into being competitive at everything.
+
+**Open flag:** re-entry grade-level specifics are unresolved, whether Tatsuya would test back in at the same standing as Eren or ahead of him is genuinely unclear from current notes and doesn't need to be settled until a scene actually requires it.
 
 ## 9. Story Arc Structure
 
