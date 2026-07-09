@@ -25,30 +25,42 @@ Every creature, player character, and named NPC in Eryndal runs on the same six 
 - XP comes from quests, fights, exploration, and world events.
 - On level up: +1 to all five Disciplines (baseline growth), a handful of stat points to distribute (narrated through action: training, quests, "the bones warmed at his throat"), an Energy increase, and occasionally a new Codex Entry (skill or minor item) from class/race lists or story rewards.
 - **Racial/Class growth:** Goblins grow Fortune faster than other races (an extra point or two per level, or a bias in free stat points), consistent with the underdog/luck-based arc the goblin race already carries in the Writing Bible. Other races grow more balanced or lean into their own strengths.
-- **Codex Entries** (skills, feats, gear) have tiers, Bronze through Silver, Gold, and beyond as the story and levels advance. New entries are introduced organically, two to four per major arc, never as an upfront catalog dump. Scaling comes from higher tiers and better gear, not bigger numbers pasted onto the page.
+- **Codex Entries** (skills, feats, gear) carry a rarity tier from the ladder in §4 (Common through World), introduced organically, two to four per major arc, never as an upfront catalog dump. Scaling comes from higher tiers and better gear, not bigger numbers pasted onto the page.
 
 ## 3. The Goblin Signature Mechanic: The Call of the Bones Necklace
 
 This merges the old draft's central goblin artifact with the Gambler mechanic, rather than inventing a second item. Shiv's Warset stays a 7-piece legendary set (see `bible/old-draft-chapter-bible.md`); the necklace remains piece 1 of 7.
 
-**Call of the Bones Necklace** — legendary bound item, granted by Shiv during the "Call of the Bones" World Quest. In addition to its established effects (negates the goblin INT penalty, unlocks the Shaman's Veil spirit-magic path), it is the vessel for the goblin Gambler path: a small grant of bonus Fortune, and access to the necklace's Facets (three charges per in-game day, "the bones only whisper so much before dawn").
+**Call of the Bones Necklace** — **World-tier** (purple) bound item, granted by Shiv during the "Call of the Bones" World Quest, the top of the rarity ladder (see §4), reserved for World Quest rewards. Its card lists everything it grants in one place, so the item and its abilities always visibly correspond: a small bonus to Fortune, negates the goblin INT penalty, unlocks the Shaman's Veil spirit-magic path, and unlocks **Gambler's Gambit**.
 
-**Gambler's Gambit** (active skill, costs 1 Facet):
-- **Draw & Load** — loads a random temporary skill ("Codex Trick") into an open skill slot. Tier is determined by current Fortune and level (Bronze early, Silver mid, Gold+ later). Higher Fortune means a better tier or safer odds. The drawn skill is volatile for one round after loading.
-- **Save-if-hit / volatile phase** — if Tatsuya is targeted by an attack while the drawn skill is still volatile, he gets an immediate reaction Fortune Challenge to stabilize it:
-  - **Success** (especially high margin): the skill locks in for the rest of the encounter, sometimes empowered. *The bones held.*
-  - **Failure**: the skill fizzles, often with a minor self-debuff or small backfire. *The bones bit back.*
-- This is the core risk/reward tension of the goblin's signature mechanic: getting hit mid-gamble is dangerous, but surviving the hit while stabilizing the draw upgrades it.
+**Design rule:** the Gambit never hands Tatsuya a borrowed or generic effect. It only ever amplifies or redirects abilities that are already his. One activation per in-game day, "the bones only speak once before dawn," and he chooses the mode at the moment he invokes it:
 
-**Sample Bronze-tier draws** (early story, low Fortune/level — expand per tier as the story needs more): a minor self-debuff or backfire; a Speed/evasion buff; a bonus to the next attack; a temporary Wisdom buff or weakness-reveal; on a rare good roll, something stronger, a borrowed trick or a real stat swing.
+- **Amplify** (proactive) — he picks one of his own already-known abilities (Goblin Gas, Ancient Boneflame Barrage, a Shaman's Veil effect, and so on) and supercharges it for this use. Fortune determines how strong the amplification lands: a clean high roll is a real power spike, a weak roll is a partial or fizzled boost, but it is always his own move, just bigger.
+- **Reflect** (reactive, desperate) — when he's about to take a hit, he can gamble everything and try to turn the attack back on the attacker. Whether it lands clean or only partially connects, invoking it this way crashes his Energy down to 1 as the cost, a genuine last-resort button that leaves him on the brink either way. Fortune determines whether the reflect fully lands or only partially connects.
 
-Goblin Gas, the Goblin Gas + fire = **Goblin Flare** combo, and Ancient Boneflame Barrage (with its toxin-effect bonus) stay exactly as established in the old draft, unaffected by this merge, they belong to the goblin/shaman kit generally, not specifically to the necklace.
+Both modes draw on the same single daily charge; he can't use both in one day. This replaces any earlier notion of a shared random skill table entirely, the necklace's power is about what Tatsuya already has, not what he's handed.
+
+Goblin Gas, the Goblin Gas + fire = **Goblin Flare** combo, and Ancient Boneflame Barrage (with its toxin-effect bonus) stay exactly as established in the old draft, unaffected by this merge, they belong to the goblin/shaman kit generally, not specifically to the necklace, and are exactly the kind of ability the Gambit's Amplify mode is built to juice.
 
 ## 4. The Deck-Building Layer
 
 Ties directly to Pillar 3 of the Writing Bible: a player's permanent, earned inventory functions as their deck, and what they bring into a competitive match matters as much as their class. Never named as its direct inspiration on the page, described functionally only.
 
-- **Creature/Hero cards** (narrative shorthand, not literally shown to the reader as cards): name, race/class/path, the six Discipline+Energy stats, abilities (innate/activated/triggered), rarity tied to story progression.
+### Rarity ladder
+A single color-coded rarity scale used consistently for both skills and items, and doubling as the card border color in the menu presentation below:
+
+- **Common** — white/gray
+- **Uncommon** — green
+- **Rare** — blue
+- **Legendary** — gold
+- **World** — purple, reserved for World Quest rewards, globally unique, matches the Writing Bible's existing "world-level item" concept: nerfed for competitive balance, but still matters even in ranked play.
+
+### Presentation: cards and the blue box
+Equipped items and known skills appear in Tatsuya's menu/blue-box UI as cards: name, rarity-colored border, the stat bonuses it grants, and description text that explicitly names any ability it unlocks, so an item and the skill it grants always visibly correspond on the page rather than being left implied. That's the "deck" the reader can actually see.
+
+In VR, the card is not the object. The item is real: worn, held, used physically in the scene, the necklace's bones actually rattle at his throat, a blade is actually swung, Chaotic-TCG-style. The card is how the system represents the item to the player; it isn't what the item is in the world. Per the house style reminder above, don't menu-dump every card on the page, surface a card only when Tatsuya is actually checking his loadout or something changes.
+
+- **Creature/Hero cards** (narrative shorthand, not literally shown to the reader as cards for every NPC): name, race/class/path, the six Discipline+Energy stats, abilities (innate/activated/triggered), rarity from the ladder above.
 - **Battlegear / items:** equipped gear (the Call of the Bones Necklace, later Warset pieces, other earned items) grants stat bonuses and unlocks abilities. Limited equip slots keep loadouts meaningful.
 - **Skills:** played for damage, buffs, direct effects, or to trigger a Gamble. Some require winning a Discipline or Fortune Challenge to land.
 - Competitive matches (see Writing Bible §7 for the 3v3/5v5 ruleset) are where the deck-building layer is most visible on the page: players bring their earned kit in alongside their base class, and world-level items are nerfed for balance but still matter.
@@ -68,5 +80,4 @@ These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged t
 
 ## 6. Open Flags
 
-- Bronze/Silver/Gold Codex Trick tables are intentionally left thin here (a handful of samples only). Expand table entries only when a specific chapter needs a specific draw, no upfront full-table authoring.
 - The Prestige/ranking ladder numbers above are old-draft placeholders (Platinum 40K, Diamond 75K, Master 120K+). Confirm with Bobby before they appear on the page if a chapter needs Tatsuya's or a rival's rank stated explicitly.
