@@ -77,6 +77,7 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - Covers the family's rent and hospital bills. Big, broad-shouldered, silver braid.
 - Has real family financial backing and ties to the underworld — she is not powerless, she is choosing restraint to protect other tenants.
 - Her connection to Tochi (instructor position + Ohema's volleyball legacy + Daichi's tech legacy) is Tatsuya's real path back into the school.
+- **She is their grandmother, plainly.** Ohema calls Chiyo "mom" outright, no qualifier. Chiyo raised her as her own daughter, which makes her Tatsuya's, Momo's, and Taji's real grandmother in every way that matters, not biological, but real. Treat this as settled family language, not a delicate distinction the text needs to keep explaining.
 
 ## 6. Supporting Cast
 
@@ -97,6 +98,18 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - Eren now collects on the Tabuchi family debt as leverage over Tatsuya.
 - Physical signature: easy posture, entitlement where Tatsuya has calculation, voice drops into a lower register when he's trying to sound threatening.
 
+### Kazuto Tabuchi (Eren's father, head of the Tabuchi family)
+- Cold, controlling, the real source of the pressure Eren carries out on his behalf.
+- Since Daichi's death, has repeatedly tried to get close to Tatsuya directly, citing that he "helped" Daichi, dangling help with Ohema's medical situation as an incentive. A manipulative overture, not a genuine one, Chiyo clocked it immediately and told Tatsuya to stay away and cut off all contact.
+- Because there has been no contact, the debt pressure has escalated in its place over the last couple of years, Eren showing up to lean on Tatsuya is the visible edge of that.
+- The real target has always been Daichi's old schematics and paperwork (see §8, Tabuchi motivation). Tatsuya doesn't know why they want it specifically, he hasn't connected it to third-gen pod tech, he just knows the pressure keeps coming down to some version of "hand over your father's old paperwork, or pay everything he owed." This should read on the page as something he half-notices doesn't add up, never explained outright.
+- The Tabuchi family's second-generation pod business was originally bankrolled by yakuza money, laundered in through the family. Part of why they're under real financial pressure themselves and part of why the pressure on Tatsuya hasn't let up.
+
+### Haruto Murayama
+- Kansai Black Lotus's star tank and Rookie of the Year. Present alongside Eren from Chapter 1 onward, not a background customer.
+- Has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. Watches quietly, a flicker of dawning respect rather than anything stated outright.
+- Later in the story (see `bible/old-draft-chapter-bible.md` for the preserved beats), this respect eventually leads him to quit the team publicly over Eren's leadership and the stolen-build history. Any content reaching the reader from that arc needs to come through Tatsuya's own observation or secondhand knowledge, not a POV break.
+
 ### Leon
 - Owner of Sakura Arcade. Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
 - Has TWO first-gen Kazuhaya Tech pods, the only ones still running in the area.
@@ -108,10 +121,14 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - That's what sparks her curiosity. She researches Tatsuya independently and watches his gameplay footage before ever approaching him directly.
 - She's been playing competitively for years — she has no reason to casually team up with a stranger, so her eventual approach must be earned and specific, not casual.
 
+### Dosuke AI (pro scene reference)
+- Top HGO pro player, Taji's favorite. His build resembles the original concept Tatsuya and Eren theorized together back at Tochi, which Tatsuya notices and says nothing about.
+- His team was knocked out at the quarterfinal stage of this cycle's qualifiers.
+
 ### Kazuku
 - Owner of Hero's Glory Online, publicly known only as a billionaire bear mascot figure. Real identity hidden.
 - Business partner of Daichi Kazehaya. Received the original schematics and used them to build the third-generation pods that run HGO.
-- Made a promise to Daichi to look after Tatsuya. "Bring your business here" is partly directed at Tatsuya specifically, though Tatsuya has no idea yet.
+- Made a promise to Daichi to look after Tatsuya. "Bring your business here" is primarily public marketing, an open invitation for players and businesses to build a livelihood inside HGO (Yuna is cited in-world as a success-story precedent for what's possible), but it also carries a second, hidden meaning aimed at Tatsuya specifically. Tatsuya has no idea yet, and the reader is never told outright either, this stays implied.
 - Company: Nexus Enterprises.
 
 ### Yuna / Yunaile
@@ -133,14 +150,19 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 **World name: Eryndal** (never use "Eldora").
 
 ### Pod technology hierarchy
-- **First-gen pods (Kazuhaya Tech originals):** the strongest hardware, built on Daichi's original schematics. Can run HGO through a manual override/hack because third-gen architecture descends from first-gen DNA. Will overheat and degrade running a game they were never officially built for. Leon has the only two still running in the area.
-- **Second-gen pods (Tabuchi-backed):** manufactured by the Tabuchi family, made WITHOUT the true schematics (Daichi refused to sell to them). Real lag issues, no buffs or perks, inferior performance because the underlying architecture is incomplete.
-- **Third-gen pods (Kazuku / Nexus Enterprises):** the official top-tier hardware, built on Daichi's schematics. Standard HGO hardware today.
+Two distinct hardware form factors, not just three tiers of the same thing:
+
+- **First-gen pods (Kazuhaya Tech originals):** full-body immersion pods, the "metal coffin" style, built on Daichi's original schematics. Predate HGO. Third-gen architecture descends from first-gen DNA, which is why a manual override/hack can run HGO on one at all, but doing so causes real lag and degradation, hardware never built for the game it's now being asked to run. Leon has the only two still running in the area.
+- **Second-gen pods (Tabuchi-backed):** also full-body "metal coffin" pods, made WITHOUT the true schematics (Daichi refused to sell them). Predate HGO entirely, originally built for other VR games before HGO existed. Only became HGO-compatible after the third-gen exclusivity window closed, and the lag is real: hardware that was never designed for this specific game, running it anyway. Funded, going back to the family's early days in VR hardware, by yakuza money laundered in through the Tabuchis, part of why the family is under real financial pressure of its own.
+- **Third-gen hardware (Kazuku / Nexus Enterprises):** not a pod at all, a **helmet**. Launched together with HGO specifically, and deliberately, because it's broadcast and arena-friendly: a seated player in a helmet reads on camera and in a live stadium far better than someone lying motionless in a coffin-shaped pod. Still fully nerve-synced, real sensation, real damage feedback (magnified but capped, see the pass-out limit below), just without the bulk. Standard, official HGO hardware today.
 
 ### Exclusivity timeline
-- HGO launched exclusively on third-gen pods only for the first 6 months.
-- After that window, second-gen pods were permitted to connect, but with degraded performance, real business pressure on the Tabuchis to solve their hardware gap or lose the market.
-- Once third-gen pods became more affordable, internet cafes running second-gen hardware could pay Nexus Enterprises a fee to exchange/upgrade to third-gen. Most major cafes took the deal, which pushed second-gen hardware out of most of the Japanese market, a real financial wound to the Tabuchis and part of what's driving their pressure on Tatsuya.
+- HGO launched exclusively on third-gen helmets only for the first 6 months, the only hardware built for the game from day one.
+- After that window, second-gen pods were permitted to connect, but with real lag, hardware built for other VR titles pressed into service for a game it was never designed to run, real business pressure on the Tabuchis to solve their hardware gap or lose the market.
+- Once third-gen drives and helmets became more affordable, internet cafes running second-gen pods could pay Nexus Enterprises a fee to exchange/upgrade to third-gen. Most major cafes took the deal, which pushed second-gen hardware out of most of the Japanese market, a real financial wound to the Tabuchis and part of what's driving their pressure on Tatsuya.
+
+### Damage and the pass-out limit
+Full sensation and real damage feedback across all hardware generations, magnified for drama but capped for safety. Taking enough damage in a fight causes a pass-out, which appears to carry its own real-world penalty, several days locked out of the game. **Open flag:** how this pass-out penalty relates to the seven-day death lock already established for actual character death (see `bible/old-draft-chapter-bible.md`, preserved mechanics) needs confirmation before either one gets dramatized on the page, they may be two distinct tiers (pass out vs. true death) or the same mechanic described two different ways.
 
 ### Account / character / reset mechanics
 - One character per hard drive. Once a character is built on a drive, that's the character.
@@ -177,6 +199,7 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - Winter Bash: December 25th, 3v3v3 solo queue, expansion characters only, 10 million yen prize pool, no pre-mades, everyone starts fresh.
 - Four-day tournament format. Kansai Black Lotus (Eren's team) was knocked out in qualifiers two days before the final.
 - Pro teams and major guilds are already well-established by this point in the game's life.
+- **Qualifier structure:** pool play, three teams per pool, each pair plays twice, six matches total. Kansai Black Lotus lost all six, worst record in their pool, Dosuke AI's team fell at the quarterfinal stage. Arya's all-girls team also went 0-6 in the same qualifiers, but still reached Winter Championship, by winning a separate guild event rather than through competitive qualifying (she's an established guild leader, see her entry above). None of this needs to land on the page in Chapter 1, it's background for later.
 
 ### Timeline
 - HGO has been live roughly two years.
@@ -190,10 +213,14 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 ### Tabuchi motivation
 Not just the outstanding debt. The Tabuchis believe Tatsuya has copies of the first-gen schematics, or something else of his father's that could let them fix their second-gen hardware and finally compete with Kazuku's third-gen tech. That's their real endgame. Tatsuya doesn't know this yet, he just notices the questions don't add up to only being about money.
 
+Since Daichi's death, Kazuto has repeatedly tried to get close to Tatsuya directly rather than just through debt collection, framed as help (citing his history with Daichi, dangling assistance with Ohema's medical situation), which Chiyo recognized immediately as manipulation and shut down, telling Tatsuya to stay away and cut off all contact. The debt pressure that shows up in scenes like Eren's WattsUp visits is what escalated in place of that direct contact, not a separate, simpler thread. Tatsuya doesn't consciously connect any of this to pod technology, he just knows the demands keep circling back to his father's old paperwork specifically, which never fully squares with "just pay us."
+
 ### Real-world stakes — keep this simple, do not over-explain
 HGO generates enormous real money because in-game currency and items convert directly into real-world currency. Because of that money, the game has attracted real-world business interest, government interest, and criminal interest, everyone wants a piece of this new economic space, and no country wants to be left out of it. Criminal activity in the real world connects naturally to the open-world item-drop mechanic: steal valuable items via in-game death, launder or sell for real money.
 
 **Do not** invent specific real-world resource-acquisition mechanics (no oil rigs, no doomsday market-collapse scenarios, no explicit geopolitical thriller machinery). Keep the real-world impact implied and atmospheric rather than mechanically explained. The story stays esports/guild/economy-focused at its core, not a geopolitical thriller.
+
+**Background mechanics (bible-only, for internal consistency, not for direct page use):** the laundering works through black-market merchants who convert illicit real-world cash into in-game value and back out again, functionally untraceable once it's passed through. HGO's internal privacy protections mean even outside enforcement (think a UN- or NATO-style unified body, never named that specifically on the page) can't easily reach in without agents operating inside the game world's own rules. This stays exactly as vague and atmospheric in the actual prose as the paragraph above already specifies, it exists here only so nothing contradicts itself later.
 
 ### Tochi Academy
 Major, prestigious Tokyo sports and academic school running from elementary through academy level. Tatsuya got in on genuine merit, he tested in, smart and tech-savvy like his father, reinforced by Daichi's tech infrastructure contributions to the school. He needs to go back: Tochi has the resources and curriculum required to maintain the first-gen pods long-term, and his path back runs through Chiyo's instructor position, Ohema's volleyball legacy, and Daichi's tech legacy. Yuna has also been at Tochi since elementary school.

@@ -7,7 +7,7 @@ This is the confirmed beat-by-beat plan for the opening stretch of the redraft, 
 Three restructuring decisions drive this pass:
 
 1. **Compress the "find a pod" search.** The old draft spent a full chapter (old Chapter 3) on Tatsuya physically riding his moped from cafe to cafe across Tokyo looking for an open VR pod slot, only landing on Sakura Arcade as a last resort. The new direction moves the *search* online and compresses it to a single paragraph inside Chapter 2, keeping the Haya EB for exactly one deliberate trip: Sakura Arcade.
-2. **Get him into the game early, and keep the real-world half of Chapter 2 trimmed hard.** Momentum matters more than thoroughness here: too long a real-world wait before login kills the pull into the game. Chapter 2's ride home, family beat, and pod search are all compressed so login lands around the chapter's midpoint, not its final page, leaving real room for the first camp scene to actually breathe.
+2. **Get him into the game early, and keep the real-world half of Chapter 2 trimmed hard.** Momentum matters more than thoroughness here: too long a real-world wait before login kills the pull into the game. The ride home closes out Chapter 1; Chapter 2's next-morning beat, family moment, and pod search are all compressed so login lands around the chapter's midpoint, not its final page, leaving real room for the first camp scene to actually breathe.
 3. **Don't log him out the instant he gets the ultimatum.** The old draft has Tatsuya/Kaiseki get Sevish's three-day ultimatum and essentially leave the game world immediately after. The new direction wants him to live in camp for a stretch first, texture, a taste of goblin culture, the buildup toward accepting the "Call of the Bones" World Quest, before he chooses to log out. When he logs back in, that's when the "chained up" beat lands: held by Sevish's own camp as a suspected outsider during the proving trial, not an external captor. That tension is now something he returns to, not something he immediately flees.
 
 ## Chapter 1 — WattsUp Shift (~2,000-2,500 words)
@@ -16,17 +16,17 @@ Three restructuring decisions drive this pass:
 
 **Broadcast beat:** as the Winter Championship wraps, Kazuku (the bear mascot) takes the broadcast, announces the Crystal League expansion, and follows it with a limited-time discount on HGO drives, a hardware promotion clearly meant to pull new players into the new content. This is the concrete spark: Tatsuya doesn't have any other realistic path in, so a discounted drive reads as his one shot.
 
-**Eren beat:** Eren arrives (with driver/retainer) to charge his car, wearing his Kansai Black Lotus team jacket. Seeing it lands two ways at once, anger at Eren and the stolen build, and a spike of motivation, a physical reminder that this world is still open and Tatsuya still wants in. Eren leans on him over the family debt in front of a customer. Tatsuya absorbs it rather than escalates, consistent with his established behavioral signature.
+**Eren beat:** Eren arrives (with driver, and Haruto Murayama, his own teammate, not a random customer) to charge his car, wearing his Kansai Black Lotus team jacket. Seeing it lands two ways at once, anger at Eren and the stolen build, and a spike of motivation, a physical reminder that this world is still open and Tatsuya still wants in. Eren leans on him over the family debt in front of Haruto. Tatsuya absorbs it rather than escalates, consistent with his established behavioral signature, this is not a comeback or a clapback, it's one-sided and it stings. Haruto, who's heard Eren needle Tatsuya before, gets a small, quiet beat of dawning respect, not a speech. The Tabuchi pressure should register as not fully adding up to just money (see Writing Bible §8), without explaining why.
 
-**Chapter ends** on Tatsuya's decision: he commits nearly his last yen to a discounted drive. Ends on the decision, not a bow, per Writing Bible §10.
+**Chapter ends** on Tatsuya's decision: he commits nearly his last yen to a discounted drive, then the ride home on the Haya EB closes the chapter, atmospheric, sparing, a specific unnamed song playing, a natural, invisible plant for Yuna per Writing Bible §6. Ends on that note, not a bow, per Writing Bible §10.
 
 ## Chapter 2 — Into the Game (~2,000-2,500 words)
 
-**Real-world half is trimmed hard, roughly the first third of the chapter, so login lands early rather than near the end.** The point of this chapter is momentum into the game; don't let the real-world setup outweigh the payoff.
+**Opens the next morning**, not with the ride home (that now belongs to the end of Chapter 1). Taji is already going on about people buying keys and the supercontinent, and mentions Dosuke AI's build and his quarterfinal exit. Tatsuya recognizes the build's resemblance to the concept he and Eren once theorized together, says nothing, Taji has no idea his older brother knows anything about HGO at all.
 
-**Ride home:** a short atmospheric beat on the Haya EB through Tokyo, a paragraph or two, not a scene. Texture, not travelogue.
+**Real-world half stays trimmed hard from there**, roughly the first third of the chapter, so login lands early rather than near the end. The point of this chapter is momentum into the game; don't let the real-world setup outweigh the payoff.
 
-**Home:** Chiyo, Momo, and Taji, compressed to a quick, warm beat, not a full domestic scene. Enough to land the family grounding and any necessary plot info (Tochi deadline, Tabuchi pressure) without slowing the chapter down.
+**Home:** Chiyo, Momo, and Taji, compressed to a quick, warm beat, not a full domestic scene beyond the Taji/Dosuke AI opener above. Enough to land the family grounding and any necessary plot info (Tochi deadline, Tabuchi pressure) without slowing the chapter down.
 
 **The search, compressed:** a paragraph, not a chapter. Bookings come back empty, every third-gen cafe in Tokyo booked solid off Winter Bash hype, second-gen not worth the lag. A pod of his own is flatly out of the question on his money. Sakura Arcade becomes his one real option, and he goes, immediately, no tour.
 
