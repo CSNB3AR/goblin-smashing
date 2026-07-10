@@ -33,7 +33,7 @@ Esports is the visible, spectator-friendly PvP layer sitting on top of a much bi
 ### Tatsuya Kazehaya
 - Age 18. Ghanaian and Japanese (father Japanese, mother Ghanaian).
 - Dark brown skin, black hair in wild locs, scar over right brow from a childhood car accident.
-- 188cm (6'2"). Lean, tall build.
+- 188cm (6'2"). Lean, tall build. **The height is from Ohema** (a former volleyball player, see her entry below), not Daichi, who was the shorter of his two parents. His technical aptitude and analytical mind trace to Daichi instead.
 - Username: **TDRAG**.
 - Current personality: hype, competitive, smartass, deep game IQ, deflects pain through humor and calculation. Built off Marcus Carter ("Miracle") and Scump energy — hype but always respectful of real skill, understands mechanics deeply.
 - **Character arc note (important):** He was NOT always like this. As a kid, and going into Tochi Academy, he was shy, isolated, had no friends. The loud, hype, deflecting personality is armor built after his father's death and the Eren betrayal — a transformation, not a static trait. This should inform flashback material and any scenes showing his younger self.
@@ -54,6 +54,7 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 ## 5. Family
 
 ### Daichi Kazehaya (father, deceased)
+- Short, the shorter of Tatsuya's two parents, Tatsuya's height comes from Ohema, not him. What he passed down instead was the analytical, technical mind, the tinkering instinct that keeps the Haya EB running and later gets a first-gen pod overridden.
 - First-gen pod engineer. Company: Kazuhaya Tech (logo still visible on surviving pods).
 - Helped build tech infrastructure at Tochi Academy — part of the family's standing there.
 - Sold the original first-gen pod schematics to Kazuku (NOT the Tabuchis) before his death, to pay for Ohema's emergency hospital bills. Trusted Kazuku as a genuine business partner.
@@ -65,7 +66,7 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 
 ### Ohema Kazehaya (mother)
 - Ghanaian. Came to Japan as a refugee child and was taken in and raised by Chiyo.
-- Former all-star volleyball player at Tochi Academy, later became a volleyball instructor there.
+- Former all-star volleyball player at Tochi Academy, later became a volleyball instructor there. Tall, the taller of Tatsuya's two parents, his height is hers.
 - Currently in a coma, and it's not stable, it's at a real threshold. Without surgery soon, the prognosis is terminal. Chiyo covers her hospital bills, but the surgery itself is a harder number to reach. **This is Tatsuya's real, concrete driving motivation**, not an abstract desire to prove himself or get back at Eren. Any moment where money (prize pools, discounts, a shot at HGO) lands in front of him should tie back to her specifically.
 
 ### Momo and Taji (twins, younger siblings)
@@ -129,6 +130,8 @@ Visual reference locked in: a green-covered modern building, several stories, wa
 ### Haruto Murayama
 - **Visual reference (locked):** white hair, blue eyes, lean athletic build, casual/athleisure look off the clock, an earring. Reads more like a quiet pro than muscle, consistent with skill over size.
 - Kansai Black Lotus's star tank and Rookie of the Year. Present alongside Eren from Chapter 1 onward, not a background customer.
+- Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see the ranking-ladder note in §7), but carries a real pro marker on his profile from actually qualifying into tournaments, a clean example of how ladder rank and pro status are related but distinct.
+- Frustrated with Eren over Kansai Black Lotus's early bump-out this cycle. Will end up leaving the team around the Winter Bash timing, especially with the format shift.
 - Has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. Watches quietly, a flicker of dawning respect rather than anything stated outright.
 - Later in the story (see `bible/old-draft-chapter-bible.md` for the preserved beats), this respect eventually leads him to quit the team publicly over Eren's leadership and the stolen-build history. Any content reaching the reader from that arc needs to come through Tatsuya's own observation or secondhand knowledge, not a POV break.
 
@@ -142,6 +145,8 @@ Visual reference locked in: a green-covered modern building, several stories, wa
 - She notices patterns first: Leon's business changing, an active VR presence around the arcade, being turned down herself a few times when she wanted to use the pods.
 - That's what sparks her curiosity. She researches Tatsuya independently and watches his gameplay footage before ever approaching him directly.
 - She's been playing competitively for years — she has no reason to casually team up with a stranger, so her eventual approach must be earned and specific, not casual.
+- **Guild backstory (background, later chapters):** her all-girls guild disbanded after a real falling-out among the members. Most of them left with the two girls who split off to found their own group, leaving Arya's own crew small heading into the Crystal League expansion. Part of why she's genuinely available when the Winter Bash's random-teammate mechanic pairs her with Tatsuya, not just narrative convenience.
+- **Loop payoff (Chapter 2+, background only):** once Tatsuya is actually playing, Arya records and posts footage of his early gameplay to Loop (see the world/technology section in §7), which is how his reputation starts spreading, under a tagline worth locking in now, **"Nobody roots for the Goblin,"** his own haters-to-fans pipeline origin.
 
 ### Dosuke AI (pro scene reference)
 - Top HGO pro player, Taji's favorite. His build resembles the original concept Tatsuya and Eren theorized together back at Tochi, which Tatsuya notices and says nothing about.
@@ -212,20 +217,22 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 **Myrrhwood advantage:** most players treat Myrrhwood zones as low-value or neutral territory. They are not. Goblin clan players get above-average advantages there that opponents consistently underestimate. Tatsuya discovers and exploits this later in the story, it becomes a real weapon precisely because nobody respects it.
 
 ### Competitive PvP format (distinct ruleset from open-world PvP)
-- Currently 3v3, transitioning to 5v5 with the Crystal League expansion.
+- **Currently 3v3** (this is the format of tonight's World Championship broadcast in Chapter 1, hybrid builds required since 3-player comps can't cover every role, which is exactly why Eren's stolen build was built to be a jack-of-all-trades). **Transitioning to 5v5 with the Crystal League expansion**, announced tonight, taking effect going forward, not retroactive to tonight's match. Five-player comps open room for real specialist roles instead of forced hybrids, directly setting up Tatsuya's own eventual non-healer support role once he's actually playing.
 - Control / King-of-the-Hill style, hold zones to build score, drain the enemy team's shared life pool.
-- Win condition: first team to 200 points, OR the opposing team runs out of their shared 30 team lives (individual deaths draw from the shared pool, one player dying 15 times costs the whole team 15 of their 30 lives).
+- Win condition (3v3, current): first team to 200 points, OR the opposing team runs out of their shared 30 team lives (individual deaths draw from the shared pool, one player dying 15 times costs the whole team 15 of their 30 lives).
 - Players bring their permanently-earned items and gear into these matches alongside their base class, the deck-building layer. World-level items are nerfed for competitive balance but still matter.
+- **Character lock, new with the Crystal League expansion:** every existing character freezes at its current level once the expansion launches. Players can keep playing a capped character as-is, or retire it for Legacy Points, spent in an expanded Legacy Shop for gear, or exchanged for real/in-game money. Most players use the Legacy Shop route to gear up a new character rather than cashing out. A real incentive for established veteran players to effectively restart alongside newcomers like Tatsuya, this is why the expansion is a genuine leveling of the field, not just new map content.
+- **1v1 Open Ladder:** separate from the 3v3/5v5 team format, anyone can enter, leaderboard resets each season, top 100 earns pro tryouts, rare gear, and media coverage. A plausible early on-ramp for a player with no team yet.
 
 ### Esports structure (current cycle)
-- Winter Championship prize pool: 40 million yen (won by London Spire this cycle).
-- Winter Bash: December 25th, 3v3v3 solo queue, expansion characters only, 10 million yen prize pool, no pre-mades, everyone starts fresh.
+- **World Championship** prize pool: 40 million yen (won by London Spire this cycle). Sometimes called the World Circuit finals, the season-long regional-to-national qualifying structure (the "World Circuit") feeds into this single flagship event, not a competing name for the same thing.
+- **Winter Bash:** December 25th, **3v3 duo-queue** (a pre-formed partner plus one randomly assigned teammate who stays for the entire tournament), **new post-reset characters only**, old locked characters cannot enter. It's the debut event for characters built under the Crystal League expansion, 10 million yen prize pool. This random-teammate mechanic is what eventually puts Arya and Tatsuya on the same team.
 - Four-day tournament format, running into a "Championship Sunday" finale. This is the single biggest annual event on the calendar, not routine programming, HGO has poured more production resources into it than anything else it runs. Kansai Black Lotus (Eren's team) was knocked out in qualifiers two days before the final.
 - **Presentation:** a hybrid broadcast, a virtual arena inside HGO itself plus a real, sold-out physical venue where fans gather and the newest hardware (third-gen helmets) is on public display. Big spectacle, real crowds, not just a screen.
-- **Host location:** a major neutral international hub, Singapore. This is HGO's biggest global event, sometimes just called the world championship, teams qualify in from regions worldwide (Japan, NA, UK, China, and others), background color like a UK squad eliminating a Chinese team along the way is available texture, not required on the page.
-- Alongside the Winter Championship, HGO runs a season-long **Pro League** and a lower **Contenders League** development tier. Background/ecosystem detail, not needed on the page unless a scene calls for it.
+- **Host location:** Singapore, a major neutral international hub, clearly distant and foreign from Tatsuya's own Tokyo, not just "the city." Teams qualify in from regions worldwide (Japan, NA, UK, China, and others), background color like a UK squad eliminating a Chinese team along the way is available texture, not required on the page. **Kazuku's avatar presence at the physical venue is grounded by Singapore's own real-world reputation for advanced projection/holographic CG technology,** which is how his virtual avatar gets a physical stadium presence without ever revealing his true identity.
+- Alongside the World Championship, HGO runs a season-long **Pro League** and a lower **Contenders League** development tier. Background/ecosystem detail, not needed on the page unless a scene calls for it.
 - Pro teams and major guilds are already well-established by this point in the game's life.
-- **Qualifier structure:** pool play, three teams per pool, each pair plays twice, six matches total. Kansai Black Lotus lost all six, worst record in their pool, Dosuke AI's team fell at the quarterfinal stage. Arya's all-girls team also went 0-6 in the same qualifiers, but still reached Winter Championship, by winning a separate guild event rather than through competitive qualifying (she's an established guild leader, see her entry above). None of this needs to land on the page in Chapter 1, it's background for later.
+- **Qualifier structure:** pool play, three teams per pool, each pair plays twice, six matches total. Kansai Black Lotus lost all six, worst record in their pool, Dosuke AI's team fell at the quarterfinal stage. Arya's all-girls team also went 0-6 in the same qualifiers, but still reached the World Championship, by winning a separate guild event rather than through competitive qualifying (she's an established guild leader, see her entry above). None of this needs to land on the page in Chapter 1, it's background for later.
 
 ### Timeline
 - HGO has been live roughly two years.
@@ -243,6 +250,12 @@ Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, frame
 
 ### Real-world stakes — keep this simple, do not over-explain
 HGO generates enormous real money because in-game currency and items convert directly into real-world currency. Because of that money, the game has attracted real-world business interest, government interest, and criminal interest, everyone wants a piece of this new economic space, and no country wants to be left out of it. Criminal activity in the real world connects naturally to the open-world item-drop mechanic: steal valuable items via in-game death, launder or sell for real money.
+
+**Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering tonight's World Championship (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. Belongs in Chapter 2's already-outlined "next morning" opener.
+
+### Named apps
+- **Loop** — the social-media app where HGO engagement, clips, and reactions live, a Twitter-equivalent. Ties forward to Arya's later footage-posting beat (see her entry in §6).
+- **HGO Companion App** — the official read-only info app: livestreams, VODs, news, a forum/Reddit-equivalent space. Not used for actual gameplay, informational only.
 
 **Do not** invent specific real-world resource-acquisition mechanics (no oil rigs, no doomsday market-collapse scenarios, no explicit geopolitical thriller machinery). Keep the real-world impact implied and atmospheric rather than mechanically explained. The story stays esports/guild/economy-focused at its core, not a geopolitical thriller.
 

@@ -25,6 +25,9 @@ At creation, every playable race has a chance to roll into a rare, upgraded vari
 
 This is the mechanic Tatsuya's goblin lock interacts with and subverts (see Writing Bible §7, "The goblin glitch, mechanism," for the full scene-level detail): he was mid-selection, browsing race options on an overridden first-gen pod, when the arcade's power blipped and the pod rebooted mid-choice, locking in whatever he'd paused on. No roll ever happened. He didn't get a rare variant, he didn't even get a normal, deliberate pick, he got goblin, the weakest race in the game, by hardware accident. The irony is the point: the one system built to hand players a lucky break at creation is exactly the system that failed him.
 
+### Playable races
+The full list a player browses at creation, curated down from an older, larger world-brainstorm document, trimmed to what actually serves the story: **Human, Elf, Orc, Beastfolk, Goblin, Dwarf, Frostborn, Drakekin** (rarer and harder to unlock, not tied to a starting zone, more of an endgame/achievement race). Each of the first six has a home zone in Eryndal (see Writing Bible §7, World regions): Human/Lunarest, Frostborn and Dwarf/Valefrost, Beastfolk and Goblin/Myrrhwood, Orc/Sunmarch, Elf/Azure Expanse. No Undead race, deliberately cut from the older brainstorm, doesn't serve this story.
+
 ## 3. Leveling & Progression
 
 - Level starts at 1 (or backstory-appropriate).
@@ -52,6 +55,9 @@ Goblin Gas, the Goblin Gas + fire = **Goblin Flare** combo, and Ancient Boneflam
 
 Ties directly to Pillar 3 of the Writing Bible: a player's permanent, earned inventory functions as their deck, and what they bring into a competitive match matters as much as their class. Never named as its direct inspiration on the page, described functionally only.
 
+### Base classes / build paths
+Background texture, world-building rather than something Tatsuya gets boxed into, his goblin kit (Physical Arts, Shaman's Veil, the Call of the Bones Necklace) stays its own thing. What other players and pro teams draw from: **Spellforger** (mage, elemental burst/crowd control), **Ironbreaker** (tank, shield and taunt), **Shadowveil** (rogue/assassin, stealth and crits), **Windrider** (archer/hunter, ranged DPS and pets), **Warden** (support/cleric, healing and buffs), **Wildcaller** (summoner/druid, beast summons and terrain control), **Berserker** (melee DPS, rage and cleave), and **Hybrid/Custom** (gear-driven multi-classing, consistent with the deck-building pillar, meta-breaking off-builds live here).
+
 ### Rarity ladder
 A single color-coded rarity scale used consistently for both skills and items, and doubling as the card border color in the menu presentation below:
 
@@ -71,19 +77,40 @@ In VR, the card is not the object. The item is real: worn, held, used physically
 - **Skills:** played for damage, buffs, direct effects, or to trigger a Gamble. Some require winning a Discipline or Fortune Challenge to land.
 - Competitive matches (see Writing Bible §7 for the 3v3/5v5 ruleset) are where the deck-building layer is most visible on the page: players bring their earned kit in alongside their base class, and world-level items are nerfed for balance but still matter.
 
-## 6. Preserved Mechanics From the Old Draft
+## 6. World & Economy
+
+### Player-owned territory
+Inspired internally by Albion Online / Black Desert Online, not named on the page. The Crystal League expansion's five continents are carved into territories and zones under the single supercontinent's kingdom structure (see Writing Bible §7, World structure). Players and guilds can build, own, and tax craft houses, shops, and event venues, and pay leases/upkeep to keep them running. Alliances and kingdoms form naturally, new or casual players who don't know better yet default to whatever's already established and public rather than shopping around, which is exactly what makes early player-owned infrastructure genuinely profitable. Owning territory is passive income: shops, rental stalls, training dojos, all buildable and upgradeable for profit. Real-world tie-in: top teams/guilds/soloists sign sponsorships and ad space, server-firsts make headlines and lead to scholarships, brand deals, and national-team invitations.
+
+### Living-world NPCs, a real mechanic
+NPCs are AI-driven and read as genuinely alive on the page, not scripted set dressing. A simple on-screen tag/nameplate lets a player tell an NPC from another player at a glance, that doesn't make NPCs trivial to deal with. Their favor is earned, not given, and their anger has real consequences: mistreat a region's people, act like a dictator toward them, and the world's own people can turn on a player for real, organizing, attacking, pushing them out. This extends the Karma/Alignment system below (currently player-kill-triggered only) to cover NPC relations too. There are still-unexplored areas of the supercontinent even this deep into the game's life, and being first to reach or clear one, a "server first," is a real, ongoing path to gear and deck-building items, the same prestige loop as World Boss Raids. NPCs also generate real economic activity of their own: they buy from player-owned shops too, not just other players, which is what makes the player-driven economy read as self-sustaining rather than a closed loop between players alone.
+
+### Tournament & competition structure
+Beyond the World Championship and Winter Bash (Writing Bible §7, Esports structure) and the 1v1 Open Ladder (Writing Bible §7, Competitive PvP format): **GvG (Guild vs. Guild) Wars**, seasonal, guild-scale fights for city/territory control, winning guilds can tax and set rules for their zones. **World Boss Raids / Server Firsts**, PvE guilds race to clear new content, first clear earns a cash prize, exclusive loot, and a permanent mark on server history. **Streamer/Influencer events**, sponsored "all-star" or meme-build exhibition weeks, PR-driven. **National/City Championships**, country- or city-branded teams backed by real sponsors and governments, think an eWorld-Cup-meets-metaverse-Olympics framing, top players can be drafted, traded, or signed to multi-year contracts.
+
+### Pro teams and guilds (background roster, for future-chapter use)
+Regional pro team texture, cross-consistent with what's already on the page (Kansai Black Lotus, London Spire): Japan also fields Tokyo Ronin, Sendai ArcStars, Kyoto Kitsune, and Osaka Blue Nova. Korea fields Seoul Thunderstrike and Busan Bladewalkers. China fields Shanghai Dawnbringers and Beijing Jade Guard. NA fields LA Titans, NY Specters, and Dallas Oathkeepers. Europe fields Berlin Silver Wolves and Paris Dream, alongside London Spire. SEA fields Manila Pulse and Bangkok Aegis.
+
+Notable guilds, background texture: Shadowspire (rogue/assassin, PvP-focused), Arcane Sanctuary (mage/cleric, world-boss specialists), Warlord's Court (heavy armor, siege focus), Nova Market (merchant/crafter, controls trade), Wyvern Pact (mount specialists).
+
+## 7. Preserved Mechanics From the Old Draft
 
 These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged there as worth keeping:
 
 - **Skill combo system** — Goblin Gas + fire = Goblin Flare; toxin effects boost Ancient Boneflame Barrage's damage/radius. Reusable and mechanically satisfying, fits the deck-building pillar.
-- **Karma/Alignment system** — killing players outside sanctioned PvP shifts alignment and visibly flips the nameplate from white to red ("Blood Tinted"). A strong, visible consequence system for open-world PvP.
+- **Karma/Alignment system** — killing players outside sanctioned PvP shifts alignment and visibly flips the nameplate from white to red ("Blood Tinted"). A strong, visible consequence system for open-world PvP, and per §6 above, this now extends to mistreating NPCs and a region's people too, not player-kills alone.
 - **Seven-day death lock** — dying carries a real week-long penalty, not just a respawn timer.
 - **Physical Arts** — a distinct skill category from spells (Drosh's Veil-Pierce Gaze, Silent Three Fang), giving goblins/hobgoblins a combat identity separate from caster classes.
-- **Prestige/ranking ladder** — numeric competitive tiers (Platinum 40K, Diamond 75K, Master 120K+), usable as visible LitRPG texture on the ranked ladder.
 - **Tactical Cartographer title** — earned for drawing up a battle plan, not just fighting. Rewards the brains-over-brawn playstyle the story leads with.
 - **In-game time dilation** — time moves faster inside HGO than in the real world. Flagged as needing pacing care: any quest timer stated in-game (e.g., a three-day ultimatum) needs to be checked against how it lands against Tatsuya's real-world schedule before it's used in a chapter.
 - **Live streaming as an organic exposition tool** — chat reactions doing the work of flagging "this is unusual" on-screen, without narration or an announcer stating it outright. A deliberate craft technique, not just a mechanic, reuse it the same way.
 
-## 7. Open Flags
+## 8. Prestige & Ranking Ladder (resolved)
 
-- The Prestige/ranking ladder numbers above are old-draft placeholders (Platinum 40K, Diamond 75K, Master 120K+). Confirm with Bobby before they appear on the page if a chapter needs Tatsuya's or a rival's rank stated explicitly.
+Replaces the old numeric MMR placeholders (Platinum 40K, Diamond 75K, Master 120K+) entirely. Named tiers: **Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster**, then a regional **Top 500** cap above that, not everyone can reach it, the game is global with millions of players across many countries.
+
+**Ladder rank and pro/tournament status are related but distinct tracks.** A player can be Grandmaster without being Top 500, and can still carry a pro marker on their profile from actually qualifying into real tournaments, ladder rank alone doesn't confer that marker. Contenders-tier players (the development league below the Pro League) generally sit around Masters. Haruto Murayama (see Writing Bible §6) is the clean illustration: an early Grandmaster, not Top 500, but carries a pro marker from real tournament qualification.
+
+## 9. Open Flags
+
+None outstanding. The Prestige/ranking ladder flag above is resolved.

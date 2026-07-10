@@ -12,9 +12,9 @@ Three restructuring decisions drive this pass:
 
 ## Chapter 1 — WattsUp Shift (~2,000-2,500 words)
 
-**Real world only.** Closing shift at Gato's WattsUp charge station. Winter Championship broadcast plays throughout in the background. Chiyo's text lands about Tabuchi pressure and the Tochi application option. Tatsuya rides herd on the register while the broadcast runs behind him, the Haya EB parked out back for now.
+**Real world only.** Closing shift at Gato's WattsUp charge station. World Championship broadcast plays throughout in the background. Chiyo's text lands about Tabuchi pressure and the Tochi application option. Tatsuya rides herd on the register while the broadcast runs behind him, the Haya EB parked out back for now.
 
-**Broadcast beat:** as the Winter Championship wraps, Kazuku (the bear mascot) takes the broadcast, announces the Crystal League expansion, and follows it with a limited-time discount on HGO drives, a hardware promotion clearly meant to pull new players into the new content. This is the concrete spark: Tatsuya doesn't have any other realistic path in, so a discounted drive reads as his one shot.
+**Broadcast beat:** as the World Championship wraps, Kazuku (the bear mascot) takes the broadcast, announces the Crystal League expansion, and follows it with a limited-time discount on HGO drives, a hardware promotion clearly meant to pull new players into the new content. This is the concrete spark: Tatsuya doesn't have any other realistic path in, so a discounted drive reads as his one shot.
 
 **Eren beat:** Eren arrives (with driver, and Haruto Murayama, his own teammate, not a random customer) to charge his car, wearing his Kansai Black Lotus team jacket. Seeing it lands two ways at once, anger at Eren and the stolen build, and a spike of motivation, a physical reminder that this world is still open and Tatsuya still wants in. Eren leans on him over the family debt in front of Haruto. Tatsuya absorbs it rather than escalates, consistent with his established behavioral signature, this is not a comeback or a clapback, it's one-sided and it stings. Haruto, who's heard Eren needle Tatsuya before, gets a small, quiet beat of dawning respect, not a speech. The Tabuchi pressure should register as not fully adding up to just money (see Writing Bible §8), without explaining why.
 
@@ -23,6 +23,8 @@ Three restructuring decisions drive this pass:
 ## Chapter 2 — Into the Game (~2,000-2,500 words)
 
 **Opens the next morning**, not with the ride home (that now belongs to the end of Chapter 1). Taji is already going on about people buying keys and the supercontinent, and mentions Dosuke AI's build and his quarterfinal exit. Tatsuya recognizes the build's resemblance to the concept he and Eren once theorized together, says nothing, Taji has no idea his older brother knows anything about HGO at all.
+
+**Available material for this opener (not yet drafted, use if it fits the pacing):** an ordinary morning-news segment, framed as entertainment news, covering last night's World Championship (the prize figure gets a mention) alongside a darker undertone, criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. See Writing Bible §8 for the full real-world-stakes note, keep it exactly as vague and atmospheric there.
 
 **Real-world half stays trimmed hard from there**, roughly the first third of the chapter, so login lands early rather than near the end. The point of this chapter is momentum into the game; don't let the real-world setup outweigh the payoff.
 
@@ -55,5 +57,7 @@ He logs back in and moves into the "locked away" beat: held or restrained by Sev
 ## Chapter 6+ — Continues Per Writing Bible §9
 
 From here the story picks up the existing arc structure: gradual, one-at-a-time companion introductions (the old draft's Grukk/Krok, Tikka, Muzzle, and Drosh designs are worth preserving, but each needs to be earned individually rather than assigned in one scene), Arya's slow multi-visit approach to Tatsuya (no researching him until she's personally noticed something change), Yuna withheld by name until the hospital reveal, and no Eren POV chapter, anything worth keeping from the old draft's Chapter 6.5 (Kazuto's dialogue, Haruto's exit from Kansai Black Lotus) needs to reach the reader through Tatsuya's own observation or secondhand knowledge instead.
+
+**Available material for this stretch (not yet drafted):** once Tatsuya's early gameplay in camp starts showing real growth (his handling of the AI camp companions, PK-raid kills), Arya records and posts footage of it to Loop, which is how his public reputation actually starts, under a tagline worth reusing verbatim when the beat is drafted, "Nobody roots for the Goblin," his own haters-to-fans pipeline origin. See her entry in Writing Bible §6 for the guild-backstory context (her own crew is small heading into this, part of why she's paying close attention to a total unknown in the first place).
 
 Not re-planned in detail here, this section exists so this document doesn't silently stop tracking the story once Chapter 5 ends.
