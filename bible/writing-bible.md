@@ -71,14 +71,16 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 ### Momo and Taji (twins, younger siblings)
 - Momo: sharp wit, big emotions, obsessed with J-pop and HGO host Yuna (specifically Yuna's music and persona).
 - Taji: HGO-obsessed, always tangled in blankets and headphones, has strong opinions about every pro team.
+- **Visual reference (locked):** both have locs like Tatsuya, a real family trait, not a coincidence. Red hoodies, expressive, easily annoyed, wear their moods openly the way Tatsuya's learned not to.
 
 ### Chiyo Nakamura (landlord, guardian figure)
+- **Visual reference (locked, replaces any earlier description):** long red hair, poised, business-casual look (blazer, slacks), reads younger than her age. Backstory below is unchanged, only the physical description updates.
 - Former volleyball player, mid-50s, retired, national-championship pedigree at Tochi, once helped lead the Japan national team. Came out of retirement specifically to cover Ohema's old instructor role at Tochi when Ohema fell into her coma.
 - Took in and raised Ohema after she arrived in Japan as a refugee — raised her as her own daughter.
 - **Owns and runs a high-end hotel in Shibuya, the Nakamura Grand** (named on the page in Chapter 1). This, not the Tochi instructor stipend, is her real business and the source of the "real family financial backing" below. Her own family background is yakuza, she grew up knowing that world as its princess without ever being personally in it, which is where her underworld ties and restraint both come from, she understands exactly what the Tabuchis are and isn't afraid of them, she's choosing restraint to protect other people, not because she has no leverage.
 - She shouldn't have to work the hotel counter herself. She's cut staff and taken shifts personally to free up money for the kids and Ohema's bills, and would never once call it a sacrifice, Tatsuya, Momo, and Taji are her real grandkids, Ohema is her real daughter (see below), and there's no version of her that complains about that.
 - **The Tabuchis have threatened arson against the hotel.** Wildly disproportionate, real arson, something they'd almost certainly never get away with, but a genuine threat against her entire livelihood all the same, and exactly the kind of unhinged that makes the ongoing pressure feel dangerous instead of abstract.
-- Covers the family's rent and hospital bills. Big, broad-shouldered, silver braid.
+- Covers the family's rent and hospital bills.
 - **The family's apartment sits above/attached to the hotel building itself**, ground floor is the hotel, upstairs is home, consistent with her being their landlord.
 - Her connection to Tochi (instructor position + Ohema's volleyball legacy + Daichi's tech legacy) is Tatsuya's real path back into the school.
 - **She is their grandmother, plainly.** Ohema calls Chiyo "mom" outright, no qualifier. Chiyo raised her as her own daughter, which makes her Tatsuya's, Momo's, and Taji's real grandmother in every way that matters, not biological, but real. Treat this as settled family language, not a delicate distinction the text needs to keep explaining.
@@ -95,7 +97,14 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 ### Location: WattsUp
 Visual reference locked in (see uploaded station image): an old-school covered charge canopy at night, weathered but well-kept, not deserted. A tall pylon sign out front (repurposed for HGO ad rotation instead of fuel prices). String lights/pennants along the canopy edge. Three charge bays under the canopy, worn paint, functional. Attached to one side, a small convenience-store building with a lit window, a stone/rock facade accent, a counter inside where Tatsuya actually works the register, snacks and drinks, a small seating area. Open 24 hours. The whole place reads lived-in and a little tired, not glamorous, but running, the same energy as the family's whole situation. The overhead screen(s) showing HGO broadcasts live inside, at the counter, not bolted to the outdoor canopy.
 
+### Location: Sakura Arcade
+Visual reference locked in: warm pendant lighting, exposed brick and wood paneling, a real gaming-lounge feel rather than a dingy back-alley cafe. Themed gaming chairs, multiple screens per station. Reads well-kept and inviting on the surface even though Leon's business is struggling underneath, the two first-gen pods live somewhere less polished than the front-of-house setup this reference implies, an older, separate section of the space.
+
+### Location: The Nakamura Grand
+Visual reference locked in: a green-covered modern building, several stories, warm-lit windows and entrance, balconies with plants. Reads as a boutique high-end property rather than a sprawling traditional grand hotel, consistent with "high-end" without needing a huge ornate lobby. The family's apartment sits above/attached to this building (see Chiyo's entry).
+
 ### Eren Tabuchi (antagonist)
+- **Visual reference (locked):** blonde hair, blue eyes, tan/khaki jacket over a white shirt, easy and entitled bearing, matches his established physical signature.
 - Son of the Tabuchi family, who back/manufacture the second-generation pods.
 - **Timeline (exact, keep consistent everywhere):** Eren and Tatsuya met at 15, Tatsuya's final year of middle school at Tochi. HGO launched when Tatsuya turned 16, the same year he started Tochi High School. Daichi died within Tatsuya's first month of high school, closed-casket funeral, Kazuto's approach (see §5 and Kazuto's entry). Tatsuya lasted about three months total in that first year, grief, the funeral, and Eren's betrayal all compounding fast, before dropping out entirely. He's 18 now, matching "HGO has been live roughly two years." If he returns to Tochi, he re-enters as a full first-year, he never completed that year, not an advanced placement, and not ahead of Eren.
 - **Origin of the friendship:** Eren noticed Tatsuya sitting alone in the Tochi cafeteria reading an HGO magazine — that's how they connected. Simple, organic, not dramatic.
@@ -118,6 +127,7 @@ Visual reference locked in (see uploaded station image): an old-school covered c
 - The Tabuchi family's second-generation pod business was originally bankrolled by yakuza money, laundered in through the family. Part of why they're under real financial pressure themselves and part of why the pressure on Tatsuya hasn't let up.
 
 ### Haruto Murayama
+- **Visual reference (locked):** white hair, blue eyes, lean athletic build, casual/athleisure look off the clock, an earring. Reads more like a quiet pro than muscle, consistent with skill over size.
 - Kansai Black Lotus's star tank and Rookie of the Year. Present alongside Eren from Chapter 1 onward, not a background customer.
 - Has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. Watches quietly, a flicker of dawning respect rather than anything stated outright.
 - Later in the story (see `bible/old-draft-chapter-bible.md` for the preserved beats), this respect eventually leads him to quit the team publicly over Eren's leadership and the stolen-build history. Any content reaching the reader from that arc needs to come through Tatsuya's own observation or secondhand knowledge, not a POV break.
@@ -146,6 +156,7 @@ Visual reference locked in (see uploaded station image): an old-school covered c
 ### Yuna / Yunaile
 - HGO's main broadcast personality and tournament caster. Pink hair, high energy, the public face of the esports world. Also an idol/singer (tracks like "Shadow Drive," performs in HGO's virtual spaces).
 - Civilian name: Yunaile. Hides her public identity completely outside of broadcasts, glasses, real name only.
+- **Visual reference (locked, civilian look):** twin buns, glasses, ties directly to the disguise above, this is what she looks like as Yunaile, not on-broadcast Yuna.
 - Loop account: @Yuna_N9. Momo's obsession with her plants her in Tatsuya's household long before any direct connection forms.
 - **Family background:** old-money business moguls, rooted in law but with hands in everything — real estate, contracts, corporate sponsorships. Not tech people (that lane belongs to Daichi's legacy and the Tabuchis). They're now positioning themselves in the VR space because of the "bring your business here" expansion — they see it as the next major economic frontier.
 - Yuna is the daughter they didn't want in the line of succession. Her grandfather passed the family legacy and wealth directly to his grandson (her younger brother, Kaito), bypassing his own son entirely, a judgment on character the son never forgave.

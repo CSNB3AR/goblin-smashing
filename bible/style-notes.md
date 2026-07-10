@@ -19,6 +19,26 @@ The reference sample is comparatively light on environment. It moves the charact
 - **Leave room for the reader's imagination.** More grounding detail doesn't mean more total description, it means the details chosen land harder and get out of the way. A precise, specific sensory beat beats three generic ones.
 - **Micro body cues after dialogue** go a half-step further than the sample's action tags: a specific, small physical tell (weight shift, hand placement, breath) rather than a generic gesture, tied back to Tatsuya's established physical/behavioral signature in Writing Bible §4 wherever it's his beat.
 
+## Three hard rules (non-negotiable, on top of Writing Bible §10)
+
+Confirmed after a longer read of the reference sample. These apply to every chapter, including touch-ups to already-drafted ones.
+
+1. **Inner monologue is self-talk, not just narrated thought, and it gets a micro body cue right after.** The default texture for a monologue beat that matters: a short, punchy line that reads like Tatsuya actually talking to himself (not a summary of what he's thinking), immediately followed by a small, concrete physical tell, a facial change, a loc falling loose, hands doing something specific, in-game a character twitch or stance shift. Not every stray thought needs this treatment, but any beat carrying real weight does. The tell should come from his established physical/behavioral signature (Writing Bible §4) wherever it's genuinely his, not a generic gesture bolted on.
+2. **No metagaming.** Nothing happens or gets revealed on the page unless Tatsuya is directly involved in it or perceiving it. If he's not there, it didn't happen. Hints, tracking, reading a room, piecing together a puzzle from what he can actually observe, all fine, encouraged even. What's not fine: narrator-voice knowledge of something he has no way to know. The subtle way this rule gets broken is stating another character's private internal reasoning as flat fact ("she did X because she didn't want Y to find out") instead of Tatsuya's own inference ("he figured it was probably because..."). Watch for that specifically, it's easy to slip into without noticing.
+3. **Name/pronoun variation.** Single POV, tight third-person, never first person, no exceptions. Within that, don't default to "he" every single time, mix in "Tatsuya" as the sentence subject the way the reference sample does, it changes the rhythm and keeps long paragraphs from reading monotone.
+
+## Deeper technique notes from the fuller sample
+
+Still technique only, nothing here quotes or closely paraphrases the reference text.
+
+- **System/status text stays visually and structurally distinct from prose.** Bracketed or otherwise set apart, never blended into a regular paragraph. Compatible with the blue-box/card presentation already defined in `bible/game-system.md` §5.
+- **Combat reads through sensation and instinct, not a mechanical damage log.** The sample leans on what the POV character feels his body doing, times slowing, a shot lining up, a read on an opponent, rather than narrating every individual hit-point exchange. Numbers show up (a level, a damage tier) but as punctuation, not the throughline.
+- **Group dialogue moves fast once speakers are established.** Once the reader knows who's who in a scene, exchanges can run with minimal tagging, short lines, quick back-and-forth, trusting the reader to track it. Don't over-tag dialogue once a scene's speakers are locked in.
+- **Stat/status reveals get shown, then digested through the character's own analytical voice**, never dumped and left inert. A stat screen appearing is an excuse for Tatsuya to do exactly the kind of deductive reasoning already noted above, not just a block of numbers the prose skips past.
+- **Calculated thinking and gut instinct sit in real tension as a character texture.** The reference character is analytical by training but leans on intuition under pressure, and the prose treats both as legitimate, worth carrying into Tatsuya's own "thinks in numbers and odds" trait, calculation is his default, but combat/crisis moments can let instinct take over without that reading as a contradiction.
+
+**Anti-pattern flag:** the reference sample itself occasionally drifts into a passive omniscient aside (a stray sentence that isn't really filtered through the POV character). That is not the standard for this book. Rule 2 above is stricter than the sample's own practice, "the sample does it" is not a justification for doing it here.
+
 ## How this interacts with existing rules
 
 Nothing here overrides Writing Bible §10 (no em dashes, one speaker/thinker per paragraph, full sentences, banned physical beats, tight third-person locked to Tatsuya) or the game-system.md house style reminder (mechanics shown sparingly, filtered through what Tatsuya perceives). This file is about texture and immersion within those constraints, not an exception to them.
