@@ -8,7 +8,7 @@ He caught himself in the dark half of the window between the counter and the doo
 
 His phone buzzed against the counter. Chiyo.
 
-*Tabuchi called again. Same story, they want what's owed. Told them the usual. Also, Tochi's application window opens back up Jan 4, just so you know it exists.*
+"Tabuchi called again. Told them the usual. Also, Tochi's application window opens back up Jan 4, I am gonna need a response soon, Tatsu."
 
 Tatsuya read it twice, once for the words and once for the part right behind them that he didn't let himself finish, the same shape of memory it always dragged up, a closed casket, a man in a good suit crouching down to his level and asking him a question with a soft voice and a hard edge underneath it. Some things weren't Chiyo's to carry. That one he kept for himself. He typed back a thumbs up, because a thumbs up cost nothing and didn't invite more, and put his phone face-down on the counter.
 
@@ -18,11 +18,11 @@ Tatsuya watched without meaning to. He caught it before the caster did, the way 
 
 "That's game," the caster said, arena noise swelling underneath. "London Spire takes the World Championship, forty million yen and the trophy, in front of a sold-out house here in Singapore and however many of you are watching from home."
 
-*Forty million,* Tatsuya thought, and the thought went exactly where it always went. *Even a tenth of that pays for the surgery outright. No more of Chiyo quietly covering gaps she thinks I don't notice. No more Tabuchi calls about Dad's old files that were never really about the money in the first place.*
+"Forty million," Tatsuya thought, and the thought went exactly where it always went. "Even a tenth of that pays for the surgery outright. No more of Chiyo quietly covering gaps she thinks I don't notice. No more Tabuchi calls about Dad's old files..."
 
 The broadcast didn't cut to credits. It cut to a soundstage draped in silver, and the enormous cartoon bear ambled out from behind a curtain to real, delighted applause, both in the arena and, faintly, from somewhere behind the counter where Gato kept a second little speaker just for this.
 
-Kazuku. Nobody's real face, round-bellied and grinning, HGO's logo stitched across a vest that always looked freshly pressed no matter how many times he wore it on camera, standing on a stage a full ocean away from Tokyo, more solid and more present than half the humans sharing it with him.
+Kazuku. Nobody's real face, round-bellied and grinning, HGO's logo stitched across a vest that always looked freshly pressed no matter how many times he wore it on camera, standing on a stage a full ocean away from Tokyo, CG-animated drones creating his bear-like body across the Singaporean sky.
 
 "Congratulations to London Spire, and to every team that fought for that stage tonight," the bear said, arms spread wide like he meant to hug the whole arena. "And now, since you've all been so patient with me."
 
@@ -30,21 +30,21 @@ Gold light bloomed across the screen and resolved into five landmasses where the
 
 "Eryndal is growing. The Crystal League expansion arrives this spring. Five new continents, kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are. Earn their trust, or don't. A whole new world for whoever's brave enough to claim its economy, and its worth."
 
-Tatsuya's hand had gone flat on the counter without him deciding to put it there. Five continents. Land nobody had priced yet, structures nobody had built. Whatever had pulled tight behind his sternum a minute ago sharpened into something closer to hunger.
+Tatsuya's hand had gone flat on the counter without him deciding to put it there. "Damn, that's gonna change the meta, and heavily," was his first thought. He shrugged it off and kept listening.
 
-The bear wasn't finished. "And if you're worried your build's about to get left behind, don't be. Every character locks the moment Crystal League goes live, Legacy Points waiting for whoever wants to trade up instead. And for every fresh face walking in new, the Winter Bash, three-on-three, bring a partner, we'll pick your third for you, new characters only, starting Christmas Day." He produced an oversized drive from behind his back, gold light spilling off it. "Whether you're stepping into Eryndal for the first time or you've been circling the idea of setting up shop in the new economy, there's never been a cheaper way in. For the next seventy two hours only, every HGO access drive is fifty percent off."
+The bear wasn't finished. "And if you're worried your build's about to get left behind, don't be. Every character locks the moment the Crystal League expansion goes live, Legacy Points waiting for old characters, trade them in for items on your new character. And for every fresh face walking in new, we'll be hosting the three-on-three Winter Bash tournament for new characters only, starting Christmas Day." He produced an oversized drive from behind his back, gold light spilling off it. "Whether you're stepping into Eryndal for the first time or you've been circling the idea of setting up shop in the new economy, there's never been a cheaper way in. For the next seventy two hours only, every HGO access drive is fifty percent off."
 
-Tatsuya read the number twice, same as he'd read Chiyo's text. Fifty percent off put a drive well inside what was sitting in his account. Not comfortably. Inside.
+Tatsuya read the number twice, same as he'd read Chiyo's text.
 
-*This might be it.* He thought it plainly, like he was telling himself something twice was the only way it would actually stick. Two years of watching from behind a register, knowing exactly how a match should be read and never once getting to prove it, and now fifty percent off put an actual door in front of him instead of a locked one. *I know this game better than half the people getting paid to play it. Fifty percent off is the first time that's ever been worth anything.* His thumb found the edge of the counter and pressed there, hard, a loc slipping loose across his eyes that he didn't bother pushing back.
+"This might be it." He thought it plainly, like he was telling himself something twice was the only way it would actually stick. "I know this game at least better than most. This could be an opportunity... It's not like I'm making much here." His thumb found the edge of the counter and pressed there, hard, a loc slipping loose across his eyes that he didn't bother pushing back, as his mind danced back to what the bear said and the forty million he'd just seen a team win.
 
 Headlights swept across the front window, and a black car eased up to the curb outside the bays. Tatsuya's stomach dropped before his brain caught up to why, that unhurried way it parked like it owned the block.
 
 Eren climbed out first, black team jacket zipped to the throat, a lotus crossed with two staffs stitched into the chest in silver thread that caught the streetlight like it wanted to be noticed. Tatsuya knew that emblem the way you know a scar, Kansai Black Lotus, though he didn't let his face do anything with the knowledge. The passenger door opened a second later and someone else unfolded out of it, still in half a practice kit, warmup jacket thrown over shoulder pads, a build Tatsuya's eyes tagged before his memory caught up and supplied the rest, a face he'd watched on three different broadcasts this season. Rookie of the Year. Kansai's tank.
 
-Tatsuya's face didn't do much. Some small muscle around his mouth flattened out, the closest thing to a reaction he was willing to spend. *Say what you actually think and this turns into Tochi all over again, another fight, another mark next to your name, and this time there's no zero-tolerance policy standing between you and actually losing something.* He'd already spent that currency more than once for less than this. Not again. Not for free.
+Tatsuya's face didn't do much. Some small muscle around his mouth flattened out, the closest thing to a reaction he was willing to spend. "Say what you actually think and this turns into Tochi all over again, another fight, another mark next to your name, and this time there's no zero-tolerance policy standing between you and actually losing something." He'd already spent that currency more than once for less than this. Not again. Not for free.
 
-Eren glanced back toward the car, at the driver still sitting behind the wheel, and pitched his voice like he was performing for an audience of one who wasn't going to answer him anyway. "Would you look who's still working nights." The driver didn't so much as turn his head. Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like.
+Eren glanced back toward the car, at the driver still sitting behind the wheel, and pitched his voice like he was performing for an audience of one who wasn't going to answer him anyway. "Guess who we have here, Jarvy. It's our dear friend Tatsu." The driver didn't so much as turn his head. Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like.
 
 "Bay's open," Tatsuya said, nodding toward it, voice level. "Card or account."
 
@@ -62,7 +62,7 @@ Something in Eren's easy expression flickered, just for a second, and for that s
 
 "Card," Eren said, tapping it against the reader without looking away from him. "Tell your mother I hope she's doing better."
 
-*Tell your mother I hope she's doing better.* Tatsuya repeated it to himself, flat and silent, the words curdling on the second pass. *Like you don't already know exactly why I need this money.* His grip on the counter's edge went white at the knuckle, one breath, then loose again. Nothing on his face moved. He watched the charge indicator climb, green light by green light, until Eren finally turned back toward the car.
+"I hope mother is doing better." Tatsuya repeated it to himself, flat and silent, the words curdling on the second pass. "Bastard, are you wanting to lose your teeth? Like you don't already know." His grip on the counter's edge went white at the knuckle, one breath, then loose again. Nothing on his face moved. He watched the charge indicator climb, green light by green light, until Eren finally turned back toward the car.
 
 The tank lingered a beat longer than he needed to, gaze flicking once to the drive-shaped outline of Tatsuya's phone still face-up on the counter, the discount banner glowing on the lock screen where he hadn't quite put it away. Something crossed his face that wasn't quite recognition and wasn't quite respect, closer to a question he wasn't going to ask out loud tonight. He gave the smallest possible nod, more to himself than to Tatsuya, and followed Eren out.
 
@@ -88,13 +88,13 @@ He stopped in the doorway to the lobby a second longer than he meant to. Chiyo b
 
 He didn't answer that. He didn't have to. She'd meant it as a promise, not a threat, and he understood it exactly that way, she loved him too much to let him just sit in this. He gave her a nod that didn't commit to anything and headed for the stairs, feeling her eyes on his back the whole way up.
 
-*She's going to decide for me whether I want her to or not,* he thought, taking the steps two at a time. *So either I go back to Tochi with my legs already cut out from under me, or I do something first.*
+"She's going to decide for me whether I want her to or not, and unless I want to be a tech engineer or shipped to the military, HGO is my only option. WattsUp is not," he thought, taking the steps two at a time. "So either I go back to Tochi with my legs already cut out from under me, or I do something first."
 
 Upstairs, the apartment was mostly dark. Momo's door was cracked, her voice humming along under her headphones to something with too much reverb, and Tatsuya caught the handle without meaning to eavesdrop, @Yuna_N9 pulled up on her phone screen, a livestream replay looping in the corner. In the front room, Taji was still awake on the couch, wrapped in a blanket he'd clearly stolen from someone's bed, watching the exact same broadcast Tatsuya had just left behind at the station, the London Spire trophy shot paused on the screen.
 
 "They actually did it," Taji said, not looking up, assuming, the way he always did, that Tatsuya had no idea what he was talking about.
 
-"Yeah," Tatsuya said, dropping onto the couch beside him and stealing a corner of the blanket back. "Shocking. A team with more money than sense wins the whole thing."
+"Yeah," Tatsuya said, dropping onto the couch beside him and stealing a corner of the blanket back. "The announcement is gonna change everything, watch."
 
 Taji cracked a smile at that despite himself, the kind he tried not to give up too easily these days, and shoved the rest of the blanket over without being asked.
 
@@ -104,14 +104,12 @@ He thumbed his phone awake and, out of habit more than anything, pulled up Loop,
 
 And underneath all of it, if he moved now, enough left over for a drive.
 
-*Everyone else got a running start,* he thought, thumb hovering over the purchase screen, the cursor blinking against the last of his cushion like it was daring him. *Eren got his the day it launched. I get mine two years late, fifty percent off, and it still costs everything I've got.*
+"If I do this, I can't forget why I'm doing it... It's for them..." he thought, thumb hovering over the purchase screen, the cursor blinking against the last of his cushion like it was daring him. "I know I don't have a pod. I'm gonna have to gamble to get into a cafe... But I can't let a chance like this slip... maybe the only way to actually help..." The thought of his mom sitting in a comatose state at the hospital tugged at him.
 
-*Fine.*
+"Fine."
 
-*Late's still in.*
+His shoulders dropped an inch, deliberately, the way he'd trained himself to hold still when a decision actually mattered. He pressed his thumb down before he could talk himself out of it.
 
-His shoulders dropped an inch, deliberately, the way he'd trained himself to hold still when a decision actually mattered. He pressed his thumb down before he could talk himself out of it. Somewhere on a server farm across the city a transaction cleared, and a small green confirmation bloomed on the screen like it was nothing at all instead of the biggest thing he'd done in two years.
-
-*Chiyo's not going to wait forever. The second she decides for me, this window's gone.* He wasn't going to waste a single day of it figuring out how to log in just to look around. This was money he didn't have, spent against a clock he couldn't stop, which meant every hour he spent inside Eryndal from here on had to actually be worth something. *No wasted time. Find the fastest way to turn this into something Chiyo can't argue with.*
+"Chiyo's not going to wait forever. The second she decides for me, this window's gone." He wasn't going to waste a single day of it figuring out how to log in just to look around. This was time he doesn't have, spent against a clock he couldn't stop, which meant every hour he spent inside Eryndal from here on had to actually be worth something. "No wasted time. Find the fastest way to turn this into something Chiyo can't argue with."
 
 He didn't remember deciding to close his eyes. He woke up hours later on the couch, Taji's stolen blanket somehow migrated over him, the television long since gone dark, and the countdown still running somewhere in his pocket.

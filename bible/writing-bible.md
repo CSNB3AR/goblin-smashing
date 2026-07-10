@@ -278,7 +278,7 @@ Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family
 ## 10. Craft / Writing Rules (Non-Negotiable)
 
 - No em dashes, anywhere, ever.
-- Inner monologue: italics, no quotation marks.
+- **Inner monologue: quotation marks, not italics.** A deliberate house format, the reader should always read it as him speaking in his own head, not just narrated thought. Do not revert to italics.
 - One speaker or thinker per paragraph.
 - Full sentences in narration, no action fragments.
 - Every line of dialogue paired with an action, posture, or tone cue. No floating quotes.
