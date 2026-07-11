@@ -90,7 +90,7 @@ Tatsuya's grip on the counter's edge went white at the knuckle for one breath, t
 
 The tank lingered a beat longer than he needed to. His gaze flicked once to the drive-shaped outline of Tatsuya's phone still face-up on the counter, the discount banner glowing on the lock screen where he hadn't quite put it away. Something crossed his face that wasn't quite recognition and wasn't quite respect, closer to a question he wasn't going to ask out loud tonight.
 
-"Guess I'll see you in Eryndal, then," he said, quiet enough that it wasn't for Eren. He nodded once toward the phone. "You're too good to be sitting on that team's bench, whenever you get around to it."
+"Guess I'll see you in Eryndal, then," he said, quiet enough that it wasn't for Eren. He nodded once toward the phone. "You're too good to be on a roster like that, whenever you get around to it."
 
 Tatsuya gave him a nod back, nothing more spent on it than that, and the tank followed Eren out.
 
