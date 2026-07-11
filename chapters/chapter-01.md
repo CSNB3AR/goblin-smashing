@@ -82,7 +82,7 @@ Behind Eren, the tank had gone quiet, eyes moving between the two of them like h
 
 Something in Eren's easy expression flickered, just for a second. For that second the old version of this, two kids theorizing builds on graph paper in a cafeteria that didn't exist for either of them anymore, surfaced somewhere behind his eyes and was gone, replaced by a small, satisfied smile with nothing warm in it.
 
-"Card," Eren said, tapping it against the reader without looking away from him. "I hope your mother's doing better."
+"Card," Eren said, tapping it against the reader without looking away from him. "I hope your mother is getting better."
 
 Tatsuya's jaw tightened. *"That son of a bitch wants me to kick his teeth in,"* was Tatsuya's first thought before he calmed himself down. He knew exactly what he was doing, throwing his mom's name around like that while she was still in a hospital bed.
 
