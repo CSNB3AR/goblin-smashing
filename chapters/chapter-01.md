@@ -68,13 +68,13 @@ The driver's door swung open first, and blonde hair caught the streetlight befor
 
 The passenger door opened a second later. Silver hair, still half in a practice kit, warmup jacket slung over one shoulder. Tatsuya's eyes tagged the build before his memory supplied the name. Haruto.
 
+Eren didn't spare the store a glance yet, just a shape behind the glass working the register, nothing that told him who. He and Haruto crossed the lot toward it, the bell over the door announcing them before either one spoke.
+
+Eren's eyes found Tatsuya's face under the store lights and stalled there. Recognition landed late, then all at once, a grin spreading before he'd even finished crossing the floor.
+
+"Well, well." Eren glanced sideways at Haruto like he needed a witness for it. "Guess who we've got here. Our dear friend Tatsu."
+
 Tatsuya's face didn't do much. Some small muscle around his mouth flattened out, the closest thing to a reaction he was willing to spend.
-
-Eren glanced back toward the car, at the driver still sitting behind the wheel, and pitched his voice like he was performing for an audience of one who wasn't going to answer him anyway. "Guess who we have here, Jarvy. It's our dear friend Tatsu." The driver didn't so much as turn his head.
-
-Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like.
-
-Eren turned from the car and crossed toward the store, Haruto trailing a half step behind, the bell over the door announcing them before either one spoke.
 
 "Bay's open," Tatsuya said, nodding toward the window and the car parked beyond it, voice level. "Card or account."
 
