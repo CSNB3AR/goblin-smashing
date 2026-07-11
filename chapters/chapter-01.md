@@ -64,13 +64,9 @@ Tatsuya read the number twice, same as he'd read Chiyo's text.
 
 Red-gold headlights swept across the front window and Tatsuya's stomach dropped a half second before he understood why, a black car easing up to the curb outside the bays, slow and certain, the kind of unhurried that only came from a car that already knew it owned the block. Through the windshield he could just make out a man in a dark suit, hands steady on the wheel, engine still running, in no hurry at all to get out.
 
-Eren climbed out first, black team jacket zipped to the throat, a lotus crossed with two staffs stitched into the chest in silver thread that caught the streetlight like it wanted to be noticed. Tatsuya knew that emblem the way you know a scar, Kansai Black Lotus, though he didn't let his face do anything with the knowledge.
+The driver's door swung open first, and blonde hair caught the streetlight before anything else registered, a guy unfolding out of the car with the kind of easy, unhurried bearing that never had to check twice for a wallet. Black team jacket zipped to the throat, a lotus crossed with two staffs stitched into the chest in silver thread that caught the light like it wanted to be noticed. Tatsuya's stomach dropped before the rest of him caught up. Eren. He knew that emblem like a scar, Kansai Black Lotus, and let nothing show.
 
-The passenger door opened a second later and someone else unfolded out of it, still in half a practice kit, warmup jacket thrown over his shoulder.
-
-Tatsuya's eyes tagged him before his memory caught up.
-
-*"Haruto.... Eren...."*
+The passenger door opened a second later. Silver hair, still half in a practice kit, warmup jacket slung over one shoulder. Tatsuya's eyes tagged the build before his memory supplied the name. Haruto.
 
 Tatsuya's face didn't do much. Some small muscle around his mouth flattened out, the closest thing to a reaction he was willing to spend.
 
@@ -78,9 +74,11 @@ Eren glanced back toward the car, at the driver still sitting behind the wheel, 
 
 Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like.
 
-"Bay's open," Tatsuya said, nodding toward it, voice level. "Card or account."
+Eren turned from the car and crossed toward the store, Haruto trailing a half step behind, the bell over the door announcing them before either one spoke.
 
-Eren didn't move toward the bay. He drifted closer to the counter instead, close enough that Tatsuya caught the cologne under the cold night air, something that didn't belong anywhere near a place that smelled like ozone and rain. "You watching the broadcast?" Eren asked, tilting his chin at the screen, at the bear still grinning behind fresh captions. "We got bounced two days before the final. Rough tournament."
+"Bay's open," Tatsuya said, nodding toward the window and the car parked beyond it, voice level. "Card or account."
+
+Eren didn't answer that. He leaned into the counter instead, close enough that Tatsuya caught the cologne cutting through the cold he'd brought in with him, something that didn't belong anywhere near a place that smelled like ozone and rain. "You watching the broadcast?" Eren asked, tilting his chin at the screen, at the bear still grinning behind fresh captions. "We got bounced two days before the final. Rough tournament."
 
 "Heard," Tatsuya said, and left it there. He didn't say what he actually thought, that a team built on a stolen build always hit a ceiling the build alone couldn't push through, because saying that out loud would have caused issues he didn't want to bother with right now.
 
@@ -104,7 +102,7 @@ Haruto lingered a beat longer than he needed to. His gaze flicked once to the dr
 
 Tatsuya gave him a nod back, nothing more spent on it than that, and Haruto followed Eren out.
 
-The bell over the door sang once and went still.
+The door swung shut behind them, and quiet folded back over the store.
 
 ---
 
