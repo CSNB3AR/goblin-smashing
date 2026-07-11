@@ -72,6 +72,7 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - Currently in a coma, and it's not stable, it's at a real threshold. Without surgery soon, the prognosis is terminal. Chiyo covers her hospital bills, but the surgery itself is a harder number to reach. **This is Tatsuya's real, concrete driving motivation**, not an abstract desire to prove himself or get back at Eren. Any moment where money (prize pools, discounts, a shot at HGO) lands in front of him should tie back to her specifically.
 
 ### Momo and Taji (twins, younger siblings)
+- Age 11. Dialogue and behavior should read like real kids that age, not scaled-down teenagers or adults, genuine enthusiasm, moodiness affected as toughness, not weary composure.
 - Momo: sharp wit, big emotions, obsessed with J-pop and HGO host Yuna (specifically Yuna's music and persona).
 - Taji: HGO-obsessed, always tangled in blankets and headphones, has strong opinions about every pro team.
 - **Visual reference (locked):** both have locs like Tatsuya, a real family trait, not a coincidence. Red hoodies, expressive, easily annoyed, wear their moods openly the way Tatsuya's learned not to.
@@ -105,6 +106,9 @@ Visual reference locked in: warm pendant lighting, exposed brick and wood paneli
 
 ### Location: The Nakamura Grand
 Visual reference locked in: a green-covered modern building, several stories, warm-lit windows and entrance, balconies with plants. Reads as a boutique high-end property rather than a sprawling traditional grand hotel, consistent with "high-end" without needing a huge ornate lobby. The family's apartment sits above/attached to this building (see Chiyo's entry).
+
+### Real-world geography
+WattsUp and the Nakamura Grand are both in Tokyo's Shibuya ward (Kanto region), a short Haya EB ride apart, keeping the story's travel beats realistic. Any address/pickup reference should read as a real store in a real ward ("WattsUp, in Shibuya"), not an invented compound place name ("WattsUp Shibuya" as if it were its own proper noun). The family's school trip destination is Kyoto, in the Kansai region, roughly a six-day trip given the distance.
 
 ### Eren Tabuchi (antagonist)
 - **Visual reference (locked):** blonde hair, blue eyes, tan/khaki jacket over a white shirt, easy and entitled bearing, matches his established physical signature.
@@ -232,7 +236,7 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 
 ### Esports structure (current cycle)
 - **World Championship** prize pool: 40 million yen (won by London Spire this cycle). Sometimes called the World Circuit finals, the season-long regional-to-national qualifying structure (the "World Circuit") feeds into this single flagship event, not a competing name for the same thing.
-- **Winter Bash:** December 25th, **3v3 duo-queue** (a pre-formed partner plus one randomly assigned teammate who stays for the entire tournament), **new post-reset characters only**, old locked characters cannot enter. It's the debut event for characters built under the Crystal League expansion, 10 million yen prize pool. This random-teammate mechanic is what eventually puts Arya and Tatsuya on the same team.
+- **Winter Bash:** December 25th, **3v3 duo-queue** (a pre-formed partner plus one randomly assigned teammate who stays for the entire tournament), **freshly-created characters only**, built after the Crystal League expansion's announcement (see Timeline below), existing characters cannot enter regardless of whether the universal character-lock has triggered yet, since that lock doesn't happen until the expansion's full launch a week later. It's the debut showcase event for characters built for the incoming season, 10 million yen prize pool. This random-teammate mechanic is what eventually puts Arya and Tatsuya on the same team.
 - Four-day tournament format, running into a "Championship Sunday" finale. This is the single biggest annual event on the calendar, not routine programming, HGO has poured more production resources into it than anything else it runs. Kansai Black Lotus (Eren's team) was knocked out in qualifiers two days before the final.
 - **Presentation:** a hybrid broadcast, a virtual arena inside HGO itself plus a real, sold-out physical venue where fans gather and the newest hardware (third-gen helmets) is on public display. Big spectacle, real crowds, not just a screen.
 - **Host location:** Singapore, a major neutral international hub, clearly distant and foreign from Tatsuya's own Tokyo, not just "the city." Teams qualify in from regions worldwide (Japan, NA, UK, China, and others), background color like a UK squad eliminating a Chinese team along the way is available texture, not required on the page. **Kazuku's avatar presence at the physical venue is grounded by Singapore's own real-world reputation for advanced projection/holographic CG technology,** which is how his virtual avatar gets a physical stadium presence without ever revealing his true identity.
@@ -245,7 +249,8 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 - First 6 months: third-gen-exclusive beta window.
 - Second 6 months: second-gen access opens (with lag), leading into the first major championship at the end of year one.
 - Year two: an established pro scene, guilds, and sponsorships.
-- **"Tonight" (story present, December 2045)** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch.
+- **"Tonight" (story present, December 4th, 2045)** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch.
+- **Crystal League expansion launch date: December 31st (New Year's Eve)**, three weeks after tonight's announcement and six days after Winter Bash (December 25th). The universal character-lock (see Competitive PvP format above) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
 
 ## 8. Stakes & Motivations
 

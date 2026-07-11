@@ -50,7 +50,7 @@ Kazuku. Nobody's real face, round-bellied and grinning, HGO's logo stitched acro
 
 Gold light bloomed across the screen and resolved into five landmasses where there had only ever been one.
 
-"Eryndal is growing. The Crystal League expansion arrives this spring. Five new continents, kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are. Earn their trust, or don't. And competitive play is growing with it, three-on-three becomes five-on-five. A whole new world for whoever's brave enough to claim its economy, and its worth."
+"Eryndal is growing. The Crystal League expansion goes live New Year's Eve. Five new continents, kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are. Earn their trust, or don't. And competitive play is growing with it, three-on-three becomes five-on-five. A whole new world for whoever's brave enough to claim its economy, and its worth."
 
 Tatsuya's hand had gone flat on the counter without him deciding to put it there. *"Damn, that's gonna change the meta, and heavily,"* was his first thought. He shrugged it off and kept listening.
 
@@ -172,7 +172,7 @@ His phone said 3:04 PM.
 
 *"What the hell."* He was up off the couch before the thought finished, blanket sliding to the floor, the television still running the same paused replay of London Spire lifting the trophy it had been running when he closed his eyes. Momo's door stood open. Taji's side of the couch was cold. Nobody home but him, and the whole day already gone without his permission.
 
-A note sat on the kitchen counter in Chiyo's handwriting. [Left early with the twins for the trip, didn't want to wake you after last night. Back Sunday. Eat something.]
+A note sat on the kitchen counter in Chiyo's handwriting. [Left early with the twins for the trip, didn't want to wake you after last night. Back in six days. Eat something.]
 
 *"Right."* The trip. He'd known about it and lost it completely the second his eyes closed, everyone else already a full day ahead of him and he hadn't even started.
 
@@ -180,6 +180,6 @@ His phone buzzed in his hand.
 
 Then again.
 
-A text from Nexus Enterprises sat at the top of the screen. [Your HGO access drive order has been processed and is ready for pickup at your local partner station, WattsUp Shibuya. Please collect within 72 hours.]
+A text from Nexus Enterprises sat at the top of the screen. [Your HGO access drive order has been processed and is ready for pickup at WattsUp, your local partner station in Shibuya. Please collect within 72 hours.]
 
 Tatsuya read it standing in the middle of an empty apartment, the words landing heavier than a pickup notice had any right to. Whatever came next, it started today, and he was already behind.

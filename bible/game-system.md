@@ -28,6 +28,9 @@ This is the mechanic Tatsuya's goblin lock interacts with and subverts (see Writ
 ### Playable races
 The full list a player browses at creation, curated down from an older, larger world-brainstorm document, trimmed to what actually serves the story: **Human, Elf, Orc, Beastfolk, Goblin, Dwarf, Frostborn, Drakekin** (rarer and harder to unlock, not tied to a starting zone, more of an endgame/achievement race). Each of the first six has a home zone in Eryndal (see Writing Bible §7, World regions): Human/Lunarest, Frostborn and Dwarf/Valefrost, Beastfolk and Goblin/Myrrhwood, Orc/Sunmarch, Elf/Azure Expanse. No Undead race, deliberately cut from the older brainstorm, doesn't serve this story.
 
+### Drive color
+An HGO access drive is a neutral silver/clear color before a character is created on it. Once a race is chosen (or, in Tatsuya's case, locked in by the power-blip accident), the physical drive changes color to match, a standard goblin roll comes out a dull, ordinary green, the color most players and NPCs recognize a goblin by at a glance. Tatsuya's drive doesn't get its distinct look until later, when the Call of the Bones Necklace (see §4) bonds him to Shiv, at that point it shifts to a distinct **emerald green**, visibly different from an ordinary goblin's drive. This is not a rare roll at creation, that origin stays exactly as established (hardware accident, no lucky break, plain goblin), the emerald shift is tied specifically to the later Shiv/World-tier bond, not to character creation itself.
+
 ## 3. Leveling & Progression
 
 - Level starts at 1 (or backstory-appropriate).
