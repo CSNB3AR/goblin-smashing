@@ -4,7 +4,7 @@ Nobody left at WattsUp this late but Tatsuya. He worked a rag along the counter 
 
 The counter had been clean for an hour already. Outside, the canopy lights hummed over three empty charge bays, the tall pylon sign out front cycling through ad after ad against a sky gone fully dark. Past the pumps and the string of little flags along the canopy's edge, Shibuya kept doing what Shibuya did at midnight, glowing like it had somewhere better to be.
 
-The screen mounted over the register ran what it always ran. HGO. Whatever HGO happened to be showing. Most nights that meant a solo-queue replay or some pro-league scrim looping quietly while he worked. Tonight it meant the real thing. Championship Sunday, the one broadcast all year that actually earned the volume.
+The screen mounted over the register ran what it always ran, HGO, due to the corporate sponsorship. Whatever HGO happened to be showing. Most nights that meant a solo-queue replay or some pro-league scrim looping quietly while he worked. Tonight it meant the real thing. Championship Sunday, the one broadcast all year that actually earned the volume.
 
 He caught himself in the dark half of the window between the counter and the door and looked longer than he meant to. Locs pulled back off his face with an elastic gone soft from reuse, a few loose ones falling free at his temple no matter how many times he tucked them back. The scar over his right brow, thin and pale, catching the fluorescent light at an angle that made it look almost fresh even eleven years out from the car accident that put it there. Dark skin gone sallow under the store lighting, the kind of tired that lived behind the eyes more than anywhere else. He had his mother's height and his father's hands, steady, precise, the kind that fixed things instead of breaking them, and some nights, working nights, that felt like its own kind of inheritance.
 
@@ -20,7 +20,7 @@ He typed back a thumbs up, because a thumbs up cost nothing and didn't invite mo
 
 On the screen, Yuna's bright, familiar voice was riding over the arena noise.
 
-"And if you're just tuning in, I'm Yuna, and welcome to the World Championship, live from Singapore, the biggest night HGO throws all year. London Spire's up a 190 to 150 over Aogiri, and Aogiri's down to their last three lives as a team. For anyone new to the competitive side of things, that's a 3v3 fight over three control points, first to two hundred takes it, or you burn through all thirty of your team's shared lives trying. And unlike a straight battle-arena reset, whatever these players have actually earned back in Eryndal rides into this match with them, don't let the fancy gear on-screen fool you into thinking it's cosmetic."
+"And if you're just tuning in, I'm Yuna, and welcome to the World Championship, live from Singapore, the biggest night HGO throws all year. London Spire's up a 190 to 150 over Aogiri, and Aogiri's down to their last three lives as a team. For anyone new to the competitive side of things, that's a 3v3 fight over three control points, first to two hundred takes it, or you burn through all thirty of your team's shared lives trying. And unlike other straight battle-arena VRMMORPGs, in HGO whatever these players have actually earned back in Eryndal rides into this match with them, don't let the fancy gear on-screen fool you into thinking it's cosmetic."
 
 *"Yuna."* Momo's whole personality some nights, blasting through a closed bedroom door. Tatsuya didn't have the energy to be impressed by her tonight, but some habits didn't need energy to run.
 
@@ -34,7 +34,7 @@ Behind him, sound cracked out of the speaker, sharp electronic hits stacking fas
 
 He didn't need to turn around for that part. He already knew what it sounded like when three lives went to zero in the same breath.
 
-"That's game," Yuna said, arena noise swelling underneath, and Tatsuya let himself turn back around in time to catch the confetti falling on a stage he was never going to stand on.
+"That's game," Yuna said, arena noise swelling underneath, and Tatsuya let himself turn back around in time to catch the confetti falling on a stage.
 
 *"Knew it."* No triumph in the thought. Just the flat, familiar shape of being right about something that wasn't his to be right about.
 
@@ -42,7 +42,7 @@ Yuna wasn't finished. "London Spire takes the World Championship, forty million 
 
 *"Forty million,"* Tatsuya thought, and the thought went exactly where it always went. *"Even a tenth of that pays for the surgery outright. No more of Chiyo quietly covering gaps she thinks I don't notice. No more Tabuchi calls about Dad's old files..."*
 
-The broadcast didn't cut to credits. It cut to a soundstage draped in silver, and the enormous cartoon bear ambled out from behind a curtain to real, delighted applause, both in the arena and, faintly, from somewhere behind the counter where Gato kept a second little speaker just for this.
+The broadcast didn't cut to credits. It cut to a soundstage draped in silver, and the enormous cartoon bear ambled out from behind a curtain to real, delighted applause, both in the arena and, faintly, from somewhere behind the counter where Gato kept a second little speaker he could also hear.
 
 Kazuku. Nobody's real face, round-bellied and grinning, HGO's logo stitched across a vest that always looked freshly pressed no matter how many times he wore it on camera, standing on a stage a full ocean away from Tokyo, CG-animated drones creating his bear-like body across the Singaporean sky.
 
@@ -60,13 +60,23 @@ Tatsuya read the number twice, same as he'd read Chiyo's text.
 
 *"This might be it."* He thought it plainly, like he was telling himself something twice was the only way it would actually stick. *"I know this game at least better than most. This could be an opportunity... It's not like I'm making much here."* His thumb found the edge of the counter and pressed there, hard, a loc slipping loose across his eyes that he didn't bother pushing back, as his mind danced back to what the bear said and the forty million he'd just seen a team win.
 
-Headlights swept across the front window, and a black car eased up to the curb outside the bays. Tatsuya's stomach dropped before his brain caught up to why, that unhurried way it parked like it owned the block. Through the windshield, a driver in a dark suit sat with both hands on the wheel, engine still running, watching the store without any particular hurry to get out.
+---
 
-Eren climbed out first, black team jacket zipped to the throat, a lotus crossed with two staffs stitched into the chest in silver thread that caught the streetlight like it wanted to be noticed. Tatsuya knew that emblem the way you know a scar, Kansai Black Lotus, though he didn't let his face do anything with the knowledge. The passenger door opened a second later and someone else unfolded out of it, still in half a practice kit, warmup jacket thrown over shoulder pads, a build Tatsuya's eyes tagged before his memory caught up and supplied the rest, a face he'd watched on three different broadcasts this season. Rookie of the Year. Kansai's tank.
+Red-gold headlights swept across the front window and Tatsuya's stomach dropped a half second before he understood why, a black car easing up to the curb outside the bays, slow and certain, the kind of unhurried that only came from a car that already knew it owned the block. Through the windshield he could just make out a man in a dark suit, hands steady on the wheel, engine still running, in no hurry at all to get out.
+
+Eren climbed out first, black team jacket zipped to the throat, a lotus crossed with two staffs stitched into the chest in silver thread that caught the streetlight like it wanted to be noticed. Tatsuya knew that emblem the way you know a scar, Kansai Black Lotus, though he didn't let his face do anything with the knowledge.
+
+The passenger door opened a second later and someone else unfolded out of it, still in half a practice kit, warmup jacket thrown over his shoulder.
+
+Tatsuya's eyes tagged him before his memory caught up.
+
+*"Haruto.... Eren...."*
 
 Tatsuya's face didn't do much. Some small muscle around his mouth flattened out, the closest thing to a reaction he was willing to spend.
 
-Eren glanced back toward the car, at the driver still sitting behind the wheel, and pitched his voice like he was performing for an audience of one who wasn't going to answer him anyway. "Guess who we have here, Jarvy. It's our dear friend Tatsu." The driver didn't so much as turn his head. Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like.
+Eren glanced back toward the car, at the driver still sitting behind the wheel, and pitched his voice like he was performing for an audience of one who wasn't going to answer him anyway. "Guess who we have here, Jarvy. It's our dear friend Tatsu." The driver didn't so much as turn his head.
+
+Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like.
 
 "Bay's open," Tatsuya said, nodding toward it, voice level. "Card or account."
 
@@ -74,11 +84,11 @@ Eren didn't move toward the bay. He drifted closer to the counter instead, close
 
 "Heard," Tatsuya said, and left it there. He didn't say what he actually thought, that a team built on a stolen build always hit a ceiling the build alone couldn't push through, because saying that out loud would have caused issues he didn't want to bother with right now.
 
-Behind Eren, the tank had gone quiet, eyes moving between the two of them like he was working out a math problem of his own.
+Behind Eren, Haruto had gone quiet, eyes moving between the two of them like he was working out a math problem of his own.
 
 "My father wanted me to remind you the account's still open," Eren said, voice dropping into that lower register he used when he wanted to sound like a man instead of a rich kid standing in his father's shadow. "In case you'd forgotten."
 
-"I haven't forgotten," Tatsuya said. He kept his hands flat on the counter, weight even, breathing even. "Bay's open. Card or account."
+"I haven't forgotten," Tatsuya said. He kept his hands flat on the counter breathing even. "Bay's open. Card or account."
 
 Something in Eren's easy expression flickered, just for a second. For that second the old version of this, two kids theorizing builds on graph paper in a cafeteria that didn't exist for either of them anymore, surfaced somewhere behind his eyes and was gone, replaced by a small, satisfied smile with nothing warm in it.
 
@@ -88,13 +98,15 @@ Tatsuya's jaw tightened. *"That son of a bitch wants me to kick his teeth in,"* 
 
 Tatsuya's grip on the counter's edge went white at the knuckle for one breath, then loosened again. Nothing on his face moved. He watched the charge indicator climb, green light by green light, until Eren finally turned back toward the car.
 
-The tank lingered a beat longer than he needed to. His gaze flicked once to the drive-shaped outline of Tatsuya's phone still face-up on the counter, the discount banner glowing on the lock screen where he hadn't quite put it away. Something crossed his face that wasn't quite recognition and wasn't quite respect, closer to a question he wasn't going to ask out loud tonight.
+Haruto lingered a beat longer than he needed to. His gaze flicked once to the drive-shaped outline of Tatsuya's phone still face-up on the counter, the discount banner glowing on the lock screen where he hadn't quite put it away. Something crossed his face that wasn't quite recognition and wasn't quite respect, closer to a question he wasn't going to ask out loud tonight.
 
-"Guess I'll see you in Eryndal, then," he said, quiet enough that it wasn't for Eren. He nodded once toward the phone. "You're too good to be on a roster like that, whenever you get around to it."
+"Guess I'll see you in Eryndal, then," he said, quiet enough that it wasn't for Eren. He nodded once toward the phone. "You're too good to be on a roster like that."
 
-Tatsuya gave him a nod back, nothing more spent on it than that, and the tank followed Eren out.
+Tatsuya gave him a nod back, nothing more spent on it than that, and Haruto followed Eren out.
 
 The bell over the door sang once and went still.
+
+---
 
 Tatsuya stood there a moment in the quiet, the car left behind. The hum of the cables was the only sound left in the place. He looked at the screen. The bear was gone. In its place, the discount banner ran on a loop, gold numbers ticking down a countdown that had just crossed under seventy two hours.
 
@@ -102,15 +114,21 @@ He didn't touch his phone again. Not yet.
 
 He moved through closing on autopilot, hands running the same fifteen steps they'd run a hundred times over the past year. Killed the pumps one bay at a time, the readouts blinking dark. Counted the drawer twice, same total both times, bagged it for the morning deposit. Wiped down the counter one last pass, out of habit more than need, then hit the lights and stepped out into the cold, the door locking itself behind him with a heavy mechanical clunk.
 
-Around back, the Haya EB was sitting exactly where he'd left it, old paint gone matte in patches under the security light. He pulled his helmet off the hook, tucked the loose loc back where it belonged before it could get caught in the strap, and swung a leg over the seat. The touchscreen between the handlebars flickered awake under his thumb the way it always did, half a second of hesitation before it trusted him. He waited it out, thumb still pressed to the glass, until the dash finally lit green.
+Around back, the Haya EB was sitting exactly where he'd left it, old paint gone matte in patches under the security light. He pulled his helmet off the hook, tucked the loose loc back where it belonged before it could get caught in the strap, and swung a leg over the seat.
+
+The touchscreen between the handlebars flickered awake under his thumb the way it always did, half a second of hesitation before it trusted him. He waited it out, thumb still pressed to the glass, until the dash finally lit green.
 
 He kicked the stand up, rolled it forward off the curb, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of color, rain needling cold against his jaw, the hum of the engine climbing under him as he opened it up down an empty stretch. Some track was playing low through the scooter's speaker, Yuna, one of Momo's, dropped into his queue without asking two weeks back and never removed. Not his kind of thing, not usually, but the song had outlasted his patience for deleting it, and he let it run under the wind and the wet street and the countdown still ticking somewhere in his pocket.
 
-The Nakamura Grand sat six stories over a quiet block twenty minutes from the station, the kind of place that did steady, dependable business instead of chasing anything flashy. A striped awning out front had faded a shade lighter than it used to be, and the lobby doors were plain glass, clean but ordinary, nothing about them trying to impress anyone walking past. Tatsuya parked around back and came in through the side door the staff used, same as always, past the little laminated sign with the fire exit map nobody ever looked at twice.
+---
+
+The ride home ran out from under him before he was ready for it, the Haya EB slowing under his hand as a six-story building came up on his left, and Tatsuya realized he'd made the turn onto their block on muscle memory alone. A striped awning caught the streetlight overhead, faded a shade lighter than he remembered it, and the plain glass doors of the lobby threw his own headlight back at him for a second before he cut the engine. He parked around back on reflex and came in through the side door the staff used, same as always, past the little laminated sign with the fire exit map nobody ever looked at twice.
 
 She was still at the front desk. Alone.
 
-He stopped in the doorway to the lobby a second longer than he meant to. Chiyo behind the counter in her blazer, red hair falling loose over one shoulder, checking something on the reservation screen with the kind of focus that meant she'd been standing there a long time. A woman who'd led Japan's national team onto a court once, still working a shift that had two staff on the books, neither of them here tonight. He didn't have to ask why. He could do that math faster than most people breathed, two fewer paychecks was two fewer things stacked against the hospital bills nobody talked about out loud. She looked up and the tired dropped off her face on purpose, replaced with something warmer for him, and he hated that he could see the switch happen.
+He stopped in the doorway to the lobby a second longer than he meant to. Chiyo behind the counter in her blazer, red hair falling loose over one shoulder, checking something on the reservation screen with the kind of focus that meant she'd been standing there a long time. *"A woman who led Japan's national team onto a court once, still working a shift that should've had two other people on it,"* he thought, neither of them here tonight. He didn't have to ask why. He could do that math faster than most people breathed, two fewer paychecks was two fewer things stacked against the hospital bills nobody talked about out loud. She looked up and the tired dropped off her face on purpose, replaced with something warmer for him, and he hated that he could see the switch happen.
+
+---
 
 "You saw my message?" she asked, not looking away from the screen. "About Tochi."
 
@@ -132,7 +150,9 @@ Taji cracked a smile at that despite himself, the kind he tried not to give up t
 
 Tatsuya sat there in his own living room and let it land, the broadcast, Momo's headphones, Taji's blanket, Chiyo two floors down covering a shift a retired national-team legend shouldn't have to work at all. None of them had asked him for anything. That was the part that got him.
 
-He thumbed his phone awake and, out of habit more than anything, pulled up Loop, an account barely a year old, a handful of pros followed and nobody following back, and scrolled past a wall of reactions to tonight's final before he caught himself and backed out. Not tonight. He opened the account with his real balance in it instead. He ran the math three times, because three times was how many times he trusted a number that mattered. Rent covered. Ohema's bill covered, barely, with Chiyo carrying most of the actual weight, more of it than he'd let himself admit until tonight. Groceries for one more week, tight but there.
+He thumbed his phone awake and, out of habit more than anything, pulled up Loop, an account barely a year old, a handful of pros followed and nobody following back, and scrolled past a wall of reactions to tonight's final before he caught himself and backed out. *"Not tonight."*
+
+He opened the account with his bank balance in it instead. He ran the math three times. *"Rent covered. Ohema's bill covered, barely, with Chiyo carrying most of the actual weight, more of it than he'd let himself admit until tonight. Groceries for one more week, tight but there."*
 
 And underneath all of it, if he moved now, enough left over for a drive.
 

@@ -129,8 +129,12 @@ Visual reference locked in: a green-covered modern building, several stories, wa
 - **Mutual-grievance angle (background, later chapters):** the Tabuchis see Eren's betrayal of Tatsuya as having cost them a shot at the schematics too, if Eren hadn't burned the friendship, the families might have gotten there through the boys' relationship instead. Kazuto was reportedly frustrated with Eren over exactly this, from his side it reads as Daichi's family stealing from him twice over, once by refusing to sell, once by Eren's own stunt poisoning any future goodwill.
 - The Tabuchi family's second-generation pod business was originally bankrolled by yakuza money, laundered in through the family. Part of why they're under real financial pressure themselves and part of why the pressure on Tatsuya hasn't let up.
 
+### Jarvis ("Jarvy")
+- **Visual reference (locked):** dark hair, glasses, formal attire, a composed, professional bearing.
+- The Tabuchi family's butler. Present alongside Eren from Chapter 1 onward, driving him on family business (as in the WattsUp confrontation), though driving isn't his household role, just this scene's function. Silent, unresponsive to Eren's jabs, never acknowledges Tatsuya directly.
+
 ### Haruto Murayama
-- **Visual reference (locked):** white hair, blue eyes, lean athletic build, casual/athleisure look off the clock, an earring. Reads more like a quiet pro than muscle, consistent with skill over size.
+- **Visual reference (locked):** silver hair, blue eyes, lean athletic build, casual/athleisure look off the clock, an earring. Reads more like a quiet pro than muscle, consistent with skill over size, never described as bulky or a physical "tank."
 - Kansai Black Lotus's star tank and Rookie of the Year. Present alongside Eren from Chapter 1 onward, not a background customer.
 - Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see the ranking-ladder note in §7), but carries a real pro marker on his profile from actually qualifying into tournaments, a clean example of how ladder rank and pro status are related but distinct.
 - Frustrated with Eren over Kansai Black Lotus's early bump-out this cycle. Will end up leaving the team around the Winter Bash timing, especially with the format shift.
