@@ -1,0 +1,11 @@
+# Player-Owned Economy & Living-World NPCs
+
+## Player-owned territory
+
+Inspired internally by Albion Online / Black Desert Online, not named on the page. The Crystal League expansion's five continents are carved into territories and zones under the single supercontinent's kingdom structure (see `codex/locations/eryndal-world-overview.md`). Players and guilds can build, own, and tax craft houses, shops, and event venues, and pay leases/upkeep to keep them running. Alliances and kingdoms form naturally, new or casual players who don't know better yet default to whatever's already established and public rather than shopping around, which is exactly what makes early player-owned infrastructure genuinely profitable. Owning territory is passive income: shops, rental stalls, training dojos, all buildable and upgradeable for profit. Real-world tie-in: top teams/guilds/soloists sign sponsorships and ad space, server-firsts make headlines and lead to scholarships, brand deals, and national-team invitations.
+
+This is the mechanical backbone behind Tatsuya's own forward plot thread, see `codex/subplots/goblin-trade-company-forward-plot.md`.
+
+## Living-world NPCs, a real mechanic
+
+NPCs are AI-driven and read as genuinely alive on the page, not scripted set dressing. A simple on-screen tag/nameplate lets a player tell an NPC from another player at a glance, that doesn't make NPCs trivial to deal with. Their favor is earned, not given, and their anger has real consequences: mistreat a region's people, act like a dictator toward them, and the world's own people can turn on a player for real, organizing, attacking, pushing them out. This extends the Karma/Alignment system (see `codex/lore/preserved-misc-mechanics.md`, currently player-kill-triggered only) to cover NPC relations too. There are still-unexplored areas of the supercontinent even this deep into the game's life, and being first to reach or clear one, a "server first," is a real, ongoing path to gear and deck-building items, the same prestige loop as World Boss Raids. NPCs also generate real economic activity of their own: they buy from player-owned shops too, not just other players, which is what makes the player-driven economy read as self-sustaining rather than a closed loop between players alone.

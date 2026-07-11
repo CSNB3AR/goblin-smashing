@@ -1,0 +1,42 @@
+# Voice & Style Notes
+
+This document distills technique from a reference sample the author shared (an excerpt from *The Primal Hunter*, offered explicitly as "someone else's style," a genre-appropriate LitRPG baseline, not a template to copy). It describes what to do, not the sample's actual sentences. Nothing here quotes or closely paraphrases that text. Sits alongside `style-guide/craft-rules.md`, which is the non-negotiable rule set, this file is guidance for hitting that rule set well and adding what makes this book distinct.
+
+## What the reference sample does well (worth keeping)
+
+- **Deductive internal narration around system mechanics.** The POV character reasons through stats, screens, and unfamiliar rules out loud in his own head, testing theories, drawing conclusions, getting them half right. This already fits Tatsuya, who "thinks in numbers and odds," lean into it whenever he's parsing something new about HGO or the Glory Codex.
+- **Inner monologue in italics AND quotation marks together** (house format, see `style-guide/craft-rules.md`), dropped directly into the narration mid-paragraph rather than set off as its own beat every time. The sample is a useful model for how naturally it can sit inside a sentence instead of interrupting it.
+- **Dialogue paired with a tone or action beat**, never a floating line. Also a craft rule, the sample is consistent about it, worth matching that consistency exactly.
+- **Dry, understated internal wit.** Humor comes from the character's own deflating observations about his situation, not from narrator jokes. Fits Tatsuya's established humor-as-deflection trait directly.
+- **Consistent, spare formatting for system text**, notification dings, bracketed status/skill text, kept visually distinct from prose. Compatible with the blue-box/card presentation in `codex/lore/deck-building-rarity-and-classes.md`.
+
+## What to add: the actual differentiator
+
+The reference sample is comparatively light on environment. It moves the character through spaces quickly and tells the reader what's there in summary (a glass office building, an interrogation-style room) rather than putting the reader inside it. That gap is exactly where this book's voice needs to diverge:
+
+- **Ground Tatsuya physically in every space before or while things happen in it.** Sound, smell, temperature, light, texture, whatever's actually reaching him in the moment, not a scene-setting paragraph up front that then gets abandoned. The environment should keep breathing under the dialogue and action, not just introduce the location and disappear.
+- **Sensory detail serves character, not scenery.** What Tatsuya notices should say something about him (what he's trained to watch for, what he can't afford to ignore, what catches him off guard) rather than reading as neutral description anyone could think.
+- **Leave room for the reader's imagination.** More grounding detail doesn't mean more total description, it means the details chosen land harder and get out of the way. A precise, specific sensory beat beats three generic ones.
+- **Micro body cues after dialogue** go a half-step further than the sample's action tags: a specific, small physical tell (weight shift, hand placement, breath) rather than a generic gesture, tied back to Tatsuya's established physical/behavioral signature (see `codex/characters/tatsuya-kazehaya.md`) wherever it's his beat.
+
+## Three hard rules (non-negotiable, on top of craft-rules.md)
+
+These apply to every chapter, including touch-ups to already-drafted ones.
+
+1. **Inner monologue is self-talk, not just narrated thought, and it gets a micro body cue right after.** The default texture for a monologue beat that matters: a short, punchy line that reads like Tatsuya actually talking to himself (not a summary of what he's thinking), immediately followed by a small, concrete physical tell, a facial change, a loc falling loose, hands doing something specific, in-game a character twitch or stance shift. Not every stray thought needs this treatment, but any beat carrying real weight does.
+2. **No metagaming.** Nothing happens or gets revealed on the page unless Tatsuya is directly involved in it or perceiving it. If he's not there, it didn't happen. Hints, tracking, reading a room, piecing together a puzzle from what he can actually observe, all fine, encouraged even. What's not fine: narrator-voice knowledge of something he has no way to know. The subtle way this rule gets broken is stating another character's private internal reasoning as flat fact ("she did X because she didn't want Y to find out") instead of Tatsuya's own inference ("he figured it was probably because..."). Watch for that specifically, it's easy to slip into without noticing.
+3. **Name/pronoun variation.** Single POV, tight third-person, never first person, no exceptions. Within that, don't default to "he" every single time, mix in "Tatsuya" as the sentence subject, it changes the rhythm and keeps long paragraphs from reading monotone.
+
+## Deeper technique notes from the fuller sample
+
+- **System/status text stays visually and structurally distinct from prose.** Bracketed or otherwise set apart, never blended into a regular paragraph.
+- **Combat reads through sensation and instinct, not a mechanical damage log.** What the POV character feels his body doing, times slowing, a shot lining up, a read on an opponent, rather than narrating every individual hit-point exchange. Numbers show up (a level, a damage tier) but as punctuation, not the throughline.
+- **Group dialogue moves fast once speakers are established.** Once the reader knows who's who in a scene, exchanges can run with minimal tagging, short lines, quick back-and-forth, trusting the reader to track it.
+- **Stat/status reveals get shown, then digested through the character's own analytical voice**, never dumped and left inert. A stat screen appearing is an excuse for Tatsuya to do exactly the kind of deductive reasoning already noted above, not just a block of numbers the prose skips past.
+- **Calculated thinking and gut instinct sit in real tension as a character texture.** Analytical by training but leans on intuition under pressure, both treated as legitimate, worth carrying into Tatsuya's own "thinks in numbers and odds" trait, calculation is his default, but combat/crisis moments can let instinct take over without that reading as a contradiction.
+
+**Anti-pattern flag:** the reference sample itself occasionally drifts into a passive omniscient aside (a stray sentence that isn't really filtered through the POV character). That is not the standard for this book. Rule 2 above is stricter than the sample's own practice, "the sample does it" is not a justification for doing it here.
+
+## How this interacts with existing rules
+
+Nothing here overrides `style-guide/craft-rules.md` (no em dashes, one speaker/thinker per paragraph, full sentences, banned physical beats, tight third-person locked to Tatsuya) or the house style reminder in `codex/lore/deck-building-rarity-and-classes.md` (mechanics shown sparingly, filtered through what Tatsuya perceives). This file is about texture and immersion within those constraints, not an exception to them.

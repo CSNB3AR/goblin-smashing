@@ -1,0 +1,21 @@
+# Pod / Helmet Hardware
+
+**Type:** Object/tech, real-world. Two distinct hardware form factors, not just three tiers of the same thing.
+
+## The three generations
+
+- **First-gen pods (Kazuhaya Tech originals):** full-body immersion pods, the "metal coffin" style, built on Daichi's original schematics. Predate HGO. Third-gen architecture descends from first-gen DNA, which is why a manual override/hack can run HGO on one at all, but doing so causes real lag and degradation, hardware never built for the game it's now being asked to run. Leon has the only two still running in the area.
+- **Second-gen pods (Tabuchi-backed):** also full-body "metal coffin" pods, made WITHOUT the true schematics (Daichi refused to sell them). Predate HGO entirely, originally built for other VR games before HGO existed. Only became HGO-compatible after the third-gen exclusivity window closed, and the lag is real: hardware that was never designed for this specific game, running it anyway. Funded, going back to the family's early days in VR hardware, by yakuza money laundered in through the Tabuchis, part of why the family is under real financial pressure of its own.
+- **Third-gen hardware (Kazuku / Nexus Enterprises):** not a pod at all, a **helmet**. Launched together with HGO specifically, and deliberately, because it's broadcast and arena-friendly: a seated player in a helmet reads on camera and in a live stadium far better than someone lying motionless in a coffin-shaped pod. Still fully nerve-synced, real sensation, real damage feedback (magnified but capped, see the pass-out limit below), just without the bulk. Standard, official HGO hardware today.
+
+## Exclusivity timeline
+
+- HGO launched exclusively on third-gen helmets only for the first 6 months, the only hardware built for the game from day one.
+- After that window, second-gen pods were permitted to connect, but with real lag, hardware built for other VR titles pressed into service for a game it was never designed to run, real business pressure on the Tabuchis to solve their hardware gap or lose the market.
+- Once third-gen drives and helmets became more affordable, internet cafes running second-gen pods could pay Nexus Enterprises a fee to exchange/upgrade to third-gen. Most major cafes took the deal, which pushed second-gen hardware out of most of the Japanese market, a real financial wound to the Tabuchis and part of what's driving their pressure on Tatsuya.
+
+## Damage and the pass-out limit
+
+Full sensation and real damage feedback across all hardware generations, magnified for drama but capped for safety. Taking enough damage in a fight causes a pass-out, which appears to carry its own real-world penalty, several days locked out of the game.
+
+**Open flag:** how this pass-out penalty relates to the seven-day death lock already established for actual character death (see `codex/lore/preserved-misc-mechanics.md`) needs confirmation before either one gets dramatized on the page, they may be two distinct tiers (pass out vs. true death) or the same mechanic described two different ways.
