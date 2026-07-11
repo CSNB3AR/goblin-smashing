@@ -10,7 +10,7 @@ He caught himself in the dark half of the window between the counter and the doo
 
 His phone buzzed against the counter. Chiyo.
 
-"Tabuchi called again. Told them the usual. Also, Tochi's application window opens back up Jan 4, I am gonna need a response soon, Tatsu."
+[Tabuchi called again. Told them the usual. Also, Tochi's application window opens back up Jan 4, I am gonna need a response soon, Tatsu.]
 
 Tatsuya read it twice, once for the words and once for the part right behind them that he didn't let himself finish. The same shape of memory it always dragged up.
 
@@ -18,7 +18,7 @@ Tatsuya read it twice, once for the words and once for the part right behind the
 
 He typed back a thumbs up, because a thumbs up cost nothing and didn't invite more, and put his phone face-down on the counter.
 
-On the screen, a bright, familiar voice was riding over the arena noise.
+On the screen, Yuna's bright, familiar voice was riding over the arena noise.
 
 "And if you're just tuning in, I'm Yuna, and welcome to the World Championship, live from Singapore, the biggest night HGO throws all year. London Spire's up a 190 to 150 over Aogiri, and Aogiri's down to their last three lives as a team. For anyone new to the competitive side of things, that's a 3v3 fight over three control points, first to two hundred takes it, or you burn through all thirty of your team's shared lives trying. And unlike a straight battle-arena reset, whatever these players have actually earned back in Eryndal rides into this match with them, don't let the fancy gear on-screen fool you into thinking it's cosmetic."
 
@@ -34,11 +34,11 @@ Behind him, sound cracked out of the speaker, sharp electronic hits stacking fas
 
 He didn't need to turn around for that part. He already knew what it sounded like when three lives went to zero in the same breath.
 
-"That's game," the caster said, arena noise swelling underneath, and Tatsuya let himself turn back around in time to catch the confetti falling on a stage he was never going to stand on.
+"That's game," Yuna said, arena noise swelling underneath, and Tatsuya let himself turn back around in time to catch the confetti falling on a stage he was never going to stand on.
 
 *"Knew it."* No triumph in the thought. Just the flat, familiar shape of being right about something that wasn't his to be right about.
 
-She wasn't finished. "London Spire takes the World Championship, forty million yen and the trophy, in front of a sold-out house here in Singapore and however many of you are watching from home."
+Yuna wasn't finished. "London Spire takes the World Championship, forty million yen and the trophy, in front of a sold-out house here in Singapore and however many of you are watching from home."
 
 *"Forty million,"* Tatsuya thought, and the thought went exactly where it always went. *"Even a tenth of that pays for the surgery outright. No more of Chiyo quietly covering gaps she thinks I don't notice. No more Tabuchi calls about Dad's old files..."*
 
@@ -50,7 +50,7 @@ Kazuku. Nobody's real face, round-bellied and grinning, HGO's logo stitched acro
 
 Gold light bloomed across the screen and resolved into five landmasses where there had only ever been one.
 
-"Eryndal is growing. The Crystal League expansion arrives this spring. Five new continents, kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are. Earn their trust, or don't. And competitive play is growing with it, three-on-three becomes five-on-five, room for real specialists now, not just whoever can cover the most roles at once. A whole new world for whoever's brave enough to claim its economy, and its worth."
+"Eryndal is growing. The Crystal League expansion arrives this spring. Five new continents, kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are. Earn their trust, or don't. And competitive play is growing with it, three-on-three becomes five-on-five. A whole new world for whoever's brave enough to claim its economy, and its worth."
 
 Tatsuya's hand had gone flat on the counter without him deciding to put it there. *"Damn, that's gonna change the meta, and heavily,"* was his first thought. He shrugged it off and kept listening.
 
@@ -66,7 +66,7 @@ Eren climbed out first, black team jacket zipped to the throat, a lotus crossed 
 
 Tatsuya's face didn't do much. Some small muscle around his mouth flattened out, the closest thing to a reaction he was willing to spend.
 
-Eren glanced back toward the car, at the driver still sitting behind the wheel, and pitched his voice like he was performing for an audience of one who wasn't going to answer him anyway. "Guess who we have here, Jarvy. It's our dear friend Tatsu." The driver didn't so much as turn his head. Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like, the kind a man kept when his whole job was making sure nothing out here ever needed his personal involvement, Eren's business handled through channels, not through him, not yet, not while Eren was still a minor on paper. *"Talk to my grandma about it."* The thought stayed exactly where it started, behind his teeth.
+Eren glanced back toward the car, at the driver still sitting behind the wheel, and pitched his voice like he was performing for an audience of one who wasn't going to answer him anyway. "Guess who we have here, Jarvy. It's our dear friend Tatsu." The driver didn't so much as turn his head. Tatsuya wasn't surprised either. Months of ignored calls had taught him exactly what silence from that car sounded like.
 
 "Bay's open," Tatsuya said, nodding toward it, voice level. "Card or account."
 
@@ -82,7 +82,7 @@ Behind Eren, the tank had gone quiet, eyes moving between the two of them like h
 
 Something in Eren's easy expression flickered, just for a second. For that second the old version of this, two kids theorizing builds on graph paper in a cafeteria that didn't exist for either of them anymore, surfaced somewhere behind his eyes and was gone, replaced by a small, satisfied smile with nothing warm in it.
 
-"Card," Eren said, tapping it against the reader without looking away from him. "Tell your mother I hope she's doing better."
+"Card," Eren said, tapping it against the reader without looking away from him. "I hope your mother's doing better."
 
 Tatsuya's jaw tightened. *"That son of a bitch wants me to kick his teeth in,"* was Tatsuya's first thought before he calmed himself down. He knew exactly what he was doing, throwing his mom's name around like that while she was still in a hospital bed.
 
@@ -154,7 +154,7 @@ His phone said 3:04 PM.
 
 *"What the hell."* He was up off the couch before the thought finished, blanket sliding to the floor, the television still running the same paused replay of London Spire lifting the trophy it had been running when he closed his eyes. Momo's door stood open. Taji's side of the couch was cold. Nobody home but him, and the whole day already gone without his permission.
 
-A note sat on the kitchen counter in Chiyo's handwriting. "Left early with the twins for the trip, didn't want to wake you after last night. Back Sunday. Eat something."
+A note sat on the kitchen counter in Chiyo's handwriting. [Left early with the twins for the trip, didn't want to wake you after last night. Back Sunday. Eat something.]
 
 *"Right."* The trip. He'd known about it and lost it completely the second his eyes closed, everyone else already a full day ahead of him and he hadn't even started.
 
@@ -162,6 +162,6 @@ His phone buzzed in his hand.
 
 Then again.
 
-A text from Nexus Enterprises sat at the top of the screen. Your HGO access drive order has been processed and is ready for pickup at your local partner station, WattsUp Shibuya. Please collect within 72 hours.
+A text from Nexus Enterprises sat at the top of the screen. [Your HGO access drive order has been processed and is ready for pickup at your local partner station, WattsUp Shibuya. Please collect within 72 hours.]
 
 Tatsuya read it standing in the middle of an empty apartment, the words landing heavier than a pickup notice had any right to. Whatever came next, it started today, and he was already behind.
