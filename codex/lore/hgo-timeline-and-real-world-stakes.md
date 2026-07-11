@@ -6,8 +6,8 @@
 - First 6 months: third-gen-exclusive beta window.
 - Second 6 months: second-gen access opens (with lag), leading into the first major championship at the end of year one.
 - Year two: an established pro scene, guilds, and sponsorships.
-- **"Tonight" (story present, December 4th, 2045)** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch.
-- **Crystal League expansion launch date: December 31st (New Year's Eve)**, three weeks after tonight's announcement and six days after Winter Bash (December 25th). The universal character-lock (see `codex/lore/competitive-pvp-and-esports-structure.md`) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
+- **"Tonight" (story present, December 10th, 2045, a Sunday, "Championship Sunday")** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Winter Bash (December 25th), six of which (roughly December 10th-16th) Chiyo and the twins spend away on their Kyoto trip, see `codex/subplots/tochi-academy-return.md`.
+- **Crystal League expansion launch date: January 1st**, a week after Winter Bash (December 25th). The universal character-lock (see `codex/lore/competitive-pvp-and-esports-structure.md`) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
 
 ## Real-world stakes — keep this simple, do not over-explain
 
@@ -15,10 +15,11 @@ HGO generates enormous real money because in-game currency and items convert dir
 
 **Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering the World Championship (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. See `outline/chapter-02.md`.
 
-## Named apps
+## Named apps and channels
 
 - **Loop** — the social-media app where HGO engagement, clips, and reactions live, a Twitter-equivalent. Ties forward to Arya's later footage-posting beat, see `codex/subplots/aryas-loop-discovery-and-reputation.md`.
 - **HGO Companion App** — the official read-only info app: livestreams, VODs, news, a forum/Reddit-equivalent space. Not used for actual gameplay, informational only.
+- **HGO TV** — Kazuku's official broadcast channel, the thing playing at WattsUp (see `codex/locations/wattsup.md`) and on Tatsuya's own TV at home. Match replays, Yuna's performances and caster appearances, and pro-scene news coverage (roster moves, Legacy Point cash-outs, format-shift fallout), all filtered on the page through Tatsuya's own insider recognition, never a narrator info-dump.
 
 **Do not** invent specific real-world resource-acquisition mechanics (no oil rigs, no doomsday market-collapse scenarios, no explicit geopolitical thriller machinery). Keep the real-world impact implied and atmospheric rather than mechanically explained. The story stays esports/guild/economy-focused at its core, not a geopolitical thriller.
 

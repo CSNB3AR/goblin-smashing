@@ -1,6 +1,6 @@
 # Sakura Arcade
 
-**Type:** Real-world location, Tokyo. Leon's business, where Tatsuya finds VR hardware access.
+**Type:** Real-world location, Tokyo (Shibuya ward, the far side from WattsUp/the Nakamura Grand, see `codex/locations/real-world-geography.md`). Leon's business, where Tatsuya finds VR hardware access.
 
 ## Visual reference (locked)
 

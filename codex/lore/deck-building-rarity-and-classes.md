@@ -6,6 +6,29 @@ Ties directly to Pillar 3 of `story/premise.md`: a player's permanent, earned in
 
 Background texture, world-building rather than something Tatsuya gets boxed into, his goblin kit (Physical Arts, Shaman's Veil, the Call of the Bones Necklace) stays its own thing. What other players and pro teams draw from: **Spellforger** (mage, elemental burst/crowd control), **Ironbreaker** (tank, shield and taunt), **Shadowveil** (rogue/assassin, stealth and crits), **Windrider** (archer/hunter, ranged DPS and pets), **Warden** (support/cleric, healing and buffs), **Wildcaller** (summoner/druid, beast summons and terrain control), **Berserker** (melee DPS, rage and cleave), and **Hybrid/Custom** (gear-driven multi-classing, consistent with the deck-building pillar, meta-breaking off-builds live here).
 
+## Per-race base stats (first-pass proposal, flagged for review)
+
+Every playable race (see `codex/lore/playable-races-and-character-creation.md`) starts with a base line across the six Disciplines+Energy stats (`codex/lore/five-disciplines-stat-system.md`), before any player-allocated leveling points (`codex/lore/leveling-and-progression.md`) get added on top. Illustrative starting values, not hard-locked, meant to read as flavor consistent with each race's established identity:
+
+| Race | Courage | Power | Wisdom | Speed | Fortune | Energy |
+|---|---|---|---|---|---|---|
+| Human | 6 | 6 | 6 | 6 | 6 | 6 |
+| Elf | 4 | 3 | 9 | 6 | 5 | 5 |
+| Orc | 6 | 9 | 3 | 5 | 4 | 7 |
+| Beastfolk | 5 | 8 | 3 | 8 | 4 | 6 |
+| Goblin | 4 | 4 | 2 | 7 | 9 | 4 |
+| Dwarf | 8 | 7 | 4 | 3 | 5 | 7 |
+| Frostborn | 8 | 6 | 5 | 4 | 4 | 7 |
+| Drakekin | 7 | 7 | 7 | 6 | 6 | 7 |
+
+Human reads balanced, no bias, matching Lunarest's "central hub" flavor. Elf leans hard into Wisdom (magic affinity), the natural draw for Tatsuya's original build plan before the glitch. Orc and Beastfolk both lean Power/Speed with a real Wisdom penalty. Goblin's low Wisdom is the already-established INT penalty (negated only by the Call of the Bones Necklace, see `codex/objects/call-of-the-bones-necklace.md`), offset by the race's signature high Fortune. Dwarf and Frostborn both read sturdy, Courage/Power-leaning. Drakekin, the rare achievement race, reads strong across the board, no clean single bias, consistent with it not being tied to a starting zone.
+
+## Race/class magic-access restrictions
+
+Not every race can freely learn every skill tree. A D&D-style convention: races with a Wisdom penalty (Orc, Beastfolk, Goblin) have restricted access to high-tier arcane/Spellforger-path trees by default, they lean into Physical Arts (see `codex/lore/preserved-misc-mechanics.md`) instead. Elves and Humans have full, unrestricted magic access. Dwarves and Frostborn sit in between, partial access, more elemental/rune-utility flavored than pure arcane.
+
+This is exactly what makes Tatsuya's eventual spellcasting capability as a goblin, unlocked specifically through the Shiv bond and the Shaman's Veil path (see `codex/objects/call-of-the-bones-necklace.md`), a real, remarked-upon anomaly in-world rather than a background non-event, a goblin who can genuinely cast is not supposed to happen.
+
 ## Rarity ladder
 
 A single color-coded rarity scale used consistently for both skills and items, and doubling as the card border color in the menu presentation below:

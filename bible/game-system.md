@@ -28,6 +28,24 @@ This is the mechanic Tatsuya's goblin lock interacts with and subverts (see Writ
 ### Playable races
 The full list a player browses at creation, curated down from an older, larger world-brainstorm document, trimmed to what actually serves the story: **Human, Elf, Orc, Beastfolk, Goblin, Dwarf, Frostborn, Drakekin** (rarer and harder to unlock, not tied to a starting zone, more of an endgame/achievement race). Each of the first six has a home zone in Eryndal (see Writing Bible §7, World regions): Human/Lunarest, Frostborn and Dwarf/Valefrost, Beastfolk and Goblin/Myrrhwood, Orc/Sunmarch, Elf/Azure Expanse. No Undead race, deliberately cut from the older brainstorm, doesn't serve this story.
 
+### Per-race base stats (first-pass proposal, flagged for review)
+Every race starts with a base line across the six Disciplines+Energy stats, before any player-allocated leveling points get added on top:
+
+| Race | Courage | Power | Wisdom | Speed | Fortune | Energy |
+|---|---|---|---|---|---|---|
+| Human | 6 | 6 | 6 | 6 | 6 | 6 |
+| Elf | 4 | 3 | 9 | 6 | 5 | 5 |
+| Orc | 6 | 9 | 3 | 5 | 4 | 7 |
+| Beastfolk | 5 | 8 | 3 | 8 | 4 | 6 |
+| Goblin | 4 | 4 | 2 | 7 | 9 | 4 |
+| Dwarf | 8 | 7 | 4 | 3 | 5 | 7 |
+| Frostborn | 8 | 6 | 5 | 4 | 4 | 7 |
+| Drakekin | 7 | 7 | 7 | 6 | 6 | 7 |
+
+Human reads balanced. Elf leans hard into Wisdom, the natural draw for Tatsuya's original build plan before the glitch. Orc and Beastfolk both lean Power/Speed with a real Wisdom penalty. Goblin's low Wisdom is the already-established INT penalty (negated only by the Call of the Bones Necklace, see §4), offset by the race's signature high Fortune. Dwarf and Frostborn read sturdy, Courage/Power-leaning. Drakekin reads strong across the board, no single bias.
+
+**Race/class magic-access restrictions:** races with a Wisdom penalty (Orc, Beastfolk, Goblin) have restricted access to high-tier arcane/Spellforger-path trees by default, they lean into Physical Arts (see §7) instead. Elves and Humans have full, unrestricted magic access. Dwarves and Frostborn sit in between, partial access. This is exactly what makes Tatsuya's eventual spellcasting capability as a goblin, unlocked through the Shiv bond and the Shaman's Veil path, a real, remarked-upon anomaly in-world, a goblin who can genuinely cast is not supposed to happen.
+
 ### Drive color
 An HGO access drive is a neutral silver/clear color before a character is created on it. Once a race is chosen (or, in Tatsuya's case, locked in by the power-blip accident), the physical drive changes color to match, a standard goblin roll comes out a dull, ordinary green, the color most players and NPCs recognize a goblin by at a glance. Tatsuya's drive doesn't get its distinct look until later, when the Call of the Bones Necklace (see §4) bonds him to Shiv, at that point it shifts to a distinct **emerald green**, visibly different from an ordinary goblin's drive. This is not a rare roll at creation, that origin stays exactly as established (hardware accident, no lucky break, plain goblin), the emerald shift is tied specifically to the later Shiv/World-tier bond, not to character creation itself.
 
@@ -35,8 +53,11 @@ An HGO access drive is a neutral silver/clear color before a character is create
 
 - Level starts at 1 (or backstory-appropriate).
 - XP comes from quests, fights, exploration, and world events.
-- On level up: +1 to all five Disciplines (baseline growth), a handful of stat points to distribute (narrated through action: training, quests, "the bones warmed at his throat"), an Energy increase, and occasionally a new Codex Entry (skill or minor item) from class/race lists or story rewards.
-- **Racial/Class growth:** Goblins grow Fortune faster than other races (an extra point or two per level, or a bias in free stat points), consistent with the underdog/luck-based arc the goblin race already carries in the Writing Bible. Other races grow more balanced or lean into their own strengths.
+- **Stat points, confirmed formula:** on level up, a character gets **2 stat points**, spent by the player across the six Disciplines+Energy, not an automatic +1 to everything. **Each stat caps at 75.** A deliberate scarcity mechanic, not a curve that eventually maxes out a character.
+- **Level 150 is the "first major" milestone.** Reaching it is rare and genuinely hard. At 150, a character has 300 total stat points to have spent, enough to push roughly **three of the six stats to their 75 cap**, with the rest spread thin. Nobody reaches a fully maxed stat tree.
+- **A further, much later expansion raises the ceiling toward level 300** (600 points at that rate), not reachable with any current in-story content.
+- Stat points are narrated through action (training, quests, "the bones warmed at his throat"), never a dry allocation screen. Level-ups also occasionally grant a new Codex Entry (skill or minor item) from class/race lists or story rewards.
+- **Racial/Class growth:** Goblins grow Fortune faster than other races (an extra point or two per level, or a bias in free stat points), consistent with the underdog/luck-based arc the goblin race already carries in the Writing Bible. Other races grow more balanced or lean into their own strengths, see §2 above for per-race base stats and magic-access restrictions.
 - **Codex Entries** (skills, feats, gear) carry a rarity tier from the ladder in §5 (Common through World), introduced organically, two to four per major arc, never as an upfront catalog dump. Scaling comes from higher tiers and better gear, not bigger numbers pasted onto the page.
 
 ## 4. The Goblin Signature Mechanic: The Call of the Bones Necklace

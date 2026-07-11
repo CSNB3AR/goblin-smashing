@@ -53,6 +53,12 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 - **The helmet itself is real tech, not just a helmet.** A visor with a basic heads-up display, wireless-linked to the bike, capable of showing something like a simple route/hazard overlay, a radar of sorts. Old, discontinued, exactly the kind of orphaned hardware nobody else still maintains, consistent with everything else established about the Haya EB. Worth remembering for later chapters, not needed on the page yet.
 - **Forward plot thread (later chapters, not drafted yet):** Tatsuya eventually builds a goblin trade company in Myrrhwood, using goblin-clan access to local materials to craft artifacts, a real extension of his father's tech legacy and his own tinkering instinct carried into the game itself. He partners with Beastfolk there and eventually earns a standing relationship with a Dwarf NPC willing to craft items for him on a regular basis. Ties directly to the Myrrhwood advantage note in §7.
 
+### Possessions: Daichi's tech manual
+A physical manual Daichi wrote/used for his hardware work, covering everyday tech like the Haya EB through to first-gen pod hardware. Tatsuya has kept it and still references it to maintain the Haya EB himself. In Chapter 2, he grabs it before heading out on a hunch, not yet sure why, it turns out to be exactly what lets him understand and override the first-gen pods at Sakura Arcade.
+
+### Geographic grounding
+Tatsuya has never traveled outside Shibuya ward. His whole world (WattsUp, the Nakamura Grand, Tochi Academy, Sakura Arcade) sits within it. This keeps any real-world search or errand naturally hyperlocal rather than a citywide odyssey, and makes even a trip to the far side of the ward (Sakura Arcade reads "cut off," "the other side of town" relative to WattsUp and home) feel like a real departure for him.
+
 ## 5. Family
 
 ### Daichi Kazehaya (father, deceased)
@@ -93,13 +99,14 @@ His only ride, a beat-up electric moped/scooter, old enough that most people mis
 ## 6. Supporting Cast
 
 ### Old Man Gato
-- Owner/manager of the WattsUp charge station where Tatsuya works.
+- Manager of the WattsUp charge station where Tatsuya works, and its original owner before the corporate buyout below.
 - Dark skin, gray stubble, sharp eyes behind thick glasses. Gruff but warm underneath.
 - Got Tatsuya the job. Tatsuya has worked there roughly a year, since dropping out of Tochi.
 - **Energy: Sanford and Son, Redd Foxx.** Not corporate-minded at all, he just follows the sponsorship rule because it's the deal, doesn't need or offer a reason why. Funny in a worn-in, cantankerous way. He's the human explanation for why the screen plays what it plays, not a policy document.
+- **Ownership history:** originally owned an independent gas station on the same lot. WattsUp, the global EV-charging corporation, bought him out once EVs came to dominate the 2045 transportation space, retrofitting the site into a branded, HGO-sponsored charging station. Gato took the buyout money and stayed on as manager rather than walking away, which is why the place reads upgraded and modern instead of rundown.
 
 ### Location: WattsUp
-Visual reference locked in (see uploaded station image): an old-school covered charge canopy at night, weathered but well-kept, not deserted. A tall pylon sign out front (repurposed for HGO ad rotation instead of fuel prices). String lights/pennants along the canopy edge. Three charge bays under the canopy, worn paint, functional. Attached to one side, a small convenience-store building with a lit window, a stone/rock facade accent, a counter inside where Tatsuya actually works the register, snacks and drinks, a small seating area. Open 24 hours. The whole place reads lived-in and a little tired, not glamorous, but running, the same energy as the family's whole situation. The overhead screen(s) showing HGO broadcasts live inside, at the counter, not bolted to the outdoor canopy.
+**WattsUp is a global corporate EV-charging chain, not an independent shop.** This location is managed day-to-day by Gato (see above). Visual reference locked in (see uploaded station image): an old-school covered charge canopy at night, weathered but well-kept, not deserted. A tall pylon sign out front (repurposed for HGO ad rotation instead of fuel prices). String lights/pennants along the canopy edge. Three charge bays under the canopy, worn paint, functional. Attached to one side, a small convenience-store building with a lit window, a stone/rock facade accent, a counter inside where Tatsuya actually works the register, snacks and drinks, a small seating area. Open 24 hours. The whole place reads lived-in and a little tired, not glamorous, but running, the same energy as the family's whole situation. The overhead screen(s) showing HGO broadcasts live inside, at the counter, not bolted to the outdoor canopy.
 
 ### Location: Sakura Arcade
 Visual reference locked in: warm pendant lighting, exposed brick and wood paneling, a real gaming-lounge feel rather than a dingy back-alley cafe. Themed gaming chairs, multiple screens per station. Reads well-kept and inviting on the surface even though Leon's business is struggling underneath, the two first-gen pods live somewhere less polished than the front-of-house setup this reference implies, an older, separate section of the space.
@@ -249,8 +256,8 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 - First 6 months: third-gen-exclusive beta window.
 - Second 6 months: second-gen access opens (with lag), leading into the first major championship at the end of year one.
 - Year two: an established pro scene, guilds, and sponsorships.
-- **"Tonight" (story present, December 4th, 2045)** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch.
-- **Crystal League expansion launch date: December 31st (New Year's Eve)**, three weeks after tonight's announcement and six days after Winter Bash (December 25th). The universal character-lock (see Competitive PvP format above) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
+- **"Tonight" (story present, December 10th, 2045, a Sunday, "Championship Sunday")** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Winter Bash (December 25th), six of which (roughly December 10th-16th) Chiyo and the twins spend away on their Kyoto trip.
+- **Crystal League expansion launch date: January 1st**, a week after Winter Bash (December 25th). The universal character-lock (see Competitive PvP format above) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
 
 ## 8. Stakes & Motivations
 
@@ -264,9 +271,10 @@ HGO generates enormous real money because in-game currency and items convert dir
 
 **Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering tonight's World Championship (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. Belongs in Chapter 2's already-outlined "next morning" opener.
 
-### Named apps
+### Named apps and channels
 - **Loop** — the social-media app where HGO engagement, clips, and reactions live, a Twitter-equivalent. Ties forward to Arya's later footage-posting beat (see her entry in §6).
 - **HGO Companion App** — the official read-only info app: livestreams, VODs, news, a forum/Reddit-equivalent space. Not used for actual gameplay, informational only.
+- **HGO TV** — Kazuku's official broadcast channel, the thing playing at WattsUp and on Tatsuya's own TV at home. Match replays, Yuna's performances and caster appearances, and pro-scene news coverage, all filtered through Tatsuya's own insider recognition, never a narrator info-dump.
 
 **Do not** invent specific real-world resource-acquisition mechanics (no oil rigs, no doomsday market-collapse scenarios, no explicit geopolitical thriller machinery). Keep the real-world impact implied and atmospheric rather than mechanically explained. The story stays esports/guild/economy-focused at its core, not a geopolitical thriller.
 

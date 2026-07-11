@@ -37,6 +37,10 @@ These apply to every chapter, including touch-ups to already-drafted ones.
 
 **Anti-pattern flag:** the reference sample itself occasionally drifts into a passive omniscient aside (a stray sentence that isn't really filtered through the POV character). That is not the standard for this book. Rule 2 above is stricter than the sample's own practice, "the sample does it" is not a justification for doing it here.
 
+## Recurring throughline: numbers going up
+
+A deliberate craft pattern, not just LitRPG flavor: the reader should be able to track Tatsuya's real progress in visible, countable terms across the story, not just combat spectacle. Three numbers matter most and should recur on the page over time: his **bank balance** (money), his **Loop follower count** (reputation), and his in-game **stats/level** (power). Small, bracketed check-ins on these (per the on-screen-text formatting rule in `style-guide/craft-rules.md`) are worth landing at natural beats, before a big decision, after a win, opening the game. Combat and story stakes still matter, but these are the numbers the story should visibly grow, and the reader should be able to feel the difference between chapter 2's numbers and chapter 20's.
+
 ## How this interacts with existing rules
 
 Nothing here overrides `style-guide/craft-rules.md` (no em dashes, one speaker/thinker per paragraph, full sentences, banned physical beats, tight third-person locked to Tatsuya) or the house style reminder in `codex/lore/deck-building-rarity-and-classes.md` (mechanics shown sparingly, filtered through what Tatsuya perceives). This file is about texture and immersion within those constraints, not an exception to them.

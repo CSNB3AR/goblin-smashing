@@ -50,7 +50,7 @@ Kazuku. Nobody's real face, round-bellied and grinning, HGO's logo stitched acro
 
 Gold light bloomed across the screen and resolved into five landmasses where there had only ever been one.
 
-"Eryndal is growing. The Crystal League expansion goes live New Year's Eve. Five new continents, kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are. Earn their trust, or don't. And competitive play is growing with it, three-on-three becomes five-on-five. A whole new world for whoever's brave enough to claim its economy, and its worth."
+"Eryndal is growing. The Crystal League expansion arrives January 1st. Five new continents, kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are. Earn their trust, or don't. And competitive play is growing with it, three-on-three becomes five-on-five. A whole new world for whoever's brave enough to claim its economy, and its worth."
 
 Tatsuya's hand had gone flat on the counter without him deciding to put it there. *"Damn, that's gonna change the meta, and heavily,"* was his first thought. He shrugged it off and kept listening.
 
@@ -90,9 +90,9 @@ Behind Eren, Haruto had gone quiet, eyes moving between the two of them like he 
 
 Something in Eren's easy expression flickered, just for a second. For that second the old version of this, two kids theorizing builds on graph paper in a cafeteria that didn't exist for either of them anymore, surfaced somewhere behind his eyes and was gone, replaced by a small, satisfied smile with nothing warm in it.
 
-"Card," Eren said, tapping it against the reader without looking away from him. "I hope your mother is getting better."
+"Card," Eren said, tapping it against the reader without looking away from him. "I hope your mother is doing better."
 
-Tatsuya's jaw tightened. *"That son of a bitch wants me to kick his teeth in,"* was Tatsuya's first thought before he calmed himself down. He knew exactly what he was doing, throwing his mom's name around like that while she was still in a hospital bed.
+Tatsuya's jaw tightened. *"Fake as always... he doesn't care about how my mom is doing,"* was Tatsuya's first thought before he calmed himself down. He knew exactly what Eren was doing throwing his mom's name around like that while she was still in a hospital bed.
 
 Tatsuya's grip on the counter's edge went white at the knuckle for one breath, then loosened again. Nothing on his face moved. He watched the charge indicator climb, green light by green light, until Eren finally turned back toward the car.
 

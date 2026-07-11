@@ -45,3 +45,7 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 ## Employment
 
 Works the register at WattsUp (see `codex/locations/wattsup.md`), Gato's charge station, roughly a year now, since dropping out of Tochi. Does not quit this job in the current outlined stretch of the story, it stays an ongoing, working-class anchor.
+
+## Geographic grounding
+
+Has never traveled outside Shibuya ward. His whole world (WattsUp, the Nakamura Grand, Tochi Academy, Sakura Arcade) sits within it, see `codex/locations/real-world-geography.md`. This keeps any real-world search or errand (like the cafe/pod search in Chapter 2) naturally hyperlocal rather than a citywide odyssey, and makes even a trip to the far side of the ward (Sakura Arcade reads "cut off," "the other side of town" relative to WattsUp and home) feel like a real departure for him.

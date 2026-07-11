@@ -8,6 +8,5 @@ An old-school covered charge canopy at night, weathered but well-kept, not deser
 
 ## Facts
 
-- Owned/managed by Old Man Gato (see `codex/characters/gato.md`).
-- A corporate HGO sponsor, the screen plays HGO broadcasts as part of that deal, not because anyone there chose to.
+- **WattsUp is a global corporate EV-charging chain, not an independent shop.** This specific location is managed day-to-day by Old Man Gato (see `codex/characters/gato.md`), who originally owned an independent gas station on the same lot before WattsUp bought him out, part of the broader real-world push of electric vehicles dominating the 2045 transportation space. WattsUp is itself an HGO corporate sponsor, which is why the screen plays HGO broadcasts as a contractual obligation, not a personal choice, and why the physical site reads upgraded and modern rather than a rundown independent operation.
 - Real-world geography: in Tokyo's Shibuya ward (Kanto region), a short Haya EB ride from the Nakamura Grand (see `codex/locations/nakamura-grand.md`) and `codex/locations/real-world-geography.md`.
