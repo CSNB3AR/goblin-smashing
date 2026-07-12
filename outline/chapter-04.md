@@ -1,6 +1,6 @@
 # Chapter 4 — Real-World Anchor (No VR)
 
-**Status: Scene plan locked, not yet drafted.** Target length 3,000-4,000 words (see `style-guide/craft-rules.md`).
+**Status: Drafted, see `chapters/chapter-04.md`.** Target length 3,000-4,000 words (see `style-guide/craft-rules.md`).
 
 **Deliberate craft call:** entirely real-world, no in-game scenes at all. After three chapters building the game world, this chapter stays grounded so the story doesn't over-index on the fantasy side this early.
 

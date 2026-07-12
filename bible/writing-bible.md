@@ -297,8 +297,8 @@ Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family
 ## 10. Craft / Writing Rules (Non-Negotiable)
 
 - No em dashes, anywhere, ever.
-- **Inner monologue: italics AND quotation marks together.** A deliberate, permanent house format, supersedes the brief quotes-only rule. Both markers, every time.
-- **Text messages, notes, and other on-screen/written text get square brackets, bold, not quotation marks.** **[Like this.]** Each bracketed system/UI line gets its own line, separated by a blank line from the next, not grouped together. Keeps them visually distinct from spoken dialogue and from inner monologue at a glance, the same instinct as the blue-box UI presentation for game text (see `bible/game-system.md` §5), applied to real-world written text too.
+- **Inner monologue: quotation marks only, no italics.** A deliberate, permanent house format (supersedes the earlier italics+quotes rule, which briefly superseded a quotes-only rule; this is the real, final, twice-reconfirmed standard). First-person, straight quotes.
+- **Text messages, notes, and other on-screen/written text get square brackets, plain, not bold, not quotation marks.** [Like this.] No bold wrapping. Keeps them visually distinct from spoken dialogue and from inner monologue at a glance, the same instinct as the blue-box UI presentation for game text (see `bible/game-system.md` §5), applied to real-world written text too.
 - One speaker or thinker per paragraph.
 - Full sentences in narration, no action fragments.
 - Every line of dialogue paired with an action, posture, or tone cue. No floating quotes.
