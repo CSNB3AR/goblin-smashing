@@ -7,3 +7,7 @@ An old, setting-wide prejudice: goblins (and demi-humans generally) have histori
 ## Myrrhwood's fractured clans
 
 Without a unifying figure like Shiv, the various goblin clans across Myrrhwood (see `codex/locations/eryndal-world-overview.md`) have fractured and turned on each other, exactly the behavior that reinforces the "feral" reputation from the outside. Compounding it, they're in ongoing conflict with the Beastfolk who share the region. The clans themselves increasingly believe they need a unifying figure to avoid destroying each other entirely, which is the real, in-world stakes behind the Thrash clan's push to reunify Myrrhwood under Shiv's legacy (see `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`), not just a quest objective, a genuine cultural need the camp itself believes in.
+
+## Village and city access, resolved
+
+Only Thrash-clan goblins can enter villages and settlements at all. Every other goblin clan, having fractured from Shiv's original unifying philosophy after his death, reads as feral and is barred outright. This is why any new player who rolls or ends up on Goblin defaults into the Thrash clan specifically, not a feral one, and it's worth a forward note: once Tatsuya's own reputation starts making Goblin a genuinely popular race choice (see `codex/subplots/aryas-loop-discovery-and-reputation.md`), this access distinction becomes visible to the wider playerbase too, plausibly even drawing Taji himself toward rolling a Thrash goblin once he learns who Kaiseki actually is.

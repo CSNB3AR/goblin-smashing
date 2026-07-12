@@ -1,6 +1,6 @@
 # Chapter 3 — Into Bloodhurst (First Camp Arc)
 
-**Status: Scene-by-scene beat sheet, not drafted prose.** Sent back for review before writing starts.
+**Status: Drafted.** See `chapters/chapter-03.md`. This beat sheet is now stale in a few particulars, the drafted chapter corrects the trigger for the fight (Tatsuya steps in defending a younger goblin, not himself hazed first), drops the "gobshit" line entirely (no forward-facing humor established yet), makes the gas+flare combo genuinely accidental rather than a discovered-and-tested combo, and resolves the World Quest activation as a keyword/philosophy trigger rather than a Fortune roll. See `chapters/chapter-03.md` and `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` for the corrected, current version of events.
 
 ## Scene 1 — Login shock, quick recovery
 
