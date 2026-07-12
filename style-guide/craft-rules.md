@@ -3,7 +3,7 @@
 These are the hard rules. Nothing in `style-guide/voice-technique.md` or anywhere else overrides them.
 
 - No em dashes, anywhere, ever.
-- **Inner monologue: italics AND quotation marks together.** A deliberate, permanent house format. The reader should always read it as him speaking in his own head. Both markers, every time, not one or the other. Example: `*"Like this."*`
+- **Inner monologue: quotation marks only, no italics.** A deliberate, permanent house format (supersedes the earlier italics+quotes rule). First-person, straight quotes, the way a person actually talks to themselves in their head. Example: `"Like this."`
 - **Text messages, notes, and other on-screen/written text get square brackets, not quotation marks.** `[Like this.]` Keeps them visually distinct from spoken dialogue and from inner monologue at a glance, the same instinct as the blue-box UI presentation for game text (see `codex/lore/deck-building-rarity-and-classes.md`), applied to real-world written text too.
 - One speaker or thinker per paragraph.
 - Full sentences in narration, no action fragments.

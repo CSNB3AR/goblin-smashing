@@ -5,7 +5,7 @@ This document distills technique from a reference sample the author shared (an e
 ## What the reference sample does well (worth keeping)
 
 - **Deductive internal narration around system mechanics.** The POV character reasons through stats, screens, and unfamiliar rules out loud in his own head, testing theories, drawing conclusions, getting them half right. This already fits Tatsuya, who "thinks in numbers and odds," lean into it whenever he's parsing something new about HGO or the Glory Codex.
-- **Inner monologue in italics AND quotation marks together** (house format, see `style-guide/craft-rules.md`), dropped directly into the narration mid-paragraph rather than set off as its own beat every time. The sample is a useful model for how naturally it can sit inside a sentence instead of interrupting it.
+- **Inner monologue in quotation marks only, no italics** (house format, see `style-guide/craft-rules.md`), dropped directly into the narration mid-paragraph rather than set off as its own beat every time. The sample is a useful model for how naturally it can sit inside a sentence instead of interrupting it.
 - **Dialogue paired with a tone or action beat**, never a floating line. Also a craft rule, the sample is consistent about it, worth matching that consistency exactly.
 - **Dry, understated internal wit.** Humor comes from the character's own deflating observations about his situation, not from narrator jokes. Fits Tatsuya's established humor-as-deflection trait directly.
 - **Consistent, spare formatting for system text**, notification dings, bracketed status/skill text, kept visually distinct from prose. Compatible with the blue-box/card presentation in `codex/lore/deck-building-rarity-and-classes.md`.
