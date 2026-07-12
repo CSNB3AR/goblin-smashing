@@ -50,7 +50,7 @@ His finger hovered over the logout command when another notification bloomed, pu
 
 **[ESTIMATED VALUE: WORLD-TIER REWARD]**
 
-*"Crazy how I didn't want this thing and it hands me a world quest."* He sat with that for a second. *"Plus an ability—if I use it right, I can really see some money come in."*
+*"Crazy how I didn't want this thing and it hands me a world quest."* He sat with that for a second. *"Plus an ability, if I use it right, I can really see some money come in."*
 
 He thought about his mom, the way he always did once he got some money. *"Can't get greedy. Anything valuable right now, I have to sell."*
 
@@ -66,7 +66,7 @@ The allocation screen dissolved.
 
 For a second there was nothing, no sound, no weight, the ambient hum of the pod fading out from under him like someone had cut a wire. Then it built back the other way, faint at first, wind, something crackling, voices layering in one at a time until the silence was gone completely and he was standing somewhere else.
 
-*"Full-dive. I'm actually in it."* Even through the disorientation there was a real, stupid grin trying to happen. Years of watching this from a couch, a screen, a job. The excitement showed on his face even through the bad conditions—this was his first dive ever.
+*"Full-dive. I'm actually in it."* Even through the disorientation there was a real, stupid grin trying to happen. Years of watching this from a couch, a screen, a job. The excitement showed on his face even through the bad conditions, this was his first dive ever.
 
 Sound came first, too many layers at once, voices arguing in a Japanese that didn't quite match the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap. Then smell, woodsmoke thick enough to taste, something cooking that leaned gamey, underneath it, bodies packed too close together in leather that hadn't been washed in a long time.
 
@@ -348,13 +348,13 @@ Sevish stood, walking around the table, heavy and deliberate. "You killed two of
 
 He laid it out plain and rough.
 
-"Myrrhwood is hell right now. Worse every year since Shiv's influence no longer lives among us—over a century gone, and the clans have never found their footing again without him. That's the real reason Wyx and I gathered people and came out here at all. To find what Shiv was hiding and maybe bring that knowledge back to our people."
+"Myrrhwood is hell right now. Worse every year since Shiv's influence no longer lives among us, over a century gone, and the clans have never found their footing again without him. That's the real reason Wyx and I gathered people and came out here at all. To find what Shiv was hiding and maybe bring that knowledge back to our people."
 
 "We've tried the rally three times," Sevish said. "Failed three times."
 
 *"Three."* Tatsuya filed it away without knowing why it felt like it mattered.
 
-"We've tried getting into the library by force," Sevish went on. "Doesn't work. What you did back there—moving through instead of fighting straight on—that's not something I've seen out of anyone in this camp. Could be exactly what this needs."
+"We've tried getting into the library by force," Sevish went on. "Doesn't work. What you did back there, moving through instead of fighting straight on, that's not something I've seen out of anyone in this camp. Could be exactly what this needs."
 
 "The library," Tatsuya repeated.
 
@@ -370,7 +370,7 @@ Sevish's tag flickered again. So did Wyx's.
 
 *"Guess that's a stupid question."* He noticed how tense it got immediately.
 
-"Then you stay here," Sevish said, without heat, like he was stating the weather. "I don't let someone who can drop two of my enforcers walk off without knowing which side he's on. And understand, if you take this and don't come back, we'll leave—back to Myrrhwood. And if we cross paths again, you'll be an enemy. This was already a gamble, and we've spent longer away from home than we should have."
+"Then you stay here," Sevish said, without heat, like he was stating the weather. "I don't let someone who can drop two of my enforcers walk off without knowing which side he's on. And understand, if you take this and don't come back, we'll leave, back to Myrrhwood. And if we cross paths again, you'll be an enemy. This was already a gamble, and we've spent longer away from home than we should have."
 
 Wyx spoke for the first time, dry, almost warm. "He was entertaining, at least. That's worth something."
 
