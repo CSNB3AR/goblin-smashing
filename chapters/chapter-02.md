@@ -130,7 +130,7 @@ The pod sat in the corner of a small, dim room, its curved shell reflecting the 
 
 *"Dad helped build this,"* he thought, feeling the weight of that thought sit heavier than it should have, a thrill and a twinge of nostalgia colliding in his chest.
 
-Setting his bag down, he pulled out the Nexus Enterprises sleeve and slid the access drive free. It was smaller than he'd expected, sleek black casing with a single port and the HGO logo etched into the surface in fine gold lines. A flicker of excitement surged through him as he turned it over in his hands, imagining the possibilities. He opened the pod's access panel, revealing a chaotic tangle of older connectors and cables that hadn't been touched in years.
+Setting his bag down, he pulled out the Nexus Enterprises sleeve and slid the access drive free. It was smaller than he'd expected, a flash drive in shape and size, sleek black casing with a single male connector on one end and the HGO logo etched into the surface in fine gold lines. A flicker of excitement surged through him as he turned it over in his hands, imagining the possibilities. He opened the pod's access panel, revealing a chaotic tangle of older connectors and cables that hadn't been touched in years.
 
 The manual sat open on the floor beside him, pages marked in his father's handwriting, notes scrawled in the margins where Daichi had worked through obstacles no one else had managed to figure out. Tatsuya scanned the diagrams, his heart racing as he recognized the significance of every note. Pulling a small toolkit from his bag, he got to work.
 
@@ -187,8 +187,16 @@ But it wasn't spinning anymore.
 The Goblin segment, once dull red, glowed green now, and text appeared beneath it, coldly definitive.
 
 [RACE SELECTED: GOBLIN]
-[PROCEEDING TO ATTRIBUTE ALLOCATION...]
 
 Tatsuya stared at the words, breath caught somewhere between his ribs and his throat, the realization hitting him sharper than expected.
 
 *"What the hell just happened?"* Panic flooded his mind, uncertainty gripping him hard on its heels. He'd become something he hadn't seen coming, and all he could think about was the Elf build slipping further and further out of reach.
+
+A second line resolved underneath it, gold instead of white.
+
+[RARE VARIANT DETECTED]
+[GAMBLER'S GAMBIT UNLOCKED]
+
+The panic stalled out for a second, replaced by something closer to disbelief. *"Everyone gets a roll at creation,"* he thought, the fact surfacing from a hundred forum threads he'd read years ago. *"I actually hit something."*
+
+[PROCEEDING TO ATTRIBUTE ALLOCATION...]

@@ -4,11 +4,13 @@
 
 ## Facts
 
-**World-tier** (purple) bound item, granted by Shiv during the "Call of the Bones" World Quest, the top of the rarity ladder (see `codex/lore/deck-building-rarity-and-classes.md`), reserved for World Quest rewards. Its card lists everything it grants in one place, so the item and its abilities always visibly correspond: a small bonus to Fortune, negates the goblin INT penalty, unlocks the Shaman's Veil spirit-magic path, and unlocks **Gambler's Gambit**.
+**World-tier** (purple) bound item, granted by Shiv during the "Call of the Bones" World Quest, the top of the rarity ladder (see `codex/lore/deck-building-rarity-and-classes.md`), reserved for World Quest rewards. Its card lists everything it grants in one place, so the item and its abilities always visibly correspond: an additional bonus to Fortune, negates the goblin INT penalty, unlocks the Shaman's Veil spirit-magic path, and **fully empowers Gambler's Gambit** into its complete active form.
 
-Also causes the visible drive-color shift described in `codex/objects/hgo-access-drive.md` once bonded.
+Deepens the drive-color bond described in `codex/objects/hgo-access-drive.md` once bonded (his drive already reads emerald green from the rare-variant roll at creation, see `codex/lore/playable-races-and-character-creation.md`).
 
 ## Gambler's Gambit
+
+**Origin:** a rare-variant roll at character creation (see `codex/lore/playable-races-and-character-creation.md`), not something the necklace invents from nothing. In its nascent, creation-roll form it's just a Fortune bonus and a once-per-day chance after combat to roll for Rare-or-higher loot, his real income engine early on. The Call of the Bones Necklace formalizes and fully empowers that same ability into its complete combat form, described below.
 
 **Design rule:** the Gambit never hands Tatsuya a borrowed or generic effect. It only ever amplifies or redirects abilities that are already his. One activation per in-game day, "the bones only speak once before dawn," and he chooses the mode at the moment he invokes it:
 
