@@ -20,7 +20,7 @@ Two goblin NPCs clock him moving strangely and accuse him of "going feral" (see 
 
 ## Scene 5 — First combat, first kill
 
-Tatsuya uses Goblin Gas as the igniter and Goblin Flare (normally an SOS/distress ability, repurposed here offensively) to set up a small explosion, killing both goblins. Played for dark comedy but landed with real weight, not treated as trivial. First ability showcase on the page, first level-up, first appearance of attribute-point allocation (2 points/level, per the confirmed formula, see `codex/lore/leveling-and-progression.md`). The kill also procs Long Shot, the goblin racial Fortune passive (see `codex/lore/deck-building-rarity-and-classes.md`), landing him his first real deck-building item, a Common-rarity goblin gadget belt (see `codex/objects/goblin-gadget-belt.md`), smoke and gas bombs, not a good weapon, but a real tool-based alternative to executing Goblin Gas by hand.
+Tatsuya uses Goblin Gas as the igniter and Goblin Flare (normally an SOS/distress ability, repurposed here offensively) to set up a small explosion, killing both goblins. Played for dark comedy but landed with real weight, not treated as trivial. First ability showcase on the page, first level-up, first appearance of attribute-point allocation (2 points/level, per the confirmed formula, see `codex/lore/leveling-and-progression.md`). The kill also procs Gambler's Gambit, the goblin racial Fortune passive (see `codex/lore/deck-building-rarity-and-classes.md`), landing him his first real deck-building item, a Common-rarity goblin gadget belt (see `codex/objects/goblin-gadget-belt.md`), smoke and gas bombs, not a good weapon, but a real tool-based alternative to executing Goblin Gas by hand.
 
 ## Scene 6 — Sevish arrives
 

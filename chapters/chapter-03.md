@@ -20,6 +20,8 @@ He let the menu close and looked back at the six numbers.
 
 *"Call of the Bones is still out there,"* he thought, the fact surfacing from a year and a half of watching this game from the outside. *"Nobody's cleared a new World Quest chain since before I even had a shot at playing. If it's real, it's real money. Not maybe money. Server-first money."*
 
+Below the six numbers, one line hadn't grayed out with the rest: [GAMBLER'S GAMBIT: ACTIVE]. He'd almost forgotten it was real, the gold text from the creation screen the night before. A Fortune bonus he already had, and a shot at Rare-or-higher loot once a day, after a fight, if he actually won one.
+
 *"Even a piece of that shows Chiyo something,"* he thought, and the thought steadied him more than it should have. *"Not the caster build. But maybe the build that pays."*
 
 He put one point into Wisdom, because leaving it at two felt like giving up on something before he'd even tried it, and one into Speed, because Speed kept things alive that had no business surviving.
@@ -145,7 +147,7 @@ He put both points into Speed without thinking twice about it. Wisdom could wait
 
 A second notification bloomed gold at the edge of his vision.
 
-[LONG SHOT PROC: FORTUNE CHECK PASSED]
+[GAMBLER'S GAMBIT PROC: FORTUNE CHECK PASSED]
 [ITEM DROP: GOBLIN GADGET BELT - COMMON]
 [ITEM DROP: MINOR ELIXIR x2]
 
