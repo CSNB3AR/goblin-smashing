@@ -358,11 +358,11 @@ He laid it out plain and rough.
 
 "The library," Tatsuya repeated.
 
-"The Grand Library of Lunarest. Find anything on Shiv up there, and it's worth more to us than you standing here understanding half of what I'm telling you."
+"The Grand Library of Lunarest. Find anything on Shiv up there." He folded his big arms.
 
 "You do this," Sevish said, "and you'll be guaranteed an ally of Thrash."
 
-*"He's saying that like it's charity. Timing's convenient. Expansion's coming. I was thinking about making some money, having the devs fix my issue and switch, but... I can't just throw this away. Guess I really am stuck... but in the right way."*
+*"He's saying that like it's charity... I can't just throw this away though. Guess I really am stuck... but in the right way this time."* He nodded to himself before his eyes met Sevish once more.
 
 "And if I don't?"
 
@@ -426,7 +426,7 @@ He turned the two green vials over in his hand, ¥8,400 stamped faint beneath th
 
 *"Sixteen thousand, eight hundred yen and a way to make some extra change. First money this game's ever paid me. Not a bad login."*
 
-*"Three days. Can't leave camp bounds until then anyway."* He thought about Chiyo at the front desk, and about however many hours had already burned off the six days without her knowing where any of it was going.
+*"Three days. Can't leave camp bounds until then anyway."* He thought about Chiyo, and Tochi ran deep in his mind.
 
 *"When I get off, I guess I need to find ways to prepare for Winter Bash and grab any details on goblins I can, as well as info on the quest."*
 
