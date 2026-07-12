@@ -8,7 +8,7 @@ Brief real panic at seeing [RACE SELECTED: GOBLIN] confirmed on-screen, but he d
 
 ## Scene 2 — The World Quest calms him down
 
-Before the panic fully sets in, he clocks that goblin World Quests are a real, rare opportunity, first-mover advantage on something the whole competitive scene will eventually chase (see `codex/lore/world-quests.md`). He decides to stay logged in and see what this actually looks like rather than logging straight back out over not getting his Elf.
+Before the panic fully sets in, he clocks that goblin World Quests are a real, rare opportunity, first-mover advantage on something the whole competitive scene will eventually chase (see `codex/lore/world-quests.md`). Crucially, this isn't abstract: World Quests mean real money, tying directly back to his established core motivation (Ohema's surgery, the Tabuchi debt, see `codex/characters/ohema-kazehaya.md`), the same math that got him to buy the drive in the first place. That's the actual tension underneath the panic, not just "this might be interesting," but "this could be the money." He decides to stay logged in and see what this actually looks like rather than logging straight back out over not getting his Elf.
 
 ## Scene 3 — Arrival at Bloodhurst
 
@@ -20,7 +20,7 @@ Two goblin NPCs clock him moving strangely and accuse him of "going feral" (see 
 
 ## Scene 5 — First combat, first kill
 
-Tatsuya uses Goblin Gas as the igniter and Goblin Flare (normally an SOS/distress ability, repurposed here offensively) to set up a small explosion, killing both goblins. Played for dark comedy but landed with real weight, not treated as trivial. First ability showcase on the page, first level-up, first appearance of attribute-point allocation (2 points/level, per the confirmed formula, see `codex/lore/leveling-and-progression.md`), and a first, minor deck-building item, not a good weapon, just something.
+Tatsuya uses Goblin Gas as the igniter and Goblin Flare (normally an SOS/distress ability, repurposed here offensively) to set up a small explosion, killing both goblins. Played for dark comedy but landed with real weight, not treated as trivial. First ability showcase on the page, first level-up, first appearance of attribute-point allocation (2 points/level, per the confirmed formula, see `codex/lore/leveling-and-progression.md`). The kill also procs Long Shot, the goblin racial Fortune passive (see `codex/lore/deck-building-rarity-and-classes.md`), landing him his first real deck-building item, a Common-rarity goblin gadget belt (see `codex/objects/goblin-gadget-belt.md`), smoke and gas bombs, not a good weapon, but a real tool-based alternative to executing Goblin Gas by hand.
 
 ## Scene 6 — Sevish arrives
 

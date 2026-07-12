@@ -21,7 +21,11 @@ Every playable race (see `codex/lore/playable-races-and-character-creation.md`) 
 | Frostborn | 8 | 6 | 5 | 4 | 4 | 7 |
 | Drakekin | 7 | 7 | 7 | 6 | 6 | 7 |
 
-Human reads balanced, no bias, matching Lunarest's "central hub" flavor. Elf leans hard into Wisdom (magic affinity), the natural draw for Tatsuya's original build plan before the glitch. Orc and Beastfolk both lean Power/Speed with a real Wisdom penalty. Goblin's low Wisdom is the already-established INT penalty (negated only by the Call of the Bones Necklace, see `codex/objects/call-of-the-bones-necklace.md`), offset by the race's signature high Fortune. Dwarf and Frostborn both read sturdy, Courage/Power-leaning. Drakekin, the rare achievement race, reads strong across the board, no clean single bias, consistent with it not being tied to a starting zone.
+Human reads balanced, no bias, matching Lunarest's "central hub" flavor. Elf leans hard into Wisdom (magic affinity), the natural draw for Tatsuya's original build plan before the glitch. Orc and Beastfolk both lean Power/Speed with a real Wisdom penalty. Goblin's low Wisdom is the already-established INT penalty (negated only by the Call of the Bones Necklace, see `codex/objects/call-of-the-bones-necklace.md`), offset by the race's signature high Fortune, the highest in the game at any race's base line, essentially nobody else builds around it the way a goblin can. Dwarf and Frostborn both read sturdy, Courage/Power-leaning. Drakekin, the rare achievement race, reads strong across the board, no clean single bias, consistent with it not being tied to a starting zone.
+
+### Goblin racial passive: Long Shot (new, name flagged for confirmation)
+
+Separate from and unrelated to Gambler's Gambit (which belongs specifically to the Call of the Bones Necklace, see `codex/objects/call-of-the-bones-necklace.md`, and which Tatsuya doesn't have yet). Every goblin's high base Fortune feeds a passive chance, on any kill, even a trash mob, to roll a bonus item/card drop no other race gets a shot at, "Long Shot" as a working name. Most goblins barely notice it, it procs rarely. Tatsuya's case is a real spike: the same Fortune-driven moment that triggers "Call of the Bones" activating for him (see `codex/lore/world-quests.md`) also procs Long Shot on the kill that triggers it, landing him a real item off two otherwise-worthless camp goblins. See `codex/objects/goblin-gadget-belt.md` for what he actually gets in Chapter 3.
 
 ## Race/class magic-access restrictions
 
