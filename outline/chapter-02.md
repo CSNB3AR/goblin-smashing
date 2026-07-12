@@ -1,6 +1,6 @@
 # Chapter 2 — Into the Game (~2,000-2,500 words)
 
-**Status: Scene-by-scene beat sheet, not drafted prose.** Sent back for review before writing starts.
+**Status: Drafted.** See `chapters/chapter-02.md`. This file is kept as the scene-by-scene reference, still accurate to the drafted chapter, with one location correction applied after drafting: the drive pickup happens at the Nexus Enterprises flagship store in Ginza (see `codex/locations/nexus-enterprises-flagship.md`), not at WattsUp.
 
 ## Scene 1 — Picking up right where Chapter 1 ends
 
