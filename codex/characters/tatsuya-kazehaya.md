@@ -2,8 +2,10 @@
 
 **Role:** Protagonist / POV character (locked third-person POV, always)
 **Age:** 18
-**In-game username:** TDRAG
+**In-game username:** TDRAG (see origin note below)
 **In-game character:** Goblin (see `codex/lore/playable-races-and-character-creation.md` for how)
+
+**TDRAG origin, Chapter 4:** because of the goblin-lock glitch, his account never had a username assigned. He creates it on the spot, mid-collision with Yunaile outside the hospital, while the HGO Companion App is actively prompting him to set one, not a name he'd already picked ahead of time.
 
 ## Appearance
 

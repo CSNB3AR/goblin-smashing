@@ -304,11 +304,10 @@ Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family
 - Every line of dialogue paired with an action, posture, or tone cue. No floating quotes.
 - **Banned physical beats:** jaw clenching, sighing as an emotional beat, pacing, swallowing hard, crossing arms, "chill ran down his spine," "heart pounded."
 - **POV:** Tight third-person, locked to Tatsuya at all times, no exceptions. The narrator never takes over, everything the reader learns about the world, other characters, or the setting has to arrive through what Tatsuya notices, does, or thinks, not through outside exposition. Real world first, VR second. No generic fantasy narration inside HGO. Real-life pressure (bills, twins, mom, Tabuchi) never fully turns off, even in-game.
-- **Chapter target:** roughly 4,000 words (flexible, clarity and pacing matter more than hitting an exact count; recent notes lean toward tighter chapters in the 2,000–2,500 range for serialized pacing). Serial format. Every chapter ends on a decision, complication, reveal, or gut-punch. No neat bows. No recap-heavy internal monologue. No lore dumps, the world is revealed only through Tatsuya living inside it.
+- **Chapter target:** roughly 3,000–4,000 words (updated from the earlier 2,000–2,500 baseline as the author's actual chapters settled at this length). Serial format. Every chapter ends on a decision, complication, reveal, or gut-punch. No neat bows. No recap-heavy internal monologue. No lore dumps, the world is revealed only through Tatsuya living inside it.
 
 ## 11. Open Questions / Flags for Confirmation
 
-1. **Chapter length target:** earlier notes said ~4,000 words per chapter; a later note asked for something closer to 2,000–2,500 for pacing reasons. Which one should this bible treat as the standing target going forward?
-2. **Companion/business name:** one dictated note referenced a company name that sounded like "Kazuto Tech" in the middle of a sentence about the pod exchange program. This bible assumes that was a slip for Kazuku/Nexus Enterprises (the only publisher/hardware entity established in canon) rather than a fourth company. Flag if that's wrong.
+1. **Companion/business name:** one dictated note referenced a company name that sounded like "Kazuto Tech" in the middle of a sentence about the pod exchange program. This bible assumes that was a slip for Kazuku/Nexus Enterprises (the only publisher/hardware entity established in canon) rather than a fourth company. Flag if that's wrong.
 
 Everything else in this document reflects confirmed decisions from the full development conversation.

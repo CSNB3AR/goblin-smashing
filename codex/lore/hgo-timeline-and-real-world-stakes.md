@@ -17,7 +17,7 @@ HGO generates enormous real money because in-game currency and items convert dir
 
 ## Named apps and channels
 
-- **Loop** — the social-media app where HGO engagement, clips, and reactions live, a Twitter-equivalent. Ties forward to Arya's later footage-posting beat, see `codex/subplots/aryas-loop-discovery-and-reputation.md`.
+- **Loop** — the social-media app where HGO engagement, clips, and reactions live, a Twitter-equivalent. Ties forward to Arya's later footage-posting beat, see `codex/subplots/aryas-loop-discovery-and-reputation.md`. **Chapter 4 detail:** the feed shows established players already switching to freshly-created post-reset characters and cashing in Legacy Points off their old ones (see the Crystal League character-lock mechanic, `bible/game-system.md` §3), some guild leaders visibly hesitating since it means starting over at level 1, even with the new-region level cap sitting at 25 for Winter Bash. This is what gives Tatsuya a real "I'm already ahead" feeling, his own character was never anything to retire in the first place.
 - **HGO Companion App** — the official read-only info app: livestreams, VODs, news, a forum/Reddit-equivalent space. Not used for actual gameplay, informational only.
 - **HGO TV** — Kazuku's official broadcast channel, the thing playing at WattsUp (see `codex/locations/wattsup.md`) and on Tatsuya's own TV at home. Match replays, Yuna's performances and caster appearances, and pro-scene news coverage (roster moves, Legacy Point cash-outs, format-shift fallout), all filtered on the page through Tatsuya's own insider recognition, never a narrator info-dump.
 

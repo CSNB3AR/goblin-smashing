@@ -10,7 +10,7 @@ These are the hard rules. Nothing in `style-guide/voice-technique.md` or anywher
 - Every line of dialogue paired with an action, posture, or tone cue. No floating quotes.
 - **Banned physical beats:** jaw clenching, sighing as an emotional beat, pacing, swallowing hard, crossing arms, "chill ran down his spine," "heart pounded."
 - **POV:** Tight third-person, locked to Tatsuya at all times, no exceptions. The narrator never takes over, everything the reader learns about the world, other characters, or the setting has to arrive through what Tatsuya notices, does, or thinks, not through outside exposition. Real world first, VR second. No generic fantasy narration inside HGO. Real-life pressure (bills, twins, mom, Tabuchi) never fully turns off, even in-game.
-- **Chapter target:** roughly 2,000–2,500 words for serialized pacing (an earlier ~4,000-word target has been superseded). Serial format. Every chapter ends on a decision, complication, reveal, or gut-punch. No neat bows. No recap-heavy internal monologue. No lore dumps, the world is revealed only through Tatsuya living inside it.
+- **Chapter target:** roughly 3,000–4,000 words (updated from the earlier 2,000–2,500 baseline as the author's actual chapters settled at this length). Serial format. Every chapter ends on a decision, complication, reveal, or gut-punch. No neat bows. No recap-heavy internal monologue. No lore dumps, the world is revealed only through Tatsuya living inside it.
 
 ## Open Questions / Flags for Confirmation
 
