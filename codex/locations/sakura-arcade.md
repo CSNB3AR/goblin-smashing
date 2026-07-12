@@ -9,5 +9,5 @@ Warm pendant lighting, exposed brick and wood paneling, a real gaming-lounge fee
 ## Facts
 
 - Owned by Leon (see `codex/characters/leon.md`), whose sister Arya (see `codex/characters/arya.md`) is also often present.
-- Has the only two first-gen Kazuhaya Tech pods still running in the area, see `codex/objects/pod-hardware.md`.
+- Has two first-gen Kazuhaya Tech pods, but only one is functional, the sole first-gen pod still running in the area, see `codex/objects/pod-hardware.md`. The other is a dead shell.
 - Where Tatsuya's character creation and the goblin glitch happen, see `codex/lore/playable-races-and-character-creation.md`.

@@ -1,6 +1,6 @@
 Chapter Two: Into the Game
 
-Tatsuya stood in the middle of the empty apartment, phone still in his hand, the Nexus Enterprises text glowing against his thumb. The pickup notice sat there like a dare he'd already accepted without meaning to, seventy-two hours to collect, and the clock had started ticking the second he'd pressed purchase last night.
+Tatsuya stood in the middle of the apartment, phone still in his hand, the Nexus Enterprises text glowing against his thumb. The pickup notice sat there like a dare he'd already accepted without meaning to, seventy-two hours to collect, and the clock had started ticking the second he'd pressed purchase last night.
 
 *"No going back now,"* he thought, and let the screen go dark.
 
@@ -66,7 +66,7 @@ Sakura Arcade's free window opened in just over an hour, and he still had to pic
 
 Daichi's tech manual sat on the shelf above his desk, spine cracked from years of use, pages dog-eared in a dozen places where his father had marked something worth coming back to. Tatsuya pulled it down, weighing it in his hands for a second longer than necessary, then tucked it under his arm.
 
-*"Not sure why I need this yet,"* he thought, heading for the door. *"Just a hunch."*
+*"I may need this,"* he thought, heading for the door. *"Just a hunch."*
 
 ---
 
@@ -82,7 +82,7 @@ The pickup counter sat toward the back, past a bank of demo pods where a handful
 
 Tatsuya rattled it off from memory and watched the guy scan something on his tablet, then disappear into the back. He came out a moment later with the same sleeve, same logo, and slid it across the counter.
 
-"Drive's pre-loaded," the attendant said. "Activation happens on first login. You've got seventy-two hours from purchase to register it, after that the license locks and you're stuck rebuying."
+"Drive's pre-loaded," the attendant said.
 
 "Got it," Tatsuya said, taking the package and turning back toward the door before the guy could upsell him on something he couldn't afford.
 
@@ -106,7 +106,7 @@ The guy's expression shifted, not quite a wince, more like someone who'd had thi
 
 "I know," Tatsuya said. "That's fine."
 
-The guy studied him for a second, like he was trying to figure out whether Tatsuya actually knew or was just saying he did, then shrugged and pulled a clipboard off the counter. "Sign in. Name, time, pod number. You've got the back room to yourself, both pods are open."
+The guy studied him for a second, like he was trying to figure out whether Tatsuya actually knew or was just saying he did, then shrugged and pulled a clipboard off the counter. "Sign in. Name, time. You've got the back room to yourself. Only one pod's actually running, the other's just a shell."
 
 Tatsuya took the pen and wrote his name across the top line in clean block letters. Tatsuya Kazehaya.
 
@@ -128,19 +128,17 @@ Leon nodded toward the back hallway. "Pods are through there, second door on the
 
 The pod sat in the corner of a small, dim room, its curved shell reflecting the single overhead light in long, uneven streaks. Tatsuya stood in front of it for a moment, taking in the scratched casing, the worn edges where the seal had been opened and resealed too many times, the faded Kazuhaya Tech logo still visible near the base. This was first-generation hardware, older than HGO by years, built for a completely different kind of VR experience, slower, smaller, more limited in every way that mattered.
 
-*"Dad helped build this,"* he thought, and felt the weight of that sit heavier than it should have.
+*"Dad helped build this,"* he thought, feeling the weight of that thought sit heavier than it should have, a thrill and a twinge of nostalgia colliding in his chest.
 
-He set his bag down, pulled out the Nexus Enterprises sleeve, and slid the access drive free. It was smaller than he'd expected, sleek black casing with a single port on one end and the HGO logo etched into the surface in fine gold lines. He turned it over in his hands once, then opened the pod's access panel and found the drive slot buried under a mess of older connectors and cables that hadn't been touched in years.
+Setting his bag down, he pulled out the Nexus Enterprises sleeve and slid the access drive free. It was smaller than he'd expected, sleek black casing with a single port and the HGO logo etched into the surface in fine gold lines. A flicker of excitement surged through him as he turned it over in his hands, imagining the possibilities. He opened the pod's access panel, revealing a chaotic tangle of older connectors and cables that hadn't been touched in years.
 
-The manual sat open on the floor beside him, pages marked in his father's handwriting, notes scrawled in the margins where Daichi had worked through problems nobody else had figured out yet. Tatsuya scanned the diagrams, cross-referencing connection points, then pulled a small toolkit from his bag and started working.
+The manual sat open on the floor beside him, pages marked in his father's handwriting, notes scrawled in the margins where Daichi had worked through obstacles no one else had managed to figure out. Tatsuya scanned the diagrams, his heart racing as he recognized the significance of every note. Pulling a small toolkit from his bag, he got to work.
 
-The override wasn't elegant. It was a bypass, a workaround, forcing the pod to accept input it was never designed to handle by rerouting power through secondary channels and tricking the system into thinking the HGO drive was legacy-compatible hardware. He worked quickly, hands steady, following his father's notes like a map through a problem that shouldn't have had a solution.
+The override wasn't elegant. It was a bypass, forcing the pod to accept input it hadn't been designed to handle, rerouting power through secondary channels and tricking the system into thinking the HGO drive was legacy-compatible hardware. He worked quickly, hands steady but his mind buzzing with anticipation.
 
-*"This isn't a one-time fix,"* he thought, tracing a finger along a component he recognized from the Haya EB's own guts, the same family of part, just older. Running current this hardware was never built to carry was going to wear it down for real, piece by piece, the same way it would have worn down the scooter if he'd ever let it run dry on maintenance. He'd need real replacement parts eventually, the kind that showed up inside a third-gen helmet, not a first-gen pod, and he'd need to keep doing this by hand, same as always. *"Nobody's coming to fix this but me. Same as everything else."*
+After what felt like an eternity, the drive clicked into place, and the pod's internal display flickered to life.
 
-Twenty minutes later, the drive clicked into place, and the pod's internal display flickered to life.
-
-Tatsuya closed the access panel, sealed it, and climbed into the pod itself, lying back against the padded interior as the shell hissed shut above him. The heads-up display lit up inside his visor, clean white text against black.
+Tatsuya closed the access panel and climbed into the pod, lying back against the padded interior as the shell hissed shut above him. The heads-up display lit up inside his visor, clean white text against black.
 
 [KAZUHAYA TECH FIRST-GENERATION VRPOD]
 [INITIALIZING...]
@@ -151,50 +149,46 @@ Tatsuya closed the access panel, sealed it, and climbed into the pod itself, lyi
 
 The display went dark. Then the world did.
 
-Sound came back first, a low hum building underneath everything, then light, bright enough that Tatsuya's eyes watered behind the visor before the brightness normalized. He was standing in a white void, no walls, no floor, no ceiling, just empty space that stretched in every direction without end.
+Sound returned first, a low hum building underneath everything, then light, bright enough that Tatsuya's eyes watered behind the visor before normalizing. He stood in a white void, no walls, no floor, no ceiling, just empty space stretching infinitely.
 
-Text appeared in front of him, floating at eye level.
+Text appeared before him, floating at eye level.
 
 [WELCOME TO ERYNDAL]
 [CHARACTER CREATION WILL NOW BEGIN]
 
-A wheel materialized in front of him, spinning slowly, each segment marked with a race name and a small icon. Human. Elf. Dwarf. Beastfolk. And at the bottom, locked behind a red padlock symbol, Goblin.
+A wheel materialized in front of him, spinning slowly, each segment marked with a race name and a small icon. Human. Elf. Dwarf. Beastfolk. And at the bottom, the Goblin segment glowed a dull red, marking off its rock-bottom stats, a warning more than a lock.
 
-Tatsuya reached out, fingers brushing the Elf segment, but he hesitated, gaze drifting down to the locked option. *"Goblin,"* he thought, curious despite himself. *"Why's that even here if it's not playable?"*
+Tatsuya reached toward the Elf segment first, but hesitation gripped him. A knot tightened in his stomach as his gaze drifted back to the Goblin option. *"Those base stats are so low,"* he thought, unease blooming into something closer to dread. *"No wonder no one picks it."*
 
-He tapped it, just to see what would happen.
+In a moment of impulse, he tapped the Goblin segment, just to see what would happen.
 
-The wheel stopped spinning.
+The wheel stopped spinning, and the lights flickered out.
 
-The lights went out.
-
-Not just in the pod. Everywhere. The hum underneath everything cut off mid-note, and the void vanished, replaced by pure, weightless black. Tatsuya's breath caught, hands reaching instinctively for something solid that wasn't there, and then sound crackled back, distant, distorted, Leon's voice cutting through the dark from somewhere outside the pod.
+Not just in the pod. Everywhere. The hum of power cut off mid-note, and the void dissolved into weightless black. Tatsuya's breath caught, hands reaching instinctively for something solid that wasn't there. Sound crackled back in, distorted, Leon's voice cutting through the dark.
 
 "Hey, you alright in there?"
 
-Tatsuya blinked, vision swimming as light flickered back into the edges of his visor, unstable, strobing in and out like the system was trying to reboot and failing halfway through. "Yeah," he called back, voice tight. "I'm fine."
+Tatsuya blinked, vision swimming as light flickered back into the edges of his visor, unstable, like the system was rebooting halfway through. "Yeah," he called back, voice tight with anxiety. "I'm fine."
 
 "Backup generator just kicked in," Leon said, closer now, right outside the pod. "You running anything unusual?"
 
-*"Do I tell him?"* Tatsuya thought. *"Does he even know what I did?"*
+*"Do I tell him?"* Tatsuya thought, panic rising. *"Does he even know what I did?"*
 
-The pod's external monitor was dark, he'd noticed that on the way in, a dead screen Leon hadn't bothered fixing because nobody was watching solo sessions anyway. Which meant Leon couldn't see what Tatsuya was doing, couldn't see the character-creation screen, couldn't see the locked race he'd just touched.
+The pod's external monitor was dark, he'd noticed that on the way in, a dead screen Leon hadn't bothered fixing because solo sessions went unmonitored. Which meant Leon couldn't see what Tatsuya was experiencing.
 
-"No," Tatsuya said, keeping his voice level. "Just character creation. Standard stuff."
+"No," Tatsuya said, keeping his voice level but strained. "Just character creation. Standard stuff."
 
 "Alright," Leon said, footsteps retreating. "Let me know if it kicks again."
 
-The light stabilized. The void came back, white and empty, and the character-creation wheel reappeared in front of him, spinning again like nothing had happened.
+The lights stabilized. The void came back, white and empty, and the character-creation wheel flickered back into view in front of him.
 
-Except it wasn't spinning anymore.
+But it wasn't spinning anymore.
 
-It was locked.
+The Goblin segment, once dull red, glowed green now, and text appeared beneath it, coldly definitive.
 
-The Goblin segment glowed green where it had been red a moment before, and text appeared beneath it, small and certain.
-
-[RACE LOCKED: GOBLIN]
+[RACE SELECTED: GOBLIN]
 [PROCEEDING TO ATTRIBUTE ALLOCATION...]
 
-Tatsuya stared at the words, breath caught somewhere between his ribs and his throat, and the only thought that made it all the way through was sharp and simple and undeniable.
+Tatsuya stared at the words, breath caught somewhere between his ribs and his throat, the realization hitting him sharper than expected.
 
-*"What the hell just happened?"*
+*"What the hell just happened?"* Panic flooded his mind, uncertainty gripping him hard on its heels. He'd become something he hadn't seen coming, and all he could think about was the Elf build slipping further and further out of reach.
