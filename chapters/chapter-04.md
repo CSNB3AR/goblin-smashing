@@ -8,37 +8,46 @@ He sat up slow, pulling the visor off and setting it on the rim beside him. The 
 
 The drive sat in his palm when he pulled it free, smaller than it had looked going in, black casing catching the overhead light. He turned it over once, checking the port, then clipped it to his belt and stood.
 
-His legs answered without the lag he'd half-expected, no stumble, just tired in the specific way standing for four hours straight made a body tired. "Felt like less than that in there."
+His legs answered fine, no stumble, just the kind of stiff that came from folding a body that size into a pod built for somebody smaller. He rolled his neck once, something popping in his back, and huffed out a breath. "Gotta remember to stretch before I get in that thing next time."
 
-He pulled his phone out on the walk back to the main room, thumbing the HGO Companion App open. A small prompt sat waiting at the top of the screen.
+He pulled his phone out on the walk back to the main room and unclipped the drive from his belt, turning it until the small chip on the back caught the light. He opened the HGO Companion App and held the drive flat against the back of the phone.
+
+[SCANNING...]
+[DRIVE DETECTED]
+[LOGGING IN...]
+
+The screen resolved a second later into his account page, the goblin face from an hour ago staring back at him from a small circle at the top.
 
 [USERNAME NOT SET. TAP TO CREATE ONE.]
 
-"Later." He swiped it away without thinking twice and kept scrolling.
+"Later." He swiped it away and kept scrolling.
 
-His goblin card loaded underneath, the same green-skinned face he'd been wearing an hour ago staring back at him from a still image. Beneath it, two ability slots sat already filled, no card needed for either.
+Near the bottom of the page, a single line sat under a small header. Spells Available: Goblin Gas, Goblin Flare. No cards, no stat breakdown, just the names. Made sense. None of that mattered outside a fight, and he wasn't in one anymore.
 
-[GOBLIN GAS - INNATE]
-[GOBLIN FLARE - INNATE]
-
-His actual inventory sat below that, three real slots.
+His inventory sat above that, three items.
 
 [GOBLIN GADGET BELT - COMMON (LOCKED)]
 [GAMBLER'S EARRING - RARE (BOUND, CANNOT BE SOLD)]
 [MINOR ELIXIR x2 - UNCOMMON]
 
-He tapped the elixirs, and a small auction interface unfolded, a listed price already populated from market data.
+He tapped the elixirs, and the app flagged something before he could do anything else.
+
+[BANK ACCOUNT REQUIRED TO COMPLETE SALE]
+
+He linked the account his WattsUp paychecks already landed in, a few taps and a code texted to his phone, and the warning cleared.
 
 [MARKET VALUE: ¥8,400 EACH]
 [LIST FOR SALE?]
 
-"Don't need them. Belt stays, earring's stuck to me anyway." He confirmed the listing and watched both vials disappear from his inventory a second later, replaced by a single line, gold-bordered.
+He confirmed it, expecting to wait on a listing the way anything worth real money would. Instead the vials vanished from his inventory almost immediately, replaced by a single line, gold-bordered.
 
 [SALE COMPLETE: ¥16,800 DEPOSITED]
 
-His bank balance ticked up at the top of the screen, and he sat with that a second, the number doing something to his chest that four hours of getting chased around a goblin camp hadn't managed.
+"That's it? That fast?" He turned it over a second before the logic caught up with him. Common gear like this always had a standing order sitting somewhere, someone who'd already told the market they'd buy the instant it showed up, no bidding, no waiting on a real buyer. Elixirs weren't rare enough to sit and wait, they just filled a slot somebody else had already paid to reserve. Different story entirely if it had been something people actually wanted.
 
-"First real money this game's ever handed me, and I didn't even have to log back in to collect it." He pocketed the phone, then pulled it back out almost immediately and opened Loop instead, thumb moving on habit.
+His bank balance ticked up at the top of the screen anyway, and he sat with that a second, the number doing something to his chest that four hours of getting chased around a goblin camp hadn't managed.
+
+"First real money this game's ever handed me." He pocketed the phone, then pulled it back out almost immediately and opened Loop instead, thumb moving on habit.
 
 His own profile loaded first, the follower count still sitting low in the corner. He typed out a real bio this time, not the blank space he'd left it as for a year, something short about the goal, pro league, eventually, cut it down twice before he let it post. Then he backed out to the feed, and the feed was already loud.
 
@@ -57,45 +66,53 @@ Leon was at the counter when Tatsuya stepped back into the main room, tablet in 
 
 "Pod held," Tatsuya said, keeping his voice level. "No crashes. Ran longer than I thought it would."
 
-Leon nodded, something in his posture easing. "Good. That's good." He glanced past Tatsuya toward the back hallway. "You do something to it I should know about?"
+"Good. Good." Leon nodded, easy, nothing behind it. He rolled his shoulders once, glanced toward the dark hallway leading to the second pod, then back. "Listen, I want to be upfront with you before you get too comfortable coming back here. Service is gonna be slow for a while, and I don't want you showing up if you're only here for the free access and it turns into a bad habit for both of us."
 
-Tatsuya's hand went flat on the counter, a tell he didn't bother hiding. "I overrode the compatibility lock. Used my dad's notes to route the HGO drive through a bypass. It's not pretty, but it works."
+Tatsuya did the math on that fast. Nobody warned a paying customer off free access unless something underneath it was actually bad. "Why's it slow?"
 
-Leon went still for a second, a short laugh breaking loose despite himself. "Of course you did." He shook his head, not angry, closer to impressed. "Your dad would've done the same thing."
+Leon rubbed a hand over his face, the kind of tired that had nothing to do with the hour. "Nobody comes in for retro setups anymore. We're getting run over by every third-gen cafe in a five-block radius. Been that way a while now."
 
-"Yeah," Tatsuya said. "He would have."
+"Where exactly are you getting dominated?" Tatsuya asked, already turning it over.
 
-They stood there a moment, the quiet sitting comfortable in a way it hadn't been earlier.
+"Everywhere that matters," Leon said, dry. "Bookings, foot traffic, word of mouth. People see first-gen and assume it's a museum piece."
 
-"Listen," Leon said, leaning forward onto his elbows. "I'm gonna be straight with you. This place is bleeding money. Has been for a while now. My sister and I inherited it from our grandfather, and we've been trying to keep it afloat, but third-gen cafes are eating our lunch. Nobody wants first-gen hardware anymore, and the people who do can't afford what it costs to keep these things running."
+Tatsuya's thumb found the edge of the counter. "I think I should let you know something too, then. Might work out in both our favor."
 
-Tatsuya watched him, not interrupting.
+Leon's eyebrows went up. "Let's hear it."
 
-"The second pod's been dead for months," Leon went on. "I've had three techs look at it, all of them said the same thing. Too old, parts don't exist anymore, not worth the time. But if you can get it running the way you got that one running, and if we can get VRSA clearance on both of them, I can put the second pod into commercial rotation. Charge for it. Actually bring some money in instead of just hemorrhaging it."
+"I had a chance to override one of the pods. Wanted to see if it'd actually take HGO." He kept his voice level, watching Leon's face for the reaction he already knew was coming. "Used my dad's manual. That's what caused the glitch earlier, not the hardware failing on its own."
 
-"What's the catch?" Tatsuya asked.
+Leon went very still. "Wait. Is the machine okay?"
 
-"No catch," Leon said. "You fix it, you get guaranteed access to the first pod. I bring a tech in tomorrow morning to make sure we're not running anything that'll blow up in my face later, and you come back to help walk them through whatever you did. We keep it quiet until both pods are actually cleared and running. No social posts, no telling people you've got working HGO pods here until we're genuinely done. Sound fair?"
+"It's fine," Tatsuya said. "Ran the whole session without another hiccup." He let that sit a second before he kept going. "But since we're both already gambling here, I'll tell you the rest of it. Your other pod's completely out of sync. Dead, from what I can tell. If I can get both of them running the way I got that one running, you've got two working HGO pods in a city where every venue's booked out for weeks. That's not nothing."
 
-"Guaranteed access sounds good, but it's not enough on its own." Tatsuya's thumb found the edge of the counter and pressed there. "Five PM every night only gets me four hours before you close. That's not enough time to actually make this work."
+Leon studied him, something shifting behind his glasses. "You're telling me you actually got HGO running on hardware this old."
 
-Leon studied him a second, reading something Tatsuya wasn't sure he'd meant to show. "What are you trying to do, exactly?"
+"Took me a while," Tatsuya said. "That's the real reason the session ran long. Wasn't the game. It was getting the thing to accept the drive in the first place."
 
-"Make money," Tatsuya said plainly. "Winter Bash is three weeks out. Ten million yen prize pool. I need to be ready for it, and I need more than four hours a night to get there."
+"That's," Leon started, and didn't finish it, shaking his head slow instead.
 
-Leon's expression shifted, not quite a wince, closer to recognition. "You're serious about this."
+"The second pod's the harder problem," Tatsuya said. "I can probably get it running the same way, but doing it right, doing it so it doesn't fall apart in a month, needs upgraded parts. The kind that don't exist on a shelf anymore." He paused. "I've got a lead on where to actually find that information, though."
 
-"Yeah."
+"What kind of lead?"
 
-Leon looked past him toward the back hallway again, thinking. "Alright. Here's what I can do. You fix the second pod, help me get both of them VRSA-cleared, and you can have as many hours as you need on the first one. Off-hours, late nights, whatever. Just don't break it, and don't tell anyone until we're actually ready to advertise."
+"I go to Tochi."
 
-"Deal," Tatsuya said.
+Leon blinked. "The Tochi?" Something in his face recalibrated, quick and visible. "Alright. That explains a lot, actually."
 
-Leon offered a hand across the counter and Tatsuya shook it, feeling the weight of the promise settle between them.
+"Wasn't trying to lead with it," Tatsuya said.
 
-"One more thing," Leon said, pulling his hand back. "My parents want my sister back overseas. They've been pushing for months. She won't go. Partly because of HGO, partly because she won't leave me holding this place alone when it's this close to going under. If we can actually turn this around, get some real revenue coming in, it takes that pressure off both of us."
+"You didn't have to." Leon leaned back against the counter, arms loose. "Alright. Here's what I want to do. I'll call a tech in tomorrow, start moving this toward real VRSA clearance, because I can't have just anyone touching that second pod, and I can barely let people near the one with the busted external monitor as it is. If you're serious about this, can you come back around nine, nine-thirty, when we open?"
 
-"I'll get it done," Tatsuya said, and meant it more than the words let on. Fixing a dead pod on nothing but a bypass and a hunch was one thing. Doing it clean enough to pass an actual safety inspection was another, and he already knew exactly where that second kind of knowledge lived. "Tochi's got the real coursework on this stuff, the stuff Kazuku actually built these newer systems on. I've been getting by on what Dad left behind. If I want to do this right instead of just patching it together twice a month, I need what they're teaching there."
+"Yeah," Tatsuya said. "I can do that."
+
+"And if this actually works," Leon said, "one of those pods is yours, permanently, whenever you want it. Consider it sponsored, if you want to think about it that way. However these players and their backers usually run it. Just keep it quiet till we're actually there. No posts, nobody hearing there's working HGO pods here until we're genuinely ready."
+
+"Sponsored." Tatsuya turned the word over once. "Yeah. Okay."
+
+"One more thing," Leon said. "My parents want my sister back overseas. Been pushing for months. She won't go, partly because of HGO, partly because she won't leave me holding this place alone this close to going under. If we actually turn this around, that pressure eases off both of us."
+
+"I'll get it done," Tatsuya said, and meant it more than the words let on. Fixing a dead pod on nothing but a bypass and a hunch was one thing. Doing it clean enough to pass an actual safety inspection was another, and he already knew exactly where that second kind of knowledge lived. Tochi had the real coursework on this stuff, the stuff Kazuku had actually built these newer systems on. He'd been getting by on what Dad left behind. If he wanted to do this right instead of patching it together every few weeks, he needed what they were teaching there.
 
 The thought sat there, uninvited and unwelcome a week ago, and didn't feel that way anymore.
 
