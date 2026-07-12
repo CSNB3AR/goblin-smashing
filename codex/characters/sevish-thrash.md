@@ -2,6 +2,10 @@
 
 **Role:** Goblin chieftain, leads the Thrash clan out of Bloodhurst (see `codex/locations/bloodhurst.md`). Wyx Thrash's brother. First appears Chapter 3 (camp arc).
 
+## Appearance
+
+Visual reference locked. Broad, hulking build, bigger and heavier than a standard goblin, matches his "massive presence" characterization. Red-orange toned skin, prominent lower tusks, a rune marking etched into his brow. Thick dark hair worn in two heavy braids over his shoulders. Wears a red ceremonial wrap/robe with tan geometric tribal patterning, battle-worn rather than pristine, consistent with a chieftain who leads from the front, not a court figure.
+
 ## Facts
 
 Level 80. Massive presence, scarred, commands total respect. Gives Kaiseki (Tatsuya's in-game name) his central ultimatum, prove himself within a set window or be treated as an enemy, and later treats the Shiv bond as a genuine honor.

@@ -188,7 +188,7 @@ He threaded a gap between two tents barely wide enough for his shoulders, his sm
 
 The cooldown on Goblin Gas ticked at the edge of his vision. [COOLDOWN: 30 SECONDS. 25.]
 
-Somewhere off to his left, a tent flap snapped open. A goblin stepped out into the open, wild white hair, copper rings catching the firelight, arms loose at her sides instead of reaching for a weapon.
+Somewhere off to his left, a tent flap snapped open. A goblin stepped out into the open, wild green hair loose and high, arms loose at her sides instead of reaching for a weapon.
 
 "Someone important. Not helping either side."
 
@@ -269,7 +269,7 @@ Three goblins in real armor, not rags, white tags, weapons drawn but not raised.
 
 "You're coming with us," one said. Another peeled off toward the crate, where the smaller goblin was still pressed against the wood. "You too."
 
-They didn't bind either of them, just flanked them through camp toward the center. Goblins stopped to watch. Some whispered. The woman with the copper rings fell in a few steps behind, unhurried, still watching him the way she had through the whole chase.
+They didn't bind either of them, just flanked them through camp toward the center. Goblins stopped to watch. Some whispered. The green-haired woman fell in a few steps behind, unhurried, still watching him the way she had through the whole chase.
 
 They stopped at a tent bigger than the rest, bone totems carved into the posts on either side of the flap. Inside, the air went cooler, darker, a single oil lamp throwing uneven light across a scarred goblin seated behind a crude table, a bone-carved staff leaning against his chair.
 

@@ -4,7 +4,7 @@
 
 ## Appearance
 
-Wild white hair with copper rings, blue leather armor, red eyes.
+Visual reference locked, updating the earlier placeholder description. Wild green hair, worn loose and high, green eyes, a sharp, toothy grin. Ranger/archer-coded gear: a fitted green top, brown leather harness and arm wraps, a quiver of arrows across her back, daggers and pouches slung on her belt. Reads agile and sharp rather than heavily armored, matching her "sharp and quick to challenge" characterization.
 
 ## Facts
 
