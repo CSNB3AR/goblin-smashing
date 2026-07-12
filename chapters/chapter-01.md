@@ -1,4 +1,4 @@
-# Chapter One: No Resets in Shibuya
+# Chapter One: The Countdown Starts
 
 Nobody left at WattsUp this late but Tatsuya. He worked a rag along the counter in slow, even strokes, cleaning that filled time more than it filled a need.
 
