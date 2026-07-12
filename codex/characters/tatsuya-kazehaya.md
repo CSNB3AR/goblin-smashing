@@ -45,6 +45,7 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 - `codex/subplots/goblin-trade-company-forward-plot.md` — a forward plot thread built on his father's tinkering legacy.
 - `codex/subplots/technical-arc-leon-and-sakura-arcade.md` — his growing role keeping Leon's arcade running.
 - `codex/subplots/tochi-academy-return.md` — the open decision hanging over Chapter 1 and beyond.
+- `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md` — the long-term end goal, reaching (and staying in) the pro league, and beating Eren along the way.
 
 ## Employment
 
