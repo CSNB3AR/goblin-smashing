@@ -222,8 +222,22 @@ A string of letters and numbers sat at the top, her friend code, and beneath it,
 
 December 23rd.
 
-"Two days before Winter Bash." He stared at it a second. "She gave me her code and a date. No name. Just this."
+"I didn't even get her name." He stared at it a second, turning the paper over like the back might have one written somewhere he'd missed.
 
-He pocketed the note and looked down the hall where she'd gone, empty now, and let himself feel, for exactly as long as it took to walk to the exit, like the day hadn't been entirely bad.
+He pocketed the note and looked down the hall where she'd gone, already empty, and the quiet that followed didn't hold. Ms. Sugiyama's voice came back first, low and careful, then the second nurse's. Six months. Chiyo knew. She's known. The two things sat next to each other in his chest and refused to stay separate, the note in his pocket and the sentence he couldn't unhear, and the second one won.
+
+He pulled out his phone.
+
+Chiyo's last message was still sitting at the top of the thread, the one about Tochi, the one he'd answered with a thumbs up because a thumbs up cost nothing.
+
+"She's been deciding things for me the whole time and calling it protecting me." His jaw set. "Fine. I'll decide something too."
+
+He typed it out before he could talk himself into softening it.
+
+[I decided I'm going back to Tochi.]
+
+His thumb hovered over send for exactly a minute. "I guess finding out how to fix dad's pods is my only bet."
+
+He hit send.
 
 [END CHAPTER FOUR]
