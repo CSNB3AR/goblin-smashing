@@ -1,6 +1,6 @@
-Chapter Four: Real-World Anchor
+Chapter Four: Consequences in Silence
 
-The pod hissed open above him, the seal breaking with a soft mechanical sigh, and the real world folded back in one sense at a time. Sound first, the low hum of Sakura Arcade's overhead lights, someone's phone buzzing on a desk somewhere beyond the door. Then weight, his body settling into the padded interior in a way that felt wrong after however long he'd been standing in a goblin's frame. Then smell, old electronics and carpet cleaner instead of woodsmoke and unwashed leather.
+The pod hissed open above him, the seal breaking with a soft mechanical sigh, and the real world folded back in one sense at a time. Sound first, the low hum of Sakura Arcade's overhead lights, someone's phone buzzing on a desk somewhere beyond the door. Then weight, his body settling into the padded interior in a way that felt wrong after however long he'd been standing in a goblin's frame. Then smell, old electronics and carpet cleaner instead of wood smoke and unwashed leather.
 
 Tatsuya lay there a moment longer than he needed to, letting his eyes adjust to the dim room, the curved shell of the pod still framing his peripheral vision. His hands felt too big. His legs too long. "That's going to take some getting used to every time."
 
@@ -22,7 +22,7 @@ The screen resolved a second later into his account page, the goblin face from a
 
 "Later." He swiped it away and kept scrolling.
 
-Near the bottom of the page, a single line sat under a small header. Spells Available: Goblin Gas, Goblin Flare. No cards, no stat breakdown, just the names. Made sense. None of that mattered outside a fight, and he wasn't in one anymore.
+Near the bottom of the page, a single line sat under a small header. Spells Available: Goblin Gas, Goblin Flare. No cards, no stat breakdown, just the names. "Made sense." None of that mattered outside a fight, and he wasn't in one anymore.
 
 His inventory sat above that, three items.
 
@@ -47,7 +47,7 @@ He confirmed it, expecting to wait on a listing the way anything worth real mone
 
 His bank balance ticked up at the top of the screen anyway, and he sat with that a second, the number doing something to his chest that four hours of getting chased around a goblin camp hadn't managed.
 
-"First real money this game's ever handed me." He pocketed the phone, then pulled it back out almost immediately and opened Loop instead, thumb moving on habit.
+"First deposit of many this game will give me." He pocketed the phone, then pulled it back out almost immediately and opened Loop instead, thumb moving on habit.
 
 His own profile loaded first, the follower count still sitting low in the corner. He typed out a real bio this time, not the blank space he'd left it as for a year, something short about the goal, pro league, eventually, cut it down twice before he let it post. Then he backed out to the feed, and the feed was already loud.
 
@@ -56,7 +56,7 @@ His own profile loaded first, the follower count still sitting low in the corner
 
 He scrolled past a dozen reposts of the same clip, camp chatter caught on someone's stream, before a different thread caught his eye, guild leaders arguing about whether it was worth resetting their characters yet for the Crystal League's Legacy Point payout, half of them still sitting on frozen accounts, unwilling to start over at level one for a system nobody had fully mapped out yet.
 
-"They're all stuck deciding whether to blow up years of progress," he thought, thumb slowing. "I never had anything to blow up. I'm already exactly where they're all scrambling to get to."
+"They're all stuck waiting and I'm," he thought, thumb slowing. "I never had anything to blow up. I'm already exactly where they're all scrambling to get to."
 
 He kept scrolling, half-searching now, and pulled up a zone guide instead, thumbing through farming spots sorted by level range. A name near the top of the list caught his eye, Luxor Lakes, decent XP, low competition, a note underneath about guided sessions running there some weekends. He filed it away without much more thought than that and killed the screen.
 
@@ -136,7 +136,7 @@ Tatsuya pulled the chair closer and sat, elbows on his knees, hands loose betwee
 
 The monitors kept beeping. Outside, footsteps passed in the hall, a nurse's voice saying something he didn't catch.
 
-"I got into the game," he said. "HGO. Finally. Took me long enough, right?" A short breath that might've been a laugh if he'd let it finish. "Got locked into the worst race in the game by accident. Power went out mid-creation, whole thing glitched, and now I'm stuck as a goblin. Can't reset it. Just... stuck."
+"I got into the game," he said. "HGO. Finally, it took me long enough, right?" A short breath that might've been a laugh if he'd let it finish. "Got locked into the worst race in the game by accident. Power went out mid-creation, the whole thing glitched, and now I'm stuck as a goblin. Can't reset it. Just... stuck."
 
 He leaned back in the chair, running a hand over his locs, tucking the loose one back where it kept falling.
 
@@ -158,7 +158,7 @@ The door to the room stayed closed. The monitors kept beeping. Tatsuya sat there
 
 He was halfway down the hall when he heard them, two voices low and careful, the kind of careful that meant they didn't want to be overheard.
 
-"...six months without real progress," one of them was saying. Ms. Sugiyama, the nurse who'd known him by name since Ohema had been admitted. "Dr. Inoue's assessment was clear. If there's no meaningful improvement inside that window, the concern isn't just whether she survives, it's whether there's still a mind left to come back to."
+"...she has about six months," one of them was saying. Ms. Sugiyama, the nurse who'd known him by name since Ohema had been admitted. "Dr. Inoue's assessment was clear. If there's no surgery soon the concern isn't just whether she survives, it's whether there's still a mind left to come back to."
 
 Tatsuya stopped walking.
 
@@ -170,7 +170,7 @@ Tatsuya stopped walking.
 
 Their footsteps faded down the opposite hall, leaving Tatsuya standing there alone, the words still sitting in his chest like something sharp he couldn't pull out.
 
-"Six months. Chiyo knew. She's known, and she didn't tell me."
+"Six months. Chiyo knew and she didn't tell me."
 
 The anger came fast and clean, hotter than anything else he'd felt all day. Not at the news itself, he'd known it was bad, but at the secrecy, at being treated like a kid who couldn't handle the truth when he was the one carrying half the weight already.
 
@@ -194,7 +194,7 @@ He crouched down across from her, helping stack the scattered pages, and her eye
 
 "Just started." He turned the phone slightly without meaning to, like it mattered whether she saw it clearly. "Haven't even picked a name yet."
 
-Something flickered across her face, amused, like that was the funniest thing she'd heard all week. "You're really standing here with a blank username field." She reached over, gentle, and tapped the screen before he could stop her, the prompt still waiting patiently underneath her finger. "Type something. Anything. It's worse walking around unnamed."
+Something flickered across her face, amused, like that was the funniest thing she'd heard all week. "You're really standing here with a blank username." She reached over, gentle, and tapped the screen before he could stop her, the prompt still waiting patiently underneath her finger. "Type something. Anything. It's worse walking around unnamed."
 
 His thumb hovered a second, and then he typed it without overthinking it, letters and a number, done before he could second-guess it.
 
@@ -202,7 +202,7 @@ His thumb hovered a second, and then he typed it without overthinking it, letter
 
 "There," he said, and held the screen up like proof.
 
-"TDRAG." She said it slow, testing the shape of it, and something about hearing it out loud in her voice made it feel more real than the confirmation notification had. "I like it."
+"TDRAG." She said it slowly, testing the shape of it, and something about hearing it out loud in her voice made it feel more real than the confirmation notification had. "I like it."
 
 They finished gathering the last of the papers in a silence that had stopped being awkward somewhere in the last thirty seconds, close enough now that he could see the seam where the glasses didn't quite sit right on her face, like they weren't really hers to begin with.
 
@@ -210,9 +210,9 @@ She stood first, and he followed, the stack of papers changing hands between the
 
 "I have to go," she said, and didn't sound like she meant it, not entirely. She pulled a pen from her jacket pocket, scribbled something fast on the corner of one sheet, tore it free, and folded it twice before tucking it into his jacket pocket herself, her hand flat against his chest for half a second longer than the motion needed. "My code. Add me sometime."
 
-"Wait, what's your, " he started.
+"Wait... " he started.
 
-"Good luck with the game," she said, already turning, already three steps into the hallway before he'd finished the sentence.
+"Good luck with the game. Hope to see you soon," she said, already turning, already three steps into the hallway before he'd finished the sentence.
 
 He watched her go, the twin buns bouncing once as she rounded the corner, gone before he thought to actually chase the question down. He stood there a second longer than made sense, the rest of the papers still balanced in his arms, some part of him already replaying the whole thirty seconds to make sure it had actually happened.
 
@@ -222,15 +222,15 @@ A string of letters and numbers sat at the top, her friend code, and beneath it,
 
 December 23rd.
 
-"I didn't even get her name." He stared at it a second, turning the paper over like the back might have one written somewhere he'd missed.
+"Two days before Winter Bash, huh?" He stared at it a second, turning the paper over like the back might have one written somewhere he'd missed.
 
-He pocketed the note and looked down the hall where she'd gone, already empty, and the quiet that followed didn't hold. Ms. Sugiyama's voice came back first, low and careful, then the second nurse's. Six months. Chiyo knew. She's known. The two things sat next to each other in his chest and refused to stay separate, the note in his pocket and the sentence he couldn't unhear, and the second one won.
+He pocketed the note and looked down the hall where she'd gone, already empty, and the quiet that followed didn't hold. Ms. Sugiyama's voice came back first, low and careful, then the second nurse's. "Six months. Chiyo knew." The two things sat next to each other in his chest and refused to stay separate, the note in his pocket and the sentence he couldn't unhear, and the second one won.
 
 He pulled out his phone.
 
 Chiyo's last message was still sitting at the top of the thread, the one about Tochi, the one he'd answered with a thumbs up because a thumbs up cost nothing.
 
-"She's been deciding things for me the whole time and calling it protecting me." His jaw set. "Fine. I'll decide something too."
+"I know she's trying to help me by keeping me in the dark about this. But I'm no little kid anymore." His jaw set. "This time I'm making my decision, for better or worse."
 
 He typed it out before he could talk himself into softening it.
 
