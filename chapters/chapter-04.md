@@ -220,9 +220,9 @@ He set the papers down on the nearest chair and pulled the folded note free, unf
 
 A string of letters and numbers sat at the top, her friend code, and beneath it, a date written in clean, careful handwriting.
 
-December 25th.
+December 23rd.
 
-"Winter Bash." He stared at it a second. "She gave me her code and a date. No name. Just this."
+"Two days before Winter Bash." He stared at it a second. "She gave me her code and a date. No name. Just this."
 
 He pocketed the note and looked down the hall where she'd gone, empty now, and let himself feel, for exactly as long as it took to walk to the exit, like the day hadn't been entirely bad.
 
