@@ -62,7 +62,7 @@ The app processed for a second, longer than it usually took, and then a profile 
 
 Not a username. A full character sheet.
 
-[YUNAILE – LEVEL 87]
+[YUNAILE - LEVEL 87]
 [BARD / SUPPORT SPECIALIST]
 [AFFILIATION: NEXUS ENTERPRISES STAFF]
 
@@ -186,7 +186,7 @@ And then he saw it, standing at the edge of camp near the boundary line, a figur
 
 Ash and smoke, taking shape slowly, coalescing into something almost solid. A wide-brimmed hat. Burning green eyes. A presence that made every goblin nearby stop what they were doing and turn to look.
 
-[SHIV – SPIRIT ECHO – LEVEL ???]
+[SHIV - SPIRIT ECHO - LEVEL ???]
 
 The nameplate read gold, not white, not red, something else entirely.
 
@@ -220,8 +220,8 @@ His hair had gone white.
 
 Not gray. Not silver. Pure white, stark against his green skin, falling loose around his face in a way that made him look like someone else entirely.
 
-[CALL OF THE BONES NECKLACE – WORLD]
-[BOUND ITEM – CANNOT BE DROPPED OR TRADED]
+[CALL OF THE BONES NECKLACE - WORLD]
+[BOUND ITEM - CANNOT BE DROPPED OR TRADED]
 [+5 FORTUNE]
 [RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]
 [ABILITY UNLOCKED: THE BONES SPEAK]
@@ -234,7 +234,7 @@ He stared at the last line longest.
 
 He pulled up the Shaman's Veil path out of habit more than anything, needing to see it in front of him before it felt real.
 
-[SHAMAN'S VEIL – SPIRIT MAGIC PATH]
+[SHAMAN'S VEIL - SPIRIT MAGIC PATH]
 [AVAILABLE: SPECTRAL WOLF]
 [AVAILABLE: ANCIENT BONE FLAME BARRAGE]
 [LOCKED: IFRIT - REQUIRES HIGHER WISDOM]
