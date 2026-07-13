@@ -21,3 +21,5 @@ Hobgoblin lieutenant, disciplined, tattooed. Uses a Physical Art called "Veil-Pi
 ## Mechanic tied to this squad
 
 Old draft establishes a "Goblin Rally" passive (stat bonus scaling with nearby allied goblins) and a "Tactical Cartographer" title earned for drawing up an ambush plan using this squad, both worth preserving, see `codex/lore/preserved-misc-mechanics.md`.
+
+Drosh's existing Hobgoblin rank is the target tier for the new companion/troop system (see `codex/lore/companion-troop-system.md`): companions Tatsuya recruits and levels up, starting with the young goblin (`codex/characters/young-goblin-companion-candidate.md`), can rank up to Hobgoblin the same way Drosh already has.

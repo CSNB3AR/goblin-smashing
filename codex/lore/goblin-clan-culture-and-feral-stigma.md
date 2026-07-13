@@ -11,3 +11,7 @@ Without a unifying figure like Shiv, the various goblin clans across Myrrhwood (
 ## Village and city access, resolved
 
 Only Thrash-clan goblins can enter villages and settlements at all. Every other goblin clan, having fractured from Shiv's original unifying philosophy after his death, reads as feral and is barred outright. This is why any new player who rolls or ends up on Goblin defaults into the Thrash clan specifically, not a feral one, and it's worth a forward note: once Tatsuya's own reputation starts making Goblin a genuinely popular race choice (see `codex/subplots/aryas-loop-discovery-and-reputation.md`), this access distinction becomes visible to the wider playerbase too, plausibly even drawing Taji himself toward rolling a Thrash goblin once he learns who Kaiseki actually is.
+
+## Marking recognition
+
+Bonding with the Call of the Bones Necklace evolves Tatsuya's race entry to Shiv Goblin (see `codex/objects/call-of-the-bones-necklace.md`), and that mark is culturally legible on sight: goblins, at least the older ones, can identify a Shiv Goblin purely from the necklace's visible marking, even if they personally never met Shiv. It's an ingrained piece of clan memory tied to the figure who broke the feral stigma in the first place, not something that has to be explained or proven, which is the actual in-world mechanism behind the camp's immediate, unearned elder treatment the moment the bond takes.

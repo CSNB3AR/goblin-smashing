@@ -69,16 +69,16 @@ Shiv's Warset stays a 7-piece legendary set (see `bible/old-draft-chapter-bible.
 - **Gambler's Gambit** — the goblin racial passive from Tatsuya's rare-variant roll at character creation (see §2 above). A Fortune bonus and a once-per-day chance after combat to roll for Rare-or-higher loot. This governs loot only, his real income engine early on, not a combat ability.
 - **The Bones Speak** — the Call of the Bones Necklace's own active combat ability, described below. Unrelated in origin to Gambler's Gambit, the two just share a Fortune/gambling theme.
 
-**Call of the Bones Necklace** — **World-tier** (purple) bound item, granted by Shiv during the "Call of the Bones" World Quest, the top of the rarity ladder (see §5), reserved for World Quest rewards. Its card lists everything it grants in one place, so the item and its abilities always visibly correspond: a small bonus to Fortune, negates the goblin INT penalty, unlocks the Shaman's Veil spirit-magic path, and unlocks **The Bones Speak**.
+**Call of the Bones Necklace** — **World-tier** (purple) bound item, granted by Shiv during the "Call of the Bones" World Quest, the top of the rarity ladder (see §5), reserved for World Quest rewards. Its card lists everything it grants in one place, so the item and its abilities always visibly correspond: a small bonus to Fortune, negates the goblin Wisdom penalty, unlocks the Shaman's Veil spirit-magic path, and unlocks **The Bones Speak**. Bonding also evolves Tatsuya's race entry itself, Goblin to **Shiv Goblin** (see `codex/lore/playable-races-and-character-creation.md`), the mechanical backbone behind the white-hair change and the camp's immediate elder treatment.
 
 **Design rule:** The Bones Speak never hands Tatsuya a borrowed or generic effect. It only ever amplifies or redirects abilities that are already his. One activation per in-game day, "the bones only speak once before dawn," and he chooses the mode at the moment he invokes it:
 
-- **Amplify** (proactive) — he picks one of his own already-known abilities (Goblin Gas, Ancient Boneflame Barrage, a Shaman's Veil effect, and so on) and supercharges it for this use. Fortune determines how strong the amplification lands: a clean high roll is a real power spike, a weak roll is a partial or fizzled boost, but it is always his own move, just bigger.
+- **Amplify** (proactive) — he picks one of his own already-known abilities (Goblin Gas, Ancient Bone Flame Barrage, a Shaman's Veil effect, and so on) and supercharges it for this use. Fortune determines how strong the amplification lands: a clean high roll is a real power spike, a weak roll is a partial or fizzled boost, but it is always his own move, just bigger.
 - **Reflect** (reactive, desperate) — when he's about to take a hit, he can gamble everything and try to turn the attack back on the attacker. Whether it lands clean or only partially connects, invoking it this way crashes his Energy down to 1 as the cost, a genuine last-resort button that leaves him on the brink either way. Fortune determines whether the reflect fully lands or only partially connects.
 
 Both modes draw on the same single daily charge; he can't use both in one day. The necklace's power is about what Tatsuya already has, not what he's handed.
 
-Goblin Gas, the Goblin Gas + fire = **Goblin Flare** combo, and Ancient Boneflame Barrage (with its toxin-effect bonus) stay exactly as established in the old draft, they belong to the goblin/shaman kit generally, not specifically to the necklace, and are exactly the kind of ability The Bones Speak's Amplify mode is built to juice.
+Goblin Gas, the Goblin Gas + fire = **Goblin Flare** combo, and Ancient Bone Flame Barrage (with its toxin-effect bonus) stay exactly as established in the old draft, they belong to the goblin/shaman kit generally, not specifically to the necklace, and are exactly the kind of ability The Bones Speak's Amplify mode is built to juice.
 
 ## 5. The Deck-Building Layer
 
@@ -126,7 +126,7 @@ Notable guilds, background texture: Shadowspire (rogue/assassin, PvP-focused), A
 
 These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged there as worth keeping:
 
-- **Skill combo system** — Goblin Gas + fire = Goblin Flare; toxin effects boost Ancient Boneflame Barrage's damage/radius. Reusable and mechanically satisfying, fits the deck-building pillar.
+- **Skill combo system** — Goblin Gas + fire = Goblin Flare; toxin effects boost Ancient Bone Flame Barrage's damage/radius. Reusable and mechanically satisfying, fits the deck-building pillar.
 - **Karma/Alignment system** — killing players outside sanctioned PvP shifts alignment and visibly flips the nameplate from white to red ("Blood Tinted"). A strong, visible consequence system for open-world PvP, and per §6 above, this now extends to mistreating NPCs and a region's people too, not player-kills alone.
 - **Seven-day death lock** — dying carries a real week-long penalty, not just a respawn timer.
 - **Physical Arts** — a distinct skill category from spells (Drosh's Veil-Pierce Gaze, Silent Three Fang), giving goblins/hobgoblins a combat identity separate from caster classes.
