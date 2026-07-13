@@ -8,9 +8,9 @@ Red hair, street-biker aesthetic (per the old draft, carried forward), own HGO d
 
 ## Facts
 
-- Enters the story slowly and deliberately. Multiple arcade visits happen before she ever speaks to Tatsuya.
-- She notices patterns first: Leon's business changing, an active VR presence around the arcade, being turned down herself a few times when she wanted to use the pods.
-- That's what sparks her curiosity. She researches Tatsuya independently and watches his gameplay footage before ever approaching him directly.
+- Enters the story slowly and deliberately. Their actual first contact, at the front desk when Tatsuya first comes looking for Leon, is brief and purely transactional, she points him toward Leon and the tech, nothing more, a beat of mutual noticing since he's around her age. That's it, not a conversation, not the start of anything yet.
+- The real curiosity builds afterward, over multiple further visits. She notices patterns: Leon's business changing, an active VR presence around the arcade, being turned down herself a few times when she wanted to use the pods.
+- That's what sparks her real interest. She researches Tatsuya independently and watches his gameplay footage before ever actually approaching him with intent.
 - She's been playing competitively for years, she has no reason to casually team up with a stranger, so her eventual approach must be earned and specific, not casual.
 - Sharp and guarded.
 

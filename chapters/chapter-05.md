@@ -44,123 +44,93 @@ The phone buzzed again before he'd even set it down.
 
 [Chiyo: I love you. Get some sleep.]
 
-He didn't answer that one, just set the phone face-down on the nightstand and let his eyes close. Texting her back tonight instead of freezing her out until morning wasn't nothing. It just wasn't everything either, and for now that was as far as he was willing to go.
+He didn't answer that one. Instead of setting the phone down, he opened the banking app instead, one more thing to check before he actually let himself sleep.
+
+[WATTSUP DIRECT DEPOSIT - BALANCE: ¥16,800]
+
+Not much. But it was his, earned off two potions and an ability he was already learning how to use right. Something almost like a grin pulled at the corner of his mouth before he caught it.
+
+"First real money the game's ever handed me. Not the last."
+
+He scrolled down out of habit, the way he always checked his own numbers, and the second account caught him before he could stop it. Still listed under Daichi Kazehaya. Still his to see, next of kin, nobody had ever bothered pulling him off it.
+
+[KAZUHAYA TECH - LEGACY ACCOUNT]
+[BALANCE: -¥3,014,200]
+[COLLECTIONS NOTICE: TABUCHI HOLDINGS]
+
+He stared at the negative sign a long moment.
+
+"It's not even on my account. It never was. It's still sitting on Dad's, still bleeding interest, and they've been calling Chiyo about it for two years like it's ever going to just disappear."
+
+The number didn't move, didn't need to. Between that and the number he already knew, Ohema's surgery, four million yen, still unpaid, still sitting behind a deadline nobody had said out loud to him directly until tonight, it came out somewhere close to seven million yen. Six months, maybe less, if the nurses' timeline was the real one.
+
+"Seven million. Six months." He said it out loud, testing the weight of it. "Not easy. Not impossible either."
+
+He set the phone down for real this time, laying back against the pillow, and let himself actually feel it, not the anger from earlier, something closer to the thing he'd been chasing since he was sixteen and everyone had started deciding what he could and couldn't handle.
+
+"Debt's the first thing I get off my back. Family pressure is the last thing anybody needs right now, least of all Chiyo." He stared at the ceiling. "Seven million in six months isn't easy. But I've got a build nobody's taken seriously, a loot mechanic that actually pays out, and Leon about to owe me a pod. That's not nothing to work with."
+
+"I go back to Tochi. I put real hours into the game. And the only way I actually get both is if I hold up my end with Leon." His eyes closed on that, something almost like excitement sitting underneath the exhaustion for the first time all day.
 
 
 
 Morning came too early, sunlight cutting through the blinds in a way that said he'd slept past his usual alarm. He checked his phone. 7:43 AM. Late enough that he needed to move.
 
-The note from Yunaile sat on his desk where he'd left it, folded twice, her friend code written in clean, careful handwriting at the top. He picked it up, unfolded it, and read the date at the bottom again.
+The note from Yunaile sat on his desk where he'd left it, folded twice, her friend code written in clean, careful handwriting at the top. He picked it up, read the date at the bottom one more time.
 
 December 23rd.
 
-"Two days before Winter Bash. She gave me her code and a specific date. No name. Just this."
+"Two days before Winter Bash." He folded it back along the same crease and slid it into the desk drawer instead of his pocket. "Can't think about this right now. Got other things to deal with first."
 
-He pulled his phone back out, opened the HGO Companion App, and navigated to the friend request screen. The code sat there waiting, a string of letters and numbers he typed in carefully, double-checking each character before hitting confirm.
+He got dressed fast, running the real list in his head while he moved: parts for Leon, whatever Tochi's application actually wanted from him this cycle, the stuff that was actually going to matter today.
 
-The app processed for a second, longer than it usually took, and then a profile loaded.
+His laptop still sat glowing faint on the counter from last night, one tab open on a goblin race guide he'd half-read before he crashed. He skimmed it again while he tied his boots.
 
-Not a username. A full character sheet.
+[Goblin is the only true unspecialized class in HGO. Low stats, but almost no hard restrictions.]
 
-[YUNAILE - LEVEL 87]
-[BARD / SUPPORT SPECIALIST]
-[AFFILIATION: NEXUS ENTERPRISES STAFF]
+"Nobody's ever given it a real shot because the base stats scare people off day one." He huffed a short breath, almost a laugh. "That's their problem, not mine. High Fortune, high Speed, squishy, fast, hold a point instead of chasing a kill. Same read I had watching Aogiri throw the whole match pushing when they should've sat tight."
 
-He stared at it, thumb frozen over the screen.
+The rest of it, Shiv, the magic angle, whatever the necklace actually turned out to do, could get sorted out in the pod, not standing here half-dressed with the clock running. Whatever gear could shortcut it sat on the auction house waiting on money he didn't have yet to spend on it, and that could wait too.
 
-"Staff. She's not just a player, she's actual HGO staff. And her account's locked down like this is standard, like she needs a private code just to let people send requests."
+He checked the time again. 8:47 AM. Twelve minutes to get to Sakura Arcade, and he still hadn't looked at the Tochi application once.
 
-The stats were there too, six numbers running down the screen in clean white text. High Wisdom, high Courage, balanced everywhere else. Her equipped gear read Legendary across the board, nothing below gold-tier, and her skill list went on long enough that he had to scroll to see the bottom of it.
-
-"She's not ordinary. Not even close. And she gave me her code like it was nothing."
-
-He sat with that a second, then hit the friend request button and watched it resolve immediately, no delay, no pending status, just an instant acceptance that dropped her into his friend list like she'd been waiting for it.
-
-A message appeared a second later.
-
-[Yunaile: Glad you added me. See you on the 23rd. Good luck with the build.]
-
-He read it twice, then pocketed the phone and stood. No real name, still, just the profile. He had about an hour before he needed to be at Sakura Arcade. Time enough to actually figure out what he was doing with this character.
-
-
-
-His laptop sat on the kitchen counter where he'd left it yesterday, still open to the HGO Companion App's market page. He pulled up a new tab and started searching, fingers moving fast across the keys.
-
-[Goblin race guide HGO]
-
-The results came back thin. A handful of outdated forum posts, most of them from the first six months after launch, back when people were still trying to make every race work before the meta settled and goblins got written off entirely. He clicked through them anyway, scanning for anything useful.
-
-Most of it was complaints. Low base stats, terrible Wisdom, no clear class synergy, gets outscaled by every other race past level 20. The kind of stuff he already knew.
-
-But buried halfway down the third page, a single post caught his eye.
-
-[Goblin is the only true unspecialized class in HGO. Low stats, but almost no hard restrictions. You can build anything if you're willing to work for it.]
-
-He clicked through. The post was two years old, written by someone with a username he didn't recognize, and it had exactly three replies, all of them calling the OP delusional. But the logic tracked.
-
-"Low base stats means most people write it off. But low restrictions means I'm not locked into a single path the way an Elf is locked into magic or a Dwarf is locked into tank builds. I can actually pivot."
-
-He opened a new doc and started outlining, hands flat on the counter, the same way they always went when he was working through something.
-
-Build archetype: Trap-bomber brigand.
-
-High Fortune for crits and loot generation. High Speed for maneuverability and evasion. Squishy, but fast enough that it doesn't matter if I don't get hit. Objective control over kill-chasing, the same read he'd made watching Aogiri throw the World Championship match by pushing when they should've sat the point.
-
-He pulled up the Goblin Gadget Belt's description again, reading through the locked abilities.
-
-[SMOKE BOMB, GAS BOMB, FIRE BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]
-
-"Tool-based combat. Bombs, traps, area denial. I'm not a bruiser. I'm the guy who makes you chase me into a bad position and punishes you for it."
-
-He switched tabs, pulling up what little lore existed on Shiv. A goblin spirit-sorcerer, historically the only one who'd ever unified the clans, dead over a century before the game's timeline even started. The wiki entry was sparse, but one line stood out.
-
-[Shiv's magic was described as spirit-touched, a rare exception to the standard goblin magic lockout.]
-
-"So it's not that goblins can't learn magic at all, it's that most of them are capped too low on Wisdom to ever use it. Shiv wasn't." He sat with that a second. "If his line ever passed that down, that's a door most goblins don't get."
-
-He pulled up Ancient Bone Flame Barrage's card, the fire-and-area spell he already had, and read through it again with the lore fresh in his head.
-
-"This is already mine. Fire, area damage, flame-touched, same family as Goblin Flare. If there's really a path that lets a goblin actually grow into real spellcasting instead of just tools, this is the spell that'd be worth pouring it into. Runes, mines, actually placing and arming something instead of just throwing it."
-
-He didn't have that path yet, and he wasn't about to pretend he did. Whatever it took to get there, real Wisdom, real crafting and alchemy research to build the materials for it, was work he hadn't put in.
-
-"This actually works. It's not a caster build, not yet, it's tools first, with a real door standing open if I ever earn my way through it. Hardpoint support-DPS, the kind of build that holds an objective and makes you regret trying to take it from me."
-
-He pulled up the auction house next, filtering by level range and rarity. Rare-tier gear that could shortcut some of this progression sat right there, buyable, a few hundred thousand yen and he could skip weeks of grinding.
-
-His hand hovered over the search bar, then stopped.
-
-"Can't spend money right now. The whole point is making it, not burning through what I've got on a shortcut I don't need yet."
-
-He closed the tab and checked the time. 8:47 AM. He had twelve minutes to get to Sakura Arcade.
+"Later. In the pod, on the ride, whenever. Just move."
 
 He grabbed Daichi's manual off the desk, shoved it into his bag, and headed for the door.
 
 
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed the right push. Leon was behind the counter when Tatsuya walked in, actually smiling for once, the kind of energy that said he'd gotten good news recently and hadn't come down off it yet.
+Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed the right push. A woman was behind the counter when Tatsuya walked in, red hair, street-biker aesthetic, sharp eyes that landed on him and didn't immediately look away.
 
-"Morning," Leon said, waving him over. "Tech's coming by around two to look at the second pod. Figured I'd give you a heads-up before we get into it."
+Leon's sister, had to be. The resemblance was there if he looked for it.
 
-"That's good," Tatsuya said, dropping his bag on the counter. "I've got some leads on parts from Dad's manual. Can dig up more if we need specifics."
+"Help you?" she asked, direct, sizing him up in the two seconds it took him to cross the floor. Something flickered across her face, quick, there and gone, the kind of look that clocked he was about her own age before she decided anything else about him.
 
-"That's exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Honestly, I wasn't sure we'd even get this far. Been sitting on those pods for two years thinking they were basically scrap."
+"Looking for Leon. He's expecting me."
 
-A door opened somewhere in the back, footsteps crossing the floor, and a woman stepped into the main room a second later. Red hair, street-biker aesthetic, sharp eyes that swept the room and landed on Tatsuya a beat too long before he'd even turned all the way around.
+"You're the guy fixing the pods." Not a question. She jerked a thumb toward the back hallway, already turning back to whatever she'd been doing before he walked in, or doing a good job pretending to. "He's back with the tech, near the booth. Go on through."
 
-"That's Arya. Leon's sister."
+"Thanks."
 
-Leon's shoulders went stiff before she'd said a word. "Arya."
+He held her look half a second longer than the exchange actually needed before he turned for the hallway, distantly registering that Leon's sister was easy on the eyes too, and filing that thought exactly nowhere near the top of his list this morning.
 
-"I know, I know." She held both hands up, already backing toward the hallway she'd come from, eyes still on Tatsuya a moment longer than the exit actually required. "Business stuff. I'm not touching it."
+Leon was standing near the second pod's booth with a man in a branded polo, tablet in hand, deep in something technical Tatsuya only caught the tail end of. Leon spotted him and waved him over without fully breaking off.
 
-She was gone before Leon had to say anything else, the door swinging shut behind her.
+"Morning. Tech's already here early, good timing. Give me one second."
 
-"Sorry about that," Leon said, letting out a breath. "She's been asking questions since yesterday. I don't want her involved in this until we're actually cleared and running, too much conflict of interest if she's playing the same game we're trying to position commercially."
+"Take your time," Tatsuya said, dropping his bag by the counter.
+
+A few minutes later Leon peeled off and crossed over, the same energy from yesterday still sitting on him, the kind that said he'd gotten good news recently and hadn't come down off it yet.
+
+"Tech's confirming what I already figured," Leon said. "Second pod's a real project, but not a lost cause."
+
+"That's good," Tatsuya said. "I've got some leads on parts from Dad's manual. Can dig up more if we need specifics."
+
+"That's exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Honestly, I wasn't sure we'd even get this far. Been sitting on those pods for two years thinking they were basically scrap." He tipped his head back toward the front counter. "Sorry if Arya gave you the third degree out there. She's been asking questions since yesterday. I don't want her near this until we're actually cleared and running, too much conflict of interest if she's playing the same game we're trying to position commercially."
 
 "Makes sense," Tatsuya said, and let it go.
 
-"Alright." Leon straightened up, pulling a notepad off the counter. "Let's go over what we've got so far."
+"Alright." Leon pulled a notepad off the counter. "Let's go over what we've got so far."
 
 They spent the next twenty minutes running through the parts list Tatsuya had pulled from Daichi's manual, cross-referencing it against what Leon could actually source locally, flagging the stuff that would need to come from Tochi's labs or a specialty supplier. By the time they finished, Leon looked more relieved than he had when Tatsuya walked in.
 
@@ -168,7 +138,7 @@ They spent the next twenty minutes running through the parts list Tatsuya had pu
 
 "It's worth a lot," Tatsuya said.
 
-"Alright." Leon clapped him on the shoulder once, a gesture that felt more like sealing a deal than just saying goodbye. "Go log in. Pod's yours as long as you need it. I'll text you when the tech gets here."
+"Alright." Leon clapped him on the shoulder once, a gesture that felt more like sealing a deal than just saying goodbye. "Go log in. Pod's yours as long as you need it."
 
 Tatsuya nodded, grabbed his bag, and headed for the back room.
 
