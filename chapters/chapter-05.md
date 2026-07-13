@@ -114,17 +114,17 @@ He pulled up the Goblin Gadget Belt's description again, reading through the loc
 
 He switched tabs, pulling up what little lore existed on Shiv. A goblin spirit-sorcerer, historically the only one who'd ever unified the clans, dead over a century before the game's timeline even started. The wiki entry was sparse, but one line stood out.
 
-[Shiv's magic was described as 'spectral' and 'flame-touched,' a combination no other goblin had managed.]
+[Shiv's magic was described as spirit-touched, a rare exception to the standard goblin magic lockout.]
 
-"Spectral. That's shadow-clone territory. And flame-touched is exactly what the Goblin Flare combo already does."
+"So it's not that goblins can't learn magic at all, it's that most of them are capped too low on Wisdom to ever use it. Shiv wasn't." He sat with that a second. "If his line ever passed that down, that's a door most goblins don't get."
 
-He started sketching out abilities in his head, the kind of kit that would actually fit what he'd already done and what the lore said was possible.
+He pulled up Ancient Bone Flame Barrage's card, the fire-and-area spell he already had, and read through it again with the lore fresh in his head.
 
-Spectral Wolf, a shadow-clone ability, ninja-flavored, lets him be in two places at once for real double-damage potential or misdirection. Limited to one clone, gated by Wisdom so it scales with the stat he's weakest in, which means it stays balanced even if he dumps points into it later.
+"This is already mine. Fire, area damage, flame-touched, same family as Goblin Flare. If there's really a path that lets a goblin actually grow into real spellcasting instead of just tools, this is the spell that'd be worth pouring it into. Runes, mines, actually placing and arming something instead of just throwing it."
 
-Ifrit, an arcane bomber spell, runes and glyphs that function as traps and mines, magical extension of the gadget-belt kit he's already building toward. Place a glyph, enemy steps on it, detonates for fire damage. Scales with Fortune for crit chance, keeps the gambling theme consistent.
+He didn't have that path yet, and he wasn't about to pretend he did. Whatever it took to get there, real Wisdom, real crafting and alchemy research to build the materials for it, was work he hadn't put in.
 
-"This actually works. It's not a caster build, it's a hybrid. Tools plus magic, both serving the same playstyle. Hardpoint support-DPS, the kind of build that holds an objective and makes you regret trying to take it from me."
+"This actually works. It's not a caster build, not yet, it's tools first, with a real door standing open if I ever earn my way through it. Hardpoint support-DPS, the kind of build that holds an objective and makes you regret trying to take it from me."
 
 He pulled up the auction house next, filtering by level range and rarity. Rare-tier gear that could shortcut some of this progression sat right there, buyable, a few hundred thousand yen and he could skip weeks of grinding.
 
@@ -235,11 +235,11 @@ He stared at the last line longest.
 He pulled up the Shaman's Veil path out of habit more than anything, needing to see it in front of him before it felt real.
 
 [SHAMAN'S VEIL - SPIRIT MAGIC PATH]
-[AVAILABLE: SPECTRAL WOLF]
-[AVAILABLE: ANCIENT BONE FLAME BARRAGE]
-[LOCKED: IFRIT - REQUIRES HIGHER WISDOM]
+[MAGIC ACCESS GRANTED]
+[SCALES WITH: WISDOM]
+[KNOWN SPELL AVAILABLE FOR GROWTH: ANCIENT BONE FLAME BARRAGE]
 
-"Spectral Wolf. That's the shadow-clone ability I was imagining this morning." He huffed out a breath. "Ancient Bone Flame Barrage was already mine, fire and area damage, this path just means I can actually channel more into it now. And Ifrit's locked behind more Wisdom than I've got yet. So the rest of what I was picturing this morning isn't a guess. It's real. I just have to grow into it."
+"It's not handing me spells. It's opening the door I didn't have before." He huffed out a breath. "Ancient Bone Flame Barrage was already mine, fire and area damage, and now there's an actual path to grow it into something real, runes, mines, all of it. But that's not free. That's Wisdom I don't have yet, and materials I'd have to go earn through crafting and alchemy on my own. So the rest of what I was picturing this morning isn't a guess. It's real. I just have to grow into it."
 
 He looked up from the notification, and Shiv was already fading, the ash dissipating into nothing.
 
