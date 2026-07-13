@@ -114,15 +114,15 @@ He pulled up the Goblin Gadget Belt's description again, reading through the loc
 
 He switched tabs, pulling up what little lore existed on Shiv. A goblin spirit-sorcerer, historically the only one who'd ever unified the clans, dead over a century before the game's timeline even started. The wiki entry was sparse, but one line stood out.
 
-[Shiv's magic was described as 'spectral' and 'flame-touched,' combining summoning and elemental disciplines in ways no other goblin had managed.]
+[Shiv's magic was described as 'spectral' and 'flame-touched,' a combination no other goblin had managed.]
 
-"Spectral. Summoning. That's shadow-clone territory. And flame-touched is exactly what the Goblin Flare combo already does."
+"Spectral. That's shadow-clone territory. And flame-touched is exactly what the Goblin Flare combo already does."
 
 He started sketching out abilities in his head, the kind of kit that would actually fit what he'd already done and what the lore said was possible.
 
-Spectral Wolf — a shadow-clone ability, ninja-flavored, lets him be in two places at once for real double-damage potential or misdirection. Limited to one clone, gated by Wisdom so it scales with the stat he's weakest in, which means it stays balanced even if he dumps points into it later.
+Spectral Wolf, a shadow-clone ability, ninja-flavored, lets him be in two places at once for real double-damage potential or misdirection. Limited to one clone, gated by Wisdom so it scales with the stat he's weakest in, which means it stays balanced even if he dumps points into it later.
 
-Ifrit — an arcane bomber spell, runes and glyphs that function as traps and mines, magical extension of the gadget-belt kit he's already building toward. Place a glyph, enemy steps on it, detonates for fire damage. Scales with Fortune for crit chance, keeps the gambling theme consistent.
+Ifrit, an arcane bomber spell, runes and glyphs that function as traps and mines, magical extension of the gadget-belt kit he's already building toward. Place a glyph, enemy steps on it, detonates for fire damage. Scales with Fortune for crit chance, keeps the gambling theme consistent.
 
 "This actually works. It's not a caster build, it's a hybrid. Tools plus magic, both serving the same playstyle. Hardpoint support-DPS, the kind of build that holds an objective and makes you regret trying to take it from me."
 
@@ -237,7 +237,7 @@ He pulled up the Shaman's Veil path out of habit more than anything, needing to 
 [SHAMAN'S VEIL – SPIRIT MAGIC PATH]
 [AVAILABLE: SPECTRAL WOLF]
 [AVAILABLE: ANCIENT BONE FLAME BARRAGE]
-[LOCKED: IFRIT — REQUIRES HIGHER WISDOM]
+[LOCKED: IFRIT - REQUIRES HIGHER WISDOM]
 
 "Spectral Wolf. That's the shadow-clone ability I was imagining this morning." He huffed out a breath. "Ancient Bone Flame Barrage was already mine, fire and area damage, this path just means I can actually channel more into it now. And Ifrit's locked behind more Wisdom than I've got yet. So the rest of what I was picturing this morning isn't a guess. It's real. I just have to grow into it."
 
