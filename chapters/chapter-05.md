@@ -4,7 +4,7 @@ The ride back to the Nakamura Grand ran itself the same way the ride to the hosp
 
 "Not tonight. I'll deal with it when I'm not this pissed off."
 
-He parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet and empty below, no Chiyo at the front desk because she wasn't here, hadn't been here since yesterday morning when she'd left with the twins for Kyoto. Six days. Five left now. The apartment above read just as empty when he unlocked the door and stepped inside.
+He parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet and empty below, no Chiyo at the front desk because she wasn't here, hadn't been here since this morning when she'd left with the twins for Kyoto. Six days. Five left now. The apartment above read just as empty when he unlocked the door and stepped inside.
 
 Nobody home. No voices through bedroom doors, no TV running in the front room, just the hum of the refrigerator and the sound of his own boots on the floor.
 
@@ -16,7 +16,7 @@ The water came out hot enough to sting, and he stood under it longer than he nee
 
 He pressed his forehead against the tile, water running down his face, and made himself breathe through his nose once, slow, the way he did when there wasn't a clean answer waiting on the other side.
 
-"She's carrying everything. The hotel, the bills, the twins, Mom's surgery fund. And she didn't tell me because she didn't want me carrying it too."
+"She's carrying everything. The debt, the twins, Mom's surgery fund. And she didn't tell me because she didn't want me to worry, even though she knew I would."
 
 The thought didn't make him less angry. Just made the anger sit somewhere different.
 
@@ -24,14 +24,14 @@ He shut the water off, dried off fast, and pulled on a pair of sweats before dro
 
 Two texts, both short, both hours old.
 
-[You doing okay? Haven't heard from you in a bit.]
-[Let me know when you get home safe.]
+[Chiyo: You doing okay? Haven't heard from you in a bit.]
+[Chiyo: Let me know when you get home safe.]
 
-Nothing about Tochi in either one, same as the note she'd left on the counter that morning, gone before he was even up, gone all day. This was the first real contact between them since yesterday.
+Nothing about Tochi in either one, same as the note she'd left on the counter that morning, gone before he was even up, gone all day. This was the first real contact between them since this morning.
 
 He typed a reply, cut it down twice, and sent the shortest version.
 
-[I've decided on Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a second part-time job too. I'm good.]
+[Like I said in my last message, I've decided on Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a second part-time job too. I'm good.]
 
 Short, on purpose. He wasn't in the mood to explain the rest of it tonight, and he wasn't sure he wanted to yet anyway. If she wanted the whole story, she could ask when she got back. Right now this was his.
 
