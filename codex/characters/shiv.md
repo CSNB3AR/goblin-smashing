@@ -8,7 +8,7 @@ Ash-and-smoke form, wide-brimmed hat, burning green eyes.
 
 ## Facts
 
-Strong character from the old draft, well-written voice, worth preserving almost entirely as-is. Grants Kaiseki (Tatsuya's in-game name) a legendary bound item, the first piece of "Shiv's Warset" (1 of 7): the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`), which negates the goblin INT penalty and unlocks the Shaman's Veil spirit magic path, plus Gambler's Gambit.
+Strong character from the old draft, well-written voice, worth preserving almost entirely as-is. Grants Kaiseki (Tatsuya's in-game name) a legendary bound item, the first piece of "Shiv's Warset" (1 of 7): the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`), which negates the goblin Wisdom penalty and unlocks the Shaman's Veil spirit magic path, plus Gambler's Gambit.
 
 Worldbuilding tied to Shiv: goblins are historically barred from the capital; there's a hidden "Astralum Archive" beneath the palace that Shiv wants Kaiseki to eventually reach (see `codex/locations/astralum-archive.md`).
 

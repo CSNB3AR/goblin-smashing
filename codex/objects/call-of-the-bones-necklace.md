@@ -10,6 +10,8 @@
 
 **Visual reference (locked), Ancient Bone Flame Barrage:** a layered, fire-orange triangular rune circle, glowing runic text ringing the outer edge, a small glowing orb suspended at the circle's center.
 
+**Affinity:** Dark, see `codex/lore/magic-affinities.md`, tied directly to Shiv and the spirit-magic path the bond opens, not a separate choice.
+
 Deepens the drive-color bond described in `codex/objects/hgo-access-drive.md` once bonded (his drive already reads emerald green from the rare-variant roll at creation, see `codex/lore/playable-races-and-character-creation.md`).
 
 ## The Bones Speak

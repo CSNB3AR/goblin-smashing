@@ -21,7 +21,37 @@ Every playable race (see `codex/lore/playable-races-and-character-creation.md`) 
 | Frostborn | 8 | 6 | 5 | 4 | 4 | 7 |
 | Drakekin | 7 | 7 | 7 | 6 | 6 | 7 |
 
-Human reads balanced, no bias, matching Lunarest's "central hub" flavor. Elf leans hard into Wisdom (magic affinity), the natural draw for Tatsuya's original build plan before the glitch. Orc and Beastfolk both lean Power/Speed with a real Wisdom penalty. Goblin's low Wisdom is the already-established INT penalty (negated only by the Call of the Bones Necklace, see `codex/objects/call-of-the-bones-necklace.md`), offset by the race's signature high Fortune, the highest in the game at any race's base line, essentially nobody else builds around it the way a goblin can. Dwarf and Frostborn both read sturdy, Courage/Power-leaning. Drakekin, the rare achievement race, reads strong across the board, no clean single bias, consistent with it not being tied to a starting zone.
+Human reads balanced, no bias, matching Lunarest's "central hub" flavor. Elf leans hard into Wisdom (magic affinity), the natural draw for Tatsuya's original build plan before the glitch. Orc and Beastfolk both lean Power/Speed with a real Wisdom penalty. Goblin's low Wisdom is the already-established Wisdom penalty (negated only by the Call of the Bones Necklace, see `codex/objects/call-of-the-bones-necklace.md`), offset by the race's signature high Fortune, the highest in the game at any race's base line, essentially nobody else builds around it the way a goblin can. Dwarf and Frostborn both read sturdy, Courage/Power-leaning. Drakekin, the rare achievement race, reads strong across the board, no clean single bias, consistent with it not being tied to a starting zone.
+
+### Racial abilities (baseline, every member of the race gets these)
+
+Separate from rare-variant rolls (`codex/lore/playable-races-and-character-creation.md`), which layer on top of these, not replace them. One short passive per race:
+
+| Race | Racial Ability |
+|---|---|
+| Human | **Adaptable** — small bonus to whichever Discipline was last actively trained, reads as the race's "no real weakness" identity mechanically, not just flavor. |
+| Elf | **Mana Sight** — can visually perceive active magic effects and residual mana traces others can't, a real informational edge in any fight involving casters. |
+| Orc | **Unbroken** — resists the first stagger/stun effect taken in a fight per encounter, fits the race's Power-lean and battlefield-durability identity. |
+| Beastfolk | **Predator's Instinct** — bonus initiative and a passive read on the nearest real threat in a room, matches the race's Speed/Power lean. |
+| Goblin | **Scavenger's Eye** — passively identifies which nearby loot is actually worth picking up before it's touched, the race's baseline economic edge, distinct from Tatsuya's own Gambler's Gambit below. |
+| Dwarf | **Iron Constitution** — reduced Energy loss from sustained (non-burst) damage, fits the race's Courage/Power-leaning sturdiness. |
+| Frostborn | **Cold Endurance** — full immunity to environmental cold/exposure effects, a survival-flavored racial rather than a combat one. |
+| Drakekin | **Draconic Presence** — a minor passive intimidation aura, weaker enemies hesitate half a beat before engaging, consistent with the race's no-clean-bias, strong-across-the-board identity. |
+
+### Racial resistances
+
+A per-race lean on elemental/damage-type resistance, not hard immunities, flavor-consistent nudges rather than a second full stat system layered on top of the six Disciplines:
+
+| Race | Notable resistance | Notable weakness |
+|---|---|---|
+| Human | none, flat baseline | none, flat baseline |
+| Elf | Storm | Earth |
+| Orc | Poison | Frost |
+| Beastfolk | Frost | Fire |
+| Goblin | none, deliberately flat/unspecialized across the board, consistent with the race's low-floor, no-hard-walls identity | none, same reason |
+| Dwarf | Earth | Storm |
+| Frostborn | Frost | Fire |
+| Drakekin | Fire | Poison |
 
 ### Goblin racial passive: Gambler's Gambit (corrected, replaces the earlier "Long Shot" placeholder)
 
