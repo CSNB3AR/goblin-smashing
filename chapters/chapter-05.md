@@ -2,9 +2,7 @@ Chapter Five: The Bones Speak
 
 The ride back to the Nakamura Grand ran itself the same way the ride to the hospital had, muscle memory carrying him through turns he didn't register making, the city still out there somewhere beyond the visor but not landing the way it usually did. His phone buzzed twice in his jacket pocket before he made it three blocks, Chiyo's name lighting up the screen both times, and he let it sit there unanswered.
 
-"Not tonight. I'll deal with it when I'm not this pissed off."
-
-He parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet and empty below, no Chiyo at the front desk because she wasn't here, hadn't been here since this morning when she'd left with the twins for Kyoto. Six days. Five left now. The apartment above read just as empty when he unlocked the door and stepped inside.
+"Not tonight. I'll deal with it when I'm not this pissed off." The frustration was brewing in his gut as he parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet and empty below, no Chiyo at the front desk because she wasn't here, hadn't been here since this morning when she'd left with the twins for Kyoto. The apartment above read just as empty when he unlocked the door and stepped inside.
 
 Nobody home. No voices through bedroom doors, no TV running in the front room, just the hum of the refrigerator and the sound of his own boots on the floor.
 
@@ -12,11 +10,9 @@ He dropped his bag by the door, left his phone face-down on the counter without 
 
 The water came out hot enough to sting, and he stood under it longer than he needed to, letting the heat work through the knot sitting between his shoulders, the anger starting to loosen into something closer to exhaustion. Six months. Chiyo had known for six months, and the only reason he knew now was because he'd overheard two nurses who thought he was already gone.
 
-"She didn't tell me because she thought I couldn't handle it. Because she's still treating me like I'm twelve and need protecting."
+His thoughts raced as he pressed his forehead against the tile, water running down his face, and made himself breathe through his nose once, slow, the way he did when there wasn't a clean answer waiting on the other side.
 
-He pressed his forehead against the tile, water running down his face, and made himself breathe through his nose once, slow, the way he did when there wasn't a clean answer waiting on the other side.
-
-"She's carrying everything. The debt, the twins, Mom's surgery fund. And she didn't tell me because she didn't want me to worry, even though she knew I would."
+"I wonder why she didn't tell me. Did she think I couldn't handle it."
 
 The thought didn't make him less angry. Just made the anger sit somewhere different.
 
@@ -31,16 +27,16 @@ Nothing about Tochi in either one, same as the note she'd left on the counter th
 
 He typed a reply, cut it down twice, and sent the shortest version.
 
-[Like I said in my last message, I've decided on Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a second part-time job too. I'm good.]
+[I've decided on going to Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a new part-time job too. I'm good.]
 
 Short, on purpose. He wasn't in the mood to explain the rest of it tonight, and he wasn't sure he wanted to yet anyway. If she wanted the whole story, she could ask when she got back. Right now this was his.
 
 The phone buzzed again before he'd even set it down.
 
 [Chiyo: Wait, really? That's amazing, Tatsu. What changed?]
-[Chiyo: A second job? We can talk about the hours when I'm back. School still comes first though, right?]
+[Chiyo: A new job, what about Gato? We can talk about the hours when I'm back. School still comes first though, right?]
 
-"School's still first. I got it," he typed back, one line.
+[School's still first. I got it.] He typed it back, one line.
 
 [Chiyo: I love you. Get some sleep.]
 
@@ -48,7 +44,7 @@ He didn't answer that one. Instead of setting the phone down, he opened the bank
 
 [WATTSUP DIRECT DEPOSIT - BALANCE: ¥16,800]
 
-Not much. But it was his, earned off two potions and an ability he was already learning how to use right. Something almost like a grin pulled at the corner of his mouth before he caught it.
+Not much. But it was his, earned off two elixirs and an ability he was already learning how to use right. Something almost like a grin pulled at the corner of his mouth before he caught it.
 
 "First real money the game's ever handed me. Not the last."
 
@@ -62,41 +58,71 @@ He stared at the negative sign a long moment.
 
 "It's not even on my account. It never was. It's still sitting on Dad's, still bleeding interest, and they've been calling Chiyo about it for two years like it's ever going to just disappear."
 
-The number didn't move, didn't need to. Between that and the number he already knew, Ohema's surgery, four million yen, still unpaid, still sitting behind a deadline nobody had said out loud to him directly until tonight, it came out somewhere close to seven million yen. Six months, maybe less, if the nurses' timeline was the real one.
+The number didn't move, didn't need to. Between that and the number he already knew, his mom's surgery, four million yen, still unpaid, still sitting behind a deadline nobody had said out loud to him directly until tonight, it came out somewhere close to seven million yen.
 
-"Seven million. Six months." He said it out loud, testing the weight of it. "Not easy. Not impossible either."
+"Seven million." He said it flat, testing the weight of it. "Not impossible if I can make it in HGO. I know WattsUp isn't the play, never gonna make anything there."
 
-He set the phone down for real this time, laying back against the pillow, and let himself actually feel it, not the anger from earlier, something closer to the thing he'd been chasing since he was sixteen and everyone had started deciding what he could and couldn't handle.
+He set the phone down for real this time, lying back against the pillow, and let himself actually feel it, not the anger from earlier, something closer to the thing he'd been chasing since he was sixteen and everyone had started deciding what he could and couldn't handle.
 
-"Debt's the first thing I get off my back. Family pressure is the last thing anybody needs right now, least of all Chiyo." He stared at the ceiling. "Seven million in six months isn't easy. But I've got a build nobody's taken seriously, a loot mechanic that actually pays out, and Leon about to owe me a pod. That's not nothing to work with."
+"Debt's the first thing I get off my back. Family pressure is the last thing anybody needs right now, least of all Chiyo. If everything plays out right I can get Mom better. Maybe even compete." His thoughts raced as the fatigue started to shift in.
 
-"I go back to Tochi. I put real hours into the game. And the only way I actually get both is if I hold up my end with Leon." His eyes closed on that, something almost like excitement sitting underneath the exhaustion for the first time all day.
+His eyes closed on something almost like excitement sitting underneath the exhaustion for the first time all day.
 
 
 
-Morning came too early, sunlight cutting through the blinds in a way that said he'd slept past his usual alarm. He checked his phone. 7:43 AM. Late enough that he needed to move.
+Morning came too early, sunlight cutting through the blinds in a way that said he'd slept past his usual alarm. He checked his phone. 7:43 AM.
 
-The note from Yunaile sat on his desk where he'd left it, folded twice, her friend code written in clean, careful handwriting at the top. He picked it up, read the date at the bottom one more time.
+"Damn, I overslept. Better get up and after it if I'm gonna get some research done before I head over to speak to Leon."
 
-December 23rd.
+Before he'd had time for his mind or body to actually adjust, up for all of five minutes, he rolled out of bed and went over to the closet.
 
-"Two days before Winter Bash." He folded it back along the same crease and slid it into the desk drawer instead of his pocket. "Can't think about this right now. Got other things to deal with first."
+His head almost touched the ceiling when he stepped into the walk-in closet he shared with his siblings.
 
-He got dressed fast, running the real list in his head while he moved: parts for Leon, whatever Tochi's application actually wanted from him this cycle, the stuff that was actually going to matter today.
+"Crazy how. I'm actually playing HGO now. Not the class I wanted, but beggars can't be choosers. And thinking about it, I feel like I actually got something good out of the deal." He pulled on a red hoodie and threw on some clean joggers, not the ones he'd slept in, and his Humu 1's, the shoes Chiyo bought him for his birthday.
 
-His laptop still sat glowing faint on the counter from last night, one tab open on a goblin race guide he'd half-read before he crashed. He skimmed it again while he tied his boots.
+Once he was dressed he went back into his room and got things organized and cleaned up before digging into his jacket pocket and finding the note he'd gotten from the girl with the twin buns he'd bumped into the night before.
 
-[Goblin is the only true unspecialized class in HGO. Low stats, but almost no hard restrictions.]
+The note from Yunaile sat deep in his pocket where he'd left it, folded twice, her friend code written in clean, careful handwriting at the top. He picked it up, read the date at the bottom one more time.
 
-"Nobody's ever given it a real shot because the base stats scare people off day one." He huffed a short breath, almost a laugh. "That's their problem, not mine. High Fortune, high Speed, squishy, fast, hold a point instead of chasing a kill. Same read I had watching Aogiri throw the whole match pushing when they should've sat tight."
+December 23rd. 689450YY.
 
-The rest of it, Shiv, the magic angle, whatever the necklace actually turned out to do, could get sorted out in the pod, not standing here half-dressed with the clock running. Whatever gear could shortcut it sat on the auction house waiting on money he didn't have yet to spend on it, and that could wait too.
+"Wonder why she wrote the date. Either way, I won't be able to hang out much." He folded it back along the same crease and slid it back into his pocket. "Maybe I text her later, if I can find the time in between grinding this quest."
 
-He checked the time again. 8:47 AM. Twelve minutes to get to Sakura Arcade, and he still hadn't looked at the Tochi application once.
+"Right. On to the real challenge. Learning and grinding HGO. I only get one free roll a day when it comes to gear, so whatever I come across better be worth it."
 
-"Later. In the pod, on the ride, whenever. Just move."
+He got to the living room, to the laptop, so he could get the list running in his head: parts for Leon, and whatever Tochi's January entrance exam actually required. He knew he had to get back in on merit, so he'd have to find time to study.
+
+"Chiyo won't be able to afford tuition either. So I'm really gonna have to not fuck around, get back in on merit."
+
+The laptop still sat glowing faint on the counter from last night. His first move was clear, figure out what he actually knew about his class, and what he could find on his skills and the World Quest.
+
+In-game lore on Shiv turned out thin, the codex barely covered him, just a handful of scattered forum posts nobody official had ever confirmed. His own skill list told him more than any of that now that he'd actually played: goblin wasn't locked out of anything the way other races were, no class ceiling stopping him from going wherever he wanted, just a rough climb from a weak starting line nobody had bothered testing. Gambler's Gambit and the World Quest itself barely had any real write-ups either, nothing detailed, just enough in the game's own listings to confirm both were legitimate, live systems. And with the patch notes already flagging new World Quest content as active, everyone out there now knew it too, which put a real target on his back whether he wanted it or not.
+
+He pulled up the Tochi Academy portal next, the entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, the rest he'd have to dig up later, and stopped when he got to the submission window. December 23rd. The same date sitting folded in his pocket right now.
+
+"Guess that's decided either way." He stared at the screen a second longer. "If I'm doing this, I'm doing it. I need Tochi more now than I did a week ago, not less. Not with everything I've already put on the line with Leon."
+
+He skimmed it again while he tied his boots and found something odd looking at other races: they all had class locks and benefits listed plain on the page, yet goblin wasn't locked out of anything, and already carried a real spirit-magic affinity of its own.
+
+"Nobody's ever given it a real shot because the base stats scare people off day one." He huffed a short breath. "That's their problem, and mine to figure out. But at least I can still do magic, just need to learn a way to actually fight with it. That's gonna make a huge difference come Winter Bash."
+
+"I kind of have an idea what I want to build this as. With this much Fortune, a crit build might work, especially since it already proved itself with that double-kill early on. But I doubt I'm resistant to much of anything with this body, health's pretty low, I can die easy, so staying away from melee is the move. Maybe I keep leaning into traps. Whether that actually works in PvP is the real question." He rambled his theory out loud before closing the laptop and checking the time again.
+
+8:47 AM. Cutting it close. Sakura Arcade was a solid thirty minutes out, and if he left right now, he'd land around when Leon told him to come.
+
+"Can't overthink it now. Got to advance the story before the reset timer on Gambler's Gambit hits. Don't want to be trapped in camp when it pops. Need to keep finding ways to make money."
 
 He grabbed Daichi's manual off the desk, shoved it into his bag, and headed for the door.
+
+
+
+The ride to Sakura Arcade gave him time to actually breathe, the Haya EB humming steady under him, the city waking up slow around the edges. He pulled his phone out at a red light and thumbed open Loop out of habit.
+
+[@Dosuke_AI: anyone else notice the goblin WQ never popped outside Lunarest this morning? thought this was supposed to go wide]
+[@PK_Wraith: is it even going on outside Lunarest or nah. somebody confirm]
+[@Xx_Wraithborn_xX: glitch? or they capping the spawn on purpose]
+
+He scrolled past it without engaging, filing it away instead of chasing it. Somewhere further down, London Spire's captain had finally shown up on Loop for the first time since the World Championship, a short clip already racking up views, nobody talking about it much yet considering they'd just won the whole thing. He killed the screen before the light changed and pulled back into traffic.
 
 
 
@@ -112,7 +138,7 @@ Leon's sister, had to be. The resemblance was there if he looked for it.
 
 "Thanks."
 
-He held her look half a second longer than the exchange actually needed before he turned for the hallway, distantly registering that Leon's sister was easy on the eyes too, and filing that thought exactly nowhere near the top of his list this morning.
+He held her look half a second longer than the exchange actually needed before he turned for the hallway, and kept the rest of that thought exactly where it belonged, which was nowhere near the top of his list this morning.
 
 Leon was standing near the second pod's booth with a man in a branded polo, tablet in hand, deep in something technical Tatsuya only caught the tail end of. Leon spotted him and waved him over without fully breaking off.
 
@@ -196,7 +222,7 @@ Not gray. Not silver. Pure white, stark against his green skin, falling loose ar
 [RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]
 [ABILITY UNLOCKED: THE BONES SPEAK]
 [SPIRIT MAGIC PATH UNLOCKED: SHAMAN'S VEIL]
-[RACE EVOLVED: GOBLIN → SHIV GOBLIN]
+[RACE EVOLVED: GOBLIN - SHIV GOBLIN]
 
 He stared at the last line longest.
 

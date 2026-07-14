@@ -31,6 +31,8 @@ Not a generic racial trait, a rare-variant roll result specific to Tatsuya (see 
 
 Not every race can freely learn every skill tree. A D&D-style convention: races with a Wisdom penalty (Orc, Beastfolk, Goblin) have restricted access to high-tier arcane/Spellforger-path trees by default, they lean into Physical Arts (see `codex/lore/preserved-misc-mechanics.md`) instead. Elves and Humans have full, unrestricted magic access. Dwarves and Frostborn sit in between, partial access, more elemental/rune-utility flavored than pure arcane.
 
+**Goblin specifically isn't locked out of any base class the way its magic-access restriction might imply.** No class ceiling stops a goblin player from building toward anything on the base-class list (`codex/lore/deck-building-rarity-and-classes.md` §Base classes). What actually holds most goblin builds back is the race's weak starting stat line (`codex/lore/deck-building-rarity-and-classes.md` §Per-race base stats), a hard climb from a low floor, not a hard wall. This is what Tatsuya works out for himself during Chapter 5's morning research, nobody's given the race a real shot because the base stats scare people off day one, not because the class options are actually closed to it.
+
 This is exactly what makes Tatsuya's eventual spellcasting capability as a goblin, unlocked specifically through the Shiv bond and the Shaman's Veil path (see `codex/objects/call-of-the-bones-necklace.md`), a real, remarked-upon anomaly in-world rather than a background non-event, a goblin who can genuinely cast is not supposed to happen.
 
 ## Rarity ladder
