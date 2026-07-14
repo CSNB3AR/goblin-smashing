@@ -106,6 +106,12 @@ He backed out and pulled up his own character sheet instead, skill list on the l
 
 "Everyone out there already knows it's live." He tapped the edge of the counter once. "That's a target whether I asked for it or not."
 
+He backed out one more tab, to Loop, and set his handle to match, TDRAG, same as the game already had him locked into. A quick photo from his camera roll went up as the profile image, nothing posed, just something that actually looked like him. Scrolling past the settings on his way out, a livestream toggle sat there, greyed out, waiting on him to flip it.
+
+He looked at it a second, thumb hovering.
+
+"Not yet. Nothing worth showing anybody until I've actually got something to show." He backed out without touching it.
+
 He pulled up the Tochi Academy portal next, the entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, the rest he'd have to dig up later, and stopped when he got to the submission window. December 23rd. The same date sitting folded in his pocket right now.
 
 "Guess that's decided either way." He stared at the screen a second longer. "If I'm doing this, I'm doing it. I need Tochi more now than I did a week ago, not less. Not with everything I've already put on the line with Leon."
