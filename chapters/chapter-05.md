@@ -76,7 +76,7 @@ His eyes closed on something almost like excitement sitting underneath the exhau
 
 ---
 
-Morning came too early, sunlight cutting through the blinds in a way that said he'd slept past his usual alarm. He checked his phone. 7:43 AM.
+Morning came too early, sunlight cutting through the blinds in a way that said he'd slept past his usual alarm. He checked his phone. 7:43 AM. December 11th.
 
 *"Damn."* He sat up, a loc falling loose across his face that he pushed back automatically. *"Better move if I'm getting research in before Leon."*
 
@@ -94,7 +94,7 @@ Yunaile's handwriting at the top, clean block letters, the friend code underneat
 
 December 23rd. 689450YY.
 
-*"Just a date. No name, nothing else."* He turned it over once. *"Either she's busy that day, or she wants me there. Hard to think much past Winter Bash right now either way."* He folded it back along the same crease and slid it back into his pocket.
+*"Just a date. No name, nothing else."* He turned it over once. *"Either she's busy that day, or she wants me there."* Fourteen days to Winter Bash, if December 11th was right. *"Hard to think past that right now either way."* He folded it back along the same crease and slid it back into his pocket.
 
 He grabbed the laptop off the counter on his way to the kitchen stool and started typing before he'd even sat down fully.
 
@@ -110,11 +110,23 @@ He backed out and pulled up his character sheet, skill list on the left, thumb s
 
 He switched to Loop, set his handle to TDRAG to match the game, and set a goblin icon as his profile image instead, something pulled straight off his own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to him.
 
-Streaming was a real option sitting somewhere down the line, he knew that much just from watching how the pro scene actually got funded. Sponsorships didn't find players sitting on nothing, they found players sitting on something nobody else had, and right now he had a World Quest nobody outside Bloodhurst even knew was goblin-specific. That had to be worth more than a drop table.
+He pulled up the Companion App next, same login, built for watching instead of posting. Pro streams stacked down the front page, viewer counts running six figures on some of them, sponsor logos scrolling under the names that mattered. Real money, sitting right there.
 
-But going live meant being in the pod when it happened, not fiddling with a setting from his own kitchen, and it meant painting an even bigger target on himself in a game where higher-level accounts could still come looking for exactly this kind of thing. He didn't actually know yet what that risk really cost him this early, only that it existed.
+*"Streaming's not new information. I just never had anything worth pointing a camera at before."* His thumb hovered over the stream tab. *"Sponsorships don't find players sitting on nothing. They find players sitting on something nobody else has. Right now nobody outside Bloodhurst even knows this World Quest is goblin-specific. That's worth more than a drop table."*
 
-*"Something to actually think through once I'm back in game. Not now."* He closed the tab.
+He'd read enough threads to know what higher-level players did when they wanted something someone else had. World Quest items came back bound, forums were consistent on that much, but bound didn't mean safe. He'd seen clips of players camped after a kill, held there through the seven-day lock until they gave something up just to make it stop. Toddy from WattsUp wouldn't shut up about the worse version, guilds locking a player down and ransoming the account back for real money. Rumor mill, mostly. He'd never played long enough to know how much of it was true.
+
+*"No gear past the belt, no backup, health pool that's basically nothing. If someone decides I'm worth the trouble, I don't have an answer for that yet."*
+
+He almost closed the tab.
+
+*"But Sevish made it a guarantee, not a favor. Ally of Thrash doesn't come with a countdown on it, it holds as long as I don't blow the quest. Two gold tags backing one target means anyone coming after me needs an actual party, not a solo gank. That's a commitment on their end too."*
+
+Half the accounts that could actually field that kind of party were sitting frozen anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. Fewer real threats walking around this exact week than there'd be in a month.
+
+But going live still meant being in the pod when it happened, not flipping a setting from his own kitchen, and it meant painting the target the second anyone traced the stream back to a location.
+
+*"Doesn't mean never. Means not yet."* He closed the tab.
 
 He pulled up the Tochi portal next. Entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, stopped at the submission window.
 
@@ -128,7 +140,7 @@ He skimmed the race comparison page while he double-knotted his laces and caught
 
 *"Nobody's taken this seriously because the numbers scared them off on day one."* A short breath, something like a real grin. *"That's literally just a skill gap in disguise. High Fortune, high Speed, squishy, fast, hold the point instead of chasing the kill. Same exact read I had on Aogiri. And if the magic path opens up on top of it, which it looks like it actually will, that's a hybrid nobody has mapped out yet because nobody stayed long enough to find it."*
 
-*"So here's the build."* He said it out loud even though nobody was there. *"Crit build rides Fortune, already proven in the field. Health's garbage so I stay out of melee entirely, fine by me. Traps, distance, make them come to me on my terms. Whether it holds in real PvP is the only question left."*
+*"Ideally something that works at range."* He said it out loud even though nobody was there. *"Health's bad enough melee's off the table on its own. But that combo that dropped both enforcers wasn't luck, it landed critical. If I can actually learn to set that up instead of stumbling into it again, that's a real build, not an accident."*
 
 He checked the time. 8:47 AM. Sakura Arcade was thirty minutes out.
 
@@ -318,7 +330,7 @@ The kid's eyes went wide, but he didn't argue.
 
 "Alright," Tatsuya said. "He's in."
 
-Sevish nodded once and turned back toward the tent. "Get it done. We're counting on you."
+Sevish nodded once and turned back toward the tent. "Get it done. You're an ally of Thrash now. That doesn't change because you outlevel this camp."
 
 Tatsuya watched him go, then looked down at the kid.
 
