@@ -8,11 +8,11 @@ The frustration was still sitting hot in his chest when he parked the Haya EB ar
 
 Just the hum of the refrigerator and the sound of his own boots on the floor. He toed a stray pair of Taji's sandals back into line by the door, automatic, the kind of straightening up he did every time he got home first, and left his bag beside them. His phone went face-down on the kitchen counter without a glance, and he headed straight for the shower.
 
-The water came out hot enough to sting, and he stood under it longer than he needed to, letting the heat work through the knot sitting between his shoulders, the anger starting to loosen into something closer to exhaustion. Six months. Chiyo had known for six months, and the only reason he knew now was because he'd overheard two nurses who thought he was already gone.
+The water came out hot enough to sting, and he stood under it longer than he needed to, letting the heat work through the knot sitting between his shoulders, the anger starting to loosen into something closer to exhaustion.
 
 He pressed his forehead against the tile, water running down his face, and made himself breathe through his nose once, slow, the way he did when there wasn't a clean answer waiting on the other side.
 
-*"Why didn't she just tell me. Did she actually think I couldn't handle it."*
+*"I wouldn't even be this mad if I hadn't had to find out from two nurses who thought I was already gone."* He let the water hit the back of his neck a second longer. *"Why didn't she just tell me. Did she actually think I couldn't handle it."*
 
 The thought didn't make him less angry. Just made the anger sit somewhere different.
 
@@ -58,13 +58,15 @@ He scrolled down out of habit, the way he always checked his own numbers, and th
 
 **[COLLECTIONS NOTICE: TABUCHI HOLDINGS]**
 
-He stared at the negative sign a long moment.
+He stared at his own balance first, then Dad's, then the name sitting under the collections notice, and Eren's face showed up uninvited, easy and entitled the way it always looked right before it said something meant to sting.
 
-*"It's not even on my account. It never was. It's still sitting on Dad's, still bleeding interest, and they've been calling Chiyo about it for two years like it's ever going to just disappear."*
+*"He's already taken enough. Now they want more on top of it."* His jaw set. *"I'll be damned if I hand them a single thing Dad wasn't willing to give them himself."*
+
+But legally his hands were tied as long as the balance sat there owing, and that was the actual answer to a question he'd never bothered asking outright: why it was always Chiyo fielding those calls instead of anyone else. Mom would have, if she could. She was the one who'd actually married into it. Since she couldn't, it landed on Chiyo instead, and had for two years.
 
 The number didn't move, didn't need to. Between that and the number he already knew, his mom's surgery, four million yen, still unpaid, still sitting behind a deadline nobody had said out loud to him directly until tonight, it came out somewhere close to seven million yen.
 
-*"Seven million."* He said it flat, testing the weight of it. *"Not impossible if I can make it in HGO. WattsUp was never getting me there."*
+*"Seven million."* He said it flat, testing the weight of it. *"Not impossible. Gonna be hard, but if there's anywhere I can actually do it, it's HGO."*
 
 He set the phone down for real this time, lying back against the pillow, and let himself actually feel it, not the anger from earlier, something closer to the thing he'd been chasing since he was sixteen and everyone had started deciding what he could and couldn't handle.
 
@@ -80,7 +82,11 @@ Morning came too early, sunlight cutting through the blinds in a way that said h
 
 He rolled out of bed, crossed to the closet he shared with the twins. His head nearly touched the ceiling frame when he stepped inside, which still caught him off guard sometimes.
 
-*"Wild that I'm actually in HGO now."* He pulled a red hoodie off its hanger, grabbed clean joggers, his Humu 1's off the floor. *"Not the class I wanted. But honestly? I think I might've landed something good by accident. Funny how that works."*
+*"Wild that I'm actually in HGO now."* He pulled a red hoodie off its hanger, grabbed clean joggers, his Humu 1's off the floor.
+
+Eren's build had gone viral the exact same way once, except Eren hadn't actually built it. Stole it clean off paper the two of them theorized together back when they still talked, threw Tabuchi money behind it, gear neither of them could've afforded solo, and rode the whole thing to a school-funded roster. Haruto wouldn't even be on that team if the theft had never happened. If Eren could get that far running someone else's idea on someone else's money, there had to be real room to do it clean.
+
+*"Not the class I wanted. But honestly? I think I might've landed something good by accident. Funny how that works."* He tugged the hoodie down. *"Wonder if I'm still locked out of a reset now too, or if that's just the character itself."*
 
 He got dressed, cleaned up his room, and dug the folded note out of his jacket pocket before putting it away.
 
@@ -88,11 +94,11 @@ Yunaile's handwriting at the top, clean block letters, the friend code underneat
 
 December 23rd. 689450YY.
 
-*"She put the date and nothing else. No name, nothing. Either she's busy that day and wants me to leave her alone, or she specifically wants me there."* He folded it back along the same crease and slid it back into his pocket. *"Either way, not much time for that. Too much going on. Maybe I hit her up later when I've actually got something going for me."*
+*"Just a date. No name, nothing else."* He turned it over once. *"Either she's busy that day, or she wants me there. Hard to think much past Winter Bash right now either way."* He folded it back along the same crease and slid it back into his pocket.
 
 He grabbed the laptop off the counter on his way to the kitchen stool and started typing before he'd even sat down fully.
 
-**[Shiv goblin spirit-sorcerer HGO]**
+**[Shiv, the goblin spirit-sorcerer, HGO lore]**
 
 Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. He scrolled through them twice and gave up.
 
@@ -104,15 +110,11 @@ He backed out and pulled up his character sheet, skill list on the left, thumb s
 
 He switched to Loop, set his handle to TDRAG to match the game, and set a goblin icon as his profile image instead, something pulled straight off his own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to him.
 
-He scrolled past the settings on his way out and the livestream toggle sat there, waiting.
+Streaming was a real option sitting somewhere down the line, he knew that much just from watching how the pro scene actually got funded. Sponsorships didn't find players sitting on nothing, they found players sitting on something nobody else had, and right now he had a World Quest nobody outside Bloodhurst even knew was goblin-specific. That had to be worth more than a drop table.
 
-His thumb hovered over it.
+But going live meant being in the pod when it happened, not fiddling with a setting from his own kitchen, and it meant painting an even bigger target on himself in a game where higher-level accounts could still come looking for exactly this kind of thing. He didn't actually know yet what that risk really cost him this early, only that it existed.
 
-*"Streaming means sponsorships. Sponsorships mean actual money, the kind Winter Bash and Pro League don't guarantee and rare drops sure as hell don't guarantee."* He turned it over. *"And nobody else is touching this World Quest content right now, not with the expansion this fresh. That's real eyes on me if I want them."*
-
-But the other side of it sat there too, obvious the second he actually thought it through. PKers went looking for exactly this, a goblin sitting on unclaimed World Quest content with a target already half-painted on him. Dying now barely cost him anything, nothing bound worth losing yet. Dying later, closer to Winter Bash, and the seven-day kill lock could take him out of contention entirely for the one shot that actually paid real money.
-
-*"Not shutting the door on it. Just not opening it yet, not until dying doesn't cost me the whole thing."* He backed out of the settings without touching the toggle.
+*"Something to actually think through once I'm back in game. Not now."* He closed the tab.
 
 He pulled up the Tochi portal next. Entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, stopped at the submission window.
 
@@ -136,7 +138,7 @@ He grabbed Daichi's manual off the desk, shoved it into his bag, and headed for 
 
 The ride gave him room to breathe, the Haya EB humming steady under him, the city still waking up around the edges. He pulled his phone at a red light, Loop already open on habit.
 
-**[@Dosuke_AI: anyone else notice the goblin WQ never popped outside Lunarest this morning? thought this was supposed to go wide]**
+**[@Dosuke_AI: anyone else notice the rally outside Lunarest never popped this morning? thought a world quest trigger was supposed to go wide]**
 
 **[@PK_Wraith: is it even going on outside Lunarest or nah. somebody confirm]**
 
