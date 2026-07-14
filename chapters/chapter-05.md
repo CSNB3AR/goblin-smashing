@@ -116,9 +116,9 @@ He pulled up the Tochi Academy portal next, the entrance application sitting exa
 
 He skimmed it again while he double-knotted his laces and found something odd looking at other races: they all had class locks and benefits listed plain on the page, yet goblin wasn't locked out of anything, and already carried a real spirit-magic affinity of its own.
 
-"Nobody's ever given it a real shot because the base stats scare people off day one." He huffed a short breath. "That's their problem, and mine to figure out. But at least I can still do magic, just need to learn a way to actually fight with it. That's gonna make a huge difference come Winter Bash."
+"Nobody's ever given it a real shot because the base stats scare people off day one." He huffed a short breath, a real grin starting underneath it. "That's their problem, and mine to figure out. And I can still do magic on top of it, nobody's factoring that in either. Learn to actually fight with it and that's a huge problem for whoever's standing across from me at Winter Bash."
 
-"I kind of have an idea what I want to build this as. With this much Fortune, a crit build might work, especially since it already proved itself with that double-kill early on. But I doubt I'm resistant to much of anything with this body, health's pretty low, I can die easy, so staying away from melee is the move. Maybe I keep leaning into traps. Whether that actually works in PvP is the real question." He rambled his theory out loud before closing the laptop and checking the time again.
+"So here's the build." He said it out loud like he was already pitching it to someone. "This much Fortune, crit build's basically calling my name, and it's already proven itself once with that double-kill. Health's trash though, this body folds if anything real touches it, so melee's off the table completely. Fine by me. Traps, distance, make you come to me on my terms. Whether that actually holds up in real PvP's the only question left." He rambled the rest of it out loud, grinning at his own laptop like an idiot, before closing it and checking the time again.
 
 8:47 AM. Cutting it close. Sakura Arcade was a solid thirty minutes out, and if he left right now, he'd land around when Leon told him to come.
 
@@ -142,9 +142,9 @@ Sakura Arcade looked different in the morning light, less like a place barely ho
 
 Leon's sister, had to be. The resemblance was there if he looked for it.
 
-"Help you?" she asked, direct, sizing him up in the two seconds it took him to cross the floor. Something flickered across her face, quick, there and gone, the kind of look that clocked he was about her own age before she decided anything else about him.
+"Help you?" she asked, direct, sizing him up in the two seconds it took him to cross the floor, the kind of once-over he'd gotten his whole life, tall, scarred, locs, the read people landed on before he'd said a word. Something flickered across her face, quick, there and gone, the kind of look that clocked he was about her own age before she decided anything else about him.
 
-"Looking for Leon. He's expecting me."
+"Looking for Leon." He kept it easy, let her finish deciding whatever she was deciding. "He's expecting me."
 
 "You're the guy fixing the pods." Not a question. She jerked a thumb toward the back hallway, already turning back to whatever she'd been doing before he walked in, or doing a good job pretending to. "He's back with the tech, near the booth. Go on through."
 
@@ -198,13 +198,13 @@ Ash and smoke, taking shape slowly, coalescing into something almost solid. A wi
 
 The nameplate read gold, not white, not red, something else entirely.
 
-Tatsuya's breath caught, his hands going still at his sides.
+Tatsuya's breath caught for exactly one second, his hands going still at his sides. Then something in him locked into place instead, the same click he felt reading a fight before it started.
 
 The figure turned toward him, and when it spoke, the voice carried like it was coming from everywhere at once, not loud, just impossible to ignore.
 
 "So. You're the one who said we have bigger problems than fighting each other."
 
-Tatsuya swallowed once, throat tight, and nodded.
+Tatsuya held the stare and nodded once, steady.
 
 "Good," Shiv said, and stepped closer, the ash trailing behind him like a cloak. "Then let's see if you mean it."
 
