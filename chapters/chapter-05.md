@@ -6,7 +6,7 @@ The ride back to the Nakamura Grand ran itself the same way the ride to the hosp
 
 Nobody home. No voices through bedroom doors, no TV running in the front room, just the hum of the refrigerator and the sound of his own boots on the floor.
 
-He dropped his bag by the door, left his phone face-down on the counter without checking it, and headed straight for the shower.
+He dropped his bag by the door, left his phone face-down on the kitchen counter without checking it, and headed straight for the shower.
 
 The water came out hot enough to sting, and he stood under it longer than he needed to, letting the heat work through the knot sitting between his shoulders, the anger starting to loosen into something closer to exhaustion. Six months. Chiyo had known for six months, and the only reason he knew now was because he'd overheard two nurses who thought he was already gone.
 
@@ -16,7 +16,7 @@ His thoughts raced as he pressed his forehead against the tile, water running do
 
 The thought didn't make him less angry. Just made the anger sit somewhere different.
 
-He shut the water off, dried off fast, and pulled on a pair of sweats before dropping onto his bed, phone in hand. Only then did he actually look at what she'd sent.
+He shut the water off, dried off fast, and pulled on a pair of sweats. On his way through the front room he swung by the kitchen counter, scooped the phone up without breaking stride, and carried it back to his room before dropping onto the bed. Only then did he actually look at what she'd sent.
 
 Two texts, both short, both hours old.
 
@@ -90,19 +90,27 @@ December 23rd. 689450YY.
 
 "Right. On to the real challenge. Learning and grinding HGO. I only get one free roll a day when it comes to gear, so whatever I come across better be worth it."
 
-He got to the living room, to the laptop, so he could get the list running in his head: parts for Leon, and whatever Tochi's January entrance exam actually required. He knew he had to get back in on merit, so he'd have to find time to study.
+He got to the living room, laptop still on his mind, and started running the list in his head: parts for Leon, and whatever Tochi's January entrance exam actually required. He knew he had to get back in on merit, so he'd have to find time to study.
 
 "Chiyo won't be able to afford tuition either. So I'm really gonna have to not fuck around, get back in on merit."
 
-The laptop still sat glowing faint on the counter from last night. His first move was clear, figure out what he actually knew about his class, and what he could find on his skills and the World Quest.
+The laptop still sat glowing faint on the kitchen counter from last night. He pulled a stool up and started typing, one search at a time.
 
-In-game lore on Shiv turned out thin, the codex barely covered him, just a handful of scattered forum posts nobody official had ever confirmed. His own skill list told him more than any of that now that he'd actually played: goblin wasn't locked out of anything the way other races were, no class ceiling stopping him from going wherever he wanted, just a rough climb from a weak starting line nobody had bothered testing. Gambler's Gambit and the World Quest itself barely had any real write-ups either, nothing detailed, just enough in the game's own listings to confirm both were legitimate, live systems. And with the patch notes already flagging new World Quest content as active, everyone out there now knew it too, which put a real target on his back whether he wanted it or not.
+[Shiv, goblin spirit-sorcerer]
+
+Almost nothing came back official, the game's own codex gave him three sparse lines and moved on. He scrolled past two dead forum threads before he gave up on that angle entirely.
+
+"Guess I find out the rest of it the hard way."
+
+He backed out and pulled up his own character sheet instead, skill list on the left, thumb scrolling slow. Gambler's Gambit sat there with barely a paragraph under it, same with the World Quest tag pinned at the top of his log, both flagged as active, live systems, neither one explained past that. He closed the tab on a patch-notes post further down, new World Quest content confirmed rolling out, and sat with that a second.
+
+"Everyone out there already knows it's live." He tapped the edge of the counter once. "That's a target whether I asked for it or not."
 
 He pulled up the Tochi Academy portal next, the entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, the rest he'd have to dig up later, and stopped when he got to the submission window. December 23rd. The same date sitting folded in his pocket right now.
 
 "Guess that's decided either way." He stared at the screen a second longer. "If I'm doing this, I'm doing it. I need Tochi more now than I did a week ago, not less. Not with everything I've already put on the line with Leon."
 
-He skimmed it again while he tied his boots and found something odd looking at other races: they all had class locks and benefits listed plain on the page, yet goblin wasn't locked out of anything, and already carried a real spirit-magic affinity of its own.
+He skimmed it again while he double-knotted his laces and found something odd looking at other races: they all had class locks and benefits listed plain on the page, yet goblin wasn't locked out of anything, and already carried a real spirit-magic affinity of its own.
 
 "Nobody's ever given it a real shot because the base stats scare people off day one." He huffed a short breath. "That's their problem, and mine to figure out. But at least I can still do magic, just need to learn a way to actually fight with it. That's gonna make a huge difference come Winter Bash."
 
