@@ -1,8 +1,8 @@
-Chapter Five: The Bones Speak
+# Chapter Five: The Bones Speak
 
 The ride back to the Nakamura Grand ran itself the same way the ride to the hospital had, muscle memory carrying him through turns he didn't register making, the city still out there somewhere beyond the visor but not landing the way it usually did. His phone buzzed twice in his jacket pocket before he made it three blocks, Chiyo's name lighting up the screen both times, and he let it sit there unanswered.
 
-"Not tonight. I'll deal with it when I'm not this pissed off."
+*"Not tonight. I'll deal with it when I'm not this pissed off."*
 
 The frustration was still sitting hot in his chest when he parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet below, Chiyo and the twins still in Kyoto for the week. He let himself in, the day finally settling into his shoulders now that there was nobody around to hold it together in front of.
 
@@ -12,7 +12,7 @@ The water came out hot enough to sting, and he stood under it longer than he nee
 
 He pressed his forehead against the tile, water running down his face, and made himself breathe through his nose once, slow, the way he did when there wasn't a clean answer waiting on the other side.
 
-"Why didn't she just tell me. Did she actually think I couldn't handle it."
+*"Why didn't she just tell me. Did she actually think I couldn't handle it."*
 
 The thought didn't make him less angry. Just made the anger sit somewhere different.
 
@@ -20,63 +20,67 @@ He shut the water off, dried off fast, and pulled on a pair of sweats. On his wa
 
 Two texts, both short, both hours old.
 
-[Chiyo: You doing okay? Haven't heard from you in a bit.]
-[Chiyo: Let me know when you get home safe.]
+**[Chiyo: You doing okay? Haven't heard from you in a bit.]**
+
+**[Chiyo: Let me know when you get home safe.]**
 
 Nothing about Tochi in either one, same as the note she'd left on the counter that morning, already gone before he'd even gotten up. First real contact between them all day.
 
 He typed a reply, cut it down twice, and sent the shortest version.
 
-[I've decided on going to Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a new part-time job too. I'm good.]
+**[I've decided on going to Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a new part-time job too. I'm good.]**
 
 Short, on purpose. He wasn't in the mood to explain the rest of it tonight, and he wasn't sure he wanted to yet anyway. If she wanted the whole story she could ask when she got back. Right now this was his.
 
 The phone buzzed again before he'd even set it down.
 
-[Chiyo: Wait, really? That's amazing, Tatsu. What changed?]
-[Chiyo: A new job, what about Gato? We can talk about the hours when I'm back. School still comes first though, right?]
+**[Chiyo: Wait, really? That's amazing, Tatsu. What changed?]**
 
-[School's still first. I got it.] One line, sent.
+**[Chiyo: A new job, what about Gato? We can talk about the hours when I'm back. School still comes first though, right?]**
 
-[Chiyo: I love you. Get some sleep.]
+**[School's still first. I got it.]** One line, sent.
+
+**[Chiyo: I love you. Get some sleep.]**
 
 He didn't answer that one. Opened the banking app instead, one more thing to check before he let himself sleep.
 
-[WATTSUP DIRECT DEPOSIT - BALANCE: ¥16,800]
+**[WATTSUP DIRECT DEPOSIT - BALANCE: ¥16,800]**
 
 Not much. But it was his, earned off two elixirs and an ability he was already learning how to use right. Something almost like a grin pulled at the corner of his mouth before he caught it.
 
-"First real money the game's ever handed me. Not the last."
+*"First real money the game's ever handed me. Not the last."*
 
 He scrolled down out of habit, the way he always checked his own numbers, and the second account caught him before he could stop it. Still listed under Daichi Kazehaya. Still his to see, next of kin, nobody had ever bothered pulling him off it.
 
-[KAZUHAYA TECH - LEGACY ACCOUNT]
-[BALANCE: -¥3,014,200]
-[COLLECTIONS NOTICE: TABUCHI HOLDINGS]
+**[KAZUHAYA TECH - LEGACY ACCOUNT]**
+
+**[BALANCE: -¥3,014,200]**
+
+**[COLLECTIONS NOTICE: TABUCHI HOLDINGS]**
 
 He stared at the negative sign a long moment.
 
-"It's not even on my account. It never was. It's still sitting on Dad's, still bleeding interest, and they've been calling Chiyo about it for two years like it's ever going to just disappear."
+*"It's not even on my account. It never was. It's still sitting on Dad's, still bleeding interest, and they've been calling Chiyo about it for two years like it's ever going to just disappear."*
 
 The number didn't move, didn't need to. Between that and the number he already knew, his mom's surgery, four million yen, still unpaid, still sitting behind a deadline nobody had said out loud to him directly until tonight, it came out somewhere close to seven million yen.
 
-"Seven million." He said it flat, testing the weight of it. "Not impossible if I can make it in HGO. WattsUp was never getting me there."
+*"Seven million."* He said it flat, testing the weight of it. *"Not impossible if I can make it in HGO. WattsUp was never getting me there."*
 
 He set the phone down for real this time, lying back against the pillow, and let himself actually feel it, not the anger from earlier, something closer to the thing he'd been chasing since he was sixteen and everyone had started deciding what he could and couldn't handle.
 
-"Debt comes first. Family doesn't need more pressure right now, least of all Chiyo. If everything plays out right I get Mom better. Maybe I compete on top of it." The fatigue was shifting in now, the good kind, the kind that came after a day that had actually moved somewhere.
+*"Debt comes first. Family doesn't need more pressure right now, least of all Chiyo. If everything plays out right I get Mom better. Maybe I compete on top of it."* The fatigue was shifting in now, the good kind, the kind that came after a day that had actually moved somewhere.
 
 His eyes closed on something almost like excitement sitting underneath the exhaustion for the first time all day.
 
-
+---
 
 Morning came too early, sunlight cutting through the blinds in a way that said he'd slept past his usual alarm. He checked his phone. 7:43 AM.
 
-"Damn." He sat up, a loc falling loose across his face that he pushed back automatically. "Better move if I'm getting research in before Leon."
+*"Damn."* He sat up, a loc falling loose across his face that he pushed back automatically. *"Better move if I'm getting research in before Leon."*
 
 He rolled out of bed, crossed to the closet he shared with the twins. His head nearly touched the ceiling frame when he stepped inside, which still caught him off guard sometimes.
 
-"Wild that I'm actually in HGO now." He pulled a red hoodie off its hanger, grabbed clean joggers, his Humu 1's off the floor. "Not the class I wanted. But honestly? I think I might've landed something good by accident. Funny how that works."
+*"Wild that I'm actually in HGO now."* He pulled a red hoodie off its hanger, grabbed clean joggers, his Humu 1's off the floor. *"Not the class I wanted. But honestly? I think I might've landed something good by accident. Funny how that works."*
 
 He got dressed, cleaned up his room, and dug the folded note out of his jacket pocket before putting it away.
 
@@ -84,19 +88,19 @@ Yunaile's handwriting at the top, clean block letters, the friend code underneat
 
 December 23rd. 689450YY.
 
-"She put the date and nothing else. No name, nothing. Either she's busy that day and wants me to leave her alone, or she specifically wants me there." He folded it back along the same crease and slid it back into his pocket. "Either way, not much time for that. Too much going on. Maybe I hit her up later when I've actually got something going for me."
+*"She put the date and nothing else. No name, nothing. Either she's busy that day and wants me to leave her alone, or she specifically wants me there."* He folded it back along the same crease and slid it back into his pocket. *"Either way, not much time for that. Too much going on. Maybe I hit her up later when I've actually got something going for me."*
 
 He grabbed the laptop off the counter on his way to the kitchen stool and started typing before he'd even sat down fully.
 
-[Shiv goblin spirit-sorcerer HGO]
+**[Shiv goblin spirit-sorcerer HGO]**
 
 Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. He scrolled through them twice and gave up.
 
-"Alright, fine. I'm learning this one the hard way."
+*"Alright, fine. I'm learning this one the hard way."*
 
 He backed out and pulled up his character sheet, skill list on the left, thumb scrolling. Gambler's Gambit sat there with barely a paragraph under it, the World Quest tag pinned at the top of his log, both active, both about as explained as nothing. He closed a patch-notes post, new World Quest content confirmed rolling out, and sat with that a second.
 
-"Everyone out there already knows it's live. That's a target on me whether I wanted one or not."
+*"Everyone out there already knows it's live. That's a target on me whether I wanted one or not."*
 
 He switched to Loop, set his handle to TDRAG to match the game, and set a goblin icon as his profile image instead, something pulled straight off his own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to him.
 
@@ -104,11 +108,11 @@ He scrolled past the settings on his way out and the livestream toggle sat there
 
 His thumb hovered over it.
 
-"Streaming means sponsorships. Sponsorships mean actual money, the kind Winter Bash and Pro League don't guarantee and rare drops sure as hell don't guarantee." He turned it over. "And nobody else is touching this World Quest content right now, not with the expansion this fresh. That's real eyes on me if I want them."
+*"Streaming means sponsorships. Sponsorships mean actual money, the kind Winter Bash and Pro League don't guarantee and rare drops sure as hell don't guarantee."* He turned it over. *"And nobody else is touching this World Quest content right now, not with the expansion this fresh. That's real eyes on me if I want them."*
 
 But the other side of it sat there too, obvious the second he actually thought it through. PKers went looking for exactly this, a goblin sitting on unclaimed World Quest content with a target already half-painted on him. Dying now barely cost him anything, nothing bound worth losing yet. Dying later, closer to Winter Bash, and the seven-day kill lock could take him out of contention entirely for the one shot that actually paid real money.
 
-"Not shutting the door on it. Just not opening it yet, not until dying doesn't cost me the whole thing." He backed out of the settings without touching the toggle.
+*"Not shutting the door on it. Just not opening it yet, not until dying doesn't cost me the whole thing."* He backed out of the settings without touching the toggle.
 
 He pulled up the Tochi portal next. Entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, stopped at the submission window.
 
@@ -116,29 +120,31 @@ December 23rd.
 
 Same date as the note in his pocket.
 
-"Already decided." He looked at it one more second. "I need Tochi more now than I did a week ago, not less. That's just the math."
+*"Already decided."* He looked at it one more second. *"I need Tochi more now than I did a week ago, not less. That's just the math."*
 
 He skimmed the race comparison page while he double-knotted his laces and caught something he'd glossed over before. Every other race had hard class locks sitting right there in print. Goblin's column was nearly empty. Low base stats, almost no restrictions, and a latent spirit-magic affinity that most people had never touched because they rerolled before they got anywhere close to it.
 
-"Nobody's taken this seriously because the numbers scared them off on day one." A short breath, something like a real grin. "That's literally just a skill gap in disguise. High Fortune, high Speed, squishy, fast, hold the point instead of chasing the kill. Same exact read I had on Aogiri. And if the magic path opens up on top of it, which it looks like it actually will, that's a hybrid nobody has mapped out yet because nobody stayed long enough to find it."
+*"Nobody's taken this seriously because the numbers scared them off on day one."* A short breath, something like a real grin. *"That's literally just a skill gap in disguise. High Fortune, high Speed, squishy, fast, hold the point instead of chasing the kill. Same exact read I had on Aogiri. And if the magic path opens up on top of it, which it looks like it actually will, that's a hybrid nobody has mapped out yet because nobody stayed long enough to find it."*
 
-"So here's the build." He said it out loud even though nobody was there. "Crit build rides Fortune, already proven in the field. Health's garbage so I stay out of melee entirely, fine by me. Traps, distance, make them come to me on my terms. Whether it holds in real PvP is the only question left."
+*"So here's the build."* He said it out loud even though nobody was there. *"Crit build rides Fortune, already proven in the field. Health's garbage so I stay out of melee entirely, fine by me. Traps, distance, make them come to me on my terms. Whether it holds in real PvP is the only question left."*
 
 He checked the time. 8:47 AM. Sakura Arcade was thirty minutes out.
 
-"Move. Don't want to be stuck in camp when the Gambler's Gambit timer resets."
+*"Move. Don't want to be stuck in camp when the Gambler's Gambit timer resets."*
 
 He grabbed Daichi's manual off the desk, shoved it into his bag, and headed for the door.
 
 The ride gave him room to breathe, the Haya EB humming steady under him, the city still waking up around the edges. He pulled his phone at a red light, Loop already open on habit.
 
-[@Dosuke_AI: anyone else notice the goblin WQ never popped outside Lunarest this morning? thought this was supposed to go wide]
-[@PK_Wraith: is it even going on outside Lunarest or nah. somebody confirm]
-[@Xx_Wraithborn_xX: glitch? or they capping the spawn on purpose]
+**[@Dosuke_AI: anyone else notice the goblin WQ never popped outside Lunarest this morning? thought this was supposed to go wide]**
 
-"Let them figure it out." He killed the screen before the light changed. "I'm already inside it."
+**[@PK_Wraith: is it even going on outside Lunarest or nah. somebody confirm]**
 
+**[@Xx_Wraithborn_xX: glitch? or they capping the spawn on purpose]**
 
+*"Let them figure it out."* He killed the screen before the light changed. *"I'm already inside it."*
+
+---
 
 Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when Tatsuya walked in, red hair, street-biker aesthetic, sharp eyes that landed on him the second he crossed the threshold and didn't move off.
 
@@ -174,7 +180,7 @@ They spent the next twenty minutes going through the parts list from Daichi's ma
 
 "Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with working first-gen HGO access." He clapped Tatsuya on the shoulder once, the kind that felt more like sealing something than saying goodbye. "Go log in. Pod's yours as long as you need it."
 
-
+---
 
 The pod hissed shut above him, the seal locking with that same soft mechanical sigh, and the real world folded away one sense at a time. The void collapsed inward, and he was standing somewhere else.
 
@@ -188,7 +194,7 @@ Then he saw it. At the edge of camp near the boundary line, a figure that didn't
 
 Ash and smoke, taking shape slowly into something almost solid. A wide-brimmed hat. Burning green eyes. A presence that made every goblin nearby stop what they were doing and turn.
 
-[SHIV - SPIRIT ECHO - LEVEL ???]
+**[SHIV - SPIRIT ECHO - LEVEL ???]**
 
 The nameplate read gold, not white, not red, something else entirely.
 
@@ -206,7 +212,7 @@ The spirit raised one hand, and a necklace materialized in the air between them,
 
 "This was mine," Shiv said. "Piece of what I was. Piece of what I'm still trying to be. You take it, you carry the weight that comes with it. You understand?"
 
-"World-tier item. This is what everyone's going to be hunting for."
+*"World-tier item. This is what everyone's going to be hunting for."*
 
 "I understand," Tatsuya said.
 
@@ -222,26 +228,35 @@ His hair had gone white.
 
 Not gray. Not silver. Pure white, stark against his green skin, falling loose around his face in a way that made him look like someone he didn't fully recognize yet.
 
-[CALL OF THE BONES NECKLACE - WORLD]
-[BOUND ITEM - CANNOT BE DROPPED OR TRADED]
-[+5 FORTUNE]
-[RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]
-[ABILITY UNLOCKED: THE BONES SPEAK]
-[SPIRIT MAGIC PATH UNLOCKED: SHAMAN'S VEIL]
-[RACE EVOLVED: GOBLIN - SHIV GOBLIN]
+**[CALL OF THE BONES NECKLACE - WORLD]**
+
+**[BOUND ITEM - CANNOT BE DROPPED OR TRADED]**
+
+**[+5 FORTUNE]**
+
+**[RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]**
+
+**[ABILITY UNLOCKED: THE BONES SPEAK]**
+
+**[SPIRIT MAGIC PATH UNLOCKED: SHAMAN'S VEIL]**
+
+**[RACE EVOLVED: GOBLIN - SHIV GOBLIN]**
 
 He stared at the last line longest.
 
-"Not just an item. It changed what I am."
+*"Not just an item. It changed what I am."*
 
 He pulled up Shaman's Veil, needing to see it in front of him before it felt real.
 
-[SHAMAN'S VEIL - SPIRIT MAGIC PATH]
-[MAGIC ACCESS GRANTED]
-[SCALES WITH: WISDOM]
-[KNOWN SPELL AVAILABLE FOR GROWTH: ANCIENT BONE FLAME BARRAGE]
+**[SHAMAN'S VEIL - SPIRIT MAGIC PATH]**
 
-"It's not handing me anything. It's opening a door that wasn't there before." He let out a breath. "Ancient Bone Flame Barrage was already mine, and now there's an actual path to grow it into something real. Runes, mines, all of it. That's not free though. That's Wisdom I don't have yet, materials I'd have to earn. So everything I was picturing this morning isn't a guess anymore. It's real. I just have to actually get there."
+**[MAGIC ACCESS GRANTED]**
+
+**[SCALES WITH: WISDOM]**
+
+**[KNOWN SPELL AVAILABLE FOR GROWTH: ANCIENT BONE FLAME BARRAGE]**
+
+*"It's not handing me anything. It's opening a door that wasn't there before."* He let out a breath. *"Ancient Bone Flame Barrage was already mine, and now there's an actual path to grow it into something real. Runes, mines, all of it. That's not free though. That's Wisdom I don't have yet, materials I'd have to earn. So everything I was picturing this morning isn't a guess anymore. It's real. I just have to actually get there."*
 
 He looked up, and Shiv was already fading, the ash dissipating into nothing.
 
@@ -251,13 +266,13 @@ Then he was gone, and Tatsuya was standing there alone, white hair catching the 
 
 One of the older goblins near the fire stood, slow and deliberate, and inclined his head. Not a bow. Just acknowledgment, immediate, no hesitation in it, like he'd recognized something rather than decided to respect it.
 
-"Okay. What the hell just happened to me."
+*"Okay. What the hell just happened to me."*
 
 He spent the next hour going through it properly, stat screen open, reading through the necklace's abilities, testing the weight of it against his throat. Fortune had jumped higher than any other stat he had. Shaman's Veil had unlocked a whole skill tree he hadn't known was possible.
 
 He dismissed the screen and looked around camp, taking in the way goblins were moving around him now, stepping aside without being asked, conversations dropping when he got close.
 
-"I didn't earn this. I triggered a quest and touched a necklace. That's literally it. And now they're treating me like I matter before I've done a single thing to back it up."
+*"I didn't earn this. I triggered a quest and touched a necklace. That's literally it. And now they're treating me like I matter before I've done a single thing to back it up."*
 
 It sat wrong. But he didn't have time to sit with it.
 
@@ -287,8 +302,9 @@ Sevish held the look a long moment, then glanced at Wyx.
 
 "Alright," Sevish said. "You're released. Go."
 
-[PRISONER STATUS REMOVED]
-[MOVEMENT RESTRICTION LIFTED]
+**[PRISONER STATUS REMOVED]**
+
+**[MOVEMENT RESTRICTION LIFTED]**
 
 "One more thing," Sevish said, nodding toward the young goblin hovering a few feet back. "Take him with you."
 
@@ -312,10 +328,10 @@ Tatsuya watched him go, then looked down at the kid.
 
 The kid shrugged.
 
-"Alright. Runt works for now."
+*"Alright. Runt works for now."*
 
 "Come on," Tatsuya said, turning toward the camp's edge. "Let's go see what this city looks like."
 
+---
 
-
-[END CHAPTER FIVE]
+**[END CHAPTER FIVE]**
