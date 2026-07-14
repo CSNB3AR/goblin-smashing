@@ -88,9 +88,9 @@ December 23rd. 689450YY.
 
 "Right. On to the real challenge. Learning and grinding HGO. I only get one free roll a day when it comes to gear, so whatever I come across better be worth it."
 
-He got to the living room, laptop still on his mind, and started running the list in his head: parts for Leon, and whatever Tochi's January entrance exam actually required. He knew he had to get back in on merit, so he'd have to find time to study.
+He got to the living room, laptop still on his mind, and started running the list in his head: parts for Leon, whatever Tochi's January entrance exam actually required, time he'd need to carve out to study for it.
 
-"Chiyo won't be able to afford tuition either. So I'm really gonna have to not fuck around, get back in on merit."
+"Chiyo won't be able to afford tuition either. Merit's the only door still open, so I'm not gonna fuck around with it."
 
 The laptop still sat glowing faint on the kitchen counter from last night. He pulled a stool up and started typing, one search at a time.
 
@@ -122,7 +122,7 @@ He skimmed it again while he double-knotted his laces and found something odd lo
 
 8:47 AM. Cutting it close. Sakura Arcade was a solid thirty minutes out, and if he left right now, he'd land around when Leon told him to come.
 
-"Can't overthink it now. Got to advance the story before the reset timer on Gambler's Gambit hits. Don't want to be trapped in camp when it pops. Need to keep finding ways to make money."
+"Can't overthink it now. Got to move before the reset timer on Gambler's Gambit hits. Don't want to be trapped in camp when it pops."
 
 He grabbed Daichi's manual off the desk, shoved it into his bag, and headed for the door.
 
