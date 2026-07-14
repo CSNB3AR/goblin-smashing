@@ -2,11 +2,9 @@ Chapter Five: The Bones Speak
 
 The ride back to the Nakamura Grand ran itself the same way the ride to the hospital had, muscle memory carrying him through turns he didn't register making, the city still out there somewhere beyond the visor but not landing the way it usually did. His phone buzzed twice in his jacket pocket before he made it three blocks, Chiyo's name lighting up the screen both times, and he let it sit there unanswered.
 
-"Not tonight. I'll deal with it when I'm not this pissed off." The frustration was brewing in his gut as he parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet and empty below, no Chiyo at the front desk because she wasn't here, hadn't been here since this morning when she'd left with the twins for Kyoto. The apartment above read just as empty when he unlocked the door and stepped inside.
+"Not tonight. I'll deal with it when I'm not this pissed off." The frustration was brewing in his gut as he parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet below, Chiyo and the twins still in Kyoto for the week. He let himself in, the day finally settling into his shoulders now that there was nobody around to hold it together in front of.
 
-Nobody home. No voices through bedroom doors, no TV running in the front room, just the hum of the refrigerator and the sound of his own boots on the floor.
-
-He dropped his bag by the door, left his phone face-down on the kitchen counter without checking it, and headed straight for the shower.
+Just the hum of the refrigerator and the sound of his own boots on the floor. He toed a stray pair of Taji's sandals back into line by the door, automatic, the kind of straightening up he did every time he got home first, and left his bag beside them. His phone went face-down on the kitchen counter without a glance, and he headed straight for the shower.
 
 The water came out hot enough to sting, and he stood under it longer than he needed to, letting the heat work through the knot sitting between his shoulders, the anger starting to loosen into something closer to exhaustion. Six months. Chiyo had known for six months, and the only reason he knew now was because he'd overheard two nurses who thought he was already gone.
 
@@ -23,7 +21,7 @@ Two texts, both short, both hours old.
 [Chiyo: You doing okay? Haven't heard from you in a bit.]
 [Chiyo: Let me know when you get home safe.]
 
-Nothing about Tochi in either one, same as the note she'd left on the counter that morning, gone before he was even up, gone all day. This was the first real contact between them since this morning.
+Nothing about Tochi in either one, same as the note she'd left on the counter that morning, already gone before he'd even gotten up. First real contact between them all day.
 
 He typed a reply, cut it down twice, and sent the shortest version.
 
