@@ -22,3 +22,19 @@ Kept vague/flavor-level rather than an exhaustive mechanical breakdown, per the 
 **Shaman's Veil scales purely on Wisdom.** Fortune has no relationship to it at all, that's a deliberate, locked separation, not an oversight. The Call of the Bones Necklace's own +5 Fortune bonus is a separate, ordinary item-stat grant, unrelated to the magic path it also happens to unlock.
 
 See `codex/lore/magic-affinities.md` for what flavor of magic a caster actually leans into within this tier system.
+
+## Spell trees by affinity
+
+Each affinity (`codex/lore/magic-affinities.md`) climbs the same tier bands above through its own named spells, one representative spell per band, not an exhaustive list. Flavor-level, consistent with the house style rule against dumping stat blocks, these exist so a caster's affinity and tier both read as concrete rather than abstract labels when one actually appears on the page.
+
+| Affinity | Tier 1-2 | Tier 3-4 | Tier 5-6 | Tier 7 | Tier 8 |
+|---|---|---|---|---|---|
+| Fire | Ember Dart | Flame Wall | Chain Combustion | Inferno Front | *(theoretical, no player has reached it)* |
+| Frost | Frost Bolt | Binding Rime | Shattering Chain | Absolute Zero Field | *(theoretical)* |
+| Storm | Static Lash | Gale Step | Chain Lightning Storm | Eye of the Squall | *(theoretical)* |
+| Earth | Stone Fist | Bulwark Wall | Tremor Cascade | Mountain's Judgment | *(theoretical)* |
+| Light | Minor Mend | Warding Circle | Cascading Renewal | Dawnbreak | *(theoretical)* |
+| Arcane-neutral | Mage Bolt | Dispel Field | Arcane Overload | Null Zone | *(theoretical)* |
+| Dark | Ancient Bone Flame Barrage | rune/mine tree (channel, arm, detonate) | Ancient Bone Flame Barrage's chain-reaction elaboration | *(unclaimed, no known Dark caster has reached it)* | *(theoretical)* |
+
+Dark's own tree is Tatsuya's specifically, sourced from Shaman's Veil (`codex/objects/call-of-the-bones-necklace.md`) rather than a generic school, which is why its Tier 1-2 and Tier 5-6 entries point back to the same named spell rather than a fresh one, growth here means an existing spell getting more dangerous, not a new spell unlocking. The other six affinities read as generic world-flavor, background texture for other casters (NPCs, other players, pro-scene Spellforgers) rather than anything Tatsuya himself will ever cast.

@@ -8,7 +8,7 @@ Once Tatsuya's early gameplay in camp starts showing real growth (his handling o
 
 ## Context that sets this up
 
-Arya's own guild crew is small heading into the Crystal League expansion (her all-girls guild disbanded after a falling-out, see `codex/characters/arya.md`), part of why she's paying close attention to a total unknown in the first place, and part of why she's genuinely available when the Winter Bash random-teammate mechanic pairs her with Tatsuya.
+Arya's own guild crew is small heading into the Crystal League expansion (her all-girls guild, Crimson Static, fractured after a falling-out, see `codex/characters/arya.md`), part of why she's paying close attention to a total unknown in the first place, and part of why she's genuinely available when the Winter Bash random-teammate mechanic pairs her with Tatsuya.
 
 ## Craft note
 
