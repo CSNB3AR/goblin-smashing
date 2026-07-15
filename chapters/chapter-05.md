@@ -48,7 +48,7 @@ He didn't answer that one. Opened the banking app instead, one more thing to che
 
 Not much. But it was his, earned off two elixirs and an ability he was already learning how to use right. Something almost like a grin pulled at the corner of his mouth before he caught it.
 
-*"First real money the game's ever handed me. Not the last."*
+*"Whatever this turns into, it's not going toward Tabuchi. Mom's the one who can't wait on this."*
 
 He scrolled down out of habit, the way he always checked his own numbers, and the second account caught him before he could stop it. Still listed under Daichi Kazehaya. Still his to see, next of kin, nobody had ever bothered pulling him off it.
 
@@ -70,7 +70,7 @@ The number didn't move, didn't need to. Between that and the number he already k
 
 He set the phone down for real this time, lying back against the pillow, and let himself actually feel it, not the anger from earlier, something closer to the thing he'd been chasing since he was sixteen and everyone had started deciding what he could and couldn't handle.
 
-*"Debt comes first. Family doesn't need more pressure right now, least of all Chiyo. If everything plays out right I get Mom better. Maybe I compete on top of it."* The fatigue was shifting in now, the good kind, the kind that came after a day that had actually moved somewhere.
+*"Surgery first."* The number sat different now than it had an hour ago. *"Six months, that's what he wasn't supposed to hear, and that's the only clock in this that actually matters. Tabuchi's had two years already, that fight can keep waiting. Mom can't. If everything plays out right I get her better, and Chiyo gets some room to breathe for once. Maybe I compete on top of it."* The fatigue was shifting in now, the good kind, the kind that came after a day that had actually moved somewhere.
 
 His eyes closed on something almost like excitement sitting underneath the exhaustion for the first time all day.
 
@@ -86,7 +86,7 @@ He rolled out of bed, crossed to the closet he shared with the twins. His head n
 
 Eren's build had gone viral the exact same way once, except Eren hadn't actually built it. Stole it clean off paper the two of them theorized together back when they still talked, threw Tabuchi money behind it, gear neither of them could've afforded solo, and rode the whole thing to a school-funded roster. Haruto wouldn't even be on that team if the theft had never happened. If Eren could get that far running someone else's idea on someone else's money, there had to be real room to do it clean.
 
-*"Not the class I wanted. But honestly? I think I might've landed something good by accident. Funny how that works."* He tugged the hoodie down. *"Wonder if I'm still locked out of a reset now too, or if that's just the character itself."*
+*"Not the class I wanted. But honestly? I think I might've landed something good by accident. Funny how that works."* He tugged the hoodie down.
 
 He got dressed, cleaned up his room, and dug the folded note out of his jacket pocket before putting it away.
 
@@ -94,11 +94,11 @@ Yunaile's handwriting at the top, clean block letters, the friend code underneat
 
 December 23rd. 689450YY.
 
-*"Just a date. No name, nothing else."* He turned it over once. *"Either she's busy that day, or she wants me there."* Fourteen days to Winter Bash, if December 11th was right. *"Hard to think past that right now either way."* He folded it back along the same crease and slid it back into his pocket.
+*"A date and her code. No name, nothing else."* He turned it over once. *"Either she's busy that day, or she wants me there."* Fourteen days to Winter Bash, if December 11th was right. *"Hard to think past that right now either way."* He folded it back along the same crease and slid it back into his pocket.
 
 He grabbed the laptop off the counter on his way to the kitchen stool and started typing before he'd even sat down fully.
 
-**[Shiv, the goblin spirit-sorcerer, HGO lore]**
+**[Shiv, HGO lore]**
 
 Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. He scrolled through them twice and gave up.
 
@@ -110,17 +110,21 @@ He backed out and pulled up his character sheet, skill list on the left, thumb s
 
 He switched to Loop, set his handle to TDRAG to match the game, and set a goblin icon as his profile image instead, something pulled straight off his own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to him.
 
-He pulled up the Companion App next, same login, built for watching instead of posting. Pro streams stacked down the front page, viewer counts running six figures on some of them, sponsor logos scrolling under the names that mattered. Real money, sitting right there.
+He pulled up the Companion App next, same login, built for watching instead of posting. Pro streams stacked down the front page, viewer counts running six figures on some of them, sponsor logos scrolling under the names that mattered. Real money, sitting there, though he knew better than to think it was as simple as it looked, HGO didn't cut anybody a check for just showing up, there was a real bar to clear first, and he wasn't anywhere close to it yet.
 
-*"Streaming's not new information. I just never had anything worth pointing a camera at before."* His thumb hovered over the stream tab. *"Sponsorships don't find players sitting on nothing. They find players sitting on something nobody else has. Right now nobody outside Bloodhurst even knows this World Quest is goblin-specific. That's worth more than a drop table."*
+*"Not blowing up off this. Not overnight, not off one stream."* His thumb hovered over the tab anyway. *"But nobody outside Bloodhurst even knows this quest is goblin-specific yet. That's real exposure, right now, while it's still just mine."* Toddy crossed his mind, half his closing shifts covered these past few weeks so the kid could actually make his morning classes, still fully convinced Tatsuya barely touched the game. *"He's probably the first person who ever stumbles onto it. Wouldn't even clock it's me under all that green."* Something almost like a smile. *"Rather keep it that way a while longer."*
 
-He'd read enough threads to know what higher-level players did when they wanted something someone else had. World Quest items came back bound, forums were consistent on that much, but bound didn't mean safe. He'd seen clips of players camped after a kill, held there through the seven-day lock until they gave something up just to make it stop. Toddy from WattsUp wouldn't shut up about the worse version, guilds locking a player down and ransoming the account back for real money. Rumor mill, mostly. He'd never played long enough to know how much of it was true.
+He'd read enough threads to know what higher-level players did when they wanted something someone else had. World Quest items came back bound, forums were consistent on that much, but bound didn't mean safe. He'd seen clips of players camped after a kill, held there through the seven-day lock until they gave something up just to make it stop. Toddy wouldn't shut up about the worse version, guilds locking a player down and ransoming the account back for real money. Rumor mill, mostly. He'd never played long enough to know how much of it was true.
 
-*"No gear past the belt, no backup, health pool that's basically nothing. If someone decides I'm worth the trouble, I don't have an answer for that yet."*
+*"No gear past the belt, no backup, health pool that's basically nothing. If anyone decides to push me, I don't have an answer for that, especially with the gear I'm rocking right now."*
 
 He almost closed the tab.
 
-*"But Sevish made it a guarantee, not a favor. Ally of Thrash doesn't come with a countdown on it, it holds as long as I don't blow the quest. Two gold tags backing one target means anyone coming after me needs an actual party, not a solo gank. That's a commitment on their end too."*
+*"But Sevish made it a guarantee, not a favor. Ally of Thrash doesn't come with a countdown on it, it holds as long as I don't blow the quest."* He thought it through properly this time, past the two names on top. *"Bloodhurst isn't just Sevish and Wyx standing between me and anybody with a grudge. It's a full warband, twenty-five, thirty goblins under them, mixed low levels, before you even get to the two gold tags. Getting to me means going through all of that first, not just besting two NPCs."*
+
+*"And whoever tried it would need the level to actually threaten a warband that size in the first place. That's an old legacy account, not anything freshly rolled, and even then it's not a solo job. That's an organized party, coordinated, willing to eat a fight they might not walk away from."*
+
+*"Anyone who attacks and dies to that warband eats the same seven-day lock I'd be risking. Same cost either way. Nobody serious gambles that on a maybe, not this week."*
 
 Half the accounts that could actually field that kind of party were sitting frozen anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. Fewer real threats walking around this exact week than there'd be in a month.
 
@@ -138,9 +142,11 @@ Same date as the note in his pocket.
 
 He skimmed the race comparison page while he double-knotted his laces and caught something he'd glossed over before. Every other race had hard class locks sitting right there in print. Goblin's column was nearly empty. Low base stats, almost no restrictions, and a latent spirit-magic affinity that most people had never touched because they rerolled before they got anywhere close to it.
 
-*"Nobody's taken this seriously because the numbers scared them off on day one."* A short breath, something like a real grin. *"That's literally just a skill gap in disguise. High Fortune, high Speed, squishy, fast, hold the point instead of chasing the kill. Same exact read I had on Aogiri. And if the magic path opens up on top of it, which it looks like it actually will, that's a hybrid nobody has mapped out yet because nobody stayed long enough to find it."*
+*"Nobody's taken this seriously because the numbers scare them off before they get anywhere close."* A short breath, something like a real grin. *"But it's what I've actually got to work with. Fortune, Speed. That crit that dropped both enforcers wasn't luck stacked on top of luck, that's a real thing to build toward, if I can ever learn to call it instead of stumbling into it."*
 
-*"Ideally something that works at range."* He said it out loud even though nobody was there. *"Health's bad enough melee's off the table on its own. But that combo that dropped both enforcers wasn't luck, it landed critical. If I can actually learn to set that up instead of stumbling into it again, that's a real build, not an accident."*
+*"Ideally something that works at range."* He said it out loud even though nobody was there. *"Health's bad enough melee's basically off the table anyway, so that part's not much of a choice. Not exactly min-maxed, I'm not running the numbers anybody serious would run on this. But at least the class isn't boxing me into one lane before I've even picked a direction."*
+
+*"Maybe there's something on the magic side too, if that affinity on the page actually means anything once I'm in there. No idea yet if that holds up to anything real. Only thing I've actually got proof of right now is the crit."*
 
 He checked the time. 8:47 AM. Sakura Arcade was thirty minutes out.
 
