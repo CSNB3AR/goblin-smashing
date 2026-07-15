@@ -1,12 +1,20 @@
 # Companion / Troop System
 
-**Status:** New mechanic, forward canon. First triggers in Chapter 5 when the young goblin (see `codex/characters/young-goblin-companion-candidate.md`) is assigned to accompany Tatsuya out of camp, not yet on the page.
+**Status:** New mechanic. First lands on the page in Chapter 6 ("The Bones Speak"), when the young goblin (see `codex/characters/young-goblin-companion-candidate.md`) is recruited via Whispers of Shiv (below) after the necklace bond, and is already with Tatsuya when he logs back into camp.
 
 ## The mechanic
 
 Recruiting a companion isn't a static NPC assignment. A recruited companion gains XP and levels up alongside Tatsuya rather than staying frozen at whatever power level they were recruited at, a real, trackable system, not narrative flavor. The young goblin companion is the first Tatsuya recruits this way.
 
 **Rank-up payoff:** as a goblin companion levels far enough, they can rank up from Goblin to **Hobgoblin**, the already-established stronger goblin tier (see Drosh, "Hobgoblin lieutenant," in `codex/characters/goblin-squad-companions.md`). This gives the leveling system a concrete, visible payoff rather than just numbers going up, an earned promotion for a companion who's been fighting alongside him, not a title he already knows the ending to.
+
+## Whispers of Shiv (the recruitment trigger)
+
+**The actual mechanic that lets Tatsuya recruit a companion in the first place**, unlocked alongside Shaman's Veil when he bonds with the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`). A passive ability, Fortune-scaling: the higher his Fortune, the better his odds of successfully recruiting a willing goblin into his garrison. Framed in-world as an echo of Shiv's own founding influence over Myrrhwood's clans, not a generic tool, which is why it opens up through the same bond rather than existing as a base-kit ability everyone has.
+
+**Garrison cap scales with level, not with the ability itself.** +5 max garrison size for every 10 character levels. Below level 10, the cap is 1. This keeps the early game intentionally lean, guerrilla-of-two rather than a squad, consistent with the already-locked pacing rule that the full named goblin squad (Grukk, Tikka, Muzzle, Drosh, see `codex/characters/goblin-squad-companions.md`) gets earned gradually, later, not handed out all at once. The young goblin companion (see `codex/characters/young-goblin-companion-candidate.md`) fills Tatsuya's one open slot first.
+
+**Once a companion's bond actually forms, they can pick up their own tied ability.** The young goblin's version of this is becoming the first "Shiv disciple," a believer/follower of Shiv's philosophy rather than a bonded host (that status is Tatsuya's alone) — a title, and eventually a matching ability, earned through the relationship rather than granted on recruitment.
 
 ## Old-draft precedent
 

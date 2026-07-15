@@ -18,4 +18,4 @@
 
 Full sensation and real damage feedback across all hardware generations, magnified for drama but capped for safety. Taking enough damage in a fight causes a pass-out, which appears to carry its own real-world penalty, several days locked out of the game.
 
-**Open flag:** how this pass-out penalty relates to the seven-day death lock already established for actual character death (see `codex/lore/preserved-misc-mechanics.md`) needs confirmation before either one gets dramatized on the page, they may be two distinct tiers (pass out vs. true death) or the same mechanic described two different ways.
+**Resolved** (see `codex/lore/external-monitor-and-full-dive-safety.md`): pass-out and the seven-day death lock (`codex/lore/preserved-misc-mechanics.md`) are two distinct tiers, not the same mechanic described twice. Pass-out is a forced real-world extraction triggered by the external-monitor/failsafe system stepping in, a shorter safety-driven penalty. The seven-day lock is the separate, harsher penalty for actual in-game character death.
