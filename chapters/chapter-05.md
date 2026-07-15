@@ -44,7 +44,7 @@ The phone buzzed again before he'd even set it down.
 
 He didn't answer that one. Opened the banking app instead, one more thing to check before he let himself sleep.
 
-**[WATTSUP DIRECT DEPOSIT - BALANCE: ¥16,800]**
+**[HGO DIRECT DEPOSIT - BALANCE: ¥64,120]**
 
 Not much. But it was his, earned off two elixirs and an ability he was already learning how to use right. Something almost like a grin pulled at the corner of his mouth before he caught it.
 

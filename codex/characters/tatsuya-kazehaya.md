@@ -51,6 +51,13 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 
 Works the register at WattsUp (see `codex/locations/wattsup.md`), Gato's charge station, roughly a year now, since dropping out of Tochi. Does not quit this job in the current outlined stretch of the story, it stays an ongoing, working-class anchor.
 
+## Running bank balance (one account, keep this current)
+
+**One personal bank account, no separate "HGO account."** His WattsUp paychecks and any HGO/market earnings land in the same account (established `chapters/chapter-04.md`, "the account his WattsUp paychecks already landed in"). Any future chapter showing his balance should add to the last confirmed figure below, never display a single deposit as if it were the account's total.
+
+- **¥47,320** — confirmed `chapters/chapter-02.md`, the morning after buying the HGO access drive, already net of that purchase. First hard figure in the story, treat as the starting point.
+- **¥64,120** — confirmed `chapters/chapter-05.md`, after the two Minor Elixirs sell for ¥8,400 each (¥16,800 total, `chapters/chapter-04.md`), added on top of the ¥47,320 above. Labeled on-page as an **HGO** deposit (elixir sale), not a WattsUp paycheck, keep that label accurate going forward, don't conflate the two income sources in the UI text even though they share one account.
+
 ## Geographic grounding
 
 Essentially never travels outside Shibuya ward. His day-to-day world (WattsUp, the Nakamura Grand, Tochi Academy, Sakura Arcade) sits within it, see `codex/locations/real-world-geography.md`. This keeps any real-world search or errand (like the cafe/pod search in Chapter 2) naturally hyperlocal rather than a citywide odyssey, and makes even a trip to the far side of the ward (Sakura Arcade reads "cut off," "the other side of town" relative to WattsUp and home) feel like a real departure for him. **One clear exception:** the Nexus Enterprises flagship store in Ginza (see `codex/locations/nexus-enterprises-flagship.md`), downtown, a genuine departure from his usual radius, he's been down there maybe twice in his life, both as a kid on some errand of Chiyo's.
