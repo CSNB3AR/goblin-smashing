@@ -27,3 +27,7 @@ See `codex/lore/world-quests.md` for why "Call of the Bones" activating now crea
 ## Objective, resolved
 
 Infiltrate the restricted top three floors of the Grand Library of Lunarest (see `codex/locations/grand-library-of-lunarest.md`) for intel tied to Shiv, real capture/jail risk if caught, in service of the actual goal: helping the Thrash clan reunify Myrrhwood's fractured clans. Supersedes the old draft's flatter "bring intel on a way into Lunarest" premise, any player, goblin included, can already walk into Lunarest and the library's public floors freely, that was never the real obstacle.
+
+## Chapter 6 resolution, cross-reference
+
+The necklace bond, Shiv Goblin evolution, and Ru's founding blessing all land in Chapter 6 (see `codex/characters/shiv.md`, `codex/objects/call-of-the-bones-necklace.md`, `codex/lore/companion-troop-system.md`, `codex/characters/young-goblin-companion-candidate.md`). The chapter ends on interruption rather than the planned trip to Lunarest: a PK_Wraith raid on Bloodhurst's eastern line forces Tatsuya to log off before he can respond in person, see the revised `codex/characters/pk-wraith.md` for the corrected forward plot (no longer gated behind the rally event stopping).

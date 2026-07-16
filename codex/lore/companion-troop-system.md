@@ -14,7 +14,11 @@ Recruiting a companion isn't a static NPC assignment. A recruited companion gain
 
 **Garrison cap scales with level, not with the ability itself.** +5 max garrison size for every 10 character levels. Below level 10, the cap is 1. This keeps the early game intentionally lean, guerrilla-of-two rather than a squad, consistent with the already-locked pacing rule that the full named goblin squad (Grukk, Tikka, Muzzle, Drosh, see `codex/characters/goblin-squad-companions.md`) gets earned gradually, later, not handed out all at once. The young goblin companion (see `codex/characters/young-goblin-companion-candidate.md`) fills Tatsuya's one open slot first.
 
-**Once a companion's bond actually forms, they can pick up their own tied ability.** The young goblin's version of this is becoming the first "Shiv disciple," a believer/follower of Shiv's philosophy rather than a bonded host (that status is Tatsuya's alone) — a title, and eventually a matching ability, earned through the relationship rather than granted on recruitment.
+**Once a companion's bond actually forms, they can pick up their own tied ability.** The young goblin's version of this is becoming the first "Shiv disciple," a believer/follower of Shiv's philosophy rather than a bonded host (that status is Tatsuya's alone), normally a title and ability earned through the relationship rather than granted on recruitment. See the flagged exception directly below for how this actually landed for him specifically.
+
+## Exception: Ru's founding blessing (Chapter 6)
+
+Ru (see `codex/characters/young-goblin-companion-candidate.md`) does not follow the standard path above. In the same scene as the necklace bond, Shiv personally and directly grants Ru an instant Goblin to Hobgoblin evolution (level 1 to level 5), a full new ability kit, and the "First Disciple of Shiv" title on the spot, explicitly marked in dialogue as Shiv's own one-time act, not the Whispers of Shiv recruitment flow described above. **This does not reopen or loosen the general rule.** Every other companion, including any future Whispers of Shiv recruits and the eventual named squad (Grukk, Tikka, Muzzle, Drosh), still levels up and earns rank-ups and titles gradually, the normal way. Ru's blessing is a one-time founding exception tied to his being Shiv's literal first disciple, not evidence the system works this way in general.
 
 ## Old-draft precedent
 

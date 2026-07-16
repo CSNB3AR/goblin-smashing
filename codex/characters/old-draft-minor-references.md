@@ -16,8 +16,8 @@ Old-draft name for a Tabuchi family butler/retainer, source of threatening messa
 
 ## Rian, Spellweaver_Lyn, Talo, Joss (New Covenant guild party)
 
-Level 6 enemy player party from the old draft's Chapter 11/11.5 combat setpiece, cashed-in Legacy Point gear, answers to PK_Wraith. Good template for how enemy players talk and coordinate under pressure, not yet reconfirmed as characters who'll actually appear in the redraft.
+Level 6 enemy player party from the old draft's Chapter 11/11.5 combat setpiece, cashed-in Legacy Point gear, answers to PK_Wraith. **Reconfirmed for the redraft as of Chapter 6:** this is the raiding party that hits Bloodhurst's eastern patrol line, a mixed Beastfolk/Dwarf/Elf/Human spread across the four of them (exact assignment flexible, not yet locked to specific names). Reported secondhand by a scout in Chapter 6, on-page payoff (including their own losses, if any) lands in Chapter 7. See `codex/characters/pk-wraith.md`.
 
 ## PK_Wraith
 
-Named PvP faction leader the New Covenant party answers to in the old draft. Possible recurring rival, not yet reconfirmed for the redraft.
+Named PvP faction leader the New Covenant party answers to in the old draft. Reconfirmed for the redraft, see `codex/characters/pk-wraith.md` for his full current-canon entry.
