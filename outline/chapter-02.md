@@ -42,6 +42,6 @@ Tatsuya uses what he knows from Daichi's manual to override the pod, the deliber
 - HGO TV as a named channel, see `codex/lore/hgo-timeline-and-real-world-stakes.md`.
 - Daichi's tech manual as a new object, see `codex/objects/daichi-tech-manual.md`.
 - Tatsuya has never left Shibuya ward, see `codex/characters/tatsuya-kazehaya.md`.
-- Per-race base stats and magic-access restrictions (first-pass table, review welcome), see `codex/lore/deck-building-rarity-and-classes.md`.
+- Per-race base stats and magic-access restrictions, see `codex/races/overview.md`.
 - Confirmed leveling formula: 2 points/level, 75 cap per stat, level 150 milestone, level 300 future cap, see `codex/lore/leveling-and-progression.md`.
 - Story present pinned to **December 10th, 2045**, Crystal League expansion now launches **January 1st**, see `codex/lore/hgo-timeline-and-real-world-stakes.md`.

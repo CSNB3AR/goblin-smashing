@@ -1,6 +1,6 @@
 # Crafting & Alchemy
 
-The system standing behind every "requires crafting materials" note already scattered through the codex: the Goblin Gadget Belt's shaded/locked abilities (`codex/objects/goblin-gadget-belt.md`), Shaman's Veil's real mastery past the basics (`codex/lore/magic-tier-system.md`), and the future battle items (`codex/lore/battle-items-and-battlegear.md`). None of those unlock for free, all of them route through this.
+The system standing behind every "requires crafting materials" note already scattered through the codex: the Goblin Gadget Belt's shaded/locked abilities (`codex/objects/goblin-gadget-belt.md`), Shaman's Veil's real mastery past the basics (`codex/magic/overview.md`), and the future battle items (`codex/lore/battle-items-and-battlegear.md`). None of those unlock for free, all of them route through this.
 
 ## The loop
 

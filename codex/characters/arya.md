@@ -16,7 +16,7 @@ Red hair, street-biker aesthetic (per the old draft, carried forward), own HGO d
 
 ## Guild backstory (background, later chapters)
 
-Her all-girls guild, **Crimson Static** (see `codex/lore/tournament-ecosystem-and-guilds.md`), fractured after a real falling-out among the members. Most of them left with the two girls who split off to found their own group, leaving Arya's own crew small heading into the Crystal League expansion. Part of why she's genuinely available when the Winter Bash's random-teammate mechanic pairs her with Tatsuya, not just narrative convenience. Crimson Static went 0-6 in the World Championship qualifiers this cycle, but still reached the World Championship itself by winning a separate guild event rather than through competitive qualifying (she's an established guild leader).
+Her all-girls guild, **Crimson Static** (see `codex/pro-scene/guilds.md`), fractured after a real falling-out among the members. Most of them left with the two girls who split off to found their own group, leaving Arya's own crew small heading into the Crystal League expansion. Part of why she's genuinely available when the Winter Bash's random-teammate mechanic pairs her with Tatsuya, not just narrative convenience. Crimson Static went 0-6 in the World Championship qualifiers this cycle, but still reached the World Championship itself by winning a separate guild event rather than through competitive qualifying (she's an established guild leader).
 
 ## Loop payoff (Chapter 2+, background only)
 

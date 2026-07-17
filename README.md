@@ -10,11 +10,17 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`style-guide/`](style-guide/)** — non-negotiable craft rules and voice/technique guidance.
   - [`craft-rules.md`](style-guide/craft-rules.md)
   - [`voice-technique.md`](style-guide/voice-technique.md)
-- **[`codex/characters/`](codex/characters/)** — one file per character, 21 entries: Tatsuya, his family, supporting cast, antagonists, and in-game characters.
-- **[`codex/locations/`](codex/locations/)** — one file per location, 9 entries: real-world Tokyo locations, the World Championship venue, and Eryndal's world/regions.
-- **[`codex/objects/`](codex/objects/)** — one file per notable item/hardware, 5 entries: the Haya EB, the HGO access drive, pod hardware, and the goblin signature item set.
-- **[`codex/lore/`](codex/lore/)** — game systems and world mechanics, 11 entries: stats, leveling, deck-building/rarity, PvP/esports structure, the economy, timeline, and preserved old-draft mechanics.
-- **[`codex/subplots/`](codex/subplots/)** — one file per ongoing plot thread, 9 entries, each with a status flag (active / seeded / forward-only).
+- **[`codex/characters/`](codex/characters/)** — one file per character, 24 entries: Tatsuya, his family, supporting cast, antagonists, and in-game characters.
+- **[`codex/locations/`](codex/locations/)** — one file per location, 12 entries: real-world Tokyo locations, the World Championship venue, and Eryndal's world/regions.
+- **[`codex/objects/`](codex/objects/)** — one file per notable item/hardware, 8 entries: the Haya EB, the HGO access drive, pod hardware, and the goblin signature item set.
+- **[`codex/lore/`](codex/lore/)** — general system plumbing and world mechanics that don't belong to one of the dedicated system folders below: stats, resource pools, leveling, NPC tags, crafting, the companion system, the goblin race-roll mechanism, and real-world safety/regulatory lore (VRSA, full-dive safety). A few entries are thin redirect stubs pointing into the folders below, kept so old cross-references still resolve.
+- **[`codex/magic/`](codex/magic/)** — the magic system: the Wisdom-8 casting threshold and tier system (`overview.md`), a cross-school basic-spell reference (`tier-reference.md`), and one file per named school (Pyromancy, Cryomancy, Stormcraft, Geomancy, Radiance, Umbral Arts, Arcanism), including Tatsuya's own Shaman's Veil path.
+- **[`codex/combat/`](codex/combat/)** — the Physical Arts system: tiers and the martial-master custom-technique rule (`physical-arts-overview.md`), and one file per weapon category (hand-to-hand, spear, sword, axe, bow and arrow).
+- **[`codex/creatures/`](codex/creatures/)** — the bestiary: the Class I-IV threat-tier system (`overview.md`) and one file per class with a representative, expandable creature roster.
+- **[`codex/races/`](codex/races/)** — one file per playable race (8), stats/racial ability/resistances/magic-access split out of the shared table that used to live in `codex/lore/`.
+- **[`codex/arena/`](codex/arena/)** — the standing PvP-queue hub: the level-5 gate, the teleport-with-zone-lock mechanic, and matchmaking formats.
+- **[`codex/pro-scene/`](codex/pro-scene/)** — the esports/competitive ecosystem: tournament and PvP formats, the pro-team roster, the guild roster, and the ranking ladder.
+- **[`codex/subplots/`](codex/subplots/)** — one file per ongoing plot thread, 11 entries, each with a status flag (active / seeded / forward-only).
 - **[`outline/`](outline/)** — beat-by-beat chapter plan, one file per chapter, plus a restructuring-notes file explaining what changed from the old draft and why.
 - **[`chapters/`](chapters/)** — drafted chapter prose, Chapters 1-7.
 

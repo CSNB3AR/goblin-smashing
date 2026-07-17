@@ -7,7 +7,7 @@
 - Second 6 months: second-gen access opens (with lag), leading into the first major championship at the end of year one.
 - Year two: an established pro scene, guilds, and sponsorships.
 - **"Tonight" (story present, December 10th, 2045, a Sunday, "Championship Sunday")** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Winter Bash (December 25th), six of which (roughly December 10th-16th) Chiyo and the twins spend away on their Kyoto trip, see `codex/subplots/tochi-academy-return.md`.
-- **Crystal League expansion launch date: January 1st**, a week after Winter Bash (December 25th). The universal character-lock (see `codex/lore/competitive-pvp-and-esports-structure.md`) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
+- **Crystal League expansion launch date: January 1st**, a week after Winter Bash (December 25th). The universal character-lock (see `codex/pro-scene/tournaments-and-events.md`) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
 
 ## Real-world stakes — keep this simple, do not over-explain
 

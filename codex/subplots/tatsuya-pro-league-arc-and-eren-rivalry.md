@@ -14,4 +14,4 @@ Distinct from, but layered on top of, the ongoing Tabuchi schematics/family-debt
 
 - Keep this a background throughline early, surfaced through small moments (Loop, HGO TV, overheard pro-scene talk) rather than Tatsuya stating the goal outright too often.
 - The pro-league climb and the Eren rivalry should braid together, not run as two separate plots, Eren is a recurring measuring stick for how far Tatsuya's actually come.
-- Ties to the already-established ranking ladder (`codex/lore/prestige-ranking-ladder.md`) and competitive structure (`codex/lore/competitive-pvp-and-esports-structure.md`) for how "reaching the pro league" is actually measured in-world.
+- Ties to the already-established ranking ladder (`codex/pro-scene/ranking-ladder.md`) and competitive structure (`codex/pro-scene/tournaments-and-events.md`) for how "reaching the pro league" is actually measured in-world.

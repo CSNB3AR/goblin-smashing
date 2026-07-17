@@ -9,7 +9,7 @@
 ## Facts
 
 - Kansai Black Lotus's star player and Rookie of the Year.
-- Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see `codex/lore/prestige-ranking-ladder.md`), but carries a real pro marker on his profile from actually qualifying into tournaments, a clean example of how ladder rank and pro status are related but distinct.
+- Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see `codex/pro-scene/ranking-ladder.md`), but carries a real pro marker on his profile from actually qualifying into tournaments, a clean example of how ladder rank and pro status are related but distinct.
 - Frustrated with Eren over Kansai Black Lotus's early bump-out this cycle. Will end up leaving the team around the Winter Bash timing, especially with the format shift.
 - Has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. Watches quietly, a flicker of dawning respect rather than anything stated outright.
 
