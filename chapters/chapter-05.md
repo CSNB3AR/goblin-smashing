@@ -1,357 +1,257 @@
-# Chapter Five: The Bones Speak
+# Chapter Five: Consequences in Silence
 
-The ride back to the Nakamura Grand ran itself the same way the ride to the hospital had, muscle memory carrying him through turns he didn't register making, the city still out there somewhere beyond the visor but not landing the way it usually did. His phone buzzed twice in his jacket pocket before he made it three blocks, Chiyo's name lighting up the screen both times, and he let it sit there unanswered.
+The pod hissed open and the real world came back wrong.
 
-*"Not tonight. I'll deal with it when I'm not this pissed off."*
+Sound first, the low hum of Sakura Arcade's overhead lights where there'd been fire and wind and thirty goblins doing whatever goblins did at midnight. Then weight, his body settling into the padded interior with legs that were suddenly too long and hands that were suddenly too big. Then smell, old electronics and carpet cleaner instead of woodsmoke and whatever that stew had been.
 
-The frustration was still sitting hot in his chest when he parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet below, Chiyo and the twins still in Kyoto for the week. He let himself in, the day finally settling into his shoulders now that there was nobody around to hold it together in front of.
+Tatsuya lay there a second longer than he needed to, staring at the curved shell of the pod above him.
 
-Just the hum of the refrigerator and the sound of his own boots on the floor. He toed a stray pair of Taji's sandals back into line by the door, automatic, the kind of straightening up he did every time he got home first, and left his bag beside them. His phone went face-down on the kitchen counter without a glance, and he headed straight for the shower.
+*"Okay. That's going to be a thing every single time I log out."*
 
-The water came out hot enough to sting, and he stood under it longer than he needed to, letting the heat work through the knot sitting between his shoulders, the anger starting to loosen into something closer to exhaustion.
+He sat up slow, pulled the visor off, set it on the rim. The access panel was still open where he'd left it, Daichi's manual spread across the floor, pages marked in his father's handwriting. He closed it carefully, thumb running along the worn spine before he tucked it back into his bag. Some habits didn't need a reason.
 
-He pressed his forehead against the tile, water running down his face, and made himself breathe through his nose once, slow, the way he did when there wasn't a clean answer waiting on the other side.
+He stood, rolled his neck until something popped, and let out a breath. . *"Gotta stretch before getting in that thing next time. For real."* 
 
-*"I wouldn't even be this mad if I hadn't had to find out from two nurses who thought I was already gone."* He let the water hit the back of his neck a second longer. *"Why didn't she just tell me. Did she actually think I couldn't handle it."*
+He pulled his phone out on the walk back to the main room, opened the HGO Companion App, and held the drive against the back of it.
 
-The thought didn't make him less angry. Just made the anger sit somewhere different.
+**[SCANNING...]**
 
-He shut the water off, dried off fast, and pulled on a pair of sweats. On his way through the front room he swung by the kitchen counter, scooped the phone up without breaking stride, and carried it back to his room before dropping onto the bed. Only then did he actually look at what she'd sent.
+**[DRIVE DETECTED]**
 
-Two texts, both short, both hours old.
+**[LOGGING IN...]**
 
-**[Chiyo: You doing okay? Haven't heard from you in a bit.]**
+His account loaded, the goblin face of his avatar was staring back at him from a small circle at the top of the screen.
 
-**[Chiyo: Let me know when you get home safe.]**
+**[USERNAME NOT SET. TAP TO CREATE ONE.]**
 
-Nothing about Tochi in either one, same as the note she'd left on the counter that morning, already gone before he'd even gotten up. First real contact between them all day.
+*"Yeah, I will later when I can think of one."* He swiped it away and kept scrolling.
 
-He typed a reply, cut it down twice, and sent the shortest version.
+Near the bottom of the page, under a small header, his spells sat listed in plain text*. Goblin Gas. Goblin Flare. *
 
-**[I've decided on going to Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a new part-time job too. I'm good.]**
+*"Makes sense… shows my active skills at the bottom. "*
 
-Short, on purpose. He wasn't in the mood to explain the rest of it tonight, and he wasn't sure he wanted to yet anyway. If she wanted the whole story she could ask when she got back. Right now this was his.
+His inventory sat above that.
 
-The phone buzzed again before he'd even set it down.
+**[GOBLIN GADGET BELT - COMMON (LOCKED)]**
 
-**[Chiyo: Wait, really? That's amazing, Tatsu. What changed?]**
+**[GAMBLER'S EARRING - LEGENDARY (BOUND, CANNOT BE SOLD)]**
 
-**[Chiyo: A new job, what about Gato? We can talk about the hours when I'm back. School still comes first though, right?]**
+**[MINOR ELIXIR x2 - UNCOMMON]**
 
-**[School's still first. I got it.]** One line, sent.
+He tapped the elixirs. The app flagged him before he could do anything.
 
-**[Chiyo: I love you. Get some sleep.]**
+**[BANK ACCOUNT REQUIRED TO COMPLETE SALE]**
 
-He didn't answer that one. Opened the banking app instead, one more thing to check before he let himself sleep.
+He linked the account his WattsUp paychecks already hit, a few taps and a code texted to his phone, and the warning cleared.
 
-**[HGO DIRECT DEPOSIT - BALANCE: ¥64,120]**
+**[MARKET VALUE: ¥8,400 EACH]**
 
-Not much. But it was his, earned off two elixirs and an ability he was already learning how to use right. Something almost like a grin pulled at the corner of his mouth before he caught it.
+**[LIST FOR SALE?]**
 
-*"Whatever this turns into, it's not going toward Tabuchi. Mom's the one who can't wait on this."*
+He confirmed it, already bracing to wait on a listing. Instead the vials vanished from his inventory almost immediately, replaced by a single gold-bordered line.
 
-He scrolled down out of habit, the way he always checked his own numbers, and the second account caught him before he could stop it. Still listed under Daichi Kazehaya. Still his to see, next of kin, nobody had ever bothered pulling him off it.
+**[SALE COMPLETE: ¥16,800 DEPOSITED]**
 
-**[KAZUHAYA TECH - LEGACY ACCOUNT]**
+**[BANK  BALANCE: ¥64,120]**
 
-**[BALANCE: -¥3,014,200]**
+*"That fast?"* He read it again. Then the logic caught up, common gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up. No bidding, no waiting on a real buyer. Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve.
 
-**[COLLECTIONS NOTICE: TABUCHI HOLDINGS]**
+His bank balance ticked up on the screen, and he stood there in the back hallway of Sakura Arcade letting that number do something to his chest that four hours of getting chased around a goblin camp hadn't managed to.
 
-He stared at his own balance first, then Dad's, then the name sitting under the collections notice, and Eren's face showed up uninvited, easy and entitled the way it always looked right before it said something meant to sting.
+*"First one. Definitely not the last."*
 
-*"He's already taken enough. Now they want more on top of it."* His jaw set. *"I'll be damned if I hand them a single thing Dad wasn't willing to give them himself."*
+He pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. His own profile loaded first, follower count still embarrassingly low in the corner. He typed out a real bio this time, not the blank field he'd left sitting there for a year, something short about the goal, pro league eventually, cut it down twice before he let it post. Then he backed out to the feed, and the feed was already loud.
 
-But legally his hands were tied as long as the balance sat there owing, and that was the actual answer to a question he'd never bothered asking outright: why it was always Chiyo fielding those calls instead of anyone else. Mom would have, if she could. She was the one who'd actually married into it. Since she couldn't, it landed on Chiyo instead, and had for two years.
+**[@PK_Wraith: World Quest just popped at Lunarest. First one in almost two years. Y'all better believe we're getting a piece of that.]**
 
-The number didn't move, didn't need to. Between that and the number he already knew, his mom's surgery, four million yen, still unpaid, still sitting behind a deadline nobody had said out loud to him directly until tonight, it came out somewhere close to seven million yen.
+**[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
 
-*"Seven million."* He said it flat, testing the weight of it. *"Not impossible. Gonna be hard, but if there's anywhere I can actually do it, it's HGO."*
+*"Yeah, I bet you are."* He scrolled past a dozen reposts of the same thing. then a different thread stopped him, guild leaders going back and forth about whether it was worth resetting their characters yet for the Crystal League's Legacy Point payout, half of them still sitting on frozen accounts, unwilling to start over at level one for a system nobody had fully mapped out yet.
 
-He set the phone down for real this time, lying back against the pillow, and let himself actually feel it, not the anger from earlier, something closer to the thing he'd been chasing since he was sixteen and everyone had started deciding what he could and couldn't handle.
+*"Wild. I get attached but the account's gone regardless, and waiting means missing the Winter Bash shot. That's the difference between pro team and top guild, The pro team would switch first. "*
 
-*"Surgery first."* The number sat different now than it had an hour ago. *"Six months, that's what he wasn't supposed to hear, and that's the only clock in this that actually matters. Tabuchi's had two years already, that fight can keep waiting. Mom can't. If everything plays out right I get her better, and Chiyo gets some room to breathe for once. Maybe I compete on top of it."* The fatigue was shifting in now, the good kind, the kind that came after a day that had actually moved somewhere.
+He filed that thought somewhere useful and killed the screen.
 
-His eyes closed on something almost like excitement sitting underneath the exhaustion for the first time all day.
+Leon was at the counter when Tatsuya stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw Tatsuya cross the floor.
 
----
+"How'd it go?"
 
-Morning came too early, sunlight cutting through the blinds in a way that said he'd slept past his usual alarm. He checked his phone. 7:43 AM. December 11th.
+"Pod held," Tatsuya said. "No crashes. Ran longer than I thought it would."
 
-*"Damn."* He sat up, a loc falling loose across his face that he pushed back automatically. *"Better move if I'm getting research in before Leon."*
+"Good." Leon nodded, easy, nothing behind it. He glanced toward the dark hallway where the second pod sat dead, then back. "Listen. I want to be straight with you before you start getting comfortable coming back here. Business is slow right now, and I don't want you thinking that open access is a permanent thing if it turns into a habit for both of us."
 
-He rolled out of bed, crossed to the closet he shared with the twins. His head nearly touched the ceiling frame when he stepped inside, which still caught him off guard sometimes.
+Tatsuya did the math fast before speaking. "How slow we talking?" 
 
-*"Wild that I'm actually in HGO now."* He pulled a red hoodie off its hanger, grabbed clean joggers, his Humu 1's off the floor.
+Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
 
-Eren's build had gone viral the exact same way once, except Eren hadn't actually built it. Stole it clean off paper the two of them theorized together back when they still talked, threw Tabuchi money behind it, gear neither of them could've afforded solo, and rode the whole thing to a school-funded roster. Haruto wouldn't even be on that team if the theft had never happened. If Eren could get that far running someone else's idea on someone else's money, there had to be real room to do it clean.
+"So you're getting cooked on every front." Tatsuya's thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should probably hear too."
 
-*"Not the class I wanted. But honestly? I think I might've landed something good by accident. Funny how that works."* He tugged the hoodie down.
+Leon's eyebrows went up. "Go ahead."
 
-He got dressed, cleaned up his room, and dug the folded note out of his jacket pocket before putting it away.
+"I overrode one of the pods tonight." He kept his voice even, watching Leon's face. "Used my dad's manual. That's what caused the blackout earlier. It wasn't the hardware failing on its own."
 
-Yunaile's handwriting at the top, clean block letters, the friend code underneath. He read the date at the bottom.
+Leon went very still. "Is the machine okay?"
 
-December 23rd. 689450YY.
+"It's fine. Ran the whole session clean after that." He let that land a second before he kept going. "But here's the rest of it. Your second pod is shell right, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
 
-*"A date and her code. No name, nothing else."* He turned it over once. *"Either she's busy that day, or she wants me there."* Fourteen days to Winter Bash, if December 11th was right. *"Hard to think past that right now either way."* He folded it back along the same crease and slid it back into his pocket.
+Leon studied him, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
 
-He grabbed the laptop off the counter on his way to the kitchen stool and started typing before he'd even sat down fully.
+"That's why the session ran long. It wasn't the game. It was convincing the pod to accept the drive in the first place."
 
-**[Shiv, HGO lore]**
+Leon started to say something, stopped, shook his head slow instead.
 
-Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. He scrolled through them twice and gave up.
+"The second pod's the harder problem," Tatsuya said. "Getting it running is one thing. Doing it right, keeping it running, that needs parts that don't exist on any shelf anymore." He paused a beat. "I know where to find what I actually need, though."
 
-*"Alright, fine. I'm learning this one the hard way."*
+"Where?"
 
-He backed out and pulled up his character sheet, skill list on the left, thumb scrolling. Gambler's Gambit sat there with barely a paragraph under it, the World Quest tag pinned at the top of his log, both active, both about as explained as nothing. He closed a patch-notes post, new World Quest content confirmed rolling out, and sat with that a second.
+"Tochi."
 
-*"Everyone out there already knows it's live. That's a target on me whether I wanted one or not."*
+Leon blinked. Something recalibrated in his face, quick and visible. "The Tochi Academy."
 
-He switched to Loop, set his handle to TDRAG to match the game, and set a goblin icon as his profile image instead, something pulled straight off his own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to him.
+"Yeah."
 
-He pulled up the Companion App next, same login, built for watching instead of posting. Pro streams stacked down the front page, viewer counts running six figures on some of them, sponsor logos scrolling under the names that mattered. Real money, sitting there, though he knew better than to think it was as simple as it looked, HGO didn't cut anybody a check for just showing up, there was a real bar to clear first, and he wasn't anywhere close to it yet.
+"That explains a lot, actually."
 
-*"Not blowing up off this. Not overnight, not off one stream."* His thumb hovered over the tab anyway. *"But nobody outside Bloodhurst even knows this quest is goblin-specific yet. That's real exposure, right now, while it's still just mine."* Toddy crossed his mind, half his closing shifts covered these past few weeks so the kid could actually make his morning classes, still fully convinced Tatsuya barely touched the game. *"He's probably the first person who ever stumbles onto it. Wouldn't even clock it's me under all that green."* Something almost like a smile. *"Rather keep it that way a while longer."*
+"Wasn't trying to hide it," Tatsuya said. "Just wasn't relevant until now."
 
-He'd read enough threads to know what higher-level players did when they wanted something someone else had. World Quest items came back bound, forums were consistent on that much, but bound didn't mean safe. He'd seen clips of players camped after a kill, held there through the seven-day lock until they gave something up just to make it stop. Toddy wouldn't shut up about the worse version, guilds locking a player down and ransoming the account back for real money. Rumor mill, mostly. He'd never played long enough to know how much of it was true.
+Leon leaned back against the counter, arms loose. "Okay. Here's what I want to do. I'll get a tech in here tomorrow, start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
 
-*"No gear past the belt, no backup, health pool that's basically nothing. If anyone decides to push me, I don't have an answer for that, especially with the gear I'm rocking right now."*
+"I can do that."
 
-He almost closed the tab.
+"And if this actually comes together," Leon said, "one of those pods is yours. Permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. Just keep it quiet until we're actually ready. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
-*"But Sevish made it a guarantee, not a favor. Ally of Thrash doesn't come with a countdown on it, it holds as long as I don't blow the quest."* He thought it through properly this time, past the two names on top. *"Bloodhurst isn't just Sevish and Wyx standing between me and anybody with a grudge. It's a full warband, twenty-five, thirty goblins under them, mixed low levels, before you even get to the two gold tags. Getting to me means going through all of that first, not just besting two NPCs."*
+*"Sponsored."* Tatsuya turned the word over once, testing it. *"Yeah. Okay. That works."*
 
-*"And whoever tried it would need the level to actually threaten a warband that size in the first place. That's an old legacy account, not anything freshly rolled, and even then it's not a solo job. That's an organized party, coordinated, willing to eat a fight they might not walk away from."*
+"One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and grandpa’s wishes."
 
-*"Anyone who attacks and dies to that warband eats the same seven-day lock I'd be risking. Same cost either way. Nobody serious gambles that on a maybe, not this week."*
+"I'll get it done," Tatsuya said.
 
-Half the accounts that could actually field that kind of party were sitting frozen anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. Fewer real threats walking around this exact week than there'd be in a month.
+He meant it more than the two words let on. Patching a pod with a bypass and Daichi's old notes was one thing. Getting it clean enough to pass a real safety inspection was something else, and that knowledge lived in exactly one place. Tochi had the actual coursework, the technical foundation Kazuku had built the third-gen hardware on as well he could order parts if he was at the academy. He'd been running on what his dad left behind. If he wanted to do this right instead of just keeping it alive with duct tape and hope, he needed what Tochi was teaching.
 
-But going live still meant being in the pod when it happened, not flipping a setting from his own kitchen, and it meant painting the target the second anyone traced the stream back to a location.
+The thought had felt like a loss a week ago. It didn't feel that way anymore.
 
-*"Doesn't mean never. Means not yet."* He closed the tab.
+"I believe you," Leon said.
 
-He pulled up the Tochi portal next. Entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, stopped at the submission window.
+Outside, his breath misted in the cold. Tatsuya pulled his helmet on, kicked the Haya EB to life, and sat there a second while the engine found its rhythm.
 
-December 23rd.
+*"Two things to deal with on the way home. Hospital, then Chiyo."*
 
-Same date as the note in his pocket.
+He pulled out into the street.
 
-*"Already decided."* He looked at it one more second. *"I need Tochi more now than I did a week ago, not less. That's just the math."*
+The ride to the hospital ran on muscle memory, his hands steady on the grips. The city blurred past in orange and white, the kind of quiet that only existed at this hour, between when the bars closed and before anything else opened.
 
-He skimmed the race comparison page while he double-knotted his laces and caught something he'd glossed over before. Every other race had hard class locks sitting right there in print. Goblin's column was nearly empty. Low base stats, almost no restrictions, and a latent spirit-magic affinity that most people had never touched because they rerolled before they got anywhere close to it.
+The hospital came up on his left, white-lit and too clean. He parked in the visitor lot, took the stairs two at a time, and caught the antiseptic smell before he hit the second floor landing. It always hit him there, every single time, like his body had already memorized the building.
 
-*"Nobody's taken this seriously because the numbers scare them off before they get anywhere close."* A short breath, something like a real grin. *"But it's what I've actually got to work with. Fortune, Speed. That crit that dropped both enforcers wasn't luck stacked on top of luck, that's a real thing to build toward, if I can ever learn to call it instead of stumbling into it."*
+Ohema's room sat at the end of the hall, door half-open the way it always was. He pushed through and let it swing shut behind him.
 
-*"Ideally something that works at range."* He said it out loud even though nobody was there. *"Health's bad enough melee's basically off the table anyway, so that part's not much of a choice. Not exactly min-maxed, I'm not running the numbers anybody serious would run on this. But at least the class isn't boxing me into one lane before I've even picked a direction."*
+She looked smaller than he remembered. She always did when he came back after a few days away, like something about the room was slowly winning an argument. Monitors beeped quiet and steady beside the bed, IV drip slow and regular, her face turned toward the window.
 
-*"Maybe there's something on the magic side too, if that affinity on the page actually means anything once I'm in there. No idea yet if that holds up to anything real. Only thing I've actually got proof of right now is the crit."*
+Tatsuya pulled the chair close and sat, elbows on his knees, hands loose between them.
 
-He checked the time. 8:47 AM. Sakura Arcade was thirty minutes out.
+"Hey, Mom." He kept his voice low. "I know it's been a minute."
 
-*"Move. Don't want to be stuck in camp when the Gambler's Gambit timer resets."*
+The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something he couldn't catch.
 
-He grabbed Daichi's manual off the desk, shoved it into his bag, and headed for the door.
+"I got into the game," he said. "HGO. Finally. Only took me saving up for two years and hacking an antique pod in someone's back room." He let out a short breath, almost a laugh. "Got locked into the worst race in the game by accident. Power went out mid-creation, whole thing glitched, now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
 
-The ride gave him room to breathe, the Haya EB humming steady under him, the city still waking up around the edges. He pulled his phone at a red light, Loop already open on habit.
+He leaned back, ran a hand over his locs, pushed the loose one back where it kept falling.
 
-**[@Dosuke_AI: anyone else notice the rally outside Lunarest never popped this morning? thought a world quest trigger was supposed to go wide]**
+"But I made some money already. Sixteen thousand eight hundred yen off two elixirs I got from a kill. And there's this ability, Gambler's Gambit, once a day I roll for a chance at rare loot. If I use it right, if I actually grind it properly, I can turn this into something real."
 
-**[@PK_Wraith: is it even going on outside Lunarest or nah. somebody confirm]**
+The words came easier here than they did anywhere else. Something about a room where nobody was watching.
 
-**[@Xx_Wraithborn_xX: glitch? or they capping the spawn on purpose]**
+"Winter Bash is two weeks out. Ten million yen prize pool. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about competing in it." He paused. "But the meta's shifting. Everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody. I'm actually ahead."
 
-*"Let them figure it out."* He killed the screen before the light changed. *"I'm already inside it."*
+He stopped, throat going tight. Let the quiet sit a second before pushing through it.
 
----
+"I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." He looked at his hands, flat against his thighs. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when Tatsuya walked in, red hair, street-biker aesthetic, sharp eyes that landed on him the second he crossed the threshold and didn't move off.
+The monitors kept their rhythm. The room stayed quiet.
 
-Leon's sister, had to be. The resemblance was there once you looked.
+"I'm gonna figure it out. I always do."
 
-"Help you?" She said it direct, the kind of once-over he'd gotten his whole life, tall, scarred, locs, the read people landed on before he'd said a word. Something flickered across her face quick, the recalibration when the read didn't quite hold up, the moment she clocked he was roughly her own age.
+He sat there a little longer, then stood and pressed his hand to her shoulder before he headed for the door.
 
-"Looking for Leon. He's expecting me."
+He was halfway down the hall when he heard them. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
 
-"You're the guy fixing the pods." Not a question. She jerked her chin toward the back hallway, already turning like the conversation was done, or doing a good job acting like it was. "He's back with the tech, near the booth. Go through."
+"...six months," one of them was saying. Ms. Sugiyama, the nurse who'd known him by name since Ohema was first admitted. "Dr. Inoue was clear. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
 
-"Appreciate it."
+Tatsuya stopped walking.
 
-He held her look half a second longer than the exchange needed, then turned for the hallway. Filed the rest of it where it belonged, which was nowhere near the top of anything he was thinking about right now.
+"Chiyo asked us to keep it quiet," the second nurse said. "She didn't want the family worrying."
 
-Leon was near the second pod's booth with a man in a branded polo, tablet in hand, deep in something technical. He spotted Tatsuya and waved him over without fully breaking off.
+"I know," Ms. Sugiyama said. "But that boy deserves to know."
 
-"Morning. Tech's already here, good timing."
+"Not our call."
 
-"Take your time," Tatsuya said, dropping his bag by the counter.
+Their footsteps faded down the opposite hall, and Tatsuya stood there alone in the corridor with those words sitting in his chest like something with edges.
 
-Leon peeled off a few minutes later, the same energy from yesterday still sitting on him, the kind that said he'd gotten good news recently and hadn't quite come down.
+*"Six months. And Chiyo knew. She knew and she didn't tell me."*
 
-"Tech's confirming what I figured," Leon said. "Second pod's a real project, not a lost cause."
+The anger came fast and clean, hotter than anything else he'd felt all day. Not at the news itself, he'd known things were bad, he'd known for a while. But the secrecy. Being kept out of the room like a kid who needed shielding while he was out here carrying half the weight himself.
 
-"Good. I've got leads on parts from Dad's manual. Can pull more if we need specifics."
+*"She's trying to protect me.. even though I chose this route on my own."* The thought didn't help. 
 
-"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Been sitting on those pods two years thinking they were basically scrap." He tipped his head toward the front. "Sorry if Arya gave you a hard time out there. She's been asking questions since yesterday. I don't want her near this until we're cleared and running, too much conflict of interest with her playing the same game we're trying to position commercially."
+He turned and walked, not toward the exit, just away from the voices, hands going flat against his sides, breathing through his nose the way he did when there wasn't a clean answer on the other side.
 
-"Makes sense," Tatsuya said, and left it there.
+He wasn't watching where he was going, and the corner came up fast.
 
-They spent the next twenty minutes going through the parts list from Daichi's manual, cross-referencing against what Leon could source locally, flagging the stuff that would need Tochi's labs or a specialty supplier. By the end Leon looked more settled than he had when Tatsuya walked in.
+The collision knocked the air out of him, a shoulder catching his chest, papers exploding outward in a soft white flurry. A small startled sound came from whoever he'd walked into, and his hands were already moving, catching an elbow, steadying someone before either of them actually went down.
 
-"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with working first-gen HGO access." He clapped Tatsuya on the shoulder once, the kind that felt more like sealing something than saying goodbye. "Go log in. Pod's yours as long as you need it."
+"Sorry, I wasn't," he started, and then he actually looked at her.
 
----
+Twin buns. Glasses that seemed specifically designed to make her forgettable and were failing completely at the job. She was already crouching to gather pages, hands quick and practiced, and when she looked up at him, something in her face did the exact same double-take his had just done.
 
-The pod hissed shut above him, the seal locking with that same soft mechanical sigh, and the real world folded away one sense at a time. The void collapsed inward, and he was standing somewhere else.
+Neither of them said anything for a second that ran a beat too long to be nothing.
 
-The tent. The bedroll. The oil lamp throwing uneven shadows up the canvas walls, exactly where he'd logged out.
+"It's fine," she said, too fast, like she needed to get ahead of the silence. "I wasn't watching either."
 
-He stood, shorter legs answering wrong again, balance still off from his real body's expectations, and pushed through the tent flap into camp.
+He crouched across from her and started helping stack pages. Her eyes caught on the phone in his other hand, screen still lit, the blank username field still sitting open like an accusation.
 
-Morning here too, the sun just cresting the hillside, long shadows across packed dirt. Goblins already moving, tending fires, sharpening blades, the same rhythms.
+"You play?" she asked, tilting her head, a real question.
 
-Then he saw it. At the edge of camp near the boundary line, a figure that didn't belong with the rest.
+"Just started." He turned the phone slightly without meaning to. "Haven't even got a name yet."
 
-Ash and smoke, taking shape slowly into something almost solid. A wide-brimmed hat. Burning green eyes. A presence that made every goblin nearby stop what they were doing and turn.
+Something flickered across her face, amused, like he'd said the funniest thing she'd heard all week. "Well, let's change that.. What did you have in mind?." She reached over and tapped the screen before he could stop her, the prompt still sitting there patiently. 
 
-**[SHIV - SPIRIT ECHO - LEVEL ???]**
+His thumb hovered a second, then he just typed it, letters and a number, done before he talked himself out of it.
 
-The nameplate read gold, not white, not red, something else entirely.
+**[USERNAME SET: TDRAG]**
 
-Tatsuya's hands went still at his sides. One second of it, and then something in him locked into place, the same click he felt reading a fight before it started.
+"There," he said, and held the screen up.
 
-The figure turned toward him, and when it spoke, the voice carried like it was coming from everywhere at once, not loud, just impossible to ignore.
+"TDRAG." She said it slow, testing how it sat. "I like it."
 
-"So. You're the one who said we have bigger problems than fighting each other."
+They finished stacking the last of the pages in a silence that had stopped being awkward somewhere in the last thirty seconds. He was close enough now to see the seam where her glasses didn't quite sit right on her face, like they weren't originally hers.
 
-Tatsuya held the look and nodded once, steady.
+She stood first, he followed, the stack of papers changing hands without either of them fully letting go for a second.
 
-"Good," Shiv said, stepping closer, ash trailing behind him. "Then let's see if you mean it."
+"I have to go," she said, and somehow didn't sound entirely like she meant it. She pulled a pen from her jacket pocket, scribbled fast on the corner of one page, tore it free, folded it twice, and tucked it into his jacket pocket herself. Her hand rested flat against his chest for half a second longer than the motion needed. "My code. Add me sometime."
 
-The spirit raised one hand, and a necklace materialized in the air between them, small bones threaded on a leather cord, each carved with symbols he didn't recognize. It hung there, suspended, waiting.
+"Wait," he started.
 
-"This was mine," Shiv said. "Piece of what I was. Piece of what I'm still trying to be. You take it, you carry the weight that comes with it. You understand?"
+"Good luck with the game," she said, grabbing the papers from him then turning, already three steps into the hallway before he'd finished the sentence. "Hope to see you soon."
 
-*"World-tier item. This is what everyone's going to be hunting for."*
+He watched her go, twin buns bouncing once as she rounded the corner, gone before he thought to actually move after her. He stood there a second longer than made sense, the rest of the papers still in his arms, some part of him already running the last thirty seconds back to confirm it had actually happened.
 
-"I understand," Tatsuya said.
+He set the papers on the nearest chair and unfolded the note.
 
-"Then take it."
+A friend code sat at the top, a string of letters and numbers in clean, careful handwriting. Beneath it, a date.
 
-He reached out, his clawed hand closing around the necklace, and the second his fingers touched it, the world tilted.
+December 23rd. 689450YY 
 
-Heat flooded through him, not painful, just overwhelming, like something was rewriting him from the inside out. Vision whited out for half a second, and when it came back, everything felt different. Lighter. Sharper. The camp sounds clearer, the firelight brighter, his own body moving with a precision that hadn't been there a moment ago.
+*"Two days before Winter Bash."* He turned the paper over, checking the back like something else might be there. Nothing.
 
-He caught his reflection in the water barrel nearby.
+He pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. *Six months. Chiyo knew.* The two things sat next to each other in his chest, the note and the sentence, and neither one would stay separate from the other.
 
-His hair had gone white.
+He pulled out his phone.
 
-Not gray. Not silver. Pure white, stark against his green skin, falling loose around his face in a way that made him look like someone he didn't fully recognize yet.
+Chiyo's last message sat at the top of the thread, the one about Tochi he'd answered with a thumbs up because a thumbs up cost him nothing.
 
-**[CALL OF THE BONES NECKLACE - WORLD]**
+*"She kept this from me because she thought it would break something. She was wrong."* His jaw set. *"This is my call."*
 
-**[BOUND ITEM - CANNOT BE DROPPED OR TRADED]**
+He slid the phone back into his pocket before continuing out the building.
 
-**[+5 FORTUNE]**
-
-**[RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]**
-
-**[ABILITY UNLOCKED: THE BONES SPEAK]**
-
-**[SPIRIT MAGIC PATH UNLOCKED: SHAMAN'S VEIL]**
-
-**[RACE EVOLVED: GOBLIN - SHIV GOBLIN]**
-
-He stared at the last line longest.
-
-*"Not just an item. It changed what I am."*
-
-He pulled up Shaman's Veil, needing to see it in front of him before it felt real.
-
-**[SHAMAN'S VEIL - SPIRIT MAGIC PATH]**
-
-**[MAGIC ACCESS GRANTED]**
-
-**[SCALES WITH: WISDOM]**
-
-**[KNOWN SPELL AVAILABLE FOR GROWTH: ANCIENT BONE FLAME BARRAGE]**
-
-*"It's not handing me anything. It's opening a door that wasn't there before."* He let out a breath. *"Ancient Bone Flame Barrage was already mine, and now there's an actual path to grow it into something real. Runes, mines, all of it. That's not free though. That's Wisdom I don't have yet, materials I'd have to earn. So everything I was picturing this morning isn't a guess anymore. It's real. I just have to actually get there."*
-
-He looked up, and Shiv was already fading, the ash dissipating into nothing.
-
-"They'll see you different now," Shiv's voice said, distant, coming from far away. "Every goblin who's ever known what I looked like carries that mark in the back of their skull, even the ones who never met me. They'll know you on sight. Don't waste it."
-
-Then he was gone, and Tatsuya was standing there alone, white hair catching the morning light, every goblin in camp staring at him like he'd just walked out of a story they'd been told as children.
-
-One of the older goblins near the fire stood, slow and deliberate, and inclined his head. Not a bow. Just acknowledgment, immediate, no hesitation in it, like he'd recognized something rather than decided to respect it.
-
-*"Okay. What the hell just happened to me."*
-
-He spent the next hour going through it properly, stat screen open, reading through the necklace's abilities, testing the weight of it against his throat. Fortune had jumped higher than any other stat he had. Shaman's Veil had unlocked a whole skill tree he hadn't known was possible.
-
-He dismissed the screen and looked around camp, taking in the way goblins were moving around him now, stepping aside without being asked, conversations dropping when he got close.
-
-*"I didn't earn this. I triggered a quest and touched a necklace. That's literally it. And now they're treating me like I matter before I've done a single thing to back it up."*
-
-It sat wrong. But he didn't have time to sit with it.
-
-He found the young goblin from yesterday near the supply crates, still keeping to himself, and crouched down.
-
-"Hey." He kept his voice easy. "Need you to do something."
-
-The kid looked up, eyes going wide at the white hair, but nodded.
-
-"Go tell Sevish I'm ready. I'm not waiting three days. Tell him I'll take the job now."
-
-The kid scrambled up and took off toward the war tent without another word.
-
-Tatsuya stood, hands flat against his thighs, and waited.
-
-Sevish and Wyx came out together five minutes later, moving fast, and when Sevish saw him standing there with white hair and the necklace at his throat, he stopped walking entirely.
-
-"Shiv," Sevish said, quiet, like he was saying it to himself.
-
-"He came to me," Tatsuya said. "Gave me this. Said I carry the weight now."
-
-Wyx stepped closer, sharp eyes going from the necklace to his hair and back. "You're marked. That's not something you fake."
-
-"Not trying to fake anything," Tatsuya said. "I'm ready. You need someone who can get into Lunarest and into those archives without a straight fight, I'll do it. But I'm not sitting around three days to prove I mean it when I'm standing here telling you right now."
-
-Sevish held the look a long moment, then glanced at Wyx.
-
-"Alright," Sevish said. "You're released. Go."
-
-**[PRISONER STATUS REMOVED]**
-
-**[MOVEMENT RESTRICTION LIFTED]**
-
-"One more thing," Sevish said, nodding toward the young goblin hovering a few feet back. "Take him with you."
-
-Tatsuya looked at the kid, then back at Sevish. "What am I doing with a kid?"
-
-"He's small, he's fast, and he won't slow you down," Sevish said. "You're going into the city as a goblin. People are going to look at you. A kid with you makes you look less like a threat. Use it."
-
-The kid's eyes went wide, but he didn't argue.
-
-"Alright," Tatsuya said. "He's in."
-
-Sevish nodded once and turned back toward the tent. "Get it done. You're an ally of Thrash now. That doesn't change because you outlevel this camp."
-
-Tatsuya watched him go, then looked down at the kid.
-
-"You got a name?"
-
-"Runt," the kid said, quiet.
-
-"That's what they call you. What's your actual name."
-
-The kid shrugged.
-
-*"Alright. Runt works for now."*
-
-"Come on," Tatsuya said, turning toward the camp's edge. "Let's go see what this city looks like."
-
----
+The decision was already made.
 
 **[END CHAPTER FIVE]**

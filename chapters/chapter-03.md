@@ -1,4 +1,4 @@
-# Chapter Three: Into Bloodhurst
+# Chapter Three: Into Bloodhurst I
 
 The attribute allocation screen hung in front of him, six glowing numbers waiting for his input. Courage, Power, Wisdom, Speed, Fortune, Energy. Two points to spend, the standard per-level allotment, and beneath them, his base stats as a goblin stared back at him.
 
@@ -14,7 +14,7 @@ The attribute allocation screen hung in front of him, six glowing numbers waitin
 
 **[Energy: 4]**
 
-*"Two Wisdom. Elves start at nine. Welp... guess all that research on caster builds the last few years won't do me any good, and I'm sitting on two Wisdom."*
+*"Two Wisdom. Elves start at nine."* He stared at the number, one hand coming up to rub the back of his neck. *"Three years of caster build research and I'm sitting on two Wisdom. Perfect."*
 
 His hand moved toward the race selection, trying to go back, but the interface was locked. The wheel was gone. Only the allocation screen remained, and at the top, in clean white text:
 
@@ -22,9 +22,9 @@ His hand moved toward the race selection, trying to go back, but the interface w
 
 **[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
 
-Tatsuya's hand froze mid-motion. *"Gambler's Gambit?"* The name repeated in his head twice as he stared at the description tab at the bottom.
+His hand froze mid-reach, hovering in the empty air of the pod. *"Wait. Gambler's Gambit?"*
 
-He pulled up the description.
+He pulled up the description, thumb moving through the motion without thinking about it anymore.
 
 **[GAMBLER'S GAMBIT – RARE RACIAL ABILITY]**
 
@@ -32,15 +32,17 @@ He pulled up the description.
 
 **[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
 
-*"Once per day I can roll for rare gear at level one? That's pretty broken. I'm surprised no one has talked about this."* He looked over the text again to make sure he got it right.
+*"Hold on."* He read it again, slower this time. *"Once per day I can roll for rare gear? At level one? "*
 
-He checked for the reset option. Nothing. Just a gray notice:
+He pulled up the character menu, looking for the reset option he knew was supposed to be there. 
+
+Nothing. Just a gray notice at the bottom:
 
 **[CHARACTER RESET NOT AVAILABLE FOR THIS DRIVE]**
 
-*"Figures. May have to contact support about it, but if I'm trying to get ahead, that could take days I don't have. Fuck, I'm kinda stuck with this."*
+*"Of course not. I could contact support but that's days I don't have if I'm trying to get ahead.."*
 
-His finger hovered over the logout command when another notification bloomed, purple-framed.
+His finger hovered over the logout command when another notification bloomed in front of him, this one framed in purple instead of white.
 
 **[WORLD QUEST DETECTED IN PROXIMITY]**
 
@@ -50,13 +52,11 @@ His finger hovered over the logout command when another notification bloomed, pu
 
 **[ESTIMATED VALUE: WORLD-TIER REWARD]**
 
-*"Crazy how I didn't want this thing and it hands me a world quest."* He sat with that for a second. *"Plus an ability, if I use it right, I can really see some money come in."*
+*The race I was trying to avoid has given me a World Quest. What am I supposed to do with that...* He sat there for a moment, his mind racing through every possible scenario but finding no solution.* “Ugh... I hate this, but the magnitude of the world quests is hard to ignore.”*
 
-He thought about his mom, the way he always did once he got some money. *"Can't get greedy. Anything valuable right now, I have to sell."*
+*"Six days until Chiyo's back from Kyoto. Six days to show her something real and figure out how to make this work or fail miserably trying."* The meta shift to 5v5 was already live, expansion announced. 
 
-*"Six days until Chiyo's back from Kyoto. Six days to have something real to show her and see how I can use this build. I also want to see if I can even compete."* The thoughts danced through his mind as the new meta was changing to 5v5.
-
-He allocated one point to Wisdom, one to Speed.
+He allocated one point to Wisdom, one to Speed. Not optimal for anything he'd researched, but Speed kept you alive and three Wisdom was still better than two.
 
 **[Wisdom: 3]**
 
@@ -64,47 +64,43 @@ He allocated one point to Wisdom, one to Speed.
 
 The allocation screen dissolved.
 
-For a second there was nothing, no sound, no weight, the ambient hum of the pod fading out from under him like someone had cut a wire. Then it built back the other way, faint at first, wind, something crackling, voices layering in one at a time until the silence was gone completely and he was standing somewhere else.
+For a second there was nothing. No sound, no weight, the ambient hum of the pod fading out from under him like someone had cut a wire. Then it built back the other way, faint at first, wind, something crackling, voices layering in one at a time until the silence was gone completely and he was standing somewhere else.
 
-*"Full-dive. I'm actually in it."* Even through the disorientation there was a real, stupid grin trying to happen. Years of watching this from a couch, a screen, a job. The excitement showed on his face even through the bad conditions, this was his first dive ever.
+*"Full-dive. I'm actually in."* Even through the disorientation there was a real grin trying to happen on his face.
 
-Sound came first, too many layers at once, voices arguing in a Japanese that didn't quite match the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap. Then smell, woodsmoke thick enough to taste, something cooking that leaned gamey, underneath it, bodies packed too close together in leather that hadn't been washed in a long time.
+Sound came first, too many layers at once. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap that he could actually hear landing in rhythm. Then smell, woodsmoke thick enough to taste in the back of his throat, something cooking that leaned gamey and half-burned, underneath it the sharp smell of bodies packed too close together in leather that hadn't seen water in way too long.
 
-He took a step and his balance was wrong, his stride too short, his center of gravity sitting somewhere it had never sat before.
+He took a step forward and his balance was completely wrong. His stride was too short, his center of gravity sitting somewhere it had never sat before, and when he looked down he found green skin where his own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of his smaller frame. Rags hung off him, rough-spun and patched with mismatched leather, the stitching crude and uneven, the hem dragging past knees that weren't the right height for it anymore.
 
-He looked down and found green skin where his own should have been, clawed fingers at the ends of arms that read too long for the rest of him. Rags hung off him, rough-spun and patched with leather that didn't match, the stitching crude, the hem dragging past knees that weren't the right height for it.
+*"Alright. Time to adjust."*
 
-*"Shorter. Way shorter. Okay. Get used to it."*
+A water barrel sat nearby, surface still enough to throw back a reflection. He stepped closer and the face looking up at him was sharp-featured and green, yellow eyes blinking when he blinked, pointed ears he could actually feel sitting against the sides of his head when he turned.
 
-A water barrel sat nearby, still enough to throw back a reflection, and the face looking up out of it was sharp-featured and green, yellow eyes blinking when he blinked.
+A notification blinked into existence at the edge of his vision and he flinched hard enough that a nearby goblin turned to stare at him, one eyebrow raised.
 
-*"That's actually me."* Something in his chest did a strange, giddy flip that had nothing to do with fear. *"I've read a thousand threads about this body and none of them said anything about how it actually feels to move in it."*
+***[WELCOME TO ERYNDAL, LUNAREST OUTSKIRTS]***
 
-A notification bloomed at the edge of his vision and he flinched hard enough that a nearby goblin turned to look.
+***[CURRENT LOCATION: BLOODHURST, THRASH CLAN TERRITORY]***
 
-**[WELCOME TO ERYNDAL, LUNAREST OUTSKIRTS]**
+***[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]***
 
-**[CURRENT LOCATION: BLOODHURST, THRASH CLAN TERRITORY]**
+He dismissed it with a thought and made himself breathe. Everything was too immediate, too real. Heat off the nearest fire actually reaching his skin in a way that made him want to step back from it, the smell of whatever was cooking behind him making his mouth water even though he hadn't been hungry a second ago. He flexed a clawed hand and watched it move, the precision something his real hand had never had, each finger responding with a sharpness that felt almost dangerous.
 
-**[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
+*"Studied this game for years. No thread out there explains how incredible it all is to live it ."*
 
-He dismissed it and made himself breathe. Everything was too immediate, too real, heat off the nearest fire actually reaching his skin, the smell of something cooking behind him making his mouth water even though he hadn't been hungry a second ago.
+The camp spread up a hillside in a loose scatter of patched tents, canvas gone gray with weather and smoke stains, salvaged crates and pots stacked haphazardly against guy-lines that creaked in the wind. 
 
-*"I studied this game for years. Never once felt it."* He flexed a clawed hand and watched it answer with a precision his real one had never had. *"This is incredible."*
+Two fires burned in the open ground between the tents, one small and crackling, one built up big enough to roast something the size of a pig. Every goblin he could see carried a white marker floating over their head, faint and easy to miss unless he looked directly at it.
 
-The camp spread up a hillside in a loose scatter of patched tents, canvas gone gray with weather, salvaged pots and crates stacked against guy-lines. Two fires burned in the open ground between them, one small, one built up big enough to cook for the whole camp. Every goblin he could see carried a white marker over their head, faint, easy to miss unless he was looking for it.
+*"White tags. Friendly. To each other, at least."*
 
-*"White. Friendly. At least to each other."*
+None of it looked staged. A cluster near the smaller fire sat sharpening blades on whetstones, the scrape of metal on stone landing in a rhythm that kept going whether he was watching or not. Two goblins arm-wrestling for coin near a crate, a small crowd shouting encouragement in a dialect that only half-resolved into Japanese. Someone singing off-key by the big fire, catching thrown scraps of food and laughing when they hit him in the face. An older goblin sat outside a tent mending a torn shirt, needle moving with the patient, practiced motion of someone who'd done this repair a thousand times before. A smaller goblin shot past his legs at a full sprint, cackling, waving a stolen boot over its head.
 
-None of it looked staged. A cluster near the smaller fire sat sharpening blades on whetstones, the scrape of metal on stone landing in a rhythm that didn't care whether he was watching. Two goblins had a coin match of arm-wrestling going near a crate, a small crowd around them shouting in a dialect that resolved into Japanese only in pieces. Someone was singing off-key by the big fire, catching scraps of food thrown at him for it and laughing anyway. An older goblin sat outside a tent mending a torn shirt, needle moving with the patience of someone who'd done it a thousand times. A smaller goblin shot past his legs at a dead sprint, cackling, waving a stolen boot over its head.
-
-*"This place is actually alive. Not one thing here is waiting on a quest trigger to start moving."*
-
-A second notification sat quiet beneath the first, gold-bordered, easy to miss against everything else demanding his attention.
+A second notification sat quiet beneath the first, gold-bordered and easy to miss against everything else demanding his attention.
 
 **[GAMBLER'S GAMBIT ITEM AVAILABLE: GAMBLER'S EARRING]**
 
-He thought about equipping it, the same way he'd thought his way through the character menu a minute ago, and a small bronze earring, dice carved into its curve, appeared against his ear, a slight new weight he could actually feel there.
+He thought about equipping it the same way he'd navigated the menu a minute ago, and a small bronze earring materialized against his right ear, dice carved into its curve in fine detail, a new weight he could actually feel there when he turned his head.
 
 **[GAMBLER'S EARRING – RARE]**
 
@@ -114,41 +110,59 @@ He thought about equipping it, the same way he'd thought his way through the cha
 
 **[Fortune: 12]**
 
-*"Twelve Fortune before I've even fought anything. I need to find a time to really test this thing in action."* He turned his head slightly and felt the earring shift with it.
+*"Twelve Fortune at level one."* He reached up and touched the earring with one clawed finger, felt it shift slightly under his touch. *"Nobody starts with numbers like this. Need to actually test this thing and see if it's as good as it reads."*
 
-He was still taking it in when he heard it, a voice pitched too sharp to be casual, cracking on the high end the way a voice does right before it either breaks or steadies out. Something about it snagged.
+He was still taking it in when he heard it. A voice pitched too sharp to be casual, cracking on the high end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught him before he'd consciously registered why.
 
-*"Taji."* The thought came sharp and immediate, before the sense of it caught up. *"No. Not him. Just... that pitch."*
+—
 
-Two goblins had a smaller one backed against a crate, close enough that it had nowhere left to go. One of them shoved a claw into the small goblin's chest hard enough to knock it back a step.
+He was still taking it in when raised voices cut through the ambient camp noise, sharp enough to pull his attention.
 
-"You're in my spot, runt. Move."
+Two goblins had a smaller one backed against a supply crate near the central fire, close enough the kid had nowhere to go. One of them shoved a claw into the kid's chest hard enough to knock him back, shoulders hitting wood with a dull thud.
 
-"I was here first," the smaller one said, voice cracking on the last word, and that was the sound that had caught him.
+"You're in my spot, runt," the bigger one said, voice carrying across the camp. "Move."
 
-*"One-on-one, I walk past this. Two grown goblins on a kid a third their size isn't a fight."* He was already moving.
+Another goblin stepped up beside the first, arms crossed. "You heard him. Move."
 
-He crossed the open ground between the tents. The two goblins clocked him coming, more curious than worried.
+"I was here first," the kid said, voice cracking, hands coming up defensively but not actually pushing back.
 
-"Leave him be," Tatsuya said, stopping an arm's length away, voice coming out higher and rougher than his own.
+Tatsuya's eyes swept the camp. Goblins nearby kept working—sharpening blades, tending fires, a few glancing over but nobody moving to step in. The kind of scene people noticed and decided wasn't their problem.
 
-The nearer one looked him up and down. "Mind your business, new blood."
+*"Two-on-one over a campfire spot. That's weak."*
 
-"This is my business now. Back off."
+His hand went flat against his thigh, the motion automatic even in this shorter body, working through whether this was actually his problem or just felt like it.
 
-Both nameplates flickered white to yellow.
+*"Need combat experience anyway. Can't test Goblin Gambit if I'm not fighting, and I'm level one in a body I barely know how to move in. Might as well figure out what breaks before it actually matters."*
+
+The two enforcers stepped closer to the kid, one reaching for him.
+
+*"Alright, fuck it. Let's see what this build can do."*
+
+He was moving before he'd finished the thought, boots hitting soft dirt as he crossed the open ground, not rushing, just deliberate, committed once he'd started.
+
+The two goblins clocked him coming, turning to look, more curious than concerned.
+
+Tatsuya stepped between them and the kid, close enough they had to adjust their stance, his weight balanced but his hands still loose at his sides.
+
+"Yo, we good here?" Tatsuya said, his voice coming out higher and rougher than his own. "Don't really need two grown-ass goblins pressed up on a kid over a fire spot."
+
+The nearer goblin looked him up and down, taking in the rags, no visible weapons, the way Tatsuya was standing like he knew exactly how much space he was taking up. "Mind your business, new blood."
+
+"Yeah, see, that's the thing," Tatsuya said, tilting his head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
+
+Both nameplates flickered from white to yellow.
 
 **[THRASH CLAN ENFORCER – LEVEL 3]**
 
 **[THRASH CLAN ENFORCER – LEVEL 3]**
 
-*"Yellow. Neutral, can turn hostile."* He didn't move.
+*"Yellow tags. Neutral. Can still flip."*
 
-"You're making a mistake," the enforcer said.
+"You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
-"Only mistake you made was not washing your ass, you stink, my boy."
+"Only mistake I see is you two not bathing," Tatsuya said, letting a grin pull at the corner of his mouth. "Damn, y'all really stink. That's crazy."
 
-The second one laughed, short and ugly.
+The second enforcer barked a laugh, short and mean.
 
 Both tags flipped red.
 
@@ -156,73 +170,69 @@ Both tags flipped red.
 
 **[THRASH CLAN ENFORCER HAS INITIATED COMBAT]**
 
-*"Didn't even need a skill for that. But now what? If I die here I'll be locked based on what I heard."* Then there wasn't time to think about anything else.
+*"There it is. Natural provoke. Didn't even need a skill for that."*
 
----
+Then there wasn't time to think.
 
 He turned and ran.
 
-His legs moved wrong, too short, the stride narrow, but his movements were lighter now and he felt that in every spring of his step. *"So adding points to things really makes a difference, even if it's small. That's good to note."*
+His legs moved wrong, too short, the stride narrow and choppy, but lighter now, springier with every step, his reduced weight making the movement feel almost effortless compared to his real body. *"Speed stat's doing work. Okay, that's actually clean." *
 
-He cut between two tents, taking the gap at an angle they'd have to widen out to follow, wind dancing through his hair as he used the shadows created by the canopies to hide.
+He cut between two tents at an angle they'd have to widen out to follow, wind whipping through his hair as he used the canvas shadows to break line of sight, boots kicking up small clouds of dust where the ground was packed hard.
 
-Goblins nearby stopped what they were doing to watch. Not many, this wasn't a packed camp, but enough.
+Goblins nearby stopped what they were doing to watch, a few of them standing up from their fires or setting down whatever they'd been working on. Not many, the camp wasn't packed, but enough to make him feel the eyes tracking him.
 
-*"Can't die here. Whatever else happens, I can't die here."* The seven-day lock surfaced hard and immediate.
+*"Can't die here."* The seven-day death lock surfaced in his mind, hard and immediate, something he'd read on the forums a dozen times. *"One mistake and I'm cooked." *
 
-His thoughts raced as he brought up his skills menu with a thought. A small UI flickered translucent at the edge of his vision.
+His thoughts raced as he brought up his skills menu with a thought, a small translucent UI flickering into existence at the edge of his vision, two icons sitting there waiting.
 
 **[GOBLIN GAS]**
 
 **[GOBLIN FLARE]**
 
-He focused on Goblin Gas and the description expanded mid-stride.
+He focused on Goblin Gas mid-stride and the description expanded, text appearing in clean white letters.
 
 **[GOBLIN GAS – RADIUS EFFECT]**
 
-**[Releases a cloud around the user. Poison damage over time, stacks up to 4x. Reduces visibility. Can be ignited for increased effect. User is not immune.]**
+**[Releases a cloud of noxious gas around the user. Poison damage over time, stacks up to 4x. Reduces visibility. Can be ignited for increased effect. WARNING: User is not immune.]**
 
 **[COOLDOWN: 45 SECONDS]**
 
-*"Sounds useful, but how do I activate it?"* Boots pounded closer behind him. *"Don't have time to be careful. Let's just use it."*
+*"Useful. But how do I actually trigger it?"* Boots pounded closer behind him, the sound of two sets of feet getting louder. *"No time to figure it out gently. Just use it."*
 
-**[GOBLIN GAS]**
+He triggered the ability with a thought.
 
-**[COOLDOWN: 45 SECONDS]**
+Pressure built low in his gut, sudden and mortifying even mid-sprint, and then gas vented out behind him in a thick green cloud that erupted from exactly where he'd been afraid it would.
 
-He triggered it.
+*"Oh that's where it comes from. Damn, that's foul."* He covered his own nose with one hand, the smell hitting him even as he kept moving forward, putting distance between himself and the cloud spreading out in his wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
 
-Pressure built low and sudden, mortifying even mid-sprint, and gas vented out behind him in a thick green cloud erupting from his rear.
-
-*"Oh. That's where that comes from. Damn, that's foul."* He covered his own nose as he kept moving, putting distance between himself and the cloud. The two enforcers ran straight into it a half-second later.
-
-Coughing. One doubling over.
+Coughing erupted behind him, harsh and wet. One of them doubling over, the sound of retching clear even over the noise of the camp.
 
 **[POISON DEBUFF: STACK 1]**
 
-He didn't slow to watch. He cut left around another tent and the gap between him and them widened for the first time since this started.
+He didn't slow down to watch, cutting left around another tent, and the gap between him and them widened for the first time since this whole thing started, his shorter legs eating up ground faster than they should have been able to.
 
-Then it closed again. He glanced back and one of the enforcers had peeled off down a side lane instead of chasing straight, cutting for an angle instead of the distance.
+Then the gap closed again. He glanced back over his shoulder and caught sight of one enforcer peeling off down a side lane between tents instead of chasing straight, angling to cut him off rather than just following the direct line.
 
-*"They're not just chasing anymore. They're trying to box me in."*
+*"Not just chasing anymore. They're trying to box me in. Smart."*
 
-He threaded a gap between two tents barely wide enough for his shoulders, his smaller frame making it easier than it would've been at his real height, and came out the other side past the stew pot, the goblin tending it stepping back out of his way without a word, eyes tracking him the whole time.
+He threaded a gap between two tents barely wide enough for his shoulders, his smaller frame making it easier than it would've been at his real height, canvas brushing against both arms as he squeezed through. He came out on the other side past the big stew pot, the goblin tending it stepping back out of his way without a word, wooden spoon still in hand, eyes tracking Tatsuya the whole time with an expression that read more curious than alarmed.
 
-The cooldown on Goblin Gas ticked at the edge of his vision. **[COOLDOWN: 30 SECONDS. 25.]**
+The cooldown on Goblin Gas ticked at the edge of his vision, numbers counting down in steady increments. **[COOLDOWN: 30 SECONDS. 25. 20.]**
 
-Somewhere off to his left, a tent flap snapped open. A goblin stepped out into the open, wild white hair, copper rings catching the firelight, arms loose at her sides instead of reaching for a weapon.
+Somewhere off to his left, a tent flap snapped open with a sharp crack of canvas on wood. A goblin stepped out into the open air, wild green hair catching the firelight, copper rings hanging from her ears and glinting, arms hanging loose at her sides instead of reaching for any kind of weapon. Her eyes found him immediately, tracking his movement without any visible concern.
 
-*"Someone important. Not helping either side."*
+*"Someone important. She's not stepping in. “*
 
-She didn't move to stop it. A couple of the watching goblins picked up on that fast, started calling out, half a cheer, half a joke, the kind of noise a crowd makes once it's decided nobody's actually in danger.
+She didn't move to stop anything that was happening. A couple of the watching goblins picked up on that fast, started calling out to each other, half cheer and half joke, the kind of noise a crowd makes once it's decided nobody's in actual danger and this is just entertainment now.
 
-*"Good to know somebody thinks this is funny."*
+*"Good to know they think this is funny. Means they're not about to jump in."*
 
-The cooldown hit zero.
+The cooldown hit zero, the number disappearing from his vision.
 
-He cut around a supply crate, put six feet of clean ground behind him, and triggered Goblin Gas again.
+He cut around a supply crate, put six feet of clean ground behind him in two quick strides, and triggered Goblin Gas again without hesitation.
 
-The same pressure, the same vented cloud, and this time both enforcers were close enough to catch the worst of it before they could pull up.
+Same pressure building low, same mortifying release, same thick green cloud venting out and spreading in a radius around where he'd just been standing. This time both enforcers were close enough behind him to catch the worst of it before they could pull up or change direction, both of them running straight into the cloud at full speed.
 
 **[POISON DEBUFF x2]**
 
@@ -232,35 +242,29 @@ The same pressure, the same vented cloud, and this time both enforcers were clos
 
 **[NAUSEOUS]**
 
-Both of them folded over in the green mist, one retching outright, the other with a hand flat on the ground.
+Both of them folded over in the green mist almost immediately, one retching outright with his hands on his knees, the other dropping to one hand flat on the ground, his whole body heaving with the effort of not throwing up.
 
-*"Four stacks. They're not going anywhere for a second."*
+*"Four stacks. Now it's time to counter."*
 
-He pulled the second item from the pouch, a short, unlit flare, and read the line under its name.
+He reached into the small leather pocket attached to the rags he was wearing, fingers closing around the a item that now was materializing in Tatsuya's hand.  He read the tooltip that appeared beneath it, text clean and white against the chaos of the camp around him.
 
-**[GOBLIN FLARE]**
+**[GOBLIN FLARE – EMERGENCY SIGNAL]**
 
-**[Emergency signal. Fired into the air, visible to allies on the mini-map within roughly a mile. Distress use only.]**
+**[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Distress use only.]**
 
-*"Signal flare. Not a weapon. But Gas said it could be ignited, and this thing's already on fire the second I strike it."*
+*"Signal flare."* He looked at the two enforcers still folded over in the lingering gas cloud, both of them coughing hard enough that one was spitting into the dirt. *"But Gas said 'can be ignited.' And this thing's literally on fire once I light it. Let's see what happens." *
 
-He looked at the two of them, still folded over in the gas. *"Worth finding out."*
+He struck the flare against the rough edge of a nearby crate, the way he'd seen people light matches in old movies, and it caught immediately with a bright orange flare of sparks. Then he threw it low, not up into the sky where it was supposed to go, straight into the green cloud still hanging thick between the two enforcers.
 
-He struck it and threw it, not up into the sky where it was meant to go, low, straight into the cloud between them.
+The gas caught the instant the flare touched it.
 
-The gas caught immediately, a concentrated burst of flame that lit the darkening camp and threw a wave of heat and pressure back at him even from fifteen feet clear.
+A concentrated burst of flame erupted outward from the point of impact, bright and hot and loud enough that Tatsuya felt the concussive wave of it hit his chest even from fifteen feet away. The explosion lit up the entire camp for half a second, throwing long shadows across the tents and the watching goblins, heat washing back at him in a wave that made him raise one arm to shield his face.
 
 **[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
 
 **[CRITICAL HIT]**
 
 **[COMBAT KILL: THRASH CLAN ENFORCER x2]**
-
-He stood there a second, ears ringing, staring at two bodies that weren't moving anymore.
-
-*"Holy shit. That actually worked. I didn't know that would kill them."*
-
-He hadn't. He'd been testing whether fire caught on gas, not aiming for anything close to this.
 
 **[EXPERIENCE GAINED: 150 XP]**
 
@@ -270,172 +274,42 @@ He hadn't. He'd been testing whether fire caught on gas, not aiming for anything
 
 **[HEALTH: 50/50] [STAMINA: 20/25] [MANA: 25/25]**
 
-He put both points into Speed without thinking twice. Wisdom could wait. Staying alive couldn't.
+He stood there for a second, ears ringing from the explosion, staring at two bodies sprawled in the dirt that weren't moving anymore, smoke still rising off them in thin trails.
 
-**[Speed: 10]**
+*"Holy shit. That actually worked."* His hands were shaking slightly when he looked down at them. *"I didn't know it would kill them. Was just testing if fire caught the gas."*
 
-A leather belt sat in the dirt where the smaller of the two bodies had fallen, alongside two small glass vials, all three still just sitting there, part of the world and not his yet. He crossed over and touched the belt first, and it lit faintly in his hand before the notification caught up.
+He hadn't meant to. He'd been testing an old forum theory, not trying to end anyone.
+
+He dropped both attribute points into wisdom and speed without thinking twice, the allocation happening almost on autopilot. Wisdom could wait. Staying alive and staying fast couldn't.
+
+**[Speed: 9]**
+
+**[Wisdom; 4]**
+
+A leather belt sat in the dirt where the smaller of the two bodies had fallen, lying half-buried in the dust alongside two small glass vials that caught the firelight with a faint green glow. He crossed over to them, boots crunching on the packed earth, and crouched down. He touched the belt first, and it lit up faintly in his hand, a soft pulse of light running along its length before the notification appeared in front of him.
 
 **[ITEM CLAIMED: GOBLIN GADGET BELT – COMMON]**
 
 **[ABILITIES: SMOKE BOMB, GAS BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]**
 
-*"Not usable yet. Need materials first. Fine. Something's still something."* He turned it over in his hands.
+*"Locked until I get crafting materials to actually make the items."* He turned the belt over in his hands, feeling the weight of it, the rough leather warm from sitting in the dirt near the fire. *"Fine. Still something. Better than nothing."*
 
-He claimed the two vials next, small and green, a number stamped faint beneath the glass on each.
+He looped it around his waist and felt it settle there, the pouches hanging against his hip where he could reach them easily. Then he picked up the two vials, small and delicate in his clawed hands, a number stamped faint beneath the green glass on each one.
 
-**[ITEM CLAIMED: MINOR ELIXIR x2]**
+**[ITEM CLAIMED: MINOR ELIXIR x2 – UNCOMMON]**
 
-**[MARKET VALUE: ¥8,400 EACH]**
+**[RESTORES 30 MANA]**
 
-A gold-bordered notification bloomed beneath it.
+**[AUCTION PRICE: ¥8,400 EACH]**
+
+*"Eight thousand four hundred yen each."* He stared at the number, turning one vial over carefully. *"That's sixteen thousand eight hundred total. First real money this game's handed me."*
+
+A gold-bordered notification bloomed beneath the item description, brighter than the white text around it.
 
 **[GAMBLER'S GAMBIT PROC: FORTUNE CHECK PASSED]**
 
-*"That's real."* Something in his chest loosened for the first time since he'd seen the word Goblin lock into place. *"I actually made some money off this."*
+*"There it is."* Something in his chest loosened for the first time since he'd seen the word Goblin lock into place on his character screen. *"Ability actually works. I made money off a level-three kill."*
 
-He let the thought sit there a second before the next one came. *"This might actually work."*
+He let the thought sit there for a second, the two vials still warm in his hands from sitting near the bodies. *"This might actually work. The whole thing. The goblin lock, the World Quest, all of it. This might not be the disaster I thought it was."*
 
----
-
-Heavy footsteps behind him, multiple sets. He turned, weight shifting into a ready stance before he'd thought about it.
-
-Three goblins in real armor, not rags, white tags, weapons drawn but not raised.
-
-"You're coming with us," one said. Another peeled off toward the crate, where the smaller goblin was still pressed against the wood. "You too."
-
-They didn't bind either of them, just flanked them through camp toward the center. Goblins stopped to watch. Some whispered. The woman with the copper rings fell in a few steps behind, unhurried, still watching him the way she had through the whole chase.
-
-They stopped at a tent bigger than the rest, bone totems carved into the posts on either side of the flap. Inside, the air went cooler, darker, a single oil lamp throwing uneven light across a scarred goblin seated behind a crude table, a bone-carved staff leaning against his chair.
-
-**[SEVISH THRASH – CHIEFTAIN – LEVEL 80]**
-
-The woman took up a spot at his shoulder.
-
-**[WYX THRASH – LEVEL 25]**
-
-*"Eighty and twenty-five. I'm level two. They could end this without trying."*
-
-Sevish's eyes went from Tatsuya to the kid and back. He didn't speak right away, just studied them both.
-
-"So. You two causing trouble in my camp."
-
-The kid opened his mouth. Tatsuya cut in first. "They came at him first. Two on one over a spot by the fire. I stepped in."
-
-"And killed two of my enforcers doing it."
-
-"They came at me after. I did what I had to do to still be standing." He meant it. He hadn't wanted them dead, only off him.
-
-Sevish leaned back, the wood creaking under him. "Led them through the camp. Made them chase you where you wanted them. Waited out your own cooldown before blowing them up. Not bad."
-
-Tatsuya kept his hands flat against his thighs. "Again, I would have gone with the peaceful option. After all, I feel us goblins have bigger problems than fighting amongst ourselves."
-
-Sevish went still. Beside him, Wyx's sharp eyes fixed on Tatsuya's face. Both gold tags flickered, not to yellow, not to red, just flickered, like a notification trying to fire and holding back.
-
-*"They're reacting to something. What did I even say?"*
-
-Sevish laughed, short and real. "Bigger problems than fighting each other." He glanced at Wyx, something passing between them Tatsuya couldn't read. "That's the kind of thinking we've been missing around here."
-
-A purple notification bloomed at the edge of his vision.
-
-**[WORLD QUEST DETECTED]**
-
-**[CALL OF THE BONES – STAGE 1 ACTIVATED]**
-
-*"What did I just do?"* He stared at it like it might explain itself.
-
-Sevish stood, walking around the table, heavy and deliberate. "You killed two of mine. Justified or not, that makes you a variable I can't just let walk." He stopped a few feet off. "But you've shown more in one fight than most of this camp's shown in weeks. Outside my sister." A nod toward Wyx. "So here's the offer."
-
-He laid it out plain and rough.
-
-"Myrrhwood is hell right now. Worse every year since Shiv's influence no longer lives among us, over a century gone, and the clans have never found their footing again without him. That's the real reason Wyx and I gathered people and came out here at all. To find what Shiv was hiding and maybe bring that knowledge back to our people."
-
-"We've tried the rally three times," Sevish said. "Failed three times."
-
-*"Three."* Tatsuya filed it away without knowing why it felt like it mattered.
-
-"We've tried getting into the library by force," Sevish went on. "Doesn't work. What you did back there, moving through instead of fighting straight on, that's not something I've seen out of anyone in this camp. Could be exactly what this needs."
-
-"The library," Tatsuya repeated.
-
-"The Grand Library of Lunarest. Find anything on Shiv up there." He folded his big arms.
-
-"You do this," Sevish said, "and you'll be guaranteed an ally of Thrash."
-
-*"He's saying that like it's charity... I can't just throw this away though. Guess I really am stuck... but in the right way this time."* He nodded to himself before his eyes met Sevish once more.
-
-"And if I don't?"
-
-Sevish's tag flickered again. So did Wyx's.
-
-*"Guess that's a stupid question."* He noticed how tense it got immediately.
-
-"Then you stay here," Sevish said, without heat, like he was stating the weather. "I don't let someone who can drop two of my enforcers walk off without knowing which side he's on. And understand, if you take this and don't come back, we'll leave, back to Myrrhwood. And if we cross paths again, you'll be an enemy. This was already a gamble, and we've spent longer away from home than we should have."
-
-Wyx spoke for the first time, dry, almost warm. "He was entertaining, at least. That's worth something."
-
-The words hadn't finished landing before Tatsuya noticed the time stamped quiet in the corner of his vision.
-
-9:41 PM.
-
-*"I logged in late because I was fixing the pod. Damn."*
-
-Leon's voice crackled through the pod's external speaker, distant and tinny, no idea it was cutting into the middle of anything.
-
-"Hey, heads-up, we're closing in about thirty minutes."
-
-For a second Tatsuya just sat with it, the gap between where he actually was and the voice that had just reached in from outside too wide to close all at once. *"Right. Leon. The arcade."*
-
-"Alright, I'll be off shortly," he finally said.
-
-"No worries, you've been playing for a while. Hope it didn't give you any more issues," Leon said.
-
-"No, it didn't," Tatsuya said, and let his eyes close before looking back over to Sevish and Wyx, who seemed to look at him strangely since they couldn't hear why he was speaking.
-
-"I need three days," Tatsuya finally said out loud, knowing he had to log off soon.
-
-"You can have them," Sevish said. "In camp."
-
-Two guards fell in on either side of him without being told to.
-
-**[YOU ARE NOW A PRISONER OF THE THRASH CLAN]**
-
-**[MOVEMENT RESTRICTED TO CAMP BOUNDARIES]**
-
-**[DURATION: UNTIL RELEASED BY CHIEFTAIN SEVISH]**
-
-**[WORLD QUEST ACTIVATION: CALL OF THE BONES]**
-
-**[STAGE 1 UNLOCKED]**
-
-**[OBJECTIVE: INFILTRATE THE GRAND LIBRARY OF LUNAREST – RESTRICTED FLOORS]**
-
-**[REWARD: UNKNOWN]**
-
-**[TIME LIMIT: 7 DAYS IN-GAME]**
-
-The guards walked him back through camp the way he'd come, past the arm-wrestling match breaking up for the night, past the older goblin still working the same needle through the same torn shirt by lamplight, the stew pot down to coals and one last goblin scraping the bottom of it clean.
-
-They stopped at a tent near the edge of camp. "Inside," one of them said. "Better than it sounds."
-
-It was small enough that he couldn't stand fully upright, lit by a single oil lamp that threw shadows up the canvas walls every time it guttered. A bedroll took up most of the floor, straw crackling under him when he sat.
-
-Outside, the camp kept moving, footsteps passing close, someone muttering to themselves in a dialect that resolved into Japanese only once they'd already gone by, a blade dragging slow against a whetstone in a rhythm that didn't stop. Farther out, a dog barked once and went quiet, wind moving through the tree line beyond the boundary.
-
-He turned the two green vials over in his hand, ¥8,400 stamped faint beneath the glass on each one.
-
-*"Sixteen thousand, eight hundred yen and a way to make some extra change. First money this game's ever paid me. Not a bad login."*
-
-*"Three days. Can't leave camp bounds until then anyway."* He thought about Chiyo, and Tochi ran deep in his mind.
-
-*"When I get off, I guess I need to find ways to prepare for Winter Bash and grab any details on goblins I can, as well as info on the quest."*
-
-The camp kept breathing around him outside the canvas, fire and low voices and the wind still moving past the boundary line. In the chat he hadn't noticed before, casually going off about idle nonsense, a bell rang.
-
-**[SYSTEM ANNOUNCEMENT: WORLD QUEST | CALL OF THE BONES HAS BEEN ACTIVATED]**
-
-His eyes shot up as the chat erupted. *"Damn, this ain't good."* The logout button appeared and his vision of this world went dark.
-
----
-
-**[END CHAPTER THREE]**
+**[TO BE CONTINUED IN CHAPTER FOUR] **
