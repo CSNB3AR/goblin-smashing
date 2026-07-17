@@ -20,7 +20,7 @@ One file per playable race, split out of the shared table that used to live in `
 - **Restricted, not hard-locked** (defaults to Physical Arts, tier-1 threshold is a real climb from a low Wisdom base): Orc, Goblin.
 - **Fully locked out**: Beastfolk, Dwarf, cannot open any school at any Wisdom investment. Dwarf gets a crafting-flavored racial edge in exchange (see `codex/races/dwarf.md`).
 
-See `codex/magic/overview.md` for the tier-1 Wisdom-8 threshold itself and how casting access works generally.
+See `codex/magic/overview.md` for the tier-1 Wisdom-18 threshold itself and how casting access works generally.
 
 ## Advanced/evolved races, not selectable at creation
 

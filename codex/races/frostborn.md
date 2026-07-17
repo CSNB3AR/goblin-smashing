@@ -22,7 +22,7 @@ Full immunity to environmental cold/exposure effects. A survival-flavored racial
 
 ## Magic access
 
-Partial access, more elemental/rune-utility flavored than pure arcane, sits between the fully-open races (Human, Elf) and the fully-locked ones (Beastfolk, Dwarf). Clearing the tier-1 casting threshold (Wisdom 8, see `codex/magic/overview.md`) is a real but achievable investment, not the uphill climb it is for a Wisdom-2 or Wisdom-3 race.
+Partial access, more elemental/rune-utility flavored than pure arcane, sits between the fully-open races (Human, Elf) and the fully-locked ones (Beastfolk, Dwarf). Clearing the tier-1 casting threshold (Wisdom 18, see `codex/magic/overview.md`) is a real but achievable investment, not the uphill climb it is for a Wisdom-2 or Wisdom-3 race.
 
 ## Cross-references
 

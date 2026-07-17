@@ -8,13 +8,9 @@ The void collapsed inward, light and sound folding together, and he was standing
 
 **[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
 
-The readout sat fixed at the top edge of his vision, a permanent overlay he couldn’t blink away or dismiss, just always there now, a thin seam cutting across everything he looked at.
+The readout sat fixed at the top edge of his vision, a permanent overlay he couldn’t blink away or dismiss, just always there now.
 
-The tent came back into focus around him slowly, canvas walls still stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven, flickering shadows that climbed the fabric every time the flame guttered. 
-
-The bedroll Tatsuya logged out on was still beneath him, straw stuffing crackling faintly under his weight as he shifted, and the air smelled the same as it had when he’d left..
-
-Someone was sitting just inside the tent flap, knees pulled up to their chest, waiting.
+The war tent came back into focus around him, same bedroll, same oil lamp guttering off the center pole. Someone was sitting just inside the tent flap, knees pulled up to their chest, waiting.
 
 The kid looked up the second Tatsuya’s presence fully resolved, scrambling to his feet before either of them had said anything, his whole posture eager in a way that hit harder than Tatsuya expected.
 
@@ -52,29 +48,37 @@ Both guards froze mid-breath, spears still raised at exactly the angle they’d 
 
 The color had gone strange too, the whole tent, the whole visible stretch of camp beyond it, washed thin and gray like the light itself had been dialed down, a fine mist crawling low across the packed dirt outside that hadn’t been there a second ago.
 
+**[WARNING]** **[WARNING]** **[WARNING]**
+
+**[YOU HAVE BEEN STRUCK BY FLAMONTA — WORLD-LEVEL EFFECT]**
+
 **[STATUS: SLOWED x4]**
 
-**[CAUSE: PROXIMITY TO HIGH-LEVEL PRESENCE]**
+The floor came up and hit him before he'd registered falling, knees buckling, one clawed hand slapping flat against packed dirt to keep his face out of it. Nothing in four hours of getting chased and gassed and blown up had felt like this, a pressure that didn't push so much as it simply decided where his body was allowed to be.
 
-Tatsuya tried to step back and his legs answered half a second late, everything dragging like he was moving through water, his body fighting against the air itself just to shift his weight.
+*"That's not a debuff. That's a failed spell check, front and center, system's not even bothering to dress it up."*
 
-*“Not a spell I cast. Not a debuff I earned. He’s not even hostile and the game’s still tagging him like he could kill me by accident just standing near me.”*
+“Calm yourself,” the voice said, and it didn’t come from one place, it came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore. Then, quieter, almost amused: “Calm yourself, T-Drag. If I meant to kill you, you’d already be dead. This is just what standing near me costs, for now.”
 
-“You’re the one who said we have bigger problems than fighting each other,” the voice said, and it didn’t come from one place, it came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore.
+*“He knows my handle. Not Tatsuya. T-Drag. He's reading it off whatever I'm running under, same as anyone else would.”*
 
-“That’s me,” Tatsuya said, forcing the words out, each one dragging half a second longer than it should have, his throat tight.
+“That’s me,” Tatsuya said, forcing the words out from the floor, each one dragging half a second longer than it should have, his throat tight.
 
-Shiv stepped closer, ash trailing behind him like smoke off a dying fire, each movement smooth and deliberate, unaffected by whatever was slowing everything else in the tent.
+Shiv stepped closer, ash trailing behind him like smoke off a dying fire, each movement smooth and deliberate, unaffected by whatever was slowing everything else in the tent. He moved like a man who'd had centuries to get good at being watched.
 
-“Before anything else,” Shiv said, his voice low, measured, carrying weight Tatsuya could feel in his chest, “you should know what you’re actually about to carry.”
+*"Is this thing even scripted. Nobody codes idle animation this good for a quest NPC. Either somebody's puppeting this in real time or I need to stop assuming I know what AI in this game is actually capable of."*
 
-“I’m listening,” Tatsuya said.
+“I don’t have much time to talk,” Shiv said, “so I’ll get to it. You should know what you’re actually about to carry.”
+
+“I’m listening,” Tatsuya said, pushing himself back up onto one knee.
+
+A small notification ticked in the corner of his vision, easy to miss against everything else. **[VIEWERS: 3 → 11]** Then, a breath later, **[VIEWERS: 11 → 24]**. Whatever the stream feed was actually showing, ash and smoke and a goblin flat on the ground in front of something with a gold nameplate and no level number, it was enough. The Call of the Bones tag never left his HUD, quest or not, stream or not, that was the one thing he wasn't hiding, and it wasn't like a viewer could fake seeing that sitting there. He didn't have the attention to spare on it right now. He filed it away and stayed on his knee, eyes on Shiv.
 
 “I wasn’t always this,” Shiv said, and something almost like a dry laugh moved through the ash, humorless, tired. “I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest’s own court, back when that meant something.” The green eyes didn’t blink, didn’t move, just burned steady in the smoke. “I loved a queen who wasn’t mine to love. The court’s own mages didn’t take kindly to that once it came out, once the affair went public. What they did to me for it, they didn’t call it a curse. They called it a correction.”
 
 He gestured, vague and dismissive, at his own ash-and-smoke form, the shape of him flickering slightly at the edges.
 
-“I was the first of what your camp calls goblins,” Shiv continued. “Not what they became after me, something closer to what I was before the change, more of the old shape left in me than in most of what walks around out there now. They ran me out of the capital for it. Goblins, beastfolk, anything that looked like what I’d turned into—hunted as feral ever since.”
+“I was the first of what your camp calls goblins,” Shiv continued. “Not what they became after me, something closer to what I was before the change, more of the old shape left in me than in most of what walks around out there now. They ran me out of the capital for it. Goblins, beastfolk, anything that looked like what I’d turned into—hunted as feral ever since.” A pause, something drier creeping into his tone. “Understand, the court that cast me out wasn't righteous about it. That kingdom had been rotting from the inside for longer than I'd been alive, long before I gave them an excuse to point at someone else. I won't stand here and make myself the villain of that story just to be humble about it.”
 
 *“That’s a lot more than ‘spirit echo, level unknown.’”* Tatsuya’s mind was racing, cataloging every word, every detail, knowing this wasn’t something he’d get to hear twice.
 
@@ -82,7 +86,7 @@ He gestured, vague and dismissive, at his own ash-and-smoke form, the shape of h
 
 “Alright,” Tatsuya said, his voice steadier now even through the drag. “So why me? Why now?”
 
-“Because what’s left of me is thin,” Shiv said, and the ash flickered again, just once, like a candle guttering in wind. “Thinner every year. An idea doesn’t hold a camp together forever on its own, no matter how strong it starts. It needs people carrying it forward who actually believe in it, who’ll push it further than I ever could. Disciples.”
+“Because my reach is fading,” Shiv said, and the ash flickered again, just once, like a candle guttering in wind. “Thinner every year. I've done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That's not the same as fixing it. Goblins have never truly stood together, not once, not for years, and if the feral clans keep tearing at each other, none of it, none of what I built, gets taken seriously by anyone. It needs people carrying it forward who actually believe in it. Disciples. What I'm asking isn't small, either, it stretches across five continents, not just Myrrhwood. I need your permission before I go any further with this.”
 
 His eyes moved past Tatsuya, settling on the kid frozen mid-step by the tent flap, one hand still reaching for canvas that wasn’t moving.
 
@@ -110,7 +114,7 @@ The second his skin touched the bones, the world tilted.
 
 Heat flooded through him, not painful but overwhelming, like something was unraveling him from the inside out and stitching him back together in the same breath. His vision whited out completely for half a second, every sense overloading at once, and when it came back everything felt different—lighter, sharper, clearer, like someone had turned up the resolution on the entire world.
 
-**[STATUS: SLOWED x4 – EXPIRED]**
+**[FLAMONTA – EXPIRED]**
 
 His legs answered immediately, clean and responsive, the drag gone the second the bond took hold.
 
@@ -138,17 +142,17 @@ The notifications came fast, stacking on top of each other in his vision.
 
 **[LEVEL 2 → LEVEL 7]**
 
-**[+5 DISCIPLINE POINTS AVAILABLE]**
+**[+10 DISCIPLINE POINTS AVAILABLE]**
 
-*“Five levels. Just like that.”* Tatsuya pulled the allocation screen open immediately, his mind already running the build. *“Speed. Keep leaning into it, it’s the only reason I’m not dead yet. Wisdom, since apparently I can actually use it now. Fortune on top, because if that crit mechanic’s really what I’m building around, I want it proccing more often, not just hitting harder when it does.”*
+*“Five levels. Ten points, just like that.”* Tatsuya pulled the allocation screen open immediately, his mind already running the build. *“The necklace already cracked the door open on Wisdom, doesn't mean I ignore it. Four in, get some actual weight behind whatever this path turns into. Rest goes Fortune, because if that crit mechanic's really what I'm building around, I want it proccing more often, not just hitting harder when it does.”*
 
-He split the five points across the three stats, didn’t touch Power or Courage, his fingers moving fast through the allocation.
+He put four points into Wisdom and the remaining six into Fortune, didn’t touch Power, Courage, or Speed, his fingers moving fast through the allocation.
 
 *“Not sure if it’s the smart build long-term. But it’s the one I’ve got actual proof works right now.”*
 
 He stared at the race evolution line the longest, the words sitting there in clean white text.
 
-*“Shiv Goblin. Whispers of Shiv. Never heard of that before today.”*
+*“Shiv Goblin. Whispers of Shiv. Never heard of that before today.”* Not the same evolution tag as a straight Hobgoblin, near as he could tell, but every camp goblin who'd ever laid eyes on one of Shiv's own marked descendants would read it the same way, an elder standing in a Hobgoblin's kind of weight class whether the system called it that or not.
 
 He pulled up the passive description.
 
@@ -207,6 +211,12 @@ Ru looked down at his own hands like they belonged to somebody else, flexing the
 “Use it well,” Shiv said, already starting to fade, the ash unwinding at the edges, smoke dissipating into nothing. “Both of you. They’ll see you different now. Every goblin who’s ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born a century after I died. It’s in their blood, their memory. Don’t waste it.”
 
 Then he was gone, the ash collapsing inward and disappearing entirely, and the freeze holding the rest of the world broke all at once, sound and motion rushing back into the tent like a held breath finally let go.
+
+**[VIEWERS: 24 → 61]**
+
+The chat window was already moving, lines stacking too fast to read individually, somebody asking if this was new map content, somebody else asking if he was a beta tester, one lone all-caps line insisting the whole thing had to be staged. He didn't have room to answer any of it yet, but he caught it, the number climbing, the questions piling up.
+
+*“Yeah. In a second.”* “Hey,” he said out loud, quick, to whoever was actually watching, “thanks for pulling up. Give me a minute, this is a lot.” Then he turned back to the tent, because it was.
 
 The two guards at the tent flap staggered, their spears dropping half an inch, blinking hard against light that hadn’t actually changed but felt different to them now, their expressions confused, disoriented.
 

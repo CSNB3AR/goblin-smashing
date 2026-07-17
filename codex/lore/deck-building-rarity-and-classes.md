@@ -12,7 +12,7 @@ Moved to `codex/races/`, one file per playable race, split out of the shared tab
 
 ## Race/class magic-access restrictions
 
-Not every race can freely learn every skill tree. See `codex/races/overview.md` for the current per-race breakdown (fully open, partial, restricted, or fully locked) and `codex/magic/overview.md` for the tier-1 Wisdom-8 threshold itself.
+Not every race can freely learn every skill tree. See `codex/races/overview.md` for the current per-race breakdown (fully open, partial, restricted, or fully locked) and `codex/magic/overview.md` for the tier-1 Wisdom-18 threshold itself.
 
 **Goblin specifically isn't locked out of any base class the way its magic-access restriction might imply.** No class ceiling stops a goblin player from building toward anything on the base-class list (§Base classes above). What actually holds most goblin builds back is the race's weak starting stat line (`codex/races/goblin.md`), a hard climb from a low floor, not a hard wall. This is what Tatsuya works out for himself during Chapter 5's morning research, nobody's given the race a real shot because the base stats scare people off day one, not because the class options are actually closed to it.
 

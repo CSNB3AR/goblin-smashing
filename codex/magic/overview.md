@@ -2,9 +2,9 @@
 
 Two separate questions govern any caster: **whether** they can cast at all (race and Wisdom, this file and `codex/races/overview.md`), and **what kind** of magic they lean into once they can (school, one file per school in this folder). A third question, **how much** a caster can actually do, is the tier system below.
 
-## Opening casting: the Wisdom-8 threshold
+## Opening casting: the Wisdom-18 threshold
 
-A character needs a minimum of **Wisdom 8** to open tier-1 casting in any school at all, "unlocking vocation" in the loose player-facing phrase. This is a real, deliberate gate, not a soft recommendation: a character who doesn't start close to it (see `codex/races/overview.md` for base Wisdom by race) is practically locked out early on, since clearing it means pouring leveling points (`codex/lore/leveling-and-progression.md`) into Wisdom at the expense of everything else, a real opportunity cost, not a free unlock. This is on top of, not instead of, the racial access tiers in `codex/races/overview.md` (fully open / partial / restricted / fully locked). A fully-locked race (Beastfolk, Dwarf) can't open a school at Wisdom 8 or Wisdom 800, the two gates are independent.
+A character needs a minimum of **Wisdom 18** to open tier-1 casting in any school at all, "unlocking vocation" in the loose player-facing phrase. This is a real, deliberate gate, not a soft recommendation: a character who doesn't start close to it (see `codex/races/overview.md` for base Wisdom by race) is practically locked out early on, since clearing it means pouring leveling points (`codex/lore/leveling-and-progression.md`) into Wisdom at the expense of everything else across many levels, a real opportunity cost, not a free unlock. This is on top of, not instead of, the racial access tiers in `codex/races/overview.md` (fully open / partial / restricted / fully locked). A fully-locked race (Beastfolk, Dwarf) can't open a school at Wisdom 18 or Wisdom 800, the two gates are independent.
 
 ## Tiers, functional only
 

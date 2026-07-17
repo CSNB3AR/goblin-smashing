@@ -22,7 +22,7 @@ Resists the first stagger/stun effect taken in a fight per encounter. Fits the r
 
 ## Magic access
 
-Restricted, not hard-locked. Orcs default to Physical Arts (see `codex/combat/physical-arts-overview.md`) rather than spellcasting, and the race's low Wisdom base makes clearing the tier-1 casting threshold (Wisdom 8, see `codex/magic/overview.md`) a real, deliberate investment rather than something that happens incidentally while leveling elsewhere. Not one of the two races with a full lockout (see `codex/races/beastfolk.md` and `codex/races/dwarf.md`).
+Restricted, not hard-locked. Orcs default to Physical Arts (see `codex/combat/physical-arts-overview.md`) rather than spellcasting, and the race's low Wisdom base makes clearing the tier-1 casting threshold (Wisdom 18, see `codex/magic/overview.md`) a real, deliberate investment rather than something that happens incidentally while leveling elsewhere. Not one of the two races with a full lockout (see `codex/races/beastfolk.md` and `codex/races/dwarf.md`).
 
 ## Cross-references
 
