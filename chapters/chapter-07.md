@@ -1,6 +1,6 @@
 # Chapter Seven: The First Disciple
 
-The void collapsed inward, light and sound folding together, and he was standing somewhere else.
+The void collapsed inward, light and sound folding together in that nauseating rush he still wasn’t used to, and when the world snapped back into focus, he was standing somewhere else.
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
@@ -8,45 +8,67 @@ The void collapsed inward, light and sound folding together, and he was standing
 
 **[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
 
-The readout sat fixed at the top edge of his vision, a permanent overlay he couldn’t blink away or dismiss, just always there now.
+The readout sat fixed at the top edge of his vision, clean white numbers he couldn’t blink away no matter how many times he tried.
 
-The war tent came back into focus around him, same bedroll, same oil lamp guttering off the center pole. Someone was sitting just inside the tent flap, knees pulled up to their chest, waiting.
+*“Just like I left it. Ridiculously low, as expected.”* He scanned the stats, doing the math automatically. *“I really need to start grinding. If I don’t, I won’t last in any PvP setting, open world or competitive.”*
 
-The kid looked up the second Tatsuya’s presence fully resolved, scrambling to his feet before either of them had said anything, his whole posture eager in a way that hit harder than Tatsuya expected.
+The blue UI screen disappeared the second he thought about dismissing it, responsive in a way that still felt weird, reading his intent before he’d fully formed it.
 
-*“Huh.”* Something about that landed strange, heavier than it should have for a fact this small. *“Didn’t tell him to wait here. He just did.”*
+The war tent came back into focus around him slowly, details resolving one at a time, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. His head was resting on the bedroll he’d logged out on, straw crackling faintly beneath him as he shifted, like his avatar had decided to take a nap there while he’d been gone.
 
-“You woke up,” the kid said, his voice pitched slightly too high, like he’d been holding his breath and hadn’t let it out yet.
+A notification blinked into existence at the edge of his vision, soft green text.
 
-“Yeah,” Tatsuya said, rolling his shoulders, his balance still settling back into the shorter goblin frame, everything feeling just slightly off for the first few seconds. “C’mon. Let’s see what’s happening out there.”
+**[STATUS EFFECT: RESTED TRAVEL]**
 
-He pushed himself up off the bedroll, straw crackling louder under the shift in weight, and moved for the tent flap, one hand reaching out to pull the canvas aside.
+**[EFFECT: GRANTS USER 50% EXPERIENCE BUFF FOR ONE HOUR DUE TO SLEEPING IN A SAFE AREA]**
 
-It didn’t open.
+*“So sleeping on a bedroll in a busted tent counts as safe for a goblin. That’s almost insulting.”* He let out a short breath that might’ve been a laugh, sitting up slow, straw crackling louder under the shift in weight. *“Buff procs once a day for an hour. Gotta make sure when I log off I’m somewhere I can actually get it.”*
 
-A shape filled the gap instead, broad shoulders blotting out the morning light that had been seeping through the edges a second ago, a spear held loose but ready in one clawed hand. Another guard stood just past the first, close enough that this wasn’t an accident, both of them positioned like they’d been told to stay exactly where they were.
+He scanned the tent, letting his eyes adjust to the dim lamplight. Still wearing the same torn prisoner rags he’d been thrown in here with, one shoulder split halfway down the seam, the fabric rough and scratchy against his green skin. The empty Goblin Gadget Belt sat at his waist, pouches hanging limp with nothing loaded yet.
 
-“Not leaving,” the first guard said, his voice flat, professional, not even looking at Tatsuya directly, his eyes fixed on something past Tatsuya’s shoulder instead.
+The kid was still here.
 
-“I was told I’d be free to move once I gave Sevish an answer,” Tatsuya said, keeping his tone level, not pushing yet.
+The smaller goblin, the one he’d stepped in for yesterday, the one who’d gotten him into this whole mess in the first place, was sitting near the tent flap, knees pulled up to his chest, waiting.
 
-“Wasn’t talking about Sevish,” the guard said, and his eyes cut somewhere behind Tatsuya, toward the back of the tent where nothing but the bedroll and the lamp should have been. “Something else wants a word first.”
+The kid looked up the second Tatsuya’s presence fully resolved, scrambling to his feet before either of them had said anything, his whole posture eager in a way that hit harder than Tatsuya expected, like he’d been sitting there the whole time just hoping Tatsuya would come back.
 
-Tatsuya glanced back over his shoulder. The tent was empty except for the kid, the bedroll, the flickering oil lamp. Every nameplate he could still make out through the narrow gap in the tent flap read white, allies or neutrals, one gold pair visible near the war tent in the distance, not a single blue tag anywhere in sight.
+*“Guess Sevish and the others threw him in here too.”* Something about that landed strange, heavier than it should have for a fact this small.
 
-*“No other players. Just me and whatever the hell they’re looking at that I can’t see yet.”*
+“You woke up,” the kid said, his voice pitched slightly too high, cracking on the last word like he’d been holding his breath and hadn’t let it out yet.
 
-The air changed before he saw anything, a shift in pressure that had no sound attached to it, thick enough that he felt it press against his skin like a hand. Every noise outside the tent cut off at once—mid-word, mid-motion, the whole camp going silent in a way that wasn’t natural, wasn’t right.
+“Yeah,” Tatsuya said, rolling his shoulders, balance still settling back into the shorter goblin frame, everything feeling just slightly off for the first few seconds, like his real body and this one weren’t quite synced yet. “Head’s kinda dizzy though.”
 
-Ash and smoke poured in through the gap between the two guards, moving slow, deliberate, coiling inward and upward like it was being shaped by something with intent. A wide-brimmed hat formed first, then shoulders, then burning green eyes that didn’t blink, didn’t waver.
+He rubbed the back of his neck with one clawed hand, the motion automatic even though the proportions were wrong, his arm too short, his hand too big.
+
+“May I ask,” Tatsuya said, his eyes redirecting over to the kid, “when did you get placed in here?”
+
+The kid opened his mouth to answer, and froze mid-breath.
+
+Not like he’d stopped talking. Like someone had paused him mid-frame, his whole body locking in place, one hand still halfway raised toward Tatsuya, his eyes still open but not seeing anything anymore.
+
+*“What the—”*
+
+Tatsuya glanced back over his shoulder. The tent was still frozen.
+
+The air changed before he saw anything.
+
+A shift in pressure that had no sound attached to it, thick enough that he felt it press against his skin like an invisible hand closing around him. Every noise outside the tent cut off as well, the kind of quiet that made his pulse kick up hard before his brain had even caught up to why.
+
+A notification popped at the edge of his vision, red-bordered.
+
+**[WARNING: ANOMALOUS EFFECT DETECTED]**
+
+Ash and smoke poured in through the gap in the tent flap, moving slow and deliberate, coiling inward and upward like it was being shaped by something with intent rather than just drifting. A wide-brimmed hat formed first out of the smoke.
 
 **[SHIV – SPIRIT ECHO – LEVEL ???]**
 
-The nameplate read gold, not white, not red, not anything Tatsuya had seen on any other NPC or player since he’d spawned. Something else entirely.
+The nameplate read gold.
 
-Both guards froze mid-breath, spears still raised at exactly the angle they’d been holding them, eyes still open but not seeing anything anymore, not a flicker of motion left in either of them. Behind Tatsuya, the kid had gone the same way, caught mid-step toward the tent flap, one hand halfway extended, his whole body locked in place like someone had paused him mid-frame.
+The kid behind him had gone completely still.
 
-The color had gone strange too, the whole tent, the whole visible stretch of camp beyond it, washed thin and gray like the light itself had been dialed down, a fine mist crawling low across the packed dirt outside that hadn’t been there a second ago.
+The color had gone strange too, the whole tent, the whole visible stretch of camp beyond it through the narrow gap in the flap, washed thin and gray like the light itself had been dialed down, a fine mist crawling low across the packed dirt outside that hadn’t been there a second ago.
+
+Three notifications stacked on top of each other in rapid succession, each one flashing brighter red than the last.
 
 **[WARNING]** **[WARNING]** **[WARNING]**
 
@@ -54,17 +76,41 @@ The color had gone strange too, the whole tent, the whole visible stretch of cam
 
 **[STATUS: SLOWED x4]**
 
-The floor came up and hit him before he'd registered falling, knees buckling, one clawed hand slapping flat against packed dirt to keep his face out of it. Nothing in four hours of getting chased and gassed and blown up had felt like this, a pressure that didn't push so much as it simply decided where his body was allowed to be.
+The floor came up and hit him before he’d registered falling, his knees buckling hard, one clawed hand slapping flat against packed dirt to keep his face out of it.
 
-*"That's not a debuff. That's a failed spell check, front and center, system's not even bothering to dress it up."*
+The impact jarred up through his wrist, sharp and immediate, and he tried to push himself back up but his body wasn’t answering right, everything dragging like he was moving through water.
 
-“Calm yourself,” the voice said, and it didn’t come from one place, it came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore. Then, quieter, almost amused: “Calm yourself, T-Drag. If I meant to kill you, you’d already be dead. This is just what standing near me costs, for now.”
+“What the hell…”
+
+He tried to speak and his mouth moved half a second late, the words coming out sluggish and wrong.
+
+“…what type of skill is this…”
+
+This felt like a pressure that didn’t push so much as it simply decided where his body was allowed to be and where it wasn’t, an authority his goblin frame had no way to resist.
+
+His vision swam slightly at the edges, colors bleeding together, and he forced himself to breathe slow through his nose, trying to ground himself in something real, the smell of smoke and old canvas, the rough texture of packed dirt under his palm, the faint metallic tang of his own sweat cutting through the camp’s ambient woodsmoke.
+
+*“Okay. Can’t move fast. Can barely move at all. Figure out what this is before it gets worse.”*
+
+The ash-and-smoke figure stepped closer, each movement smooth and deliberate, completely unaffected by whatever force was pinning Tatsuya to the ground like a bug under glass.
+
+“You’re the one who said we have bigger problems than fighting each other,” the voice said, and it didn’t come from one place, it came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore, resonating in his chest like a bass note he could feel more than hear.
+
+Tatsuya tried to push himself up again, his arm shaking with the effort, and managed to get one knee under him before the pressure doubled and shoved him back down, his cheek hitting dirt this time, taste of earth and old smoke filling his mouth.
+
+*“Can’t even stand. Can’t run. Whatever this is, I’m stuck in it.”*
+
+He forced his head up slightly, just enough to meet those burning green eyes through the haze, and tried to speak again, the words dragging out slow and heavy.
+
+“That’s... me,” Tatsuya managed, his voice coming out rougher than his own, each syllable taking twice as long as it should have.
+
+The figure, Shiv, the nameplate said, Spirit Echo, Level ???, stepped even closer, ash trailing behind him like smoke off a dying fire, and the temperature in the tent dropped noticeably, cold seeping through the canvas walls in a way that had nothing to do with the night air outside.
+
+“Calm yourself,” the voice said, quieter now, almost amused. “Calm yourself, T-Drag. If I meant to kill you, you’d already be dead. This is just what standing near me costs, for now.”
 
 *“He knows my handle. Not Tatsuya. T-Drag. He's reading it off whatever I'm running under, same as anyone else would.”*
 
-“That’s me,” Tatsuya said, forcing the words out from the floor, each one dragging half a second longer than it should have, his throat tight.
-
-Shiv stepped closer, ash trailing behind him like smoke off a dying fire, each movement smooth and deliberate, unaffected by whatever was slowing everything else in the tent. He moved like a man who'd had centuries to get good at being watched.
+Shiv stepped closer still, unaffected by whatever was slowing everything else in the tent. He moved like a man who'd had centuries to get good at being watched.
 
 *"Is this thing even scripted. Nobody codes idle animation this good for a quest NPC. Either somebody's puppeting this in real time or I need to stop assuming I know what AI in this game is actually capable of."*
 
@@ -218,19 +264,15 @@ The chat window was already moving, lines stacking too fast to read individually
 
 *“Yeah. In a second.”* “Hey,” he said out loud, quick, to whoever was actually watching, “thanks for pulling up. Give me a minute, this is a lot.” Then he turned back to the tent, because it was.
 
-The two guards at the tent flap staggered, their spears dropping half an inch, blinking hard against light that hadn’t actually changed but felt different to them now, their expressions confused, disoriented.
-
 A small notification had flickered in the corner of Tatsuya’s vision during all of it, easy to miss in the chaos of everything else.
 
 **[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
 
 He barely registered it. There wasn’t room left in his head for anything that wasn’t standing directly in front of him right now.
 
-The nearer guard’s eyes dropped from Tatsuya’s face to the necklace hanging at his throat, then tracked up to the white hair, and the flat, hostile line of his mouth came apart, confusion shifting into something closer to shock.
+Camp noise built fast outside the tent, goblins pulling up short mid-task, mid-stride, conversations cutting off as heads turned toward the tent entrance. A woman near one of the cooking fires actually dropped what she’d been holding, a wooden ladle clattering against stone. The nearest of them, a goblin who'd been mending a strap just outside the flap a moment ago, was already on his feet, eyes dropping from Tatsuya's face to the necklace at his throat, then tracking up to the white hair, his expression coming apart from wary curiosity into something closer to shock.
 
-“That’s—that’s not—” the guard started, his voice catching, and he stepped back instead of blocking the tent flap now, his whole posture changing from confrontational to deferential in the span of a single breath.
-
-Camp noise built fast outside the tent, goblins pulling up short mid-task, mid-stride, conversations cutting off as heads turned toward the tent entrance. A woman near one of the cooking fires actually dropped what she’d been holding, a wooden ladle clattering against stone.
+“That’s—that’s not—” he started, his voice catching, and stepped back instead of crowding the entrance, his whole posture shifting from casual to deferential in the span of a single breath.
 
 “When did he change?” somebody said, not quiet enough to be private, the words carrying across the open ground. “That’s not the same one they brought in yesterday.”
 
@@ -238,7 +280,7 @@ Camp noise built fast outside the tent, goblins pulling up short mid-task, mid-s
 
 “You’d have to know when your own elder walked into camp,” an older voice cut in, authoritative, cutting through the murmurs like a blade. “When did an elder come to Bloodhurst? Nobody said anything. Nobody told us.”
 
-Nobody had an answer for that, because there wasn’t one that made sense yet, not to anyone standing there watching, not to the guards who’d been stationed at his tent, not to the goblins staring openly now from their fires and their work.
+Nobody had an answer for that, because there wasn’t one that made sense yet, not to anyone standing there watching, not to the goblins staring openly now from their fires and their work.
 
 Tatsuya looked down at himself, still dressed in the same torn prisoner’s rags from the day before, one shoulder split halfway down the seam, nothing about his clothes matching what his hair and his skin and the bones rattling softly at his throat were telling everyone around him.
 
@@ -269,6 +311,12 @@ Sevish held Tatsuya’s gaze for a long moment, his scarred face unreadable, the
 “He’s coming with me,” Tatsuya said, nodding toward Ru, making it a statement, not a question.
 
 “Wouldn’t have said otherwise,” Sevish said, his hand coming up to rest briefly on Tatsuya’s shoulder, the grip firm and warm, carrying more weight than it had the day before. “Bring him. He’s earned that much today twice over, just by standing where he stood yesterday.” He stepped back, his expression settling into something more serious. “You’re an ally of Thrash. That held before any of this happened. It holds even more now.”
+
+“So the library,” Wyx said, tilting her head, something working behind her eyes. “If he already came to you himself, do we even still need it? Feels like a lot of risk for something Shiv could’ve just told you outright.”
+
+“He didn’t tell me anything about the library,” Tatsuya said. “Didn’t even bring it up. Whatever he wants me finding in there, he wants me finding it myself.” He turned the necklace over once in his fingers, the bones cool now that the heat of the bond had settled. “My guess, it’s not just about him. It’s about the rest of what he left behind. Pieces of him scattered somewhere, and Lunarest is where the trail starts.”
+
+Sevish's expression didn't change much, but something in it sharpened. “Then it still matters. More than it did yesterday, if that's true.” He glanced east once, toward the tree line, then back. “We're not sitting on Bloodhurst forever either way, understand that going in. We move for Myrrhwood before the new year turns over, expansion or not, this ground's not holding a warband our size much longer. Whatever you're doing in that city, you do it before we go. You're not chasing us down halfway across a continent to catch back up.”
 
 A quest notification pinged quietly in the corner of Tatsuya’s vision, easy to miss if he wasn’t paying attention.
 
