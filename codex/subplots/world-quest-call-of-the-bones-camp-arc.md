@@ -31,3 +31,9 @@ Infiltrate the restricted top three floors of the Grand Library of Lunarest (see
 ## Chapter 6 resolution, cross-reference
 
 The necklace bond, Shiv Goblin evolution, and Ru's founding blessing all land in Chapter 6 (see `codex/characters/shiv.md`, `codex/objects/call-of-the-bones-necklace.md`, `codex/lore/companion-troop-system.md`, `codex/characters/young-goblin-companion-candidate.md`). The chapter ends on interruption rather than the planned trip to Lunarest: a PK_Wraith raid on Bloodhurst's eastern line forces Tatsuya to log off before he can respond in person, see the revised `codex/characters/pk-wraith.md` for the corrected forward plot (no longer gated behind the rally event stopping).
+
+## Chapter 7 resolution, cross-reference
+
+Shiv coming to Tatsuya directly resolves the original "why go to the library at all" question, but doesn't retire the mission: Tatsuya reasons on the page that Shiv deliberately withheld anything library-specific, so whatever's there ties to the rest of Shiv's Warset scattered across the world (see `codex/objects/shivs-warset.md`), not just Shiv himself. Sevish locks in a real deadline on top of this: the Thrash clan leaves Bloodhurst for Myrrhwood before the Crystal League expansion launches (see `codex/lore/hgo-timeline-and-real-world-stakes.md`, `codex/locations/bloodhurst.md`), so Tatsuya has to finish his business in Lunarest and be back with the clan before they go, not an open-ended errand.
+
+**Forward plot, confirmed but deferred to Chapter 8, not written yet:** PK_Wraith's raiding party got farmed out across multiple defensive waves at Bloodhurst and stayed anyway, believing the camp was a "free farm spot" (already consistent with the corrected `codex/characters/pk-wraith.md` forward plot). Separately, Arya breaks her real-world deal with Tatsuya, see `codex/subplots/aryas-loop-discovery-and-reputation.md`. Neither resolves on the page in Chapter 7.

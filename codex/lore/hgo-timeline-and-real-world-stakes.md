@@ -8,6 +8,7 @@
 - Year two: an established pro scene, guilds, and sponsorships.
 - **"Tonight" (story present, December 10th, 2045, a Sunday, "Championship Sunday")** is effectively the second major championship, and the Crystal League expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Winter Bash (December 25th), six of which (roughly December 10th-16th) Chiyo and the twins spend away on their Kyoto trip, see `codex/subplots/tochi-academy-return.md`.
 - **Crystal League expansion launch date: January 1st**, a week after Winter Bash (December 25th). The universal character-lock (see `codex/pro-scene/tournaments-and-events.md`) triggers at this full launch, not at the announcement. Winter Bash sits in the gap between announcement and launch as a hype event exclusively for freshly-created characters built for the incoming season.
+- **Thrash clan's Myrrhwood departure, locked Chapter 7:** the Thrash clan leaves Bloodhurst for Myrrhwood before the new year turns over, i.e. before the Crystal League expansion launches. The two dates are deliberately tied, the clan's departure is timed to be settled in Myrrhwood by the time the expansion (and Myrrhwood's full separation into its own continent, see `codex/locations/bloodhurst.md`) actually lands. See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` for how this bears on Tatsuya's own Lunarest timeline.
 
 ## Real-world stakes — keep this simple, do not over-explain
 
