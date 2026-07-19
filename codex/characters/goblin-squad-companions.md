@@ -16,7 +16,7 @@ Steady, burn-scarred, controlled.
 
 ## Drosh
 
-Hobgoblin lieutenant, disciplined, tattooed. Uses a Physical Art called "Veil-Pierce Gaze" that lets Tatsuya scout through canvas walls, and "Silent Three Fang" as another named Physical Art. See `codex/combat/hand-to-hand.md` for both techniques and `codex/combat/physical-arts-overview.md` for Physical Arts as a mechanic.
+Hobgoblin lieutenant, disciplined, tattooed. Uses a Physical Art called "Veil-Pierce Gaze" that lets Tatsuya scout through canvas walls, and "Silent Three Fang" as another named Physical Art. See `codex/combat/way-of-the-fist.md` for both techniques and `codex/combat/physical-arts-overview.md` for Physical Arts as a mechanic.
 
 ## Mechanic tied to this squad
 

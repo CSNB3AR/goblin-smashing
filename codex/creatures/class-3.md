@@ -7,7 +7,7 @@ Dangerous, typically requires a party or a genuinely skilled/overleveled solo pl
 Identity: an oversized alpha wolf found in Valefrost's deep-winter regions, leads Ash Wolf packs (see `codex/creatures/class-1.md`) as an apex figure over them.
 
 - **Stats:** Power and Speed both very high, Courage high, Wisdom low-moderate (real pack leadership, not just instinct).
-- **Abilities:** Innate — commands nearby Ash Wolves, effectively adding their pack-coordination bonus to itself. Activated — Rending Howl, a Cryomancy-adjacent (see `codex/magic/cryomancy.md`) effect that slows everything in a wide radius.
+- **Abilities:** Innate — commands nearby Ash Wolves, effectively adding their pack-coordination bonus to itself. Activated — Rending Howl, a Book of Frost-adjacent (see `codex/magic/book-of-frost.md`) effect that slows everything in a wide radius.
 - **Rarity:** Rare.
 
 ## Bonecaller Wraith
@@ -15,7 +15,7 @@ Identity: an oversized alpha wolf found in Valefrost's deep-winter regions, lead
 Identity: a genuinely spirit-touched undead figure found near old battle sites and burial grounds, thematically adjacent to Shiv's own spirit-echo nature (see `codex/characters/shiv.md`) without being connected to him directly, a reminder that spirit-touched things in Eryndal aren't automatically benevolent.
 
 - **Stats:** Wisdom high (a real, if hostile, caster), Power moderate, Speed moderate, Courage irrelevant (doesn't rout).
-- **Abilities:** Activated — Umbral Arts-school effects (see `codex/magic/umbral-arts.md`) at a Tier 3-4 band. Innate — partially resistant to non-magical Physical Arts damage, genuinely requires a mixed-composition party to deal with cleanly.
+- **Abilities:** Activated — Book of the Veil-school effects (see `codex/magic/book-of-the-veil.md`) at a Tier 3-4 band. Innate — partially resistant to non-magical Physical Arts damage, genuinely requires a mixed-composition party to deal with cleanly.
 - **Rarity:** Rare.
 
 ## Emberback Wyrmling
@@ -23,7 +23,7 @@ Identity: a genuinely spirit-touched undead figure found near old battle sites a
 Identity: a young, not-yet-flightless drake found in volcanic/badland zones, the junior form of the Class IV Ashen Wyrm (see `codex/creatures/class-4.md`), already dangerous well before full maturity.
 
 - **Stats:** Power very high, Courage very high, Speed moderate, Wisdom low.
-- **Abilities:** Activated — Pyromancy-school breath effect (see `codex/magic/pyromancy.md`) at a Tier 3-4 band. Innate — Fire resistance, consistent with Drakekin's own racial resistance profile (see `codex/races/drakekin.md`), though unrelated in origin.
+- **Abilities:** Activated — Book of Embers-school breath effect (see `codex/magic/book-of-embers.md`) at a Tier 3-4 band. Innate — Fire resistance, consistent with Drakekin's own racial resistance profile (see `codex/races/drakekin.md`), though unrelated in origin.
 - **Rarity:** Rare.
 
 ## Deeproot Treant
@@ -31,7 +31,7 @@ Identity: a young, not-yet-flightless drake found in volcanic/badland zones, the
 Identity: an ancient, awakened tree found in Myrrhwood's oldest groves, slow to anger, genuinely dangerous once provoked.
 
 - **Stats:** Power extremely high, Speed very low, Courage doesn't apply (doesn't rout, doesn't flee).
-- **Abilities:** Innate — regenerates significantly while standing on natural (non-corrupted) ground. Activated — Root Cage, a wide-area Geomancy-adjacent (see `codex/magic/geomancy.md`) entrapment effect, a scaled-up version of the Grasping Vine-Beast's Root Snare (see `codex/creatures/class-1.md`).
+- **Abilities:** Innate — regenerates significantly while standing on natural (non-corrupted) ground. Activated — Root Cage, a wide-area Book of Stone-adjacent (see `codex/magic/book-of-stone.md`) entrapment effect, a scaled-up version of the Grasping Vine-Beast's Root Snare (see `codex/creatures/class-1.md`).
 - **Rarity:** Rare.
 
 ## Chitin Warlord

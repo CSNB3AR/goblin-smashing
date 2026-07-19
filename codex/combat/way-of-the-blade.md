@@ -1,4 +1,4 @@
-# Physical Arts — Sword
+# Way of the Blade (Physical Arts — Sword)
 
 The most common trained weapon in Eryndal, the default for anyone drilled by a formal academy or a city guard.
 

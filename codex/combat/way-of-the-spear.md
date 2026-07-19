@@ -1,4 +1,4 @@
-# Physical Arts — Spear
+# Way of the Spear (Physical Arts)
 
 Reach-focused Physical Arts, favors keeping an opponent at a controlled distance over closing in.
 

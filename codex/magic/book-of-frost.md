@@ -1,4 +1,4 @@
-# Cryomancy (Frost)
+# Book of Frost (Frost)
 
 Control-first, built around slowing a fight down rather than ending it fast. Common among casters trained in structured military or guild academies where patience gets drilled in early. Reads calculating, a caster who wants the fight to happen on their terms and is willing to wait for it.
 

@@ -1,4 +1,4 @@
-# Pyromancy (Fire)
+# Book of Embers (Fire)
 
 Aggressive, immediate, burst-damage-leaning. Casters who land here tend to come out of combat schools or self-taught trial-and-error rather than formal instruction, temperament matters more than pedigree. Reads hot-tempered and direct on the page: fast cast times, short cooldowns, little in the way of subtlety.
 

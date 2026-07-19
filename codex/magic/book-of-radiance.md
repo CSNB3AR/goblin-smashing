@@ -1,4 +1,4 @@
-# Radiance (Light)
+# Book of Radiance (Light)
 
 Healing and buff-leaning, the temple/school-trained school almost by default. Reads communal, a caster who thinks about a fight in terms of the whole party rather than themselves.
 

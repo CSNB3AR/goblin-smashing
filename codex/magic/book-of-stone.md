@@ -1,4 +1,4 @@
-# Geomancy (Earth)
+# Book of Stone (Earth)
 
 Durability and area denial, walls, terrain manipulation, the caster equivalent of a tank. Common among casters trained alongside heavy-armor classes or raised in settled, defensible communities (Dwarven holds especially, notwithstanding that Dwarves themselves are fully locked out of casting, see `codex/races/dwarf.md`, this is about who trains a caster, not who becomes one). Reads stubborn, immovable, built to outlast rather than outpace.
 

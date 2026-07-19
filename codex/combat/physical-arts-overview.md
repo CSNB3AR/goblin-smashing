@@ -16,11 +16,11 @@ Structured the same rough way the magic tier system is (`codex/magic/overview.md
 
 One file per category, each with a representative tiered move list (not exhaustive, flagged as expandable in each file):
 
-- `codex/combat/hand-to-hand.md`
-- `codex/combat/spear.md`
-- `codex/combat/sword.md`
-- `codex/combat/axe.md`
-- `codex/combat/bow-and-arrow.md`
+- `codex/combat/way-of-the-fist.md`
+- `codex/combat/way-of-the-spear.md`
+- `codex/combat/way-of-the-blade.md`
+- `codex/combat/way-of-the-axe.md`
+- `codex/combat/way-of-the-bow.md`
 
 ## Custom techniques: the martial-master rule
 
@@ -28,4 +28,4 @@ A Physical Arts practitioner isn't limited to the named techniques in the weapon
 
 ## Cross-references
 
-The Physical Arts bullet this folder was split out of: `codex/lore/preserved-misc-mechanics.md`. Drosh's two existing named techniques (Veil-Pierce Gaze, Silent Three Fang) now live in `codex/combat/hand-to-hand.md`.
+The Physical Arts bullet this folder was split out of: `codex/lore/preserved-misc-mechanics.md`. Drosh's two existing named techniques (Veil-Pierce Gaze, Silent Three Fang) now live in `codex/combat/way-of-the-fist.md`.

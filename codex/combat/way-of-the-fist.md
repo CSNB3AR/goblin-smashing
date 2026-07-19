@@ -1,4 +1,4 @@
-# Physical Arts — Hand-to-Hand
+# Way of the Fist (Physical Arts — Hand-to-Hand)
 
 Unarmed and improvised-weapon combat. The default category for races or characters without a signature weapon yet, and Ru's own path (see `codex/characters/young-goblin-companion-candidate.md`).
 

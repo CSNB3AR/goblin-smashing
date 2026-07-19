@@ -31,7 +31,7 @@ Identity: a small, flightless drake found in rocky highlands, territorial rather
 Identity: a small, crudely-formed stone construct, not a true golem, found guarding old ruins, slow but genuinely hard to put down.
 
 - **Stats:** Power high, Speed very low, Wisdom irrelevant (mechanical, not truly sentient).
-- **Abilities:** Innate — high physical damage resistance, weak specifically to Geomancy-school effects (see `codex/magic/geomancy.md`) and to Physical Arts strikes aimed at visible seams. Activated — Slam, a slow but heavy melee hit.
+- **Abilities:** Innate — high physical damage resistance, weak specifically to Book of Stone-school effects (see `codex/magic/book-of-stone.md`) and to Physical Arts strikes aimed at visible seams. Activated — Slam, a slow but heavy melee hit.
 - **Rarity:** Uncommon.
 
 ## Riftling Sprite

@@ -24,17 +24,17 @@ See `codex/magic/tier-reference.md` for representative basic spells at each tier
 
 Reframes what used to be called "affinities" as named schools, same underlying mechanical system, no locked mechanics changed, just given real identity and a real skill tree each:
 
-- `codex/magic/pyromancy.md` (Fire)
-- `codex/magic/cryomancy.md` (Frost)
-- `codex/magic/stormcraft.md` (Storm)
-- `codex/magic/geomancy.md` (Earth)
-- `codex/magic/radiance.md` (Light)
-- `codex/magic/umbral-arts.md` (Dark, includes Tatsuya's own Shaman's Veil path as a unique variant)
-- `codex/magic/arcanism.md` (Arcane-neutral, no elemental lean)
+- `codex/magic/book-of-embers.md` (Fire)
+- `codex/magic/book-of-frost.md` (Frost)
+- `codex/magic/book-of-tempest.md` (Storm)
+- `codex/magic/book-of-stone.md` (Earth)
+- `codex/magic/book-of-radiance.md` (Light)
+- `codex/magic/book-of-the-veil.md` (Dark, includes Tatsuya's own Shaman's Veil path as a unique variant)
+- `codex/magic/book-of-the-arcane.md` (Arcane-neutral, no elemental lean)
 
 ## How a caster ends up in a school
 
-Not a hard racial lock, no race is pre-assigned a school. It comes from background, temperament, and who actually trains a character, if anyone, once they pursue a school seriously. A caster raised in a temple leans Radiance almost by osmosis. A battlefield-taught caster with no formal school often lands Arcanism, generalist by necessity, nobody around to specialize them into anything else. A school isn't chosen from a menu at character creation, it emerges from how a character actually comes into their power.
+Not a hard racial lock, no race is pre-assigned a school. It comes from background, temperament, and who actually trains a character, if anyone, once they pursue a school seriously. A caster raised in a temple leans Radiance almost by osmosis. A battlefield-taught caster with no formal school often lands Book of the Arcane, generalist by necessity, nobody around to specialize them into anything else. A school isn't chosen from a menu at character creation, it emerges from how a character actually comes into their power.
 
 ## Two named mechanics
 

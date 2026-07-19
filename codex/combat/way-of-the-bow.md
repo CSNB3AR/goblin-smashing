@@ -1,4 +1,4 @@
-# Physical Arts — Bow and Arrow
+# Way of the Bow (Physical Arts — Bow and Arrow)
 
 Ranged Physical Arts, Speed/Wisdom-adjacent precision work rather than raw Power. Wyx's category (see `codex/characters/wyx-thrash.md`).
 

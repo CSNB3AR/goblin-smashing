@@ -1,4 +1,4 @@
-# Physical Arts — Axe
+# Way of the Axe (Physical Arts)
 
 Heavy, momentum-driven Physical Arts, favors committed swings over quick exchanges.
 

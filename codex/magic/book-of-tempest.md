@@ -1,4 +1,4 @@
-# Stormcraft (Storm)
+# Book of Tempest (Storm)
 
 Mobility and disruption, lightning/wind-flavored, favored by casters who came up fast and loose, self-taught duelists, open-world PvP veterans. Reads erratic and hard to pin down, the school with the least patience for a drawn-out fight.
 
