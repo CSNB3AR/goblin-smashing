@@ -354,10 +354,6 @@ The chat window was a blur now, too fast to track.
 
 Tatsuya looked down at himself, still dressed in the same torn prisoner rags, nothing about his clothes matching what his hair and his skin and the bones rattling softly at his throat were telling him had just happened.
 
-**[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
-
-He barely registered it. There wasn’t room left in his head for anything that wasn’t standing directly in front of him right now.
-
 Tatsuya stepped up to the entrance, close enough now that both guards could see him, and both of them went completely still.
 
 The nearer guard’s eyes dropped from Tatsuya’s face to the necklace hanging at his throat, then tracked up to the white hair, and the flat, hostile line of his mouth came apart, confusion shifting into something closer to shock.
@@ -420,7 +416,7 @@ Sevish held Tatsuya’s gaze for a long moment, then let out a breath that was m
 
 They’d barely taken three steps toward the war tent when Leon’s voice crackled through, distant and tinny.
 
-“Hey, sorry to jump back in,” Leon said. “External monitors started overheating on me, all the streaming load, probably. I’ve got an override running to keep it from shutting down outright, but that’s a patch, not a fix. VRSA’s inspector is swinging back to look at it properly. Gonna need to step away for maybe five, ten minutes, give it a chance to cool.”
+“Hey, sorry to jump back in,” Leon said, “but I’m gonna need to step away for a bit.” A beat, like he was deciding how much to explain. “External monitors started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that’s a patch, not a fix. VRSA’s inspector is swinging back to look at it properly.”
 
 *“He’s been quiet this whole time. Didn’t say a word during the Shiv scene, didn’t chime in with anyone on his side either.”*
 
@@ -433,6 +429,10 @@ They’d barely taken three steps toward the war tent when Leon’s voice crackl
 “Appreciate it,” Leon said. “Back shortly.”
 
 The line went quiet.
+
+**[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
+
+He barely registered it. There wasn’t room left in his head for anything that wasn’t standing directly in front of him right now.
 
 Tatsuya followed Sevish and Wyx through the open ground, Ru close at his shoulder, goblins parting around them as they moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
 
