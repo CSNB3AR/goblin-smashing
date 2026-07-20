@@ -22,7 +22,7 @@ A notification blinked into existence at the edge of his vision, soft green text
 
 **[EFFECT: GRANTS USER 50% EXPERIENCE BUFF FOR ONE HOUR DUE TO SLEEPING IN A SAFE AREA]**
 
-*“So sleeping on a bedroll in a busted tent counts as safe for a goblin. That’s almost insulting.”* He let out a short breath that might’ve been a laugh, sitting up slow, straw crackling louder under the shift in weight. *“Buff procs once a day for an hour. Gotta make sure when I log off I’m somewhere I can actually get it.”*
+*“So sleeping on a bedroll in a busted tent counts as safe for a goblin. That’s almost insulting.”* He let out a short breath that might’ve been a laugh, sitting up slow, straw crackling louder under the shift in weight. *“Buff procs once a day for an hour. Gotta make sure when I log off I’m somewhere I can actually get it. Also be smart about when I log back in, don't want to waste it on camp cleanup or running errands.”* *“Whatever comes out of today needs to actually be worth something once I log off. Not just XP.”*
 
 He scanned the tent, letting his eyes adjust to the dim lamplight. Still wearing the same torn prisoner rags he’d been thrown in here with, one shoulder split halfway down the seam, the fabric rough and scratchy against his green skin. The empty Goblin Gadget Belt sat at his waist, pouches hanging limp with nothing loaded yet.
 
@@ -32,7 +32,7 @@ The smaller goblin, the one he’d stepped in for yesterday, was sitting near th
 
 The kid looked up the second Tatsuya’s presence fully resolved, scrambling to his feet before either of them had said anything, his whole posture eager in a way that hit harder than Tatsuya expected.
 
-*“Guess Sevish and the others threw him in here too.”* Something about that landed strange, heavier than it should have for a fact this small.
+*“Guess Sevish and the others threw him in here too. Or he just stayed.”* Something about that landed strange, heavier than it should have for a fact this small.
 
 “You woke up,” the kid said, his voice pitched slightly too high, cracking on the last word like he’d been holding his breath and hadn’t let it out yet.
 
@@ -46,23 +46,29 @@ The kid opened his mouth to answer, and froze mid-breath.
 
 Not like he’d stopped talking. Like someone had paused him mid-frame, his whole body locking in place, one hand still halfway raised toward Tatsuya, his eyes still open but not seeing anything anymore.
 
-“Hey, you okay…” Tatsuya asked before glancing back over his shoulder.
+“Hey, you okay?” Tatsuya asked, pushing himself up off the bedroll, straw scattering as his weight shifted. He took a step toward the kid, then stopped.
 
-The tent was now frozen still.
+The kid wasn’t breathing. Wasn’t blinking. Just frozen, completely still, like a screenshot had replaced the NPC mid-animation.
+
+*“Everyone’s frozen. Just me moving. That’s not lag, my frame rate’s fine. This is something else.”*
 
 The air changed before he saw anything.
 
-A shift in pressure that had no sound attached to it, thick enough that he felt it press against his skin like an invisible hand closing around him. Every noise outside the tent cut off as well, the kind of quiet that made his pulse kick up hard before his brain had even caught up to why.
+A shift in pressure that had no sound attached to it, thick enough that he felt it press against his skin like an invisible hand closing around him. Every noise outside the tent cut off at once, mid-word, mid-motion, the whole camp going silent in a way that wasn’t natural, wasn’t right, the kind of quiet that made his pulse kick up hard before his brain had even caught up to why.
 
 A notification popped at the edge of his vision, red-bordered.
 
 **[WARNING: ANOMALOUS EFFECT DETECTED]**
 
-Ash and smoke poured in through the gap in the tent flap, moving slow and deliberate, coiling inward and upward like it was being shaped by something with intent rather than just drifting. A wide-brimmed hat formed first out of the smoke.
+*“Anomalous. Game doesn’t use that word for standard debuffs. This is something it doesn’t have a name for yet.”*
+
+Ash and smoke poured in through the gap in the tent flap, moving slow and deliberate, coiling inward and upward like it was being shaped by something with intent rather than just drifting. A wide-brimmed hat formed first out of the smoke, solid and detailed, then shoulders, broad and hunched, then burning green eyes that didn’t blink, didn’t waver, just stared straight at him with an intensity that made his breath catch.
 
 **[SHIV – SPIRIT ECHO – LEVEL ???]**
 
-The nameplate read gold.
+The nameplate read gold, not white, not red, not anything Tatsuya had seen on any other NPC or player since he’d spawned, a color the game reserved for things he had no business being anywhere near yet.
+
+*“Gold tag. Three question marks. That’s either a world boss or a GM fucking with me.”*
 
 The kid behind him had gone completely still.
 
@@ -76,6 +82,8 @@ Three notifications stacked on top of each other in rapid succession, each one f
 
 **[STATUS: SLOWED x4]**
 
+**[CAUSE: PROXIMITY TO HIGH-LEVEL PRESENCE]**
+
 The floor came up and hit him before he’d registered falling, his knees buckling hard, one clawed hand slapping flat against packed dirt to keep his face out of it.
 
 The impact jarred up through his wrist, sharp and immediate, and he tried to push himself back up but his body wasn’t answering right, everything dragging like he was moving through water.
@@ -84,7 +92,7 @@ The impact jarred up through his wrist, sharp and immediate, and he tried to pus
 
 He tried to speak and his mouth moved half a second late, the words coming out sluggish and wrong.
 
-“…what type of skill is this…”
+*“Slowed times four. That’s not a debuff I can cleanse. That’s just the game telling me I’m in proximity to something way above my weight class.”*
 
 This felt like a pressure that didn’t push so much as it simply decided where his body was allowed to be and where it wasn’t, an authority his goblin frame had no way to resist.
 
@@ -94,67 +102,125 @@ Half expecting to see it dropping, he made himself glance at his health anyway.
 
 **[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
 
-“It just slowed me down,” Tatsuya muttered against the dirt. “I still have my health… just can’t move in this fucking thing.”
+“It just slowed me down,” Tatsuya muttered against the dirt. “Still have full health. Not taking damage from this, just can’t move in it.”
 
 The ash-and-smoke figure stepped closer, each movement smooth and deliberate, completely unaffected by whatever force was pinning Tatsuya to the ground like a bug under glass.
 
-“What… do you want from me…” his words could barely come out as he looked up at the silhouette.
+“What do you want from me?” Tatsuya managed, forcing his head up slightly, just enough to meet those burning green eyes through the haze. The words came out slower than he meant them to, dragging against the air.
 
 “You’re the one who said we have bigger problems than fighting each other,” the voice said, and it didn’t come from one place, it came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore, resonating in his chest like a bass note he could feel more than hear.
 
+*“That’s not a voice line. That’s not a canned response. He’s quoting something I said yesterday, word for word, in a context that had nothing to do with him.”*
+
 Tatsuya tried to push himself up again, his arm shaking with the effort, and managed to get one knee under him before the pressure doubled and shoved him back down, his cheek hitting dirt this time, taste of earth and old smoke filling his mouth.
 
-“Can’t even stand. Dammit.”
+*“Can’t even stand. Either this is scripted as hell or this NPC’s actually reacting to me trying to move.”*
 
-“If you’re gonna kill me just do it and stop fucking off about it,” he managed, forcing his head up slightly, just enough to meet those burning green eyes through the haze.
+“If you’re gonna kill me just do it and stop fucking around,” Tatsuya said, forcing the words out even through the drag, his pulse hammering, real adrenaline spiking even though he knew this was VR, knew he couldn’t actually die out here in any way that mattered.
 
-The figure, Shiv, the nameplate said, Spirit Echo, Level ???, stepped even closer, ash trailing behind him like smoke off a dying fire, and the temperature in the tent dropped noticeably, cold seeping through the canvas walls in a way that had nothing to do with the night air outside.
+The figure, Shiv, the nameplate said, Spirit Echo, Level ???, stepped even closer, ash trailing behind him like smoke off a dying fire, and the temperature in the tent dropped noticeably, cold seeping through the canvas walls in a way that had nothing to do with the night air outside, sharp enough that Tatsuya felt it prickle across his skin.
 
-“Calm yourself,” the voice said, quieter now, almost amused. “Calm yourself, T-Drag, or can I call you T, seems easier on my tongue. If I meant to kill you, you’d already be dead. This is just what standing near me costs, for now.”
+“Calm yourself,” the voice said, quieter now, almost amused. “Calm yourself, T-Drag, or can I call you T? Seems easier on my tongue. If I meant to kill you, you’d already be dead. This is just what standing near me costs, for now.”
 
-*“He knows my name and nicknamed me… is he really an NPC.”*
+Tatsuya’s mind went completely still for half a second, the kind of still that came right before a decision landed hard.
 
-Shiv stepped closer still, unaffected by whatever was slowing everything else in the tent. He moved like a man who’d had centuries to get good at being watched.
+*“He knows my username. And he just shortened it on his own, like we’re having a real conversation. NPCs don’t do that. They don’t adapt dialogue mid-sentence. They read a script and they stick to it.”*
 
-*“Either somebody’s puppeting him in real time or I need to stop assuming I know what NPC in this game is actually capable of… need to start treating this as real if I’m expected to survive it.”*
+He tried to catalog what he was seeing, what he was hearing, running it against everything he knew about how this game was supposed to work. Standard NPCs had set dialogue trees, branching paths you could predict once you’d seen them once. They responded to keywords, to quest flags, to proximity triggers. They didn’t quote you back to yourself. They didn’t nickname you. They didn’t pause for effect or modulate tone like they were reading a room.
 
-“What do you even want from me…” Tatsuya managed.
+*“Either somebody’s puppeting him in real time, like a GM running an event, or the AI in this game is way more advanced than anything I’ve read about on the forums. And if it’s the second one, I need to stop assuming I know what NPC in this game actually means.”*
 
-“I don’t have much time to talk,” Shiv said, “so I’ll get to it. You should know what you’re actually about to carry.”
+Shiv stepped closer still, unaffected by whatever was slowing everything else in the tent. He moved like a man who’d had centuries to get good at being watched, deliberate in a way that felt theatrical but not fake, like he knew exactly how much presence he was carrying and was using every bit of it.
 
-“I’m listening,” Tatsuya said, pushing himself back up onto one knee.
+*“Okay. He’s reading like a real person. Treating this like it’s real might be the only way I survive it.”*
 
-A small notification ticked in the corner of his vision, easy to miss against everything else. **[VIEWERS: 3 → 11]** Then, a breath later, **[VIEWERS: 11 → 24]**. Whatever the stream feed was actually showing, ash and smoke and a goblin flat on the ground in front of something with a gold nameplate and no level number, it was enough. The Call of the Bones tag never left his HUD. He didn't have the attention to spare on it right now. He filed it away and stayed on his knee, eyes on Shiv.
+“What do you even want from me?” Tatsuya asked, pushing himself back up onto one knee, his clawed hand braced flat against the dirt for balance.
 
-“I wasn’t always this,” Shiv said, and something almost like a dry laugh moved through the ash, humorless, tired. “I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest’s own court, back when that meant something.” The green eyes didn’t blink, didn’t move, just burned steady in the smoke. “I loved a queen who wasn’t mine to love. The king didn’t take kindly to that once it came out, and his court’s mages made sure I understood it. What they did to me for it, they didn’t call it a curse. They called it a correction.”
+“I don’t have much time to talk,” Shiv said, and the tone shifted slightly, became more measured, like he was working under a constraint he hadn’t mentioned yet. “So I’ll get to it. You should know what you’re actually about to carry.”
+
+“I’m listening,” Tatsuya said, his weight shifting slightly on his knee, trying to find a position that didn’t make his legs shake from holding himself up against the drag.
+
+A small notification ticked in the corner of his vision, easy to miss against everything else. **[VIEWERS: 3 → 11]** Then, a breath later, **[VIEWERS: 11 → 24]**.
+
+*“Stream’s live. People are watching this. Whatever the feed’s showing, ash and smoke and a goblin on the ground in front of something with a gold nameplate and no level, it’s enough. Not money yet. Not until I clear whatever threshold actually pays out. But eyes are eyes, and right now nobody else has a reason to be looking my way.”*
+
+The Call of the Bones tag never left his HUD. He didn't have the attention to spare on chat right now, but he caught it, the number climbing, questions piling up in his peripheral vision he couldn't answer yet. He filed it away and stayed on his knee, eyes on Shiv.
+
+“I wasn’t always this,” Shiv said, and something almost like a dry laugh moved through the ash, humorless, tired.
+
+*“Backstory dump. Okay. Either this is a cutscene or he’s actually telling me his history. Can’t skip it either way, might as well listen.”*
+
+“I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest’s own court, back when that meant something.” The green eyes didn’t blink, didn’t move, just burned steady in the smoke. “I loved a queen who wasn’t mine to love. The king didn’t take kindly to that once it came out, and his court’s mages made sure I understood it. What they did to me for it, they didn’t call it a curse. They called it a correction.”
 
 He gestured, vague and dismissive, at his own ash-and-smoke form, the shape of him flickering slightly at the edges.
 
-“As you can see, this is how the curse changed me, changed my whole way of thinking, that’s for sure,” Shiv continued. “A lot of dirt the kingdom doesn’t want dug back up. I wasn’t the first they’d done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I’d been alive. They just ran me out to join them.” A pause, something drier creeping into his tone. “Understand, the court that cast me out wasn’t righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I’m not interested in playing the villain of that story just to sound humble.”
+*“Love story. Political fallout. Got cursed for it. That tracks with high-fantasy NPC lore, nothing I haven’t seen in other games.”*
 
-*“That’s a lot more than ‘spirit echo, level unknown.’”* Tatsuya’s mind was racing, cataloging every word, every detail, knowing this wasn’t something he’d get to hear twice.
+“As you can see, this is how the curse changed me, changed my whole way of thinking, that’s for sure,” Shiv continued. “A lot of dirt the kingdom doesn’t want dug back up. I wasn’t the first they’d done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I’d been alive. They just ran me out to join them.”
+
+He paused, and something in the pause felt deliberate, like he was waiting for Tatsuya to react, to ask a follow-up, to do something other than just sit there taking it in.
+
+*“He’s watching me. Waiting for a response. That’s not scripted behavior. Scripted NPCs don’t pause for player input unless you’re at a dialogue branch.”*
+
+Tatsuya didn’t say anything yet, just kept his eyes on Shiv, trying to read what was actually happening here underneath the lore dump.
+
+“Understand,” Shiv said, his voice dropping slightly, becoming more pointed, “the court that cast me out wasn’t righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I’m not interested in playing the villain of that story just to sound humble.”
+
+*“Okay, that’s not a standard NPC line. That’s self-awareness about how the story reads from the outside. He’s framing his own narrative like he knows I’m gonna judge it.”*
+
+Tatsuya’s pulse was still hammering, his mind running three calculations at once. Was this scripted? Was someone watching his feed and typing responses in real time? Was the AI actually this good and he’d just never seen it pushed this far before?
+
+*“Can’t tell yet. Keep listening. Test it when I get a chance to talk back.”*
 
 “There’s more to it than that,” Shiv said, his tone shifting slightly, becoming more deliberate. “How I managed to hold the goblin clans together at all, that part you’ll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn’t. I leave what’s left of my Warset to any goblin with an open mind enough to go looking for it.”
 
-“Alright,” Tatsuya said, his voice steadier now even through the drag. “So why me?”
+*“Warset. That’s the gear chain tied to the World Quest. He’s not just backstory, he’s the quest-giver too. Which means whatever happens in this tent decides whether the last few days actually add up to something, or whether I’m back to square one the second I log off.”*
 
-“Because my reach is fading, and you’re the only one who’s shown me the same kind of wisdom I had, once,” Shiv said, and the ash flickered again, just once, like a candle guttering in wind. “I’ve done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That’s not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds. What I’m asking isn’t small, either. It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you’re at it. But that takes disciples.”
+“Alright,” Tatsuya said, his voice steadier now even through the drag, testing the waters. “So why me? You’ve got a whole camp of goblins out there. Why pull me in here specifically?”
+
+Shiv’s burning green eyes stayed locked on Tatsuya’s face, unblinking, and for a second Tatsuya thought he’d broken something, asked a question the script didn’t have an answer for.
+
+Then Shiv spoke, and the answer came fast, fluid, like he’d been waiting for exactly that question.
+
+“Because my reach is fading, and you’re the only one who’s shown me the same kind of wisdom I had, once,” Shiv said, and the ash flickered again, just once, like a candle guttering in wind. “I’ve done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That’s not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds.”
+
+*“He answered the question. Not with a generic line, with something that ties back to what I did yesterday. He’s tracking my actions across sessions.”*
+
+Tatsuya’s jaw tightened slightly, his mind working faster now, running the implications.
+
+*“Either this is the most advanced AI I’ve ever seen in a game, or there’s a person on the other end of this. And if it’s a person, that means someone at Nexus Enterprises is watching me specifically, right now, running this interaction live. Which means I’m either being tested or I stumbled into something I wasn’t supposed to find yet.”*
+
+“What I’m asking isn’t small, either,” Shiv continued, his voice steady, measured, like he was laying out terms for a contract rather than just talking. “It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you’re at it. But that takes disciples.”
 
 His eyes moved past Tatsuya, settling on the kid frozen mid-step by the tent flap, one hand still reaching for canvas that wasn’t moving.
 
-“That one’s already halfway there without knowing it,” Shiv said, something almost warm creeping into his tone. “I’d like your permission before I go any further with him. He’s yours to vouch for, not mine.”
+“That one’s already halfway there without knowing it,” Shiv said, something almost warm creeping into his tone, enough that Tatsuya clocked it immediately as a shift in affect, deliberate or not. “I’d like your permission before I go any further with him. He’s yours to vouch for, not mine.”
+
+*“Permission. He’s asking me, not telling me. That’s player agency. Standard quest NPCs don’t ask permission, they just trigger the next step if you accept the quest.”*
 
 Tatsuya looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness, and something in his chest tightened.
 
-“Yeah,” Tatsuya said, turning back to Shiv. “I’m down.”
+*“If this is real, if this kid’s about to get dragged into something because I said yes, then I need to actually mean it. Can’t just click through a dialogue tree and hope it works out.”*
 
-Shiv nodded once, slow and deliberate, and turned his full attention back to Tatsuya.
+He turned back to Shiv, met those burning green eyes, and made the call.
 
-“You will need this,” Shiv said, raising one hand, and a necklace materialized in the air between them, small bones threaded on a worn leather cord, each one carved with symbols Tatsuya didn’t recognize, intricate patterns that seemed to shift slightly in the flickering light. It hung there, suspended, waiting, not moving despite there being no visible string holding it up.
+“Yeah,” Tatsuya said. “I’m down.”
 
-“This was mine,” Shiv said. “Piece of what I was, before and after the change. You wear it, you’re not just a goblin anymore. You’re something closer to what I used to be, what I tried to make of myself after they cast me out. Do you want that? Say it plain. I won’t take the choice from you.”
+Shiv nodded once, slow and deliberate, the motion weighted in a way Tatsuya couldn’t quite name, like the nod itself mattered more than just acknowledgment.
 
-*“World-tier item. This is what everyone’s going to be hunting for the second word gets out that it exists.”* Tatsuya’s mind ran the calculation fast, weighing risk against reward, knowing the answer before he’d even finished the thought. *“Doesn’t matter. Wasn’t going to say no.”*
+*“He’s reacting to my tone. I didn’t just say yes, I said I’m down, casual, and he read it as agreement anyway. That’s context parsing. NPCs don’t do that.”*
+
+Shiv turned his full attention back to Tatsuya, raising one hand, and a necklace materialized in the air between them, small bones threaded on a worn leather cord, each one carved with symbols Tatsuya didn’t recognize, intricate patterns that seemed to shift slightly in the flickering light. It hung there, suspended, waiting, not moving despite there being no visible string holding it up.
+
+*“Item spawn. Okay. That’s standard for quest rewards. But the presentation’s different. He’s not just handing it over, he’s making me choose to take it.”*
+
+“This was mine,” Shiv said, his voice dropping lower, more personal. “Piece of what I was, before and after the change. You wear it, you’re not just a goblin anymore. You’re something closer to what I used to be, what I tried to make of myself after they cast me out. Do you want that? Say it plain. I won’t take the choice from you.”
+
+*“World-tier item. This is what everyone’s gonna be hunting for the second word gets out. And he’s making me verbally confirm I want it instead of just accepting a quest prompt. Bound, so it’s not money in my pocket. But everything that comes with it might be worth more than the item ever would have sold for.”*
+
+Tatsuya’s mind ran the calculation fast, weighing risk against reward, knowing the answer before he’d even finished the thought.
+
+*“If this is a trap, it’s already sprung. If it’s real, I’d be stupid to say no. Either way, I’m in too deep to back out now.”*
 
 “I want it,” Tatsuya said, his voice clear, deliberate. “Yes.”
 
@@ -164,15 +230,19 @@ Tatsuya reached out, slow, his clawed hand moving through the dragging resistanc
 
 The second his skin touched the bones, the world tilted.
 
-Heat flooded through him, not painful but overwhelming, like something was unraveling him from the inside out and stitching him back together in the same breath. His vision whited out completely for half a second, every sense overloading at once, and when it came back everything felt different, lighter, sharper, clearer, like someone had turned up the resolution on the entire world.
+Heat flooded through him, not painful but overwhelming, like something was unraveling him from the inside out and stitching him back together in the same breath. His vision whited out completely for half a second, every sense overloading at once, sound and smell and touch all spiking past what his brain could process, and when it came back everything felt different. Lighter. Sharper. Clearer. Like someone had turned up the resolution on the entire world and he was seeing it for the first time.
 
 **[FLAMONTA – EXPIRED]**
+
+*“Debuff’s gone. I can move again. Whatever that necklace just did, it countered the slow effect.”*
 
 His legs answered immediately, clean and responsive, the drag gone the second the bond took hold.
 
 He caught his reflection in the water barrel near the tent entrance, the surface still enough to throw back a clear image.
 
 His hair had gone white. Not gray, not silver, pure white, falling loose around his face in a way that looked wrong next to the green skin he’d had that morning. Except his skin had shifted too, the green a shade lighter now, paler at the edges, less like the camp-standard goblin coloring he’d spawned with and more like something caught in between, neither fully one thing nor the other.
+
+*“Character model just changed. Mid-session. That’s not supposed to happen outside of a class promotion or a race evolution, and I didn’t trigger either of those manually.”*
 
 The notifications came fast, stacking on top of each other in his vision.
 
@@ -208,7 +278,9 @@ He put four points into Wisdom and the remaining six into Fortune, didn’t touc
 
 He stared at the race evolution line the longest, the words sitting there in clean white text.
 
-*“Shiv Goblin. Whispers of Shiv. Never heard of that before today.”* Not the same evolution tag as a straight Hobgoblin, near as he could tell, but every camp goblin who'd ever laid eyes on one of Shiv's own marked descendants would read it the same way, an elder standing in a Hobgoblin's kind of weight class whether the system called it that or not.
+**[SHIV GOBLIN]**
+
+*“Never heard of that before today. Not on any wiki. Not in any patch note. Either this is brand new content nobody’s found yet, or it’s so rare nobody’s documented it.”* Not the same evolution tag as a straight Hobgoblin, near as he could tell, but every camp goblin who'd ever laid eyes on one of Shiv's own marked descendants would read it the same way, an elder standing in a Hobgoblin's kind of weight class whether the system called it that or not.
 
 He pulled up the passive description.
 
@@ -218,17 +290,21 @@ He pulled up the passive description.
 
 **[ABILITY GRANTED: CALL OF COMMAND]**
 
-*“One slot.”* He glanced past Shiv’s fading form at the kid, still frozen mid-reach toward the tent flap. *“Guess I already know who that’s for.”*
+*“One companion slot. And an ability called Call of Command. That’s not a standard goblin passive. That’s unique to this evolution.”* He glanced past Shiv’s fading form at the kid, still frozen mid-reach toward the tent flap. *“Guess I already know who that slot’s for.”*
 
 “Him first,” Shiv said, like he’d heard the thought, and Tatsuya wasn’t entirely sure he hadn’t. “Watch.”
 
+*“He’s responding to something I didn’t say out loud. Either he’s reading my UI, which NPCs aren’t supposed to be able to do, or he’s making an educated guess based on context. Either way, that’s not normal.”*
+
 Shiv raised one hand toward the kid, deliberate and slow, and the freeze broke around him alone, a small, localized release in whatever invisible force was holding the rest of the tent and the camp beyond it completely still. The kid staggered forward half a step, blinking hard, his breath coming fast like he’d just surfaced from underwater, suddenly the only other thing in the entire world that was moving besides Tatsuya and Shiv.
 
-“Wh… what…” the kid started, his voice cracking halfway through the word.
+“Wh… what…” the kid started, his voice cracking halfway through the word, eyes wide and unfocused.
 
 “Your name,” Shiv said, his tone gentle but firm, not unkind. “I’ll need it for this to take properly.”
 
 The kid opened his mouth, and nothing came out. His lips moved, his throat worked, but no sound followed, and Tatsuya realized with a cold, sinking certainty that the kid didn’t have a name, not a real one, not one that had ever stuck, not one anyone in this camp had ever bothered giving him or using if they had.
+
+*“NPC with no assigned name tag. That’s rare but it happens. Usually means they’re generic filler, not a named character. But Shiv’s treating him like he matters.”*
 
 “Runt,” Tatsuya said, the word coming out before he’d fully decided to say it, instinct more than thought. It caught halfway through his own mouth, the sound folding into something shorter, cleaner. “Ru. That’s what I’m calling him. Ru.”
 
