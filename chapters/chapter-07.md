@@ -416,7 +416,7 @@ Sevish held Tatsuya’s gaze for a long moment, then let out a breath that was m
 
 They’d barely taken three steps toward the war tent when Leon’s voice crackled through, distant and tinny.
 
-“Hey, sorry to jump back in,” Leon said, “but I’m gonna need to step away for a bit.” A beat, like he was deciding how much to explain. “External monitors started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that’s a patch, not a fix. VRSA’s inspector is swinging back to look at it properly.”
+“Hey, sorry to jump back in,” Leon said, “but I’m gonna need to step away for a bit.” A beat, like he was deciding how much to explain. “External monitors started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that’s a patch, not a real fix. VRSA’s inspector is swinging by to check on it, but he can’t actually work on it while you’re still connected, live monitoring gear doesn’t come down mid-dive. Just checking it’s still holding for now.”
 
 *“He’s been quiet this whole time. Didn’t say a word during the Shiv scene, didn’t chime in with anyone on his side either.”*
 
