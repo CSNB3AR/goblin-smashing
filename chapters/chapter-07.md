@@ -72,7 +72,7 @@ Three notifications stacked on top of each other in rapid succession, each one f
 
 **[WARNING]** **[WARNING]** **[WARNING]**
 
-**[YOU HAVE BEEN STRUCK BY FLAMONTA — WORLD-LEVEL EFFECT]**
+**[YOU HAVE BEEN STRUCK BY FLAMONTA – WORLD-LEVEL EFFECT]**
 
 **[STATUS: SLOWED x4]**
 
@@ -90,7 +90,7 @@ This felt like a pressure that didn’t push so much as it simply decided where 
 
 His vision swam slightly at the edges, colors bleeding together, and he forced himself to breathe slow through his nose, trying to ground himself in something real, the smell of smoke and old canvas, the rough texture of packed dirt under his palm, the faint metallic tang of his own sweat cutting through the camp’s ambient woodsmoke.
 
-He forced himself to glance at his health, half expecting to see it dropping.
+Half expecting to see it dropping, he made himself glance at his health anyway.
 
 **[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
 
@@ -118,7 +118,7 @@ Shiv stepped closer still, unaffected by whatever was slowing everything else in
 
 *“Either somebody’s puppeting him in real time or I need to stop assuming I know what NPC in this game is actually capable of… need to start treating this as real if I’m expected to survive it.”*
 
-“What do you want from then…” Tatsuya managed.
+“What do you even want from me…” Tatsuya managed.
 
 “I don’t have much time to talk,” Shiv said, “so I’ll get to it. You should know what you’re actually about to carry.”
 
@@ -130,7 +130,7 @@ A small notification ticked in the corner of his vision, easy to miss against ev
 
 He gestured, vague and dismissive, at his own ash-and-smoke form, the shape of him flickering slightly at the edges.
 
-“As you can see, this is how the curse changed me, changed my whole way of thinking, that’s for sure,” Shiv continued. “A lot of dirt the kingdom doesn’t want dug back up. They ran me out of the capital for it. Goblins, beastfolk, anything that counted as demi-human, hunted as feral ever since.” A pause, something drier creeping into his tone. “Understand, the court that cast me out wasn’t righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I’m not interested in playing the villain of that story just to sound humble.”
+“As you can see, this is how the curse changed me, changed my whole way of thinking, that’s for sure,” Shiv continued. “A lot of dirt the kingdom doesn’t want dug back up. I wasn’t the first they’d done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I’d been alive. They just ran me out to join them.” A pause, something drier creeping into his tone. “Understand, the court that cast me out wasn’t righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I’m not interested in playing the villain of that story just to sound humble.”
 
 *“That’s a lot more than ‘spirit echo, level unknown.’”* Tatsuya’s mind was racing, cataloging every word, every detail, knowing this wasn’t something he’d get to hear twice.
 
@@ -164,7 +164,7 @@ Tatsuya reached out, slow, his clawed hand moving through the dragging resistanc
 
 The second his skin touched the bones, the world tilted.
 
-Heat flooded through him, not painful but overwhelming, like something was unraveling him from the inside out and stitching him back together in the same breath. His vision whited out completely for half a second, every sense overloading at once, and when it came back everything felt different—lighter, sharper, clearer, like someone had turned up the resolution on the entire world.
+Heat flooded through him, not painful but overwhelming, like something was unraveling him from the inside out and stitching him back together in the same breath. His vision whited out completely for half a second, every sense overloading at once, and when it came back everything felt different, lighter, sharper, clearer, like someone had turned up the resolution on the entire world.
 
 **[FLAMONTA – EXPIRED]**
 
@@ -172,7 +172,7 @@ His legs answered immediately, clean and responsive, the drag gone the second th
 
 He caught his reflection in the water barrel near the tent entrance, the surface still enough to throw back a clear image.
 
-His hair had gone white. Not gray, not silver—pure white, falling loose around his face in a way that looked wrong next to the green skin he’d had that morning. Except his skin had shifted too, the green a shade lighter now, paler at the edges, less like the camp-standard goblin coloring he’d spawned with and more like something caught in between, neither fully one thing nor the other.
+His hair had gone white. Not gray, not silver, pure white, falling loose around his face in a way that looked wrong next to the green skin he’d had that morning. Except his skin had shifted too, the green a shade lighter now, paler at the edges, less like the camp-standard goblin coloring he’d spawned with and more like something caught in between, neither fully one thing nor the other.
 
 The notifications came fast, stacking on top of each other in his vision.
 
@@ -224,7 +224,7 @@ He pulled up the passive description.
 
 Shiv raised one hand toward the kid, deliberate and slow, and the freeze broke around him alone, a small, localized release in whatever invisible force was holding the rest of the tent and the camp beyond it completely still. The kid staggered forward half a step, blinking hard, his breath coming fast like he’d just surfaced from underwater, suddenly the only other thing in the entire world that was moving besides Tatsuya and Shiv.
 
-“Wh—what—” the kid started, his voice cracking halfway through the word.
+“Wh… what…” the kid started, his voice cracking halfway through the word.
 
 “Your name,” Shiv said, his tone gentle but firm, not unkind. “I’ll need it for this to take properly.”
 
@@ -232,9 +232,9 @@ The kid opened his mouth, and nothing came out. His lips moved, his throat worke
 
 “Runt,” Tatsuya said, the word coming out before he’d fully decided to say it, instinct more than thought. It caught halfway through his own mouth, the sound folding into something shorter, cleaner. “Ru. That’s what I’m calling him. Ru.”
 
-Shiv’s burning green eyes settled on the kid—on Ru—and something that might have been warmth moved through the ash, a flicker of approval that was gone almost as fast as it appeared.
+Shiv’s burning green eyes settled on the kid, on Ru, and something that might have been warmth moved through the ash, a flicker of approval that was gone almost as fast as it appeared.
 
-“Ru, then,” Shiv said, raising both hands now, spreading them wide. “Understand what this is before I give it. I don’t hand this out lightly. What I gave him—” a slight nod toward Tatsuya, “—that’s the necklace, that’s a door I open for anyone who walks through the quest properly and earns it. This is different. This is mine to give directly, once, maybe twice in a century if I’m lucky, and I’m giving it now, to you, because you were the one standing between two grown goblins and a smaller goblin the day all of this started. Not because you earned it the long way. Because I decided you’re worth it.”
+“Ru, then,” Shiv said, raising both hands now, spreading them wide. “Understand what this is before I give it. I don’t hand this out lightly.” He gave a slight nod toward Tatsuya. “What I gave him, that’s the necklace, that’s a door I open for anyone who walks through the quest properly and earns it. This is different. This is mine to give directly, once, maybe twice in a century if I’m lucky, and I’m giving it now, to you, because you were the one standing between two grown goblins and a smaller goblin the day all of this started. Not because you earned it the long way. Because I decided you’re worth it.”
 
 Ru didn’t answer, couldn’t seem to find the capacity for it, his whole body frozen again but this time out of shock rather than whatever force Shiv was exerting.
 
@@ -276,7 +276,7 @@ He barely registered it. There wasn’t room left in his head for anything that 
 
 Camp noise built fast outside the tent, goblins pulling up short mid-task, mid-stride, conversations cutting off as heads turned toward the tent entrance. A woman near one of the cooking fires actually dropped what she’d been holding, a wooden ladle clattering against stone. The nearest of them, a goblin who'd been mending a strap just outside the flap a moment ago, was already on his feet, eyes dropping from Tatsuya's face to the necklace at his throat, then tracking up to the white hair, his expression coming apart from wary curiosity into something closer to shock.
 
-“That’s—that’s not—” he started, his voice catching, and stepped back instead of crowding the entrance, his whole posture shifting from casual to deferential in the span of a single breath.
+“That’s… that’s not…” he started, his voice catching, and stepped back instead of crowding the entrance, his whole posture shifting from casual to deferential in the span of a single breath.
 
 “When did he change?” somebody said, not quiet enough to be private, the words carrying across the open ground. “That’s not the same one they brought in yesterday.”
 
@@ -290,9 +290,9 @@ Tatsuya looked down at himself, still dressed in the same torn prisoner’s rags
 
 *“Yeah. I’d be confused too if I were them.”*
 
-Sevish and Wyx came through the crowd fast, parting goblins with nothing but their presence, and when Sevish saw Tatsuya standing there—white hair, lighter skin, the necklace, Ru looming a full head taller than he’d been that morning—he stopped walking entirely, his boots scuffing to a halt on the packed dirt.
+Sevish and Wyx came through the crowd fast, parting goblins with nothing but their presence, and when Sevish saw Tatsuya standing there (white hair, lighter skin, the necklace, Ru looming a full head taller than he’d been that morning) he stopped walking entirely, his boots scuffing to a halt on the packed dirt.
 
-“You’ve been—” Sevish started, and didn’t finish the sentence right away, his eyes tracking from the necklace to Tatsuya’s face to Ru and back. “When. How long has this—we were about to send you to the library ourselves, figured you’d need a few more hours to think it over. You’re already touched by him? Already marked?”
+“You’ve been…” Sevish started, and didn’t finish the sentence right away, his eyes tracking from the necklace to Tatsuya’s face to Ru and back. “When. How long has this… we were about to send you to the library ourselves, figured you’d need a few more hours to think it over. You’re already touched by him? Already marked?”
 
 “Just now,” Tatsuya said, his voice steady despite everything. “He came to me. In the tent. Shiv. He was here.”
 
@@ -370,6 +370,6 @@ Tatsuya looked at Ru once, then at the necklace still warm against his chest, th
 
 “I’m coming back for this,” Tatsuya said, mostly to himself, and pulled the logout prompt up before he could second-guess it or talk himself into staying longer.
 
-The tent dissolved around him, the noise of the camp cutting out mid-word, the smoke and the firelight and the sound of his own name being spoken for the first time in someone else’s mouth—all of it disappearing in a single breath, and he didn’t get to see how any of it ended.
+The tent dissolved around him, the noise of the camp cutting out mid-word, the smoke and the firelight and the sound of his own name being spoken for the first time in someone else’s mouth, all of it disappearing in a single breath, and he didn’t get to see how any of it ended.
 
 **[END CHAPTER SEVEN]**
