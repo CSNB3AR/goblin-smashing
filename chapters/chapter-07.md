@@ -276,6 +276,8 @@ He put four points into Wisdom and the remaining six into Fortune, didn’t touc
 
 *“Not sure if it’s the smart build long-term. But it’s the one I’ve got actual proof works right now.”*
 
+*“HGO hasn’t dropped anything new since the Championship broadcast. Not with the drive sale still live. Companies don’t usually undercut their own promotion by pushing changes mid-window. If that holds, that’s at least seventy-two hours before anything real actually changes. Just a guess. But it’s the kind of guess worth building around.”*
+
 He stared at the race evolution line the longest, the words sitting there in clean white text.
 
 **[SHIV GOBLIN]**
