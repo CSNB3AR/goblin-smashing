@@ -18,6 +18,10 @@ A monitor station positioned at a VR pod, staffed by a live human operator, requ
 
 `codex/objects/pod-hardware.md` previously flagged an open question: how does the pass-out penalty (several days locked out after taking a fight-ending amount of damage) relate to the seven-day death lock for true in-game character death? Resolved: **they are two distinct tiers.** A pass-out is a forced real-world extraction triggered by the monitor/failsafe system (human operator or third-gen AI shutoff) stepping in before things get worse, a shorter, safety-driven penalty. The seven-day death lock is a separate, harsher penalty tied to actual in-game character death, not a safety intervention at all. This file is the canonical resolution; `codex/objects/pod-hardware.md`'s open flag should be considered closed.
 
+## Overheating under sustained load, established Chapter 7
+
+Leon's external monitor rig is scrappy, jury-rigged first/second-gen equipment (see `codex/subplots/technical-arc-leon-and-sakura-arcade.md` for the Akihabara parts-sourcing thread). It genuinely overheats under sustained load, and streaming adds real strain on top of normal monitoring. When VRSA's inspector has to swing back to look at it properly, Leon's already got a temporary override keeping it from shutting down outright, buys time, isn't a real fix. No permanent solution until they source better parts. A five-to-ten-minute cooldown window is what actually pulls Leon away from the booth in Chapter 7, the direct trigger for the empty-booth window Arya later uses to start watching Tatsuya's gameplay (see `codex/subplots/aryas-loop-discovery-and-reputation.md`).
+
 ## Cross-references
 - `codex/lore/vrsa.md` — the regulatory body that mandates this, and the Inspector role that certifies it.
 - `codex/objects/pod-hardware.md` — hardware generations, the pass-out mechanic this file resolves.

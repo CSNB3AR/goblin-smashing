@@ -156,6 +156,8 @@ He gestured, vague and dismissive, at his own ash and smoke form, the shape of h
 
 “As you can see, this is how the curse changed me, changed my whole way of thinking, that’s for sure,” Shiv continued. “A lot of dirt the kingdom doesn’t want dug back up. I wasn’t the first they’d done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I’d been alive. They just ran me out to join them.”
 
+“Everywhere I went after that, it didn’t matter where, it was the same,” Shiv said, something harder settling into his voice. “A monster first. Anything else second, if I was lucky enough to get a second look at all. I decided I wasn’t going to spend what was left of this life proving them right. Goblins weren’t feral. We could be something civilized, something worth building. That’s the only reason Myrrhwood exists at all.”
+
 He paused, and something in the pause felt deliberate.
 
 *“He’s waiting for me to say something.”*
@@ -185,6 +187,10 @@ Tatsuya’s breath caught.
 The number kept climbing. **[VIEWERS: 891 → 1,247]**.
 
 *“Can’t take this back. Whatever happens here, everyone’s gonna see it.”*
+
+**[FOLLOWERS: 6 → 94]**
+
+*“People are actually following off this. Not just watching, following.”*
 
 “Alright,” Tatsuya said, his voice steadier now even through the drag. “So why me? You’ve got a whole camp of goblins out there. Why pull me in here specifically?”
 
@@ -374,9 +380,17 @@ Tatsuya stayed where he was, just inside the tent entrance, Ru close at his shou
 
 **[VIEWERS: 5,127 → 6,804]**
 
-**[+1 FOLLOWER]**
+**[FOLLOWERS: 94 → 580]**
 
-*“Six thousand people watching this and I’ve gained so many followers. Can’t keep track of the chat but I know this should help me out if I can unlock getting subs. Damn, still crazy HGO hosted. Must be because of the World Quest. Has to be, why else would they.”*
+*“Six thousand people watching this, and the follower count just about matched it climbing. No idea what number actually gets him anywhere with HGO, if there even is one, but it’s got to be worth something. Damn, still crazy HGO hosted. Must be because of the World Quest. Has to be, why else would they.”*
+
+A couple of names snapped into focus out of the scroll before he lost the thread of it entirely. One handle he half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. *“Taji?”* He didn’t say it out loud, didn’t want to know for sure badly enough to ask. If it was him, better he stayed quiet about it too.
+
+The other name he didn’t have to guess at.
+
+*Arya.*
+
+*“No. No, no, no. Not her. Not now.”* There wasn’t a single thing he could do about it from here, slowed and mid-scene and out of hands to spare, so he shoved it down and kept moving.
 
 His thoughts danced as it took maybe two minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see Tatsuya standing just outside the tent entrance, white hair, lighter skin, the necklace visible at his throat, Ru looming a full head taller than he’d been that morning, he stopped walking entirely.
 
@@ -406,9 +420,13 @@ Sevish held Tatsuya’s gaze for a long moment, then let out a breath that was m
 
 They’d barely taken three steps toward the war tent when Leon’s voice crackled through, distant and tinny.
 
-“Hey, sorry to jump back in,” Leon said. “VRSA inspector came back, forgot something on the initial check, my monitors have been in and out because of it. I need to step away for a few minutes, but the feed’s still recording. Honestly it’s like watching a movie on my side. You good for a bit?”
+“Hey, sorry to jump back in,” Leon said. “External monitors started overheating on me, all the streaming load, probably. I’ve got an override running to keep it from shutting down outright, but that’s a patch, not a fix. VRSA’s inspector is swinging back to look at it properly. Gonna need to step away for maybe five, ten minutes, give it a chance to cool.”
 
-*“He’s been quiet this whole time. Didn’t say a word during the Shiv scene, didn’t chime in with anyone on his side either. Probably good to know he’s willing to keep his side of the bargain and keep things quiet.”*
+*“He’s been quiet this whole time. Didn’t say a word during the Shiv scene, didn’t chime in with anyone on his side either.”*
+
+“Feed’s still recording the whole time, for what it’s worth,” Leon added. “Been watching. Honestly it’s been like a movie over here. Didn’t want to break in on any of it, we agreed I’d keep things low-key while Arya’s still around. Doesn’t mean I’m not here, though. Anything you need, I’m still on the other end of this.”
+
+*“Good to know he’s actually keeping his side of it.”*
 
 “Yeah, I’m good,” Tatsuya said out loud. “Take your time.”
 
