@@ -28,7 +28,7 @@ Restricted, not hard-locked. Goblins default to Physical Arts (see `codex/combat
 
 ## Tatsuya's personal rare-variant roll: Gambler's Gambit
 
-Not a generic racial trait, a rare-variant roll result specific to Tatsuya (see `codex/lore/playable-races-and-character-creation.md`), a Fortune bonus and a once-per-day chance after combat to roll for Rare-or-higher loot. Manifests physically as the Gambler's Earring (see `codex/objects/gamblers-earring.md`). Governs loot only, unrelated to the World Quest activation itself (see `codex/lore/world-quests.md`) and unrelated to the necklace's own combat ability, The Bones Speak, beyond a shared Fortune/gambling theme.
+Not a generic racial trait, a rare-variant roll result specific to Tatsuya (see `codex/lore/playable-races-and-character-creation.md`), a Fortune bonus and a once-per-day chance after combat to roll for Rare-or-higher loot. Manifests physically as the Gambler's Earring (see `codex/objects/gamblers-earring.md`). Governs loot only, unrelated to the World Quest activation itself (see `codex/lore/world-quests.md`) and unrelated to the necklace's own combat ability, Bone Surge, beyond a shared Fortune/gambling theme.
 
 ## Shiv Goblin (advanced evolution, not a creation-time option)
 

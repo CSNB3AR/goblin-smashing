@@ -38,7 +38,7 @@ Not a hard racial lock, no race is pre-assigned a school. It comes from backgrou
 
 ## Two named mechanics
 
-- **Amplify magic** — a caster can spend extra MP to push a known spell's effect temporarily above the tier they've actually unlocked, at real cost and real risk (see `codex/lore/hp-sp-mp-resource-pools.md`), a genuine gamble, not a safe stat purchase. The Bones Speak's own Amplify mode (`codex/objects/call-of-the-bones-necklace.md`) is a once-a-day, free, Fortune-scaled version of this same general concept, specific to Tatsuya and the necklace, the two aren't the same system but read as the same family of idea.
+- **Amplify magic** — a caster can spend extra MP to push a known spell's effect temporarily above the tier they've actually unlocked, at real cost and real risk (see `codex/lore/hp-sp-mp-resource-pools.md`), a genuine gamble, not a safe stat purchase. Bone Surge's own Amplify mode (`codex/objects/call-of-the-bones-necklace.md`) is a once-a-day, free, Fortune-scaled version of this same general concept, specific to Tatsuya and the necklace, the two aren't the same system but read as the same family of idea.
 - **Dual-casting** — maintaining two spells' effects active at the same time, a real Wisdom-gated difficulty spike rather than something any caster can do casually.
 
 ## Cross-references

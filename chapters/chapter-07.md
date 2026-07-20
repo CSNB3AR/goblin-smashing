@@ -184,7 +184,7 @@ The notifications came fast, stacking on top of each other in his vision.
 
 **[RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]**
 
-**[ABILITY UNLOCKED: THE BONES SPEAK]**
+**[ABILITY UNLOCKED: BONE SURGE]**
 
 **[SPIRIT MAGIC PATH UNLOCKED: SHAMAN’S VEIL]**
 

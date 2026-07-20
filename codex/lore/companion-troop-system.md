@@ -1,6 +1,6 @@
 # Companion / Troop System
 
-**Status:** New mechanic. First lands on the page in Chapter 6 ("The Bones Speak"), when the young goblin (see `codex/characters/young-goblin-companion-candidate.md`) is recruited via Whispers of Shiv (below) after the necklace bond, and is already with Tatsuya when he logs back into camp.
+**Status:** New mechanic. First lands on the page in Chapter 7 ("The First Disciple"), when the young goblin (see `codex/characters/young-goblin-companion-candidate.md`) is recruited via Whispers of Shiv (below) after the necklace bond, and is already with Tatsuya when he logs back into camp.
 
 ## The mechanic
 
