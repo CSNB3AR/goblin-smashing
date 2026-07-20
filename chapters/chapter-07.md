@@ -390,7 +390,7 @@ The other name he didn’t have to guess at.
 
 *Arya.*
 
-*“No. No, no, no. Not her. Not now.”* There wasn’t a single thing he could do about it from here, slowed and mid-scene and out of hands to spare, so he shoved it down and kept moving.
+*“Play it straight. Stay in it.”* He typed back one line without breaking stride, the same easy tone he’d have thrown at anybody else in chat right now, nothing in it that would give him away. Whatever she made of it, she’d make of it. He didn’t have hands to spare on more than that, and pulling back now would draw more attention than just staying locked in.
 
 His thoughts danced as it took maybe two minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see Tatsuya standing just outside the tent entrance, white hair, lighter skin, the necklace visible at his throat, Ru looming a full head taller than he’d been that morning, he stopped walking entirely.
 
