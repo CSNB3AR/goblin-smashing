@@ -382,7 +382,7 @@ Tatsuya stayed where he was, just inside the tent entrance, Ru close at his shou
 
 **[FOLLOWERS: 94 → 580]**
 
-*“Six thousand people watching this, and the follower count just about matched it climbing. No idea what number actually gets him anywhere with HGO, if there even is one, but it’s got to be worth something. Damn, still crazy HGO hosted. Must be because of the World Quest. Has to be, why else would they.”*
+*“Six thousand people watching this and I’ve gained so many followers. Can’t keep track of the chat but I know this should help me out if I can unlock getting subs. Damn, still crazy HGO hosted. Must be because of the World Quest. Has to be, why else would they.”*
 
 A couple of names snapped into focus out of the scroll before he lost the thread of it entirely. One handle he half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. *“Taji?”* He didn’t say it out loud, didn’t want to know for sure badly enough to ask. If it was him, better he stayed quiet about it too.
 
