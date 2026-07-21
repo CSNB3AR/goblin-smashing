@@ -22,6 +22,10 @@ A monitor station positioned at a VR pod, staffed by a live human operator, requ
 
 Leon's external monitor rig is scrappy, jury-rigged first/second-gen equipment (see `codex/subplots/technical-arc-leon-and-sakura-arcade.md` for the Akihabara parts-sourcing thread). It genuinely overheats under sustained load, and streaming adds real strain on top of normal monitoring. **The VRSA Inspector can and does service the monitor station itself**, it's his own regulated equipment, not pod hardware (see `codex/lore/vrsa.md`'s carve-out), unlike the pods themselves, which stay Tatsuya's exclusive repair domain. **The real constraint, established Chapter 7:** he won't actually work on it while Tatsuya's still connected and diving, live safety-monitoring equipment doesn't get taken offline for service mid-dive. So in Chapter 7 he can only swing by, check it, confirm Leon's temporary override is holding, buys time, isn't a real fix. The actual repair has to wait for a window where the pod's powered down and Tatsuya's fully out, which is exactly what forces the longer, ten-to-fifteen-minute shutdown in Chapter 8. A five-to-ten-minute window is what pulls Leon away from the booth in Chapter 7 itself, the direct trigger for the empty-booth window Arya later uses to start watching Tatsuya's gameplay (see `codex/subplots/aryas-loop-discovery-and-reputation.md`).
 
+## Avatar state on disconnect, confirmed Chapter 8
+
+When a diver disconnects mid-session (a real-world break, a forced monitor shutdown, anything short of a clean logout), their avatar doesn't vanish from the world. It goes idle exactly where it was, physically present but unresponsive, until they log back in. Confirmed Chapter 8: Tatsuya's avatar sits down in the war tent's chair while he's offline for the monitor check, and he picks back up from that exact position on return.
+
 ## Cross-references
 - `codex/lore/vrsa.md` — the regulatory body that mandates this, and the Inspector role that certifies it.
 - `codex/objects/pod-hardware.md` — hardware generations, the pass-out mechanic this file resolves.
