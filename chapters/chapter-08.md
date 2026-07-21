@@ -1,14 +1,14 @@
 Chapter Eight: Assembling the Assault Team
 
-The smoke reached Tatsuya before the words did, a thin gray thread drifting low along the treeline outside the war tent, and underneath the smell of it he could still taste the ash from an hour ago, Shiv’s ash, clinging to the back of his throat no matter how many times he swallowed. His new hair kept catching the lamplight wrong, white where it should have been dark, and every time it happened his brain still snagged on it for half a second before catching up to what he was actually looking at. The scout standing in front of him hadn’t caught his breath yet, blood streaked down a sleeve that wasn’t his, and Tatsuya felt the report land in his chest before his brain had finished parsing all of it.
+The smoke reached Tatsuya before the words did, a thin gray thread drifting low along the treeline outside the war tent, and underneath the smell of it he could still taste the ash from an hour ago, Shiv’s ash, clinging to the back of his throat no matter how many times he swallowed. His new hair kept catching the lamplight wrong, white where it should have been dark, and every time it happened his brain still snagged on it for half a second before catching up to what he was actually looking at. The scout standing in front of him hadn’t caught his breath yet, blood streaked down a sleeve that wasn’t his, and Tatsuya felt the report land in his chest before his brain had finished parsing all of it. He recognized him now that the light had caught his face, Kesh, one of the younger runners who’d been posted to the eastern watch since before Tatsuya had a name of his own in this camp.
 
-“They’re not moving,” the scout said. “Not advancing on the camp, not falling back either. Tent’s already up, right on the road’s shoulder. They’re just sitting in it. Waiting.”
+“They’re not moving,” Kesh said. “Not advancing on the camp, not falling back either. Tent’s already up, right on the road’s shoulder. They’re just sitting in it. Waiting.”
 
 *“Waiting for what.”*
 
-“Waiting for whoever comes down to meet them,” Sevish said, working it out out loud, his eyes still on the scout. “How many of ours?”
+“Waiting for whoever comes down to meet them,” Sevish said, working it out out loud, his eyes still on Kesh. “How many of ours?”
 
-“Two,” the scout said. “Third made it back. That’s me. Wasn’t easy.”
+“Two,” Kesh said. “Third made it back. That’s me. Wasn’t easy.”
 
 *“They think they’re fighting monsters. That’s why they’re not dug in defensive, why they pitched a tent right out in the open instead of falling back to somewhere real. Far as they know, this is farmland, not a fight.”*
 
@@ -20,11 +20,11 @@ The thought settled something in him even as the rest of the report kept turning
 
 “Copy,” Tatsuya said out loud, low enough that Sevish barely registered it as words instead of breath. “Not yet, though.”
 
-Sevish’s eyes stayed on the scout, on the blood streaked down a sleeve that wasn’t his, and he was quiet a beat longer before he spoke.
+Sevish was quiet a beat longer before he spoke, his eyes still on Kesh.
 
 “Eastern line’s thin as it is,” Sevish said. “They dug in already?”
 
-“Ridge above the road down,” the scout said, still catching his breath. “High ground, whole stretch of it. Whoever comes down after them walks right into it.”
+“Ridge above the road down,” Kesh said, still catching his breath. “High ground, whole stretch of it. Whoever comes down after them walks right into it.”
 
 *“That’s not new ground. That’s our own ground.”*
 
@@ -54,25 +54,31 @@ Ten discipline points, spent the second they’d landed, four into Wisdom, six i
 
 “How many up there,” Tatsuya asked.
 
-“Four,” the scout said. “Maybe five. Mixed classes, couldn’t get close enough to count clean before they saw me.”
+“Four,” Kesh said. “Maybe five. Mixed classes, couldn’t get close enough to count clean before they saw me.”
 
 *“Four or five. Against a road they already own. That’s not a fair fight for whoever goes down first.”*
 
-Sevish exhaled through his nose, slow. “Pull the eastern watch in tighter, tell them not to engage past the tree line. I’m not feeding anyone else down that road piece by piece.” He looked at Tatsuya. “That’s the move. Send them down in twos, hold the choke, wear the attackers down over the day.”
+Sevish exhaled through his nose, slow. “Pull the eastern watch in tighter, tell them not to engage past the tree line. I’m not feeding anyone else down that road piece by piece.” He looked at Tatsuya, and something in his posture closed off, an old chieftain instinct that didn’t care how much white had grown into anyone’s hair overnight. “That’s the move. Send them down in twos, hold the choke, wear the attackers down over the day. This is clan business.”
 
-“That’s exactly what gets more of your people killed for nothing,” Tatsuya said.
+“That gets more of your people killed for nothing,” Tatsuya said, and felt the words land wrong the second they left his mouth, too flat, too much like an order.
 
-Sevish’s eyes narrowed. “Careful.”
+Sevish’s eyes narrowed. “Careful. You’ve worn Shiv’s mark for an hour. Doesn’t make you chieftain of this camp.”
 
-“I’m not talking down to you,” Tatsuya said, keeping his voice level. “I’m saying whoever’s up on that ridge already beat two of your scouts clean. Every goblin you send down one at a time is just another kill they get to log before they even have to try hard. That doesn’t wear them down. That teaches them this spot’s soft, and soft spots don’t stay small once word gets around.”
+*“Wrong approach. He’s not going to listen to me sounding like I already outrank him.”*
 
-Wyx had gone still somewhere in the middle of that, but she didn’t argue it. “We’ve held this hill against worse than four bored raiders before,” she said. “Never by feeding them our own people first.”
+Tatsuya dropped his voice, dropped the certainty out of it too. “I’m not telling you how to run your camp. I’m asking you to hear me out, same as you’d hear out anyone who’s bled for Thrash. Every goblin sent down one at a time is a goblin those raiders get to kill easy, and easy kills make raiders bold, not careful. I don’t want to see more of your people in the dirt for nothing. That’s all this is.”
 
-That landed harder on Sevish than anything Tatsuya had said.
+Sevish held his eyes a long moment, weighing something Tatsuya couldn’t fully read, clan pride wrestling with whatever the necklace and the white hair actually meant to him underneath the shock of it.
 
-“So what, then,” Sevish said. “You’ve got a better plan than mine already sitting in your back pocket?”
+Wyx broke the silence first, careful, testing the room rather than backing either of them outright. “Brother. He’s not wrong that we’ve bled feeding this hill before.”
 
-“Let me and Ru go down instead,” Tatsuya said. “Not to hold a line. To end it.”
+“So what, then,” Sevish said, finally, his tone still guarded but no longer closed. “You’ve got something better than sending twos.”
+
+“Let me and Ru go down instead,” Tatsuya said. “Not to hold a line. To end it. Your call whether that’s worth trusting me with.”
+
+**[AFFILIATION: THRASH CLAN 10% → 14%]**
+
+*“Small movement. But it moved.”*
 
 Sevish opened his mouth to answer, and Leon’s voice cut back in, no longer careful, no longer a heads-up.
 
@@ -94,21 +100,21 @@ Tatsuya looked down at himself, the same torn prisoner rags still hanging off hi
 
 *“Two goblins holding a line they’ve been told not to fight on. That’s not backup. That’s a tripwire. When it actually comes down to it, it’s still just me and Ru against four real fighters.”*
 
-“Fair,” Tatsuya said. He hesitated half a second. “Any of the two you’re sending know Goblin Gas?”
+“Fair,” Tatsuya said. He hesitated half a second. “Who’s going down. Any of them know Goblin Gas?”
 
-Sevish glanced at Wyx, who shrugged. “One does. Rough with it, from what I’ve seen.”
+“Rott and Nab,” Sevish said. “Rott does. Rough with it, from what I’ve seen.”
 
 “Have him wait on me before he does anything with it,” Tatsuya said. “I want to show him something first. Difference between gassing someone who runs and gassing someone who can’t.”
 
 Sevish’s mouth twitched, not quite a smile. “You’ve got ten minutes. Go handle whatever that was.”
 
-Tatsuya crossed to where the goblin with the gas pouches stood waiting, restless, shifting his weight between his feet.
+Tatsuya crossed to where Rott stood waiting with the gas pouches at his belt, Nab a pace behind him, both of them restless, shifting their weight between their feet.
 
-“You’re holding the choke, not fighting,” Tatsuya said. “Anyone gets close enough to smell you coming, that’s already too late. Wait for them to bunch up somewhere tight before you use it. Open ground, it just drifts off and does nothing.”
+“You’re holding the choke, not fighting,” Tatsuya said, looking at Rott. “Anyone gets close enough to smell you coming, that’s already too late. Wait for them to bunch up somewhere tight before you use it. Open ground, it just drifts off and does nothing.”
 
-The goblin nodded fast, eager in a way that reminded him of Ru a week ago.
+Rott nodded fast, eager in a way that reminded him of Ru a week ago.
 
-“Good,” Tatsuya said. “Hold that line, nothing more.”
+“Good,” Tatsuya said, glancing between him and Nab. “Hold that line, nothing more.”
 
 Tatsuya logged off.
 
@@ -179,6 +185,14 @@ The reply came back faster than he expected.
 He splashed more water on his face, the anxiety sitting lower now, colder. Seven days locked out if he died down there. Seven days he didn’t have, not with Winter Bash sitting fifteen days out, not with no duo locked in yet, not with a hospital bill that didn’t care what game he was playing. He’d been telling himself this was practice, a World Quest, PvE dressed up as stakes. It wasn’t. This was the first real fight he’d ever be in against actual people, not scripted mobs, not a camp of goblins who’d already decided not to kill him, and right now it was still just him and Ru walking into it, the two goblins Sevish was sending down weren’t fighters, they were a tripwire he wasn’t counting on.
 
 *“No zone to hold, no point to capture, but that’s still a team fight. Real players, real stakes, real chance I walk away from it having actually proven something instead of just surviving another quest chain.”*
+
+Something else surfaced while he stood there, a system flag he’d never actually gone looking for. He’d crossed level five somewhere in tonight’s jump without ever checking what that unlocked.
+
+[Arena queue eligibility: unlocked at level 5. Ranked and open-ladder PvP now available.]
+
+*“Could’ve been queuing ranked matches for two levels now and never noticed. Guess tonight’s where I actually find out if I can hang in a real fight, arena rules or none.”*
+
+He filed it away, not something to chase mid-crisis, but it sat differently now, a door that had already opened without him.
 
 If he could handle this clean, that told him something a hundred hours of PvE never would, whether he actually belonged anywhere near the level he’d need to hit come Winter Bash. Six days locked out on top of everything else meant six days he couldn’t push toward selling anything real, couldn’t chip at what he still owed the Tabuchis, couldn’t get any closer to whatever the twins’ school fees turned into next month. None of that ever fully turned off, not even standing in a bathroom two worlds removed from a hospital bill.
 
@@ -278,7 +292,7 @@ Ru was already there, watching him blink back into focus, weight rocked back on 
 
 “Yeah,” Tatsuya said, standing, rolling the new weight of his shoulders. “Had to handle something outside.”
 
-Sevish stood near the tent’s entrance with a bundle of gear at his feet, the two goblins he’d promised waiting a few paces off, restless. A crude chest piece and a set of bindings sat on top of the pile, better than the rags but nothing close to what he actually needed.
+Sevish stood near the tent’s entrance with a bundle of gear at his feet, Rott and Nab waiting a few paces off, restless. A crude chest piece and a set of bindings sat on top of the pile, better than the rags but nothing close to what he actually needed.
 
 “Everything settled?” Sevish asked.
 
@@ -336,7 +350,7 @@ Arya’s voice came through a beat later, a little breathless, like she’d jogg
 
 She resolved into view a moment later, half-hidden behind a thick trunk, staff already in hand, its head glowing faint blue.
 
-“That’s the tent,” Tatsuya said, keeping his voice low. “Four of them inside, from what the scout counted. We’re not fighting them in the open. We’re not giving them room to see what’s coming.”
+“That’s the tent,” Tatsuya said, keeping his voice low. “Four of them inside, from what Kesh counted. We’re not fighting them in the open. We’re not giving them room to see what’s coming.”
 
 Ru’s tusks caught the light as his mouth split into something close to a grin. “So we take the tent instead.”
 
@@ -346,7 +360,7 @@ Arya’s frown deepened, but she didn’t argue it this time. “It’s a lot of
 
 “You’ve got it,” Tatsuya said. “Once it lands, they can’t see, can’t hear, can’t cast anything, can’t cleanse anything. They’re not going anywhere until I want them to.”
 
-He signaled toward the two goblins waiting near the tree line, the ones who’d been holding position since he sent them down. They jogged over low and quiet, one still gripping the gas pouches at his belt.
+He signaled toward Rott and Nab, waiting near the treeline since he’d sent them down. They jogged over low and quiet, Rott still gripping the gas pouches at his belt.
 
 “You two, with Ru,” Tatsuya said. “Three walls, three of you, one each. Wait for the fog. Don’t move until it’s down.”
 

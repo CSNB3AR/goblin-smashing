@@ -1,10 +1,17 @@
-# Food & Consumable Buffs
+# Buffs (Food, Alchemy, and Ability-Sourced)
 
-**Status:** New system, Cooking profession's output (see `codex/crafting/overview.md`).
+**Status:** New system. Covers Cooking's output specifically plus the broader positive-effect layer Alchemy and a handful of abilities also feed into (see `codex/crafting/overview.md`, `codex/crafting/professions.md`).
 
 ## Core rule
 
-Food buffs are always temporary and always stack separately from gear/ability bonuses, a real reason to actually carry and eat food rather than treating it as flavor. A food buff never grants something a character couldn't otherwise access (no food item unlocks magic access, for instance), it amplifies or extends what's already available to them.
+Buffs are always temporary and always stack separately from gear/ability bonuses, a real reason to actually carry consumables rather than treating them as flavor. A buff never grants something a character couldn't otherwise access (no food item unlocks magic access, for instance), it amplifies or extends what's already available to them.
+
+## Non-food buffs already established or locked
+
+- **Rested Travel** (already dramatized, Chapters 2 and 7) — +50% XP for one hour after logging in from a safe rest, once per day. Not a crafted item, a login-state buff, listed here for completeness against the fuller buff catalogue.
+- **Minor Elixir** (already dramatized, Chapter 3) — Alchemy-crafted, instant or over-time Mana restoration, the game's most common early sellable good.
+- **Fortune's Favor** — a crafted or Gambler's-earring-adjacent buff, temporary +Fortune specifically for crafting rolls, loot procs, or resist checks, the same Fortune-scaling logic already established elsewhere applied to a short window instead of a permanent stat.
+- **Spirit Ward / Bone Shield** (Spirit Magic-adjacent, Runecrafting/Spirit-Binding output) — absorbs a flat amount of incoming damage or grants temporary HP, a Spirit Magic version adds minor retaliation damage back at the attacker.
 
 ## Representative examples, by region (ties to `codex/materials/overview.md`)
 
@@ -22,5 +29,7 @@ Food buffs stay genuinely minor at low crafting tiers, real but not decisive, th
 
 ## Cross-references
 
-- `codex/crafting/overview.md` — the profession and tier system this sits under.
+- `codex/crafting/overview.md`, `codex/crafting/professions.md` — the profession and tier system this sits under.
 - `codex/crafting/debuffs-and-resistances.md` — the corresponding negative-effect framework.
+- `codex/crafting/recipes-spirit-line.md` — Spirit Magic-adjacent buff items, Spirit Ward and similar.
+
