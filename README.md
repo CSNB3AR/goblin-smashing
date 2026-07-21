@@ -22,7 +22,7 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`codex/pro-scene/`](codex/pro-scene/)** — the esports/competitive ecosystem: tournament and PvP formats, the pro-team roster, the guild roster, and the ranking ladder.
 - **[`codex/subplots/`](codex/subplots/)** — one file per ongoing plot thread, 11 entries, each with a status flag (active / seeded / forward-only).
 - **[`outline/`](outline/)** — beat-by-beat chapter plan, one file per chapter, plus a restructuring-notes file explaining what changed from the old draft and why.
-- **[`chapters/`](chapters/)** — drafted chapter prose, Chapters 1-9.
+- **[`chapters/`](chapters/)** — drafted chapter prose, Chapters 1-8.
 
 ## Archive
 
@@ -30,4 +30,4 @@ Everything below is split into individual files/entries specifically so it can b
 
 ## Status
 
-Chapters 1-6 drafted and final (`chapters/chapter-01.md` through `chapter-06.md`). Chapter 7 (`chapters/chapter-07.md`) drafted, in progress. Chapter 8 (`chapters/chapter-08.md`, "Assembling the Assault Team") and Chapter 9 (`chapters/chapter-09.md`, "The Tent on the Hill") drafted, in progress.
+Chapters 1-6 drafted and final (`chapters/chapter-01.md` through `chapter-06.md`). Chapter 7 (`chapters/chapter-07.md`) drafted, in progress. Chapter 8 (`chapters/chapter-08.md`, "Assembling the Assault Team") drafted, in progress.
