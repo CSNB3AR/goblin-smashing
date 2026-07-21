@@ -29,3 +29,5 @@ Once Tatsuya is actually playing, Arya records and posts footage of his early ga
 ## Old-draft naming note
 
 The old draft used both "Aria" (Chapter 8) and "AriaSky" (Chapter 10 stream handle) inconsistently. Confirmed spelling going forward: **Arya**.
+
+**Handle, confirmed Chapter 8: AriSky** (not "AriaSky"), her actual in-game/Loop chat handle, distinct from her real name. Uses it to chat on Tatsuya's stream before she's formally recruited into the assault, a light, supportive presence rather than announcing herself.

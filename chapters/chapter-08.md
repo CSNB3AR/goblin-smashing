@@ -1,6 +1,26 @@
 Chapter Eight: Assembling the Assault Team
 
-Sevish didn’t answer right away. His eyes stayed on the scout, on the blood streaked down a sleeve that wasn’t his, and he was quiet a beat longer before he spoke.
+The smoke reached Tatsuya before the words did, a thin gray thread drifting low along the treeline outside the war tent, and underneath the smell of it he could still taste the ash from an hour ago, Shiv’s ash, clinging to the back of his throat no matter how many times he swallowed. His new hair kept catching the lamplight wrong, white where it should have been dark, and every time it happened his brain still snagged on it for half a second before catching up to what he was actually looking at. The scout standing in front of him hadn’t caught his breath yet, blood streaked down a sleeve that wasn’t his, and Tatsuya felt the report land in his chest before his brain had finished parsing all of it.
+
+“They’re not moving,” the scout said. “Not advancing on the camp, not falling back either. Tent’s already up, right on the road’s shoulder. They’re just sitting in it. Waiting.”
+
+*“Waiting for what.”*
+
+“Waiting for whoever comes down to meet them,” Sevish said, working it out out loud, his eyes still on the scout. “How many of ours?”
+
+“Two,” the scout said. “Third made it back. That’s me. Wasn’t easy.”
+
+*“They think they’re fighting monsters. That’s why they’re not dug in defensive, why they pitched a tent right out in the open instead of falling back to somewhere real. Far as they know, this is farmland, not a fight.”*
+
+The thought settled something in him even as the rest of the report kept turning his stomach. Bloodhurst’s whole defensible position, the single road down, the cliff nobody survived jumping, had just become a trap pointed the wrong direction. He was still turning that over when Leon’s voice cut in, quieter than usual, careful.
+
+“Hey. Not pulling you yet,” Leon said. “Just a heads-up, like I told you I would. Monitor’s been acting up again. Gonna need a real window before too much longer. Wanted you to hear it now, not get blindsided later.”
+
+*“He actually did it. Said he’d warn me first, and he did.”*
+
+“Copy,” Tatsuya said out loud, low enough that Sevish barely registered it as words instead of breath. “Not yet, though.”
+
+Sevish’s eyes stayed on the scout, on the blood streaked down a sleeve that wasn’t his, and he was quiet a beat longer before he spoke.
 
 “Eastern line’s thin as it is,” Sevish said. “They dug in already?”
 
@@ -14,7 +34,7 @@ Tatsuya’s stomach dropped before his brain finished the thought. The only way 
 
 Wyx’s head turned sharp at that. “You’ve seen it.”
 
-“Didn’t have to see it,” Tatsuya said. “Only one road down means only one road up too. Whoever’s holding that ridge picked the smartest spot on the whole hill.”
+“Didn’t have to see it,” Tatsuya said. “Only one road down means only one road up too. Whoever’s holding that ridge picked the smartest spot on the whole hill. But they don’t know it’s us. That scout said it himself, they’re not even bothered enough to move once they’ve got position. They think this is farmland.”
 
 His own nameplate had changed since the last time he’d bothered to check it, level and title both.
 
@@ -22,13 +42,15 @@ His own nameplate had changed since the last time he’d bothered to check it, l
 
 *“Only descendant. Nobody else gets that line, not even if some other goblin ends up blessed a hundred times over. Ru’s reads different for a reason.”*
 
-Ten discipline points, spent the second they’d landed, four into Wisdom, six into Fortune, stacking a build he’d already decided was working. Four real tools sat under that now instead of two. Bone Surge, once a day, either amplify something he already knew or gamble everything on a reflect. Shiv-Touched Flare, his old flare cast straight off his own palm now, doubled as a signal and a light burn. Rune Priming, three points he could lay and seat himself, feeding into the one ability he actually cared about. Call of Command, plain voice-directed orders any goblin in earshot would actually follow, an honest leash, not roleplay. Gambler’s Gambit still sat underneath all of it same as always, the crit engine that had gotten him this far in the first place, untouched by anything Shiv had handed him.
+A second notification sat under it, one he hadn’t actually stopped to read yet.
+
+**[QUEST LOG UPDATED: CALL OF THE BONES – STAGE COMPLETE: SHIV’S BLESSING]**
+
+*“That’s the level jump explained. Not some random spike, a quest completion payout. Two to seven off one leg of a World Quest chain. If every stage pays out like that, this thing’s worth more than I thought. If it doesn’t, I got lucky once and shouldn’t plan around it happening again.”*
+
+Ten discipline points, spent the second they’d landed, four into Wisdom, six into Fortune, stacking a build he’d already decided was working. Four real tools sat under that now instead of two, and for once he actually knew what each one cost him instead of just what it did. Bone Surge, no mana draw at all, the price was the once-a-day charge itself, either amplify something he already knew or gamble everything on a reflect. Shiv-Touched Flare, Tier 1, barely dented his mana pool, doubled as a signal and a light burn. Rune Priming, Tier 3, a few points of mana per rune he seated, feeding into the one ability he actually cared about, the ultimate that still scaled somewhere up toward Tier 8 once he leveled far enough to actually touch that ceiling. Call of Command, Tier 1, next to nothing off his stamina, plain voice-directed orders any goblin in earshot would actually follow, an honest leash, not roleplay. Gambler’s Gambit still sat underneath all of it same as always, the crit engine that had gotten him this far in the first place, untouched by anything Shiv had handed him.
 
 *“None of that does anything standing in a tent. Means something down that hill.”*
-
-“How many of ours already down?” Sevish asked the scout.
-
-“Two,” the scout said. “Third made it back. That’s me.”
 
 “How many up there,” Tatsuya asked.
 
@@ -52,13 +74,13 @@ That landed harder on Sevish than anything Tatsuya had said.
 
 “Let me and Ru go down instead,” Tatsuya said. “Not to hold a line. To end it.”
 
-Sevish opened his mouth to answer, and Leon’s voice cut in first, crackling and a little too loud in his ear.
+Sevish opened his mouth to answer, and Leon’s voice cut back in, no longer careful, no longer a heads-up.
 
-“Hey, sorry, really bad timing, I know,” Leon said. “But I need about ten minutes. VRSA’s actually got eyes on the monitor bay right now and it needs a real look, not another patch job.”
+“I need you now,” Leon said. “Not in a bit, now. The monitor’s not holding, and I can’t keep letting it slide, not with how much load you’ve put on it tonight. Ten minutes, that’s all I’m asking, but I need them starting the second you can give them to me.”
 
-Tatsuya answered before he’d even finished the sentence to Sevish. “Yeah. Give me a second.”
+*“There it is. He warned me, and now he’s actually cashing it in.”*
 
-He turned back to Sevish. “I meant that. Me and Ru, we go down.”
+“Yeah. Give me a second,” Tatsuya said, and turned back to Sevish. “I meant that. Me and Ru, we go down.”
 
 “You’re sure,” Sevish said, something testing in the way he said it.
 
@@ -69,6 +91,8 @@ Sevish studied him a beat longer, then nodded once, sharp. “Fine. What do you 
 Tatsuya looked down at himself, the same torn prisoner rags still hanging off him despite everything else that had changed in the last ten minutes. “Better gear than this, for one. Anything you’ve got lying around camp works.”
 
 “Done,” Sevish said. “And I’m still sending two down ahead of you, hold position, don’t engage. Buys you time to actually plan instead of walking in blind.”
+
+*“Two goblins holding a line they’ve been told not to fight on. That’s not backup. That’s a tripwire. When it actually comes down to it, it’s still just me and Ru against four real fighters.”*
 
 “Fair,” Tatsuya said. He hesitated half a second. “Any of the two you’re sending know Goblin Gas?”
 
@@ -88,7 +112,7 @@ The goblin nodded fast, eager in a way that reminded him of Ru a week ago.
 
 Tatsuya logged off.
 
-The lid hissed open and the ceiling of the operator’s booth swam into focus, too bright after however many hours behind his eyes had actually passed inside. He sat up slow, joints stiff in a way that made him wince, and the VRSA inspector was already crouched at the monitor bay, panel open, tools laid out in a neat row on a cloth beside him.
+The lid hissed open and the ceiling of the operator’s booth swam into focus, too bright after however many hours behind his eyes had actually passed inside. He sat up slow, joints stiff in a way that made him wince, and the VRSA inspector was already crouched at the monitor bay, panel open, tools laid out in a neat row on a cloth beside him. Somewhere in the middle of the console, a dashboard he hadn’t looked at all night showed his own stream had already dropped off HGO’s hosted slot the instant he’d gone offline, the number resetting to zero the way it always did when a feed stopped broadcasting. Whatever he’d built up tonight, it wasn’t just sitting there waiting for him. He’d have to earn it back.
 
 “Give me the ten minutes,” Leon said, not looking up from where he stood next to the inspector. “Go stretch your legs or something, you’ve been under a long time.”
 
@@ -96,41 +120,87 @@ The lid hissed open and the ceiling of the operator’s booth swam into focus, t
 
 The bathroom at Sakura Arcade was small and smelled like the same industrial cleaner it always had, and Tatsuya splashed water on his face before he even looked at his phone, needing a second to remember which world he was actually standing in.
 
-His phone had six new notifications stacked on the lock screen, the Loop icon at the top of the pile.
+His phone had a dozen notifications stacked on the lock screen, more than he’d ever seen at once, the Loop icon buried somewhere in the middle of the pile.
 
-**[Your follower count has grown by 2,140 in the last hour.]**
+[Your follower count has grown by 2,140 in the last hour.]
 
-*“Two thousand. In an hour.”*
+*“Two thousand. In an hour. That number doesn’t care that I logged off, following’s not the same as watching.”*
 
-He thumbed it open, scrolled fast, and found the number sitting there in plain text, climbing while he watched it. He pulled up his HGO account next, and there it was, a button that hadn’t existed the last time he’d checked this screen.
+He thumbed it open and the feed loaded slow, clip after clip of the same green-skinned figure kneeling in ash and smoke, reposted, quoted, argued over. A handle he didn’t recognize had stitched together every notification bracket from the fight into a single clip captioned “did anyone else catch this live.” Another had zoomed in on the necklace, freeze-framed, circled in red, captioned “world tier confirmed, somebody check the wiki.” His own name, T-Drag, sat tagged in reply after reply, people arguing over whether it was scripted, whether the AI was real, whether HGO had planted the whole thing. None of them knew it was him behind the account. All of them had opinions anyway. He scrolled until his thumb cramped and made himself stop.
 
-**[Apply for Affiliate Status]**
+He pulled up his HGO account next, and there it was, a button that hadn’t existed the last time he’d checked this screen.
+
+[Apply for Affiliate Status]
 
 *“Five hundred followers. That’s the number. Has to be.”*
 
-A quick search turned up the rest of it in under a minute, a forum thread with more replies than he expected, somebody laying it out plain: HGO’s official channel auto-hosts any stream actively progressing a World Quest, standing platform practice, free exposure handed to whoever happened to be live when the algorithm noticed. Not luck. Not something about him specifically. Just policy, and he’d been standing in the right spot when it kicked in.
+He tapped it before he could think better of it, and the confirmation screen that loaded back wasn’t the instant green light he’d half expected.
 
-*“So none of that was luck. Doesn’t matter, I’ll take it either way.”*
+[Application received. Affiliate status requires a minimum of 30 days active streaming history. Current eligibility: Day 1.]
+
+*“Thirty days. So the follower count doesn’t mean anything yet, it just means I’m allowed to start the clock. I could hit ten thousand followers tonight and still not see a yen off it for a month.”*
+
+A quick search turned up the rest of it, a forum thread with more replies than he expected, somebody laying out how the hosting actually worked: HGO’s official channel auto-hosts any stream actively progressing a World Quest, standing platform practice, free exposure handed to whoever happened to be live when the algorithm noticed, not a permanent slot, and not something that follows him back online automatically. Coming back live after a break meant starting closer to zero and climbing again, not picking up where he left off, at least until the system caught back up to the fact that he was still mid-quest, which the thread guessed took closer to an hour of sustained activity than a clean instant re-host.
+
+*“So none of that was luck, and none of it just comes back either. Doesn’t matter. I’ll take it either way, I just can’t count on it being there the second I log back in.”*
 
 Then the part that actually stung. Affiliate status wasn’t retroactive. Whatever those seven thousand viewers had been worth, none of it had converted into anything, because he hadn’t cleared the threshold until after the stream that made the number climb in the first place. Every yen of it, gone the second the session ended.
 
-Subs themselves weren’t much once he actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around, nothing that let them type more than any other viewer could. Not a fortune. Still money nobody else currently had a reason to hand him.
+Subs themselves weren’t much once he actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around, nothing that let them type more than any other viewer could. Not a fortune. Still money nobody else currently had a reason to hand him, once he actually cleared the window for it.
 
-*“Should’ve been talking to chat the whole time instead of just surviving it. Lesson for next time. Actually engage or none of this converts to anything real.”*
+*“Should’ve been talking to chat the whole time instead of just surviving it. Lesson for next time. Actually engage or none of this converts to anything real, thirty-day clock or not.”*
 
-He splashed more water on his face, the anxiety sitting lower now, colder. Seven days locked out if he died down there. Seven days he didn’t have, not with Winter Bash sitting fifteen days out, not with no duo locked in yet, not with a hospital bill that didn’t care what game he was playing. He’d been telling himself this was practice, a World Quest, PvE dressed up as stakes. It wasn’t. This was the first real fight he’d ever be in against actual people, not scripted mobs, not a camp of goblins who’d already decided not to kill him.
+Two more notifications sat under the Loop pile, both real-world, both waiting.
+
+[Tochi Academy Admissions: Your application has been reviewed. You are invited to sit the entrance interest exam. Reply for scheduling.]
+
+He stared at that one longer than he meant to. He’d sent that application off weeks ago, half convinced it would just sit in some queue forever, and now it was sitting on his lock screen like it had been waiting for the worst possible moment to matter.
+
+*“Not dealing with that right now. Filing it. It’ll still be there when I actually have time to think about it straight.”*
+
+He opened his banking app instead, pulled up the balance sitting at ¥64,120, and moved a piece of it, not all of it, just enough to actually mean something, into the account that covered his mother’s ongoing costs.
+
+[Transfer sent: ¥15,000 → Ohema Kazehaya, Medical.]
+
+*“Small. But it’s real, and it’s mine, and it’s not a promise this time.”*
+
+He thought about Chiyo seeing that line item whenever she finally checked the statement, and for the first time in a while the thought didn’t make him brace for an argument.
+
+He opened his texts next and typed one out to Gato before he lost the nerve.
+
+[Hey. Gonna need tomorrow off. Been thinking hard about going back to Tochi, actually doing something with it this time. Wanted you to hear it from me instead of me just not showing up. I’ll come by and talk properly when I can.]
+
+The reply came back faster than he expected.
+
+[No worries at all. Proud of you for even considering it. You know you’re always welcome here whenever, shift or no shift. Go handle your business.]
+
+*“That’s Gato for you. Never makes it complicated.”*
+
+He splashed more water on his face, the anxiety sitting lower now, colder. Seven days locked out if he died down there. Seven days he didn’t have, not with Winter Bash sitting fifteen days out, not with no duo locked in yet, not with a hospital bill that didn’t care what game he was playing. He’d been telling himself this was practice, a World Quest, PvE dressed up as stakes. It wasn’t. This was the first real fight he’d ever be in against actual people, not scripted mobs, not a camp of goblins who’d already decided not to kill him, and right now it was still just him and Ru walking into it, the two goblins Sevish was sending down weren’t fighters, they were a tripwire he wasn’t counting on.
 
 *“No zone to hold, no point to capture, but that’s still a team fight. Real players, real stakes, real chance I walk away from it having actually proven something instead of just surviving another quest chain.”*
 
-If he could handle this clean, that told him something a hundred hours of PvE never would, whether he actually belonged anywhere near the level he’d need to hit come Winter Bash.
-
-Six days locked out on top of everything else meant six days he couldn’t push toward selling anything real, couldn’t chip at what he still owed the Tabuchis, couldn’t get any closer to whatever the twins’ school fees turned into next month. None of that ever fully turned off, not even standing in a bathroom two worlds removed from a hospital bill.
+If he could handle this clean, that told him something a hundred hours of PvE never would, whether he actually belonged anywhere near the level he’d need to hit come Winter Bash. Six days locked out on top of everything else meant six days he couldn’t push toward selling anything real, couldn’t chip at what he still owed the Tabuchis, couldn’t get any closer to whatever the twins’ school fees turned into next month. None of that ever fully turned off, not even standing in a bathroom two worlds removed from a hospital bill.
 
 *“Wish I had two more bodies right now instead of just Ru. Stack effects, cover angles.”*
 
 He didn’t, and the wishing didn’t change the math. One slot, filled, and that was the whole roster until he leveled past a wall that was still a long way off.
 
-*“Guess I make it work with what I’ve got.”*
+He was about to pocket the phone when a Loop headline pushed past everything else on the feed, big enough that it broke through even his own name trending underneath it.
+
+[Haruto Murayama announces departure from Kansai Black Lotus, effective immediately.]
+
+*“Haruto’s leaving. Actually leaving.”*
+
+The post underneath it was short, careful, nothing like the messy public blowups Loop usually ran on. Haruto thanked Tochi and Kansai Black Lotus for the opportunity, said he still respected what the roster had tried to build, and then, without naming Eren directly, said he wasn’t willing to keep carrying a team whose own signature build he’d started to suspect wasn’t built by the person taking credit for it. Replies underneath were already split between people defending Eren and people reading between the lines exactly the way Tatsuya was.
+
+*“He knows. Maybe not everything, but enough. And he still didn’t say the name.”*
+
+He knew exactly why Hushveil mattered the second Arya had described it to him, because the same shape of idea had been his, once, sketched out on paper with Eren back before either of them had touched the game for real, before Eren took the whole build and ran with only half of what it could actually do. Eren copied the notes. He never understood them. That gap was the whole reason he’d capped out as a captain instead of anything more, and it was the same gap Tatsuya was staring at again, right now, in a spell Arya had written off as garbage.
+
+Another Loop post trailed the first, already speculative, already tagging **Dosuke AI**, a name that made Tatsuya’s mouth twitch despite everything else going on. Dosuke’s own build had always read a little too close to what he and Eren used to theorize for it to be coincidence, and if anyone in the current pro scene had the eye to actually use Haruto right, it was him.
+
+*“Everything Eren built is starting to come apart. Not because of me. Because he never earned any of it in the first place.”*
 
 He was still staring at his phone, thumb hovering over nothing, when a voice cut through the bathroom door hallway noise behind him.
 
@@ -150,6 +220,8 @@ He turned around slow, and there she was. Arya, leaning against the hallway wall
 
 “I said I’ve got it,” Tatsuya said, flatter this time.
 
+*“No. Not doing this again. Last time I let someone in this close, it cost me everything.”*
+
 Arya pushed off the wall behind her. “No pod free here anyway. There’s a cafe two blocks over, I could get logged in from there in twenty minutes. Just say the word.”
 
 “I don’t need it,” Tatsuya said again.
@@ -162,7 +234,7 @@ Tatsuya didn’t answer right away, and the silence pulled more out of her than 
 
 “My whole guild’s gone,” Arya said, quieter now. “I kicked two members for good reason, they cared more about the cameras than the matches, and we lost every single map for it. They came back with a rumor campaign afterward, and it worked. Ninety members down to three who actually knew what happened and stayed anyway.” Her voice had lost its practiced edge somewhere in the middle of that, gone plain and unguarded. “And my mom’s already got a school picked out in America. Medicine. I don’t want that. I want to stay here, build something that’s actually mine, be near Leon while I still can. I want to make something real happen in this game before she makes that decision for me instead.” She wasn’t looking at him anymore, looking somewhere past his shoulder instead. “I need this to work.”
 
-Tatsuya felt something shift in his chest, the kind of thing he didn’t have a clean word for.
+Tatsuya felt something shift in his chest, the kind of thing he didn’t have a clean word for. She was a level ten offering to walk into a fight against a full party for someone who’d already turned her down twice, and she had no idea he still only had Ru at his back. That wasn’t a safe assist. That was a real risk on her end too.
 
 “What’s your build,” he said.
 
@@ -173,6 +245,8 @@ Arya blinked, caught off guard by the turn. “Mage. Level ten, eleven. Haven’
 “Base version, yeah.” She frowned slightly. “The advanced version’s a waste of points, though. Doesn’t hit anything, doesn’t scale into anything worth the investment.”
 
 “That’s exactly what I need,” Tatsuya said. “Not the fog. The upgrade. Real Silence, not the watered-down version.”
+
+*“She doesn’t see it because she’s pure DPS in her head. Damage doesn’t mean you only get to think in damage.”*
 
 “That’s not free,” Arya said. “That’s points I’ve been sitting on since the reset. I don’t even know if I’ll use it again after this. Why does it even matter? It’s not damage. It’s not anything.”
 
@@ -195,6 +269,10 @@ Tatsuya headed back to the pod.
 The lid closed over him, and the world folded inside out the way it always did, and when it settled he was sitting exactly where he’d left his body, upright in the chair inside Sevish’s war tent, like he’d never gotten up at all.
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
+
+**[VIEWERS: 310]**
+
+*“Started over. Not even close to where it was. Have to earn that back same as everything else tonight.”*
 
 Ru was already there, watching him blink back into focus, weight rocked back on his heels. “You went stiff for a while. Didn’t move. Didn’t answer.”
 
@@ -264,7 +342,7 @@ Ru’s tusks caught the light as his mouth split into something close to a grin.
 
 “Four walls,” Tatsuya said. “You and the two Sevish sent ahead take three of them. I need the fourth side open, that’s where the road runs, they won’t expect anything from a direction they think is already covered.” He looked to Arya. “That’s where you come in. Hushveil, advanced version, full radius. I need it to cover the whole tent, not just the road.”
 
-Arya’s frown deepened, but she didn’t argue it this time. “It’s a lot of mana for that big a radius.”
+Arya’s frown deepened, but she didn’t argue it this time. “It’s a lot of mana for that big a radius. Tier six, at full size, it’ll eat most of what I’ve got.”
 
 “You’ve got it,” Tatsuya said. “Once it lands, they can’t see, can’t hear, can’t cast anything, can’t cleanse anything. They’re not going anywhere until I want them to.”
 
@@ -316,6 +394,8 @@ Muffled sound started reaching him now, something between coughing and retching,
 
 Ru and the two goblins peeled back out of the fog and cleared the treeline, moving fast, low, already climbing back toward the ridge.
 
+*“Tier six, capped where I’m at, still climbing toward eight the higher I level. Whatever’s left in my mana pool after this, that’s the whole cost.”*
+
 Tatsuya triggered the first rune.
 
 The tent went up from the inside out, flame catching the gas mid-breath and feeding on it, the light of it flaring bright enough to punch through the fog itself. The second rune fired a half second later, then the third, each explosion stacking on the last until the whole shape of the tent was a single sheet of orange fire collapsing in on itself.
@@ -358,9 +438,11 @@ He accepted it without hesitating, and the loot window resolved a second later.
 
 A new notification stacked in beside the others, viewer count instead of a kill.
 
-**[VIEWERS: 7,392 → 9,847]**
+**[VIEWERS: 940 → 3,610]**
 
 **[PARTY CONTRIBUTION: ARYA – HUSHVEIL (ADVANCED) – ASSIST CREDITED]**
+
+*“Not back to seven thousand. Not yet. But climbing fast, and this time it’s climbing because of what just happened, not because HGO handed it to me.”*
 
 Her nameplate glowed faintly in the party UI, the assist marker sitting beside it in clean text.
 
@@ -368,11 +450,25 @@ Her nameplate glowed faintly in the party UI, the assist marker sitting beside i
 
 “Yeah,” Tatsuya said. “Welcome to the team.”
 
+The chat window scrolled too fast to read in full, but three names kept surfacing out of the wall of text, the same three over and over.
+
+[Taja_11: bro i think that might be my brother im not saying anything else]
+
+[Pac_Pac: yo the tent thing was actually cinema no cap, run that back]
+
+[AriSky: proud of you out there. seriously.]
+
+Tatsuya typed back one line, quick, before he lost the window to keep scrolling.
+
+[T_Drag: appreciate it. more coming. stick around.]
+
+*“Didn’t give anything away. Didn’t ignore it either. That’s the difference.”*
+
 She didn’t answer right away, her focus somewhere else entirely, scrolling through something only she could see.
 
 “You should check your own chat,” Arya said finally, her tone shifting, sharper now. “PK_Wraith’s already in it. Somebody tagged him the second the kill feed hit, and he’s not happy.”
 
-Tatsuya pulled the chat window up, and it was already moving too fast to fully track, but one line kept getting repeated, quoted, screenshotted in real time.
+Tatsuya pulled the chat window back up, and it was already moving too fast to fully track, but one line kept getting repeated, quoted, screenshotted in real time.
 
 **[@PK_Wraith: whoever’s running that goblin account just made themselves a permanent problem]**
 

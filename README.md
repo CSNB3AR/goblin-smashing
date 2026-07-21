@@ -20,6 +20,8 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`codex/races/`](codex/races/)** — one file per playable race (8), stats/racial ability/resistances/magic-access split out of the shared table that used to live in `codex/lore/`.
 - **[`codex/arena/`](codex/arena/)** — the standing PvP-queue hub: the level-5 gate, the teleport-with-zone-lock mechanic, and matchmaking formats.
 - **[`codex/pro-scene/`](codex/pro-scene/)** — the esports/competitive ecosystem: tournament and PvP formats, the pro-team roster, the guild roster, and the ranking ladder.
+- **[`codex/crafting/`](codex/crafting/)** — the crafting/gathering system: Crafting Points, the four professions, tiered success rates (`overview.md`), food/consumable buffs, and the debuff/resistance framework.
+- **[`codex/materials/`](codex/materials/)** — the raw-materials layer crafting draws from, organized per-region (`overview.md`), maps forward cleanly onto the five-continent Crystal League expansion.
 - **[`codex/subplots/`](codex/subplots/)** — one file per ongoing plot thread, 11 entries, each with a status flag (active / seeded / forward-only).
 - **[`outline/`](outline/)** — beat-by-beat chapter plan, one file per chapter, plus a restructuring-notes file explaining what changed from the old draft and why.
 - **[`chapters/`](chapters/)** — drafted chapter prose, Chapters 1-8.
