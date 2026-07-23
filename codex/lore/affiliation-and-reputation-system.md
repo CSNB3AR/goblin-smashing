@@ -25,8 +25,13 @@ A character's race sets a real, felt starting offset with certain factions befor
 
 Tatsuya's own standing with the Thrash clan specifically starts around **10%**, low Wary-Neutral, consistent with "ally of Thrash" (granted Chapter 3) being real but early and unconsolidated, a status handed to him for one act, not yet a settled relationship. It moves through in-character behavior, choosing his words the way an actual outsider earning trust would, not through simply being tactically correct. A visible tick up (never a jump straight to Allied in one scene) is the mechanical payoff for Chapter 8's assault and the diplomacy that gets him the room to attempt it in the first place.
 
+## How this actually moves: the reactive NPC layer underneath it
+
+Affiliation isn't a flat formula, it moves because the NPC on the other end is actually parsing what the player says and does, per the reactive-AI system now formalized in `codex/lore/npc-tag-system.md`. This is also why register matters, not just intent: speaking to an NPC in metagame/gamer-slang doesn't register as real input and won't move the meter, speaking in a way that NPC's own worldview can process does. See `style-guide/race-dialect-and-voice.md` for the per-race voice rules this depends on.
+
 ## Cross-references
 
 - `codex/lore/preserved-misc-mechanics.md` — the separate, already-locked Karma/Alignment axis.
 - `codex/lore/goblin-clan-culture-and-feral-stigma.md` — the racial starting-modifier basis for goblins specifically.
-- `codex/lore/npc-tag-system.md` — the visible tag-color system this sits alongside; tag color and Affiliation band are related but not identical, a Friendly-band NPC still reads by the existing white/yellow/red/gold rules, Affiliation is the number underneath that color.
+- `codex/lore/npc-tag-system.md` — the visible tag-color system this sits alongside, and the reactive-NPC-AI system that actually drives this meter; tag color and Affiliation band are related but not identical, a Friendly-band NPC still reads by the existing white/yellow/red/gold rules, Affiliation is the number underneath that color.
+- `style-guide/race-dialect-and-voice.md` — the roleplay-register requirement this depends on.

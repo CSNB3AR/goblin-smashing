@@ -10,6 +10,7 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`style-guide/`](style-guide/)** — non-negotiable craft rules and voice/technique guidance.
   - [`craft-rules.md`](style-guide/craft-rules.md)
   - [`voice-technique.md`](style-guide/voice-technique.md)
+  - [`race-dialect-and-voice.md`](style-guide/race-dialect-and-voice.md) — per-race NPC speech/voice rules for the 8 playable races.
 - **[`codex/characters/`](codex/characters/)** — one file per character, 24 entries: Tatsuya, his family, supporting cast, antagonists, and in-game characters.
 - **[`codex/locations/`](codex/locations/)** — one file per location, 12 entries: real-world Tokyo locations, the World Championship venue, and Eryndal's world/regions.
 - **[`codex/objects/`](codex/objects/)** — one file per notable item/hardware, 8 entries: the Haya EB, the HGO access drive, pod hardware, and the goblin signature item set.
@@ -24,7 +25,7 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`codex/materials/`](codex/materials/)** — the raw-materials layer crafting draws from, organized per-region (`overview.md`) and per-category (`organic.md`, `inorganic-and-salvage.md`, `magical-and-spirit-tied.md`), maps forward cleanly onto the five-continent Crystal League expansion.
 - **[`codex/subplots/`](codex/subplots/)** — one file per ongoing plot thread, 11 entries, each with a status flag (active / seeded / forward-only).
 - **[`outline/`](outline/)** — beat-by-beat chapter plan, one file per chapter, plus a restructuring-notes file explaining what changed from the old draft and why.
-- **[`chapters/`](chapters/)** — drafted chapter prose, Chapters 1-8.
+- **[`chapters/`](chapters/)** — drafted chapter prose, Chapters 1-9.
 
 ## Archive
 
@@ -32,4 +33,4 @@ Everything below is split into individual files/entries specifically so it can b
 
 ## Status
 
-Chapters 1-6 drafted and final (`chapters/chapter-01.md` through `chapter-06.md`). Chapter 7 (`chapters/chapter-07.md`) drafted, in progress. Chapter 8 (`chapters/chapter-08.md`, "Assembling the Assault Team") drafted, in progress, closes out the World Quest/tutorial phase. Chapter 9 (real-world fallout + Myrrhwood-departure setup) and Chapter 10 (next arc opener, meant to breathe before Winter Bash tournament logistics take over) are planned but not yet drafted, see `outline/chapter-outline.md`.
+Chapters 1-6 drafted and final (`chapters/chapter-01.md` through `chapter-06.md`). Chapter 7 (`chapters/chapter-07.md`) drafted, in progress. Chapter 8 (`chapters/chapter-08.md`, "Assembling the Assault Team") and Chapter 9 (`chapters/chapter-09.md`, "Silence and Fire") drafted, in progress, together closing out the World Quest/tutorial phase and resolving the PK_Wraith tent-ambush. Chapter 10 (PK_Wraith's blacklist fallout + real-world fallout + Myrrhwood-departure setup) and Chapter 11 (next arc opener, meant to breathe before Winter Bash tournament logistics take over) are planned but not yet drafted, see `outline/chapter-outline.md`.
