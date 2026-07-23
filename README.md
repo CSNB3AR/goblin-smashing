@@ -19,7 +19,7 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`codex/creatures/`](codex/creatures/)** — the bestiary: the Class I-IV threat-tier system (`overview.md`) and one file per class with a representative, expandable creature roster.
 - **[`codex/races/`](codex/races/)** — one file per playable race (8), stats/racial ability/resistances/magic-access split out of the shared table that used to live in `codex/lore/`.
 - **[`codex/arena/`](codex/arena/)** — the standing PvP-queue hub: the level-5 gate, the teleport-with-zone-lock mechanic, and matchmaking formats.
-- **[`codex/pro-scene/`](codex/pro-scene/)** — the esports/competitive ecosystem: tournament and PvP formats, the pro-team roster, the guild roster, and the ranking ladder.
+- **[`codex/pro-scene/`](codex/pro-scene/)** — the esports/competitive ecosystem: tournament and PvP formats, the pro-team roster, the guild roster, the ranking ladder, and the Winter Bash tournament's full bracket/regional/points structure.
 - **[`codex/crafting/`](codex/crafting/)** — the crafting/gathering system: Crafting Points, the six professions, tiered success rates and stations/process (`overview.md`, `professions.md`, `crafting-stations-and-process.md`), buffs and debuffs/resistances (`food-and-consumables.md`, `debuffs-and-resistances.md`), and representative recipes (`recipes-gadget-line.md`, `recipes-spirit-line.md`).
 - **[`codex/materials/`](codex/materials/)** — the raw-materials layer crafting draws from, organized per-region (`overview.md`) and per-category (`organic.md`, `inorganic-and-salvage.md`, `magical-and-spirit-tied.md`), maps forward cleanly onto the five-continent Crystal League expansion.
 - **[`codex/subplots/`](codex/subplots/)** — one file per ongoing plot thread, 11 entries, each with a status flag (active / seeded / forward-only).
@@ -32,4 +32,4 @@ Everything below is split into individual files/entries specifically so it can b
 
 ## Status
 
-Chapters 1-6 drafted and final (`chapters/chapter-01.md` through `chapter-06.md`). Chapter 7 (`chapters/chapter-07.md`) drafted, in progress. Chapter 8 (`chapters/chapter-08.md`, "Assembling the Assault Team") drafted, in progress.
+Chapters 1-6 drafted and final (`chapters/chapter-01.md` through `chapter-06.md`). Chapter 7 (`chapters/chapter-07.md`) drafted, in progress. Chapter 8 (`chapters/chapter-08.md`, "Assembling the Assault Team") drafted, in progress, closes out the World Quest/tutorial phase. Chapter 9 (real-world fallout + Myrrhwood-departure setup) and Chapter 10 (next arc opener, meant to breathe before Winter Bash tournament logistics take over) are planned but not yet drafted, see `outline/chapter-outline.md`.

@@ -12,6 +12,18 @@ Shaman's Veil (already established, see `codex/objects/call-of-the-bones-necklac
 
 **No summoning magic, anywhere, ever.** Not a later tier, not a different flavor of it, not part of this build at all.
 
+## Base weapons: rune-inscribed shuriken, kunai, and a tanto-style blade (confirmed, Chapter 9+)
+
+Not sword, bow, or staff. Tatsuya's actual base weapons are shuriken and kunai, plus a short, thigh-sheathed tanto-style blade, none of them normally treated as a primary weapon by anyone else in the game, shuriken and kunai exist in the item pool strictly as throwables. **This is Rune Priming's own use extended, not a new ability.** He already primes runes onto battlefield terrain (Ancient Bone Flame Barrage's setup, see `codex/objects/call-of-the-bones-necklace.md`); the same skill lets him hand-inscribe a rune insignia directly onto a metal weapon instead, a real, separate craft/prep step done ahead of combat, not an instant or free effect. Higher-tier insignias cost more mana to seat and carry a real failure chance, consistent with the crafting success-rate mechanic already locked in `codex/crafting/overview.md`. He has to actually prep a stock of runed throwables before a fight, not conjure them out of nothing mid-combat, which is why buying raw materials (competing directly against his own debt/surgery money, see `codex/subplots/tabuchi-schematics-and-family-debt.md`) becomes a real, felt cost. Why this over a conventional weapon: runic amplification specifically reads as effective against metal, and nobody's built seriously around shuriken/kunai as a primary weapon, a genuinely unclaimed niche rather than a reskinned sword build.
+
+## Confirmed: no new spell, no summoning, "shadow clone" stays the doppelganger ring
+
+Any duplicate/clone-style mobility trick in Tatsuya's future kit is, and stays, the already-locked doppelganger ring battle item below, not a new spell and not summoning magic. The "no summoning magic, anywhere, ever" rule holds exactly as already written, flagged here again since it's an easy rule to lose track of once a build starts sounding flashier on paper than it's meant to read on the page.
+
+## Early PvP learning curve (confirmed forward-plot, Winter Bash prep arc)
+
+His first real PvP reps go badly, and the reason is mechanical, not a vague "he's new to PvP" gesture: King-of-the-Hill control points hold for a fixed short window, and rotating early costs real setup time he doesn't have, a purely trap-and-wait, setup-heavy playstyle can't actually keep pace with that rhythm. This is the concrete, in-fiction reason he needs the rune-weapon kit above to actually work, mobile, immediate-use tools rather than only pre-armed traps, not a build change for its own sake.
+
 ## Future signature abilities
 
 - **Ancient Bone Flame Barrage, the existing fire/area spell (already established in the old draft), is the only spell here, no separate name for its later, more developed form.** As Tatsuya grows into Shaman's Veil, this is the spell that develops into real trap-bomber territory: a short channel/placement action draws an insignia on the ground or a wall, a brief arming delay, then it's live, invisible to enemies, shown as a hologram to allies only. An enemy who steps into the marked area triggers the flame trap. Costs MP, scales with Wisdom (per `codex/lore/hp-sp-mp-resource-pools.md`), a real cooldown, no spamming multiple markers at once early on. Combos naturally with his existing gas-based kit (Goblin Gas + a marker igniting it is the same family of interaction as the already-established Goblin Gas + Goblin Flare combo from Chapter 3, just a higher tier).
