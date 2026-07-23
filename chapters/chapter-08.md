@@ -432,12 +432,6 @@ Four nameplates flickered and died in rapid succession, kill notifications stack
 
 The fog started clearing as the spell’s duration ran out, and when it lifted there was nothing left where the tent had stood except scorched canvas and four faint drop markers glowing in the dirt.
 
-**[GAMBLER’S GAMBIT – PROC AVAILABLE]**
-
-**[ROLL FOR LOOT?]**
-
-He accepted it without hesitating, and the loot window resolved a second later.
-
 **[IRONHIDE CHESTPLATE – RARE]**
 
 **[VANGUARD’S GREAVES – RARE]**
@@ -446,58 +440,18 @@ He accepted it without hesitating, and the loot window resolved a second later.
 
 *“Legacy gear. They were sitting on real drops, and none of it’s bound. Not anymore.”*
 
-“You just wiped a full party in under a minute,” Arya said, her voice climbing, disbelief cracking into something closer to a laugh. “With a fog spell I was ready to throw away. Nobody’s going to believe this.”
+A second window opened underneath the first, separate from anything the four of them had actually been carrying.
 
-“That’s the idea,” Tatsuya said, still watching the smoke curl up off the scorched dirt below.
+**[GAMBLER’S GAMBIT – PROC AVAILABLE]**
 
-A new notification stacked in beside the others, viewer count instead of a kill.
+**[ROLL FOR LOOT?]**
 
-**[VIEWERS: 940 → 3,610]**
+He accepted it without hesitating, and the loot window resolved a second later, not gear pulled off any of the four bodies, something else entirely, a single plain iron band turning slow in the display, no visible etching, nothing that explained where it had actually come from.
 
-**[PARTY CONTRIBUTION: ARYA – HUSHVEIL (ADVANCED) – ASSIST CREDITED]**
+**[DOPPELGANGER’S BAND – UNIQUE]**
 
-*“Not back to seven thousand. Not yet. But climbing fast, and this time it’s climbing because of what just happened, not because HGO handed it to me.”*
+*“Not theirs. Mine. Fortune pulled this from somewhere else entirely, and I don’t know where yet.”*
 
-Her nameplate glowed faintly in the party UI, the assist marker sitting beside it in clean text.
-
-“I’m in the kill feed,” Arya said, quieter now, almost like she didn’t believe it herself. “My name’s actually showing. People are seeing this.”
-
-“Yeah,” Tatsuya said. “Welcome to the team.”
-
-The chat window scrolled too fast to read in full, but three names kept surfacing out of the wall of text, the same three over and over.
-
-[Taja_11: bro i think that might be my brother im not saying anything else]
-
-[Pac_Pac: yo the tent thing was actually cinema no cap, run that back]
-
-[AriSky: proud of you out there. seriously.]
-
-Tatsuya typed back one line, quick, before he lost the window to keep scrolling.
-
-[T_Drag: appreciate it. more coming. stick around.]
-
-*“Didn’t give anything away. Didn’t ignore it either. That’s the difference.”*
-
-She didn’t answer right away, her focus somewhere else entirely, scrolling through something only she could see.
-
-“You should check your own chat,” Arya said finally, her tone shifting, sharper now. “PK_Wraith’s already in it. Somebody tagged him the second the kill feed hit, and he’s not happy.”
-
-Tatsuya pulled the chat window back up, and it was already moving too fast to fully track, but one line kept getting repeated, quoted, screenshotted in real time.
-
-**[@PK_Wraith: whoever’s running that goblin account just made themselves a permanent problem]**
-
-*“That’s not a warning. That’s a promise.”*
-
-“He’ll blacklist you,” Arya said. “Not officially, HGO doesn’t do anything like that, but every guild that answers to him will know your handle by tonight. Selling any of that gear through a normal listing gets flagged, gets buried, maybe gets you an escort of his people the next time you’re out in the open.”
-
-“So I just sit on it,” Tatsuya said.
-
-“Or you let me move it,” Arya said. “I’ve still got someone from the old guild who handles nothing but the auction house, knows how to route something like this so it doesn’t trace back clean. Won’t be instant, and he’ll take a cut. But it moves, and it moves safe.”
-
-Tatsuya looked at the loot window one more time, at three names on a rarity list that would be worth real money to the right buyer, and closed it.
-
-“Yeah,” he said. “Let’s do that.”
-
-Sevish’s voice reached him from further up the hill, calling them back in, and Tatsuya turned from the smoke still curling off the road below, Ru at his shoulder, Arya falling in beside them, the road that had trapped Bloodhurst an hour ago finally, quietly, theirs again.
+He closed his hand around it, the metal cold even through what was left of his glove, and looked back down the hillside at the smoke still curling up off the scorched dirt where the tent used to be.
 
 **[END CHAPTER EIGHT]**
