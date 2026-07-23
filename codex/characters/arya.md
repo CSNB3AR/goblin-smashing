@@ -31,3 +31,7 @@ Once Tatsuya is actually playing, Arya records and posts footage of his early ga
 The old draft used both "Aria" (Chapter 8) and "AriaSky" (Chapter 10 stream handle) inconsistently. Confirmed spelling going forward: **Arya**.
 
 **Handle, confirmed Chapter 8: AriSky** (not "AriaSky"), her actual in-game/Loop chat handle, distinct from her real name. Uses it to chat on Tatsuya's stream before she's formally recruited into the assault, a light, supportive presence rather than announcing herself.
+
+## Shivbone Staff, Chapter 8
+
+Off the PK_Wraith kill, Spellweaver_Lyn's own legacy weapon drops separately from the rest of the sellable gear: a Shivbone Staff (Rare-Legendary, see `codex/crafting/recipes-spirit-line.md` for the item's full recipe/effect entry, +Wisdom and +Fortune, a Spirit Echo passive that applies a light Silence proc). Tatsuya doesn't put it up for sale with the rest of the loot, he sets it aside for Arya specifically, a real, on-page recognition that it matches her build directly, complementing the same Hushveil investment he just talked her into. The other three pieces (Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest) go to market normally.

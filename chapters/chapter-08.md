@@ -438,7 +438,15 @@ The fog started clearing as the spell’s duration ran out, and when it lifted t
 
 **[PK RAIDING CREST – RARE]**
 
-*“Legacy gear. They were sitting on real drops, and none of it’s bound. Not anymore.”*
+*“Legacy gear. They were sitting on real drops, and none of it’s bound. Not anymore. All three, sellable.”*
+
+A fourth marker sat apart from the other three, right where Spellweaver_Lyn had gone down, and what rose out of it wasn’t armor. A staff, gnarled dark wood wound in live green vines, a faceted pale-green crystal cradled at its head, soft motes of light drifting off it into the settling smoke.
+
+**[SHIVBONE STAFF – LEGENDARY]**
+
+He turned it once in his hands, weighing it, and thought of Arya standing not thirty feet from him, still holding onto a spell she’d almost thrown away an hour ago.
+
+*“This one’s not going on any market. She needs this more than the yen does.”*
 
 A second window opened underneath the first, separate from anything the four of them had actually been carrying.
 
