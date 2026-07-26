@@ -436,15 +436,15 @@ He barely registered it. There wasn’t room left in his head for anything that 
 
 Tatsuya followed Sevish and Wyx through the open ground, Ru close at his shoulder, goblins parting around them as they moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
 
-They were maybe ten paces from the entrance when a goblin came sprinting through the gap between two tents, one of the camp scouts, breathing hard, blood streaked across one sleeve that wasn’t his own.
+They were maybe ten paces from the entrance when a goblin came sprinting through the gap between two tents, Kesh, one of the camp scouts, breathing hard, blood streaked across one sleeve that wasn’t his own.
 
-“Chief,” the scout gasped. “Party hit the eastern patrol line. Killed two of ours before we even saw them coming.”
+“Chief,” Kesh gasped, one hand braced against his knee, chest working hard for air. “Kesh bring news. Patrol line, east. Party hit it. Two dead already, before Kesh and the others even see them coming.”
 
 Sevish’s whole posture changed, shoulders squaring.
 
 “How many?” Sevish asked.
 
-“Four, maybe five,” the scout said. “Mixed classes. Didn’t get close enough to count clean.”
+“Four, maybe five,” Kesh said, still catching his breath, his free hand swiping blood off his sleeve. “Mixed classes. Kesh see a tent, red, big, sitting right at the road’s edge. Not moving. Just sitting there. Not close enough for Kesh to get a clean count.”
 
 *“Dammit. That’s not good. Has someone found my location already?”*
 
