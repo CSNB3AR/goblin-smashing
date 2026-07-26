@@ -30,7 +30,7 @@ Same locked beats as before (Loop virality, affiliate realism, the Tochi notific
 
 ## Ending hook
 
-Arya's voice cuts through the hallway noise, "Hey, T-Drag." Tatsuya turns to see her this time (a beat later than the version drafted earlier this session), the chapter itself describing her before cutting, `**[END CHAPTER EIGHT]**`. Chapter 9 opens directly on her first line, no re-description.
+Arya's voice cuts through the noise, "Hey, T-Drag." Tatsuya turns to see her leaning against the operator's booth desk, right where Leon should have been, but wasn't. The chapter itself describes her before cutting, `**[END CHAPTER EIGHT]**`. Chapter 9 opens directly on her first line, no re-description.
 
 ## Craft notes for any future resync
 
