@@ -1,5 +1,7 @@
 # World Quests
 
+One category among six, see `codex/lore/quest-types-and-categories.md` for the full taxonomy (Legacy/World/Racial/Clan/Breach/Contract) and how "Call of the Bones" specifically overlaps three of them at once.
+
 Global quest lines any player can attempt, actively hunted by the entire playerbase, not just whoever's nearby, and effectively hoardable by whoever gets there first. Completion can generate a "world-level item," extremely rare, powerful, globally significant gear that still matters (in nerfed form) even in ranked esports play (see `codex/lore/deck-building-rarity-and-classes.md`, World-tier is the top rarity).
 
 ## Real stakes for "Call of the Bones," specifically

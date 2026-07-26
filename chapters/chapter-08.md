@@ -44,7 +44,7 @@ Sevish’s weight rocked back on his heels, his hand tightening on the axe. “G
 
 A notification bloomed at the edge of Tatsuya’s vision, gold-bordered, bigger than anything else that had come through tonight.
 
-**[WORLD QUEST UPDATED: CALL OF THE BONES]**
+**[BREACH QUEST: DOMAIN DEFENSE]**
 **[INTRUDERS INVADING BLOODHURST]**
 **[THRASH CLAN DEFENDERS: 50/50]**
 **[INVASION TIMER: 00:04:37]**
@@ -61,9 +61,9 @@ A notification bloomed at the edge of Tatsuya’s vision, gold-bordered, bigger 
 **[STATS]**
 **[COURAGE: 4]**
 **[POWER: 4]**
-**[WISDOM: 6] (+4)**
-**[SPEED: 10]**
-**[FORTUNE: 15] (+6)**
+**[WISDOM: 8] (+5)**
+**[SPEED: 9]**
+**[FORTUNE: 15] (+3)**
 **[ENERGY: 4]**
 
 **[ABILITIES]**
@@ -74,7 +74,7 @@ A notification bloomed at the edge of Tatsuya’s vision, gold-bordered, bigger 
 **[GAMBLER’S GAMBIT – PASSIVE]**
 **[ANCIENT BONE FLAME BARRAGE – TIER 5]**
 
-“Four points Wisdom, six Fortune. That’s the build. Speed’s sitting at ten, that’s enough for now.” He dismissed the screen and looked back at Sevish, his stance settling back to even.
+“Four points Wisdom, six Fortune. That’s the build. Speed’s sitting at nine, that’s enough for now.” He dismissed the screen and looked back at Sevish, his stance settling back to even.
 
 Sevish was already barking orders, his voice carrying across the tent and out into the camp beyond, goblins scrambling the second his words landed. “Rott, Nab, get to the eastern line, hold position, eyes on that road, do not engage unless they move first. Wyx, I want rotation shifts every thirty seconds, nobody stays exposed long enough to draw fire.”
 

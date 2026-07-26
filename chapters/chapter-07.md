@@ -266,7 +266,7 @@ Notifications came fast, stacking on top of each other in his vision.
 
 **[BOUND ITEM – CANNOT BE DROPPED OR TRADED]**
 
-**[+5 FORTUNE]**
+**[+5 WISDOM]**
 
 **[RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]**
 

@@ -35,3 +35,4 @@ Affiliation isn't a flat formula, it moves because the NPC on the other end is a
 - `codex/lore/goblin-clan-culture-and-feral-stigma.md` — the racial starting-modifier basis for goblins specifically.
 - `codex/lore/npc-tag-system.md` — the visible tag-color system this sits alongside, and the reactive-NPC-AI system that actually drives this meter; tag color and Affiliation band are related but not identical, a Friendly-band NPC still reads by the existing white/yellow/red/gold rules, Affiliation is the number underneath that color.
 - `style-guide/race-dialect-and-voice.md` — the roleplay-register requirement this depends on.
+- `codex/lore/mastery-system.md` — a third, separate progression axis. Affiliation is who trusts you, Mastery is what you're actually capable of, don't conflate the two.
