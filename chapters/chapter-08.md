@@ -1,26 +1,28 @@
 Chapter Eight: Assembling the Assault Team
 
-The smoke reached Tatsuya before the words did, a thin gray thread drifting low along the treeline outside the war tent, and underneath the smell of it he could still taste the ash from an hour ago, Shiv’s ash, clinging to the back of his throat no matter how many times he swallowed. His new hair kept catching the lamplight wrong, white where it should have been dark, and every time it happened his brain still snagged on it for half a second before catching up to what he was actually looking at.
+The smoke reached Tatsuya before the words did, a thin gray thread drifting low along the treeline outside the war tent, and underneath the smell of it he could still taste the ash from an hour ago, Shiv’s ash, clinging to the back of his throat no matter how many times he swallowed. His new hair kept catching the firelight wrong, white where it should have been dark, and every time it happened his brain still snagged on it for half a second before catching up to what he was actually looking at.
 
-The scout burst through the tent flap before anyone called him in, blood streaked down a sleeve that wasn’t his, chest heaving, one clawed hand already reaching for his knee before his legs gave out. Tatsuya caught the name etched next to the scout’s gray tag a second before the goblin opened his mouth.
+A notification flickered at the edge of his vision before he could stop himself from reading it.
 
-**[KESH]**
+**[VIEWERS: 7,392 → 8,110]**
 
-“Based on his breathing, someone’s been chasing him.” Tatsuya’s eyes stayed on Kesh’s face, watching the goblin’s chest work for air.
+Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it a few minutes ago. He shoved it out of view without opening it. Kesh was still bent over his own knee ten feet away, chest working for air, and that mattered a lot more right now than anything chat had to say about it.
 
-“Kesh bring news,” Kesh gasped, his voice choppy, the words coming in bursts between breaths, one clawed hand gripping his knee hard enough the knuckles went pale green. “Kesh and others, scouting the road down the hill. Red tent, big. Intruders. Just sitting.” He scratched at the back of his head with his free hand, claws catching in matted hair, his eyes darting between Sevish and the tent flap like he expected something to follow him through it. “Kesh’s partner, he got caught. Other one too. They got him, they got him bad. Kesh barely, Kesh barely made it back.”
+Kesh hadn’t moved from the spot he’d skidded to a stop in, one hand still braced hard against his knee, claws gone pale at the tips, his breath coming in short, ragged pulls that hadn’t evened out at all.
 
-“Every word costs him something.” Tatsuya’s weight shifted forward without him deciding to, drawn half a step closer to the sound of Kesh fighting for air.
+“Someone should tell his lungs the danger’s already over.” The corner of Tatsuya’s mouth twitched toward a grin he had no business wearing right now, and he flattened it out again before it could fully surface.
 
-Sevish was already moving before Kesh finished, his voice cutting across the tent sharp and clean, the two-handed battle axe leaning against his chair already in reach. “Wyx. Get the barricades up, reinforce the eastern watch, pull everyone back inside the palisade line. Nobody engages past the treeline.” He turned toward Kesh, his scarred face set. “How many on that road, Kesh? Give me a clean count.”
+Sevish didn’t wait for anyone to catch their breath. He was already moving, closing the last stretch of ground into the tent in three long strides, Wyx a half step behind him, and Tatsuya followed with Ru crowding close at his shoulder, the flap falling shut behind them on canvas heat, woodsmoke, and old leather instead of open air. Sevish’s voice cut through it sharp and clean before anyone had really settled, the two-handed battle axe leaning against his chair already in reach the second he crossed the threshold. “Wyx. Get the barricades up, reinforce the eastern watch, pull everyone back inside the palisade line. Nobody engages past the treeline.” He turned back toward the flap, toward Kesh trailing in last, his scarred face set. “How many on that road, Kesh? Give me a clean count.”
 
 “Four,” Kesh said, still catching his breath, his hand finally coming off his knee to gesture low and wide. “Maybe five. Not farmers. Kesh couldn’t, couldn’t get close enough. They saw Kesh coming, they saw everything.”
+
+“Every word costs him something.” Tatsuya’s weight shifted forward without him deciding to, drawn half a step closer to the sound of Kesh fighting for air.
 
 Sevish’s stance squared, his scarred hand tightening on the axe shaft. “That’s not a for-sure number, Kesh.” His tone carried an edge now, the kind that said he was running out of patience. “I take it as four for a safe number, and you’re telling me four men gave you all this trouble?”
 
 Kesh scratched at the back of his head again, his claws catching in matted hair, his eyes dropping to the dirt. “They attacked us. Random. They have caster.”
 
-“The wisdom of goblins is really showing at full force.” Tatsuya kept his expression flat, watching Kesh struggle to piece the report together.
+“The wisdom of goblins really shines in a crisis, doesn’t it.” A laugh threatened at the back of Tatsuya’s throat, and he let it die there instead of on his face, not with Sevish standing right there working through an actual threat.
 
 Sevish’s eyes tracked to Tatsuya for half a second, something passing behind them, then back to Kesh. “Where exactly? Road shoulder, treeline, where? I need locations, Kesh.”
 

@@ -1,4 +1,4 @@
-# Chapter Seven: The First Disciple
+Chapter Seven: The First Disciple
 
 The void collapsed inward, light and sound folding together in that nauseating rush he still wasn’t used to, and when the game world of Eryndal snapped back into focus, he was exactly where he’d left off.
 
@@ -10,7 +10,7 @@ The void collapsed inward, light and sound folding together in that nauseating r
 
 The readout sat fixed at the top edge of his vision, clean white numbers he couldn’t blink away.
 
-*“Just like I left it. Ridiculously low. Really need to start grinding or I won’t last in any PvP setting.”*
+“Just like I left it. Ridiculously low. Really need to start grinding or I won’t last in any PvP setting.”
 
 The blue UI screen disappeared the second he thought about dismissing it, responsive in a way that still felt weird, reading his intent before he’d fully formed it.
 
@@ -22,7 +22,7 @@ A notification blinked into existence, soft green text.
 
 **[EFFECT: GRANTS USER 50% EXPERIENCE BUFF FOR ONE HOUR DUE TO SLEEPING IN A SAFE AREA]**
 
-*“So sleeping on a bedroll in a busted tent counts as safe for a goblin. That’s almost insulting.”* He let out a short breath that might’ve been a laugh, sitting up slow, straw crackling louder under the shift in weight. *“Buff procs once a day for an hour. Gotta make sure when I log off I’m somewhere I can actually get it. Whatever comes out of today needs to be worth something once I’m back out.”*
+“So sleeping on a bedroll in a busted tent counts as safe for a goblin. That’s almost insulting.” He let out a short breath that might’ve been a laugh, sitting up slow, straw crackling louder under the shift in weight. “Buff procs once a day for an hour. Gotta make sure when I log off I’m somewhere I can actually get it. Whatever comes out of today needs to be worth something once I’m back out.”
 
 He scanned the tent, letting his eyes adjust to the dim lamplight. Still wearing the same torn prisoner rags, one shoulder split halfway down the seam, the fabric rough and scratchy against his green skin. The empty Goblin Gadget Belt sat at his waist, pouches hanging limp with nothing loaded yet.
 
@@ -32,7 +32,7 @@ The smaller goblin, the one he’d stepped in for yesterday, was sitting near th
 
 The kid looked up the second Tatsuya’s presence fully resolved, scrambling to his feet before either of them had said anything, his whole posture eager in a way that hit harder than Tatsuya expected.
 
-*“Guess Sevish and the others threw him in here too.”*
+“Guess Sevish and the others threw him in here too.”
 
 “You woke up,” the kid said, his voice pitched slightly too high, cracking on the last word like he’d been holding his breath and hadn’t let it out yet.
 
@@ -50,7 +50,7 @@ Not like he’d stopped talking. Like someone had paused him mid-frame, his whol
 
 The kid wasn’t moving. Wasn’t breathing. Just frozen.
 
-*“That can’t be normal.”*
+“That can’t be normal.”
 
 The air changed before he saw anything.
 
@@ -60,7 +60,7 @@ A notification popped at the edge of his vision, red-bordered.
 
 **[WARNING: ANOMALOUS EFFECT DETECTED]**
 
-*“Warning signs can’t be good.”*
+“Warning signs can’t be good.”
 
 Ash and smoke poured in through the gap in the tent flap, moving slow and deliberate. A wide-brimmed hat formed first out of the smoke, solid and detailed, then shoulders, broad and hunched, then burning green eyes that didn’t blink, didn’t waver, just stared straight at him.
 
@@ -68,13 +68,13 @@ Ash and smoke poured in through the gap in the tent flap, moving slow and delibe
 
 The nameplate read gold.
 
-*“Gold tag. World-tier. This is it.”*
+“Gold tag. World-tier. This is it.”
 
 The kid behind him had gone completely still. The color around him had gone dull, washed thin and gray like the light itself had been dialed down. A fine mist crawled low across the packed dirt outside that hadn’t been there a second ago.
 
 Three notifications stacked on top of each other in rapid succession, each one flashing brighter red than the last.
 
-**[WARNING]** **[WARNING]** **[WARNING]**
+**[WARNING] [WARNING] [WARNING]**
 
 **[YOU HAVE BEEN STRUCK BY FLAMONTA – WORLD-LEVEL EFFECT]**
 
@@ -88,7 +88,7 @@ The floor came up and hit him before he’d registered falling, his knees buckli
 
 He tried to speak and his mouth moved half a second late, the words coming out sluggish and wrong.
 
-*“Slowed times four. Can barely move. If this goes bad I’m locked out for seven days and that’s the whole window gone.”*
+“Slowed times four. Can barely move. If this goes bad I’m locked out for seven days and that’s the whole window gone.”
 
 His vision swam slightly at the edges, colors bleeding together, and he forced himself to breathe slow through his nose, trying to ground himself in something real. The smell of smoke and old canvas, the rough texture of packed dirt under his palm.
 
@@ -106,13 +106,13 @@ The ash and smoke figure stepped closer, each movement smooth and deliberate, co
 
 “You’re the one who said we have bigger problems than fighting each other,” the voice said, and it didn’t come from one place. It came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore, resonating in his chest.
 
-*“Wait, I said that yesterday.”* Tatsuya froze in thought, thinking about the interaction he’d had with Sevish and Wyx after he’d been captured. *“To Sevish. After the fight. How does he know that?”*
+“Wait, I said that yesterday.” Tatsuya froze in thought, thinking about the interaction he’d had with Sevish and Wyx after he’d been captured. “To Sevish. After the fight. How does he know that?”
 
 He mumbled the words under his breath, trying to piece it together.
 
 Tatsuya tried to push himself up again, his arm shaking with the effort, and managed to get one knee under him before the pressure doubled and shoved him back down, his cheek hitting dirt this time. The taste of earth and old smoke filled his mouth.
 
-*“This is world-tier content. Gotta play this right.”*
+“This is world-tier content. Gotta play this right.”
 
 “If you’re gonna kill me just do it and stop fucking around,” Tatsuya said, forcing the words out even through the drag. His pulse hammered, real adrenaline spiking even though he knew this was VR.
 
@@ -120,11 +120,11 @@ The figure stepped even closer, ash trailing behind him like smoke off a dying f
 
 “Calm yourself,” the voice said, quieter now, almost amused. “Calm yourself, T-Drag. Or can I call you T? Seems easier on my tongue. If I meant to kill you, you’d already be dead. This is just what standing near me costs, for now.”
 
-*“He knows my username. And he just shortened it. Forums said quest NPCs respond to keywords but this feels different. Either way, world-tier means gear, means money, means this is the break I needed.”*
+“He knows my username. And he just shortened it. Forums said quest NPCs respond to keywords but this feels different. Either way, world-tier means gear, means money, means this is the break I needed.”
 
 Tatsuya’s jaw tightened slightly, his mind working faster now.
 
-*“Sixteen thousand yen yesterday off two elixirs. Gambler’s Gambit proc’d. Crit one-shot two level threes. The math already checked out once. If this quest chain pays the same way, I’m in.”*
+“Sixteen thousand yen yesterday off two elixirs. Gambler’s Gambit proc’d. Crit one-shot two level threes. The math already checked out once. If this quest chain pays the same way, I’m in.”
 
 A small notification ticked in the corner of his vision, easy to miss against everything else.
 
@@ -132,7 +132,7 @@ A small notification ticked in the corner of his vision, easy to miss against ev
 
 Then, a breath later, **[VIEWERS: 11 → 24]**.
 
-*“Stream’s live. People are watching. Need to say something.”*
+“Stream’s live. People are watching. Need to say something.”
 
 “Hey,” he said out loud, quick, his voice still dragging slightly through the slow effect. “Thanks for pulling up. Give me a minute, this is a lot.”
 
@@ -148,7 +148,7 @@ The Call of the Bones tag never left his HUD. He filed it away and stayed on his
 
 The green eyes didn’t blink, didn’t move, just burned steady in the smoke.
 
-*“Okay. This has to be a quest hook,”* was Tatsuya’s first thought, hearing it.
+“Okay. This has to be a quest hook,” was Tatsuya’s first thought, hearing it.
 
 “I loved a queen who wasn’t mine to love. The king didn’t take kindly to that once it came out, and his court’s mages made sure I understood it. What they did to me for it, they didn’t call it a curse. They called it a correction.”
 
@@ -160,17 +160,17 @@ He gestured, vague and dismissive, at his own ash and smoke form, the shape of h
 
 He paused, and something in the pause felt deliberate.
 
-*“He’s waiting for me to say something.”*
+“He’s waiting for me to say something.”
 
 Tatsuya stayed quiet, just kept his eyes on Shiv, reading the moment.
 
 “Understand,” Shiv said, his voice dropping slightly. “The court that cast me out wasn’t righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I’m not interested in playing the villain of that story just to sound humble.”
 
-*“Okay. So he’s not the bad guy. Got it.”*
+“Okay. So he’s not the bad guy. Got it.”
 
 “There’s more to it than that,” Shiv said. “How I managed to hold the goblin clans together at all, that part you’ll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn’t. I leave what’s left of my Warset to any goblin with an open mind enough to go looking for it.”
 
-*“Warset. That’s the gear chain. Multiple pieces. This isn’t just one quest, this is a whole chain.”*
+“Warset. That’s the gear chain. Multiple pieces. This isn’t just one quest, this is a whole chain.”
 
 A new notification flashed at the edge of his vision, bright yellow bordered.
 
@@ -182,15 +182,15 @@ Then, half a second later, **[VIEWERS: 316 → 891]**.
 
 Tatsuya’s breath caught.
 
-*“Wait. HGO’s main channel just hosted me. Everyone watching their feed just got redirected here.”*
+“Wait. HGO’s main channel just hosted me. Everyone watching their feed just got redirected here.”
 
 The number kept climbing. **[VIEWERS: 891 → 1,247]**.
 
-*“Can’t take this back. Whatever happens here, everyone’s gonna see it.”*
+“Can’t take this back. Whatever happens here, everyone’s gonna see it.”
 
 **[FOLLOWERS: 6 → 94]**
 
-*“People are actually following off this. Not just watching, following.”*
+“People are actually following off this. Not just watching, following.”
 
 “Alright,” Tatsuya said, his voice steadier now even through the drag. “So why me? You’ve got a whole camp of goblins out there. Why pull me in here specifically?”
 
@@ -198,13 +198,13 @@ Shiv’s burning green eyes stayed locked on Tatsuya’s face.
 
 “Because my reach is fading, and you’re the only one who’s shown me the same kind of wisdom I had, once,” Shiv said, and the ash flickered again. “I’ve done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That’s not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds.”
 
-*“He’s talking about yesterday. The camp. Stepping in for the kid. That triggered this.”*
+“He’s talking about yesterday. The camp. Stepping in for the kid. That triggered this.”
 
 **[VIEWERS: 1,247 → 1,803]**
 
 The chat window was moving too fast to read now, lines stacking on top of each other, questions he couldn’t answer yet.
 
-*“Pros are probably watching. Guilds. Everyone.”*
+“Pros are probably watching. Guilds. Everyone.”
 
 “What I’m asking isn’t small, either,” Shiv continued. “It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you’re at it. But that takes disciples.”
 
@@ -212,11 +212,11 @@ His eyes moved past Tatsuya, settling on the kid frozen mid-step by the tent fla
 
 “That one’s already halfway there without knowing it,” Shiv said, something almost warm creeping into his tone. “I’d like your permission before I go any further with him. He’s yours to vouch for, not mine.”
 
-*“Permission. He’s asking, not telling.”*
+“Permission. He’s asking, not telling.”
 
 Tatsuya looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness.
 
-*“If I say yes, this kid’s in it too. Can’t just click through this.”*
+“If I say yes, this kid’s in it too. Can’t just click through this.”
 
 He turned back to Shiv, met those burning green eyes, and made the call.
 
@@ -230,11 +230,11 @@ Shiv turned his full attention back to Tatsuya, raising one hand, and a necklace
 
 “This was mine,” Shiv said, his voice dropping lower. “Piece of what I was, before and after the change. You wear it, you’re not just a goblin anymore. You’re something closer to what I used to be. Do you want that? Say it plain. I won’t take the choice from you.”
 
-*“World-tier item. Bound, so I can’t sell it. But if it’s anything like yesterday’s drops, everything that comes with it is worth more than the item itself.”*
+“World-tier item. Bound, so I can’t sell it. But if it’s anything like yesterday’s drops, everything that comes with it is worth more than the item itself.”
 
 Tatsuya’s mind ran the calculation fast.
 
-*“Sixteen thousand off two potions. World Quest pays better than random trash loot. This is the shot.”*
+“Sixteen thousand off two potions. World Quest pays better than random trash loot. This is the shot.”
 
 “I want it,” Tatsuya said, his voice clear. “Yes.”
 
@@ -248,7 +248,7 @@ Heat flooded through him, not painful but overwhelming, like something was unrav
 
 **[FLAMONTA – EXPIRED]**
 
-*“Debuff’s gone. I can move again.”*
+“Debuff’s gone. I can move again.”
 
 His legs answered immediately, clean and responsive.
 
@@ -258,7 +258,7 @@ His hair had gone white. Not gray, not silver, pure white. His skin had shifted 
 
 **[THE FIRST DESCENDANT OF SHIV]**
 
-*“First. That means nobody else has this.”*
+“First. That means nobody else has this.”
 
 Notifications came fast, stacking on top of each other in his vision.
 
@@ -286,13 +286,13 @@ Notifications came fast, stacking on top of each other in his vision.
 
 **[ABILITY GRANTED: RUNE PRIMING]**
 
-*“That’s a great boost. Already know what I’m attaching this onto.”*
+“That’s a great boost. Already know what I’m attaching this onto.”
 
 **[VIEWERS: 2,456 → 3,982]**
 
 Tatsuya pulled the allocation screen open, his mind already running the build.
 
-*“Four into Wisdom. Six into Fortune.”*
+“Four into Wisdom. Six into Fortune.”
 
 He split the points fast, didn’t touch Power, Courage, or Speed.
 
@@ -304,7 +304,7 @@ The new passive sat at the bottom of the list.
 
 **[ABILITY GRANTED: CALL OF COMMAND]**
 
-*“One companion slot. And the kid’s about to fill it.”*
+“One companion slot. And the kid’s about to fill it.”
 
 Shiv raised one hand toward the kid, and the freeze broke around him alone. The kid staggered forward half a step, blinking hard, his breath coming fast.
 
@@ -314,7 +314,7 @@ Shiv raised one hand toward the kid, and the freeze broke around him alone. The 
 
 The kid opened his mouth, and nothing came out.
 
-*“He doesn’t have one.”*
+“He doesn’t have one.”
 
 “Runt,” Tatsuya said, the word coming out before he’d fully decided to say it. It caught halfway through his own mouth, the sound folding into something shorter. “Ru. That’s what I’m calling him. Ru.”
 
@@ -340,7 +340,7 @@ Notifications came for Ru too, visible in Tatsuya’s peripheral vision.
 
 **[TITLE UNLOCKED: FIRST DISCIPLE OF SHIV]**
 
-*“Hobgoblin. Direct evolution. That’s pretty cool.”*
+“Hobgoblin. Direct evolution. That’s pretty cool.”
 
 Ru looked down at his own hands, flexing them slow, testing the new size and weight of himself.
 
@@ -378,15 +378,11 @@ Tatsuya stayed where he was, just inside the tent entrance, Ru close at his shou
 
 **[FOLLOWERS: 94 → 580]**
 
-*“Six thousand people watching this and I’ve gained so many followers. Can’t keep track of the chat but I know this should help me out if I can unlock getting subs. Damn, still crazy HGO hosted. Must be because of the World Quest. Has to be, why else would they.”*
-
-A couple of names snapped into focus out of the scroll before he lost the thread of it entirely. One handle he half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. *“Taji?”* He didn’t say it out loud, didn’t want to know for sure badly enough to ask. If it was him, better he stayed quiet about it too.
+A couple of names snapped into focus out of the scroll before he lost the thread of it entirely. One handle he half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. “Taji?” He didn’t say it out loud, didn’t want to know for sure badly enough to ask. If it was him, better he stayed quiet about it too.
 
 The other name he didn’t have to guess at.
 
-*Arya.*
-
-*“Play it straight. Stay in it.”* He typed back one line without breaking stride, the same easy tone he’d have thrown at anybody else in chat right now, nothing in it that would give him away. Whatever she made of it, she’d make of it. He didn’t have hands to spare on more than that, and pulling back now would draw more attention than just staying locked in.
+Arya.
 
 His thoughts danced as it took maybe two minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see Tatsuya standing just outside the tent entrance, white hair, lighter skin, the necklace visible at his throat, Ru looming a full head taller than he’d been that morning, he stopped walking entirely.
 
@@ -418,11 +414,11 @@ They’d barely taken three steps toward the war tent when Leon’s voice crackl
 
 “Hey, sorry to jump back in,” Leon said, “but I’m gonna need to step away for a bit.” A beat, like he was deciding how much to explain. “External monitors started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that’s a patch, not a real fix. VRSA’s inspector is swinging by to check on it, but he can’t actually work on it while you’re still connected, live monitoring gear doesn’t come down mid-dive. Just checking it’s still holding for now.”
 
-*“He’s been quiet this whole time. Didn’t say a word during the Shiv scene, didn’t chime in with anyone on his side either.”*
+“He’s been quiet this whole time. Didn’t say a word during the Shiv scene, didn’t chime in with anyone on his side either.”
 
 “Feed’s still recording the whole time, for what it’s worth,” Leon added. “Been watching. Honestly it’s been like a movie over here. Didn’t want to break in on any of it, we agreed I’d keep things low-key while Arya’s still around. Doesn’t mean I’m not here, though. Anything you need, I’m still on the other end of this.”
 
-*“Good to know he’s actually keeping his side of it.”*
+“Good to know he’s actually keeping his side of it.”
 
 “Yeah, I’m good,” Tatsuya said out loud. “Take your time.”
 
@@ -440,13 +436,9 @@ They were maybe ten paces from the entrance when a goblin came sprinting through
 
 “Chief,” Kesh gasped, one hand braced against his knee, chest working hard for air. “Kesh bring news. Patrol line, east. Party hit it. Two dead already, before Kesh and the others even see them coming.”
 
-Sevish’s whole posture changed, shoulders squaring.
+Tatsuya’s whole posture changed, shoulders squaring.
 
-“How many?” Sevish asked.
-
-“Four, maybe five,” Kesh said, still catching his breath, his free hand swiping blood off his sleeve. “Mixed classes. Kesh see a tent, red, big, sitting right at the road’s edge. Not moving. Just sitting there. Not close enough for Kesh to get a clean count.”
-
-*“Dammit. That’s not good. Has someone found my location already?”*
+“Dammit. That’s not good. Has someone found my location already?”
 
 **[VIEWERS: 6,804 → 7,392]**
 
