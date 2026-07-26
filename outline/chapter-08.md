@@ -1,59 +1,39 @@
 # Chapter 8 — "Assembling the Assault Team" (Outline of the drafted chapter)
 
-**Status:** Chapter fully drafted, see `chapters/chapter-08.md`. Split from a longer combined draft: Chapter 8 now covers the ambush report through the real-world interlude, ending on a hook right as Arya's voice catches Tatsuya in the Sakura Arcade hallway, before he's even turned around. The recruitment conversation, re-entry, and the assault itself continue in `chapters/chapter-09.md` ("Silence and Fire"), see `outline/chapter-09.md`. This file is a beat-by-beat reference of what's actually on the page, useful for checking any future resync (NovelCrafter, or otherwise) against, since past syncs have stripped sensory detail and collapsed short standalone lines. Anywhere this outline calls out a specific sensory beat or a short standalone line, that's a flag: if it's missing or flattened in a synced version, that's drift, not a deliberate edit.
+**Status:** Chapter fully drafted, see `chapters/chapter-08.md`, author's own hand-authored draft, adopted with house-style fixes applied. Ends on a hook right as Arya's voice catches Tatsuya in the Sakura Arcade hallway, and the chapter itself now includes him turning to see her, one beat later than an earlier split point used briefly this session. `chapters/chapter-09.md` ("Silence and Fire") picks up directly at her first line of dialogue, no re-introduction. This file is a beat-by-beat reference, useful for checking any future resync against.
 
-**House-style note:** inner monologue is plain quotation marks, no italics, per the current, twice-reconfirmed rule in `style-guide/craft-rules.md`. Earlier versions of this outline referenced italicized monologue, that's now stale, the chapter itself was corrected to match the current rule.
+**House-style note:** inner monologue is plain quotation marks, no italics, per the current, twice-reconfirmed rule in `style-guide/craft-rules.md`. Every bracketed notification while still in-dive is bold; every real-world phone/banking/text notification in the Sakura Arcade bathroom scene is plain.
 
-## Opening — Tatsuya's own POV, sensory grounding before any dialogue
+## Opening — Kesh's report, a dramatic entrance
 
-Opens on smoke and ash, not on Sevish's reaction. Specific sensory beats that need to survive any resync: the smoke smell reaching him before the words do, the taste of Shiv's ash still in his throat, his new white hair catching lamplight wrong and his brain snagging on it half a second before catching up. **Kesh** (named scout, one of the younger eastern-watch runners) reports in with blood on his sleeve that isn't his own. This grounding has to land before the report itself starts, not be summarized after.
+Opens on the same sensory grounding as before (smoke, ash-taste, hair catching light wrong), then Kesh bursts through the war tent's flap before being called in, a `**[KESH]**` nameplate reveal landing right as he opens his mouth. Kesh speaks in the broken, third-person, low-Wisdom-coded voice locked this pass (see `style-guide/race-dialect-and-voice.md`): "Kesh bring news," never "I." His report covers the same facts as before (two scouts down, a red tent at the road's edge, raiders "just sitting"), but now the specific detail (tent color, size, stationary posture) is something he can plausibly have glimpsed without contradicting Chapter 7's "not close enough for Kesh to get a clean count" line, see `outline/chapter-outline.md`'s note on the Chapter 7 fix that makes this consistent.
 
-## The scout report, textured
+## Sevish's reaction and the affiliation tick
 
-Kesh: raiders aren't advancing or falling back, tent's already pitched on the road's shoulder, they're just sitting, waiting. Two scouts dead, Kesh barely got back. Tatsuya's private read, one line standing alone by design: "Waiting for what." Then his own follow-on realization, also isolated for landing: they think they're fighting monsters, not real players, that's why they're sitting exposed instead of dug in defensive. This misread is the thing the whole ambush later exploits, needs to read as his own deduction in the moment, not narrated exposition.
+Sevish, now given a signature two-handed battle axe (new visual detail this pass), presses Kesh for a clean count and gets pushback consistent with a scout who's still shaken and low-Wisdom-coded. Tatsuya reads the geography trap (Bloodhurst's own hillside/road chokepoint) through dialogue with Wyx, same as before. `**[AFFILIATION: THRASH CLAN 10% → 12%]**` lands after Tatsuya's read on the situation, a smaller tick than the previous draft's 10%→14%, still upward movement, not a jump.
 
-## Leon's first warning, re-set from Chapter 7
+## New: the World Quest invasion notification
 
-Leon breaks in with the promised heads-up: monitor's acting up, a real window needed soon, framed as him following through on what he told Tatsuya he'd do. Tatsuya's private line: "He actually did it. Said he'd warn me first, and he did." Small beat, but it's doing real work, callback and trust-building both.
+A gold-bordered system notification fires: `**[WORLD QUEST UPDATED: CALL OF THE BONES]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 50/50]** **[INVASION TIMER: 00:04:37]**`. Concrete, in-fiction confirmation of the already-locked ~50-goblin warband scale (see `codex/locations/bloodhurst.md`). This is stakes texture, not a scope change, the actual on-page resolution stays the small tent ambush in Chapter 9, not a camp-wide battle.
 
-## The hillside trap, dramatized through dialogue
+## New: the full character-sheet readout
 
-Correction that's load-bearing: it's Bloodhurst's own camp on the hillside, not the raiders' vantage. Only two ways down, the road (now a kill zone) or a lethal ~20m cliff. This lands through Kesh and Tatsuya's own back-and-forth ("That's not new ground. That's our own ground."), not narration explaining the geography.
+`**[CHARACTER: TDRAG]** **[RACE: SHIV GOBLIN]** **[LEVEL: 7]** **[TITLE: THE FIRST DESCENDANT OF SHIV]**`, resource pools `**[HP: 65/65] [SP: 32/32] [MP: 32/32]**` (the HP figure checks out cleanly against the locked "50 base +3/level" formula, five level-ups past level 2, see `codex/lore/hp-sp-mp-resource-pools.md`), full stat block with modifiers shown only where discipline points actually landed (Wisdom +4, Fortune +6, Speed displays as unmodified base 7, consistent with the locked 10-point Wisdom/Fortune-only spend, no Speed investment), and the full ability list with tiers (`Ancient Bone Flame Barrage`, three-word spacing, Tier 5).
 
-## Stat/skill rundown, one connected board
+## Leon's escalated warning, gear, and the send-off
 
-His nameplate: **[LEVEL 7 – THE FIRST DESCENDANT OF SHIV]**, explicitly singular, no other goblin ever gets that exact line. Quest log: **[CALL OF THE BONES – STAGE COMPLETE: SHIV'S BLESSING]**, the level 2→7 jump explained as a quest-completion payout, with his own hedge about whether that scales like this again or was a one-off. Ten discipline points spent (4 Wisdom, 6 Fortune). Full ability list with tier/cost attached to each, not just named in a bracket: Bone Surge (no mana draw, once-daily charge), Shiv-Touched Flare (Tier 1, light mana cost), Rune Priming (Tier 3, feeds the ultimate), Call of Command (Tier 1, stamina cost, plain voice-directed orders), Gambler's Gambit (unchanged, the crit engine underneath all of it).
-
-## Sevish proposes first, Tatsuya counters, stays in-character
-
-Sevish's instinct: reinforce piecemeal, send goblins down in twos, hold and wear them down, framed as "clan business," and he pushes back hard on Tatsuya's standing to suggest otherwise ("You've worn Shiv's mark for an hour. Doesn't make you chieftain of this camp"). Tatsuya has to visibly recalibrate his own tone mid-scene, drop the certainty, and win the argument with an in-world tactical case, never a metagame word like "XP": easy kills make raiders bolder, not more cautious, that's the actual risk. This is the worked example for the roleplay-register requirement, see `style-guide/race-dialect-and-voice.md`. Wyx tips the balance, not Tatsuya alone. **[AFFILIATION: THRASH CLAN 10% → 14%]** lands right after Tatsuya's actual offer to go down himself, the notification is the payoff for the roleplay, not a reward for being right.
-
-## Leon's second warning, escalated
-
-No longer a heads-up: "I need you now." Real urgency, distinct in weight from the first warning. Tatsuya agrees to Sevish mid-sentence, then has to circle back and confirm out loud that he meant it ("Can't eat my own words twice in one conversation").
-
-## Gear and the two goblins sent ahead
-
-Sevish agrees to send a small party down first to hold position without engaging: **Rott** and **Nab**, named on the page. Tatsuya gives Rott a real technique note on Goblin Gas (wait for a target that can't run) before logging off, planting the payoff for the tent ambush later.
+Same beats as before: the stream connection drops, Leon's warning escalates to "I need you now," Tatsuya negotiates better gear (a common-tier goblin leather chest, a real item card this time), Sevish commits to the plan (Tatsuya and Ru go down, Rott and Nab hold the line ahead of them). New beat: a `**[WAR TENT – ELDER T-DRAG]**` nameplate on the tent Tatsuya's shown to, a real payoff for the elder-recognition mechanic already locked in `codex/lore/goblin-clan-culture-and-feral-stigma.md`. New beat: a short exchange with Ru before logging off, Tatsuya explicitly asking him to guard his idle body.
 
 ## Real-world interlude, Sakura Arcade
 
-- **Log-off/monitor scene:** the VRSA inspector already at the panel, tools laid out. His stream dropped off HGO's hosted slot the instant he went offline, resets to zero, doesn't just wait for him.
-- **Bathroom scene, Loop virality gets real page space:** stacked notifications, the 2,140-follower jump in an hour, clips being reposted/argued over/captioned, his handle tagged without anyone knowing it's him. This needs to stay a real beat with specific clip descriptions, not a passing mention.
-- **Affiliate realism:** the "Apply for Affiliate" button appearing, then the actual mechanic, 30-day minimum active-streaming history before any money, Day 1 of the clock, not instant. The retroactive gut-punch that his big stream earned nothing because he wasn't affiliate-eligible yet. Subscription price locked at ¥750/month, cosmetic-only.
-- **Tochi Academy notification:** real-world, not game, plain brackets. He files it away rather than engaging with it mid-crisis, a one-line internal deferral standing alone.
-- **Money toward Ohema's medical costs:** a real bank transfer, `[Transfer sent: ¥15,000 → Ohema Kazehaya, Medical.]`, framed as proof-of-progress, not a promise.
-- **Text to Gato:** a real exchange, not in-person, Gato's reply warm and uncomplicated, closes the thread cleanly.
-- **Arena/PvP unlock realization:** the level-5 gate he crossed without noticing, `[Arena queue eligibility: unlocked at level 5.]`, filed away rather than acted on.
-- **Haruto Murayama/Kansai Black Lotus beat:** a Loop headline breaking through even his own trending name, Haruto's careful public statement (never naming Eren directly), Tatsuya's private recognition of what it actually means, tied explicitly back to the original hybrid build he and Eren theorized together, which Eren only ever played the surface of. Dosuke AI speculatively tagged in the same wave of posts as a likely landing spot for Haruto.
+Same locked beats as before (Loop virality, affiliate realism, the Tochi notification, the money transfer, the Gato text, the arena-unlock realization, the Haruto/Kansai Black Lotus/Dosuke AI beat), tightened and reordered slightly, all still present and accurate to already-locked canon. New beat: a real, dangling worry, "How do I even enter the esports scene with this build?", left unanswered rather than resolved, a piece of real texture rather than a plot thread that needs closing here.
 
 ## Ending hook
 
-Arya's voice cuts through the bathroom hallway noise, "Hey, T-Drag." Chapter cuts right there, on Tatsuya registering whose voice it is, before he's turned around, `**[END CHAPTER EIGHT]**`. Continues directly into `chapters/chapter-09.md`.
+Arya's voice cuts through the hallway noise, "Hey, T-Drag." Tatsuya turns to see her this time (a beat later than the version drafted earlier this session), the chapter itself describing her before cutting, `**[END CHAPTER EIGHT]**`. Chapter 9 opens directly on her first line, no re-description.
 
 ## Craft notes for any future resync
 
-- Several short single-line internal-monologue beats are deliberately isolated for landing ("Waiting for what," "That's not new ground. That's our own ground," "He actually did it," etc.), plain quotes, no italics. These are not the banned "isolated one-sentence narration paragraph" style rule (see `style-guide/craft-rules.md`), that rule targets prose narration, not inner monologue, which has always been allowed to stand alone by house style.
-- Sensory grounding in the opening paragraph (smoke, ash-taste, hair catching light wrong) is the chapter's actual hook and has been cut or summarized in prior resyncs. It needs to survive verbatim or close to it.
-- All named minor characters (Kesh, Rott, Nab) must stay named, not revert to generic role-tags.
-- Bracket formatting: real-world notifications (Loop, texts, banking, Tochi) use plain, non-bold `[...]`; in-game system/HUD text uses bold `**[...]**`. This distinction has drifted in past syncs and needs checking specifically.
+- Structural pattern specific to this draft: a monologue-quote first, then a body-cue narration sentence right after (e.g. "Every word costs him something." Tatsuya's weight shifted forward...). This is a deliberate, consistent choice, don't restructure it to put the cue before the quote.
+- Banned physical beats (jaw clenching/setting, arms crossing, a hand going flat against a thigh) were swept out of this draft during adoption, replaced with varied cues. Watch for these specific tics reappearing in any future resync, they've shown up three separate times this session across different sources.
+- All named minor characters (Kesh, Rott, Nab) stay named consistently once introduced, including in dialogue tags right after a nameplate reveal.

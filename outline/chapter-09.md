@@ -1,12 +1,12 @@
 # Chapter 9 — "Silence and Fire" (Outline of the drafted chapter)
 
-**Status:** Chapter fully drafted, see `chapters/chapter-09.md`. Working title, easy to rename. Opens exactly where `chapters/chapter-08.md` cuts, Arya's voice already having caught Tatsuya in the Sakura Arcade hallway. This file is a beat-by-beat reference, same purpose as `outline/chapter-08.md`, useful for checking any future resync against.
+**Status:** Chapter fully drafted, see `chapters/chapter-09.md`. Working title, easy to rename. Opens directly on Arya's first line of dialogue, no re-introduction, since Chapter 8's own ending now covers Tatsuya turning to see her and her physical description, one beat later than an earlier split point used briefly this session. This file is a beat-by-beat reference, same purpose as `outline/chapter-08.md`, useful for checking any future resync against.
 
 **House-style note:** inner monologue is plain quotation marks, no italics, per the current, twice-reconfirmed rule in `style-guide/craft-rules.md`. Every bracketed notification in this chapter is bold (`**[...]**`), since the entire chapter takes place in-dive, no real-world plain-bracket text appears here.
 
 ## Arya's in-person interception
 
-He turns to find her leaning against the hallway wall, already mid-approach. Two real declines, each explicitly tied in his own reasoning to the Eren pattern, not just plot friction ("No. Not doing this again. Last time I let someone in this close, it cost me everything."). She escalates into real, unperformed desperation, the guild-collapse specifics (90 down to 3, the rumor campaign after she kicked two members) and her mother's medical-school plan for her, landed as plain, unguarded dialogue, not narrated backstory. What actually moves him is the escalation, not a single line.
+Opens on "Hey," Tatsuya's own line, already mid-exchange with her (she's already spoken, Chapter 8 covers that). Two real declines, each explicitly tied in his own reasoning to the Eren pattern, not just plot friction ("No. Not doing this again. Last time I let someone in this close, it cost me everything."). She escalates into real, unperformed desperation, the guild-collapse specifics (90 down to 3, the rumor campaign after she kicked two members) and her mother's medical-school plan for her, landed as plain, unguarded dialogue, not narrated backstory. What actually moves him is the escalation, not a single line.
 
 ## The Hushveil negotiation
 

@@ -1,7 +1,5 @@
 Chapter Nine: Silence and Fire
 
-He turned around slow, and there she was. Arya, leaning against the hallway wall, one shoulder against the tile, like she’d been standing there a while.
-
 “Hey,” he said, keeping his voice easy, like his stomach hadn’t just dropped through the floor.
 
 “Saw your stream,” Arya said, no preamble, her sharp green eyes locked on his. “I know roughly where you are. If those guys are still parked there when you go back under, it’s only a matter of time before more people find that spot too.”
