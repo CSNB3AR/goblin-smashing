@@ -73,3 +73,42 @@ Not re-planned in detail here, this section exists so this document doesn't sile
 **Chapter 10** is not yet drafted. Opens cold on PK_Wraith's live chat reaction and the informal blacklist (previously slotted to close out Chapter 9), then covers the real-world fallout, the stream cutoff, the monitor fix and Tochi parts-lead thread (see `codex/lore/external-monitor-and-full-dive-safety.md`), the Myrrhwood-departure setup, the camp's near-wipe down to roughly fifteen survivors while Tatsuya's offline, and Sevish and Wyx setting the real deadline/rendezvous for the ship back to Myrrhwood (see `codex/locations/bloodhurst.md` and the camp-arc file above).
 
 **Chapter 11 opens the next arc.** It's explicitly meant to breathe, a beat of relative calm, before tournament logistics (qualifying matches, regional standings, bracket mechanics, see `codex/pro-scene/winter-bash-tournament.md`) start running the show. **Pacing flag, not a blocker:** be deliberate that this breathing room actually lands on the page as its own real content when Chapter 11 gets drafted, rather than the chapter naming the intent to slow down and then skipping straight into qualifying-match setup anyway. The tournament machinery has a lot of moving parts once it starts (regions, points, the physical-attendance requirement), and it'll crowd out quieter character beats fast if they don't get real page space first.
+
+## Outline One: The Winter Bash Arc (story beats, no chapter numbers assigned)
+
+Picks up from Chapter 11 onward. A sequence of beats, not a chapter map, some will need more than one chapter to actually land, sorted during drafting, not here. Full context and the "new decisions" this locks in (Pac_Pac's race, Arya's school, the Haya Storm name, the Souma Ikeda name, the Inter-High/Tochi-representative tournaments, the 14-hour downtime revision) live in the relevant codex files linked below, not duplicated here.
+
+1. PK_Wraith's blacklist fallout, real-world monitor fix, the camp's near-wipe down to ~15 survivors while Tatsuya's offline, Sevish and Wyx setting the Myrrhwood deadline/rendezvous. (Chapter 10, already outlined above, unchanged.)
+2. The breathing-room stretch: Chiyo returns from her Kyoto trip and confronts the gap in her own knowledge, she's seen the Ohema medical payments land, knows Tatsuya's talked to Gato, knows he's applied to Tochi, and doesn't buy the vague "extra shifts" explanation, but she isn't angry, she's realistic, this tracks with who she already is.
+3. Tatsuya sits the Tochi entrance exam.
+4. Winter Bash gets formally announced in-game alongside the first wave of Kazuku's patch notes (PvP-heavy in detail, PvE deliberately glossed, see `codex/lore/hgo-timeline-and-real-world-stakes.md`).
+5. Momo's Yuna fixation surfaces at home, first plant of the "Heart on You" song thread (see `codex/characters/yuna-yunaile.md`).
+6. Tatsuya and Arya start leveling together at Luxor Lakes, racing the level-25 cap.
+7. Winter Bash qualifiers. Pac_Pac lands as the random third teammate, first real team-chemistry beats, working out how a hardpoint-DPS goblin, a fog/silence control mage, and a Beastfolk brawler actually combo on a King-of-the-Hill map (see `codex/pro-scene/haya-storm.md`).
+8. Qualifiers close on the 8-2 record, 8th seed, barely through.
+9. The tournament itself begins, the physical-attendance requirement lands as a real identity-exposure fear for Tatsuya before it's a triumph.
+10. Top 32 vs. Eren's team, the double reveal (crowd sees T-Drag's face, Eren sees Tatsuya's), Haya Storm wins.
+11. Advancing through Top 16 and Quarterfinals, public attention building on the underdog story.
+12. Semifinal loss to Haruto Murayama/Dosuke AI/Souma Ikeda, a real, earned loss, not a throwaway (see `codex/pro-scene/winter-bash-tournament.md`).
+13. Fallout: Eren's spiral after watching Tatsuya beat him in public, pushing the debt/schematics pressure harder, the "unfinished conversation with Daichi" bait lands here.
+14. Chiyo's reaction to the public name reveal, not angry, "this is what you chose, but you went back to school for it too," her own realistic read on him.
+15. The semifinal loss is a real, live stake for Arya specifically, not just a competitive disappointment, her mother's push to America was already real, and she'd privately been ready to concede and go if the run didn't prove something. It doesn't end in a win, but reaching the semis as an 8th-seed underdog is real enough that it doesn't close the door either, left open rather than resolved, pulling straight into Outline Two's opening beat (see `codex/characters/arya.md`).
+16. Arc closes with Tatsuya confirmed heading into Tochi for real, debt and Eren pressure both left open, not resolved, carrying forward into the next arc.
+
+## Outline Two: The Haya Storm Rise Arc (story beats, no chapter numbers assigned)
+
+Picks up immediately where Outline One's beat 16 leaves off.
+
+1. Tatsuya starts at Tochi as a first-year, behind Eren, the re-entry itself is its own real adjustment (per the already-locked "not ahead of Eren" detail, see `codex/characters/eren-tabuchi.md`).
+2. Pod-building/parts logistics thread continues (the reason he came back in the first place).
+3. On the strength of the Winter Bash run, Tochi extends a sponsorship offer to both Pac_Pac and Arya, recruiting them onto the school's roster/program.
+4. For Arya specifically this is the real turn: it demonstrates she earned this on tournament merit, not charity, and gives her a legitimate, concrete reason to resist her mother's push to America rather than just personal wanting.
+5. Real pushback follows, family and/or agents showing up to contest it, and Leon steps in on her behalf, flatly stating he'll bring in lawyers if it comes to that, a real, dramatized family-pressure conflict, not settled quickly or quietly.
+6. Haya Storm starts training seriously as a trio under this new tension, working out its actual identity past "the team that beat Eren once," Pac_Pac and Arya's own school lives (now including Tochi's sponsorship) folded in around practice scheduling.
+7. The Tochi representative tournament (see `codex/pro-scene/tochi-representative-qualifier.md`): Eren and Tatsuya on a collision course for the same slot, or matched directly inside the bracket.
+8. Escalates past Loop-post distance into a real, direct confrontation, the rivalry's real climax, debt and the "unfinished conversation with Daichi" bait either surface here directly or detonate right after. (Outcome, who actually wins the slot, how Eren spirals afterward, stays open for when we're actually drafting.)
+9. Fallout from the confrontation settles.
+10. The Inter-High tournament itself (see `codex/pro-scene/inter-high-tournament.md`): cross-school eligibility lets the full trio compete under one banner, public attention grows past the Winter Bash underdog story into a real ongoing scene presence.
+11. Somewhere across this stretch, Haya Storm's roster actually grows to five, the two new players introduced and folded into the team's established synergy rather than replacing it.
+
+**Running throughlines, not resolved this arc:** Ohema's debt continuing to shrink through Tatsuya's quiet payments, Yuna's slow-burn advancing in parallel without taking over the team-focused chapters, Myrrhwood/Shiv's Warset staying background texture, the Tabuchi pressure not fully resolved even after the Eren confrontation, since the family debt itself is a separate lever from Eren's personal rivalry.

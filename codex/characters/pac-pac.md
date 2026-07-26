@@ -8,4 +8,6 @@ Not a guild-scene or pro-scene name, a real-world local artist still building an
 
 **Loop/chat handle: Pac_Pac.** First shows up in Chapter 8's chat during the tent-ambush stream, reacting to the fight itself ("cinema," wants it run back) rather than the game mechanics, a different register from the more invested viewers.
 
-**Forward plot, flagged, not yet built:** a potential future teammate, specifically floated as a tank. Not committed to a specific chapter or mechanism yet, just locked here so the seed isn't lost.
+**Forward plot, landed: Winter Bash's random third teammate.** Lands on Tatsuya's team via the Winter Bash tournament's random-teammate mechanic (see `codex/pro-scene/winter-bash-tournament.md`), the seed pays off here rather than staying open-ended.
+
+**Race and build, locked: Beastfolk, tank/brawler.** Beastfolk are hard-locked out of all magic at any Wisdom investment (see `codex/races/beastfolk.md`), Physical Arts is the race's entire combat identity, not a fallback, and the race's Power/Speed-leaning stat profile fits the close-range brawler role directly. This is what he builds as once he's actually playing competitively, distinct from his real-world identity as a homeschooled local rapper around Tatsuya's age. Becomes the core tank of **Haya Storm** (see `codex/pro-scene/haya-storm.md`), the team Tatsuya names after Winter Bash.

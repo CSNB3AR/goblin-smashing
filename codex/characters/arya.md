@@ -22,6 +22,12 @@ Her all-girls guild, **Crimson Static** (see `codex/pro-scene/guilds.md`), fract
 
 **The real pressure underneath it.** Her mother wants her in America for medical school, a real, live option, not a bluff. Arya doesn't want to go, wants to stay in Tokyo, near Leon, and build something real in HGO first. Her entire read on the current moment, the guild, the Winter Bash pairing, all of it, is filtered through needing this to actually work before that decision gets made for her.
 
+**School:** attends a local Tokyo public school, not Tochi Academy, a different background from Tatsuya's.
+
+**Winter Bash's semifinal loss is a real, live stake for her specifically, not just a competitive disappointment.** Going in, she'd privately been ready to concede to her mother and leave for America if the tournament run didn't prove something real. It doesn't end in a win, the team's eliminated in the semis, but reaching that far as an 8th-seed underdog is real enough that it doesn't close the door either, left genuinely open rather than resolved.
+
+**Act Two: the Tochi sponsorship offer.** On the strength of the Winter Bash run, Tochi extends a sponsorship offer to her (alongside Pac_Pac, see `codex/characters/pac-pac.md`), recruiting her onto the school's esports program. This is the real turn for her arc: it demonstrates she earned this on tournament merit, not charity, and gives her a legitimate, concrete reason to resist her mother's push to America rather than just personal wanting. Draws real pushback, family and/or agents showing up to contest it, and Leon steps in on her behalf, flatly stating he'll bring in lawyers if it comes to that, a real, dramatized family-pressure conflict, not settled quickly or quietly. See `codex/pro-scene/haya-storm.md` for the team this sponsorship keeps her on.
+
 ## Loop payoff (Chapter 2+, background only)
 
 Once Tatsuya is actually playing, Arya records and posts footage of his early gameplay to Loop (see `codex/lore/hgo-timeline-and-real-world-stakes.md`), which is how his reputation starts spreading, under a tagline worth locking in now, **"Nobody roots for the Goblin,"** his own haters-to-fans pipeline origin. See `codex/subplots/aryas-loop-discovery-and-reputation.md`.

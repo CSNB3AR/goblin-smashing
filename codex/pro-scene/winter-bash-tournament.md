@@ -16,13 +16,13 @@ Once a team reaches the Top 32 cut, they're required to physically attend a regi
 
 ## Tatsuya's team, the random-teammate mechanic
 
-Arya (pre-formed partner, per the already-locked mechanic that puts them on the same team) plus one randomly assigned third player. **Pac_Pac** (see `codex/characters/pac-pac.md`, already flagged there as a potential future teammate/tank) is that random third, landing his forward-plot seed here.
+Arya (pre-formed partner, per the already-locked mechanic that puts them on the same team) plus one randomly assigned third player. **Pac_Pac** (see `codex/characters/pac-pac.md`, a Beastfolk tank/brawler) is that random third, landing his forward-plot seed here. This trio names itself **Haya Storm** (see `codex/pro-scene/haya-storm.md`) and stays together as the core of a roster that later grows to five for the post-expansion 5v5 format.
 
 ## The actual run, locked
 
 - **8-2 qualifying record**, 8th seed out of APAC, the last team through on regional standing, not a dominant qualifying run.
 - Advances through the Top 32 match against Eren's team (the reveal beat above) and continues into the bracket.
-- **Eliminated in the semifinals**, losing to a Haruto Murayama/Dosuke AI team-up (see `codex/characters/haruto-murayama.md`, `codex/characters/dosuke-ai.md`), both already-established characters, this is where Dosuke AI picking Haruto up as a free agent, seeded in Chapter 8, actually pays off on the page as a real, formidable roster.
+- **Eliminated in the semifinals**, losing to a Haruto Murayama/Dosuke AI/Souma Ikeda team-up (see `codex/characters/haruto-murayama.md`, `codex/characters/dosuke-ai.md`), Souma Ikeda filling the roster's third slot, this is where Dosuke AI picking Haruto up as a free agent, seeded in Chapter 8, actually pays off on the page as a real, formidable roster.
 - A real, earned loss, not a throwaway elimination, consistent with Tatsuya's team being an underdog seed the whole way rather than a favorite who chokes.
 
 ## Points system (team-sport weighted, not solo-performance weighted)

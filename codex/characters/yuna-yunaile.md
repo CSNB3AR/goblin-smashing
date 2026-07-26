@@ -8,7 +8,7 @@ Pink hair, high energy on-broadcast, the public face of the esports world. **Civ
 
 ## Facts
 
-- Also an idol/singer (tracks like "Shadow Drive," performs in HGO's virtual spaces).
+- Also an idol/singer (tracks like "Shadow Drive" and **"Heart on You,"** performs in HGO's virtual spaces). "Heart on You" is the specific track tied to Momo's fandom, Act One plants Momo playing/obsessing over it at home as an early, organic thread, well before any direct Yuna/Tatsuya connection forms.
 - Civilian name: **Yunaile**. Hides her public identity completely outside of broadcasts, glasses, real name only.
 - Loop account: @Yuna_N9. Momo's obsession with her plants her in Tatsuya's household long before any direct connection forms (see `codex/characters/momo-kazehaya.md`).
 - **Revised for Chapter 1:** her on-air name does surface via her own ordinary broadcast self-intro, background noise Tatsuya registers without fully engaging, not a character beat. What still stays for later, at the hospital: her civilian identity (Yunaile), any real recognition or connection on Tatsuya's part, and the slow-burn romance thread. Don't let the Chapter 1 self-intro turn into more than that.
