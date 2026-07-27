@@ -17,7 +17,7 @@
 
 HGO generates enormous real money because in-game currency and items convert directly into real-world currency. Because of that money, the game has attracted real-world business interest, government interest, and criminal interest, everyone wants a piece of this new economic space, and no country wants to be left out of it. Criminal activity in the real world connects naturally to the open-world item-drop mechanic: steal valuable items via in-game death, launder or sell for real money.
 
-**Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering the World Championship (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. See `outline/chapter-02.md`.
+**Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering the World Championship (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. See `outline/chapters-1-7-summary.md` for how this actually landed in the final Chapter 2 (old planning reference archived at `outline/archive/chapter-02.md`).
 
 ## Named apps and channels
 

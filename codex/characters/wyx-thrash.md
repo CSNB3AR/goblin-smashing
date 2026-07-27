@@ -8,7 +8,7 @@ Visual reference locked, updating the earlier placeholder description. Wild gree
 
 ## Facts
 
-Level 25 Hobgoblin. Sharp and quick to challenge, defers to her brother Sevish but runs day-to-day camp discipline. See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` and `outline/chapter-03.md` for when she enters the story.
+Level 25 Hobgoblin. Sharp and quick to challenge, defers to her brother Sevish but runs day-to-day camp discipline. See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` and `outline/archive/chapter-03.md` for when she enters the story.
 
 ## Personality
 
