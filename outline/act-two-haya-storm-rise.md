@@ -10,18 +10,23 @@ Picks up immediately where `outline/act-one-winter-bash.md`'s beat 16 leaves off
 
 ## Story beats, in order
 
-1. Tatsuya starts at Tochi as a first-year, behind Eren, the re-entry itself is its own real adjustment (per the already-locked "not ahead of Eren" detail, see `codex/characters/eren-tabuchi.md`).
+1. Tatsuya starts at Tochi as a first-year, behind Eren, the re-entry itself is its own real adjustment (per the already-locked "not ahead of Eren" detail, see `codex/characters/eren-tabuchi.md`). He and Yuna are still reconciling off the back of Act One's PK_Wraith deception.
 2. Pod-building/parts logistics thread continues (the reason he came back in the first place).
-3. On the strength of the Winter Bash run, Tochi extends a sponsorship offer to both Pac_Pac and Arya, recruiting them onto the school's roster/program.
-4. For Arya specifically this is the real turn: it demonstrates she earned this on tournament merit, not charity, and gives her a legitimate, concrete reason to resist her mother's push to America rather than just personal wanting.
-5. Real pushback follows, family and/or agents showing up to contest it, and Leon steps in on her behalf, flatly stating he'll bring in lawyers if it comes to that, a real, dramatized family-pressure conflict, not settled quickly or quietly.
-6. Haya Storm starts training seriously as a trio under this new tension, working out its actual identity past "the team that beat Eren once," Pac_Pac and Arya's own school lives (now including Tochi's sponsorship) folded in around practice scheduling.
-7. The Tochi representative tournament (see `codex/pro-scene/tochi-representative-qualifier.md`): Eren and Tatsuya on a collision course for the same slot, or matched directly inside the bracket.
-8. Escalates past Loop-post distance into a real, direct confrontation, the rivalry's real climax, debt and the "unfinished conversation with Daichi" bait either surface here directly or detonate right after. (Outcome, who actually wins the slot, how Eren spirals afterward, stays open for when we're actually drafting.)
-9. Fallout from the confrontation settles.
-10. The Inter-High tournament itself (see `codex/pro-scene/inter-high-tournament.md`): cross-school eligibility lets the full trio compete under one banner, public attention grows past the Winter Bash underdog story into a real ongoing scene presence.
-11. Somewhere across this stretch, Haya Storm's roster actually grows to five, the two new players introduced and folded into the team's established synergy rather than replacing it.
+3. Haya Storm starts training seriously as a trio, working out its actual identity past "the team that beat Eren once," Pac_Pac and Arya's own school lives folded in around practice scheduling.
+4. The Tochi representative tournament (see `codex/pro-scene/tochi-representative-qualifier.md`): **Eren's team holds the incumbent representative slot**, Tochi-backed, Tabuchi-funded. Tatsuya and Eren on a collision course for it, PK_Wraith still teamed with Eren into this 5v5 fight, a real continuation of Winter Bash's pairing.
+5. Escalates past Loop-post distance into a real, direct confrontation, the rivalry's real climax, debt and the "unfinished conversation with Daichi" bait either surface here directly or detonate right after. (How far Eren's own spiral goes stays open for when we're actually drafting.)
+6. **Haya Storm wins**, taking Tochi's representative slot from Eren's team.
+7. On the strength of that win, Tochi extends real **scholarships** (not just a sponsorship gesture) to both Pac_Pac and Arya, enrolling them at the school itself.
+8. For Arya specifically this is the real turn: it demonstrates she earned this on tournament merit, not charity, and it's the actual legal linchpin in her and Leon's reopened custody fight (see `codex/subplots/leon-arya-custody-battle.md`), not just a reason to resist her mother's push to America.
+9. Real pushback follows, family and/or their own lawyers showing up to contest it, and Leon steps in, flatly stating he'll bring in lawyers of his own if it comes to that, a real, dramatized conflict, not settled quickly or quietly.
+10. **New:** Tatsuya's own leverage from the win, he negotiates to route some of Tochi's backing toward Sakura Arcade instead of requiring the team be based on campus, a real financial boost for Leon's business (see `codex/characters/leon.md`).
+11. **New:** old guildmates from Arya's Crimson Static days resurface now that she's a real, publicly visible player, fresh esports-scene drama, callouts and rumor-mongering, consistent with what already cost her the guild once (see `codex/characters/arya.md`).
+12. **New:** Pac_Pac's own real-world rap career starts taking off alongside the team's public profile, drops a single (see `codex/characters/pac-pac.md`).
+13. The Inter-High tournament itself (see `codex/pro-scene/inter-high-tournament.md`): cross-school eligibility lets the full roster compete under one banner, public attention grows past the Winter Bash underdog story into a real ongoing scene presence.
+14. Somewhere across this stretch, Haya Storm's roster actually grows to five, the two new players introduced and folded into the team's established synergy rather than replacing it, and per the roster-composition rule (see `codex/pro-scene/haya-storm.md`) these two, not Pac_Pac or Arya, are the ones who need to actually attend Tochi.
+15. **New, flagged, not detailed:** once Tatsuya's making real money, Momo and Taji end up discovering his T-Drag identity (see `codex/characters/momo-kazehaya.md`, `codex/characters/taji-kazehaya.md`).
+16. By the end of this arc, Haya Storm is a real, popular breakout team, not full pro status yet, positioned for the first 5v5 World Championship (see `codex/pro-scene/haya-storm.md`).
 
 ## Running throughlines, not resolved this arc
 
-Ohema's debt continuing to shrink through Tatsuya's quiet payments, Yuna's slow-burn advancing in parallel without taking over the team-focused chapters, Myrrhwood/Shiv's Warset staying background texture, the Tabuchi pressure not fully resolved even after the Eren confrontation, since the family debt itself is a separate lever from Eren's personal rivalry.
+Ohema's debt continuing to shrink through Tatsuya's quiet payments, Yuna's slow-burn advancing in parallel (her family situation actively darkening now, running alongside but distinct from Ohema's own six-month clock, see `codex/subplots/yuna-family-inheritance-plot.md`) without taking over the team-focused chapters, the Tabuchi pressure not fully resolved even after the Eren confrontation, since the family debt itself is a separate lever from Eren's personal rivalry. **Myrrhwood stays fully dormant through both acts**, nothing moves there until after the tournament/expansion arc closes, a deliberate hold, not an oversight.

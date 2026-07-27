@@ -17,3 +17,7 @@ Kazuto Tabuchi ends up at the same hospital as Kaito (see `codex/characters/kazu
 ## Why it matters to the main plot
 
 Yuna's family wasn't paying attention to the esports side of HGO until Kazuku began treating in-game economic infrastructure as a serious real-world business play. Once that shift became impossible to ignore, the family scrambled to get positioned inside it, and suddenly Yuna, previously in the way, became valuable, especially once she's visibly connected to Tatsuya. Her parents don't yet know how deeply she's actually embedded in HGO as its public face.
+
+## Act Two pacing note
+
+Once the Tatsuya/Yuna friendship is real (see `codex/subplots/yuna-tatsuya-slow-burn-romance.md`), this situation actively worsens on its own timeline: she goes offline more, spends more real-world time at the hospital, communicates less. This runs in parallel with, but stays fully distinct from, Ohema's own six-month surgery clock, a separate, unrelated mechanic already dramatized on the page (`chapters/chapter-04.md`, `chapters/chapter-05.md`), not to be conflated with this one. Tatsuya ends up seeing Yuna more at the hospital than in-game during this stretch, Kaito's actual survival genuinely uncertain by the end of it. Seeds Act Three, not resolved in Act Two.

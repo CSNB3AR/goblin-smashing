@@ -1,6 +1,6 @@
-# Leon
+# Leon Sakura
 
-**Role:** Owner of Sakura Arcade. Arya's older brother.
+**Role:** Owner of Sakura Arcade. Arya's older brother. Surname **Sakura**, easy to rename, a real thematic fit since the arcade already carries the family name.
 
 ## Appearance
 
@@ -12,8 +12,10 @@ Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
 - His business is struggling. Tatsuya's presence begins to change that.
 - Applies a pressure beat of his own (a cost, a condition, or a warning) before Tatsuya gets pod access, drafted in Chapter 2.
 - Recognizes Tatsuya's manual pod override as something only someone trained by Daichi Kazehaya could plausibly pull off (old-draft beat, worth preserving).
+- **Legal guardian of Arya, a real, live custody situation, not settled.** He and Arya inherited the arcade from their grandfather, who died roughly four years ago; the grandfather's own legal backing is what let Leon win formal guardianship over their parents in the first place. Without that money now, a second fight (Act Two, once Tochi's scholarship offer to Arya draws real pushback) isn't something he can win the same way, see `codex/subplots/leon-arya-custody-battle.md` for the full mechanism and how it actually becomes winnable again.
+- **Act Two leverage beat:** once Haya Storm wins Tochi's representative slot, Leon benefits directly, Tatsuya negotiates to route some of Tochi's backing toward Sakura Arcade itself rather than requiring the team to train on campus, a real financial boost for the already-struggling business.
 
-See `codex/subplots/technical-arc-leon-and-sakura-arcade.md` and `codex/locations/sakura-arcade.md`.
+See `codex/subplots/technical-arc-leon-and-sakura-arcade.md`, `codex/locations/sakura-arcade.md`, and `codex/subplots/leon-arya-custody-battle.md`.
 
 ## Personality
 

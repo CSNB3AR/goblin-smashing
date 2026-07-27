@@ -12,6 +12,8 @@ Not a guild-scene or pro-scene name, a real-world local artist still building an
 
 **Race and build, locked: Beastfolk, tank/brawler.** Beastfolk are hard-locked out of all magic at any Wisdom investment (see `codex/races/beastfolk.md`), Physical Arts is the race's entire combat identity, not a fallback, and the race's Power/Speed-leaning stat profile fits the close-range brawler role directly. This is what he builds as once he's actually playing competitively, distinct from his real-world identity as a homeschooled local rapper around Tatsuya's age. Becomes the core tank of **Haya Storm** (see `codex/pro-scene/haya-storm.md`), the team Tatsuya names after Winter Bash.
 
+**Forward-plot, Act Two: his real-world rap career starts taking off.** Riding Haya Storm's growing public profile, his own audience grows for real alongside the team's, no longer just "not yet big." Drops a single, proposing **"Give It to Him"** as a working title, easy to rename, landing around the same stretch as the PK_Wraith/Yuna drama (see `codex/characters/yuna-yunaile.md`), another real music-plant alongside "Heart on You" and "Heart on Mute."
+
 ## Personality
 
 Pure high-octane aggression and competition. Treats every interaction like a fight, fast, loud, packed with trash talk. Only plays hyper-aggressive styles, screams when he rushes in. A chaotic signature celebration he breaks into after big wins or clutches. An elite trash-talker who turns any insult, especially about his appearance, into a running joke and badge of honor. Ride-or-die loyal to his squad, never quits a match no matter how bad the odds look.

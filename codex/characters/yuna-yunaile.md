@@ -1,6 +1,6 @@
-# Yuna / Yunaile
+# Yuna / Yunaile Kirishima
 
-**Role:** HGO's main broadcast personality and tournament caster. Future slow-burn romance interest.
+**Role:** HGO's main broadcast personality and tournament caster. Future slow-burn romance interest. Family surname **Kirishima**, easy to rename.
 
 ## Appearance
 
@@ -29,9 +29,13 @@ Her parents don't know how deeply she's actually embedded in HGO, not just as a 
 
 ## Hospital meeting (future chapter material)
 
-Yuna visits Kaito regularly to cheer him up and bring him fan mail. Tatsuya bumps into her in the hallway; she drops envelopes. She introduces herself as Yunaile only. She recognizes the Kazehaya name but doesn't explain why. By the end of the conversation she asks if he plays HGO, quietly testing whether he recognizes her. He doesn't connect it in the moment. He pieces it together later, at home, watching TV.
+Yuna visits Kaito regularly to cheer him up and bring him fan mail. Tatsuya bumps into her in the hallway; she drops envelopes. She introduces herself as Yunaile only, and **this time a real, two-way trade**, he introduces himself for real too, not just her giving a name. She recognizes the Kazehaya name but doesn't explain why. By the end of the conversation she asks if he plays HGO, quietly testing whether he recognizes her. He doesn't connect it in the moment.
 
-See `codex/subplots/yuna-tatsuya-slow-burn-romance.md` and `codex/subplots/yuna-family-inheritance-plot.md`.
+**The actual reveal mechanism, Act One, Luxor Lakes.** Separate from the hospital scene itself: Arya's in school 9-to-3, so Tatsuya fills that daily gap grinding with a different in-game friend instead, one who goes by "Yuna," not obviously the broadcast Yuna at first. They level together at Luxor Lakes (see `codex/locations/luxor-lakes.md`, already tied to her). Over that stretch, each of them starts connecting this in-game friend to the person they already met and traded real names with at the hospital, a real, earned dramatic-irony payoff rather than staying vague. Once both sides know, the friendship deepens specifically because they're both people who'd been hiding something, that's what actually lets them click. See `codex/subplots/yuna-tatsuya-slow-burn-romance.md` for the full, reconciled timeline (this revises, on purpose, that file's earlier "don't compress the reveal" note) and `codex/subplots/yuna-family-inheritance-plot.md`.
+
+**PK_Wraith's deception, Act One, mid-Winter Bash.** Once the Luxor Lakes friendship is real, PK_Wraith (still hunting Tatsuya, see `codex/characters/pk-wraith.md`) engineers a lie rather than an open attack, Yuna's too publicly prominent within HGO for him to move against her directly. His crew ambushes Tatsuya at Luxor Lakes on fresh/legacy accounts, and PK_Wraith taunts him mid-fight, thanking "Yuna" for tipping off his location, pure fabrication. Yuna herself is genuinely blindsided when it reaches her, she has no idea what he's talking about, but her shock reads as guilt to Tatsuya in the moment, a real, painful misunderstanding, not an actual betrayal. Creates a genuine standstill between them mid-tournament; by the end of Act One, Tatsuya works out what actually happened and they start trying to make up, carrying the reconciliation itself into Act Two. Ties to a new song thread, "Heart on Mute" (working title, easy to rename), a direct callback to "Heart on You."
+
+**Her own situation darkens in parallel, Act Two.** Once the friendship's real, her family crisis worsens on its own timeline, she goes offline more, spends more real-world time at the hospital, communicates less. Runs alongside, but stays fully distinct from, Ohema's own six-month surgery clock (see `codex/subplots/tochi-academy-return.md`, `chapters/chapter-05.md`), a separate, unrelated mechanic, not to be conflated. Tatsuya ends up seeing her more at the hospital than in-game, Kaito's situation genuinely uncertain now. Seeds Act Three, not resolved in Act Two.
 
 ## Personality
 

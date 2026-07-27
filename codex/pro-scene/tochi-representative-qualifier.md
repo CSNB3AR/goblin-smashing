@@ -12,4 +12,6 @@ This is where the Eren/Tatsuya rivalry, secondhand and Loop-post-distance for al
 
 This is also where the debt pressure and the Tabuchis' "unfinished conversation with Daichi" bait (see `codex/subplots/tabuchi-schematics-and-family-debt.md`) either surface directly or detonate right after, Eren's own stake in this qualifier isn't just pride, it's tangled up in the family pressure he's already using as leverage.
 
-**Outcome not yet locked**, who actually wins the slot and how Eren reacts afterward stays open until this stretch is actually being drafted.
+**Eren's team is Tochi's incumbent representative.** His build "got Tochi to back a school esports team," Tabuchi-funded, per `codex/characters/eren-tabuchi.md`, his actual pro team, Kansai Black Lotus (see `codex/pro-scene/pro-teams.md`). Locking the implication explicitly: Eren's team holds the presumptive representative slot going in, which is exactly why beating them is how Haya Storm actually wins it, not a coincidental rematch. **PK_Wraith stays teamed with Eren into this 5v5 fight**, a real, earned continuation of their Winter Bash pairing rather than a one-off (see `codex/characters/pk-wraith.md`).
+
+**Outcome, locked:** Haya Storm wins, taking Tochi's representative slot from Eren's team. This is what triggers Tochi's scholarship offers to Pac_Pac and Arya (see `codex/pro-scene/haya-storm.md`, `codex/characters/arya.md`), how Eren reacts afterward and how far the rivalry actually resolves stays open until this stretch is actually being drafted.
