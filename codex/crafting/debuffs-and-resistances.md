@@ -26,6 +26,7 @@ Crafted resistance almost always traces back to a regional material (see `codex/
 - **Gas + ignite** stacks Burning on top of an existing Poison application, the core goblin gas-combat identity already established Chapter 3, not a new interaction.
 - **Silence + Deafen together** is a real worst-case for a Spirit Magic caster specifically, locked out of every ability and unable to hear the fight happening around them at the same time. Two separate debuffs, not one combined effect, so they have to be applied by two separate sources.
 - **A Toxin stack pushing a target into Nauseous** is a real self-sabotage risk for a gas-heavy build (goblins specifically), part of why gas-users lean on a disciple or party support to cover them mid-application rather than soloing a gas combo blind.
+- **Simultaneous multi-source stacking, new.** All prior Toxin-stacking precedent (Chapter 3) is a single source reapplying over time. When multiple sources apply a Toxin-family effect to the same target at once, rather than one source stacking repeatedly, the stacks accumulate noticeably faster, still capped at the existing 4x ceiling, but reached in a fraction of the time. A real, felt payoff for actually coordinating simultaneous application (three goblins gassing the same enclosed space at once) rather than a mechanical curiosity.
 
 ## Cross-references
 
