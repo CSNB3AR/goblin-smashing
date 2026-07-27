@@ -2,9 +2,11 @@ Chapter Nine: Silence and Fire
 
 "Where's Leon," Tatsuya said, still processing the fact that it was Arya sitting where his ears had been braced for Leon's voice to come from.
 
-"Front desk, still talking to the VRSA inspector about the second pod." Arya didn't move from where she leaned against the operator's desk, her sharp green eyes locked on his. "He told me to sit here and watch the monitor while he's tied up."
+"Front desk, still talking to the VRSA inspector about the monitor." Arya didn't move from where she leaned against the operator's desk, her sharp green eyes locked on his. "Overheated again with the stream running on top of it. He told me to sit here and watch it while he's tied up."
 
-"He told you that." Tatsuya kept his tone even, running the sentence back in his own head. Leon had spent the better part of two chapters keeping his identity boxed off from everyone but the people who already had to know it. Handing that box to his little sister without a word wasn't the kind of thing Leon did carelessly, which meant either it was true, or she was good enough to make it sound true. He had no way to check either one from here, not with Leon actually across the building and out of earshot.
+"He told you that," Tatsuya said, keeping his tone even, his hand coming up to scrub over the back of his head.
+
+"Leon really told her that? Thought we agreed to keep this quiet." Leon wasn't careless about who got let in on things, not usually, which left exactly two ways to read it, either it was true, or she was good enough to make it sound true, and he had no way to check either one from here with Leon three rooms away. "Why would she even bother lying about something this easy to check, though." That part didn't sit right either, and he let it stay unsettled instead of forcing an answer he didn't actually have.
 
 A small, knowing curve pulled at the corner of Arya's mouth, there and gone, the same patient certainty she'd been carrying since the day she'd first started watching him work. She didn't explain herself further. She didn't need to.
 
@@ -76,7 +78,7 @@ Leon appeared in the hallway a moment later, the VRSA inspector's voice still tr
 
 "She's heading to the cafe on the corner," Tatsuya said. "Alone."
 
-"I'll walk her over," Leon said, simple, already reaching for his jacket off the back of a chair, like it wasn't a question worth debating. "Two minutes there, two back. Inspector's already looking at the second pod anyway, he can keep an eye on the booth that long."
+"I'll walk her over," Leon said, simple, already reaching for his jacket off the back of a chair, like it wasn't a question worth debating. "Two minutes there, two back. Inspector's already elbow-deep in the monitor anyway, he can keep an eye on it that long."
 
 "Thanks," Arya said, and there wasn't anything performative in it, just a real, plain kind of relief.
 
