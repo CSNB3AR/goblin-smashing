@@ -4,7 +4,7 @@
 
 ## Facts
 
-Getting into Lunarest itself isn't the obstacle, any player, goblin included, can walk into the city freely. The library is where the actual difficulty lives: **five floors total, the bottom two open to the public, the top three restricted.** The real objective, Shiv gives it plainly during the Chapter 3 recruitment scene: find anything on Shiv in the restricted floors, real capture/jail risk if caught up there, not just a fetch quest dressed as an infiltration.
+Getting into Lunarest itself isn't the obstacle, any player, goblin included, can walk into the city freely. The library is where the actual difficulty lives: **five floors total, the bottom two open to the public, the top three restricted.** The real objective, Sevish gives it plainly during the Chapter 4 mission briefing (Shiv hadn't appeared yet at that point, see `chapters/chapter-04.md`): find anything on Shiv in the restricted floors, real capture/jail risk if caught up there, not just a fetch quest dressed as an infiltration.
 
 **Distinct from the Astralum Archive** (see `codex/locations/astralum-archive.md`), the hidden archive beneath the royal palace, goblins historically barred from the capital itself. That's a separate, later, deeper objective tied to Shiv's ultimate goal, not what Chapter 3's quest is actually asking for.
 

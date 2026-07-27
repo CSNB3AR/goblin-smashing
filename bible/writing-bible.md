@@ -19,6 +19,8 @@ The story must never drift from these three. Overcomplicating the premise (real-
 
 Esports is the visible, spectator-friendly PvP layer sitting on top of a much bigger living MMORPG. Keep that distinction clear in the text — HGO is not "a fighting game," it's a whole world that happens to have a wildly popular competitive scene.
 
+**Combat genre, light touch.** HGO's combat is melee, magic, and bow-based, no conventional firearms; steampunk tech (Tatsuya's own sidearm, see `codex/lore/battle-items-and-battlegear.md`) is the closest thing to a modern weapon the world has. This is part of why HGO pulled players over from shooters, MOBAs, and battle royales in the first place, its 5v5 team-fight-with-items structure reads as familiar competitive ground to players coming from those other genres, even though the actual combat feel is nothing like a shooter. Keep this to background texture, not a lore dump.
+
 ## 3. Tone & Inspirations (Do Not Replicate — Understand the DNA)
 
 1. **King's Avatar** (top priority reference) — Ye Xiu energy. A player who understands the game on a level nobody else does, forced to rebuild from nothing. Strategic, grounded, competitive. Brilliance shown through game knowledge and tactical thinking, not power fantasy. The rise is slow, earned, deeply satisfying.

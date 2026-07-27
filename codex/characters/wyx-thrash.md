@@ -13,3 +13,5 @@ Level 25 Hobgoblin. Sharp and quick to challenge, defers to her brother Sevish b
 ## Personality
 
 Natural dignity and quiet authority. A confident, responsible leader who treats the people under her like family, willing to risk herself to protect them. Under the serious exterior, deeply affectionate, romantic, easily teased or jealous about people she cares about. Massive pride in her name and abilities, highly competitive, unwilling to back down. Despises cruelty, judges people by character and effort, not status or species.
+
+**Starts registering real interest in Tatsuya specifically, as a player.** Distinct from how an NPC usually reads (see `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`, background subplot seed), a competing-interest texture next to the main Yuna/Tatsuya arc, not developed on the page for a long while, becomes more overt during the Act Three Myrrhwood expedition (see `outline/act-three-myrrhwood-expedition.md`). See `codex/lore/affiliation-and-reputation-system.md` for the light note on how this reads mechanically.

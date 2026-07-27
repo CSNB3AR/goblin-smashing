@@ -2,6 +2,8 @@
 
 Spirit/death-adjacent, tied to loss, echoes, things that persist past where they should have ended. Rare specifically because it's rarely taught formally, it tends to find casters through circumstance (a bond, a haunting, a debt to the dead) rather than a school choosing to specialize someone into it.
 
+**Real progression bottleneck: it's hard to advance without a teacher.** Past the basics, the path leans hard on the Mastery system's teaching mechanic (see `codex/lore/mastery-system.md`), a master-level caster passing real technique down through an actual teacher-disciple relationship. Plenty of mages want Book of the Veil specifically, its rarity is part of the draw, but most can't get past the early tiers alone precisely because so few casters ever reach master-level in it to teach it formally. Tatsuya's own path around this, for now, is Shiv's bond doing the opening and his own alchemy/crafting research doing the rest (see below), not a teacher, which is itself the anomaly.
+
 ## Tatsuya's path: Shaman's Veil
 
 Tatsuya's affinity is Book of the Veil, tied directly to Shiv and the spirit-magic path Shaman's Veil opens (see `codex/objects/call-of-the-bones-necklace.md`), not a separate choice layered on top of it. Shiv himself reads as a spirit/death-adjacent figure, an echo, not a living caster, and the magic he passes down carries that same texture. This is consistent with the archetype's already-locked warlock-adjacent flavor (`codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`, Shaman's Veil "leans sorcerer/warlock-flavored, not priest/cleric").
