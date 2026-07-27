@@ -34,7 +34,7 @@ Sevish’s eyes tracked to Tatsuya for half a second, something passing behind t
 
 “They’re using our own rally point against us,” Tatsuya said, half to himself.
 
-Wyx’s head turned sharp at that, her green eyes narrowing with something close to interest. “You’ve seen it.”
+Wyx’s head turned sharp at that, her green eyes narrowing with something close to interest, a flicker of real respect she didn’t bother hiding. “You’ve seen it.”
 
 “Didn’t have to see it,” Tatsuya said, his voice steady. “Only one road down means whoever’s sitting on it controls whether anyone leaves at all. Whoever’s down there picked the smartest spot to single us out.” He glanced back at Kesh, watching the goblin’s claws still digging into his own knees. “He said it himself, they’re not even bothered enough to move once they’ve got position.”
 
@@ -42,7 +42,7 @@ Wyx’s head turned sharp at that, her green eyes narrowing with something close
 
 “I wonder what that means. Have to do more research once I log off for the day.” He kept his expression flat, his eyes on Sevish, not letting the notification distract him.
 
-Sevish’s weight rocked back on his heels, his hand tightening on the axe. “Get the camp ready. Stage one defense, full perimeter. Now.”
+Wyx was already moving before Sevish said another word, her voice pitched to carry past the tent flap toward the goblins scrambling outside. “You heard him. Palisade line, now, nobody stands out there proving a point when we’ve got a headcount to protect.”
 
 A notification bloomed at the edge of Tatsuya’s vision, gold-bordered, bigger than anything else that had come through tonight.
 
@@ -75,6 +75,8 @@ A notification bloomed at the edge of Tatsuya’s vision, gold-bordered, bigger 
 
 “Four points Wisdom, six Fortune. That’s the build. Speed’s sitting at nine, that’s enough for now.” He dismissed the screen and looked back at Sevish, his stance settling back to even.
 
+His eyes had caught on Gambler’s Gambit one more time before the screen faded, and something close to a real grin threatened this time. He still hadn’t made a single actual yen off any of this, whatever chat thought about that. “Wonder if Gambit even procs off a player kill the same way it does a mob.” He’d never had a reason to test it. Four raiders with real gear on their backs was about to be the first one.
+
 Sevish was already barking orders, his voice carrying across the tent and out into the camp beyond, goblins scrambling the second his words landed.
 
 “Wyx, I want rotation shifts every thirty seconds.”
@@ -101,7 +103,7 @@ Tatsuya knew that question was coming, and right now there was only one real ans
 
 Sevish studied him a beat longer, his scarred face unreadable, then nodded once, sharp. “Understood. We’ll hold stage one defense while you prepare. Wyx, get him something that actually fits.”
 
-“Done,” Wyx said, already moving toward a crate stacked near the tent’s back wall, her hands working the latch before Sevish had finished the sentence.
+“Already ahead of you,” Wyx said, already moving toward a crate stacked near the tent’s back wall, her hands working the latch before Sevish had finished the sentence. “Can’t have our own elder walking out there looking like he crawled out of a ditch.”
 
 Sevish’s eyes stayed on Tatsuya, something working behind them. “When you’re back, you go down with Ru. Rott and Nab will already be ahead of you, holding the line. You’ll meet them there.”
 
@@ -147,11 +149,11 @@ Leon stood next to him, one hip braced against the monitor bay, glasses slipping
 
 “For sure, man, that was crazy. My heart’s still pounding from the rush.” Tatsuya pushed himself off the pod’s edge and rolled his neck until something popped.
 
-“Oh, I bet that was fun to watch, my dude. I’ll talk more about it next session if you want, hated to interrupt. But give me the ten minutes,” Leon said, not looking up from where the inspector was working. “Go stretch your legs or something, you’ve been under a long time.”
+“Man, I’ve run this place a long time, watched a lot of streams on that screen up there. I haven’t seen anything like what you just pulled. Don’t get me wrong, I don’t get deep into the game myself, but I’m not gonna sugarcoat it, that was new to me too.” Leon still hadn’t looked up from the panel, but something in his voice had shifted, like he was already doing math he hadn’t meant to start. “Give me the ten minutes. Go stretch your legs or something, you’ve been under a long time.”
 
-“Yeah, for sure, and speak anytime, be nice to have an outside coach,” Tatsuya said, his legs stiff under him as he crossed toward the hallway. “Bathroom first.”
+“Yeah, for sure. Chat’s useless to me for the next month anyway, not affiliate yet. Be nice having someone real in my ear instead,” Tatsuya said, his legs stiff under him as he crossed toward the hallway. “Bathroom first.”
 
-“Coach, huh? I like the sound of that,” Leon teased, his voice echoing as Tatsuya shifted down the aisles toward the bathroom.
+Leon didn’t answer right away, still bent over the panel. Then, quieter, mostly to himself, his voice echoing after Tatsuya as he shifted down the aisles toward the bathroom: “Coach.” A pause, like he was actually turning it over. “Yeah. Yeah, I could see that.”
 
 The bathroom at Sakura Arcade was small and smelled like the same industrial cleaner it always had, harsh enough to catch in the back of his throat after hours of woodsmoke and canvas. Tatsuya splashed water on his face before he even looked at his phone, both hands braced against the sink, needing a second to remember which world he was actually standing in.
 
@@ -236,10 +238,6 @@ He knew exactly why that mattered, because the same shape of idea had been his, 
 Another Loop post trailed the first, already speculative, already tagging Dosuke AI, a name that made Tatsuya’s mouth twitch despite everything else going on. Dosuke’s own build had always read a little too close to what he and Eren used to theorize for it to be coincidence.
 
 “Everything Eren built is starting to come apart.” He pushed off the wall and headed for the door. “Bastard better not crash yet. I want to settle everything when I face him in this world.” The words sat heavy, an anger surfacing that he didn’t know he had, but a smile crept onto his face as he realized what was at stake.
-
-“How do I even enter the esports scene with this build?” He stopped just outside the bathroom door, fingers curling around the frame. “Goblin’s a joke race to everyone who matters. World Quest gear gets nerfed in ranked. I’m starting from zero followers every time I log off. What’s the actual path here?”
-
-He didn’t have an answer yet. He pushed off the frame and kept walking.
 
 He was already down the hallway, thumb still hovering over his phone, when a voice cut through the noise behind him.
 
