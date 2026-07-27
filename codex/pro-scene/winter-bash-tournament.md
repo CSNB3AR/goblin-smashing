@@ -14,6 +14,8 @@ Top 32 → Top 16 → Top 8 (Quarterfinals) → Top 4 (Semifinals) → Final, ru
 
 Once a team reaches the Top 32 cut, they're required to physically attend a regional HGO stadium for the remainder of the bracket, Tokyo for APAC. This is the actual mechanism behind two major reveals landing in the same stretch: it's Tatsuya's first real public appearance as T-Drag outside a stream overlay, and it's Eren's first real-time discovery that T-Drag is Tatsuya, since their Top 32 match puts them across from each other in person, not through a screen. Neither of them gets advance warning, the bracket draw is what does it.
 
+**Eren's Top 32 partner is PK_Wraith** (see `codex/characters/pk-wraith.md`), not a random pairing. Haruto's public exit from Kansai Black Lotus (Chapter 8) leaves Eren without anyone strong willing to team with him, and PK_Wraith wants the T-Drag matchup badly enough to take the open slot, his own vendetta against T-Drag already real since Chapter 9. This lands the identity-reveal beat and PK_Wraith's revenge beat in the same match, not two separate payoffs.
+
 ## Tatsuya's team, the random-teammate mechanic
 
 Arya (pre-formed partner, per the already-locked mechanic that puts them on the same team) plus one randomly assigned third player. **Pac_Pac** (see `codex/characters/pac-pac.md`, a Beastfolk tank/brawler) is that random third, landing his forward-plot seed here. This trio names itself **Haya Storm** (see `codex/pro-scene/haya-storm.md`) and stays together as the core of a roster that later grows to five for the post-expansion 5v5 format.
@@ -21,7 +23,7 @@ Arya (pre-formed partner, per the already-locked mechanic that puts them on the 
 ## The actual run, locked
 
 - **8-2 qualifying record**, 8th seed out of APAC, the last team through on regional standing, not a dominant qualifying run.
-- Advances through the Top 32 match against Eren's team (the reveal beat above) and continues into the bracket.
+- Advances through the Top 32 match against Eren and PK_Wraith's team (the reveal beat above) and continues into the bracket.
 - **Eliminated in the semifinals**, losing to a Haruto Murayama/Dosuke AI/Souma Ikeda team-up (see `codex/characters/haruto-murayama.md`, `codex/characters/dosuke-ai.md`), Souma Ikeda filling the roster's third slot, this is where Dosuke AI picking Haruto up as a free agent, seeded in Chapter 8, actually pays off on the page as a real, formidable roster.
 - A real, earned loss, not a throwaway elimination, consistent with Tatsuya's team being an underdog seed the whole way rather than a favorite who chokes.
 

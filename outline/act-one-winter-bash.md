@@ -15,7 +15,7 @@ Full context and the "new decisions" this arc locks in (Pac_Pac's race, Arya's s
 7. Winter Bash qualifiers. Pac_Pac lands as the random third teammate, first real team-chemistry beats, working out how a hardpoint-DPS goblin, a fog/silence control mage, and a Beastfolk brawler actually combo on a King-of-the-Hill map (see `codex/pro-scene/haya-storm.md`).
 8. Qualifiers close on the 8-2 record, 8th seed, barely through.
 9. The tournament itself begins, the physical-attendance requirement lands as a real identity-exposure fear for Tatsuya before it's a triumph.
-10. Top 32 vs. Eren's team, the double reveal (crowd sees T-Drag's face, Eren sees Tatsuya's), Haya Storm wins.
+10. Top 32 vs. Eren's team, and Eren's partner is PK_Wraith (see `codex/characters/pk-wraith.md`), not a random pairing, Haruto's public exit left Eren without anyone strong willing to team with him, and PK_Wraith wants the T-Drag matchup badly enough to take the slot. This lands the identity-reveal beat (crowd sees T-Drag's face, Eren sees Tatsuya's) and PK_Wraith's revenge beat in the same match. Haya Storm wins.
 11. Advancing through Top 16 and Quarterfinals, public attention building on the underdog story.
 12. Semifinal loss to Haruto Murayama/Dosuke AI/Souma Ikeda, a real, earned loss, not a throwaway (see `codex/pro-scene/winter-bash-tournament.md`).
 13. Fallout: Eren's spiral after watching Tatsuya beat him in public, pushing the debt/schematics pressure harder, the "unfinished conversation with Daichi" bait lands here.
