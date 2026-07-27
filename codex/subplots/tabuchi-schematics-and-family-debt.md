@@ -35,6 +35,10 @@ The Tabuchis' current push is partly a legal-collections angle layered over thei
 
 During the stretch after Chapter 8, the Tabuchis shift tactics. Direct debt pressure and Eren's needling have gotten them nowhere concrete, so they try something more targeted: dangling the claim that Daichi left an "unfinished discussion" with Kazuto, something he meant to hand over or resolve before he died, that never actually happened. It's an invented hook, not a real thread, engineered specifically to bait Tatsuya into a conversation on their terms, one where getting him talking and reminiscing about his father is the real goal, an opening to extract details about the schematics or whatever else of Daichi's survived, under the cover of grief and closure rather than open pressure. A subtler escalation than the funeral approach or the WattsUp visits, playing on the one angle Tatsuya doesn't have full armor against, since refusing to talk about his father at all isn't really something he can do forever.
 
+## Leverage shift, end of Act One
+
+Once Tatsuya's a publicly revealed HGO star with real sponsorship/placement money behind him (see `outline/act-one-winter-bash.md`), the Tabuchis lose their actual leverage, not a secret (Ohema's condition was never hidden from them, Eren already references it openly in Chapter 1), but Tatsuya's isolation. Quiet debt-collection pressure only worked on someone with no money, no public standing, and no institutional backing. A star player with real income and a growing public profile isn't quietly pressurable the same way, which is exactly what pushes the Tabuchis toward riskier, more overt tactics, consistent with, and an escalation past, the already-locked "unfinished discussion" bait above.
+
 ## Payoff
 
 Late in the story, Tatsuya discovers his father's connection to Kazuku and the full circle of the family's legacy, which likely also resolves or reframes this subplot. See `story/premise.md`.

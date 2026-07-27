@@ -6,7 +6,7 @@
 
 ## Arya's in-person interception
 
-Opens on "Hey," Tatsuya's own line, already mid-exchange with her (she's already spoken, Chapter 8 covers that). Two real declines, each explicitly tied in his own reasoning to the Eren pattern, not just plot friction ("No. Not doing this again. Last time I let someone in this close, it cost me everything."). She escalates into real, unperformed desperation, the guild-collapse specifics (90 down to 3, the rumor campaign after she kicked two members) and her mother's medical-school plan for her, landed as plain, unguarded dialogue, not narrated backstory. What actually moves him is the escalation, not a single line.
+Opens on "Hey," Tatsuya's own line, already mid-exchange with her (she's already spoken, Chapter 8 covers that). Two real declines, each explicitly tied in his own reasoning to the Eren pattern, not just plot friction ("No. Not doing this again. Last time I let someone in this close, it cost me everything."). She escalates into real, unperformed desperation, the guild-collapse specifics (90 down to 3, the rumor campaign after Sana and Nao turned on her following the GvG merit-slot loss, see `codex/characters/arya.md`) and her mother's medical-school plan for her, landed as plain, unguarded dialogue, not narrated backstory. What actually moves him is the escalation, not a single line.
 
 ## The Hushveil negotiation
 
