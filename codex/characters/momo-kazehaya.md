@@ -10,3 +10,7 @@ Dialogue and behavior should read like a real kid that age, not a scaled-down te
 Sharp wit, big emotions, obsessed with J-pop and HGO host Yuna (specifically Yuna's music and persona). Her obsession with Yuna plants Yuna in Tatsuya's household long before any direct connection forms between them (see `codex/characters/yuna-yunaile.md`).
 
 **Visual reference (locked):** locs like Tatsuya, a real family trait, not a coincidence. Red hoodie, expressive, easily annoyed, wears her moods openly the way Tatsuya's learned not to.
+
+## Personality
+
+Bubbly, manicured, completely unbothered. While her twin lives in sweaty competitive hell, she lives in the glittering world of idols and rhythm games, a terrifying prodigy at them. Finds her brother's intense rants hilarious, loves teasing him or photobombing his streams. Despite the cute exterior, acts as the mature household manager, dragging him away from the PC to eat, shower, or help with real-life tasks.

@@ -32,3 +32,7 @@ Her parents don't know how deeply she's actually embedded in HGO, not just as a 
 Yuna visits Kaito regularly to cheer him up and bring him fan mail. Tatsuya bumps into her in the hallway; she drops envelopes. She introduces herself as Yunaile only. She recognizes the Kazehaya name but doesn't explain why. By the end of the conversation she asks if he plays HGO, quietly testing whether he recognizes her. He doesn't connect it in the moment. He pieces it together later, at home, watching TV.
 
 See `codex/subplots/yuna-tatsuya-slow-burn-romance.md` and `codex/subplots/yuna-family-inheritance-plot.md`.
+
+## Personality
+
+Pure soft-spoken sweetness and quiet devotion. Polite, easily flustered, apologizes for the smallest mistakes. Exclusively plays high-utility support and healing roles, focused entirely on keeping her carry alive. Shy about her real identity, prefers to stay low-key. Follows the person she trusts like a shadow, blushes at simple compliments, gets visibly overwhelmed by rough, loud environments.

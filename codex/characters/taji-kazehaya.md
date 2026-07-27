@@ -12,3 +12,7 @@ HGO-obsessed, always tangled in blankets and headphones, has strong opinions abo
 **Loop/chat handle, confirmed Chapter 8: Taja_11.** Uses it to watch and chat on Tatsuya's stream without confirming it's actually his brother, a quiet, half-recognized presence in the chat rather than a direct interaction, consistent with the earlier Chapter 7 beat where Tatsuya half-recognizes a familiar-sounding handle and chooses not to acknowledge it either.
 
 **Visual reference (locked):** locs like Tatsuya, a real family trait, not a coincidence. Red hoodie, expressive, easily annoyed, wears his moods openly the way Tatsuya's learned not to.
+
+## Personality
+
+Pure grind and unstoppable optimism. No natural talent advantage, so he outworks everyone, staying up until the early hours repeating the same mechanics until they become muscle memory. Classic little-brother energy, looks up to older players, takes every piece of advice as gospel. Never tilts, even after long losing streaks, just resets and queues again with burning eyes. Constantly invents dramatic self-imposed challenges and actually follows through on the punishments.

@@ -11,3 +11,7 @@ Visual reference locked. Broad, hulking build, bigger and heavier than a standar
 Level 80. Massive presence, scarred, commands total respect. Gives Kaiseki (Tatsuya's in-game name) his central ultimatum, prove himself within a set window or be treated as an enemy, and later treats the Shiv bond as a genuine honor.
 
 **Structural note:** the "chained up" beat now lands by the end of Chapter 3 itself, immediately after Tatsuya kills two of the clan's goblins in the roast-turned-fight, held as a suspected threat even while being offered the World Quest. See `outline/chapter-03.md` and `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`.
+
+## Personality
+
+Pure action and personal code. Lives for the physical rush of a fight, treats pain and danger as proof he's alive. Rejects titles, rules, anything bureaucratic, trusts only his own logic and strength. Follows a strict personal honor system, won't kill the helpless, demands fair one-on-one fights, respects anyone strong enough to challenge him. Zero natural interest in long-term plans or politics, the next good fight in front of him is what matters. What actually moves him past that, into the World Quest and everything it costs him, isn't a break from this personality, it's his faith in Shiv and what it means for Thrash and his own family, reinforced by how much weight he gives his younger sister Wyx's own read on things, the sharper strategic mind of the two.

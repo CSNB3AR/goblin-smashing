@@ -14,3 +14,7 @@ Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
 - Recognizes Tatsuya's manual pod override as something only someone trained by Daichi Kazehaya could plausibly pull off (old-draft beat, worth preserving).
 
 See `codex/subplots/technical-arc-leon-and-sakura-arcade.md` and `codex/locations/sakura-arcade.md`.
+
+## Personality
+
+The rough, no-nonsense analyst and reluctant coach. Claims he's done with the competitive scene, just wants a quiet life, yet the moment he sees young players struggling or getting pushed around, his old competitive blood boils and he steps in. Blunt, harsh coaching, curses out sloppy mechanics and lack of grit, then breaks down strategy in plain, practical terms. Values instinct, mental toughness, and finishing fights over fancy setups. His place is a safe haven for the chaotic regulars even while he yells at them to stop being idiots.

@@ -41,3 +41,7 @@ The old draft used both "Aria" (Chapter 8) and "AriaSky" (Chapter 10 stream hand
 ## Shivbone Staff, Chapter 9
 
 Off the PK_Wraith kill, Spellweaver_Lyn's own legacy weapon drops separately from the rest of the sellable gear: a Shivbone Staff (Rare-Legendary, see `codex/crafting/recipes-spirit-line.md` for the item's full recipe/effect entry, +Wisdom and +Fortune, a Spirit Echo passive that applies a light Silence proc). Tatsuya doesn't put it up for sale with the rest of the loot, he sets it aside for Arya specifically, a real, on-page recognition that it matches her build directly, complementing the same Hushveil investment he just talked her into. The other three pieces (Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest) go to market normally.
+
+## Personality
+
+High-energy, passionate, slightly chaotic. Plays aggressive and loud, gets easily tilted by lag or toxic teammates, then laughs it off. Refuses to read tutorials or guides, forces her way through everything by stubborn trial-and-error. Extremely expressive, her face and hands do half the talking. Fiercely protective of her people, defends them hard, carries lower-skilled friends without hesitation.

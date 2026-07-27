@@ -20,3 +20,7 @@ See `codex/subplots/haruto-exit-from-kansai-black-lotus.md`. This respect eventu
 ## Old-draft reference
 
 The old draft (`bible/old-draft-chapter-bible.md`) gave him a much bigger early role, an entire POV-adjacent chapter built around his exit, that chapter itself is cut (breaks the locked-POV rule), but the underlying beat (Haruto quitting Kansai Black Lotus publicly, calling out Eren) is worth preserving through Tatsuya's secondhand knowledge.
+
+## Personality
+
+The silent, expressionless powerhouse. Barely talks or reacts, looks almost bored until he casually deletes entire teams with raw firepower. Ignores complex tactics, forces his way through with pure, unblockable damage. When truly challenged, becomes intensely stubborn, refuses to look away. A complete game hog with his preferred high-damage role, only listens to one trusted support player. Completely blind to chat and compliments, only a direct rival insult makes him try even harder.
