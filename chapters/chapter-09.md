@@ -1,18 +1,38 @@
 Chapter Nine: Silence and Fire
 
-"Hey," he said, and everything he'd been carrying about Haruto and Eren dropped out of his head at once, replaced by the much more immediate problem of Arya standing there instead of Leon.
+"Where's Leon," Tatsuya said, still processing the fact that it was Arya sitting where his ears had been braced for Leon's voice to come from.
 
-"Saw your stream," Arya said, no preamble, her sharp green eyes locked on his. "White hair, a title I've never seen on anyone, and now four guys camped on the only road out of wherever you are. I know roughly where that is. If they're still parked there when you go back under, it's only a matter of time before more people find that spot too."
+"Front desk, still talking to the VRSA inspector about the second pod." Arya didn't move from where she leaned against the operator's desk, her sharp green eyes locked on his. "He told me to sit here and watch the monitor while he's tied up."
+
+"He told you that." Tatsuya kept his tone even, running the sentence back in his own head. Leon had spent the better part of two chapters keeping his identity boxed off from everyone but the people who already had to know it. Handing that box to his little sister without a word wasn't the kind of thing Leon did carelessly, which meant either it was true, or she was good enough to make it sound true. He had no way to check either one from here, not with Leon actually across the building and out of earshot.
+
+A small, knowing curve pulled at the corner of Arya's mouth, there and gone, the same patient certainty she'd been carrying since the day she'd first started watching him work. She didn't explain herself further. She didn't need to.
+
+"I'm good," Tatsuya said, already turning for the pod, deciding the fastest way through this was to just not engage with it.
+
+"Saw your stream," Arya said, not raising her voice, not needing to. "White hair, a title I've never seen on anyone, and half of Loop's already dissecting it frame by frame. You can keep walking, but you're not actually unseeing that."
+
+Tatsuya stopped, half a step short of where he'd meant to. "T-Drag's fine," he said, flat, giving her exactly as much as the name and nothing behind it.
+
+"Four guys camped on the only road out of wherever you are isn't fine," Arya said, pushing off the desk now, closing the distance between them at an easy, unhurried pace. "And they're not the only ones. I pulled up your last two streams while you were under, there's at least two other groups already circling that location off your own footage. You've got a warband at your back, so maybe that doesn't scare you. It should. A big enough crowd just means more people who'd love to say they're the one who actually got you."
 
 "I've got it handled," Tatsuya said, his thumb still resting on the edge of his phone, the Haruto post still open on the screen behind his hand.
 
 "You sure? Because from where I was watching, that didn't look handled." She tilted her head slightly, her red hair catching the overhead light. "I could help. I know your situation better than you think, and I've got a build that could actually matter here."
 
-"I said I've got it," Tatsuya said, flatter this time, the words clipped short.
+"I said I've got it," Tatsuya said, flatter this time, the words clipped short. "And trying to help doesn't usually come with a rundown of exactly how many groups already have eyes on me. That's not help. That's you working an angle."
+
+"Hear me out before you decide that." Arya didn't flinch from it, her stance settling instead of tightening. "I know where you are. I've got a build nobody's using right. Teaming up with the exact goblin everybody's watching right now, before Winter Bash even opens qualifiers, that's not something I'm letting walk past me. Call it self-interest if you want. Doesn't make it a lie."
+
+Tatsuya sat with that a second, turning it over. Trusting someone who'd already admitted an angle felt easier than the alternative, someone claiming she wanted nothing at all. That part, at least, tracked.
+
+"How much of that did you actually hear," he said, his eyes flicking once toward the hallway Leon had disappeared down. Leon talking freely with the inspector three rooms away wasn't nothing, and it sat wrong in a way he hadn't fully worked out yet.
+
+"Enough," Arya said, and didn't dress it up as anything else. "If you're that worried about it, check the arcade's own cameras sometime, you'd probably learn more from those than from me."
 
 "No. Not doing this again. Last time I let someone in this close, it cost me everything."
 
-Arya pushed off the desk behind her. "No pod free here anyway. There's a cafe two blocks over. I could be logged in and useful before you're even back under."
+Arya pushed off the desk behind her. "No pod free here anyway. There's a cafe a couple blocks over. I could be logged in and useful before you're even back under." Her voice dropped a register, losing some of its edge. "I'm not trying to be weird about this. I'm trying to be useful, that's all. We've both got enough going on without me chasing something that isn't real."
 
 "I don't need it," Tatsuya said again, his voice steady.
 
@@ -46,25 +66,23 @@ She was quiet for a long moment, weighing it, and he let her sit in it instead o
 
 "Fine," Arya said finally, her shoulders dropping. "Don't start without me."
 
-"Wasn't planning on it," Tatsuya said.
+"Wasn't planning on it," Tatsuya said, then caught himself before she made it to the door. "How are you even getting to this cafe. Alone, this late, off the back of a conversation you just had with a guy you're about to fight next to. That's not nothing either."
 
-She was already walking, phone out, thumb moving fast across the screen, her boots echoing against the tile as she headed for the door.
+Arya paused, glancing back at him like the question had actually landed somewhere real. "It's two blocks."
 
-Leon straightened up from the monitor bay, the panel behind him closed again, tools already back in their cloth roll. "That's done. Should hold a lot longer this time." He glanced toward the hallway Arya had just disappeared down, then back to Tatsuya, something considering in his face. "She's really about to log in from a different building to help you fight four guys."
+"Still." Tatsuya looked past her, toward the front of the arcade, toward wherever Leon actually was.
 
-"Apparently," Tatsuya said, still watching the empty hallway.
+Leon appeared in the hallway a moment later, the VRSA inspector's voice still trailing faintly behind him from the front desk, and took in the two of them standing there with a look that said he'd missed a whole conversation and knew it. "What'd I walk into."
 
-"Alright." Leon pulled a stool over next to the monitor bay and dropped onto it, elbows on his knees. "Once you're back under, I'm staying on comms the whole time, not just watching a screen. You're gonna need someone actually talking to you out here, not just fixing hardware when it breaks. But I want the stream cut the second this fight's done, win or lose. Not risking your face and four strangers with real gear in the same clip a second longer than it has to be."
+"She's heading to the cafe on the corner," Tatsuya said. "Alone."
 
-"Yeah, that's fair," Tatsuya said, already thinking through what that actually meant, a live voice in his ear instead of dead air between problems.
+"I'll walk her over," Leon said, simple, already reaching for his jacket off the back of a chair, like it wasn't a question worth debating. "Two minutes there, two back. Inspector's already looking at the second pod anyway, he can keep an eye on the booth that long."
 
-"Anything you need from out here while you're in there?" Leon asked, reaching for his phone almost before he'd finished the question. "I can't do much, but I can look stuff up. You'd be surprised what's actually out there if you know where to search."
+"Thanks," Arya said, and there wasn't anything performative in it, just a real, plain kind of relief.
 
-Tatsuya thought about the character sheet still sitting behind his eyes, the title he still didn't understand, and figured there was no better time to ask than now, with someone actually free to chase it down. "Yeah. Look into 'First Descendant of Shiv' if you get a second. That's a title, not a class, and I've never heard of it existing before tonight. Could be brand new patch stuff nobody's cracked yet, or it could be old lore nobody bothered writing down. Either way I want to know before I'm standing in front of goblins who already seem to know what it means better than I do."
+"Stay put till I'm back," Leon said, pointing loosely at Tatsuya on his way past. "Not diving with nobody actually watching the monitor."
 
-"On it," Leon said, already thumbing into a search bar, the light of it reflecting off his glasses. "Fair warning, half of what's out there on this stuff is somebody's guess dressed up like a fact. I'll tell you what I actually find, not what sounds good."
-
-"That's still more than I've got right now," Tatsuya said, already turning back toward the pod.
+Tatsuya waited, and it took longer than he expected for the door to open again, Leon dropping back into the chair at the monitor bay like the walk had eaten more of the evening than either of them planned for. He pulled his phone out one more time before climbing back in, and the time on the lock screen caught him off guard, further along than he'd expected. Whatever was about to happen down that road, Arya had already given herself the better part of two hours to actually make it matter.
 
 He climbed in, settled against the padding, and let the lid close over him.
 
