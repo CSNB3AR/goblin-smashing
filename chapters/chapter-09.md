@@ -12,31 +12,37 @@ His hand came up and scrubbed over the back of his head, the motion pulling his 
 
 He looked at her directly. "He told you that?"
 
-She tilted her head slightly, and something came to the corner of her mouth — a small, easy curve, the kind that said she found the question more amusing than anything else. "Yeah," she said. "Why would I lie?"
+She tilted her head slightly, and something came to the corner of her mouth, a small, easy curve, the kind that said she found the question more amusing than anything else. "Yeah," she said. "Why would I lie?"
 
-"Not like she'd have a reason to." But the timing of it still didn't quite line up — Leon in the middle of an emergency call and his sister conveniently already at the operator's desk. He filed it.
+"Not like she'd have a reason to." But the timing of it still didn't quite line up, Leon in the middle of an emergency call and his sister conveniently already at the operator's desk. He filed it.
 
 "I'm good," Tatsuya said. "I'll wait."
 
 "Suit yourself." She settled back against the edge of the desk with the ease of someone who'd already gotten comfortable, watching him the way she'd have watched someone about to make a move she'd already anticipated.
 
-He pulled his phone out and looked at the lock screen. The time, the stack of Loop notifications he hadn't cleared — and underneath all of it his screensaver: Ohema in the center, Momo and Taji pressed in on either side of her, the three of them caught mid-laugh at some angle that made the moment look like it might actually last. He stayed on it a second longer than he meant to.
+He pulled his phone out and looked at the lock screen. The time, the stack of Loop notifications he hadn't cleared, and underneath all of it his screensaver: Ohema in the center, Momo and Taji pressed in on either side of her, the three of them caught mid-laugh at some angle that made the moment look like it might actually last. He stayed on it a second longer than he meant to.
 
 "Where are you from?" Arya asked, her tone the same easy casual it had been.
 
 He looked up from the phone. "Tokyo."
 
-"Hm." Her eyes moved over him briefly, something light in them. "You don't really seem like it."
+"Which part?"
 
-"I get that a lot," Tatsuya said.
+"Shibuya. Born there."
 
-"I have some information," she said, and her voice shifted — steady, direct, the kind that didn't raise itself because it had no reason to. "Something you might actually want before you go back in."
+"Kanto kid." Something light in her eyes, a kind of noticing with nothing unfriendly behind it. "Both your parents?"
+
+"Dad's from here." He slid the phone back into his pocket. "Mom's Ghanaian."
+
+She took that in without making it a thing, just a brief pause, the kind that was landing rather than searching. "Explains the locs," she said, easy, and there was something at the corner of her mouth again.
+
+"I have some information," she said, and her voice shifted, steady, direct, the kind that didn't raise itself because it had no reason to. "Something you might actually want before you go back in."
 
 He kept his eyes on her.
 
 "If you care about not dying off an Elder," she said, holding his gaze, "I think it'll save you a lot of time."
 
-The way she said it made something click in his head, a specific kind of recognition — the feeling of hearing something land close to what he hadn't yet put into words for himself. He kept his expression level. "Why am I dying off an elder? What is she seeing that I'm not?"
+The way she said it made something click in his head, a specific kind of recognition, the feeling of hearing something land close to what he hadn't yet put into words for himself. He kept his expression level. "Why am I dying off an elder? What is she seeing that I'm not?"
 
 "What kind of information," he said.
 
@@ -44,9 +50,9 @@ Arya's mouth pulled into something that might have been satisfaction, her eyes b
 
 She was shorter than him by enough that she had to tilt her head back slightly to hold his eyes, and something about the angle made her features catch the light differently. He found himself noticing the way her expression had shifted from casual to focused, the sharpness behind it that reminded him of watching pros read a match in real time.
 
-He looked at her for a long moment, watching her posture — steady, expectant, not pressing but clearly waiting. She'd come in with something she'd already thought through, and the whole shape of the exchange so far read like the kind of move that came from someone who'd mapped several exchanges out before walking in.
+He looked at her for a long moment, watching her posture, steady, expectant, not pressing but clearly waiting. She'd come in with something she'd already thought through, and the whole shape of the exchange so far read like the kind of move that came from someone who'd mapped several exchanges out before walking in.
 
-"I knew she had an angle. Information that changes the math — whatever she's got, she held it back exactly long enough to make it feel like a real offer."
+"I knew she had an angle. Information that changes the math. Whatever she's got, she held it back exactly long enough to make it feel like a real offer."
 
 Tatsuya scratched the back of his locs, fingers catching in the thick strands as he looked down at her. The height difference made the whole thing feel less adversarial than it probably should have, more like a negotiation between people who already understood the same language.
 
@@ -60,9 +66,9 @@ A guild chat log. The threads went back several hours, a dozen different names c
 
 "His stream. They were watching every session and using his footage to map his movements, and the timestamps on the earliest thread put them onto it within the first hour he went live. That was a level of attention he hadn't anticipated." The realization settled somewhere in the middle of his chest, not panic, just a recalibration of how much ground he'd been covering blind.
 
-"The thing keeping them back," she said, one finger tapping a specific thread, "isn't the rank-and-file goblins. It's the war chief. Gold-tag, level eighty." She scrolled. "And his second — level twenty-five, same warband. That's the actual line nobody's willing to cross right now."
+"The thing keeping them back," she said, one finger tapping a specific thread, "isn't the rank-and-file goblins. It's the war chief. Gold-tag, level eighty." She scrolled. "And his second, level twenty-five, same warband. That's the actual line nobody's willing to cross right now."
 
-Level eighty. He handed the phone back. That number made its own kind of sense out of everything he'd seen in camp — every time Sevish moved and the warband moved with him.
+Level eighty. He handed the phone back. That number made its own kind of sense out of everything he'd seen in camp, every time Sevish moved and the warband moved with him.
 
 "There's more," she said, scrolling to a different thread. "The guilds who already switched to legacy accounts to build toward the higher cap. Once you switch to legacy, the account freezes on progression entirely. No XP gain, no item drops, nothing. They can still fight, but there's nothing to take out of it. So for most of them, the math on rushing you right now doesn't work." She locked the screen and dropped the phone back to her side. "But if you go out of range of that warband. Or it gets thinned down far enough. That cover's gone."
 
@@ -78,7 +84,7 @@ He held her gaze for a moment. She hadn't moved to push anything, hadn't pressed
 
 "I want to team with you for Winter Bash," she said, flat and direct, the kind of sentence that landed without any setup because it didn't need any.
 
-"She said it like she'd had it ready since she walked in, which she probably had. Bold move — the kind of move that came from someone who'd already made the call before arriving, not someone feeling out the room." He hadn't been expecting Winter Bash specifically. He'd expected a number, or a straight information trade with a rate attached. His gaze held on her a moment. "Winter Bash," he said.
+"She said it like she'd had it ready since she walked in, which she probably had. Bold move, the kind of move that came from someone who'd already made the call before arriving, not someone feeling out the room." He hadn't been expecting Winter Bash specifically. He'd expected a number, or a straight information trade with a rate attached. His gaze held on her a moment. "Winter Bash," he said.
 
 "You know more about this game than you're showing." Something in her voice had shifted, less careful with it now, more direct. "Nobody does what you've already done on stream playing blind. The warband's holding, the camp's got structure to it, you've made calls out there that don't come from luck." She stopped. When she started again her voice had settled back to level. "My guild's gone." He started to say something and she raised a hand, cutting him off before he could. "I know you heard. I don't want to get into it. The point is that's exactly why I'm here and not hedging. I'm not here to see if you're worth it. I've already decided. I'm gambling." The hand came back down.
 
@@ -100,13 +106,13 @@ She kept her eyes on him, waiting.
 
 "Give me some of what you've got. Damage side."
 
-She shifted slightly, the same way someone settled in when they were about to actually talk through something they knew. "Static Lash is my main. Instant cast, good range, scales on Wisdom. I've put real points into it." She went through it without pausing to check the delivery — not reciting, more like walking him through a toolkit she'd actually used. "Tempest Fan at tier two. Storm Shear at tier three, both invested. Arc Pulse, but I haven't maxed the upgrade tree on it yet." A brief pause. "Stormwall field for zone control — I use it more for positioning than raw damage."
+She shifted slightly, the same way someone settled in when they were about to actually talk through something they knew. "Static Lash is my main. Instant cast, good range, scales on Wisdom. I've put real points into it." She went through it without pausing to check the delivery, not reciting, more like walking him through a toolkit she'd actually used. "Tempest Fan at tier two. Storm Shear at tier three, both invested. Arc Pulse, but I haven't maxed the upgrade tree on it yet." A brief pause. "Stormwall field for zone control. I use it more for positioning than raw damage."
 
 He listened without interrupting.
 
 "Can you cast Hushveil Silence," he said.
 
-The look that crossed her face was the kind that came right before a question someone already knew the answer to but still had to ask. Her eyes narrowed slightly, taking in the steadiness of his expression, looking for the tell that would tell her this was a bluff. "That's a fog spell," she said, the skepticism in her voice not quite hiding that she was running some kind of recalculation behind it. "It doesn't deal damage. It doesn't scale on anything you'd actually want to scale. Nobody runs it in a competitive setting because there's nothing to run — it's dead weight in any build that needs to put out numbers." She paused, her gaze moving over him, back through whatever she'd seen on stream and everything she'd worked out before walking in. "Do you actually know what you're asking for."
+The look that crossed her face was the kind that came right before a question someone already knew the answer to but still had to ask. Her eyes narrowed slightly, taking in the steadiness of his expression, looking for the tell that would tell her this was a bluff. "That's a fog spell," she said, the skepticism in her voice not quite hiding that she was running some kind of recalculation behind it. "It doesn't deal damage. It doesn't scale on anything you'd actually want to scale. Nobody runs it in a competitive setting because there's nothing to run, it's dead weight in any build that needs to put out numbers." She paused, her gaze moving over him, back through whatever she'd seen on stream and everything she'd worked out before walking in. "Do you actually know what you're asking for."
 
 "Trust me," Tatsuya said, his voice staying level and easy. "I'm not asking for no reason."
 
@@ -134,11 +140,11 @@ Leon watched the door close. Then he looked at Tatsuya. "What was that about."
 
 Tatsuya looked at him flat. "Bro. Don't get me started."
 
-"I'm joking, I'm joking." Leon raised both hands, already moving on. He settled into the chair by the monitor and ran a quick eye over the readout. "Hey — that thing you said earlier. About having someone in your ear while you're in. I could be on mic if you need it. I'm not deep in the game the way you are, but I can look things up, keep tabs on what's moving."
+"I'm joking, I'm joking." Leon raised both hands, already moving on. He settled into the chair by the monitor and ran a quick eye over the readout. "Hey, that thing you said earlier. About having someone in your ear while you're in. I could be on mic if you need it. I'm not deep in the game the way you are, but I can look things up, keep tabs on what's moving."
 
 "Yeah," Tatsuya said. "That'd actually help. Real eyes out there while I'm under is different from going in alone."
 
-Leon nodded once, glancing toward the inspector's equipment still laid out near the monitor bay. "One more thing — the stream. I'm holding off on that for now. That's probably what cooked the monitor. As long as you don't run too long we should be fine." He leaned back in the chair. "We normally close at nine, but play it out. I don't care how long it takes. When you get to a good stopping point, you stop. That's it."
+Leon nodded once, glancing toward the inspector's equipment still laid out near the monitor bay. "One more thing. The stream. I'm holding off on that for now. That's probably what cooked the monitor. As long as you don't run too long we should be fine." He leaned back in the chair. "We normally close at nine, but play it out. I don't care how long it takes. When you get to a good stopping point, you stop. That's it."
 
 "Appreciate it," Tatsuya said, already moving toward the pod.
 
