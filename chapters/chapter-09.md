@@ -44,11 +44,11 @@ He looked at her. "What do you want from me."
 
 "I want to team with you for Winter Bash," she said, flat and direct, like she'd had the line ready before she walked in.
 
-He hadn't been expecting that. He'd expected her to name a number, or set up a straight information trade, something with a clear rate attached. "Winter Bash," he said.
+He hadn't been expecting that. He'd expected her to name a number, or set up a straight information trade, something with a clear rate attached. His gaze held on her a moment. "Winter Bash," he said.
 
 "You know more about this game than you're showing," she said, something more direct in her voice now, less careful with it. "Nobody does what you've already done on stream playing blind. The warband's holding, the camp's got structure to it, you've made calls out there that don't come from luck." She stopped. When she started again her voice had settled back to level. "My guild's gone." He started to say something and she raised a hand, stopping him before he could. "I know you heard. I don't want to get into it. The point is that's exactly why I'm here and not hedging. I'm not here to see if you're worth it. I've already decided. I'm gambling." The hand came back down.
 
-He considered it. "I'll consider it," he said. "But there's something I need from you first."
+His gaze dropped to the space between them, then came back to her. "I'll consider it," he said. "But there's something I need from you first."
 
 She kept her eyes on him, waiting.
 
@@ -74,11 +74,9 @@ She held the look for a moment. "If this spell does nothing," she said, "I'm not
 
 "Once you realize what this spell can do," he said, "once you realize what I have in store, your entire mind is going to change."
 
-She was quiet for a moment, reading his face, and then something in her expression shifted, not all the way sold on it, but somewhere close enough.
+She was quiet for a moment, reading his face, and then something in her expression shifted, not all the way sold on it, but somewhere close enough. "Okay," she said.
 
-"Okay," she said.
-
-"Don't start without me," he said.
+"Don't start without me," he said, one hand already moving to the pod's handle.
 
 "Leon's still tied up and I don't know what's happening at that camp," she said, already moving toward the door. "I need to get back in."
 
@@ -132,7 +130,7 @@ Something in Wyx's stance eased at that, not all the way, but enough that Tatsuy
 
 "Bad enough that I'm not sending another wave down that road blind," Sevish said, his voice dropping lower, more measured now, the fight already turning into a decision instead of a reaction. "Lost good goblins to it. Don't have the numbers to throw more at a tent full of raiders just to see what happens." He looked at Tatsuya directly, something weighing behind the scarred lines of his face. "Which is why it's still you. My party goes with you, not the warband. Rott, Nab, and Ru. Small enough to move quiet, strong enough to actually finish it, if you're as good as what I've already seen."
 
-"That's the plan," Tatsuya said.
+"That's the plan," Tatsuya said, his gaze already on the tent flap.
 
 Ru cracked his knuckles, a sound like small stones grinding, and looked down the length of the war tent toward the flap and the hillside beyond it. "Feels different this time. Fighting something that fights back."
 
@@ -150,7 +148,7 @@ He accepted it, and a second nameplate resolved beside his own in the party UI.
 
 Arya's voice came through a beat later, a little breathless, like she'd jogged the last stretch to wherever she'd ended up logging in. "I'm in. Where do you need me?"
 
-"Treeline, my left," Tatsuya said. "Stay back until I give the word."
+"Treeline, my left," Tatsuya said, tilting his chin toward the hillside. "Stay back until I give the word."
 
 Sevish nodded once, toward the flap, toward the waiting party outside it. "Then let's go get it."
 
@@ -172,7 +170,7 @@ Small text sat under each one, the same four words repeated.
 
 "You know them?" Ru asked, following his eyes down to the tent.
 
-"Not personally," Tatsuya said. "Know the name they answer to, though."
+"Not personally," Tatsuya said, his gaze staying on the tent below. "Know the name they answer to, though."
 
 Arya resolved into view a moment later, half-hidden behind a thick trunk to his left, staff already in hand, its head glowing faint blue.
 
@@ -180,7 +178,7 @@ Arya resolved into view a moment later, half-hidden behind a thick trunk to his 
 
 Ru's tusks caught the light as his mouth split into something close to a grin. "So we take the tent instead."
 
-"Four walls," Tatsuya said. "You, Rott, and Nab take three of them. I need the fourth side open, that's where the road runs, they won't expect anything from a direction they think is already covered." He looked to Arya. "That's where you come in. Hushveil, advanced version, full radius. I need it to cover the whole tent, not just the road."
+"Four walls," Tatsuya said. "You, Rott, and Nab take three of them. I need the fourth side open, that's where the road runs, they won't expect anything from a direction they think is already covered." He looked to Arya. "That's where you come in. Hushveil Silence, full radius. I need it to cover the whole tent, not just the road."
 
 Arya's frown deepened slightly, her staff's glow shifting. "It's a lot of mana for that big a radius. Tier six, at full size, it'll eat most of what I've got, and I can't hold it up forever once it's live. You need everyone in position before it runs dry."
 
@@ -206,9 +204,7 @@ He backed off toward the treeline and looked to Arya.
 
 Arya's staff brightened, the spell already building at its head, the faint blue glow deepening into something thicker, heavier, ready.
 
-Tatsuya looked at the tent one more time, at the shape of four people inside it who had no idea what was about to happen to them, and made the call.
-
-"Now."
+Tatsuya looked at the tent one more time, at the shape of four people inside it who had no idea what was about to happen to them, and made the call. "Now."
 
 The fog rolled down off Arya's staff like something poured rather than cast, thick and white, swallowing the tent whole in seconds. The canvas walls vanished into it. The road vanished into it. A notification confirmed what he already felt in the sudden, total silence pressing down over the hillside.
 
@@ -308,9 +304,7 @@ She went quiet for a second, scrolling through something only she could see, and
 
 "Yeah," Tatsuya said again, his eyes still on the scorched road below.
 
-Another beat of quiet, and then she said it plainly, like she was confirming something she'd been working out since the fog went up.
-
-"You're not lucky. You actually planned this."
+Another beat of quiet, and then she said it plainly, like she was confirming something she'd been working out since the fog went up. "You're not lucky. You actually planned this."
 
 He didn't answer that one. Some things landed better when you let them sit.
 
