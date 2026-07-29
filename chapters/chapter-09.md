@@ -22,19 +22,19 @@ She tilted her head slightly, and something came to the corner of her mouth, a s
 
 He pulled his phone out and looked at the lock screen. The time, the stack of Loop notifications he hadn't cleared, and underneath all of it his screensaver: Ohema in the center, Momo and Taji pressed in on either side of her, the three of them caught mid-laugh at some angle that made the moment look like it might actually last. He stayed on it a second longer than he meant to.
 
-"Where are you from?" Arya asked, her tone the same easy casual it had been.
+"Wanted to ask since you walked in," Arya said, easy. "You from here originally?"
 
-He looked up from the phone. "Tokyo."
+He looked up from the phone. "Born here. Shibuya." A brief beat. "Dad's local. Mom's from Ghana." Not defensive, just giving her what she was actually asking.
 
-"Which part?"
+Something settled in her expression, the particular ease of a thing that had been slightly unresolved clicking into place. Her eyes moved briefly to the phone still in his hand, the lock screen still lit. "She the one on your screen?"
 
-"Shibuya. Born there."
+He looked at her. She'd seen it. "Yeah."
 
-"Kanto kid." Something light in her eyes, a kind of noticing with nothing unfriendly behind it. "Both your parents?"
+"She looks like she laughs a lot."
 
-"Dad's from here." He slid the phone back into his pocket. "Mom's Ghanaian."
+He didn't answer that. Looked at the phone a second longer, then slid it into his pocket.
 
-She took that in without making it a thing, just a brief pause, the kind that was landing rather than searching. "Explains the locs," she said, easy, and there was something at the corner of her mouth again.
+The quiet sat between them. Not uncomfortable. Just there, for a beat.
 
 "I have some information," she said, and her voice shifted, steady, direct, the kind that didn't raise itself because it had no reason to. "Something you might actually want before you go back in."
 
