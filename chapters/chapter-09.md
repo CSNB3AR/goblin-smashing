@@ -1,7 +1,5 @@
 # Chapter Nine, Part One: Silence and Fire
 
-Sakura Arcade was winding down. Pendant lights low, most of the front stations dark, the pod bay still warm in the quiet of the space closing for the night.
-
 "Where's Leon?"
 
 Tatsuya stopped in the hallway, the question already out before his brain caught up to the fact that Arya was leaning against the operator's desk instead of her brother.
