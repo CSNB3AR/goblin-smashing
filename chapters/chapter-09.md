@@ -10,7 +10,7 @@ His hand came up and scrubbed over the back of his head, the motion pulling his 
 
 *"I'm not gonna respond to that. If I do, it confirms everything about me, which is exactly what she wants, I'm sure."*
 
-He glanced toward the front desk through the partition. The desk lamp at the front cast a warmer light over both of them, the inspector's equipment laid out across the surface beside it. Leon was mid-conversation, both hands moving as he talked. The inspector, tan skin, dark hair, glasses giving off a reflection from the overhead lights, had his stylus moving across his tablet without looking up.
+He glanced toward the front desk. The desk lamp at the front cast a warmer light over both of them, the inspector's equipment laid out across the surface beside it. Leon was mid-conversation, both hands moving as he talked. The inspector, tan skin, dark hair, glasses giving off a reflection from the overhead lights, had his stylus moving across his tablet without looking up.
 
 The clock above the desk read 8:54 PM.
 
@@ -42,7 +42,7 @@ He caught himself drifting on a thought of when everyone was together.
 
 He caught her eyes move over him, height first, then the rest of it, his skin and his locs and the rings in his ears.
 
-He looked up from the phone. "I was born here in Shibuya." He glanced briefly back toward the partition before his eyes came back to her, then slid the phone into his jeans. "My pops was born in Ishikawa. Mom's from Ghana and was raised by my grandma here in Shibuya."
+He looked up from the phone. "I was born here in Shibuya." He glanced briefly back toward the front before his eyes came back to her, then slid the phone into his jeans. "My pops was born in Ishikawa. Mom's from Ghana and was raised by my grandma here in Shibuya."
 
 Something settled in her expression. Her eyes moved briefly to the phone still in his hand, the lock screen still lit. "She the one on your screen?"
 
@@ -96,7 +96,7 @@ The first thing that landed as he saw the chat was that it was actively talking 
 
 She locked the screen and dropped the phone back to her side.
 
-"I see. That gives me a narrower window to move. That's for sure." He stood with it for a moment, working through the implications, his eyes tracking over her shoulder toward the front partition where Leon's voice was still carrying through.
+"I see. That gives me a narrower window to move. That's for sure." He stood with it for a moment, working through the implications, his eyes tracking over her shoulder toward where Leon's voice was still carrying through.
 
 "Who says I want to agree to your terms?" he said.
 
