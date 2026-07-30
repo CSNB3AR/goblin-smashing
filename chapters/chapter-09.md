@@ -1,8 +1,8 @@
 # Chapter Nine, Part One: Silence and Fire
 
-"Where's Leon?"
+She'd used the handle. Not his name. T-Drag. Nobody at Sakura Arcade was supposed to know that name.
 
-Tatsuya stopped in the hallway, the question already out before his brain caught up to the fact that Arya was leaning against the operator's desk instead of her brother.
+"Where's Leon?"
 
 "He called the VRSA inspector in." She didn't move from where she was, arms loose at her sides, red hair catching the overhead lights in waves of copper and auburn. "Monitor started overheating. Probably from your live stream. He told me to sit here while he deals with it."
 
