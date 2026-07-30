@@ -10,7 +10,7 @@ His hand came up and scrubbed over the back of his head, the motion pulling his 
 
 *"I'm not gonna respond to that. If I do, it confirms everything about me, which is exactly what she wants, I'm sure."*
 
-He glanced toward the front desk through the partition. The desk lamp at the front cast a warmer light over both of them, the inspector's equipment laid out across the surface beside it. Leon was mid-conversation, both hands moving in that animated way he got when he was explaining something around a problem. The inspector, tan skin, dark hair, glasses giving off a reflection from the overhead lights, had his stylus moving across his tablet without looking up.
+He glanced toward the front desk through the partition. The desk lamp at the front cast a warmer light over both of them, the inspector's equipment laid out across the surface beside it. Leon was mid-conversation, both hands moving as he talked. The inspector, tan skin, dark hair, glasses giving off a reflection from the overhead lights, had his stylus moving across his tablet without looking up.
 
 The clock above the desk read 8:54 PM.
 
