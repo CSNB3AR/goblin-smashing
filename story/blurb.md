@@ -1,26 +1,34 @@
 # Blurb
 
-**Status:** New document, no prior blurb/marketing-copy convention existed in this repo before this. Back-cover voice, distinct from `story/premise.md`'s Elevator Pitch (which stays as the internal, synopsis-voice authoring reference, not for external use). Easy to revise, nothing here is locked canon, it's marketing copy pulled from already-locked story facts.
+**Status:** Back-cover voice, distinct from `story/premise.md`'s Elevator Pitch (internal synopsis reference, not for external use). Marketing copy pulled from already-locked story facts. Easy to revise.
 
 ## Blurb
 
-Tatsuya Kazehaya spent everything he had just to log in.
+Full-dive virtual reality changed competitive gaming forever.
 
-A hardware glitch he can't undo drops him into the worst possible starting position: a goblin, the most hated race in the game, on a character he can never reset. Everyone assumes that's the end of it before it even starts.
+In the world's biggest VRMMORPG, careers are made and destroyed inside the game. Players at the top have become something close to legends. There is a professional circuit built around it, and a World Championship that rewrites every year who gets to call themselves the best.
 
-They're wrong.
+Tatsuya Kazehaya has spent years studying it from the outside. He knows the meta, the builds, the history. What he doesn't have is a machine to play on, or the money to afford one, or a father who is still alive, or a mother who isn't in a coma with hospital bills on a clock that won't pause for him.
 
-What nobody accounts for is that Tatsuya already understands this game better than the people who locked him out of it. Broke, grieving, carrying his dead father's debt and his comatose mother's hospital bills on a clock that's actually running, he claws his way up from the bottom of a full-dive VRMMO the only way he can: game knowledge, hard-earned relationships, and a refusal to quit that nobody saw coming from a goblin nobody wanted.
+When a window opens, he takes it. One borrowed session, one barely-functioning machine. What he gets is a hardware glitch that locks him into the game's worst starting race, on a character he can never reset.
 
-He builds a name under a mask. He builds a team out of the people willing to see past it. And somewhere between a war camp under siege, a rival who stole his life's work, and a girl who won't stop reading him right, the goblin nobody rooted for starts becoming the player nobody can stop watching.
+Everyone told him he didn't belong in this game. Now he's going to have to prove it from the bottom, as something the game wasn't built for, in a world that's about to find out what that actually means.
 
-No power fantasy. No shortcuts. Just the slow, earned climb of someone who refuses to stay counted out.
+A LitRPG progression fantasy set in competitive full-dive esports. Rise to glory, slow burn, multiple subplots, and a long road to the top.
+
+**What to expect:**
+- LitRPG with real stat sheets, a full class and skill system, and a progression that actually compounds over time
+- Competitive esports and tournament arcs building toward a World Championship, because that is where the story is going
+- Weak to strong from the absolute bottom, the kind of climb that has to be earned
+- Slow burn romance, rival arcs, found family, and real-world stakes running alongside the in-game climb
+- A long story. Act one is just the beginning.
 
 **#LitRPG #VRMMORPG #ProgressionFantasy #Esports #Tournament #SlowBurn #FoundFamily #UnderdogStory #GameLitRPG #FullDiveVR**
 
 ## Notes
 
-- Pulls directly from the already-locked genre pillars in `story/premise.md` (LitRPG, VRMMORPG, deck-building progression fantasy) and the esports/tournament structure already built out across `codex/pro-scene/`.
-- "Slow burn" hashtag covers both the Yuna/Tatsuya romance thread (`codex/subplots/yuna-tatsuya-slow-burn-romance.md`) and the broader earned-rise pacing the whole story runs on, doesn't overpromise a single ship.
-- "Deck-building" itself stays out of the hashtag list, per the house rule never to name Chaotic-TCG directly even off the page, "ProgressionFantasy" and "GameLitRPG" cover that ground for discovery purposes without it.
-- Deliberately doesn't name Arya, Leon, Eren, or any other character by name, keeps it evergreen against future rewrites the way the elevator pitch itself does.
+- Opens with world/genre context (Blue) before introducing the MC (Red), per the structure of top-performing Royal Road blurbs in the LitRPG/esports space.
+- No world-specific terms in the blurb text. "Full-dive," "VRMMORPG," and "esports" are genre terms, not story-specific.
+- Doesn't name any characters by name, keeps it evergreen against future rewrites.
+- "What to expect" section sets genre and pacing expectations honestly, plain dashes, no em dashes.
+- Hashtag list unchanged from prior version. "Deck-building" stays out per house rule.
