@@ -6,15 +6,17 @@
 
 Full-dive virtual reality changed competitive gaming forever.
 
-In the world's biggest VRMMORPG, careers are made and destroyed inside the game. Players at the top have become something close to legends. There is a professional circuit built around it, and a World Championship that rewrites every year who gets to call themselves the best.
+In the world's biggest VRMMORPG, careers are made and destroyed inside the game. Players at the top have become something close to legends. Nobody expected a goblin to fill those ranks.
 
-Tatsuya Kazehaya has spent years studying it from the outside. He knows the meta, the builds, the history. What he doesn't have is a machine to play on, or the money to afford one, or a father who is still alive, or a mother who isn't in a coma with hospital bills on a clock that won't pause for him.
+Tatsuya Kazehaya has spent years studying it from the outside. He knows the meta, the builds, the history. A friend's betrayal pushed him out of one of Tokyo's top schools and into a gas station, until a World Championship advertisement opened a window. Seeing his old rival's face on that screen was enough.
 
-When a window opens, he takes it. One borrowed session, one barely-functioning machine. What he gets is a hardware glitch that locks him into the game's worst starting race, on a character he can never reset.
+One session on his father's old pod. A hardware glitch. The game's worst starting race, on a character he can never reset. A pending debt with his mother's life on the line.
 
-Everyone told him he didn't belong in this game. Now he's going to have to prove it from the bottom, as something the game wasn't built for, in a world that's about to find out what that actually means.
+But a rare ability nobody else could roll and a world-level quest give him something worth playing for. Winter Bash has a prize pool. He has a plan.
 
-A LitRPG progression fantasy set in competitive full-dive esports. Rise to glory, slow burn, multiple subplots, and a long road to the top.
+How far can a goblin nobody saw coming take a game that wasn't built for him?
+
+A LitRPG progression fantasy set in competitive full-dive esports. Rise to glory, slow burn, rivals, subplots, and a long road to the top.
 
 **What to expect:**
 - LitRPG with real stat sheets, a full class and skill system, and a progression that actually compounds over time
@@ -27,8 +29,9 @@ A LitRPG progression fantasy set in competitive full-dive esports. Rise to glory
 
 ## Notes
 
-- Opens with world/genre context (Blue) before introducing the MC (Red), per the structure of top-performing Royal Road blurbs in the LitRPG/esports space.
-- No world-specific terms in the blurb text. "Full-dive," "VRMMORPG," and "esports" are genre terms, not story-specific.
-- Doesn't name any characters by name, keeps it evergreen against future rewrites.
-- "What to expect" section sets genre and pacing expectations honestly, plain dashes, no em dashes.
-- Hashtag list unchanged from prior version. "Deck-building" stays out per house rule.
+- Opens with world/genre context before MC backstory. People learn his history from the story.
+- No character names. No world-specific terms. Evergreen against future rewrites.
+- "Pending debt with his mother's life on the line" covers the financial stakes in one line without itemizing.
+- Rare ability and world-level quest land as the in-game reasons he stays, not just "can't reset."
+- "What to expect" uses plain dashes, full lines, no em dashes.
+- Hashtag list unchanged. "Deck-building" stays out per house rule.
