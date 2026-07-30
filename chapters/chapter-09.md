@@ -26,7 +26,7 @@ She tilted her head slightly, and something came to the corner of her mouth, a s
 
 "Did you need something? If I wanted an audience, I would ask for one. I appreciate you offering, but I'm good." He said it softly, taking a glance back over his shoulder to see if Leon was coming before walking closer to the pod.
 
-"Well, you had one. A pretty large one at that." She said it with a sarcastic tone and a smirk on her face as she dangled the phone in her hand, which displayed a frozen HGO live stream on pause. "Didn't know you played. And on these pods. How?"
+"Well, you had one. A pretty large one at that." She held the phone out with two fingers, swaying it, a frozen HGO live stream still on pause. The amber light from the pendant above the desk caught in her hair. "Didn't know you played. And on these pods. How?"
 
 "That's confidential between me and your brother. If you want answers, ask him, because you're not getting them out of me, respectfully." He drifted away from her eyes while pulling his phone out and looking at the lock screen. The time. The stack of Loop notifications he hadn't cleared. And underneath all of it, his screensaver: his mom in the center, Momo and Taji pressed in on either side of her, the three of them caught mid-laugh.
 
@@ -34,11 +34,9 @@ He caught himself drifting on a thought of when everyone was together.
 
 *"It's really been that long, huh?"*
 
-Before he could let the feeling settle in his chest, Arya's voice cut him back to the reality of the arcade.
-
 "Where you from? Wanted to ask since you walked in," Arya said, easy. "You from here originally?"
 
-She was clearly referring to his frame as he noticed her eyes take a glance at his height first, then of course the second thing, his dark brown skin tone and piercings.
+He caught her eyes move over him — height first, then the rest of it, his skin and his locs and the rings in his ears.
 
 He looked up from the phone. "I was born here in Shibuya." He glanced briefly back toward the partition before his eyes came back to her, then slid the phone into his jeans. "My pops was born in Ishikawa. Mom's from Ghana and was raised by my grandma here in Shibuya."
 
@@ -58,7 +56,7 @@ He kept his eyes on her as she took a step closer. "And that is?"
 
 "Guilds knowing your location," she said, quick and deliberate.
 
-The way she said it made something click in his head, a specific kind of recognition, the feeling of hearing something land close to what he hadn't yet put into words for himself.
+Something in him went still. His thumb stopped against the side of his phone.
 
 He kept his expression level. "Guilds knowing my location. I knew that was gonna come up with the stream. Damn." His anxiety flared a bit, but he didn't let it leak onto his face before responding.
 
@@ -72,13 +70,13 @@ He looked at her for a long moment, watching her posture, steady, expectant, not
 
 *"I knew she was working something, or else she wouldn't be standing here. I can turn her down, but then what if the information is key to my survival? Damn, she's got me cornered."*
 
-Tatsuya scratched the back of his locs, fingers catching in the thick strands as he looked down at her, not trying to show the frustration building from being stuck. The height difference made the whole thing feel less adversarial than it probably should have, more like a negotiation between people who already understood the same language.
+Tatsuya scratched the back of his locs, fingers catching in the thick strands as he looked down at her. The height difference made the whole thing feel less adversarial than it probably should have, more like a negotiation between people who already understood the same language.
 
 He let out a slow breath, his hand dropping from his hair.
 
 "Fine," he said, nodding once. "Go ahead."
 
-She pulled her phone out and crossed the space between them without hesitating, the walk easy, like a hand played by someone who already knew what was in it. She held the screen out without hovering, giving him the room to read. He took it from her after a moment and held it himself, thumb scrolling slow.
+She pulled her phone out and crossed the concrete between them without hesitating, moving past the closer pod, the walk easy, like a hand played by someone who already knew what was in it. She held the screen out without hovering, giving him the room to read. He took it from her after a moment and held it himself, thumb scrolling slow.
 
 A guild chat log. The threads went back several hours, a dozen different names cycling through, and he recognized a handful of them from knowing the pro scene by watching it.
 
@@ -118,7 +116,7 @@ He started to say something and she raised a hand, cutting him off before he cou
 
 The hand came back down.
 
-The way she said the last part landed differently from everything else.
+He didn't say anything for a second. The hand was down and she wasn't adding to it.
 
 His gaze dropped to the space between them, then came back to her.
 

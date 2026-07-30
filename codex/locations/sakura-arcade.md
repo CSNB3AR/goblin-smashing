@@ -2,9 +2,13 @@
 
 **Type:** Real-world location, Tokyo — **Shibuya ward**, the far side from WattsUp/the Nakamura Grand, see `codex/locations/real-world-geography.md`. Leon's business, where Tatsuya finds VR hardware access.
 
-## Visual reference (locked)
+## Visual reference (locked, image confirmed)
 
-Warm pendant lighting, exposed brick and wood paneling, a real gaming-lounge feel rather than a dingy back-alley cafe. Themed gaming chairs, multiple screens per station. Reads well-kept and inviting on the surface even though Leon's business is struggling underneath, the two first-gen pods live somewhere less polished than the front-of-house setup this reference implies, an older, separate section of the space.
+Industrial warehouse-style interior: exposed brick walls, corrugated metal ceiling with visible steel beams, polished concrete floors. Warm amber pendant lanterns hang from the ceiling — the primary light source, casting a low, warm glow. Large warehouse-style windows along one wall show city lights outside. A mezzanine level is visible in the rear with stairs going up.
+
+**Center floor:** the two first-gen immersion pods dominate the space — cylindrical, dark finish, roughly six to seven feet tall, thick cables running from the base. These are the physical anchors of the pod bay. The operations desk sits to one side, elevated on a short platform with stairs to reach it, monitor and headset on the surface. PC gaming stations with blue LED underglow line the background — these are the front-of-house stations, busier during the day.
+
+In the chapter 9 negotiation scene: Arya is at the operations desk. The pendant above the desk is the light that catches her hair. When she crosses to show Tatsuya the guild chat, she crosses the polished concrete between them, moving past the closer pod. The pod Tatsuya climbs into is the working unit — the other is a dead shell, parked nearby.
 
 ## Facts
 
