@@ -28,7 +28,11 @@ She tilted her head slightly, and something came to the corner of her mouth, a s
 
 "Well, you had one. A pretty large one at that." She held the phone out with two fingers, swaying it, a frozen HGO live stream still on pause. The amber light from the pendant above the desk caught in her hair. "Didn't know you played. And on these pods. How?"
 
-"That's confidential between me and your brother. If you want answers, ask him, because you're not getting them out of me, respectfully." He drifted away from her eyes while pulling his phone out and looking at the lock screen. The time. The stack of Loop notifications he hadn't cleared. And underneath all of it, his screensaver: his mom in the center, Momo and Taji pressed in on either side of her, the three of them caught mid-laugh.
+"That's confidential between me and your brother. If you want answers, ask him, because you're not getting them out of me, respectfully." He drifted away from her eyes while pulling his phone out and looking at the lock screen.
+
+*"I already confirmed half of it just by being here. Said I wasn't gonna respond and then responded. Doesn't matter. She's gonna find out from Leon anyway. I'm not telling her more than I have to, but I'm not acting like there's nothing to know."*
+
+The time. The stack of Loop notifications he hadn't cleared. And underneath all of it, his screensaver: his mom in the center, Momo and Taji pressed in on either side of her, the three of them caught mid-laugh.
 
 He caught himself drifting on a thought of when everyone was together.
 
@@ -118,6 +122,8 @@ The hand came back down.
 
 He didn't say anything for a second. The hand was down and she wasn't adding to it.
 
+*"Worlds. He watched it at WattsUp. The all-girls squad that went through groups without winning a single map. He hadn't known who she was then, just the red hair behind the losing side's camera cut. He knows now."*
+
 His gaze dropped to the space between them, then came back to her.
 
 *"Having her won't be a bad option. I don't have a duo in mind, and her experience in competitive is valuable. Only issue is my current situation. I can't prepare if I'm stuck on a hillside. Maybe she can help with that."*
@@ -158,11 +164,17 @@ She held the look for a long moment, reading something in his face that he wasn'
 
 "Not here to control your playstyle, but you'll like what it does once you get to play it yourself. I wish I could have," he said.
 
+*"Too much. He'd been thinking about Eren's build when he said that, the setup, the window, what that spell opens up in a coordinated push. She didn't need to know that part."*
+
 She was quiet for a moment, her eyes still on his face, still running whatever calculation she was running. He watched the held tension in her expression ease by some small fraction, not gone, not all the way sold, but somewhere closer to convinced than she'd been two minutes ago.
 
 Something in her posture shifted too, the careful quality dropping out a little, her weight settling differently.
 
 "Okay," she said.
+
+He looked at her before he turned back to the pod. "I'm trusting you not to say anything. About any of this."
+
+"Who would I tell?" she said. She said it easy, not reassuring him. Just answering.
 
 He pulled the hair tie from his jacket pocket and twisted his locs back in one practiced move, already turning toward the pod.
 
@@ -188,7 +200,7 @@ He dropped his jacket over the chair back, something working behind his expressi
 
 "No." Tatsuya scratched the back of his head. "Asked if I played, that's about it."
 
-"Mm." Something pulled at the corner of Leon's mouth. "My sister's a looker, man."
+"Mm." Leon shook his head once. "I hope you're not out here trying to shoot your shot with my sister."
 
 Tatsuya looked at him flat. "Bro. Don't get me started."
 
