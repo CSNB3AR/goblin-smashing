@@ -1,8 +1,8 @@
-# Chapter Nine, Part One: Silence and Fire
+# Chapter Nine: Assembling the Assault Team, Part Two
 
-She'd used the handle. Not his name. T-Drag. Nobody at Sakura Arcade was supposed to know that name.
+She'd used the handle. Not his name.
 
-"Where's Leon?"
+"Where's Leon?" Tatsuya asked once more, his eyes catching hers as he walked from the bathroom.
 
 "He called the VRSA inspector in." She didn't move from where she was, arms loose at her sides, red hair catching the overhead lights in waves of copper and auburn. "Monitor started overheating. Probably from your live stream. He told me to sit here while he deals with it."
 
@@ -40,7 +40,7 @@ He caught himself drifting on a thought of when everyone was together.
 
 "Where you from? Wanted to ask since you walked in," Arya said, easy. "You from here originally?"
 
-He caught her eyes move over him — height first, then the rest of it, his skin and his locs and the rings in his ears.
+He caught her eyes move over him, height first, then the rest of it, his skin and his locs and the rings in his ears.
 
 He looked up from the phone. "I was born here in Shibuya." He glanced briefly back toward the partition before his eyes came back to her, then slid the phone into his jeans. "My pops was born in Ishikawa. Mom's from Ghana and was raised by my grandma here in Shibuya."
 
@@ -48,13 +48,13 @@ Something settled in her expression. Her eyes moved briefly to the phone still i
 
 He looked at her. She'd seen it. "Yeah. She's been sick for a bit, so this image is pretty old." He didn't look back up right away after he said it.
 
-"Well, might not want to call your mom old to her face, haha." She began chuckling slightly, trying to better the mood. "She is beautiful, by the way." She said it softly, taking a few steps off the operations desk toward him.
+"Well, might not want to call your mom old to her face." She began chuckling slightly, trying to better the mood. "She is beautiful, by the way." She said it softly, taking a few steps off the operations desk toward him.
 
 He gave a nod to that. No answer needed. Looked at the phone a second longer, then slid it into his pocket once more.
 
 The quiet sat between them. Not uncomfortable. Just there, for a beat, before Arya cut the silence again.
 
-"I'm not here to waste your time, but I do think I have some information you'd want to hear," she said, and her voice shifted, steady, direct, the kind that didn't raise itself because it had no reason to.
+"I'm not here to waste your time, but I do think I have some information you'd want to hear," she said, and her voice shifted, steady, direct.
 
 He kept his eyes on her as she took a step closer. "And that is?"
 
@@ -62,7 +62,7 @@ He kept his eyes on her as she took a step closer. "And that is?"
 
 Something in him went still. His thumb stopped against the side of his phone.
 
-He kept his expression level. "Guilds knowing my location. I knew that was gonna come up with the stream. Damn." His anxiety flared a bit, but he didn't let it leak onto his face before responding.
+He kept his expression level. "Guilds knowing my location. That was sooner than I expected." His anxiety flared a bit, but he didn't let it leak onto his face before responding.
 
 "What kind of information?" he said.
 
@@ -74,7 +74,7 @@ He looked at her for a long moment, watching her posture, steady, expectant, not
 
 *"I knew she was working something, or else she wouldn't be standing here. I can turn her down, but then what if the information is key to my survival? Damn, she's got me cornered."*
 
-Tatsuya scratched the back of his locs, fingers catching in the thick strands as he looked down at her. The height difference made the whole thing feel less adversarial than it probably should have, more like a negotiation between people who already understood the same language.
+Tatsuya scratched the back of his locs, fingers catching in the thick strands as he looked down at her.
 
 He let out a slow breath, his hand dropping from his hair.
 
@@ -92,15 +92,15 @@ The first thing that landed as he saw the chat was that it was actively talking 
 
 "I was invited to this chat a while back. It holds some of the best players, guild leaders in Japan. I made a few alliances with the guilds before Fire Festival event. Now it's just something I sit in." She didn't say much after that. Her tone changed, as if she'd cut herself off.
 
-"The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just made you ally. It's the first time a faction group has done that in game. Aside from Yuna, you're living in rare space. Also, with Winter Bash and new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
+"The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just allied with a player in a game. Aside from Yuna, you're living in rare space. Also, with Winter Bash and new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
 
 She locked the screen and dropped the phone back to her side.
 
-"I see. I'll also have griefers. Gives me a narrower window. That's for sure." He stood with it for a moment, working through the implications, his eyes tracking over her shoulder toward the front partition where Leon's voice was still carrying through.
+"I see. That gives me a narrower window to move. That's for sure." He stood with it for a moment, working through the implications, his eyes tracking over her shoulder toward the front partition where Leon's voice was still carrying through.
 
-"You handed me this information," he said, "without me agreeing or hearing you out first. Who says I want to agree to your terms?"
+"Who says I want to agree to your terms?" he said.
 
-*"I'm being cold, I know. But I can't let anyone do what Eren did."*
+*"I'm being cold, I know. But I can't let anyone do what Eren did. If she's a real ally, she'll have to prove it. He's putting money on it too, from where she's standing."*
 
 That was his only thought, but on the other side of his heart, he actually wanted to hear her proposal. She did just give him information that would help him move differently.
 
@@ -126,27 +126,29 @@ He didn't say anything for a second. The hand was down and she wasn't adding to 
 
 His gaze dropped to the space between them, then came back to her.
 
+*"He could've asked why him. Didn't need to. After Worlds, with that result and what happened to her guild after, nobody in the scene was in a rush to team with her. He was clean, no guild, no alliances, nothing she'd have to untangle. But it wasn't just that. She'd watched the stream. That combo wasn't luck and she knew it. Flare into gas on a 1v2, the setup, the way it connected, that was a sequence. She saw it. That's what brought her here."*
+
 *"Having her won't be a bad option. I don't have a duo in mind, and her experience in competitive is valuable. Only issue is my current situation. I can't prepare if I'm stuck on a hillside. Maybe she can help with that."*
 
-"If I say yes, you have to assist me with something first," he said.
+He kept his eyes on her. "I could ask why me. Seeing that you're gambling and what happened at Worlds, I won't. But if I do say yes, you have to assist me with something first."
 
 She kept her eyes on him, waiting for him to continue.
 
-"Where's your character parked right now?" he said.
+He glanced toward the pod once, then back at her. "Where's your character parked right now?"
 
 "Luxor Lakes," she said. "Scouting tent. Roughly thirty minutes from your location. I sort of tracked you already, thinking about my proposal." She said it softly, her tone going back to smirking volume.
 
-"What class are you running?" he said.
+"What class and race are you running?" He kept his expression even.
 
-"Spellforger. Level ten, almost eleven." No apology in the number. "Haven't pushed the build much since I swapped to my new account. Still working out the direction."
+"Elf, Spellforger. Level ten, almost eleven." She left it at that. "Haven't pushed the build much since I swapped. Still working out the direction."
 
-"Give me some of what you've got. Damage side."
+He met her eyes. "Give me some of what you've got. Damage side."
 
-She shifted slightly, the same way someone settled in when they were about to actually talk through something they knew. "Static Lash is my main. Instant cast, good range, scales on Wisdom. I've put real points into it." She went through it without pausing to check the delivery, not reciting, more like walking him through a toolkit she'd actually used. "Tempest Fan at tier two. Storm Shear at tier three, both invested. Arc Pulse, but I haven't maxed the upgrade tree on it yet." A brief pause. "Stormwall field for zone control. I use it more for positioning than raw damage."
+She shifted slightly, the same way someone settled in when they were about to actually talk through something they knew. "Static Lash is my main. Instant cast, good range, scales on Wisdom." She went through it without pausing to check the delivery, not reciting, more like running down what was already in hand, no particular direction attached. "Tempest Fan at tier two. Storm Shear at tier three." A brief pause. "Stormwall field for zone control. I use it more for positioning than raw damage."
 
 He listened without interrupting.
 
-"Can you cast Hushveil?" he said.
+He looked at her. "Can you cast Hushveil?"
 
 The look that crossed her face was the kind that came right before a question someone already knew the answer to but still had to ask. Her eyes narrowed slightly, taking in the steadiness of his expression, looking for the tell that would say this was a bluff.
 
@@ -154,13 +156,13 @@ The look that crossed her face was the kind that came right before a question so
 
 She paused.
 
-"Trust me, I know the spell," Tatsuya said, his voice staying level and easy. "I'll cut you a deal. I will accept your Winter Bash offer only if you can help me out of this camp situation. That skill is required, though. I'm not asking for no reason."
+"Trust me, I know what the spell does and the description can be deceiving," Tatsuya said, his voice staying level and easy. "I'll cut you a deal. I will accept your Winter Bash offer only if you can help me out of this camp situation. That skill is required, though. I'm not asking for no reason."
 
 He kept his expression clear, kept his hands where they were, kept his breathing even. He knew exactly what he was asking for.
 
 She held the look for a long moment, reading something in his face that he wasn't giving her. Then the corner of her mouth made a small, skeptical shape, not quite a smile, more like she was deciding whether to be amused by his certainty or annoyed by it.
 
-"Deal. But if this spell does nothing," she said, "I'm not speccing into anything else crazy after."
+"Deal." She chuckled. "I am really gambling, laying all my cards to the weakest race in the game."
 
 "Not here to control your playstyle, but you'll like what it does once you get to play it yourself. I wish I could have," he said.
 
@@ -184,13 +186,13 @@ Leon came through the hallway a moment later, still carrying the tail end of wha
 
 Arya was already moving. She had her phone in her pocket, her posture easy, the settled quality of someone who'd gotten what they came for and wasn't in any rush to explain it.
 
-"Nothing, brother," she said, and there was something in her voice that was the specific kind of smooth that came from not having to say more. "Heading to J-Link to hop on for a bit. Met a new friend."
+"Nothing, brother," she said, and there was something in her voice that was the specific kind of smooth that came from not having to say more. "Heading to J-Link to hop on for a bit. Met a new friend," she said, taking a look back at Tatsuya.
 
 She reached out and tapped Leon once on the shoulder as she passed him, a light, unhurried touch, and was through the door before he could put a follow-up together.
 
 Leon watched the door close. The arcade's low hum filled the space back in. Then he looked at Tatsuya.
 
-"Your sister," Tatsuya said.
+"Your sister is crazy bro," Tatsuya said.
 
 "Yeah." Leon shook his head once. "Tell me about it."
 
@@ -200,11 +202,11 @@ He dropped his jacket over the chair back, something working behind his expressi
 
 "No." Tatsuya scratched the back of his head. "Asked if I played, that's about it."
 
-"Mm." Leon shook his head once. "I hope you're not out here trying to shoot your shot with my sister."
+"Mm." Leon shook his head once. "If you say so. You ready to start up again?"
 
-Tatsuya looked at him flat. "Bro. Don't get me started."
+"Bro. Don't get me started. Been waiting on you," Tatsuya said, and something close to a real laugh came out with it.
 
-"I'm joking, I'm joking." Leon raised both hands. "Sounds good. Let's get it going." He moved to the operator's desk that sat on a podium above the pod. It took stairs to get to. He settled into the chair by the monitor and ran a quick eye over the readout. "Hey, that thing you said earlier. About having someone in your ear while you're in. I can be on comms more."
+He moved to the operator's desk that sat on a podium above the pod. It took stairs to get to. He settled into the chair by the monitor and ran a quick eye over the readout. "Hey, that thing you said earlier. About having someone in your ear while you're in. I can be on comms more."
 
 "Yeah," Tatsuya said. "That'd actually help."
 
@@ -228,20 +230,16 @@ The oil lamp was lower than he'd left it, flame pulling to one side, shadows fal
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
-**[VIEWERS: 310]**
-
 He looked toward the tent flap. Less movement outside. The quiet had a different quality than before.
 
 A notification caught the edge of his vision before he could move.
 
 **[THRASH CLAN DEFENDERS: 15/50]**
 
-Fifteen out of fifty.
+Fifteen out of fifty. The count barely had time to register. There was one person he needed to know was still alive.
 
-*"Damn."*
+"Ru!"
 
 ---
 
-**[END CHAPTER NINE, PART ONE]**
-
-**Word Count: ~3,400**
+**[END CHAPTER NINE, PART TWO]**
