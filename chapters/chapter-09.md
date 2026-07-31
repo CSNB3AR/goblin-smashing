@@ -30,7 +30,7 @@ She tilted her head slightly, and something came to the corner of her mouth, a s
 
 "That's confidential between me and your brother. If you want answers, ask him, because you're not getting them out of me, respectfully." He drifted away from her eyes while pulling his phone out and looking at the lock screen.
 
-*"I already confirmed half of it just by being here. Said I wasn't gonna respond and then responded. Doesn't matter. She's gonna find out from Leon anyway. I'm not telling her more than I have to, but I'm not acting like there's nothing to know."*
+*"I already confirmed half of it just by being here. Said I wasn't gonna respond and then responded."*
 
 The time. The stack of Loop notifications he hadn't cleared. And underneath all of it, his screensaver: his mom in the center, Momo and Taji pressed in on either side of her, the three of them caught mid-laugh.
 
@@ -38,9 +38,9 @@ He caught himself drifting on a thought of when everyone was together.
 
 *"It's really been that long, huh?"*
 
-"Where you from? Wanted to ask since you walked in," Arya said, easy. "You from here originally?"
+"Where are you from? Wanted to ask since you walked in," Arya said, easy. "You from here originally?"
 
-He caught her eyes move over him, height first, then the rest of it, his skin and his locs and the rings in his ears.
+He caught her eyes moving over him, height first, then the rest of it, his skin and his locs and the rings in his ears.
 
 He looked up from the phone. "I was born here in Shibuya." He glanced briefly back toward the front before his eyes came back to her, then slid the phone into his jeans. "My pops was born in Ishikawa. Mom's from Ghana and was raised by my grandma here in Shibuya."
 
@@ -98,13 +98,13 @@ She locked the screen and dropped the phone back to her side.
 
 "I see. That gives me a narrower window to move. That's for sure." He stood with it for a moment, working through the implications, his eyes tracking over her shoulder toward where Leon's voice was still carrying through.
 
-"Who says I want to agree to your terms?" he said.
+"What if I say no you gave it to me for free?" he said.
 
-*"I'm being cold, I know. But I can't let anyone do what Eren did. If she's a real ally, she'll have to prove it. He's putting money on it too, from where she's standing."*
+*"I know I'm being cold. But I can't let anyone do what Eren did. If she's a real ally, she'll have to prove it."*
 
 That was his only thought, but on the other side of his heart, he actually wanted to hear her proposal. She did just give him information that would help him move differently.
 
-"It's a gamble I'm willing to take. I have a lot pushing on this." She slid her hands into the back of her pockets in a sway stance.
+"It's a gamble I'm willing to take." She slid her hands into the back of her pockets in a swaying stance.
 
 He held her gaze for a moment, and the words he knew he had to say came next. "What do you want from me?"
 
@@ -116,21 +116,15 @@ He held her gaze for a moment, and the words he knew he had to say came next. "W
 
 He started to say something and she raised a hand, cutting him off before he could.
 
-"I know you heard about my guild. I mean, who hasn't? We got embarrassed at Worlds. I don't want to get into it. The point is that's exactly why I'm here. I've already decided. I'm gambling."
+"I know you heard about my guild. I mean, who hasn't? We got embarrassed at Worlds. I don't want to get into it. The point is that's exactly why I'm here."
 
 The hand came back down.
 
 He didn't say anything for a second. The hand was down and she wasn't adding to it.
 
-*"Worlds. He watched it at WattsUp. The all-girls squad that went through groups without winning a single map. He hadn't known who she was then, just the red hair behind the losing side's camera cut. He knows now."*
+*"Having her won't be a bad option. I don't have a duo in mind, and her experience in competition is valuable. The only issue is my current situation. I can't prepare if I'm stuck on a hillside. Maybe she can help with that."*
 
-His gaze dropped to the space between them, then came back to her.
-
-*"He could've asked why him. Didn't need to. After Worlds, with that result and what happened to her guild after, nobody in the scene was in a rush to team with her. He was clean, no guild, no alliances, nothing she'd have to untangle. But it wasn't just that. She'd watched the stream. That combo wasn't luck and she knew it. Flare into gas on a 1v2, the setup, the way it connected, that was a sequence. She saw it. That's what brought her here."*
-
-*"Having her won't be a bad option. I don't have a duo in mind, and her experience in competitive is valuable. Only issue is my current situation. I can't prepare if I'm stuck on a hillside. Maybe she can help with that."*
-
-He kept his eyes on her. "I could ask why me. Seeing that you're gambling and what happened at Worlds, I won't. But if I do say yes, you have to assist me with something first."
+He kept his eyes on her. "I could ask why me? But seeing what happened at Worlds, I won't. But if I do say yes, you have to assist me with something first."
 
 She kept her eyes on him, waiting for him to continue.
 
