@@ -6,9 +6,12 @@ Mobility and disruption, lightning/wind-flavored, favored by casters who came up
 
 | Tier | Spell |
 |---|---|
-| 1-2 | Static Lash — a short-range disruptive jolt, the school's entry combat spell. |
-| 3-4 | Gale Step — a short, wind-assisted burst of repositioning, control and mobility over raw damage. |
-| 5-6 | Hushveil — a wind-and-water fog, dense enough to cut visibility hard in its radius. Base version is a crowd-control utility spell, easy to dismiss as low-value since it deals no damage on its own. |
+| 1 | Static Lash — a short-range disruptive jolt, the school's entry combat spell. Instant cast, good range, scales on Wisdom. |
+| 2 | Tempest Fan — broadens Static Lash's charge into a spreading arc, hitting multiple targets in a cone. Less damage-per-target than Static Lash; trades focus for coverage. |
+| 3 | Storm Shear — a cutting storm effect, higher single-target output than Static Lash, narrower than the Fan. The school's go-to burst spell before the tree opens into field control. |
+| 4 | Gale Step — a short, wind-assisted burst of repositioning, control and mobility over raw damage. |
+| 5 | Stormwall — a sustained lightning-touched field spell; damage-over-time zone rather than direct-cast bolt, primary tool for area control and positioning. Drains mana continuously while active, not just on cast — a hard timing constraint that defines the combo window with anything requiring setup time inside the field. |
+| 6 | Hushveil — a wind-and-water fog, dense enough to cut visibility hard in its radius. Base version is a crowd-control utility spell, easy to dismiss as low-value since it deals no damage on its own. |
 | 7 | Eye of the Squall — a localized storm system the caster can stand inside and fight from, rare, most casters never get here. |
 | 8 | *(theoretical)* |
 

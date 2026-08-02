@@ -70,6 +70,7 @@ A notification bloomed at the edge of Tatsuya’s vision, gold-bordered, bigger 
 **[CALL OF COMMAND – TIER 1]**
 **[RUNE PRIMING – TIER 3]**
 **[ANCIENT BONE FLAME BARRAGE – TIER 5]**
+**[GOBLIN GAS – TIER 1]**
 **[GAMBLER’S GAMBIT – PASSIVE]**
 **[BONE SURGE – PASSIVE]**
 

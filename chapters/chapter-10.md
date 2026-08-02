@@ -1,143 +1,191 @@
-Chapter Ten: Four Walls
+# Chapter Ten: Silence and Fire, Part One
 
-The fog rolled down off Arya's staff like something poured rather than cast, thick and white, swallowing the tent whole in seconds. The canvas walls vanished into it. The road vanished into it. A notification confirmed what he already felt in the sudden, total silence pressing down over the hillside.
+The voice came from the other side of the tent wall, close.
 
-**[HUSHVEIL (ADVANCED) – ACTIVE]**
+"Elder. You are awake."
 
-**[ENEMIES WITHIN RADIUS: SILENCED, BLINDED, DEAFENED]**
+He was already moving, one hand catching the tent flap before Ru could pull it back himself, and the goblin stumbled aside to make room, still holding the entry post with his left hand, his right arm wrapped against his midsection at an angle that said something had hit him there and not lightly. A cut across one cheekbone, still fresh enough to show the wet edge of it. Wrapped cloth visible at the gap under his armor where the arm was pressed.
 
-"They can't see the walls anymore. Can't hear us coming. Can't cast anything. Can't cleanse anything that hits them inside it. They're sealed in there and they don't even know what just happened."
+*"He held the entrance the whole time."*
 
-"Go," Tatsuya said, and Ru moved first, his frame swallowed by the white a heartbeat later, Rott and Nab right behind him.
+"Ru." Tatsuya stopped at the threshold, looking him over. "You good?"
 
-Tatsuya counted in his own head. The tent held its shape under the fog, a white mass where the canvas used to be visible, and there was nothing audible from inside it, not even the voices he'd heard thirty seconds ago. Total silence.
+Ru met his eyes. The single tusk caught the low light of early morning. "Nobody came past."
 
-Green haze started bleeding up through the white, thick and low, pouring in from three sides at the same moment.
+*"He's not going to say how bad it was."*
 
-**[GOBLIN GAS – ACTIVE, THREE SOURCES]**
+The camp beyond Ru's shoulder didn't match the one he'd left. He'd expected fewer bodies moving, the count had already told him that, but seeing it was different from the number. The lanes that should have had goblins cycling watch rotation held a handful of figures instead of the usual dozen. Fires lower at the perimeter than they should have been at this hour. A section of the eastern defensive line where he could see nothing moving at all, just stakes in the ground and empty air where there used to be goblins standing.
 
-**[POISON STACK: 4x – ACCELERATED]**
+The smell had changed. The wrong smoke from before had thinned, but something underneath it hadn't. The specific quality of ground that had seen a fight recently and not been given time to settle.
 
-**[ENEMIES WITHIN RADIUS: POISONED, MOVEMENT SLOWED, NAUSEOUS]**
+*"Thirty-five people. In the time it took Leon to fix a monitor and walk back out front."*
 
-"Full stack already. Three of them hitting it together did that in seconds instead of rounds. Didn't even know it could stack that fast. This changes the math on how this ability works entirely."
+He didn't run. Running drew attention and questions he couldn't answer right now.
 
-Muffled sound started reaching him now, something between coughing and retching, the kind of sound that came from a body responding to something it couldn't locate or identify or fight back against. Nobody came stumbling out into the road. There was nowhere for them to stumble to.
+A voice in his ear, real and immediate, no distance on it.
 
-"Not like last time. They're completely sealed. Nowhere to go, nothing to cleanse, nothing to see."
+"You're awake," Leon said. "Checked the monitor the second you logged back. Give me a read."
 
-"They're not even trying to run," Arya said quietly, her voice carrying an edge of something between disbelief and awe. "They can't hear themselves choking."
+The voice came through the pod hardware and mapped into his hearing the same way Eryndal's ambient sound did, sitting in the same register, layered in so it didn't fight the world around it. It would have felt strange three sessions ago. Right now it felt like a light someone had just switched on.
 
-Ru and the two goblins peeled back out of the fog and cleared the treeline, moving fast and low.
+"Camp took losses while I was out," Tatsuya said, low enough to stay under the ambient sound. "A lot."
 
-Tatsuya triggered the first rune.
+A beat. "How many?"
 
-The tent went up from the inside out, flame catching the gas mid-breath and feeding on it, the light of it punching through the fog itself, bright enough to wash everything white for one full second before the shape of it resolved into orange. The second rune fired a half second later, then the third, each explosion stacking on the last until the whole tent was a single sheet of fire folding inward on itself.
+"Thirty-five."
 
-**[ANCIENT BONE FLAME BARRAGE – TRIGGERED]**
+Leon didn't say anything for a second. Then: "Out of fifty."
 
-**[MP: -25] [7/32 REMAINING]**
+"Yeah."
 
-**[COMBO BONUS: TOXIN AMPLIFICATION ACTIVE]**
+"And Ru?"
 
-**[DAMAGE: 1,840 – CRITICAL HIT x3]**
+He glanced back at Ru, who was watching him with the calm of someone who'd accepted a long time ago that elders talked to things other people couldn't see. "Standing. He got hit."
 
-A cold, immediate drain moved through the center of his chest, the kind that happened when something took from a pool rather than a reserve, all twenty-five points in one draw. Not weakness, not a crash, just the real notice of something spent.
+"What do you need right now?"
 
-Four nameplates flickered and died in rapid succession.
+*"That's the right question."*
 
-**[RIAN – DEFEATED]**
+What he needed was a read on Sevish's location before Sevish found him first. He needed the camp's defensive count without walking the full perimeter himself. He needed to know whether whoever had hit them had pulled back or was sitting somewhere in the treeline deciding whether to come back.
 
-**[TALO – DEFEATED]**
+"Pull up anything you can find on the Call of the Bones necklace display functions," he said. "There's something in the elder title I haven't fully checked yet. And keep eyes on the viewer count."
 
-**[JOSS – DEFEATED]**
+"On it. Give me a few minutes."
 
-**[SPELLWEAVER_LYN – DEFEATED]**
+He stepped out through the flap, Ru falling into position at his shoulder, and pulled up his character screen.
 
-**[MATCH STATS: T_DRAG – 4 KILLS, 0 DEATHS, 0 ASSISTS]**
+The display came up different.
 
-"Almost all my mana in one shot, and every point of it was worth it."
+Not the flat blue UI panel he'd been calling up since the tutorial zone in the Lunarest Outskirts. The stats rendered outward into the space in front of him rather than floating against his vision like a pane of glass, each number sitting in actual space with actual depth, the kind of display that made him want to reach out and touch one of the lines to see if his hand would pass through it. The elder title had changed something in how the interface rendered. He hadn't known it would do that.
 
-The fog started clearing as the spell's duration ran out, and when it lifted there was nothing left where the tent had stood except scorched canvas, still smoking where the fire had gone through it, the four corner stakes still driven into the dirt at their hard angles but holding up nothing now. Cold air rushed back in off the hillside, carrying the last of the gas smell with it, the green haze finally thinning out into nothing.
+**[CHARACTER: TDRAG]**
+**[RACE: SHIV GOBLIN]**
+**[LEVEL: 7]**
+**[TITLE: THE FIRST DESCENDANT OF SHIV]**
 
-Four drop markers glowed in the dirt.
+**[HP: 65/65] [SP: 32/32] [MP: 32/32]**
 
-**[IRONHIDE CHESTPLATE – RARE]**
+**[STATS]**
+**[COURAGE: 4] [POWER: 4] [WISDOM: 8 (13)] [SPEED: 9] [FORTUNE: 15 (18)] [ENERGY: 4]**
 
-**[VANGUARD'S GREAVES – RARE]**
+Below that, a second layer he hadn't seen before, the secondary combat lines that the primary stats produced:
 
-**[PK RAIDING CREST – RARE]**
+**[PHYSICAL AP: 22] [MAGIC AP: 52]**
+**[RANGED AP: 31] [ACCURACY: 33]**
+**[CRIT RATE: 36%] [CRIT MULTIPLIER: 2.1x]**
+**[PHYSICAL EVASION: 27] [MAGIC EVASION: 26]**
+**[PHYSICAL CC RESIST: 8%] [MENTAL RESIST: 8%]**
 
-"Legacy gear. Real drops, rare tier, none of it bound. Three sellable pieces off four players in one pull." He ran the rough math. A rare sellable off a player at this level wasn't small yen. Three of them, off PK_Wraith's personal crew, was something he could actually work with. He'd know the exact numbers once he had access to a market, but the shape of what this meant for the next couple of weeks was already visible.
+*"That's the full picture. Magic AP fifty-two with the necklace bonus, Fortune crit rate at thirty-six percent — that's what a build that actually committed to Fortune looks like when it shows its work. Physical AP at twenty-two because Power sits at four and that's not changing. Fast, magic-heavy, high crit, and physically soft. Anyone who gets past evasion is going to remind me of that last part."*
 
-A fourth marker sat apart from the other three, right where Spellweaver_Lyn had gone down, and what rose out of it wasn't armor. A staff, gnarled dark wood wound in live green vines that moved slightly even with no wind behind them, a faceted pale-green crystal cradled at its head, motes of light drifting off it in slow cold spirals, the color of early morning through glass. The weight of the thing registered even holding it in his UI, the kind of item that had mass to it before he'd even touched it.
+He dismissed the display.
 
-**[SHIVBONE STAFF – LEGENDARY]**
+Ru was still watching him from two steps back with his right arm pressed to his ribs.
 
-"That's a legendary drop. Off a player kill, not a world boss, not a dungeon chest. Off a direct kill." He turned it in the inventory view, looking at it from every angle the UI would give him. The craftsmanship on it wasn't the kind of thing that came off an auction house listing. This was the kind of item that had been in someone's possession for a long time and had picked up something from the carrying.
+"You need to get that wrapped better," Tatsuya said.
 
-He thought of Arya standing not thirty feet from him, her staff's glow already dimmed back to nothing, a fog spell she'd been ready to throw away burning through most of her mana to give him this window.
+"Ru is fine."
 
-"This one's not going to market. She ran Hushveil Silence on trust and it changed the entire fight. This is hers. That's what a partnership looks like when it actually works." He already knew the shape of what they were building, and that staff was part of it.
+"You're not fine, you're functional, those are different things." He didn't push it. Ru wouldn't stop for it anyway.
 
-Then, separate from everything else, a second window blinked into existence beside the first, smaller, no rarity color he recognized, just plain text sitting in a border that read UNIQUE instead of any tier he'd seen before.
+"Leon," he said, low. "The display, the secondary stat line. Did you find anything?"
 
-**[DOPPELGANGER'S BAND – UNIQUE]**
+Keys over the comm. "Yeah. It's called elder-tier display mode. Regular players don't get the secondary combat line. There's a note on the wiki that says it was added in the Bloodhurst update and almost nobody knows it exists, it requires a title-holder status." A pause. "The first number it shows is something called Magic AP. Fifty-two. That good?"
 
-A plain iron ring, no visible enchantment, no description sitting under the name. Just the ring and the UNIQUE tag and a small note at the bottom of the window that he had to look twice to actually read.
+"High enough."
 
-**[GAMBLER'S GAMBIT BONUS PROC: INDEPENDENT ROLL]**
+"Okay." A different kind of pause. "Viewers are at forty-four hundred. You've been back in for about eight minutes."
 
-"That didn't come off any of the four of them. That's a separate pull entirely, something the passive kicked on its own."
+*"Forty-four hundred. And the chat is probably moving faster than I can read it."*
 
-He turned it over in his UI the way he'd have turned a real object over in his hand, looking for the tooltip, the stat line, the effect description, any of the standard information that came with a drop. Nothing came back. Just the name and the ring and the UNIQUE sitting in clean text under it, the kind of tag that meant there was exactly one of these in the entire game, and it had just landed in his inventory off a proc he didn't fully understand yet.
+He didn't open the chat window. Not now.
 
-"Bound, probably. But UNIQUE, which means nobody else has one. I have no idea what it does and I'll figure it out. It's not going anywhere."
+"Watch for any mention of the stream in guild-organized feeds," he said. "Arya's going to be on soon. When she is, I'll need to know what she's seeing in those channels."
 
-He dismissed the window and looked up. Arya stepped up beside him at the treeline, staff resting at her side, the crystal at its head completely dark.
+"Already noted it," Leon said. "I'll flag it."
 
-"You just wiped a full party in under a minute," she said, something coming apart in her voice, the controlled professional quality cracking in a way that sounded like the beginning of a laugh she hadn't fully decided to let happen. "With a fog spell I was ready to throw away. They couldn't even cleanse. They were just stuck in it."
+Sevish came around the eastern supply line forty feet ahead, the battle axe across his back, Wyx half a step behind him and slightly to the left, and his expression said he'd been looking for Tatsuya specifically for a while now and had known exactly where to find him.
 
-"Yeah," Tatsuya said, still watching the last curl of smoke rising off the scorched road below. "That's the idea."
+*"Here we go."*
 
-She went quiet for a second, scrolling through something only she could see, her eyes tracking back and forth across whatever her UI was showing her. When she looked back at him her expression had reorganized itself, something recalibrating behind her eyes in a way that read less like surprise and more like the adjustment that came after an assumption turned out to be wrong.
+Tatsuya held his ground. Not a challenge, nothing deliberately squared-up about it, just the fact that he didn't shift his weight or drop his chin when Sevish covered the distance between them, and the goblin caught that in the first two seconds and something in the set of his jaw went harder for it.
 
-"You knew exactly what that spell was going to do," Arya said, her tone flatter now, more precise, the way someone's voice went when they were putting something together rather than reacting to it. "Before I even cast it. You knew they couldn't cleanse because you knew silence locks all skills. You set this whole thing up around that one mechanic."
+"You were gone," Sevish said. "For the duration of the attack."
 
-"Yeah," Tatsuya said again, his eyes still on the scorched dirt below.
+"I was in meditation. Shiv called me under during the watch." He said it the same way he would have said any other fact. "You know what that means."
 
-Another beat of quiet, and then she said it plainly, the way you said something when you'd finished working it out and were just confirming the landing. "You're not lucky. You actually planned this."
+Sevish stopped three feet away. He had a full head of height on Tatsuya in this body, broad shoulders and forearms that had been in real fights, scars across his face that said most of those fights had landed, and all of it angled down at Tatsuya the way it always did. The difference was that Tatsuya's breathing stayed even.
 
-"There was a version of that where it would've been good to say something." Something like: I've been running this fight in my head for three days. Something like: Hushveil Silence was always the key to it, I just needed the right caster. He didn't say any of it. Some things landed better when they got to sit.
+"Thirty-five of my people are dead," Sevish said.
 
-A new notification stacked in beside the others.
+He kept his expression level. "I know that."
 
-**[VIEWERS: 940 → 3,610]**
+"And you were in meditation."
 
-**[PARTY CONTRIBUTION: ARYA – HUSHVEIL (ADVANCED) – ASSIST CREDITED]**
+"Sevish." He let the name sit a beat, not loading it with anything. "You know what happens when Shiv moves through someone. I don't have control over when it happens, and neither do you. If you want to be angry at me for not controlling something neither of us can control, I'll take that. But we've both got real problems to handle right now, and I'm not going to be useful to you standing here absorbing it."
 
-"Three thousand six hundred viewers. Not just up, but up by that much, in the time it took to run one engagement." The number meant PK_Wraith was going to see it. Whoever was watching the guild chats Arya had shown him earlier was going to see it. The fight was on record now.
+Wyx's eyes moved between them, reading something in the silence, her expression unreadable.
 
-Her nameplate glowed faintly in the party UI, the assist marker sitting beside it in clean text.
+The quiet held for a few seconds past comfortable. Sevish's scarred hand settled on the axe shaft, not drawing it, just resting there, the way it did when he was working through something rather than reacting to it.
 
-The chat window scrolled too fast to read in full, but three names kept surfacing out of the wall of text, the same three over and over.
+"Eastern line needs to be rebuilt," Sevish said.
 
-[Taja_11: bro i think that might be my brother im not saying anything else]
+"I'll be there."
 
-[Pac_Pac: yo the tent thing was actually cinema no cap, run that back]
+"We move in two hours."
 
-[AriSky: proud of you out there. seriously.]
+Tatsuya gave that a single nod.
 
-"Three people who knew him from different directions, all watching the same thing happen." He looked at the chat for a moment, the wall of text still scrolling, and typed back one line, quick, before the window moved on.
+Sevish held his gaze one beat past necessary, then turned and started walking back toward the eastern watch, Wyx falling in beside him.
 
-[T_Drag: appreciate it. more coming. stick around.]
+*"He's not done with that. He's just done with it for now."*
 
-"Didn't give anything away. Didn't ignore it either. Didn't make it into a moment. That's the line."
+He let them go, then looked back at the camp, at the specific shape of thirty-five fewer people visible in a space that still expected to hold fifty. A camp that had taken a real hit in the middle of a World Quest and still had goblins moving through the lanes, still had fires keeping, still had watches posted even if the coverage was thin.
 
-"I'm in the kill feed," Arya said, quieter now, the disbelief fully settled into something that sounded like she was hearing it out loud for the first time to confirm it was real. "My name's actually showing. People are seeing this."
+*"They took thirty-five and they're still running. That's something."*
 
-He glanced back at the inventory, the Doppelganger's Band still sitting there unread, a UNIQUE item with no description, no stat line, no indication of what it was for, just the name and the ring and the knowledge that it had dropped off a Gambler's Gambit proc he hadn't seen before and hadn't been expecting. Whatever it was, it was sitting there waiting. He'd get to it.
+A party notification blinked at the edge of his vision.
 
-"Yeah," Tatsuya said. "Welcome to the team."
+**[ARISKY HAS JOINED THE PARTY CHANNEL]**
 
-**[END CHAPTER TEN]**
+He opened the text window.
+
+[AriSky: on. spawn lag clearing. give me two minutes]
+
+[T_Drag: take your time]
+
+[AriSky: how bad is it out there]
+
+[T_Drag: 35 down. eastern line has gaps. sevish is managing it]
+
+Her response came back after a pause that was longer than the typing delay explained.
+
+[AriSky: i was watching the guild chats from j-link while you were offline. it hit the raid log feed early this morning. people saw the count drop]
+
+*"Of course they did. Any of the people who've been tracking the stream location would've been watching the defender count the same way they were watching the map."*
+
+[T_Drag: which people specifically]
+
+[AriSky: logging in now. faster to show you than type it]
+
+He closed the window.
+
+The camp moved around him, goblins cycling between the supply line and the watch posts, fewer of them than there should have been, the gaps in the rotation visible to anyone who knew what a full watch rotation was supposed to look like. He did, by now.
+
+Leon's voice came back through, quieter than before, the particular flatness of someone who'd just read something they weren't entirely sure what to do with.
+
+"Hey," Leon said.
+
+"What."
+
+"The guild chat feed. The one Arya shared. There's a new thread as of about forty minutes ago." A pause. "It's got a name in the header I've been seeing in the viewer list since you first went live."
+
+He waited.
+
+"Goes by PK_Wraith," Leon said.
+
+*"There it is."*
+
+---
+
+**[END CHAPTER TEN, PART ONE]**

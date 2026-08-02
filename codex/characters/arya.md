@@ -48,6 +48,27 @@ The old draft used both "Aria" (Chapter 8) and "AriaSky" (Chapter 10 stream hand
 
 Off the PK_Wraith kill, Spellweaver_Lyn's own legacy weapon drops separately from the rest of the sellable gear: a Shivbone Staff (Rare-Legendary, see `codex/crafting/recipes-spirit-line.md` for the item's full recipe/effect entry, +Wisdom and +Fortune, a Spirit Echo passive that applies a light Silence proc). Tatsuya doesn't put it up for sale with the rest of the loot, he sets it aside for Arya specifically, a real, on-page recognition that it matches her build directly, complementing the same Hushveil investment he just talked her into. The other three pieces (Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest) go to market normally.
 
+## Character Sheet
+
+**Arya Sakura — Level 10 Elf Spellforger**
+
+```
+[HP: 88/88] [SP: 44/44] [MP: 72/72]
+[COURAGE: 4] [POWER: 3] [WISDOM: 12 (+3)] [SPEED: 7 (+1)] [FORTUNE: 6 (+1)] [ENERGY: 5]
+```
+
+Secondary stat line:
+```
+[PHYSICAL AP: 13] [MAGIC AP: 48]
+[RANGED AP: 24] [ACCURACY: 28]
+[CRIT RATE: 12%] [CRIT MULTIPLIER: 1.36x]
+[PHYSICAL EVASION: 21] [MAGIC EVASION: 24]
+```
+
+Discipline points invested: 5 total (+3 Wisdom, +1 Speed, +1 Fortune). Most points deliberately unspent since the Crimson Static collapse — holding back rather than committing to a direction she can't yet be sure of. Build profile: high magic output, negligible physical, poor crit, decent evasion. Clearly a caster, still unformed past that.
+
+Current spell unlocks: Static Lash (Mastery building), Tempest Fan, Storm Shear, Stormwall, Hushveil base. Hushveil Silence upgrade not yet invested — the Chapter Nine deal with Tatsuya is what changes that.
+
 ## Personality
 
 High-energy, passionate, slightly chaotic. Plays aggressive and loud, gets easily tilted by lag or toxic teammates, then laughs it off. Refuses to read tutorials or guides, forces her way through everything by stubborn trial-and-error. Extremely expressive, her face and hands do half the talking. Fiercely protective of her people, defends them hard, carries lower-skilled friends without hesitation.
