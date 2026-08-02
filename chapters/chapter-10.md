@@ -2,7 +2,9 @@
 
 The world folded back into place around him, all at once and too fast, the way it always did.
 
-Tatsuya blinked against the dim canvas ceiling of his own tent, the ache of full re-entry still working its way out of muscles that hadn't actually moved in hours. Smoke reached him before anything else did, sharper than the slow green-log burn he'd fallen asleep to, and wrong in a way he couldn't place yet. Somewhere outside, the camp sounded thinner than it should have. Fewer voices. Fewer footsteps.
+Tatsuya blinked against the dim canvas ceiling of his own tent, the ache of full re-entry sharper than it should've been for how short the gap actually was. Ten minutes, give or take. That was all he'd been gone. Smoke reached him before anything else did, sharper than the slow green-log burn he'd fallen asleep to, and wrong in a way he couldn't place yet. Somewhere outside, the camp sounded thinner than it should have. Fewer voices. Fewer footsteps.
+
+*"Ten minutes. That's what this took."*
 
 *"That's not right."*
 
