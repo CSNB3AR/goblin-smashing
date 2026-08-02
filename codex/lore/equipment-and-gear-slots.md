@@ -1,15 +1,16 @@
 # Equipment and Gear Slots
 
-Every character runs the same standard MMO body-slot layout: **chest**, **two hand slots** (either two one-handed items, or a single two-handed weapon occupying both), **necklace**, **two earring/accessory slots**, **boots**, **helmet**. Seven total slots, matching the seven pieces of Shiv's Warset (see `codex/objects/shivs-warset.md`) by design, that set is meant to eventually fill every slot at once.
+Every character runs the same standard MMO body-slot layout, eleven total slots: **necklace**, **two accessory slots**, **belt**, **chest**, **legs**, **boots**, **gauntlets**, **helmet**, **two hand slots** (either two one-handed items, or a single two-handed weapon occupying both). Shiv's Warset (see `codex/objects/shivs-warset.md`) is a themed 7-piece legendary set, but 7 is the size of that particular set, not the total number of slots a character has, a character can be wearing the full Warset and still have real slots open elsewhere.
 
-## Tatsuya's current loadout (as of Chapter 8)
+## Tatsuya's current loadout (as of Chapter 10)
 
 - **Necklace** — Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`), World-tier, his one real piece of power.
 - **Accessory (1 of 2)** — Gambler's Earring (see `codex/objects/gamblers-earring.md`), +3 Fortune.
+- **Belt** — Common-tier, worn, no stat bonus.
 - **Chest** — Common Goblin Leather Chest, common-tier, `[+1 ENERGY]`, gifted by Wyx in Chapter 8.
-- **Hands, second accessory, boots, helmet** — empty or filler-tier at this point in the story.
+- **Accessory (2 of 2), legs, boots, gauntlets, helmet, both hand slots** — empty. No weapon in either hand slot means he's mechanically hand-to-hand right now, not a soft-flavor description, a real, felt gap in his kit.
 
-This is the concrete mechanical reason his gear currently reads as "trash tier": most slots are empty or common-tier junk, only the necklace slot has anything resembling real power. It sets up a genuine future gearing arc once the rest of Shiv's Warset becomes farmable, seven pieces, one obtained.
+This is the concrete mechanical reason his gear currently reads as "trash tier": most slots are empty or common-tier junk, only the necklace slot has anything resembling real power, and he has no weapon equipped at all. It sets up a genuine future gearing arc once the rest of Shiv's Warset becomes farmable, seven pieces, one obtained, alongside the ordinary gearing grind for everything the Warset doesn't cover.
 
 ## Stat display convention
 

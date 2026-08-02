@@ -38,13 +38,11 @@ Leon let that sit a second longer than the others. "Okay." Just that, no push, b
 
 *"That's the right question."*
 
-What he needed was a read on Sevish's location before Sevish found him first. He needed the camp's defensive count without walking the full perimeter himself. He needed to know whether whoever had hit them had pulled back or was sitting somewhere in the treeline deciding whether to come back.
+He glanced down at himself, at the empty loops on his belt where a weapon should have sat, at the plain common weight of the chest piece Wyx had put on him. "I need you to help me understand something," he said. "I've got secondary stats now that I didn't have before. I don't know what they actually mean for what I can do."
 
-"Pull up anything you can find on the Call of the Bones necklace display functions," he said, still scanning the haze past the flap. "There's something in the elder title I haven't fully checked yet. And keep eyes on the viewer count."
+"Secondary stats." Something in Leon's tone shifted, interest cutting through the efficiency. "Alright. Pull them up. Tell me what you're looking at."
 
-Keys clicked on the other end, brisk, already moving. "On it. Give me a few minutes."
-
-He stepped fully out through the flap and pulled up his character screen.
+He pulled up his character screen.
 
 The display came up different.
 
@@ -70,27 +68,27 @@ Below that, a second layer he hadn't seen before, the secondary combat lines tha
 
 *"That's the full picture. Magic AP fifty-two with the necklace bonus, Fortune crit rate at thirty-six percent, that's what a build that actually committed to Fortune looks like when it shows its work. Physical AP at twenty-two because Power sits at four and that's not changing. Fast, magic-heavy, high crit, and physically soft. Anyone who gets past evasion is going to remind me of that last part."*
 
-He dismissed the display.
+Below the stats, a second layer resolved into view, a full outline of himself rendered in the same holographic light, each piece of gear sitting exactly where it actually sat on his body. The necklace glowed steady at his collar. A single earring caught light at one ear. The chest plate showed solid, real weight to it, Nab hadn't been exaggerating when he'd said it would feel like something. A belt sat cinched at his waist, unlit, no glow to it at all, worn but empty. Everything else, the second accessory slot, both legs, his boots, his gauntlets, his helmet, both weapon slots at his sides, sat outlined in dim, unlit grey.
 
-"Leon," he said, low. "The display, the secondary stat line. Did you find anything?"
+*"Eleven slots and I've got four of them filled, and none of the four are a weapon."*
 
-Keys over the comm. "Yeah. It's called elder-tier display mode. Regular players don't get the secondary combat line. There's a note on the wiki that says it was added in the Bloodhurst update and almost nobody knows it exists, it requires a title-holder status." A pause. "The first number it shows is something called Magic AP. Fifty-two. That good?"
+He'd watched pro broadcasts break down builds like this a hundred times, argued theoretical decks with Eren years ago like it was an abstraction. It had never once been his own hand before.
 
-He didn't look away from the eastern line. "High enough."
+*"This is a deck. Four cards down, the rest still somewhere in the pile. And what's down right now isn't a fighting hand, it's a support hand. I go in swinging, I'm doing maybe six damage with my fists before something with actual armor puts me down."*
 
-"Okay." A different kind of pause. "Viewers are at forty-four hundred. You've been back in for about eight minutes."
+He reached out, tapped the necklace itself. A small note unfolded beside it: World-tier, competitive settings apply a scaling reduction for ranked balance. He'd half-heard that somewhere before, some broadcast aside about London Spire's own mechanical star carrying a World-tier talisman into ranked play and still hitting like a truck even scaled down. Real power, just not unlimited power everywhere it went.
 
-*"Forty-four hundred. And the chat is probably moving faster than I can read it."*
+"Leon," he said, still looking at the empty slots. "Walk me through what this actually means. Four pieces, no weapon, what am I actually working with here."
 
-He didn't open the chat window. Not now.
+A pause, keys stopping. "Give me a minute, man, I'm not a walking wiki." A beat, something dry riding under it. "I'll dig into it properly tonight, when I'm not also fielding a VRSA inspector and half-watching a hologram of you over some guy's shoulder. Short version, off the top of my head: you're squishy as hell and everybody down there already knows it. Don't get hit."
 
-"Watch for any mention of the stream in guild-organized feeds," he said. "Arya's going to be on soon. When she is, I'll need to know what she's seeing in those channels."
+*"Thanks. Real actionable."*
 
-"Already noted it," Leon said. "I'll flag it."
+"I need better than that eventually."
 
-The comm went quiet, the specific kind of quiet that meant Leon was working rather than gone. Tatsuya stood at the flap a moment longer, eyes still on the empty post where Ru should have been.
+"You'll get better than that eventually. Give me some damn time, I found out this UI exists about ten minutes before you did." Something almost like a laugh under it. "I'm working on it."
 
-*"He's not there. Nobody's told me anything different."*
+He dismissed the display, and the four dim, glowing pieces of himself folded back into nothing.
 
 Footsteps in the dirt behind him, uneven, favoring one side.
 
@@ -124,39 +122,103 @@ Sevish came around the eastern supply line forty feet ahead, the battle axe acro
 
 Tatsuya held his ground. Not a challenge, nothing deliberately squared-up about it, just the fact that he didn't shift his weight or drop his chin when Sevish covered the distance between them, and the goblin caught that in the first two seconds and something in the set of his jaw went harder for it.
 
-"You were gone," Sevish said. "For the duration of the attack."
+"You were gone." Sevish's voice carried across the last few feet before he'd even fully closed the distance. "The whole attack. Gone."
 
-"I was in meditation. Shiv called me under during the watch." He said it the same way he would have said any other fact. "You know what that means."
-
-Sevish stopped three feet away. He had a full head of height on Tatsuya in this body, broad shoulders and forearms that had been in real fights, scars across his face that said most of those fights had landed, and all of it angled down at Tatsuya the way it always did. The difference was that Tatsuya's breathing stayed even.
+He stopped three feet away. He had a full head of height on Tatsuya in this body, broad shoulders and forearms that had been in real fights, scars across his face that said most of those fights had landed, and all of it angled down at Tatsuya the way it always did. The difference was that Tatsuya's breathing stayed even.
 
 "Thirty-five of my people are dead," Sevish said.
 
-He kept his expression level. "I know that."
+"I know that." He didn't look away. "And I know how it happened."
 
-Sevish's grip flexed once on the axe shaft, the only sign the words had actually landed. "And you were in meditation."
+Something flickered across Sevish's face, the first crack in the pure heat of it. "You weren't here."
 
-"Sevish." He let the name sit a beat, not loading it with anything. "You know what happens when Shiv moves through someone. I don't have control over when it happens, and neither do you. If you want to be angry at me for not controlling something neither of us can control, I'll take that. But we've both got real problems to handle right now, and I'm not going to be useful to you standing here absorbing it."
+"I didn't need to be here to see it. Kesh already told you they've got a choke point, before any of this started. You sent people down in waves anyway. Every wave you fed into that gap taught them exactly how to kill the next one faster." He kept his voice level, not raised, not backing off it either. "That's not bad luck. That's the report you already had sitting in front of you."
 
-Wyx's eyes moved between them, reading something in the silence, her expression unreadable.
+Sevish's grip flexed once on the axe shaft. "So you're challenging me."
 
-The quiet held for a few seconds past comfortable. Sevish's scarred hand settled on the axe shaft, not drawing it, just resting there, the way it did when he was working through something rather than reacting to it.
+"If this was a challenge, you'd know it." Tatsuya held his eyes. "I told you I was working out a plan. You didn't wait for it. You made your own and ran it thirty-five times over. Those are your consequences, not mine. If anyone in this conversation should be angry right now, it's me."
 
-His gaze cut toward the empty stretch of the eastern line before it came back to Tatsuya. "Eastern line needs to be rebuilt," Sevish said.
+A voice dropped into his ear, pitched low, pitched just for him. "Oh, you're talking your shit, huh?" Leon, unmistakably grinning even through the comm.
 
-He held Sevish's eyes without looking away first. "I'll be there."
+*"Not now."*
 
-Sevish's jaw worked once. "We move in two hours."
+Wyx's eyes moved between them, reading something in the silence, her expression unreadable. Sevish didn't move for a long moment, the axe hand tightening once more before it eased, deliberate, like he was setting something down rather than picking it up.
+
+"Careful," Sevish said, but the heat under it had shifted, curdled into something closer to respect than rage. "A goblin who says something like that to my face better be ready to back it in the pit." A beat. "When we're both standing in Myrrhwood again, you and I are going to test that mouth of yours properly."
+
+"I'd like that."
+
+"You wouldn't." Something almost like a laugh, dry, humorless. "The gap between us right now, I could put you down before you finished the first word of whatever you were planning to say. That's not an insult. That's math." He rolled one shoulder, loosening it. "But I respect a mistake owned honestly, and I respect someone who doesn't fold when I lean on them. Both of those are true right now."
+
+The heat in him settled further, real acknowledgment underneath it now. "I shouldn't have kept sending them down that path once the pattern was already clear. That's mine to own, not yours." He said it flatly, the way an admission costs something to say out loud in front of a subordinate rather than to a mirror.
+
+Tatsuya gave him room for it, didn't push, didn't gloat.
+
+Sevish's eyes came back up. "What took you so long, then. If you already knew the shape of it."
+
+*"Here's where I sell it."*
+
+"Shiv reached out to me." He let the words land slow, deliberate, the same register he'd use for any fact he actually believed. "Deep meditation. He doesn't ask, he pulls, and there's no fighting that pull once it starts. I was gone the second it happened, and I didn't come back until he was done with me."
+
+Something in the set of Sevish's shoulders eased, the particular quiet that came from a goblin encountering the name Shiv directly and having no real ground to argue against it. Wyx's gaze lingered on him a beat longer than the moment needed.
+
+Sevish's jaw worked once. "Eastern line needs to be rebuilt."
+
+"I'll be there."
+
+"We move in two hours."
 
 Tatsuya gave that a single nod.
 
-Sevish held his gaze one beat past necessary, then turned and started walking back toward the eastern watch, Wyx falling in beside him.
+Sevish held his gaze one beat past necessary, then his eyes shifted, something else surfacing behind them. "Before that." He glanced toward Wyx, then back. "You said you had a plan. Let's hear it."
 
-*"He's not done with that. He's just done with it for now."*
+*"Here we go again, different reason this time."*
 
-He let them go, then looked back at the camp, at the specific shape of thirty-five fewer people visible in a space that still expected to hold fifty. A camp that had taken a real hit in the middle of a World Quest and still had goblins moving through the lanes, still had fires keeping, still had watches posted even if the coverage was thin.
+He didn't launch straight into logistics. "This isn't only mine," he said first, because taking full credit felt wrong and giving Shiv full credit felt worse. "Shiv gave me a vision while I was under. I'm going to tell you what I saw, and then I'm going to tell you what I think it means."
 
-*"They took thirty-five and they're still running. That's something."*
+Sevish's stance shifted, attention sharpening the way a goblin's did around anything carrying Shiv's name directly.
+
+"A warrior's coming toward this camp. North road, coming down. A mage." He let the next word land on its own. "Elven."
+
+The reaction was immediate and exactly what he'd expected, Wyx's brow lifting, a couple of goblins nearby trading a look that wasn't hostile so much as baffled, the kind of look people gave a claim that didn't fit anything they already believed about the world. Elves didn't help goblins. Elves barely tolerated goblins existing in the same conversation.
+
+*"Good. Let them be confused instead of asking the follow-up questions I can't answer honestly."*
+
+"I don't expect you to trust it blind," he said, before anyone could push back out loud. "I'm not asking you to. I'm telling you what's coming, and when she gets here, you'll see it for yourselves."
+
+Nobody but Tatsuya said the name Shiv plainly, and even now a few heads turned slightly at the ease of it, like the word itself carried weight everyone else had learned to handle more carefully.
+
+"After that," he said, moving past it before the moment could get bigger than it needed to be, "here's the actual plan. Small team. Me, Ru, and two more who can gas a space." He looked toward the two goblins he'd fought alongside before, deliberately, and got the name wrong on purpose to see if anyone would catch it. "Rutt and Nab, if they're willing."
+
+"Rott," Nab said flatly, and a couple of the others actually laughed, real and easy, the first real laugh Tatsuya had heard out of this camp since he'd logged back in.
+
+"Rott." He let the correction land without making a thing of it. "If they've got a war tent down there, we gas them out. Force them into the open. Once they're out, Shiv's given me something that turns the ground under them into a real problem." He didn't explain further than that. "We send them where they need to go."
+
+Sevish's teeth showed, something fierce and satisfied in it. "I like the sound of that." A beat, and the fierceness sharpened into something more restless. "If it doesn't work, I'm coming down myself. I've been sitting on my hands up here long enough."
+
+"Brother." Wyx's hand landed on his arm before he'd finished the sentence. "You go down there and it's not a rescue anymore, it's two problems instead of one."
+
+Sevish didn't argue it, which told Tatsuya more about how close to the edge he actually was than anything he'd said out loud.
+
+He stepped away from the group, far enough that the words wouldn't carry, and dropped his voice. "Leon. I need Arya's friend code. She's the friend I told the camp about."
+
+A pause, longer than the last one. "Wait." Something shifted underneath the word, careful in a way Leon hadn't been all conversation. "You're bringing her into this? Like, actually into the game with you?"
+
+"That's the plan. Why."
+
+"Because the deal was she wasn't supposed to find out this place could run HGO on the old pods at all, man. That's a real thing we agreed on. She's been dumping money into J-Link this whole time thinking it's her only option, and if she's in here with you, in my setup, she's gonna put it together fast." A beat, quieter. "When did she get into this deep."
+
+*"He thinks this is about the pods. It was never about the pods."*
+
+"She's not going to care about the pods, Leon. She didn't ask you for pod access. She asked for a seat at Winter Bash. That's the whole deal, that's all she's ever wanted out of any of this." He let that sit a second. "You can worry about the two of you sorting out arcade politics later. Right now I need the code."
+
+Leon didn't answer right away, and when he did, some of the tension had gone out of it, replaced by something wry. "Yeah. Yeah, alright, that tracks, actually." A short laugh, more relief in it than humor. "She's right here. Gimme a second."
+
+Muffled voices on the other end, Leon's and a lighter one under it. Then: "Sending it now. And hey," dry again, already moving past it, "same channel or private line? System's asking."
+
+He didn't hesitate. "Same channel. I'm not managing two separate secrets with two people who work the same front desk, that'll drive me insane, and she's going to find out everything eventually anyway."
+
+"Copy that. Honestly relieved you said that, keeping two threads straight was gonna be a headache I didn't need either."
 
 A party notification blinked at the edge of his vision.
 
@@ -174,13 +236,15 @@ He opened the text window.
 
 Her response came back after a pause that was longer than the typing delay explained.
 
-[AriSky: i was watching the guild chats from j-link while you were offline. it hit the raid log feed early this morning. people saw the count drop]
+[AriSky: i was watching the guild chats from j-link while you were offline. two of tokyo's top four guilds have leadership talking about moving on your location]
 
 *"Of course they did. Any of the people who've been tracking the stream location would've been watching the defender count the same way they were watching the map."*
 
-[T_Drag: which people specifically]
+[T_Drag: how much time do we actually have]
 
-[AriSky: logging in now. faster to show you than type it]
+[AriSky: not much urgency yet realistically. most guilds aren't moving til their morning, people got real jobs. ganking guilds grind overnight but this doesn't read like that from the messages]
+
+[AriSky: still shouldn't sit on that war banner much longer though]
 
 He closed the window.
 
@@ -192,7 +256,7 @@ Leon's voice came back through, quieter than before, the particular flatness of 
 
 Something in Tatsuya's chest went tight before Leon had even finished the thought. "What."
 
-"The guild chat feed. The one Arya shared. There's a new thread as of about forty minutes ago." A pause. "It's got a name in the header I've been seeing in the viewer list since you first went live."
+"That guild chat feed Arya's watching. There's a new thread as of about forty minutes ago." A pause. "It's got a name in the header I've been seeing in the viewer list since you first went live."
 
 He waited.
 
