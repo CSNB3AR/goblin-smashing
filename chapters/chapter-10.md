@@ -1,22 +1,16 @@
 # Chapter Ten: Silence and Fire, Part One
 
-The voice came from the other side of the tent wall, close.
+The world folded back into place around him, all at once and too fast, the way it always did.
 
-"Elder. You are awake."
+Tatsuya blinked against the dim canvas ceiling of his own tent, the ache of full re-entry still working its way out of muscles that hadn't actually moved in hours. Smoke reached him before anything else did, sharper than the slow green-log burn he'd fallen asleep to, and wrong in a way he couldn't place yet. Somewhere outside, the camp sounded thinner than it should have. Fewer voices. Fewer footsteps.
 
-Ru straightened against the entry post despite the arm pressed to his ribs, the motion costing him something he didn't let show on his face. Tatsuya was already moving, one hand catching the tent flap before Ru could pull it back himself, and the goblin stumbled aside to make room, still holding the post with his left hand, his right arm wrapped against his midsection at an angle that said something had hit him there and not lightly. A cut across one cheekbone, still fresh enough to show the wet edge of it. Wrapped cloth visible at the gap under his armor where the arm was pressed.
+*"That's not right."*
 
-*"He held the entrance the whole time."*
+He pushed himself up off the bedroll, joints stiff from a body that had held one position too long, and crossed the tent to the flap himself. No one was posted at the entrance to hold it back for him.
 
-"Ru." Tatsuya stopped at the threshold, looking him over. "You good?"
+Smoke hung low over the camp beyond, thicker than it should have been for cooking fires this hour, and underneath it something sharper that hadn't been there when he logged out. The lanes that should have had goblins cycling watch rotation held a handful of figures instead of the usual dozen. Somewhere east, past a run of tents he couldn't see clearly through the haze, nothing was moving at all.
 
-Ru met his eyes, the single tusk catching what light cut through the haze outside. "Nobody came past."
-
-*"He's not going to say how bad it was."*
-
-Smoke hung low over the camp beyond Ru's shoulder, thicker than it should have been for cooking fires this hour, and underneath it something sharper that hadn't been there before Tatsuya logged out. The lanes that should have had goblins cycling watch rotation held a handful of figures instead of the usual dozen. Somewhere east, past a run of tents he couldn't see clearly through the haze, nothing was moving at all.
-
-He didn't run. Running drew attention and questions he couldn't answer right now.
+He didn't step out yet. Didn't run either. Running drew attention and questions he couldn't answer.
 
 A voice in his ear, real and immediate, no distance on it.
 
@@ -24,7 +18,7 @@ A voice in his ear, real and immediate, no distance on it.
 
 The voice came through the pod hardware and mapped into his hearing the same way Eryndal's ambient sound did, sitting in the same register, layered in so it didn't fight the world around it. It would have felt strange three sessions ago. Right now it felt like a light someone had just switched on.
 
-"Camp took losses while I was out," Tatsuya said, low enough to stay under the ambient sound, his eyes still tracking the empty stretch past Ru's shoulder. "A lot."
+"Camp took losses while I was out," Tatsuya said, low enough to stay under the ambient sound, his eyes still tracking the empty stretch past the flap. "A lot."
 
 A beat, and when Leon spoke again the practical edge had thinned into something more careful. "How many?"
 
@@ -32,23 +26,25 @@ His jaw worked once before the number came out. "Thirty-five."
 
 Leon didn't say anything for a second, just the faint creak of a chair shifting on his end. Then: "Out of fifty."
 
-"Yeah." He kept his eyes forward, not letting himself do the math on faces he half recognized from the muster.
+"Yeah." He kept his eyes on the dead stretch of the eastern line, not letting himself do the math on faces he half recognized from the muster.
 
 "And Ru?" Sharper now, the question landing fast.
 
-He glanced back at Ru, who hadn't moved from the post. "Standing. He got hit."
+He looked for him anyway, out of reflex, at the post where Ru should already have been standing. Nothing there but packed dirt and the shape of where someone usually stood. "Don't know yet. Haven't seen him since I logged out."
 
-"What do you need right now?" All business, no wasted words.
+Leon let that sit a second longer than the others. "Okay." Just that, no push, but something in it said he'd heard exactly how much weight was under the word *don't*.
+
+"What do you need right now?" All business again, no wasted words.
 
 *"That's the right question."*
 
 What he needed was a read on Sevish's location before Sevish found him first. He needed the camp's defensive count without walking the full perimeter himself. He needed to know whether whoever had hit them had pulled back or was sitting somewhere in the treeline deciding whether to come back.
 
-"Pull up anything you can find on the Call of the Bones necklace display functions," he said, already turning to scan the haze past Ru's shoulder. "There's something in the elder title I haven't fully checked yet. And keep eyes on the viewer count."
+"Pull up anything you can find on the Call of the Bones necklace display functions," he said, still scanning the haze past the flap. "There's something in the elder title I haven't fully checked yet. And keep eyes on the viewer count."
 
 Keys clicked on the other end, brisk, already moving. "On it. Give me a few minutes."
 
-He stepped out through the flap, Ru falling into position at his shoulder, and pulled up his character screen.
+He stepped fully out through the flap and pulled up his character screen.
 
 The display came up different.
 
@@ -76,14 +72,6 @@ Below that, a second layer he hadn't seen before, the secondary combat lines tha
 
 He dismissed the display.
 
-Ru was still watching him from two steps back with his right arm pressed to his ribs.
-
-"You need to get that wrapped better," Tatsuya said.
-
-Ru's jaw set, stubborn. "Ru is fine."
-
-"You're not fine, you're functional, those are different things." He didn't push it. Ru wouldn't stop for it anyway.
-
 "Leon," he said, low. "The display, the secondary stat line. Did you find anything?"
 
 Keys over the comm. "Yeah. It's called elder-tier display mode. Regular players don't get the secondary combat line. There's a note on the wiki that says it was added in the Bloodhurst update and almost nobody knows it exists, it requires a title-holder status." A pause. "The first number it shows is something called Magic AP. Fifty-two. That good?"
@@ -100,9 +88,33 @@ He didn't open the chat window. Not now.
 
 "Already noted it," Leon said. "I'll flag it."
 
-He started east, Ru falling in half a step behind despite the arm still pressed to his ribs.
+The comm went quiet, the specific kind of quiet that meant Leon was working rather than gone. Tatsuya stood at the flap a moment longer, eyes still on the empty post where Ru should have been.
 
-The ground here wasn't packed down the way it was near his own tent, looser dirt that gave slightly under each step, dust catching at the back of his throat under the smoke the further he went. He passed a supply crate on its side, contents not yet gathered up. A goblin he didn't recognize sat against a support post, wrapped forearm in his lap, watching him pass without getting up. The watch fires along this stretch burned low and untended, and past them the eastern line held nothing but planted stakes and open ground where a dozen goblins should have been standing. Ru didn't say a word the whole way, and Tatsuya didn't ask him to.
+*"He's not there. Nobody's told me anything different."*
+
+Footsteps in the dirt behind him, uneven, favoring one side.
+
+He turned fast enough that his hand had already started toward the belt before he registered who it was.
+
+Ru stood a few feet off, one hand braced against a support pole, his right arm wrapped against his midsection at an angle that said something had hit him there and not lightly. A cut across one cheekbone, still fresh enough to show the wet edge of it. Wrapped cloth visible at the gap under his armor where the arm was pressed.
+
+*"He's alive."*
+
+"Ru." He crossed the distance in two steps, taking in the arm, the cut, the way Ru's weight had shifted off his right leg. "You're hurt."
+
+Ru's chin came up despite it, something stubborn setting into his jaw. "Sevish sent Ru." A beat. "Said someone should sit with the elder."
+
+*"That's not the whole reason and we both know it. Sevish wanted eyes on me, or he wanted Ru somewhere that wasn't the fighting. Maybe both. Either way, I'm being managed."*
+
+"You need to get that wrapped better," Tatsuya said.
+
+"Ru is fine."
+
+"You're not fine, you're functional, those are different things." He didn't push it further. Ru wouldn't stop for it anyway.
+
+He started east, Ru falling in beside him despite the arm still pressed to his ribs.
+
+The ground here wasn't packed down the way it was near his own tent, looser dirt that gave slightly under each step, dust catching at the back of his throat under the smoke the further they went. He passed a supply crate on its side, contents not yet gathered up. A goblin he didn't recognize sat against a support post, wrapped forearm in his lap, watching them pass without getting up. The watch fires along this stretch burned low and untended, and past them the eastern line held nothing but planted stakes and open ground where a dozen goblins should have been standing.
 
 *"Thirty-five. In the time it took Leon to fix a monitor and walk back out front."*
 
