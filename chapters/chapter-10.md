@@ -16,7 +16,7 @@ He didn't step out yet. Didn't run either. Running drew attention and questions 
 
 A voice in his ear, real and immediate, no distance on it.
 
-"You're awake," Leon said, his tone already dropped into something clipped and efficient, the sound of someone who'd been sitting forward in his chair since the monitor flagged the reconnect. "Checked the monitor the second you logged back. Give me a read."
+A creak came through, the specific sound of Leon's chair tipping back. "Hey. Good to see you logged back in." Easy, unhurried, nothing sharpened under it. "Let me know if you need anything on my end."
 
 The voice came through the pod hardware and mapped into his hearing the same way Eryndal's ambient sound did, sitting in the same register, layered in so it didn't fight the world around it. It would have felt strange three sessions ago. Right now it felt like a light someone had just switched on.
 
@@ -156,7 +156,21 @@ The heat in him settled further, real acknowledgment underneath it now. "I shoul
 
 Tatsuya gave him room for it, didn't push, didn't gloat.
 
-Sevish's eyes came back up. "What took you so long, then. If you already knew the shape of it."
+Sevish's jaw shifted, something working behind it, and by the time he spoke again the contrition had already started curdling into something else, something almost pleased with itself. "Still." A short huff, not quite a laugh yet. "I pushed them down there. I lost men." The huff deepened, rolling into a real chuckle, heavy and low. "But how much you think those bastards have left after all that?" He rolled his shoulders back, some of his usual size returning to his frame. "My men aren't weak. Three, four pushes deep, those bastards should be running on fumes right now."
+
+*"He's not wrong."*
+
+"Yeah." Tatsuya let that land plain, no surprise in it, nothing that read as correcting him. "I caught that too."
+
+Something flickered across Sevish's face at being met there instead of humored, respect stacking on top of what was already building.
+
+"Leon." He kept his eyes on Sevish but pitched the question outward, loud enough to be heard, the kind of thing that could pass for talking to himself if anyone else caught it. "Mana and stamina. How long does that actually take to come back after a real fight."
+
+"Depends what they're running." Leon's voice, already turning the question over. "Unassisted, call it an hour, maybe two. Standard potions cut that down to about an hour. Top-shelf stuff, the good potions, you're looking at more like thirty minutes."
+
+He did the math out loud, for Sevish as much as for himself. "Three or four pushes, and the last one just happened. That's not an hour of runway. That's fifteen minutes, maybe less, before they're back near full strength. And I'm not expecting them at full health either, not after what they've been absorbing."
+
+Sevish's grin came slow and real. "Fifteen minutes." He said it like he was weighing it, satisfied with the shape of it in his hands. Then his eyes came back up, sharper again. "What took you so long, then. If you already knew the shape of it."
 
 *"Here's where I sell it."*
 
