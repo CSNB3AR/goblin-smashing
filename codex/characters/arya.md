@@ -69,6 +69,8 @@ Discipline points invested: 5 total (+3 Wisdom, +1 Speed, +1 Fortune). Most poin
 
 Current spell unlocks: Static Lash (Mastery building), Tempest Fan, Storm Shear, Stormwall, Hushveil base. Hushveil Silence upgrade not yet invested — the Chapter Nine deal with Tatsuya is what changes that.
 
+**Build ceiling, if she commits.** Her displayed sheet reflects 5 of the 20 points a Level 10 character actually has available (see `codex/lore/leveling-and-progression.md`), 15 still sitting unspent. A hypothetical full investment as a true caster (roughly 13 more into Wisdom, 3 into Fortune, 2 into Speed) puts her at Wisdom 22, Magic AP roughly 88, clearly ahead of Tatsuya's gear-boosted Magic AP 52. He only touches those numbers because of a World-tier necklace bond; she gets there on class identity alone once she stops holding back. Not on the page yet, this is the ceiling the story is building toward, not her current build.
+
 ## Personality
 
 High-energy, passionate, slightly chaotic. Plays aggressive and loud, gets easily tilted by lag or toxic teammates, then laughs it off. Refuses to read tutorials or guides, forces her way through everything by stubborn trial-and-error. Extremely expressive, her face and hands do half the talking. Fiercely protective of her people, defends them hard, carries lower-skilled friends without hesitation.
