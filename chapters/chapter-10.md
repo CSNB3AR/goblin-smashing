@@ -16,7 +16,7 @@ He didn't step out yet. Didn't run either. Running drew attention and questions 
 
 A voice in his ear, real and immediate, no distance on it.
 
-A creak came through, the specific sound of Leon's chair tipping back. "Hey. Good to see you logged back in." Easy, unhurried, nothing sharpened under it. "Let me know if you need anything on my end."
+A creak reached his ear first, small and worn, the same sound Leon's chair always made when he leaned back too far in it. "Hey. Good to see you logged back in." Easy, unhurried, nothing sharpened under it. "Let me know if you need anything on my end."
 
 The voice came through the pod hardware and mapped into his hearing the same way Eryndal's ambient sound did, sitting in the same register, layered in so it didn't fight the world around it. It would have felt strange three sessions ago. Right now it felt like a light someone had just switched on.
 
