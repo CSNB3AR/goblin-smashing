@@ -4,53 +4,49 @@ The voice came from the other side of the tent wall, close.
 
 "Elder. You are awake."
 
-He was already moving, one hand catching the tent flap before Ru could pull it back himself, and the goblin stumbled aside to make room, still holding the entry post with his left hand, his right arm wrapped against his midsection at an angle that said something had hit him there and not lightly. A cut across one cheekbone, still fresh enough to show the wet edge of it. Wrapped cloth visible at the gap under his armor where the arm was pressed.
+Ru straightened against the entry post despite the arm pressed to his ribs, the motion costing him something he didn't let show on his face. Tatsuya was already moving, one hand catching the tent flap before Ru could pull it back himself, and the goblin stumbled aside to make room, still holding the post with his left hand, his right arm wrapped against his midsection at an angle that said something had hit him there and not lightly. A cut across one cheekbone, still fresh enough to show the wet edge of it. Wrapped cloth visible at the gap under his armor where the arm was pressed.
 
 *"He held the entrance the whole time."*
 
 "Ru." Tatsuya stopped at the threshold, looking him over. "You good?"
 
-Ru met his eyes. The single tusk caught the low light of early morning. "Nobody came past."
+Ru met his eyes, the single tusk catching what light cut through the haze outside. "Nobody came past."
 
 *"He's not going to say how bad it was."*
 
-The camp beyond Ru's shoulder didn't match the one he'd left. He'd expected fewer bodies moving, the count had already told him that, but seeing it was different from the number. The lanes that should have had goblins cycling watch rotation held a handful of figures instead of the usual dozen. Fires lower at the perimeter than they should have been at this hour. A section of the eastern defensive line where he could see nothing moving at all, just stakes in the ground and empty air where there used to be goblins standing.
-
-The smell had changed. The wrong smoke from before had thinned, but something underneath it hadn't. The specific quality of ground that had seen a fight recently and not been given time to settle.
-
-*"Thirty-five people. In the time it took Leon to fix a monitor and walk back out front."*
+Smoke hung low over the camp beyond Ru's shoulder, thicker than it should have been for cooking fires this hour, and underneath it something sharper that hadn't been there before Tatsuya logged out. The lanes that should have had goblins cycling watch rotation held a handful of figures instead of the usual dozen. Somewhere east, past a run of tents he couldn't see clearly through the haze, nothing was moving at all.
 
 He didn't run. Running drew attention and questions he couldn't answer right now.
 
 A voice in his ear, real and immediate, no distance on it.
 
-"You're awake," Leon said. "Checked the monitor the second you logged back. Give me a read."
+"You're awake," Leon said, his tone already dropped into something clipped and efficient, the sound of someone who'd been sitting forward in his chair since the monitor flagged the reconnect. "Checked the monitor the second you logged back. Give me a read."
 
 The voice came through the pod hardware and mapped into his hearing the same way Eryndal's ambient sound did, sitting in the same register, layered in so it didn't fight the world around it. It would have felt strange three sessions ago. Right now it felt like a light someone had just switched on.
 
-"Camp took losses while I was out," Tatsuya said, low enough to stay under the ambient sound. "A lot."
+"Camp took losses while I was out," Tatsuya said, low enough to stay under the ambient sound, his eyes still tracking the empty stretch past Ru's shoulder. "A lot."
 
-A beat. "How many?"
+A beat, and when Leon spoke again the practical edge had thinned into something more careful. "How many?"
 
-"Thirty-five."
+His jaw worked once before the number came out. "Thirty-five."
 
-Leon didn't say anything for a second. Then: "Out of fifty."
+Leon didn't say anything for a second, just the faint creak of a chair shifting on his end. Then: "Out of fifty."
 
-"Yeah."
+"Yeah." He kept his eyes forward, not letting himself do the math on faces he half recognized from the muster.
 
-"And Ru?"
+"And Ru?" Sharper now, the question landing fast.
 
-He glanced back at Ru, who was watching him with the calm of someone who'd accepted a long time ago that elders talked to things other people couldn't see. "Standing. He got hit."
+He glanced back at Ru, who hadn't moved from the post. "Standing. He got hit."
 
-"What do you need right now?"
+"What do you need right now?" All business, no wasted words.
 
 *"That's the right question."*
 
 What he needed was a read on Sevish's location before Sevish found him first. He needed the camp's defensive count without walking the full perimeter himself. He needed to know whether whoever had hit them had pulled back or was sitting somewhere in the treeline deciding whether to come back.
 
-"Pull up anything you can find on the Call of the Bones necklace display functions," he said. "There's something in the elder title I haven't fully checked yet. And keep eyes on the viewer count."
+"Pull up anything you can find on the Call of the Bones necklace display functions," he said, already turning to scan the haze past Ru's shoulder. "There's something in the elder title I haven't fully checked yet. And keep eyes on the viewer count."
 
-"On it. Give me a few minutes."
+Keys clicked on the other end, brisk, already moving. "On it. Give me a few minutes."
 
 He stepped out through the flap, Ru falling into position at his shoulder, and pulled up his character screen.
 
@@ -76,7 +72,7 @@ Below that, a second layer he hadn't seen before, the secondary combat lines tha
 **[PHYSICAL EVASION: 27] [MAGIC EVASION: 26]**
 **[PHYSICAL CC RESIST: 8%] [MENTAL RESIST: 8%]**
 
-*"That's the full picture. Magic AP fifty-two with the necklace bonus, Fortune crit rate at thirty-six percent — that's what a build that actually committed to Fortune looks like when it shows its work. Physical AP at twenty-two because Power sits at four and that's not changing. Fast, magic-heavy, high crit, and physically soft. Anyone who gets past evasion is going to remind me of that last part."*
+*"That's the full picture. Magic AP fifty-two with the necklace bonus, Fortune crit rate at thirty-six percent, that's what a build that actually committed to Fortune looks like when it shows its work. Physical AP at twenty-two because Power sits at four and that's not changing. Fast, magic-heavy, high crit, and physically soft. Anyone who gets past evasion is going to remind me of that last part."*
 
 He dismissed the display.
 
@@ -84,7 +80,7 @@ Ru was still watching him from two steps back with his right arm pressed to his 
 
 "You need to get that wrapped better," Tatsuya said.
 
-"Ru is fine."
+Ru's jaw set, stubborn. "Ru is fine."
 
 "You're not fine, you're functional, those are different things." He didn't push it. Ru wouldn't stop for it anyway.
 
@@ -92,7 +88,7 @@ Ru was still watching him from two steps back with his right arm pressed to his 
 
 Keys over the comm. "Yeah. It's called elder-tier display mode. Regular players don't get the secondary combat line. There's a note on the wiki that says it was added in the Bloodhurst update and almost nobody knows it exists, it requires a title-holder status." A pause. "The first number it shows is something called Magic AP. Fifty-two. That good?"
 
-"High enough."
+He didn't look away from the eastern line. "High enough."
 
 "Okay." A different kind of pause. "Viewers are at forty-four hundred. You've been back in for about eight minutes."
 
@@ -103,6 +99,12 @@ He didn't open the chat window. Not now.
 "Watch for any mention of the stream in guild-organized feeds," he said. "Arya's going to be on soon. When she is, I'll need to know what she's seeing in those channels."
 
 "Already noted it," Leon said. "I'll flag it."
+
+He started east, Ru falling in half a step behind despite the arm still pressed to his ribs.
+
+The ground here wasn't packed down the way it was near his own tent, looser dirt that gave slightly under each step, dust catching at the back of his throat under the smoke the further he went. He passed a supply crate on its side, contents not yet gathered up. A goblin he didn't recognize sat against a support post, wrapped forearm in his lap, watching him pass without getting up. The watch fires along this stretch burned low and untended, and past them the eastern line held nothing but planted stakes and open ground where a dozen goblins should have been standing. Ru didn't say a word the whole way, and Tatsuya didn't ask him to.
+
+*"Thirty-five. In the time it took Leon to fix a monitor and walk back out front."*
 
 Sevish came around the eastern supply line forty feet ahead, the battle axe across his back, Wyx half a step behind him and slightly to the left, and his expression said he'd been looking for Tatsuya specifically for a while now and had known exactly where to find him.
 
@@ -120,7 +122,7 @@ Sevish stopped three feet away. He had a full head of height on Tatsuya in this 
 
 He kept his expression level. "I know that."
 
-"And you were in meditation."
+Sevish's grip flexed once on the axe shaft, the only sign the words had actually landed. "And you were in meditation."
 
 "Sevish." He let the name sit a beat, not loading it with anything. "You know what happens when Shiv moves through someone. I don't have control over when it happens, and neither do you. If you want to be angry at me for not controlling something neither of us can control, I'll take that. But we've both got real problems to handle right now, and I'm not going to be useful to you standing here absorbing it."
 
@@ -128,11 +130,11 @@ Wyx's eyes moved between them, reading something in the silence, her expression 
 
 The quiet held for a few seconds past comfortable. Sevish's scarred hand settled on the axe shaft, not drawing it, just resting there, the way it did when he was working through something rather than reacting to it.
 
-"Eastern line needs to be rebuilt," Sevish said.
+His gaze cut toward the empty stretch of the eastern line before it came back to Tatsuya. "Eastern line needs to be rebuilt," Sevish said.
 
-"I'll be there."
+He held Sevish's eyes without looking away first. "I'll be there."
 
-"We move in two hours."
+Sevish's jaw worked once. "We move in two hours."
 
 Tatsuya gave that a single nod.
 
@@ -176,7 +178,7 @@ Leon's voice came back through, quieter than before, the particular flatness of 
 
 "Hey," Leon said.
 
-"What."
+Something in Tatsuya's chest went tight before Leon had even finished the thought. "What."
 
 "The guild chat feed. The one Arya shared. There's a new thread as of about forty minutes ago." A pause. "It's got a name in the header I've been seeing in the viewer list since you first went live."
 
