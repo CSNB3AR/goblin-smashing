@@ -2,15 +2,19 @@
 
 The world folded back into place around him, all at once and too fast, the way it always did.
 
-Tatsuya blinked against the dim canvas ceiling of his own tent, the ache of full re-entry sharper than it should've been for how short the gap actually was. Ten minutes, give or take. That was all he'd been gone. Smoke reached him before anything else did, sharper than the slow green-log burn he'd fallen asleep to, and wrong in a way he couldn't place yet. Somewhere outside, the camp sounded thinner than it should have. Fewer voices. Fewer footsteps.
+Tatsuya blinked against the dim canvas ceiling of his own tent, the ache of full re-entry sharper than it should've been for how short the gap actually was. Ten minutes, give or take. That was all he'd been gone. Smoke reached him before anything else did, sharper than the slow green-log burn he'd fallen asleep to, wrong in a way he couldn't place yet. The air inside the tent tasted of it, acrid and heavier than woodsmoke alone.
 
 *"Ten minutes. That's what this took."*
 
+He pushed himself up off the bedroll, joints stiff from a body that had held one position too long, and crossed the tent to the flap. His bare feet made no sound against packed dirt. No one was posted at the entrance to hold it back for him.
+
+He pushed the canvas aside.
+
+Smoke hung low over the camp beyond, thicker than it should have been for cooking fires this hour. Gray-white haze clung close to the ground, turning the tents past the first row into dim shapes. The lanes that should have had goblins cycling watch rotation held a handful of figures instead of the usual dozen, scattered rather than positioned. Somewhere east, past a run of tents he couldn't see clearly through the haze, nothing was moving at all.
+
+Fewer voices carried through the smoke than there should have been. Fewer footsteps.
+
 *"That's not right."*
-
-He pushed himself up off the bedroll, joints stiff from a body that had held one position too long, and crossed the tent to the flap himself. No one was posted at the entrance to hold it back for him.
-
-Smoke hung low over the camp beyond, thicker than it should have been for cooking fires this hour, and underneath it something sharper that hadn't been there when he logged out. The lanes that should have had goblins cycling watch rotation held a handful of figures instead of the usual dozen. Somewhere east, past a run of tents he couldn't see clearly through the haze, nothing was moving at all.
 
 He didn't step out yet. Didn't run either. Running drew attention and questions he couldn't answer.
 
@@ -18,13 +22,13 @@ A voice in his ear, real and immediate, no distance on it.
 
 A creak reached his ear first, small and worn, the same sound Leon's chair always made when he leaned back too far in it. "Hey. Good to see you logged back in." Easy, unhurried, nothing sharpened under it. "Let me know if you need anything on my end."
 
-The voice came through the pod hardware and mapped into his hearing the same way Eryndal's ambient sound did, sitting in the same register, layered in so it didn't fight the world around it. It would have felt strange three sessions ago. Right now it felt like a light someone had just switched on.
+The voice came through the pod hardware and mapped into his hearing the same way Eryndal's ambient sound did, sitting in the same register, layered in so it didn't fight the world around it. Three sessions ago it would have felt strange. Right now it felt like a light someone had just switched on.
 
 "Camp took losses while I was out," Tatsuya said, low enough to stay under the ambient sound, his eyes still tracking the empty stretch past the flap. "A lot."
 
-A beat, and when Leon spoke again the practical edge had thinned into something more careful. "How many?"
+A beat. When Leon spoke again the practical edge had thinned into something more careful. "How many?"
 
-His jaw worked once before the number came out. "Thirty-five."
+He went still for a second before the number came out. "Thirty-five."
 
 Leon didn't say anything for a second, just the faint creak of a chair shifting on his end. Then: "Out of fifty."
 
@@ -32,7 +36,7 @@ Leon didn't say anything for a second, just the faint creak of a chair shifting 
 
 "And Ru?" Sharper now, the question landing fast.
 
-He looked for him anyway, out of reflex, at the post where Ru should already have been standing. Nothing there but packed dirt and the shape of where someone usually stood. "Don't know yet. Haven't seen him since I logged out."
+He looked for him anyway, out of reflex, scanning the visible posts and tent entrances for the shape of a hobgoblin standing watch. Nothing there but packed dirt and the shape of where someone usually stood. "Don't know yet. Haven't seen him since I logged out."
 
 Leon let that sit a second longer than the others. "Okay." Just that, no push, but something in it said he'd heard exactly how much weight was under the word *don't*.
 
@@ -68,9 +72,9 @@ Below that, a second layer he hadn't seen before, the secondary combat lines tha
 **[PHYSICAL EVASION: 27] [MAGIC EVASION: 26]**
 **[PHYSICAL CC RESIST: 8%] [MENTAL RESIST: 8%]**
 
-*"That's the full picture. Magic AP fifty-two with the necklace bonus, Fortune crit rate at thirty-six percent, that's what a build that actually committed to Fortune looks like when it shows its work. Physical AP at twenty-two because Power sits at four and that's not changing. Fast, magic-heavy, high crit, and physically soft. Anyone who gets past evasion is going to remind me of that last part."*
+*"That's the full picture. Magic AP fifty-two with the necklace bonus, Fortune crit rate at thirty-six percent. That's what a build that actually committed to Fortune looks like when it shows its work. Physical AP at twenty-two because Power sits at four and that's not changing. Fast, magic-heavy, high crit, and physically soft. Anyone who gets past evasion is going to remind me of that last part."*
 
-Below the stats, a second layer resolved into view, a full outline of himself rendered in the same holographic light, each piece of gear sitting exactly where it actually sat on his body. The necklace glowed steady at his collar. A single earring caught light at one ear. The chest plate showed solid, real weight to it, Nab hadn't been exaggerating when he'd said it would feel like something. A belt sat cinched at his waist, unlit, no glow to it at all, worn but empty. Everything else, the second accessory slot, both legs, his boots, his gauntlets, his helmet, both weapon slots at his sides, sat outlined in dim, unlit grey.
+Below the stats, a second layer resolved into view, a full outline of himself rendered in the same holographic light, each piece of gear sitting exactly where it actually sat on his body. The necklace glowed steady at his collar. A single earring caught light at one ear. The chest plate showed solid, real weight to it. Nab hadn't been exaggerating when he'd said it would feel like something. A belt sat cinched at his waist, unlit, no glow to it at all, worn but empty. Everything else, the second accessory slot, both legs, his boots, his gauntlets, his helmet, both weapon slots at his sides, sat outlined in dim, unlit grey.
 
 *"Eleven slots and I've got four of them filled, and none of the four are a weapon."*
 
@@ -86,11 +90,11 @@ A pause, keys stopping. "Give me a minute, man, I'm not a walking wiki." A beat,
 
 *"Thanks. Real actionable."*
 
-"I need better than that eventually."
+"I need better than that eventually," he said, already turning back to study the empty slots.
 
 "You'll get better than that eventually. Give me some damn time, I found out this UI exists about ten minutes before you did." Something almost like a laugh under it. "I'm working on it."
 
-He dismissed the display, and the four dim, glowing pieces of himself folded back into nothing.
+He dismissed the display. The four dim, glowing pieces of himself folded back into nothing.
 
 Footsteps in the dirt behind him, uneven, favoring one side.
 
@@ -100,9 +104,9 @@ Ru stood a few feet off, one hand braced against a support pole, his right arm w
 
 *"He's alive."*
 
-"Ru." He crossed the distance in two steps, taking in the arm, the cut, the way Ru's weight had shifted off his right leg. "You're hurt."
+"Ru." He crossed the distance in two steps, close enough now to see the way Ru's weight had shifted off his right leg. "You're hurt."
 
-Ru's chin came up despite it, something stubborn setting into his jaw. "Sevish sent Ru." A beat. "Said someone should sit with the elder."
+Ru's chin came up despite it, stubborn in a way that dared anyone to argue. "Sevish sent Ru." A beat. "Said someone should sit with the elder."
 
 *"That's not the whole reason and we both know it. Sevish wanted eyes on me, or he wanted Ru somewhere that wasn't the fighting. Maybe both. Either way, I'm being managed."*
 
@@ -110,23 +114,25 @@ Ru's chin came up despite it, something stubborn setting into his jaw. "Sevish s
 
 "Ru is fine."
 
-"You're not fine, you're functional, those are different things." He didn't push it further. Ru wouldn't stop for it anyway.
+"You're not fine, you're functional. Those are different things." He didn't push it further. Ru wouldn't stop for it anyway.
 
-He started east, Ru falling in beside him despite the arm still pressed to his ribs.
+He stepped fully out of the tent. Ru fell in beside him despite the arm still pressed to his ribs.
 
-The ground here wasn't packed down the way it was near his own tent, looser dirt that gave slightly under each step, dust catching at the back of his throat under the smoke the further they went. He passed a supply crate on its side, contents not yet gathered up. A goblin he didn't recognize sat against a support post, wrapped forearm in his lap, watching them pass without getting up. The watch fires along this stretch burned low and untended, and past them the eastern line held nothing but planted stakes and open ground where a dozen goblins should have been standing.
+The ground here wasn't packed down the way it was near his own tent, looser dirt that gave slightly under each step, dust catching at the back of his throat under the smoke the further they went. He passed a supply crate on its side, contents spilled across the dirt, ceramic jars and wrapped bundles scattered where someone had dropped them or knocked them over in a hurry. A goblin he didn't recognize sat against a support post ten feet past that, wrapped forearm cradled in his lap, watching them pass without getting up. His eyes tracked their movement but he didn't speak.
+
+The watch fires along this stretch burned low and untended, orange embers glowing dull under layers of ash nobody had cleared away. Past them, the eastern line came into full view. Planted stakes stood alone, open ground stretching behind them where a dozen goblins should have been standing watch.
 
 *"Thirty-five. In the time it took Leon to fix a monitor and walk back out front."*
 
-Sevish came around the eastern supply line forty feet ahead, the battle axe across his back, Wyx half a step behind him and slightly to the left, and his expression said he'd been looking for Tatsuya specifically for a while now and had known exactly where to find him.
+Sevish came around the eastern supply line forty feet ahead, the battle axe across his back catching what little light cut through the haze. Wyx walked half a step behind him and slightly to the left. His expression said he'd been looking for Tatsuya specifically for a while now and had known exactly where to find him.
 
 *"Here we go."*
 
-Tatsuya held his ground. Not a challenge, nothing deliberately squared-up about it, just the fact that he didn't shift his weight or drop his chin when Sevish covered the distance between them, and the goblin caught that in the first two seconds and something in the set of his jaw went harder for it.
+Tatsuya held his ground. It wasn't a challenge, nothing deliberately squared-up about it, just the fact that he didn't shift his weight or drop his chin when Sevish covered the distance between them. The goblin caught that in the first two seconds. Something in his stance squared harder for it.
 
 "You were gone." Sevish's voice carried across the last few feet before he'd even fully closed the distance. "The whole attack. Gone."
 
-He stopped three feet away. He had a full head of height on Tatsuya in this body, broad shoulders and forearms that had been in real fights, scars across his face that said most of those fights had landed, and all of it angled down at Tatsuya the way it always did. The difference was that Tatsuya's breathing stayed even.
+He stopped three feet away. He had a full head of height on Tatsuya in this body, broad shoulders and forearms that had been in real fights, scars across his face that said most of those fights had landed. All of it angled down at Tatsuya the way it always did. The difference was that Tatsuya's breathing stayed even.
 
 "Thirty-five of my people are dead," Sevish said.
 
@@ -140,11 +146,11 @@ Sevish's grip flexed once on the axe shaft. "So you're challenging me."
 
 "If this was a challenge, you'd know it." Tatsuya held his eyes. "I told you I was working out a plan. You didn't wait for it. You made your own and ran it thirty-five times over. Those are your consequences, not mine. If anyone in this conversation should be angry right now, it's me."
 
-A voice dropped into his ear, pitched low, pitched just for him. "Oh, you're talking your shit, huh?" Leon, unmistakably grinning even through the comm.
+A voice dropped into his ear, pitched low, pitched just for him. "Oh, you're talking your shit, huh?" Leon, the grin unmistakable in how he said it.
 
 *"Not now."*
 
-Wyx's eyes moved between them, reading something in the silence, her expression unreadable. Sevish didn't move for a long moment, the axe hand tightening once more before it eased, deliberate, like he was setting something down rather than picking it up.
+Wyx's eyes moved between them, reading something in the silence. Her expression stayed unreadable. Sevish didn't move for a long moment, the axe hand tightening once more before it eased, deliberate, like he was setting something down rather than picking it up.
 
 "Careful," Sevish said, but the heat under it had shifted, curdled into something closer to respect than rage. "A goblin who says something like that to my face better be ready to back it in the pit." A beat. "When we're both standing in Myrrhwood again, you and I are going to test that mouth of yours properly."
 
@@ -152,11 +158,11 @@ Wyx's eyes moved between them, reading something in the silence, her expression 
 
 "You wouldn't." Something almost like a laugh, dry, humorless. "The gap between us right now, I could put you down before you finished the first word of whatever you were planning to say. That's not an insult. That's math." He rolled one shoulder, loosening it. "But I respect a mistake owned honestly, and I respect someone who doesn't fold when I lean on them. Both of those are true right now."
 
-The heat in him settled further, real acknowledgment underneath it now. "I shouldn't have kept sending them down that path once the pattern was already clear. That's mine to own, not yours." He said it flatly, the way an admission costs something to say out loud in front of a subordinate rather than to a mirror.
+Something in him settled further, real acknowledgment underneath it now. "I shouldn't have kept sending them down that path once the pattern was already clear. That's mine to own, not yours." He said it flatly, the way an admission costs something to say out loud in front of a subordinate rather than to a mirror.
 
-Tatsuya gave him room for it, didn't push, didn't gloat.
+Tatsuya gave him room for it. Didn't push, didn't gloat.
 
-Sevish's jaw shifted, something working behind it, and by the time he spoke again the contrition had already started curdling into something else, something almost pleased with itself. "Still." A short huff, not quite a laugh yet. "I pushed them down there. I lost men." The huff deepened, rolling into a real chuckle, heavy and low. "But how much you think those bastards have left after all that?" He rolled his shoulders back, some of his usual size returning to his frame. "My men aren't weak. Three, four pushes deep, those bastards should be running on fumes right now."
+Something shifted in how Sevish stood, working itself out before he spoke again. By the time he did, the contrition had already started curdling into something else, something almost pleased with itself. "Still." A short huff, not quite a laugh yet. "I pushed them down there. I lost men." The huff deepened, rolling into a real chuckle, heavy and low. "But how much you think those bastards have left after all that?" He rolled his shoulders back, some of his usual size returning to his frame. "My men aren't weak. Three, four pushes deep, those bastards should be running on fumes right now."
 
 *"He's not wrong."*
 
@@ -176,9 +182,9 @@ Sevish's grin came slow and real. "Fifteen minutes." He said it like he was weig
 
 "Shiv reached out to me." He let the words land slow, deliberate, the same register he'd use for any fact he actually believed. "Deep meditation. He doesn't ask, he pulls, and there's no fighting that pull once it starts. I was gone the second it happened, and I didn't come back until he was done with me."
 
-Something in the set of Sevish's shoulders eased, the particular quiet that came from a goblin encountering the name Shiv directly and having no real ground to argue against it. Wyx's gaze lingered on him a beat longer than the moment needed.
+Something in the set of Sevish's shoulders eased, the kind of quiet that came from a goblin encountering the name Shiv directly and having no real ground to argue against it. Wyx's gaze lingered on him a beat longer than the moment needed.
 
-Sevish's jaw worked once. "Eastern line needs to be rebuilt."
+Sevish's weight shifted back onto his heels. "Eastern line needs to be rebuilt."
 
 "I'll be there."
 
@@ -186,7 +192,7 @@ Sevish's jaw worked once. "Eastern line needs to be rebuilt."
 
 Tatsuya gave that a single nod.
 
-Sevish held his gaze one beat past necessary, then his eyes shifted, something else surfacing behind them. "Before that." He glanced toward Wyx, then back. "You said you had a plan. Let's hear it."
+Sevish held his gaze one beat past necessary. Then his eyes shifted, something else surfacing behind them. "Before that." He glanced toward Wyx, then back. "You said you had a plan. Let's hear it."
 
 *"Here we go again, different reason this time."*
 
@@ -196,25 +202,25 @@ Sevish's stance shifted, attention sharpening the way a goblin's did around anyt
 
 "A warrior's coming toward this camp. North road, coming down. A mage." He let the next word land on its own. "Elven."
 
-The reaction was immediate and exactly what he'd expected, Wyx's brow lifting, a couple of goblins nearby trading a look that wasn't hostile so much as baffled, the kind of look people gave a claim that didn't fit anything they already believed about the world. Elves didn't help goblins. Elves barely tolerated goblins existing in the same conversation.
+The reaction was immediate and exactly what he'd expected. Wyx's brow lifted. A couple of goblins nearby traded a look that wasn't hostile so much as baffled, the kind of look people gave a claim that didn't fit anything they already believed about the world. Elves didn't help goblins. Elves barely tolerated goblins existing in the same conversation.
 
 *"Good. Let them be confused instead of asking the follow-up questions I can't answer honestly."*
 
 "I don't expect you to trust it blind," he said, before anyone could push back out loud. "I'm not asking you to. I'm telling you what's coming, and when she gets here, you'll see it for yourselves."
 
-Nobody but Tatsuya said the name Shiv plainly, and even now a few heads turned slightly at the ease of it, like the word itself carried weight everyone else had learned to handle more carefully.
+Nobody but Tatsuya said the name Shiv plainly. Even now a few heads turned slightly at the ease of it, like the word itself carried weight everyone else had learned to handle more carefully.
 
 "After that," he said, moving past it before the moment could get bigger than it needed to be, "here's the actual plan. Small team. Me, Ru, and two more who can gas a space." He looked toward the two goblins he'd fought alongside before, deliberately, and got the name wrong on purpose to see if anyone would catch it. "Rutt and Nab, if they're willing."
 
-"Rott," Nab said flatly, and a couple of the others actually laughed, real and easy, the first real laugh Tatsuya had heard out of this camp since he'd logged back in.
+"Rott," Nab said flatly. A couple of the others actually laughed, real and easy, the first real laugh Tatsuya had heard out of this camp since he'd logged back in.
 
 "Rott." He let the correction land without making a thing of it. "If they've got a war tent down there, we gas them out. Force them into the open. Once they're out, Shiv's given me something that turns the ground under them into a real problem." He didn't explain further than that. "We send them where they need to go."
 
-Sevish's teeth showed, something fierce and satisfied in it. "I like the sound of that." A beat, and the fierceness sharpened into something more restless. "If it doesn't work, I'm coming down myself. I've been sitting on my hands up here long enough."
+Sevish's teeth showed, something fierce and satisfied in it. "I like the sound of that." A beat. The fierceness sharpened into something more restless. "If it doesn't work, I'm coming down myself. I've been sitting on my hands up here long enough."
 
 "Brother." Wyx's hand landed on his arm before he'd finished the sentence. "You go down there and it's not a rescue anymore, it's two problems instead of one."
 
-Sevish didn't argue it, which told Tatsuya more about how close to the edge he actually was than anything he'd said out loud.
+Sevish didn't argue it. That told Tatsuya more about how close to the edge he actually was than anything he'd said out loud.
 
 He stepped away from the group, far enough that the words wouldn't carry, and dropped his voice. "Leon. I need Arya's friend code. She's the friend I told the camp about."
 
@@ -222,13 +228,13 @@ A pause, longer than the last one. "Wait." Something shifted underneath the word
 
 "That's the plan. Why."
 
-"Because the deal was she wasn't supposed to find out this place could run HGO on the old pods at all, man. That's a real thing we agreed on. She's been dumping money into J-Link this whole time thinking it's her only option, and if she's in here with you, in my setup, she's gonna put it together fast." A beat, quieter. "When did she get into this deep."
+Leon didn't let the question sit. "Because the deal was she wasn't supposed to find out this place could run HGO on the old pods at all, man. That's a real thing we agreed on. She's been dumping money into J-Link this whole time thinking it's her only option, and if she's in here with you, in my setup, she's gonna put it together fast." A beat, quieter. "When did she get into this deep."
 
 *"He thinks this is about the pods. It was never about the pods."*
 
 "She's not going to care about the pods, Leon. She didn't ask you for pod access. She asked for a seat at Winter Bash. That's the whole deal, that's all she's ever wanted out of any of this." He let that sit a second. "You can worry about the two of you sorting out arcade politics later. Right now I need the code."
 
-Leon didn't answer right away, and when he did, some of the tension had gone out of it, replaced by something wry. "Yeah. Yeah, alright, that tracks, actually." A short laugh, more relief in it than humor. "She's right here. Gimme a second."
+Leon didn't answer right away. When he did, some of the tension had gone out of it, replaced by something wry. "Yeah. Yeah, alright, that tracks, actually." A short laugh, more relief in it than humor. "She's right here. Gimme a second."
 
 Muffled voices on the other end, Leon's and a lighter one under it. Then: "Sending it now. And hey," dry again, already moving past it, "same channel or private line? System's asking."
 
@@ -264,9 +270,9 @@ Her response came back after a pause that was longer than the typing delay expla
 
 He closed the window.
 
-The camp moved around him, goblins cycling between the supply line and the watch posts, fewer of them than there should have been, the gaps in the rotation visible to anyone who knew what a full watch rotation was supposed to look like. He did, by now.
+The camp continued moving around him. Goblins cycled between the supply line and the watch posts, fewer of them than there should have been. The gaps in the rotation were visible to anyone who knew what a full watch rotation was supposed to look like. He did, by now.
 
-Leon's voice came back through, quieter than before, the particular flatness of someone who'd just read something they weren't entirely sure what to do with.
+Leon's voice came back through, quieter than before, carrying that flatness of someone who'd just read something they weren't entirely sure what to do with.
 
 "Hey," Leon said.
 
