@@ -10,14 +10,14 @@ The smell hit him before anything else could catch up, rushing into his lungs th
 
 "That's one thing I'm never gonna get used to." He said it to no one in particular, already moving toward the gear laid out near the center post. "Got to start logging out somewhere that doesn't smell like this."
 
-He pulled the leather chest plate over his shoulders and cinched it tight, the worn buckles catching on the second try before the fit settled. The weight of it came across his chest and stayed there, heavier than it looked for something this plain.
+The leather chest plate was already on him, the buckles sitting loose the way they'd been since Wyx handed it over. Tatsuya found the straps and cinched them down properly, the worn leather pulling snug against his ribs on the second try. The weight of it settled across his chest for real now, heavier than it looked for something this plain.
 
 **[GOBLIN LEATHER CHEST PLATE]**
 **[+1 ENERGY] [COMMON]**
 
 "This thing carries a bit of weight." He rolled one shoulder, testing the range. "Might have to stick with light armor if I'm already complaining."
 
-He got the straps settled, adjusted the belt, and then the blue UI materialized in front of him without being called, expanding outward from a point in the tent's dim air. A 3D model of his character rendered fully in place, lit from the inside out, turning the canvas around him a dim electric blue. The elder title had done something to how the interface rendered. He hadn't known it would do that.
+He adjusted the belt, and then the blue UI materialized in front of him without being called, expanding outward from a point in the tent's dim air. A 3D model of his character rendered fully in place, lit from the inside out, turning the canvas around him a dim electric blue. The elder title had done something to how the interface rendered. He hadn't known it would do that.
 
 **[CHARACTER: TDRAG]**
 **[RACE: SHIV GOBLIN]**
@@ -54,25 +54,27 @@ A sound came through on the line, something brief and mechanical from wherever L
 
 "Yeah." Tatsuya kept his eyes on the secondary stat display. "My character sheet just pulled up a second layer I haven't seen before. Secondary combat stats. I need to know what I'm looking at." He read off the lines, one at a time, labels and numbers.
 
-A pause. "Okay." Not the pause of someone reaching for an answer they already had. "Give me a second, I'm not going to have everything memorized." Keys on Leon's end, then a longer wait.
+Keys on Leon's end, and then his voice came back even, no fumbling on the first one. "Physical AP." He landed on it without hesitation. "I know this one. Arya made me sit through three hours of build theory the week before the Guilds bracket. Physical AP is your direct strike damage, Power and Speed combined, weighted toward Power." More keys. "Your twenty-two is low because Power hasn't moved from four. Not going anywhere without a discipline point in it."
 
-"Alright." Leon's voice came back with the note of someone reading off something he'd just found. "Physical AP is direct strike damage, Power and Speed combined. Your twenty-two is low because Power hasn't moved, and it's not moving without a discipline point going into it." A beat. "Magic AP is wisdom-driven. Fifty-two tracks if the necklace boosted Wisdom by five. Your magic output's real. Your physical output isn't."
+"Magic AP," Tatsuya said.
+
+"That one I don't need to look up." The dry quality in Leon's voice, the kind that showed up when he was right about something he'd absorbed against his will. "Wisdom-driven. It's the caster number, the one everything in Arya's kit scaled off of for the whole Guilds run. Fifty-two with the necklace bonus. That's real output. Your magic ceiling's your actual game plan."
 
 "Crit Rate," Tatsuya said.
 
-"Fortune-derived. Thirty-six percent makes sense with the earring." More keys. "Physical Evasion's Speed. Magic Evasion comes from Wisdom. Twenty-seven and twenty-six at your level. Functional. Not a wall, but you have something to work with there."
+"Fortune. Thirty-six percent tracks with the earring." More keys, a different quality to them, something he was actually pulling up for the first time. "Evasion I'm less sure on for goblin specifically. Give me a second." The wait stretched longer than the others. "Physical Evasion's Speed. Magic Evasion comes from Wisdom. Twenty-seven and twenty-six at your level. Functional. Not going to absorb hits, but you've got room to work with."
 
 Tatsuya's gaze settled on the last line. He already had a feeling about it.
 
 "CC Resist," he said.
 
-"Yeah." Leon's voice carried the dry quality he used for things that were true and uncomfortable. "Physical CC Resist comes from Power and Courage. Both of yours are sitting at four. Eight percent is about what you'd expect."
+"Yeah." Leon's voice didn't change register, the same dry quality he used for things that were true and uncomfortable. "Physical CC Resist is Power and Courage combined. Both of yours are at four. Eight percent is about what that math gets you."
 
-"So if anything gets in close and lands a root." The math was obvious. He said it aloud anyway, working through it.
+"So if anything gets in close and lands a root." The answer was already there. He said it aloud anyway, working through it.
 
 "You're going to feel the full duration," Leon said.
 
-Tatsuya set his hand flat against the tent's center post and left it there, the wood cold under his palm. Glass frame. Magic ceiling that was real, physical output that wasn't going anywhere without discipline points he didn't have, evasion as the only real answer to anyone who closed the distance. If something got past the evasion, CC Resist meant it would hold clean. He ran it once and let it settle.
+Tatsuya set his hand flat against the tent's center post and left it there, the wood cold under his palm. Glass frame. Magic ceiling that was real, physical output that wasn't going anywhere without discipline points he didn't have, evasion as the only real answer to anyone who closed the distance. If something got past the evasion, CC Resist meant it would hold clean. He ran the picture once and let it settle.
 
 "Squishy as hell," he said, more to himself than to Leon. He wasn't alarmed by it, just reading the number for what it was. "But if I can stay out of reach and keep the magic output going, that's the build. The evasion's the entire defense plan."
 
