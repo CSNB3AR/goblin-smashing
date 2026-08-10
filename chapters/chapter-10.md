@@ -39,26 +39,52 @@ Below the primary stats, a second layer he hadn't seen before, the secondary lin
 **[PHYSICAL EVASION: 27] [MAGIC EVASION: 26]**
 **[PHYSICAL CC RESIST: 8%] [MENTAL RESIST: 8%]**
 
-Tatsuya looked at the numbers and let what they meant actually settle. Magic AP at fifty-two with the necklace doing the heavy lifting. Crit Rate sitting at thirty-six percent because Fortune had climbed. Evasion numbers decent for the level. Physical AP at twenty-two because Power hadn't moved and wasn't moving. He was a glass frame with a real ceiling and no armor to catch anything that got past his dodge. The picture was clear.
+Tatsuya held on the display for a moment.
 
-"Gonna be squishy as hell," he said to himself. He wasn't bothered by it, not yet. "But if I can stage attacks like I did on those mobs and keep stacking debuffs, I can see this working."
+He'd heard these terms before: Magic AP, Crit Rate, Evasion. Mostly in passing on the pro streams, the shorthand of talent breakdowns and pre-match analysis where the commentators assumed the audience already knew the framework. That was a different context. That was pro PvP, level-capped players with research teams and build calculators and years of footage to pull from. None of that mapped cleanly onto what he was looking at: a level-seven Shiv Goblin, a kit he'd never planned to run, a race he had zero reference notes on because he'd been planning to start as an Elf mage and had never thought to research anything else. Twenty-two in one column, fifty-two in another. The gap between those two numbers was obvious. What the gap meant, concretely, in the middle of a live situation with a camp taking damage and four enemy nameplates down the hill, that was harder.
 
-He looked at his ability bar. The gas ability sat beside the flare, and something about how they sat next to each other had been sitting funny at the back of his mind for a while now, the way a hand of cards almost combined into something you couldn't name until you actually played it. The gas stacked. The flare ignited. He didn't have the full picture of what that added up to yet, but the shape of it was starting to form in a way he couldn't ignore.
+"Hey, Leon." He said it into the tent's dim air.
 
-"Hey, Leon." He said it aloud toward the tent's dim air.
-
-A creak came through, faint and familiar, the specific sound Leon's chair made when he leaned back too far. Then the voice, real and present, no distance on it, layered into his hearing the same way Eryndal's ambient sound was.
+A sound came through on the line, something brief and mechanical from wherever Leon was set up, and then the voice arrived right behind it.
 
 **[OPERATOR'S DESK — LEON]**
 **[EXTERNAL COMMS ACTIVE]**
 
 "Yeah, what's up? You need something?" Easy, unhurried, nothing sharpened under it yet.
 
-"Yeah." Tatsuya glanced toward the tent flap, toward the gray haze visible through the gap. "First thing, when you get a chance, I need a few details on the Book of Veil. And second, how the secondary combat stats work in practice once a real fight's live." He paused. "Also, if you haven't already caught it on the monitors, the camp took a hit while I was out. I don't have the full picture yet, but it's not good."
+"Yeah." Tatsuya kept his eyes on the secondary stat display. "My character sheet just pulled up a second layer I haven't seen before. Secondary combat stats. I need to know what I'm looking at." He read off the lines, one at a time, labels and numbers.
 
-"Yeah, for sure." Leon's tone shifted, the easy quality tightening up around something more focused. "I'll dig into it properly and give you what I can. I'm not up to speed on all of it, but if you're the player I'm backing, the least I can do is help where I can."
+A pause. "Okay." Not the pause of someone reaching for an answer they already had. "Give me a second, I'm not going to have everything memorized." Keys on Leon's end, then a longer wait.
 
-"Bet." He kept his eyes on the secondary stat line, specifically the CC Resist. Eight percent. Nothing. "One more thing. Can you check if HGO's dropped any patch notes or updates? A lot of what's happening with this garrison system, this World Quest, it all feels like new space. Someone told me we might be in a rare window." He didn't name her. "I want to know if the update is still rolling out."
+"Alright." Leon's voice came back with the note of someone reading off something he'd just found. "Physical AP is direct strike damage, Power and Speed combined. Your twenty-two is low because Power hasn't moved, and it's not moving without a discipline point going into it." A beat. "Magic AP is wisdom-driven. Fifty-two tracks if the necklace boosted Wisdom by five. Your magic output's real. Your physical output isn't."
+
+"Crit Rate," Tatsuya said.
+
+"Fortune-derived. Thirty-six percent makes sense with the earring." More keys. "Physical Evasion's Speed. Magic Evasion comes from Wisdom. Twenty-seven and twenty-six at your level. Functional. Not a wall, but you have something to work with there."
+
+Tatsuya's gaze settled on the last line. He already had a feeling about it.
+
+"CC Resist," he said.
+
+"Yeah." Leon's voice carried the dry quality he used for things that were true and uncomfortable. "Physical CC Resist comes from Power and Courage. Both of yours are sitting at four. Eight percent is about what you'd expect."
+
+"So if anything gets in close and lands a root." The math was obvious. He said it aloud anyway, working through it.
+
+"You're going to feel the full duration," Leon said.
+
+Tatsuya set his hand flat against the tent's center post and left it there, the wood cold under his palm. Glass frame. Magic ceiling that was real, physical output that wasn't going anywhere without discipline points he didn't have, evasion as the only real answer to anyone who closed the distance. If something got past the evasion, CC Resist meant it would hold clean. He ran it once and let it settle.
+
+"Squishy as hell," he said, more to himself than to Leon. He wasn't alarmed by it, just reading the number for what it was. "But if I can stay out of reach and keep the magic output going, that's the build. The evasion's the entire defense plan."
+
+"Pretty much," Leon said. "Goblins aren't designed to eat hits."
+
+Tatsuya looked at his ability bar. The gas icon sat beside the flare. He'd watched them fire in sequence during the push, the cloud going first and then the flare dropping into it, and that order had snagged somewhere at the back of his head since. The gas stacked something on targets. The flare ignited. He didn't know what they added up to together, just that the combination sat in the back of his head in a way that wouldn't let go. He wasn't going to force it into something before it was ready.
+
+He dropped his hand from the post. "Two other things. If you haven't caught it on the monitors, the camp took a hit while I was out. I don't have the full picture yet, but it's not good. And when you get a chance, whatever you can find on the Book of Veil."
+
+"Got it." Leon's tone shifted, the easy quality tightening up around something more focused. "I'll send notes on the Veil when I have something solid. Camp damage I can see from here."
+
+"Bet." Tatsuya glanced toward the tent flap, toward the gray haze visible through the gap. "One more thing. Can you check if HGO's dropped any patch notes or updates? A lot of what's happening with this garrison system, this World Quest, it all feels like new space. Someone told me we might be in a rare window." He didn't name her. "I want to know if the update is still rolling out."
 
 "Give me a sec." Keys on Leon's end, fast and deliberate, then a pause. "Okay, looking at it. The Crystal League expansion is dripping small updates throughout the game because of how big it is, but they're not dropping full patch notes until after the seventy-two-hour sale window closes." Another pause. "Which is about sixteen hours from now, based on when the Worlds broadcast wrapped."
 
@@ -174,7 +200,7 @@ Sevish jerked his chin toward Rott. "Kesh went down close enough to count. Four 
 
 Sevish's teeth showed. "Then let's not waste it."
 
-Wyx's gaze stayed on Tatsuya a beat past when it needed to. He noticed without acknowledging it.
+Wyx's gaze stayed on him a beat past when it needed to, her attention landing in a way that was specific to him rather than to the room. He noticed without acknowledging it.
 
 ---
 
