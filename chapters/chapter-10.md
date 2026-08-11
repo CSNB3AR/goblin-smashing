@@ -8,7 +8,7 @@ His jaw tightened before he'd consciously finished the thought. "I was supposed 
 
 The smell confirmed it. Smoke, not the usual rotting-camp kind, but something sharper underneath, the bite of burned material rather than cook fire. His body turned toward the tent entrance before the thought caught up. He stopped himself, turned back. Get the gear on first.
 
-Two items materialized on him as the game registered his full presence: the Gambler's Earring settling into weight on his left ear, small and deliberate, like a pair of dice clipped to his lobe, and the Call of the Bones necklace dropping onto his chest with a low warmth, heavier than it looked, the bone pendant swinging once before it stilled. The leather chest plate was already there from before the log-out, buckles sitting loose. Tatsuya found the straps and cinched them down, the worn leather pulling snug against his ribs on the second try.
+Two items resettled on him as the game registered his full presence: the Gambler's Earring finding his left ear again, the small specific weight of the thing, the single die of it pressing against his lobe in a way he'd half-forgotten across the session out. The Call of the Bones necklace landed a breath behind, warmth returning low against his sternum, the bone pendant swinging once and going still the way it always did. The leather chest plate was already there from before the log-out, buckles sitting loose. Tatsuya found the straps and cinched them down, the worn leather pulling snug against his ribs on the second try.
 
 **[GOBLIN LEATHER CHEST PLATE]**
 **[+1 ENERGY] [COMMON]**
@@ -52,15 +52,15 @@ A sound came through on the line, brief and mechanical from wherever Leon was se
 
 Tatsuya read off the lines. Labels and numbers, one at a time. Didn't add anything to it.
 
-Keys on Leon's end, and then his voice came back even, no fumbling on the first one. "Physical AP." He landed on it without hesitation. "I know this one. Arya made me sit through three hours of build theory the week before the Guilds bracket. Physical AP is your direct strike damage, Power and Speed combined, weighted toward Power." More keys. "Your twenty-two is low because Power hasn't moved from four. Not going anywhere without a discipline point in it."
+Keys on Leon's end, the particular sound of someone opening a new tab. "Physical AP." A pause, longer than the others, reading as he went. "Power and Speed combined, weighted toward Power." More keys. "Your twenty-two is low. Power at four is why. Not moving without a discipline point in it."
 
 "Magic AP," Tatsuya said.
 
-"That one I don't need to look up." The dry quality in Leon's voice, the kind that showed up when he was right about something he'd absorbed against his will. "Wisdom-driven. It's the caster number, the one everything in Arya's kit scaled off of for the whole Guilds run. Fifty-two with the necklace bonus. That's real output. Your magic ceiling's your actual game plan."
+"That one I know." The dry quality in Leon's voice shifted into something that had weight behind it. "Arya ran full caster for the whole guild bracket. Three hours before their first match going over her skill trees. I didn't ask to know this, but I know it. Magic AP is wisdom-driven. It's the caster number, the one everything scaled off of in her kit. Fifty-two with the necklace bonus." Keys. "That's real output. That's your actual game plan."
 
 "Crit Rate," Tatsuya said.
 
-"Fortune. Thirty-six percent tracks with the earring." More keys, a different quality to them, something he was actually pulling up for the first time. "Evasion I'm less sure on for goblin specifically. Give me a second." The wait stretched longer than the others. "Physical Evasion's Speed. Magic Evasion comes from Wisdom. Twenty-seven and twenty-six at your level. Functional. Not going to absorb hits, but you've got room to work with."
+"Fortune-based." Less certain now, the easy authority pulling back. "I saw it in some of her pre-match notes, but she wasn't running a crit build. Thirty-six with the earring sounds right." More keys, a different quality to them, something he was pulling up for the first time. "Evasion I'm less sure on for goblin specifically. Give me a second." The wait stretched longer than the others. "Physical Evasion's Speed. Magic Evasion comes from Wisdom. Twenty-seven and twenty-six at your level. Functional. Not going to absorb hits, but you've got room to work with."
 
 Tatsuya's gaze settled on the last line. He already had a feeling about it.
 
@@ -120,11 +120,9 @@ Leon's voice came in low through the HUD corner, the same easy register he used 
 
 Tatsuya kept walking, smoke still sharp in the back of his throat. "That's on me. I was supposed to be out ten."
 
-"You're fine." The keys on Leon's end came through underneath it, quick. "They came up the hill twice while you were out. Got to the gates both times before they turned around."
+"You're fine." A brief pause on Leon's end, something adjusting in it. "I watched them come up at least twice. They turned back both times. Beyond that I don't have clean reads on what happened down there."
 
-The burn marks were on three panels of tarp along the northern line, visible even in the dark, the scorched edges curling away from whatever had hit them. Not random. They'd been aimed at the boundary. "Gold tags ran them off both times?"
-
-"Sevish and Wyx." A pause. "Second push they actually engaged for a bit. That's where the breach in the eastern palisade happened."
+The burn marks were on three panels of tarp along the northern line, visible even in the dark, the scorched edges curling inward where something had hit hot. He read them without saying anything out loud. Aimed at the boundary. Not a fire that got away from a cook setup.
 
 The full width of the warband that had been cycling watch rotation earlier had compressed into clusters of three and four. Goblins working repairs rather than standing posts, the momentum from before replaced by something that sat lower and moved slower. Not broken, just recalibrated toward what they'd already absorbed.
 
