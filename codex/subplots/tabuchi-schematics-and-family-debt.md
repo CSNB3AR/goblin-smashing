@@ -15,7 +15,7 @@ Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, frame
 - Eren personally leaning on Tatsuya (already active, Chapter 1).
 - The Tabuchis' threat of arson against the Nakamura Grand (established, not yet deployed on the page).
 - Chiyo's own protective ultimatum about the Tochi decision, tangential but related pressure (see `codex/subplots/tochi-academy-return.md`).
-- The old draft's darker implication of Tabuchi complicity in Daichi's death (superseded framing, would need to reach the reader through Tatsuya's own inference, not a direct scene).
+- Tabuchi complicity in Daichi's death, confirmed as an active, intended direction (previously flagged as superseded, that flag is lifted). Reaches the reader only through Tatsuya's own inference, never a direct reveal scene or confession. The exact mechanism of death stays unstated even once this lands, it's a live suspicion, not a solved mystery.
 
 ## The debt, in figures (locked)
 

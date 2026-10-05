@@ -38,6 +38,10 @@ See `codex/objects/haya-eb.md` for his scooter, and `codex/objects/hgo-access-dr
 
 See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`, `codex/characters/chiyo-nakamura.md`, `codex/characters/momo-kazehaya.md`, `codex/characters/taji-kazehaya.md`.
 
+## Why HGO, underneath the obvious reasons
+
+The surgery money and the Eren rivalry are what he'd tell you if you asked. Underneath both, not yet conscious, not yet nameable, HGO was the world his father spent his last years working toward, with Kazuku, before dying. Some part of Tatsuya is drawn to the game for reasons that have nothing to do with money or Eren, something closer to why he gravitates toward the PvE/exploration side rather than just grinding the ladder. He doesn't know this yet. It surfaces gradually, alongside the Kazuku reveal, never as a stated realization early on. See `codex/characters/daichi-kazehaya.md` and `codex/characters/kazuku.md`.
+
 ## Key relationships and threads
 
 - `codex/subplots/tabuchi-schematics-and-family-debt.md` — the ongoing pressure from Eren and Kazuto Tabuchi.
