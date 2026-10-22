@@ -23,6 +23,10 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 - The WattsUp Corporation sponsors HGO, which is why the finale plays on the store screen.
 - Hearthfire, Season Zero, Siege, Crownfall, the 72-hour lock, shillings, Legacy Points, Lumi and open beta are used everywhere. The Siege Pro League is never mentioned in Chapters 1 to 10.
 
+## Return to the body
+
+**Return to the body after information.** After any tactical, mechanical or information-heavy passage (roughly every two or three paragraphs of analysis, system text, exposition, or another character explaining something), bring Tatsuya back into his body with a small specific cue, not only after dialogue: rubbing his eyes, squinting at the fluorescent light, a wince, a loc falling or a hand raked through his hair, a brow or jaw change, hands flat on a surface, a shift of weight, a breath. In-game, use the goblin body (cold, claws, smaller frame). Vary the cues and do not repeat one more than a couple of times in a chapter. Check `style-guide/physical-expression-thesaurus.md` first.
+
 ## Never changes
 
 - The author's rough-draft phrasings, including deliberate roughness such as `the Loop icon buried on top of each other with some HGO Notifications floating`.

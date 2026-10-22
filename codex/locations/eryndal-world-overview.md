@@ -12,6 +12,10 @@
 
 **Racial standing differs by continent.** In Lunarest, elves receive special treatment under an elven law, while Beastfolk, goblins and dwarves carry bad infamy. Other continents differ.
 
+## The Snowy Plains walled town (Season Zero finale site)
+
+A small walled medieval city-state in the snowy plains of Lunarest, Arendelle-like, with a city hall, small houses and bunkers. The town is unnamed, name left open. The only pass between Lunarest and the plains runs into it, and the plains have deep caverns that offer an unused flank. It is where the Battle of the Snowy Plains is fought in-world (see `codex/lore/hearthfire-expansion-and-seasons.md`).
+
 ## The regions
 
 - **Lunarest**: central hub, human-dominated, the Season Zero continent. Where Tatsuya's goblin glitch drops him: Lunarest Outskirts. Seat of the royal court.

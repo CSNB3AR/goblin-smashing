@@ -73,7 +73,7 @@ Okay. So them attacking us had triggered a new quest. I dismissed the notificati
 **[GAMBLER'S GAMBIT – PASSIVE]**
 **[BONE SURGE – PASSIVE]**
 
-Four points Wisdom, six Fortune. That was the build. Speed was sitting at nine, and that was enough for now. I dismissed the screen and looked back at Sevish, my stance settling back to even.
+I squinted against the glare of it, the blue washing the firelight flat across my eyes. Four points Wisdom, six Fortune. That was the build. Speed was sitting at nine, and that was enough for now. I dismissed the screen and looked back at Sevish, my stance settling back to even.
 
 My eyes had caught on Gambler's Gambit one more time before the screen faded, and something close to a real grin threatened this time. I still hadn't made a single actual yen off any of this, whatever chat thought about that. I wondered if Gambit even procced off a player kill the same way it did a mob. I'd never had a reason to test it. Four raiders with real gear on their backs were about to be the first.
 
@@ -179,9 +179,11 @@ Thirty days. I set the phone down on the sink's edge and stared at it. That mean
 
 A quick search turned up the rest of it in under a minute, a forum thread somebody had laid out plain: HGO's official channel auto-hosts any stream actively progressing a World Quest, standing platform practice, free exposure handed to whoever happened to be live when the algorithm noticed, not a permanent slot, and not something that followed me back online automatically. Coming back live after a break meant starting closer to zero and climbing again, not picking up where I'd left off.
 
+I rubbed my eyes with the heel of my hand, the bathroom's fluorescent buzz needling at them.
+
 It made sense why they hosted World Quests. It also meant a lot of eyes landed on whoever happened to be live when the algorithm noticed. I picked the phone back up, my grip firming around it.
 
-Subs themselves weren't much once I actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around and a special chat tag, unless the streamer set their own perks, nothing that let them type more than any other viewer.
+Subs themselves weren't much once I actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around and a special chat tag, unless the streamer set their own perks, nothing that let them type more than any other viewer. I pinched the bridge of my nose, a dull ache starting up behind my eyes.
 
 It would be nice to have that now. I couldn't even read that wave of mess earlier. Maybe I could get a setting to limit spam chat or something faster. Waiting thirty days to say anything was going to be horrible. I turned the phone over in my hand, once. Lesson for next time, I supposed.
 
@@ -221,7 +223,7 @@ I was about to pocket my phone when a Loop headline pushed past everything else 
 
 Haruto was leaving. Actually leaving. I went still in the middle of the bathroom, caught off guard by it.
 
-The post underneath was short and careful, nothing like the messy public blowups Loop usually ran on. Haruto thanked Tochi and Kansai Black Lotus for the opportunity, said he still respected what the guild had tried to build, and then, without naming Eren directly, said he wasn't willing to keep carrying a guild whose own signature build he'd started to suspect wasn't built by the person taking credit for it. Replies underneath were already split between people defending Eren and people reading between the lines exactly the way I was.
+The post underneath was short and careful, nothing like the messy public blowups Loop usually ran on. Haruto thanked Tochi and Kansai Black Lotus for the opportunity, said he still respected what the guild had tried to build, and then, without naming Eren directly, said he wasn't willing to keep carrying a guild whose own signature build he'd started to suspect wasn't built by the person taking credit for it. Replies underneath were already split between people defending Eren and people reading between the lines exactly the way I was. I read it a second time, a wince tugging at one side of my face.
 
 He knew. My hand came out of my pocket and curled into a loose fist at my side. Maybe not everything, but enough. And he still hadn't said the name.
 

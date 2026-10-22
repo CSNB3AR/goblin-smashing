@@ -84,7 +84,7 @@ She pulled her phone out and crossed the concrete between us without hesitating,
 
 A guild chat log. The threads went back several hours, a dozen different names cycling through, and I recognized a handful of them from clips I hadn't managed to dodge.
 
-That wasn't good at all.
+That wasn't good at all. The overhead light threw a glare off her screen and I squinted through it.
 
 The first thing that landed as I read the chat was that it was actively talking about my whereabouts. And they had already been tracking my position off my own stream footage, mapping me back to the location near the goblin camp.
 
@@ -93,6 +93,8 @@ The first thing that landed as I read the chat was that it was actively talking 
 "I was invited to this chat a while back. It holds some of the best players, guild leaders in Japan. I made a few alliances with the guilds before Fire Festival event. Now it's just something I sit in." She didn't say much after that. Her tone changed, as if she'd cut herself off.
 
 "The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just allied with a player in a game. Aside from Yuna, you're living in rare space. Also, with Crownfall and the new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
+
+A cold prickle ran down the back of my neck.
 
 She locked the screen and dropped the phone back to her side.
 
@@ -140,7 +142,7 @@ I met her eyes. "Give me some of what you've got. Damage side."
 
 She shifted slightly, the same way someone settled in when they were about to actually talk through something they knew. "Static Lash is my main. Instant cast, good range, scales on Wisdom." She went through it without pausing to check the delivery, not reciting, more like running down what was already in hand, no particular direction attached. "Tempest Fan at tier two. Storm Shear at tier three." A brief pause. "Stormwall field for zone control. I use it more for positioning than raw damage."
 
-I listened without interrupting.
+I listened without interrupting, arms folded, one thumb tapping slow against my ribs.
 
 I looked at her. "Can you cast Hushveil?"
 
@@ -205,6 +207,8 @@ Leon moved to the operator's desk that sat on a podium above the pod. It took st
 "Yeah," I said. "That'd actually help."
 
 Leon nodded once, glancing toward the inspector's equipment still laid out near the monitor bay. "One more thing. The stream might be able to run for an hour before I cut it off. That's probably what cooked the monitor. As long as you don't run too long, we should be fine."
+
+I rubbed the back of my neck, the pod's warmth still clinging to my skin.
 
 He leaned back in the chair. "We normally close at nine, but play it out. I don't care how long it takes. When you get to a good stopping point, you stop."
 

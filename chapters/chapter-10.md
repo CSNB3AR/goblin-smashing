@@ -54,9 +54,13 @@ I read off the lines. Labels and numbers, one at a time. Didn't add anything to 
 
 Keys on Leon's end, the sound of someone opening a new tab. "Physical AP." A pause, longer than the others, reading as he went. "Power and Speed combined, weighted toward Power." More keys. A longer pause. "I think. Hold on, let me double-check that." The keys went faster, then stopped. "Yeah. Power-weighted. Your twenty-two is low. Power at four is why. Not moving without a discipline point in it."
 
+I looked down at my hands, the claws small and dark against the blue light, and curled them into my palms.
+
 "Magic AP," I said.
 
 "That one I actually know." The dry quality in Leon's voice shifted into something that had real weight behind it. "Arya ran full caster for her whole guild. Three hours before their first skirmish going over her skill trees. I didn't ask to know this stuff, but I ended up knowing it anyway. Magic AP is wisdom-driven. It's the caster number, the one everything scaled off of in her kit." Keys. "Fifty-two with the necklace bonus. That's real output. That's your actual game plan, if I had to guess."
+
+A faint warmth pulsed behind my sternum where the necklace sat, and I let a breath out through my nose.
 
 "Crit Rate," I said.
 
@@ -88,11 +92,13 @@ Eleven slots and I had four of them filled, and none of the four were a weapon.
 
 I'd argued theoretical builds with Eren years ago like it was an abstraction. It had never once been my own hand before. Theory and practice weren't the same conversation, and right now theory was all I had.
 
-This was a deck. Four cards down, the rest still somewhere in the pile. And what was down right now wasn't a fighting hand, it was a support hand. If I went in swinging, I was doing maybe six damage with my fists before something with actual armor put me down. At least, I thought that was how it worked. I'd never actually punched anything in this game.
+This was a deck. Four cards down, the rest still somewhere in the pile. And what was down right now wasn't a fighting hand, it was a support hand. If I went in swinging, I was doing maybe six damage with my fists before something with actual armor put me down. At least, I thought that was how it worked. I'd never actually punched anything in this game. I rubbed my eyes with the heel of my hand, the display's glow ghosting on the inside of my lids.
 
 I reached out, tapped the necklace itself. A small note unfolded beside it: World-tier, Siege and other organized guild battles apply a scaling reduction for balance. I'd half-heard that somewhere before, some aside on the WattsUp screen. Yuna's voice, the same voice Momo played on repeat through the apartment walls, explaining how even the strongest items got brought down to earth once a guild fight was organized. Something about the cadence of it snagged on a memory I couldn't place and let go again before I could chase it. Real power, just not unlimited power everywhere it went.
 
 I looked at my ability bar. The gas icon sat beside the flare, the same two icons from my first real kill, back when I'd dropped the gas and lit it on instinct without knowing what either ability actually did. That order had snagged somewhere at the back of my head since. The gas stacked something on targets. The flare ignited. I didn't know what they added up to together, just that the combination hadn't let go of me since. I wasn't going to force it into something before it was ready. Eren used to do that, commit to a combo he didn't fully understand and eat the consequences.
+
+A strand of my new hair fell across my eyes and I shoved it back with the flat of my hand.
 
 I dismissed the display and the blue light folded back into nothing, leaving the tent the way it had been.
 
@@ -103,6 +109,8 @@ I dropped my hand from the post. "Two other things. If you haven't caught it on 
 "Bet." I glanced toward the tent flap, toward the gray haze visible through the gap. "One more thing. Can you check if HGO's dropped any patch notes or updates? A lot of what's happening with this garrison system, this World Quest, it all feels like new space. Someone told me we might be in a rare window." I didn't name her. "I want to know if the update is still rolling out."
 
 "Give me a sec." Keys on Leon's end, fast and deliberate, then a pause. "Okay, looking at it. The Hearthfire expansion is dripping small updates throughout the game because of how big it is, but they're not dropping full patch notes until after the seventy-two-hour sale window closes." Another pause. "Which is about sixteen hours from now, based on when the finale wrapped."
+
+One of my pointed ears twitched at the rapid clatter of keys, a habit this body had picked up without asking.
 
 "Sixteen hours." I let that land. The rare-space read was real. The person who'd told me that knew exactly what she was looking at. "That confirms it. Thanks."
 
@@ -240,6 +248,8 @@ I did the math out loud, for Sevish as much as for myself. I'd heard recovery ti
 
 Keys on Leon's end. "Give me a second." A pause. "Yeah, you're close. Wiki says standard pots at that level do about fifteen HP over ten seconds. Higher-tier ones are faster but expensive. If they've been hit multiple times and they're using vendor stock, forty minutes from empty sounds about right. Could be less if they're carrying anything better."
 
+I shifted my weight, the packed dirt gritting under my boots, and ran my tongue across my sharp little teeth while I counted.
+
 Twenty minutes at the outside. Maybe less if they weren't running premium. We couldn't wait them out.
 
 I looked toward the tent flap. "We need to be in position before it closes."
@@ -329,6 +339,8 @@ I opened the text window while the channel was still settling.
 
 [AriSky: war banner can't stay planted much longer though]
 
+I squinted at the pale text glowing in the dark, the cold air stinging my eyes.
+
 I closed the text window and crossed back to the tent where Sevish was still running through something with Wyx at the back wall.
 
 "Thirty minutes," I said from the flap. "I need Rott and Nab ready to move."
@@ -399,6 +411,8 @@ First time leading anyone into a real fight. Eren used to call the plays. I used
 Ru's mouth split into something that showed teeth, not quite a grin but close enough to read as one.
 
 "Three sides gassed," I continued, my eyes still on the red canvas below. "Me, you, Rott, Nab, one on each wall. We hit them at the same time. We force them into the open on the fourth side, the road side, the one they think is already covered because the road's behind them." I let the shape of it sit a moment. "That's the side they won't be watching. That's where Arya comes in from the treeline."
+
+A gust came up the slope and I tucked my clawed fingers into my fists to keep them from stiffening.
 
 Rott shifted his weight. He didn't say anything, but the shift was its own answer.
 
@@ -548,7 +562,7 @@ Four nameplates flickered and died in rapid succession, the kill notifications s
 **[KILL CREDIT: T_DRAG, 4]**
 **[PARTY CONTRIBUTION: ARYA, HUSHVEIL (ADVANCED), ASSIST CREDITED]**
 
-Almost all my mana in one shot. Worth every point.
+Almost all my mana in one shot. Worth every point. I swayed on my feet, the afterimage of the blast still burned across my eyes, and I blinked it down.
 
 The fog started to thin as Hushveil's duration ran out, cold air rushing back in to fill the vacuum with an audible whoosh. When it lifted there was nothing left where the tent had stood except scorched earth and blackened canvas scraps, the four corner stakes still driven into the dirt but holding nothing up, and drop markers glowing in the ground like dying embers, pulsing with soft light that threw back off the frost.
 

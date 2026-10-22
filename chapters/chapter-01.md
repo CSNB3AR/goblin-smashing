@@ -42,7 +42,7 @@ Behind me, sound cracked out of the speaker, sharp electronic hits stacking fast
 
 "The Aogiri banner is down!" Yuna's voice cut through the noise, half-shouting. "The zone belongs to the Knights alone, and the ten-minute clock is running!"
 
-I didn't turn around for any of it. I wiped the same spot a third time and a fourth, listening to the crowd climb as the minutes bled off, the thump of casters, the long dull groan of the crowd every time another Aogiri tag tried the pass and didn't make it. Nobody left to contest the zone. Then one low, resonant tone, the kind that meant something had just ended for good.
+I didn't turn around for any of it. I wiped the same spot a third time and a fourth, listening to the crowd climb as the minutes bled off, a long dull groan rolling through it every time another Aogiri tag tried the pass and didn't make it. Nobody left to contest the zone. Then one low, resonant tone, the kind that meant something had just ended for good.
 
 I already knew what it sounded like when a hold timer ran out.
 

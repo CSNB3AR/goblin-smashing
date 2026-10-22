@@ -75,3 +75,10 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 - Whether the doppelganger ring costs SP or MP (the page shows 60 MP).
 - How Pac_Pac joins. The pass-out lock (24 hours, provisional). The Crownfall level cap. The exact number of Rare cores per crystal.
 - Joss as the enchanter is my choice.
+
+## Addendum E: Chapter 1 battle rework, love of tactics, body-cue rule
+
+- **Battle rework (Chapter 1).** The Battle of the Snowy Plains is an open-world, king-of-the-hill fight in an unnamed walled medieval town, not an arena. Season points 10,500 (London Spire) to 10,250 (Aogiri), 300 on the line, ten uncontested minutes wins the zone. The Knights hold the only pass like a firing range, 12 Aogiri are cornered in the hall, reinforcements trickle in and die to 72-hour locks. Aogiri's captain walks out early, the banner falls. NEW (reshaped).
+- **Love of tactics.** Tatsuya states why he likes HGO: the tactics, the thing he and Eren drew on graph paper. That love is why the broadcast hurts. Avoidance stays. NEW.
+- **Body-cue rule.** After information-heavy passages he returns to his body with a varied cue (rubbing his eyes, squinting at the fluorescents, a wince, a loc falling, hands flat on a surface). Applied chapter by chapter, see `style-guide/first-person-voice.md`.
+- **Open items.** The town's name. What happens if the clock expires while the zone is still contested. Whether "the Knights of the London Spire" stays an epithet or becomes the guild name (currently an epithet).
