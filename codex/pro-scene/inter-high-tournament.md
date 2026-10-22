@@ -4,7 +4,7 @@
 
 ## HGO doesn't run every tournament itself
 
-HGO (the platform, owned by Kazuku's Nexus Enterprises) licenses out branded tournament rights to outside sponsors and event hosts, provided the deal cuts HGO in. This means there are multiple, parallel tournament hosts running their own regional and interest-specific scenes at any given time, not one single governing body controlling every competitive event. HGO itself only directly runs the biggest events on the calendar, the seasonal finales and Siege events such as Crownfall (see `codex/pro-scene/tournaments-and-events.md`) and other flagship international competitions. Everything below that tier, regional leagues, school circuits, sponsor-branded cups, is somebody else's license, somebody else's broadcast, still running on HGO's platform and rules but not HGO's own production.
+HGO (the platform, owned by Kazuku's Nexus Enterprises) licenses out branded tournament rights to outside sponsors and event hosts, provided the deal cuts HGO in. This means there are multiple, parallel tournament hosts running their own regional and interest-specific scenes at any given time, not one single governing body controlling every competitive event. HGO itself only directly runs the biggest events on the calendar, the season finales and flagship events such as Crownfall (see `codex/pro-scene/tournaments-and-events.md`) and other flagship international competitions. Everything below that tier, regional leagues, school circuits, sponsor-branded cups, is somebody else's license, somebody else's broadcast, still running on HGO's platform and rules but not HGO's own production.
 
 ## Inter-High, specifically
 

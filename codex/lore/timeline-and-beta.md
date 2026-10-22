@@ -4,7 +4,7 @@ The real-world and in-game calendar the story sits inside. Sequence and rules fo
 
 ## The window
 
-The whole story, from the Season Zero finale broadcast to the Hearthfire launch and Node Wars opening, fits inside roughly **eight to nine months**. The closed beta ran about that long in real time. "Tonight" in Chapter 1 is **Sunday, December 10th, 2045**, the Season Zero finale final. Crownfall is December 25th. Hearthfire is January 1st.
+The whole story, from the Season Zero finale broadcast to the Hearthfire launch and Node Wars opening, fits inside roughly **eight to nine months**. The closed beta ran about that long in real time. "Tonight" in Chapter 1 is **Sunday, December 10th, 2045**, the Season Zero finale. Crownfall is December 25th. Hearthfire is January 1st.
 
 ## Beta structure
 

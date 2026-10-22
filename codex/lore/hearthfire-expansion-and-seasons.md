@@ -5,7 +5,7 @@ Single source of truth for the HGO release sequence, the competitive structure a
 ## Names, locked
 
 - **Hearthfire** is the expansion: the economy and "home" release, the push to bring a real business into the game, the world maps, and the start of Season One. Launches January 1st. "Crownfall" is **not** the expansion.
-- **Crownfall** is a Siege tournament, an open-beta showcase event held December 25th. It replaces the old Winter Bash entirely (same countdown, same 10 million yen prize pool). See `codex/pro-scene/crownfall-siege-event.md`.
+- **Crownfall** is the Siege Castle event, a one-off crowning event for open-beta characters held December 25th in a neutral zone, a prelude to Node Wars. It replaces the old Winter Bash entirely (same countdown, same 10 million yen prize pool). See `codex/pro-scene/crownfall-siege-event.md`.
 - **Season Zero** is the closed beta. Its finale is the **Season Zero finale** (the last battle of Season Zero), the streamed spectacle the story opens on. There is no Winter Championship.
 - There is no "Beta 2". The sequence is closed beta (Season Zero), then open beta (all players and businesses, with discounted access drives), then Hearthfire opens Season One.
 
@@ -15,7 +15,7 @@ Single source of truth for the HGO release sequence, the competitive structure a
 2. **Season Zero finale.** Twelve guilds qualify, four attached to each prince's army. A skirmish win is worth 40 points. See "Season Zero finale" below. Prize pool 40 million yen.
 3. **Closed-to-open gap.** Closed-beta veterans get a **24-hour cash-out window** for their Legacy Silver exchange (see "Currency"). Kazuku announces Hearthfire live during the finale broadcast.
 4. **Open beta.** All players and businesses can enter. Access drives are discounted. Characters made here are permanent. Tatsuya's character is an open-beta character.
-5. **Crownfall, December 25th.** Open-beta Siege tournament, 10 million yen pool.
+5. **Crownfall, December 25th.** Open-beta Siege Castle event, 10 million yen pool.
 6. **Hearthfire, January 1st, Season One.** Roughly 14 hours of full server downtime, the first full shutdown in HGO's life (landing rules in `codex/lore/hgo-timeline-and-real-world-stakes.md`). The five-continent world maps release.
 
 ## Character rules at Hearthfire
@@ -25,44 +25,46 @@ Single source of truth for the HGO release sequence, the competitive structure a
 - **The main story is frozen**, except for hidden quests. The princes are off-screen, held in restricted zones.
 - **Tatsuya's goblin quest line expires at the expansion** if he has not progressed it (the Call of the Bones deadline, see `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`).
 
-## Siege (the arena mode)
+## Crownfall: the Siege Castle event
 
-A guild-scale arena mode.
+Siege is **not a game mode**. It is the Crownfall event, a one-off castle siege, and nothing more is canon.
 
-- **Queue up to 20 players.** A guild only needs a small active core, since the troop system fills empty slots (see "Troops" below and the Whispers of Shiv material in `codex/characters/shiv.md`).
-- **Ranking ladder** for guilds, separate from the individual ladder (`codex/pro-scene/ranking-ladder.md`).
-- **Practice arena** unlocks only through a guild hall. The hall costs shillings, and the plot costs more.
-- HGO hosts the Siege tournaments itself.
-- Siege is a **side mode and showcase**, not the main story. It has two lives: the one-off Crownfall event, and afterward the **Siege Pro League**.
+- **A crowning event.** Crownfall is hosted by HGO itself as one of the big events around the expansion. It is a taste of the larger-scale conflict to come, preparing everyone for Node Wars (see below).
+- **Neutral zone.** The castle stands in a neutral zone. The zone may tie back to a legendary world quest. That tie is a rumor and a hint only, **undecided**.
+- **Format.** Guilds field up to 20 players per side. Garrison troops fill empty slots, so a guild with a small active core can still field a full side (see "Troops" below and the Whispers of Shiv material in `codex/characters/shiv.md`). Open-beta characters only. Full bracket, qualifying and payouts: `codex/pro-scene/crownfall-siege-event.md`.
+- **No standing structure.** There is no standing Siege queue, no Siege ladder and no hall practice arena in canon.
+- **Return is undecided.** If players like it, Siege may come back later, through another announcement or an entirely different arc. Nothing in canon commits to that. Notes for that possibility are parked in the next section.
 
-### Siege Pro League
+### If Siege returns (parked, not canon)
 
-**Status:** does not exist in Chapters 1 to 10. Kazuku's opening ad announces Siege as a mode, Crownfall as a one-off event with a 10 million yen pool, open beta and the 72-hour discount, and nothing more. The league is announced after Crownfall's crowds, sponsors and viewership earn it (staged arc and triggers in `codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md`). Everything below describes the league once it exists.
+Everything in this section is **parked, not canon**. It was drafted for a Siege that becomes a standing league. It stays on file in case Siege returns and must not be asserted anywhere else in the codex. Other files point here.
 
-A scheduled, ranked guild-versus-guild circuit that runs through each season. **HGO picks it up at national and global scale**, capitalizing on how popular the small 20v20 Siege became with players who go in carrying items they made in the world. It is the structure the pro-scene money and attention sit on top of (see `codex/pro-scene/tournaments-and-events.md`).
-
-- **Seasonal points per match.** Every match pays points, and winning pays more. Points buy **rare items** from a seasonal shop.
-- **Ember cores.** Matches also pay out **Ember cores**, the base material that, once refined, powers the guild hall (see "Guild halls" below). Borrowed in spirit from Albion's power cores. Cores use the game's normal rarity ladder (Common, Uncommon, Rare, and so on, see `bible/game-system.md`), run from Common up to Rare by default, and are tradeable. This is the reason guilds that do not care about the circuit still have to play it. The same payouts also feed gathering and crafting materials. Guild hall upkeep is an early-game pressure that comes well before expedition and gathering content, and long before the wider expansion content of Act 2.
-- **High end-of-season rewards** for the top of the circuit.
-- **Full loot, no rebound.** Dying drops items as in the open world, and recovered items do not stay bound to their old owner.
-- **The only mode with no 72-hour lock.** Because it is full loot, the lock is skipped so people can actually grind it without feeling constantly benched. The pass-out lock still applies.
-- **Troop cap.** Crownfall let Tatsuya bring a large garrison because it was a new event. The Pro League caps troops hard, about **one or two per player, nowhere near fifteen**, the same way HGO caps any world-level item or world-level mechanic that proves too strong. The cap is a rule change, not a story reversal: his Whispers of Shiv credit is what gets noticed and capped (see `codex/lore/companion-troop-system.md`).
-- It does not grant territory or world control (that is Node Wars). Pro guilds typically run about 50 members.
+- **Siege Pro League.** A scheduled, ranked guild-versus-guild circuit that HGO could pick up at national and global scale if the small 20v20 castle fight proves popular with players who go in carrying items they made. It would not grant territory or world control (that is Node Wars). Pro guilds would run about 50 members.
+- **Staged arc and triggers, as options.** Crownfall viewership and crowds, sponsor interest (the WattsUp Corporation and other brands that already buy HGO exposure), then early Season One demand could lead HGO to announce a league, or to bring Siege back as another event, or the story could take a different direction entirely. See `codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md`.
+- **Seasonal points shop.** Points per match, winning pays more, points buy rare items from a seasonal shop, with high end-of-season rewards.
+- **Ember cores.** Matches would pay **Ember cores**, the base material that, once refined, powers the guild hall. Borrowed in spirit from Albion's power cores. Cores use the normal rarity ladder (Common, Uncommon, Rare, and so on, see `bible/game-system.md`), run from Common up to Rare by default, and are tradeable.
+- **Ember crystals and hall power.** Crystals are crafted, not dropped: enough Rare Ember cores make a **Legendary Ember crystal**, named by tier (for example "Legendary [name] Ember Crystal"). A crystal gives the guild hall power. A hall can still run operations unpowered, and power unlocks guild mounts and the other mechanics that develop the fortress. World rarity stays reserved for World Quest rewards.
+- **Hall practice arena.** A guild-hall practice arena for Siege, unlocked only through a hall.
+- **Full loot, no rebound, no 72-hour lock.** Dying would drop items as in the open world with no binding to the old owner, and the lock would be skipped so people can grind it. The pass-out lock would still apply.
+- **Troop cap.** Crownfall lets Tatsuya bring a large garrison because it is a one-off event. A standing league would cap troops hard, about one or two per player, as a rule change and not a story reversal (see `codex/lore/companion-troop-system.md`).
 
 ### Troops
 
-Guilds field NPC troops from their hall to fill the 20-player queue. Crownfall allows a large garrison, the Siege Pro League caps it (see above). Credit for troop kills and objective points routes to the guild member who commands them. Tatsuya's Whispers of Shiv troops count toward his total without him realizing it at first (see `codex/characters/shiv.md`).
+For Crownfall, a guild fields NPC troops from its hall to fill the 20-player side. The garrison cap still scales with the commanding player's level. Credit for troop kills and objective points routes to the guild member who commands them. Tatsuya's Whispers of Shiv troops count toward his total without him realizing it at first (see `codex/characters/shiv.md`).
 
-### Guild halls and Ember crystals
+### Guild halls
 
-- **Ember crystals are crafted, not dropped.** Combining enough Rare Ember cores makes a **Legendary Ember crystal**. A crystal's name carries its tier (for example "Legendary [name] Ember Crystal"), following the rarity ladder. World rarity stays reserved for World Quest rewards.
-- **A crystal feeds the guild hall and gives it power.** A guild hall can still run operations without power. Power is what unlocks guild mounts and the other guild mechanics that let a guild develop its fortress.
+Guild halls are a Hearthfire economy element and stay canon.
+
+- **Cost.** A hall costs shillings, and the plot costs more.
 - **Where halls sit.** Not always in a city. A hall inside a city requires the guild to own the city (a province, a landing or a lease), and city leases are very hard to get, so a lease is won with standing and NPC ties, not shillings alone. Most guilds therefore build on their **own plot**, and even that is usually a leased plot. In certain areas a guild can instead found a **camp** and grow it, Age of Empires style, into an **outskirts** and then a **town**. That takes enough players, resources and time, which is why big guilds with existing numbers move into the contested zones first and why a small guild such as Tatsuya's cannot be first.
+- **Hall power** (Ember crystals, mounts) is parked with the league notes above.
 - **Myrrhwood.** Tatsuya's guild stays small for a long while. As he becomes the more dominant goblin, goblins want to fight beside him for the power it brings, and that is what fuels his early expansion there (see `codex/subplots/goblin-trade-company-forward-plot.md`).
+
 
 ## Node Wars (the main story after Hearthfire)
 
-After the world maps release, the war the story is about is **Node Wars across the five continents**. Guilds fight over nodes (towns, resource sites, forts) on the real map, with kingdoms and city lords as the backdrop. Holding nodes brings territory, taxes, infrastructure and NPC ties. Contested zones grant buffs and minor perks, and bigger guilds with existing numbers take them first. A province or kingdom is a different tier of stakes entirely, real income (see `codex/lore/hgo-timeline-and-real-world-stakes.md`). Existing GvG War material (`codex/pro-scene/tournaments-and-events.md`) is the base. Guild halls (powered by Ember crystals), the 20-player queue and the troop system are reused inside node war fights, but the Siege Pro League ladder is separate from them. Seasonal points come most from fights and wars, then world bosses, main quests, and crafting, infrastructure and NPC ties.
+After the world maps release, the war the story is about is **Node Wars across the five continents**. Guilds fight over nodes (towns, resource sites, forts) on the real map, with kingdoms and city lords as the backdrop. Holding nodes brings territory, taxes, infrastructure and NPC ties. Contested zones grant buffs and minor perks, and bigger guilds with existing numbers take them first. A province or kingdom is a different tier of stakes entirely, real income (see `codex/lore/hgo-timeline-and-real-world-stakes.md`). Existing GvG War material (`codex/pro-scene/tournaments-and-events.md`) is the base. Crownfall is the rehearsal for it, and the guild hall, the 20-player side and the troop system carry into node war fights. Node Wars are the main war content and the spine of the story after Hearthfire. Seasonal points come most from fights and wars, then world bosses, main quests, and crafting, infrastructure and NPC ties.
 
 ## Season Zero finale
 
@@ -92,7 +94,7 @@ After the world maps release, the war the story is about is **Node Wars across t
 
 ## Locks
 
-- **Death lock: a flat 72 hours** in raids, skirmishes, node wars and the Crownfall sieges. **The Siege Pro League is the one exception and has no death lock.**
+- **Death lock: a flat 72 hours** in raids, skirmishes, node wars and Crownfall. There are no exceptions in canon (a no-lock rule is among the parked notes above).
 - **Pass-out lock: 24 hours** by default, shorter than the death lock. Not yet dramatized, treat as provisional (see `codex/lore/preserved-misc-mechanics.md`).
 - The Chapter 4 "[TIME LIMIT: 7 DAYS IN-GAME]" is a quest timer and is separate from the death lock.
 
@@ -110,12 +112,14 @@ After the world maps release, the war the story is about is **Node Wars across t
 The systems above are the stage, not the story.
 - **A way out.** Kazuku's "bring your business here" is legitimate recruitment: it brings people in because the game genuinely pays. It is also the main hook for anyone stuck in debt or needing a reset, since a game that pays can offer a way out, and open-beta characters start on fair ground. That is why Tatsuya joins: the money, Ohema's six-month deadline and the debt come first, and the hints from his father second (see `codex/characters/tatsuya-kazehaya.md`).
 - **He is not the only one.** Hearthfire is "The New World" and its territory is open, so anyone smart will try to make it big or find a business idea for the game. Other guilds, merchants and entrepreneurs (Yuna's family is one precedent) are chasing the same space, so Tatsuya earns his place with connections and products, not by being first.
-- **Connections run the systems.** City leases, hall growth and Myrrhwood's goblins all depend on relationships (Affiliation, NPC ties, trade contacts such as Jiro Amano, Arya the information broker, Nova Market). Ember cores and crystals are one real trade good among many (see `codex/subplots/goblin-trade-company-forward-plot.md`).
+- **Connections run the systems.** City leases, hall growth and Myrrhwood's goblins all depend on relationships (Affiliation, NPC ties, trade contacts such as Jiro Amano, Arya the information broker, Nova Market). Ember cores and crystals, if Siege returns, would be one real trade good among many (parked, see above and `codex/subplots/goblin-trade-company-forward-plot.md`).
 - **Tatsuya's goals stay the spine:** the surgery money, redeeming Dad's product, reaching Kazuku (reachable only inside HGO), beating Eren, and a footing in Myrrhwood.
 
 ## Open items
 
 - Pass-out lock (24 hours) is a default, not a ruling.
 - Whether Crownfall keeps the old level-25 new-region cap is unconfirmed.
-- Whether Crownfall itself carries the 72-hour lock (default: yes, only the Pro League is exempt).
-- Exact number of Rare Ember cores per Legendary crystal, the tier names, and whether Rare is the core cap.
+- Whether Crownfall itself carries the 72-hour lock (default: yes).
+- Whether Siege returns, and if so as another event, a league or a different arc (undecided).
+- Whether the Crownfall neutral zone ties to a legendary world quest (hint only, undecided).
+- If the parked league returns: exact number of Rare Ember cores per Legendary crystal, the tier names, and whether Rare is the core cap.

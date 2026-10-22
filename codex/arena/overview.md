@@ -1,6 +1,6 @@
 # The Arena — Overview
 
-A standing, year-round PvP hub, distinct from the one-off tournament venues (see `codex/locations/singapore-championship-venue.md`) and from open-world PvP. Functions as HGO's neutral home for queued competitive play: the 1v1 Open Ladder and randomized-team matches both play out of here, and so do guild Siege practice queues once a guild hall unlocks them (see `codex/pro-scene/tournaments-and-events.md` for the formats themselves). Loosely centered on the Wraith Isles region (already flagged as "ranked arena and tournament zone" in `codex/locations/eryndal-world-overview.md`), though the arena hub itself is reachable from anywhere via teleport, not something a player has to physically travel to.
+A standing, year-round PvP hub, distinct from the one-off tournament venues (see `codex/locations/singapore-championship-venue.md`) and from open-world PvP. Functions as HGO's neutral home for queued competitive play: the 1v1 Open Ladder and randomized-team matches both play out of here (see `codex/pro-scene/tournaments-and-events.md` for the formats themselves). Loosely centered on the Wraith Isles region (already flagged as "ranked arena and tournament zone" in `codex/locations/eryndal-world-overview.md`), though the arena hub itself is reachable from anywhere via teleport, not something a player has to physically travel to.
 
 ## Level-5 queue gate
 
@@ -15,7 +15,7 @@ Functionally, this makes the arena hub a genuine neutral ground, similar in spir
 ## Matchmaking
 
 - **1v1 Open Ladder** — anyone level 5+ can enter, resets each season. See `codex/pro-scene/tournaments-and-events.md` and `codex/pro-scene/ranking-ladder.md` for the reward/ranking structure this feeds.
-- **Randomized team queue**: the arena's own casual/ranked team format, distinct from a pre-formed guild Siege (see `codex/pro-scene/tournaments-and-events.md`), players queue solo or in small groups and get matched into a team for that session only. The lower-stakes, repeatable way most players actually practice team play before ever trying out for a real roster.
+- **Randomized team queue**: the arena's own casual/ranked team format, distinct from a pre-formed guild fight (see `codex/pro-scene/tournaments-and-events.md`), players queue solo or in small groups and get matched into a team for that session only. The lower-stakes, repeatable way most players actually practice team play before ever trying out for a real roster.
 
 ## Cross-references
 

@@ -1,6 +1,6 @@
 # Haya Storm
 
-**Status:** Name locked. A small guild that forms around the Crownfall Siege event (see `codex/pro-scene/crownfall-siege-event.md`) and grows across Act Two. Previously described as a three-player team; it is now a guild that fills the 20-player Siege queue with garrison troops.
+**Status:** Name locked. A small guild that forms around the Crownfall Siege Castle event (see `codex/pro-scene/crownfall-siege-event.md`) and grows across Act Two. Previously described as a three-player team; it is now a guild that fills its side of the 20-player Crownfall castle siege with garrison troops.
 
 ## The name
 
@@ -15,11 +15,11 @@
 
 **Comp reasoning:** the three roles were already implicit before the guild existed, Tatsuya's archetype rules out tank and hard-CC for him, which leaves exactly the space Pac_Pac and Arya fill. The engine: Pac_Pac holds and enrages, Tatsuya roots and stacks debuffs while his wards and enchantments keep Pac_Pac alive, Arya detonates. The actual synergy already works on the page: Arya's Hushveil Silence denies enemy casters and blinds/deafens an area, the same effect that let Ru and two goblins close distance safely during the Bloodhurst tent ambush, repurposed here to let Pac_Pac close distance safely in Siege play instead.
 
-**Roster grows during Act Two.** The Siege queue holds 20, and garrison troops fill the empty slots (see `codex/lore/companion-troop-system.md`), so real players are added as they are earned, not invented as placeholders now. Two additions will be Tochi students (see the rule below).
+**Roster grows during Act Two.** A Crownfall side holds 20, and garrison troops fill the empty slots (see `codex/lore/companion-troop-system.md`), so real players are added as they are earned, not invented as placeholders now. Two additions will be Tochi students (see the rule below).
 
 **Roster-composition rule, resolves how Tochi's representation actually works.** Tochi's representation rules require a majority of a 5-player representing squad to be actively enrolled at the school. Tatsuya only needs the squad's still-unnamed final two additions to be Tochi students, Arya and Pac_Pac never have to be. This is what actually makes winning the Tochi representative qualifier (see `codex/pro-scene/tochi-representative-qualifier.md`) mechanically possible without changing who's already on the team.
 
-**End of Act Two, where the team stands:** a real, popular breakout team, T-Drag and Pac_Pac's own public profiles doing real work for its visibility, one tournament win (Tochi's representative slot) plus a strong Crownfall showing, a few real sponsors, positioned to compete in the first full season of the Siege Pro League, not full pro status yet.
+**End of Act Two, where the team stands:** a real, popular breakout team, T-Drag and Pac_Pac's own public profiles doing real work for its visibility, one tournament win (Tochi's representative slot) plus a strong Crownfall showing, a few real sponsors, positioned for Season One, not full pro status yet.
 
 ## Cross-references
 
