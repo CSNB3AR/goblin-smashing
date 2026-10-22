@@ -98,7 +98,7 @@ Leon’s voice cut in a beat later, no longer quiet, no longer careful, the tone
 
 Sevish’s eyes stayed on him, holding there in the grim dark like his glare alone was piercing his chest. “So. Will you be bringing help, or facing this alone?”
 
-Tatsuya knew that question was coming, and right now there was only one real answer if he didn’t want to risk the seven-day lock facing them solo.
+Tatsuya knew that question was coming, and right now there was only one real answer if he didn’t want to risk the 72-hour lock facing them solo.
 
 “Yeah, I’m in. But if you’re expecting me to run down there in prisoner rags, I won’t be very productive. You got anything better I can work with? Also, I need some time to prepare, if you can give me the space for that,” Tatsuya said, readjusting his new frame, which gave him a couple of inches.
 
@@ -212,7 +212,7 @@ The reply came back faster than he expected.
 
 “That’s Gato for you.” The corner of his mouth pulled flat, something close to a smile before it was gone.
 
-He splashed more water on his face, the cold biting against his skin, and gripped the edge of the sink with both hands. Seven days locked out if he died down there. Seven days he didn’t have, not with Winter Bash sitting fifteen days out, not with no duo locked in yet. This was the first real fight he’d ever be in against actual players, not scripted mobs, and right now it was still just him and Ru walking into it.
+He splashed more water on his face, the cold biting against his skin, and gripped the edge of the sink with both hands. Three days locked out if he died down there. Three days he didn’t have, not with Crownfall sitting fifteen days out, not with no team locked in yet. This was the first real fight he’d ever be in against actual players, not scripted mobs, and right now it was still just him and Ru walking into it.
 
 “First real team fight. Nothing like the competitive scene, but if I can’t do this, thinking about that is a pipe dream.” His grip on the sink tightened once, then loosened. “Time to test my skill and not blame Eren or anyone else for not being here. This is my moment.”
 

@@ -56,7 +56,7 @@ Sevish stood up from his chair, the movement slow and deliberate, and walked aro
 
 He laid it out plain and rough, no sugarcoating, just the facts.
 
-"Myrrhwood is hell right now. Gets worse every year. Shiv's been gone for over a century and the clans have never found their footing again without his leadership. That's the real reason Wyx and I gathered people and came all the way out here to find what Shiv was hiding before he disappeared, and maybe bring that knowledge back to our people so we can actually survive what's coming."
+"Myrrhwood is hell right now. Gets worse every year. Shiv's been gone for nearly half a century and the clans have never found their footing again without his leadership. That's the real reason Wyx and I gathered people and came all the way out here to find what Shiv was hiding before he disappeared, and maybe bring that knowledge back to our people so we can actually survive what's coming."
 
 "We've tried the rally three times now," Sevish continued, his tone matter-of-fact, not defensive. "Failed all three times. Couldn't get past the city guard and their allies.”
 

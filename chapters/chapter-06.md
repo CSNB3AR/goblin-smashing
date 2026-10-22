@@ -116,7 +116,7 @@ He almost closed the tab. Then the words Sevish said echoed in his head.
 
 *" Sevish did say I would be an Ally of Thrash, it holds as long as I don't blow the quest. Two powerful npcs plus a warband of goblins backing me means anyone coming after me needs an actual party. That's a commitment on their end too."*
 
-Half the accounts that could actually field that kind of party were sitting frozen anyway, still deciding whether to cash out for Legacy Points before the reset makes the call for them. Fewer real threats walking around this exact week than there'd be in a month.
+Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset makes the call for them. Fewer real threats walking around this exact week than there'd be in a month.
 
 He pulled up the Tochi portal next. Entrance application sitting exactly where he'd left it weeks ago, untouched. He filled in what he could from memory, stopped at the submission window.
 

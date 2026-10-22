@@ -58,7 +58,7 @@ His first real PvP reps go badly, and the reason is mechanical: Siege objectives
 
 ## The doppelganger ring
 
-Any duplicate or clone trick in his kit is the doppelganger ring, a battle item, not a spell, unrelated to Shiv's blessing or Shaman's Veil (`codex/lore/battle-items-and-battlegear.md`). **It drops in the Chapter 10 fight from an enchanter's legacy item**, an illusion-mist ring. Its **mana cost is too high to use for now**. This supersedes the earlier ruling that it came from a Gambler's Gambit bonus proc in Chapter 9.
+Any duplicate or clone trick in his kit is the doppelganger ring, a battle item, not a spell, unrelated to Shiv's blessing or Shaman's Veil (`codex/lore/battle-items-and-battlegear.md`). **It drops in the Chapter 10 fight from an enchanter's legacy item**, an illusion-mist ring. Its **mana cost is too high to use for now**. Earlier docs planned a Gambler's Gambit proc in Chapter 9, but the ring has never landed on the page, so nothing needed removing from the chapter.
 
 ## What we deliberately didn't take from an outside build-concept reference
 

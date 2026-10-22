@@ -54,7 +54,7 @@ His finger hovered over the logout command when another notification bloomed in 
 
 *The race I was trying to avoid has given me a World Quest. What am I supposed to do with that...* He sat there for a moment, his mind racing through every possible scenario but finding no solution.* “Ugh... I hate this, but the magnitude of the world quests is hard to ignore.”*
 
-*"Six days until Chiyo's back from Kyoto. Six days to show her something real and figure out how to make this work or fail miserably trying."* The meta shift to 5v5 was already live, expansion announced. 
+*"Six days until Chiyo's back from Kyoto. Six days to show her something real and figure out how to make this work or fail miserably trying."* The meta shift to guild sieges was already live, expansion announced. 
 
 He allocated one point to Wisdom, one to Speed. Not optimal for anything he'd researched, but Speed kept you alive and three Wisdom was still better than two.
 
@@ -182,7 +182,7 @@ He cut between two tents at an angle they'd have to widen out to follow, wind wh
 
 Goblins nearby stopped what they were doing to watch, a few of them standing up from their fires or setting down whatever they'd been working on. Not many, the camp wasn't packed, but enough to make him feel the eyes tracking him.
 
-*"Can't die here."* The seven-day death lock surfaced in his mind, hard and immediate, something he'd read on the forums a dozen times. *"One mistake and I'm cooked." *
+*"Can't die here."* The 72-hour death lock surfaced in his mind, hard and immediate, something he'd read on the forums a dozen times. *"One mistake and I'm cooked." *
 
 His thoughts raced as he brought up his skills menu with a thought, a small translucent UI flickering into existence at the edge of his vision, two icons sitting there waiting.
 

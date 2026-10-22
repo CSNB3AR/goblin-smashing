@@ -1,14 +1,40 @@
 # Chapter Two: Into the Game
 
+He came awake wrong, disoriented and sluggish, and knew it immediately before he even opened his eyes, sunlight instead of the dim pre-dawn gray he should've been waking up to, warm against his eyelids in a way that said it was way past morning. His body didn't do sunlight like this, not after a night shift, not without putting up a fight first.
+
+His phone was still in his hand, the screen dark and cool against his palm. He thumbed it awake and the time hit him like cold water: **3:04 PM**.
+
+*"What the hell."* He was up off the couch before the thought finished, blanket sliding to the floor in a heap, the television still running on the same paused replay of London Spire lifting the trophy that it had been showing when he'd closed his eyes. Momo's door stood open now, her room empty, bed made in the haphazard way that meant she'd done it fast before leaving. Taji's side of the couch was cold, no sign of him anywhere in the apartment.
+
+Nobody home but him, and the whole day already gone without his permission, half of his seventy-two-hour window burned while he'd been unconscious on a couch.
+
+*"Slept through the whole damn morning. Great start."*
+
+A note sat on the kitchen counter, folded once, his name written across the front in Chiyo's handwriting. He picked it up and read it standing there in the middle of an empty apartment.
+
+**[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. [Chiyo]**
+
+*"Right. The trip."* He'd known about it for two weeks, had it marked on the calendar stuck to the fridge, and had completely lost track of it.
+
+His phone buzzed in his hand, the vibration startling him more than it should have.
+
+Then again.
+
+A text from an unknown number sat at the top of his notifications, sender marked as **Nexus Enterprises**.
+
+**[Your HGO Access Drive order has been processed and is ready for pickup. Please collect within 72 hours of this notification. Pickup Code: 4472-KAZE]**
+
+Whatever came next, it started today. And he was already behind.
+
 Tatsuya stood in the middle of the apartment, phone still warm in his hand, the Nexus Enterprises text glowing against his thumb. The pickup notice sat there like a dare he'd already accepted without meaning to.
 
 *"No going back now."* He let the screen go dark and dropped the phone on the couch.
 
 The television was still paused on London Spire's trophy shot, confetti frozen mid-fall behind them like the world had stopped right at their peak. He grabbed the remote and flipped channels until HGO TV came up, the same feed that ran at WattsUp during his shifts, Kazuku's official broadcast network. The bear wasn't on-screen this time. A panel of analysts sat around a glass table instead, all of them talking fast, hands moving, graphics flashing up behind them.
 
-"...complete roster shakeup," one of them was saying, gesturing at something off-camera. "Teams built their entire identity around 3v3 flexibility, and now they've got three weeks to find specialists for roles hybrid builds used to cover. Dosuke AI's team is already shopping for a dedicated support, and they're not the only ones."
+"...complete roster shakeup," one of them was saying, gesturing at something off-camera. "Guilds built their entire identity around small-squad flexibility, and now they've got three weeks to find specialists for roles hybrid builds used to cover. Dosuke AI's guild is already shopping for a dedicated support, and they're not the only ones."
 
-Tatsuya's hand went still on the remote. *"Dosuke's scrambling? That's wild."* The thought landed harder than it should have. Dosuke AI's build had always reminded him of the old Warden concept he and Eren had worked out together on graph paper, back when they'd still been theorizing builds neither of them could afford to play. A jack-of-all-trades setup that could flex into damage, healing, or crowd control depending on what the team needed. Effective in 3v3 because versatility covered gaps. 
+Tatsuya's hand went still on the remote. *"Dosuke's scrambling? That's wild."* The thought landed harder than it should have. Dosuke AI's build had always reminded him of the old Warden concept he and Eren had worked out together on graph paper, back when they'd still been theorizing builds neither of them could afford to play. A jack-of-all-trades setup that could flex into damage, healing, or crowd control depending on what the team needed. Effective in the beta's small skirmishes because versatility covered gaps. 
 
 Another analyst cut in, pulling up a graphic that filled half the screen. "And it's not just the pros. Veteran players are cashing in their avatars already for Legacy Points en masse to rebuild fresh for the new season. The economy's about to flip hard."
 
@@ -40,7 +66,7 @@ He ignored it and unlocked the screen and opened Loop instead. His profile loade
 
 **[9 followers]**
 
-Nine people he didn't know, following an account he barely posted from, watching a guy who'd never logged into the game they all cared about. *"That's gonna change real soon."*Once he finished scanning on loop he pulled up a cafe booking app, filtering by ward, then by availability. Third-gen cafes across Shibuya came up first, sleek storefronts with waiting lists that stretched into next year, every single slot booked solid. He scrolled past them, already knowing what he'd find, Winter Bash hype driving demand past anything the infrastructure could actually handle.
+Nine people he didn't know, following an account he barely posted from, watching a guy who'd never logged into the game they all cared about. *"That's gonna change real soon."*Once he finished scanning on loop he pulled up a cafe booking app, filtering by ward, then by availability. Third-gen cafes across Shibuya came up first, sleek storefronts with waiting lists that stretched into next year, every single slot booked solid. He scrolled past them, already knowing what he'd find, open-beta hype driving demand past anything the infrastructure could actually handle.
 
 Second-gen pods weren't much better. The Tabuchi-backed cafes had availability, technically, but the earliest slot was March, three months out. *"Not waiting three months.."*
 
@@ -58,7 +84,7 @@ He checked the time. 3:47 PM.
 
 *"Sakura Arcade's free window opens in just over an hour. Still gotta pick up the drive from Nexus first."* He stood, grabbed his jacket off the back of the couch where he'd left it this morning, and headed for his room, his dads old work room. He pushed the door open to a space that still smelled faintly like old solder and circuit boards, a smell that never quite left no matter how many times Momo complained about it.
 
-Daichi's tech manual sat on the shelf above his desk, spine cracked from years of use, pages dog-eared in a dozen places where his father had marked something worth coming back to. Tatsuya pulled it down, the weight of it familiar in his hands, and tucked it under his arm without thinking twice.
+Daichi's tech manual sat on the shelf above his desk, spine cracked from years of use, pages dog-eared in a dozen places where his father had marked something worth coming back to. The folded note was still tucked in at the controller diagrams, right where he'd left it. Tatsuya pulled the manual down, the weight of it familiar in his hands, and tucked it under his arm without thinking twice.
 
 *"Might need this. Just a hunch."*
 
@@ -72,7 +98,7 @@ He pushed through the front doors and the smell hit him first, something clean a
 
 The ground floor read more showroom than store, third-gen helmets mounted on individual pedestals under warm spotlights, HGO's compass rose etched into the glass casing around each one, reflections bouncing off polished floors that looked like nobody was allowed to actually walk on them. A wall-sized display looped match highlights on a screen taller than he was, Yuna's voice cutting through the ambient noise every time the reel restarted.
 
-"...and that's game, London Spire takes the World Championship in a clean three-to-one..."
+"...and that's game, London Spire takes the Season Zero Championship, three hundred points and the Snowy Plains..."
 
 *"Of course they're playing that on repeat."* He kept his head down and kept moving.
 
@@ -174,6 +200,12 @@ Text appeared in front of him, floating at eye level, clean white letters that d
 
 ***[CHARACTER CREATION WILL NOW BEGIN]***
 
+A small bead of light drifted out of the white and settled at eye level, bobbing in place like it was too excited to hold still, and a bright, bubbly voice rang out of nowhere.
+
+***[Hi there! I'm Lumi, your guide to Eryndal! Let's find the perfect you!]***
+
+*"A mascot. Of course there's a mascot."* He let out one breath through his nose, almost a laugh, and kept his eyes on the wheel.
+
 A wheel materialized in the space in front of him, spinning slowly at first, each segment marked with a race name and a small icon rendered in fine detail. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin. The Goblin ***segment sat near the bottom, glowing a dull red compared to the brighter colors around it, and even without reading the stats he could tell it was flagged as the lowest-tier option, the joke pick nobody took seriously.
 
 *"Elf. That's the play. Knew that before I even walked in here."* His hand moved toward the Elf segment, ready to lock it in and move on to the actual important part, attribute allocation, but something made him hesitate, his fingers hovering in the air a few inches from the wheel.
@@ -187,6 +219,10 @@ But curiosity was a hell of a thing and his hand drifted.
 In a moment of impulse he didn't fully understand, his hand moved and tapped the Goblin segment, just a light touch, barely a press.
 
 The wheel lurched to a stop.
+
+***[Oh! W-wait, that segment isn't...]***
+
+Lumi's voice tripped over itself and stretched thin, and the bead of light shuddered at the edge of his vision.
 
 The lights flickered.
 
@@ -208,7 +244,7 @@ Tatsuya blinked hard, trying to clear his vision, but there was nothing to see y
 
 "Alright," Leon said, footsteps retreating, boots scuffing on the floor outside. "Let me know if it kicks again. Might be the age of the hardware, these things aren't built like there were years ago"
 
-The lights stabilized. The hum returned, lower now, steadier. The white void flickered back into existence around him, walls resolving out of nothing, and the character-creation wheel reappeared in front of him, but it wasn't spinning anymore.
+The lights stabilized. The hum returned, lower now, steadier. The white void flickered back into existence around him, walls resolving out of nothing, and the character-creation wheel reappeared in front of him, but it wasn't spinning anymore. The bead of light was gone. Whatever Lumi had been about to say, she wasn't there to say it.
 
 It had stopped.
 

@@ -62,13 +62,13 @@ His bank balance ticked up on the screen, and he stood there in the back hallway
 
 He pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. His own profile loaded first, follower count still embarrassingly low in the corner. He typed out a real bio this time, not the blank field he'd left sitting there for a year, something short about the goal, pro league eventually, cut it down twice before he let it post. Then he backed out to the feed, and the feed was already loud.
 
-**[@PK_Wraith: World Quest just popped at Lunarest. First one in almost two years. Y'all better believe we're getting a piece of that.]**
+**[@PK_Wraith: World Quest just popped at Lunarest. First one in months. Y'all better believe we're getting a piece of that.]**
 
 **[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
 
-*"Yeah, I bet you are."* He scrolled past a dozen reposts of the same thing. then a different thread stopped him, guild leaders going back and forth about whether it was worth resetting their characters yet for the Crystal League's Legacy Point payout, half of them still sitting on frozen accounts, unwilling to start over at level one for a system nobody had fully mapped out yet.
+*"Yeah, I bet you are."* He scrolled past a dozen reposts of the same thing. then a different thread stopped him, guild leaders going back and forth about whether it was worth resetting their characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their old accounts, unwilling to start over at level one for a system nobody had fully mapped out yet.
 
-*"Wild. I get attached but the account's gone regardless, and waiting means missing the Winter Bash shot. That's the difference between pro team and top guild, The pro team would switch first. "*
+*"Wild. I get attached but the account's gone regardless, and waiting means missing the Crownfall shot. That's the difference between pro guild and top guild, The pro guild would switch first. "*
 
 He filed that thought somewhere useful and killed the screen.
 
@@ -152,7 +152,7 @@ Tatsuya pulled the chair close and sat, elbows on his knees, hands loose between
 
 The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something he couldn't catch.
 
-"I got into the game," he said. "HGO. Finally. Only took me saving up for two years and hacking an antique pod in someone's back room." He let out a short breath, almost a laugh. "Got locked into the worst race in the game by accident. Power went out mid-creation, whole thing glitched, now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
+"I got into the game," he said. "HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." He let out a short breath, almost a laugh. "Got locked into the worst race in the game by accident. Power went out mid-creation, whole thing glitched, now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
 
 He leaned back, ran a hand over his locs, pushed the loose one back where it kept falling.
 
@@ -160,7 +160,7 @@ He leaned back, ran a hand over his locs, pushed the loose one back where it kep
 
 The words came easier here than they did anywhere else. Something about a room where nobody was watching.
 
-"Winter Bash is two weeks out. Ten million yen prize pool. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about competing in it." He paused. "But the meta's shifting. Everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody. I'm actually ahead."
+"Crownfall is two weeks out. Ten million yen prize pool. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about competing in it." He paused. "But the meta's shifting. Everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody. I'm actually ahead."
 
 He stopped, throat going tight. Let the quiet sit a second before pushing through it.
 
@@ -240,7 +240,7 @@ A friend code sat at the top, a string of letters and numbers in clean, careful 
 
 December 23rd. 689450YY 
 
-*"Two days before Winter Bash."* He turned the paper over, checking the back like something else might be there. Nothing.
+*"Two days before Crownfall."* He turned the paper over, checking the back like something else might be there. Nothing.
 
 He pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. *Six months. Chiyo knew.* The two things sat next to each other in his chest, the note and the sentence, and neither one would stay separate from the other.
 

@@ -4,7 +4,7 @@ Nobody left at WattsUp this late but Tatsuya. He worked a rag along the counter 
 
 The counter had been clean for an hour already. Outside, the canopy lights hummed over three empty charge bays, the tall pylon sign out front cycling through ad after ad against a sky gone fully dark. Past the pumps and the string of little flags along the canopy's edge, Shibuya kept doing what Shibuya did at midnight, glowing like it had somewhere better to be.
 
-The screen mounted over the register ran what it always ran, HGO, thanks to the corporate sponsorship deal Gato had signed back when the company still thought esports partnerships meant something for foot traffic. Most nights that meant a solo-queue replay or some pro-league scrim looping quietly in the background while he worked. Tonight it meant the real thing. Championship Sunday, the one broadcast all year that actually earned the volume turned up.
+The screen mounted over the register ran what it always ran, HGO, thanks to the corporate sponsorship deal Gato had signed back when the company still thought esports partnerships meant something for foot traffic. Most nights that meant a solo-queue replay or some guild scrim looping quietly in the background while he worked. Tonight it meant the real thing. Championship Sunday, the one broadcast all season that actually earned the volume turned up.
 
 He caught himself in the dark half of the window between the counter and the door and looked longer than he meant to. Locs pulled back off his face with an elastic gone soft from reuse, a few loose ones falling free at his temple no matter how many times he tucked them back. The scar over his right brow, thin and pale, catching the fluorescent light at an angle that made it look almost fresh even eleven years out from the car accident that put it there. Dark skin gone sallow under the store lighting, the kind of tired that lived behind the eyes more than anywhere else. He had his mother's height and his father's hands, steady and precise, the kind that fixed things instead of breaking them, and some nights working nights like this that felt like its own kind of inheritance he wasn't sure he'd earned yet.
 
@@ -20,11 +20,11 @@ He typed back a thumbs-up emoji, because a thumbs-up cost nothing and didn't inv
 
 On the screen above the register, Yuna's bright, familiar voice was riding over the arena noise, cutting through the low commentary hum with the kind of energy that made even a blowout sound hype.
 
-*"And if you're just tuning in, I'm Yuna, and welcome to the World Championship, live from Singapore, the biggest night HGO throws all year!"* Her voice pitched up slightly, matching the crowd roar underneath. *"London Spire's up 190 to 150 over Aogiri, and Aogiri's down to their last three lives as a team. For anyone new to the competitive side of things, that's a 3v3 fight over three control points, first team to two hundred takes it, or you burn through all thirty of your team's shared lives trying. And unlike other straight battle-arena VRMMORPGs, in HGO whatever these players have actually earned back in Eryndal rides into this match with them, don't let the fancy gear on-screen fool you into thinking it's cosmetic."*
+*"And if you're just tuning in, I'm Yuna, and welcome to the Season Zero Championship, live from Singapore, the biggest night of the beta!"* Her voice pitched up slightly, matching the crowd roar underneath. *"We're deep in the Battle of the Snowy Plains, and London Spire's up 270 to 230 over Aogiri, twenty players against twelve after three days of seventy-two-hour death locks bleeding both rosters dry. For anyone new to the competitive side of things, that's a siege fight where the first side to three hundred points takes it, and every player who falls sits out three full days. And unlike other straight battle-arena VRMMORPGs, in HGO whatever these players have actually earned back in Eryndal rides into this match with them, don't let the fancy gear on-screen fool you into thinking it's cosmetic."*
 
 *"Yuna."* The name surfaced automatically, tied to Momo's whole personality lately, her voice blasting through a closed bedroom door most nights singing along to tracks Yuna had performed in some virtual space in HGO. Tatsuya didn't have the energy to be impressed by her tonight, but some habits didn't need energy to run, his eyes tracked back to the screen before he'd decided to look.
 
-The arena cam cut to a wide shot, three players in midnight-blue kits holding a central platform while London Spire's gold-and-white pushed from two angles at once. Tatsuya watched without meaning to and read the whole thing before it happened, the kind of read that came from watching this game for years even if he'd never played it himself. *"One more death and Aogiri's fighting the rest of this two-on-three. There's exactly one right play left: sit the point, force London to come get it, pray for a slow bleed to two hundred instead of a fight they can't win."*
+The arena cam cut to a wide shot, a line of players in midnight-blue kits holding a central platform while London Spire's gold-and-white pushed from two angles at once. Tatsuya watched without meaning to and read the whole thing before it happened, the kind of read that came from watching this game for years even if he'd never played it himself. *"One more break in that line and Aogiri's fighting the rest of this a man down against twenty. There's exactly one right play left: sit the point, force London to come get it, pray for a slow bleed to three hundred instead of a fight they can't win."*
 
 Aogiri's captain squared up anyway, weight shifting forward on-screen, committing to a push off the point, abandoning the high ground for an engage that made Tatsuya's hands go flat on the counter.
 
@@ -32,9 +32,9 @@ Aogiri's captain squared up anyway, weight shifting forward on-screen, committin
 
 Behind him, sound cracked out of the speaker, sharp electronic hits stacking fast over each other, a double-kill chime that made the crowd explode, then one low, resonant tone that meant something had just ended for good.
 
-He didn't need to turn around for that part. He already knew what it sounded like when lives went to zero.
+He didn't need to turn around for that part. He already knew what it sounded like when a score hit the cap.
 
-"That's game!" Yuna's voice cut through the noise, half-shouting over the arena's eruption. "London Spire takes the World Championship, forty million yen and the trophy, in front of a sold-out house here in Singapore and however many millions of you are watching from home!"
+"That's game!" Yuna's voice cut through the noise, half-shouting over the arena's eruption. "London Spire takes the Season Zero Championship, forty million yen and the trophy, in front of a sold-out house here in Singapore and however many millions of you are watching from home!"
 
 Tatsuya let himself turn back around just in time to catch the confetti falling, gold and white streaming down over the stage. 
 
@@ -46,7 +46,7 @@ The broadcast didn't cut to credits. It cut to a soundstage draped in silver and
 
 Kazuku. Nobody knew his real face. Just the bear, round-bellied and grinning, HGO's compass-rose logo stitched across a vest that always looked freshly pressed no matter how many times he wore it on camera. He stood on a stage animated through holographic projection tech Singapore had been pioneering for years, his avatar presence as real to the crowd there as if he'd walked out in person.
 
-*"Congratulations to London Spire,"* the bear said, arms spread wide like he meant to hug the whole arena, voice warm and genuine in a way that always made Tatsuya suspicious of. *"And to every team that fought for that stage tonight. You've reminded the world why we do this."*
+*"Congratulations to London Spire,"* the bear said, arms spread wide like he meant to hug the whole arena, voice warm and genuine in a way that always made Tatsuya suspicious of. *"And to every guild that fought for that stage tonight. You've reminded the world why we do this."*
 
 He paused, let the applause roll through and fade, then his expression shifted into something brighter.
 
@@ -54,13 +54,13 @@ He paused, let the applause roll through and fade, then his expression shifted i
 
 Gold light bloomed across the screen behind him, a map pattern Tatsuya recognized a half-second before his brain caught up. Not one continent anymore but five.  Five separate landmasses where there had only ever been one, each one detailed enough that he could see mountain ranges and coastlines rendered in fine, deliberate strokes.
 
-*"Eryndal is growing,"* Kazuku said, and the arena noise swelled again, louder this time, people on their feet. *"The Crystal League expansion arrives January 1st. Five new continents. Kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are and what you've done. Earn their trust, or don't. And competitive play is growing with it, three-on-three becomes five-on-five, more room for specialists, more room for strategy, more room for the kinds of plays we've never seen before."*
+*"Eryndal is growing,"* Kazuku said, and the arena noise swelled again, louder this time, people on their feet. *"The Hearthfire expansion arrives January 1st. Five new continents, each one favoring the people born to it. Kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are and what you've done. Earn their trust, or don't. And competitive play is growing with it, guild sieges of twenty a side, a Siege Pro League that goes national and global, more room for specialists, more room for strategy, more room for the kinds of plays we've never seen before."*
 
 Tatsuya's weight shifted forward slightly like he could lean into the screen and see the map more clearly if he just got close enough.
 
 *"Damn. That's gonna flip the entire meta."* His first thought, immediate and sharp, the kind of read that came automatic after years of watching this game from the outside. *"Hybrid builds are about to be obsolete. Everyone's gonna have to rebuild from scratch."*
 
-*"And for every fresh face walking in new,"* the bear went on, *"we'll be hosting the three-on-three Winter Bash tournament for new characters only, starting Christmas Day."* He reached behind his back and produced an oversized access drive, the kind of theatrical prop that only worked because he was ten feet tall and made of CG, gold light spilling off it like it was the most important object in the world. *"And whether you're stepping into Eryndal for the first time, or you've been circling the idea of setting up shop in the new economy, there's never been a cheaper way in. For the next seventy-two hours only, every HGO access drive is fifty percent off. And about your existing avatar, every character level locks from this moment. Legacy Points waiting to be spent or cashed out on your terms, and once you're on the new avatar the old will be deleted. "*
+*"And for every fresh face walking in new,"* the bear went on, *"we'll be hosting the Crownfall Siege tournament for new characters only, starting Christmas Day."* He reached behind his back and produced an oversized access drive, the kind of theatrical prop that only worked because he was ten feet tall and made of CG, gold light spilling off it like it was the most important object in the world. *"Open beta starts tonight. And whether you're stepping into Eryndal for the first time, or you've been circling the idea of setting up shop in the new economy, there's never been a cheaper way in. For the next seventy-two hours only, every HGO access drive is fifty percent off. And about your existing avatar, every closed-beta character locks at its level once the expansion launches. Legacy Points waiting to be spent or cashed out on your terms, and once you're on a new avatar the old one is retired. "*
 
 The number appeared on-screen beneath him, clean white text against the dark: **50% OFF - 72 HOURS ONLY**.
 
@@ -84,13 +84,13 @@ The driver's door swung open first, and blonde hair caught the streetlight befor
 
 Tatsuya's posture shifted as soon as he recognized who it was.
 
-*"Eren."* He knew that emblem like the way he knew the scar over his own eye, had seen it enough times on streams and burned it into his memory whether he wanted it there or not. Kansai Black Lotus. Eren's team. Funded by Tabuchi money, built on a concept Tatsuya had helped him theorize back when they'd still been friends.
+*"Eren."* He knew that emblem like the way he knew the scar over his own eye, had seen it enough times on streams and burned it into his memory whether he wanted it there or not. Kansai Black Lotus. Eren's guild. Funded by Tabuchi money, built on a concept Tatsuya had helped him theorize back when they'd still been friends.
 
 He let nothing show on his face. Went still instead, hands flat on the counter, breathing steady and controlled the way he always did when something was about to go wrong and there was no clean way to stop it.
 
 The passenger door opened a second later. Silver hair, warmup jacket slung over one shoulder, still half in a practice kit that looked expensive even from across the lot. Tatsuya's eyes tagged the build before his memory supplied the name.
 
-Haruto. Kansai Black Lotus's star tank, the guy they'd built half their roster around, Rookie of the Year last season, top ten in the rankings, the kind of player people actually respected instead of just hyping for content.
+Haruto. Kansai Black Lotus's star tank, the guy they'd built half their roster around, Breakout Player of the Season, top ten in the rankings, the kind of player people actually respected instead of just hyping for content.
 
 *"Great. Exactly what I needed tonight."*
 
@@ -110,7 +110,7 @@ Tatsuya's face didn't move. Some small muscle around his mouth flattened out, ti
 
 Eren didn't answer that. He leaned into the counter instead, both hands flat on the surface Tatsuya had just cleaned, close enough that Tatsuya caught the cologne cutting through the cold night air he'd brought in with him, something sharp and expensive.
 
-"You watching the broadcast?" Eren asked, tilting his chin up toward the screen where Kazuku's bear avatar was still grinning behind scrolling captions about the expansion launch. "Crazy night, right? We got bounced two days before the final. "
+"You watching the broadcast?" Eren asked, tilting his chin up toward the screen where Kazuku's bear avatar was still grinning behind scrolling captions about the expansion launch. "Crazy night, right? We got bounced out of the top eight. "
 
 "Heard about that," Tatsuya said, and left it there.
 
@@ -144,6 +144,8 @@ The door swung shut behind them with a soft chime, and quiet folded back over th
 
 Tatsuya stood there a moment longer than he needed to while watching through the window as the black car's taillights disappeared down the block, red glow fading into the ambient neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the space.
 
+*"He just carries the message. Doesn't even know what's in the envelope."* The thought came flat and certain, the kind he'd stopped questioning somewhere between the funeral and the third phone call. Whatever Eren's father was really after, it had never been Eren's to know, and Tatsuya ran his thumb once along the edge of the counter before he reached for the lights.
+
 He looked up at the screen. The bear was gone. In its place, the discount banner ran on a loop, gold numbers ticking down a countdown that had just crossed under seventy-two hours.
 
 **71:42:18**
@@ -156,13 +158,13 @@ He then moved through closing on autopilot, muscle memory carrying him when his 
 
 Around back, the Haya EB Moped was sitting exactly where he'd left it, old paint gone matte in patches under the yellow security light, the helmet hanging off the handlebar where he always left it when he knew nobody else would be back here. He pulled it on, tucked the loose loc back into place before it could get caught in the strap, and swung a leg over the seat, the cold leather biting through his jeans.
 
-The touchscreen between the handlebars flickered awake under his thumb the way it always did, half a second of hesitation like it didn't trust him yet, the old hardware taking its time. He waited it out, thumb still pressed flat to the glass, until the dash finally lit green and the charge indicator climbed to full.
+The touchscreen between the handlebars flickered awake under his thumb the way it always did, half a second of hesitation like it didn't trust him yet, the old hardware taking its time. He waited it out, thumb still pressed flat to the glass, until the dash finally lit green and the charge indicator climbed and stalled at two bars, not the full it should've read after a day on the charger.
 
-He kicked the stand up, rolled it forward off the curb with his feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white, neon bleeding together in the rain that had started sometime in the last ten minutes without him noticing. The streets were emptier now, past the point where the last trains had run and the people still out were the ones who didn't have anywhere better to be. He opened it up down an empty stretch, the hum of the electric motor climbing under him, rain needling cold against his cheeks where the helmet didn't quite cover.
+He kicked the stand up, rolled it forward off the curb with his feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white, neon bleeding together in the rain that had started sometime in the last ten minutes without him noticing. The streets were emptier now, past the point where the last trains had run and the people still out were the ones who didn't have anywhere better to be. He opened it up down an empty stretch, the hum of the electric motor climbing under him, rain needling cold against his cheeks where the helmet didn't quite cover. The hum stuttered once, a dip in the climb like the motor had lost its grip on something, then caught again.
 
 Some track was playing low through the scooter's tiny built-in speaker, one of Yuna's, something Momo had dropped into his queue two weeks ago without asking and he'd never bothered deleting.
 
-The ride home ran out from under him before he was ready for it, the Haya EB slowing under his hand as the familiar six-story building came up on his left, the one he'd been looking at every night for two years without ever really seeing it anymore. A striped green awning caught the streetlight overhead, faded a shade lighter than he remembered it being when they'd first moved in, and the plain glass doors of the lobby threw his own headlight back at him for a second before he cut the engine.
+The ride home ran out from under him before he was ready for it, the Haya EB slowing under his hand, the dash blinking dark for a full second and coming back sulky and dim, as the familiar six-story building came up on his left, the one he'd been looking at every night for two years without ever really seeing it anymore. A striped green awning caught the streetlight overhead, faded a shade lighter than he remembered it being when they'd first moved in, and the plain glass doors of the lobby threw his own headlight back at him for a second before he cut the engine.
 
 He parked around back on reflex, in the spot that wasn't technically his but nobody else ever used, and came in through the side door the hotel staff used during the day.
 
@@ -192,7 +194,7 @@ He took the steps two at a time, his boots landing heavy on each one, the sound 
 
 Upstairs, the apartment was mostly dark. Momo's door was cracked open, a wedge of pink light spilling into the hallway, her voice humming along under her headphones to something with way too much reverb, a melody he recognized from the Haya EB ride home. He caught the edge of her phone screen through the gap, @Yuna_N9 pulled up in her browser, some livestream replay looping in the corner, Momo's face lit by the glow as she mouthed the words without actually singing them out loud.
 
-In the front room, Taji was still awake on the couch, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the exact same broadcast Tatsuya had just left behind at WattsUp. The London Spire trophy shot was paused on the screen, confetti frozen mid-fall, three players in gold and white holding hardware that probably weighed more than it looked like it did.
+In the front room, Taji was still awake on the couch, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the exact same broadcast Tatsuya had just left behind at WattsUp. The London Spire trophy shot was paused on the screen, confetti frozen mid-fall, London Spire's captains in gold and white holding hardware that probably weighed more than it looked like it did.
 
 "They actually did it," Taji said, not looking up, his tone pitched somewhere between impressed and envious, assuming the way he always did that Tatsuya had no idea what he was talking about and needed the context explained.
 
@@ -200,11 +202,33 @@ In the front room, Taji was still awake on the couch, wrapped in a blanket he'd 
 
 Taji turned to look at him, eyebrows raised, like Tatsuya had just said something that didn't match the script he'd been expecting. "You actually watched it? Like, the whole match?"
 
-"Most of it," Tatsuya said, leaning back into the couch, one arm stretched along the back cushions. "Wasn't exactly busy tonight. Called the ending three moves before it happened. Meta's about to flip hard with that expansion, too. Five-on-five's gonna kill every hybrid build in the game."
+"Most of it," Tatsuya said, leaning back into the couch, one arm stretched along the back cushions. "Wasn't exactly busy tonight. Called the ending three moves before it happened. Meta's about to flip hard with that expansion, too. Siege's gonna kill every hybrid build in the game."
 
 Taji cracked a small smile at that despite himself, the kind he tried not to give up too easily these days now that he was eleven and thought acting unimpressed made him look older. He shoved the rest of the blanket over without being asked, a peace offering that didn't need words attached to it.
 
 Tatsuya sat there in his own living room and let it land, the broadcast still paused on-screen, Momo's muffled humming bleeding through the walls, Taji's blanket warm against his legs, Chiyo two floors down covering a shift that a retired national-team legend shouldn't have to work at all. None of them had asked this.
+
+The Haya EB's dash was still sulking at the back of his mind, that long blank second before it had come back dim. He pushed himself up off the couch.
+
+"Back in a minute," he said. Taji gave him a nod without looking away from the frozen trophy shot.
+
+His room was the last door down the hall, the converted corner of the apartment his father had worked out of for most of Tatsuya's life, and he didn't bother with the overhead. The desk lamp was enough. The room smelled faintly like old solder and cold circuit boards, the way it had since long before the funeral, and two pale grooves still ran along the floorboards from the desk to the door where a wheelchair had worn them down.
+
+Daichi's tech manual sat on the shelf above the desk, spine cracked from years of use, pages dog-eared in a dozen places. He pulled it down and flipped to the section on the EB's controller board, both hands flat on the desk, his thumb already running down the margin notes in his father's slanted handwriting, looking for the line about the dash resetting itself under load.
+
+Something slid out from between the pages and landed face-up on the desk. A single sheet, folded in thirds, soft at the creases like it had been sealed in there a long time. His father's handwriting again, but not the margin shorthand. Slower. Pressed harder into the paper.
+
+**[Tatsuya. If you're reading this, don't trust the paper trail. Look at who has been leaning on us. Kazuku has what proves it, and he only answers inside the game.]**
+
+Tatsuya read it once for the words and once for the date he couldn't find, because there wasn't one. His hands had gone flat on the desk again without him telling them to.
+
+*"Kazuku. The bear."* The thought came out of him flat, a list already starting behind it. *"Dad knew him. Dad knew the only way to reach him would be inside the game. And 'leaning on us' isn't the Tabuchi calls. It's older than the calls."*
+
+His breath went out through his nose, slow and controlled, and a loose loc slid across his face that he didn't push back. He'd spent a year telling himself the pieces only looked wrong because he was grieving. Standing there with the page still warm from his hands, he knew he was the only one in the apartment who'd been pretending.
+
+He refolded the note along its old creases, slid it back in at the controller diagrams, and set the manual on the shelf exactly where it had been, spine out, because Chiyo and the twins weren't supposed to know there was anything in it to find. *"Later. Can't do anything with it from here."* He killed the lamp and went back down the hall.
+
+Taji hadn't moved. Tatsuya dropped back onto the couch beside him, the blanket warm against his legs again.
 
 He thumbed his phone awake out of habit more than intent, the screen lighting up in his hand, and pulled up Loop without really thinking about why. An account barely a year old, a handful of pros followed and nobody following back, and he scrolled past a wall of reactions to tonight's final, highlight clips, hot takes, people arguing about draft picks and roster moves before he caught himself and backed out.
 
@@ -229,33 +253,5 @@ He locked his phone and set it face-down on the couch beside him, his hand comin
 *"No noob bullshit. Find the fastest route to turn this into money she can't argue with, prove this wasn't just me gambling my future on a dream that doesn't pay."*
 
 He didn't remember closing his eyes.
-
-He came awake wrong, disoriented and sluggish, and knew it immediately before he even opened his eyes, sunlight instead of the dim pre-dawn gray he should've been waking up to, warm against his eyelids in a way that said it was way past morning. His body didn't do sunlight like this, not after a night shift, not without putting up a fight first.
-
-His phone was still in his hand, the screen dark and cool against his palm. He thumbed it awake and the time hit him like cold water: **3:04 PM**.
-
-*"What the hell."* He was up off the couch before the thought finished, blanket sliding to the floor in a heap, the television still running on the same paused replay of London Spire lifting the trophy that it had been showing when he'd closed his eyes. Momo's door stood open now, her room empty, bed made in the haphazard way that meant she'd done it fast before leaving. Taji's side of the couch was cold, no sign of him anywhere in the apartment.
-
-Nobody home but him, and the whole day already gone without his permission, half of his seventy-two-hour window burned while he'd been unconscious on a couch.
-
-*"Slept through the whole damn morning. Great start."*
-
-A note sat on the kitchen counter, folded once, his name written across the front in Chiyo's handwriting. He picked it up and read it standing there in the middle of an empty apartment.
-
-**[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. [Chiyo]**
-
-*"Right. The trip."* He'd known about it for two weeks, had it marked on the calendar stuck to the fridge, and had completely lost track of it.
-
-His phone buzzed in his hand, the vibration startling him more than it should have.
-
-Then again.
-
-A text from an unknown number sat at the top of his notifications, sender marked as **Nexus Enterprises**.
-
-**[Your HGO Access Drive order has been processed and is ready for pickup. Please collect within 72 hours of this notification. Pickup Code: 4472-KAZE]**
-
-Tatsuya read it standing in the middle of an empty apartment, the words landing heavier than a pickup notice had any right to land, his thumb hovering over the message like touching it again would make it more real than it already was.
-
-Whatever came next, it started today. And he was already behind.
 
 **[END CHAPTER ONE]**

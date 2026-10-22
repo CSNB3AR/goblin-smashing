@@ -104,7 +104,7 @@ He dropped his hand from the post. "Two other things. If you haven't caught it o
 
 "Bet." Tatsuya glanced toward the tent flap, toward the gray haze visible through the gap. "One more thing. Can you check if HGO's dropped any patch notes or updates? A lot of what's happening with this garrison system, this World Quest, it all feels like new space. Someone told me we might be in a rare window." He didn't name her. "I want to know if the update is still rolling out."
 
-"Give me a sec." Keys on Leon's end, fast and deliberate, then a pause. "Okay, looking at it. The Crystal League expansion is dripping small updates throughout the game because of how big it is, but they're not dropping full patch notes until after the seventy-two-hour sale window closes." Another pause. "Which is about sixteen hours from now, based on when the Worlds broadcast wrapped."
+"Give me a sec." Keys on Leon's end, fast and deliberate, then a pause. "Okay, looking at it. The Hearthfire expansion is dripping small updates throughout the game because of how big it is, but they're not dropping full patch notes until after the seventy-two-hour sale window closes." Another pause. "Which is about sixteen hours from now, based on when the championship broadcast wrapped."
 
 "Sixteen hours." Tatsuya let that land. The rare-space read was real. The person who'd told him that knew exactly what she was looking at. "That confirms it. Thanks."
 
@@ -258,11 +258,11 @@ He stepped back from the group until the voices inside the tent dropped to a low
 
 A pause. The familiar note of caution rode underneath it, the particular reflex Leon reached for whenever anything touched the arcade arrangement. "Wait. You're bringing her into this? Like, actually into the game with you?"
 
-"It's not about the pods," Tatsuya said, keeping his voice flat and patient. "She came to me. She wasn't asking about the hardware." He looked back at the dark gap in the eastern line where goblins used to stand watch, the bare stakes and the nothing behind them. "She asked me to team with her for Winter Bash."
+"It's not about the pods," Tatsuya said, keeping his voice flat and patient. "She came to me. She wasn't asking about the hardware." He looked back at the dark gap in the eastern line where goblins used to stand watch, the bare stakes and the nothing behind them. "She asked to join my adventure. Crownfall first."
 
 The pause that followed was different from the first one. Something in it shifted, something that took a moment to sort itself into words.
 
-"Wait." Leon's voice came back quieter. "After Worlds? She told me she was done playing. Said it exactly like that, like she'd thought it through." Nothing came through for a moment but the faint ambient sound of a room on the other end. "I didn't know she'd changed her mind."
+"Wait." Leon's voice came back quieter. "After the championship? She told me she was done playing. Said it exactly like that, like she'd thought it through." Nothing came through for a moment but the faint ambient sound of a room on the other end. "I didn't know she'd changed her mind."
 
 That landed somewhere in Tatsuya's chest that he didn't have a name for. He looked at the low watch fires still burning down the eastern stretch, orange embers going gray under ash nobody had touched.
 

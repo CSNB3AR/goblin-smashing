@@ -88,7 +88,7 @@ The floor came up and hit him before he’d registered falling, his knees buckli
 
 He tried to speak and his mouth moved half a second late, the words coming out sluggish and wrong.
 
-“Slowed times four. Can barely move. If this goes bad I’m locked out for seven days and that’s the whole window gone.”
+“Slowed times four. Can barely move. If this goes bad I’m locked out for three days and that’s half the window gone.”
 
 His vision swam slightly at the edges, colors bleeding together, and he forced himself to breathe slow through his nose, trying to ground himself in something real. The smell of smoke and old canvas, the rough texture of packed dirt under his palm.
 
@@ -344,7 +344,7 @@ Notifications came for Ru too, visible in Tatsuya’s peripheral vision.
 
 Ru looked down at his own hands, flexing them slow, testing the new size and weight of himself.
 
-“Use it well,” Shiv said, already starting to fade. “Both of you. They’ll see you different now. Every goblin who’s ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born a century after I died. It’s in their blood, their memory. Don’t waste it.”
+“Use it well,” Shiv said, already starting to fade. “Both of you. They’ll see you different now. Every goblin who’s ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born decades after I died. It’s in their blood, their memory. Don’t waste it.”
 
 Then he was gone, the ash collapsing inward and disappearing entirely, and the freeze holding the rest of the world broke all at once, sound and motion rushing back into the tent.
 

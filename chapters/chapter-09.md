@@ -92,7 +92,7 @@ The first thing that landed as he saw the chat was that it was actively talking 
 
 "I was invited to this chat a while back. It holds some of the best players, guild leaders in Japan. I made a few alliances with the guilds before Fire Festival event. Now it's just something I sit in." She didn't say much after that. Her tone changed, as if she'd cut herself off.
 
-"The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just allied with a player in a game. Aside from Yuna, you're living in rare space. Also, with Winter Bash and new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
+"The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just allied with a player in a game. Aside from Yuna, you're living in rare space. Also, with Crownfall and the new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
 
 She locked the screen and dropped the phone back to her side.
 
@@ -108,23 +108,23 @@ That was his only thought, but on the other side of his heart, he actually wante
 
 He held her gaze for a moment, and the words he knew he had to say came next. "What do you want from me?"
 
-"I want to team with you for Winter Bash," she said, flat and bluntly. Her eyes never left his.
+"I want to join your adventure," she said, flat and bluntly. Her eyes never left his. "Crownfall's just the first stop."
 
-"Winter Bash? Me?" He turned the words over again as if she'd spoken wrong. He wasn't expecting her to say Winter Bash.
+"My adventure? Me?" He turned the words over again as if she'd spoken wrong. He wasn't expecting her to say adventure.
 
 "You know more about this game than you're showing." Something in her voice had shifted, less careful with it now, more direct. "You already started a stream. You managed to unlock stuff no one has seen in the game yet. Maybe it's luck." She stopped. When she started again, her voice had settled back to level. "But I am willing to make that gamble."
 
 He started to say something and she raised a hand, cutting him off before he could.
 
-"I know you heard about my guild. I mean, who hasn't? We got embarrassed at Worlds. I don't want to get into it. The point is that's exactly why I'm here."
+"I know you heard about my guild. I mean, who hasn't? We got cut early at the Season Zero Championship. I don't want to get into it. The point is that's exactly why I'm here."
 
 The hand came back down.
 
 He didn't say anything for a second. The hand was down and she wasn't adding to it.
 
-*"Having her won't be a bad option. I don't have a duo in mind, and her experience in competition is valuable. The only issue is my current situation. I can't prepare if I'm stuck on a hillside. Maybe she can help with that."*
+*"Having her won't be a bad option. I don't have a team in mind, and her experience in competition is valuable. The only issue is my current situation. I can't prepare if I'm stuck on a hillside. Maybe she can help with that."*
 
-He kept his eyes on her. "I could ask why me? But seeing what happened at Worlds, I won't. But if I do say yes, you have to assist me with something first."
+He kept his eyes on her. "I could ask why me? But seeing what happened at the championship, I won't. But if I do say yes, you have to assist me with something first."
 
 She kept her eyes on him, waiting for him to continue.
 
@@ -150,7 +150,7 @@ The look that crossed her face was the kind that came right before a question so
 
 She paused.
 
-"Trust me, I know what the spell does and the description can be deceiving," Tatsuya said, his voice staying level and easy. "I'll cut you a deal. I will accept your Winter Bash offer only if you can help me out of this camp situation. That skill is required, though. I'm not asking for no reason."
+"Trust me, I know what the spell does and the description can be deceiving," Tatsuya said, his voice staying level and easy. "I'll cut you a deal. I will accept your offer only if you can help me out of this camp situation. That skill is required, though. I'm not asking for no reason."
 
 He kept his expression clear, kept his hands where they were, kept his breathing even. He knew exactly what he was asking for.
 
