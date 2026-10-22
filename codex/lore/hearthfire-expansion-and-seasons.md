@@ -40,7 +40,7 @@ A guild-scale arena mode.
 A scheduled, ranked guild-versus-guild circuit that runs through each season. **HGO picks it up at national and global scale**, capitalizing on how popular the small 20v20 Siege became with players who go in carrying items they made in the world. It is the structure the pro-scene money and attention sit on top of (see `codex/pro-scene/tournaments-and-events.md`).
 
 - **Seasonal points per match.** Every match pays points, and winning pays more. Points buy **rare items** from a seasonal shop.
-- **Power cores.** Points (and match materials) also pay out **power cores**, the crafting material that **powers and sources the guild hideout**. Borrowed in spirit from Albion's power cores. **Placeholder name: Embercores**, to be confirmed. This is the reason guilds that do not care about the circuit still have to play it. The same match payouts also feed gathering and crafting materials. Hideout upkeep is an early-game pressure that comes well before expedition and gathering content, and long before the wider expansion content of Act 2.
+- **Ember cores.** Matches also pay out **Ember cores**, the base material that, once refined, powers the guild hall (see "Guild halls" below). Borrowed in spirit from Albion's power cores. Cores use the game's normal rarity ladder (Common, Uncommon, Rare, and so on, see `bible/game-system.md`), run from Common up to Rare by default, and are tradeable. This is the reason guilds that do not care about the circuit still have to play it. The same payouts also feed gathering and crafting materials. Guild hall upkeep is an early-game pressure that comes well before expedition and gathering content, and long before the wider expansion content of Act 2.
 - **High end-of-season rewards** for the top of the circuit.
 - **Full loot, no rebound.** Dying drops items as in the open world, and recovered items do not stay bound to their old owner.
 - **The only mode with no 72-hour lock.** Because it is full loot, the lock is skipped so people can actually grind it without feeling constantly benched. The pass-out lock still applies.
@@ -51,9 +51,16 @@ A scheduled, ranked guild-versus-guild circuit that runs through each season. **
 
 Guilds field NPC troops from their hall to fill the 20-player queue. Crownfall allows a large garrison, the Siege Pro League caps it (see above). Credit for troop kills and objective points routes to the guild member who commands them. Tatsuya's Whispers of Shiv troops count toward his total without him realizing it at first (see `codex/characters/shiv.md`).
 
+### Guild halls and Ember crystals
+
+- **Ember crystals are crafted, not dropped.** Combining enough Rare Ember cores makes a **Legendary Ember crystal**. A crystal's name carries its tier (for example "Legendary [name] Ember Crystal"), following the rarity ladder. World rarity stays reserved for World Quest rewards.
+- **A crystal feeds the guild hall and gives it power.** A guild hall can still run operations without power. Power is what unlocks guild mounts and the other guild mechanics that let a guild develop its fortress.
+- **Where halls sit.** Not always in a city. A hall inside a city requires the guild to own the city (a province, a landing or a lease), and city leases are very hard to get, so a lease is won with standing and NPC ties, not shillings alone. Most guilds therefore build on their **own plot**, and even that is usually a leased plot. In certain areas a guild can instead found a **camp** and grow it, Age of Empires style, into an **outskirts** and then a **town**. That takes enough players, resources and time, which is why big guilds with existing numbers move into the contested zones first and why a small guild such as Tatsuya's cannot be first.
+- **Myrrhwood.** Tatsuya's guild stays small for a long while. As he becomes the more dominant goblin, goblins want to fight beside him for the power it brings, and that is what fuels his early expansion there (see `codex/subplots/goblin-trade-company-forward-plot.md`).
+
 ## Node Wars (the main story after Hearthfire)
 
-After the world maps release, the war the story is about is **Node Wars across the five continents**. Guilds fight over nodes (towns, resource sites, forts) on the real map, with kingdoms and city lords as the backdrop. Holding nodes brings territory, taxes, infrastructure and NPC ties. Contested zones grant buffs and minor perks, while a province or kingdom is a different tier of stakes entirely, real income (see `codex/lore/hgo-timeline-and-real-world-stakes.md`). Existing GvG War material (`codex/pro-scene/tournaments-and-events.md`) is the base. Guild halls, the 20-player queue and the troop system are reused inside node war fights, but the Siege Pro League ladder is separate from them. Seasonal points come most from fights and wars, then world bosses, main quests, and crafting, infrastructure and NPC ties.
+After the world maps release, the war the story is about is **Node Wars across the five continents**. Guilds fight over nodes (towns, resource sites, forts) on the real map, with kingdoms and city lords as the backdrop. Holding nodes brings territory, taxes, infrastructure and NPC ties. Contested zones grant buffs and minor perks, and bigger guilds with existing numbers take them first. A province or kingdom is a different tier of stakes entirely, real income (see `codex/lore/hgo-timeline-and-real-world-stakes.md`). Existing GvG War material (`codex/pro-scene/tournaments-and-events.md`) is the base. Guild halls (powered by Ember crystals), the 20-player queue and the troop system are reused inside node war fights, but the Siege Pro League ladder is separate from them. Seasonal points come most from fights and wars, then world bosses, main quests, and crafting, infrastructure and NPC ties.
 
 ## Season Zero finale
 
@@ -92,9 +99,17 @@ After the world maps release, the war the story is about is **Node Wars across t
 - Kazuku's opening Hearthfire advertisement frames the five continents as favoring certain races.
 - Race and continent: see `codex/locations/eryndal-world-overview.md`.
 
+## Why this matters to the story
+
+The systems above are the stage, not the story.
+- **A way out.** Kazuku's "bring your business here" is legitimate recruitment: it brings people in because the game genuinely pays. It is also the main hook for anyone stuck in debt or needing a reset, since a game that pays can offer a way out, and open-beta characters start on fair ground. That is why Tatsuya joins: the money, Ohema's six-month deadline and the debt come first, and the hints from his father second (see `codex/characters/tatsuya-kazehaya.md`).
+- **He is not the only one.** Hearthfire is "The New World" and its territory is open, so anyone smart will try to make it big or find a business idea for the game. Other guilds, merchants and entrepreneurs (Yuna's family is one precedent) are chasing the same space, so Tatsuya earns his place with connections and products, not by being first.
+- **Connections run the systems.** City leases, hall growth and Myrrhwood's goblins all depend on relationships (Affiliation, NPC ties, trade contacts such as Jiro Amano, Arya the information broker, Nova Market). Ember cores and crystals are one real trade good among many (see `codex/subplots/goblin-trade-company-forward-plot.md`).
+- **Tatsuya's goals stay the spine:** the surgery money, redeeming Dad's product, reaching Kazuku (reachable only inside HGO), beating Eren, and a footing in Myrrhwood.
+
 ## Open items
 
 - Pass-out lock (24 hours) is a default, not a ruling.
 - Whether Crownfall keeps the old level-25 new-region cap is unconfirmed.
 - Whether Crownfall itself carries the 72-hour lock (default: yes, only the Pro League is exempt).
-- Final name for power cores (Embercores is a placeholder), and whether the hideout is the same thing as the guild hall.
+- Exact number of Rare Ember cores per Legendary crystal, the tier names, and whether Rare is the core cap.

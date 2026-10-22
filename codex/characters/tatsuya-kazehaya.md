@@ -38,11 +38,13 @@ See `codex/objects/haya-eb.md` for his scooter, and `codex/objects/hgo-access-dr
 
 See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`, `codex/characters/chiyo-nakamura.md`, `codex/characters/momo-kazehaya.md`, `codex/characters/taji-kazehaya.md`.
 
-## Why HGO, underneath the obvious reasons
+## Why HGO
 
-The surgery money and the Eren rivalry are what he would say first. Underneath both, and **conscious but private**, he suspects what happened to his father was not an accident: the car that crashed Dad's business, the retailers that pulled back, the Tabuchis tightening their grip. He does not say it to anyone. Dad's manual (the first-gen schematics he inherited) holds a **hidden note** that warns and never proves: look at who is leaning on us, only Kazuku has the proof, and he is reachable only inside HGO. The schematics themselves never go in the game. Tatsuya brings **Dad's design logic** (the belt, turrets, gadgets) into HGO to sell and redeem the product, which may also draw Kazuku, and the Tabuchis.
+**Money first.** Tatsuya is stuck in debt and Ohema's six-month deadline is running. HGO, "The New World," is a game that genuinely pays, and it offers a way out when nothing else does. That is why he joins. He is not the only one who sees it: anyone smart is going to try to make it big or find a business idea for the game, so he earns his place with connections and products (see `codex/lore/hearthfire-expansion-and-seasons.md`, `codex/subplots/goblin-trade-company-forward-plot.md`).
 
-HGO was also the world his father spent his last years working toward with Kazuku, a place where a body that could not move freely would not be the ceiling (see `codex/characters/daichi-kazehaya.md`). Some part of Tatsuya is drawn to the PvE and exploration side for that reason, even if he would currently describe it as just liking the grind. The father's design-line and the Kazuku link surface gradually, never as a stated realization early on. See `codex/characters/kazuku.md` and `codex/subplots/tabuchi-schematics-and-family-debt.md`.
+**Second, the hints from his father, conscious but private.** He suspects what happened to his father was not an accident: the car that crashed Dad's business, the retailers that pulled back, the Tabuchis tightening their grip. He does not say it to anyone. Dad's manual (the first-gen schematics he inherited) holds a **hidden note** that warns and never proves: look at who is leaning on us, only Kazuku has the proof, and he is reachable only inside HGO. The schematics themselves never go in the game. Tatsuya brings **Dad's design logic** (the belt, turrets, gadgets) into HGO to sell and redeem the product, which may also draw Kazuku, and the Tabuchis.
+
+**Third, the pull he cannot name.** HGO was also the world his father spent his last years working toward with Kazuku, a place where a body that could not move freely would not be the ceiling (see `codex/characters/daichi-kazehaya.md`). Some part of Tatsuya is drawn to the PvE and exploration side for that reason, even if he would currently describe it as just liking the grind. It surfaces gradually, never as a stated realization early on. See `codex/characters/kazuku.md` and `codex/subplots/tabuchi-schematics-and-family-debt.md`.
 
 ## Key relationships and threads
 
