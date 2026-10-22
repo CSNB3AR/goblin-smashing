@@ -94,13 +94,13 @@ I grabbed the laptop off the counter on my way to the kitchen stool and started 
 
 **[Shiv | HGO lore]**
 
-Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. I scrolled through them twice and gave up.
+Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. I scrolled through them twice and rubbed my eyes with the heel of my hand, the laptop screen too bright for the dim kitchen, and gave up.
 
 Alright, fine. I was learning this one the hard way.
 
 I backed out and pulled up my character sheet, skill list on the left, thumb scrolling. Gambler's Gambit sat there with barely a paragraph under it, the World Quest tag pinned at the top of my log, both active, both about as explained as nothing. I closed a patch-notes post, new World Quest content confirmed rolling out, and sat with that a second.
 
-Everyone out there already knew it was live. That was a target on me whether I wanted one or not.
+Everyone out there already knew it was live. That was a target on me whether I wanted one or not. A cold prickle crawled between my shoulder blades.
 
 I switched to Loop, set my handle to TDRAG to match the game, and set a goblin icon as my profile image instead, something pulled straight off my own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to me.
 
@@ -116,7 +116,7 @@ I almost closed the tab. Then the words Sevish said echoed in my head.
 
 Sevish did say I would be an ally of Thrash, and it held as long as I didn't blow the quest. Two powerful NPCs plus a warband of goblins backing me meant anyone coming after me needed an actual party. That was a commitment on their end too.
 
-Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. Fewer real threats walking around this exact week than there'd be in a month.
+Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. Fewer real threats walking around this exact week than there'd be in a month. I rolled my shoulders, the knot from the shower still sitting stubborn between them.
 
 I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window.
 
@@ -184,7 +184,7 @@ We spent the next twenty minutes going through the parts list from Dad's manual,
 
 "I've got leads on funding it, too," I said. "Not gonna let you front the whole bill on something that's supposed to make you money."
 
-"We'll figure that part out." Leon didn't argue it further, which told me more than an actual answer would have.
+"We'll figure that part out." Leon didn't argue it further, which told me more than an actual answer would have. I tapped a knuckle against the cool frame of the pod and went back down the list, my eyes starting to ache from the small print.
 
 By the end Leon looked more settled than he had when I walked in.
 
@@ -202,13 +202,15 @@ By the end Leon looked more settled than he had when I walked in.
 
 "That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, your gameplay will be displayed on the second monitor. It requires someone to be seated during all sessions in case something happens where the operator has to eject the person playing, aka you."
 
-Makes sense. So basically whoever my operator was would see every move I made from here on out. Something about that settled uncomfortably in my chest, a weight I hadn't anticipated sitting there.
+Makes sense. So basically whoever my operator was would see every move I made from here on out. Something about that settled uncomfortably in my chest, a weight I hadn't anticipated sitting there. I squinted at the dead second monitor, the fluorescent tubes overhead throwing a flat glare across its black glass.
 
 "Third-gens do it with a VR agent instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. Old pods don't have that, so it's gotta be an actual body in the chair for most sessions."
 
 "That's pretty strict for just gaming, right?"
 
 "Tell that to VRSA," Leon said, and a little of his usual dry humor came back, the corner of his mouth twitching. "I'll do it myself, for what it's worth. Keeps this whole thing quiet a while longer, and honestly." He paused, rubbed the back of his neck again, avoiding eye contact. "I also thought about the sponsorship idea, and I'll be honest, my grandpa was against stuff like that, mainly because corporations always have funny business attached. I know it sounds crazy because I haven't even seen you play this game yet, but because of what you're willing to do for us in fixing these things, I'm willing to take a gamble on you too. So while you're in there, consider me your eyes out here. I may not play, but Arya's been talking my ear off about HGO since before the beta started, so I can at least be a resource when you need something on this side."
+
+I dragged a hand back through my locs and let out a slow breath while that landed.
 
 "That works for me," I said, and meant it. "Appreciate that. And to keep it clean and real with you, my gamble's got a real need behind it. My mom's sick, in a coma, and I need money fast. Real fast. I think HGO's blessed me with something that can actually get that done."
 

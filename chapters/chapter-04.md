@@ -58,11 +58,15 @@ He laid it out plain and rough, no sugarcoating, just the facts.
 
 "Myrrhwood is hell right now. Gets worse every year. Shiv's been gone for nearly half a century and the clans have never found their footing again without his leadership. That's the real reason Wyx and I gathered people and came all the way out here to find what Shiv was hiding before he disappeared, and maybe bring that knowledge back to our people so we can actually survive what's coming."
 
+I shifted my weight onto the other foot, the cold of the packed dirt coming up through my thin boots, and kept my eyes on his face.
+
 "We've tried the rally three times now," Sevish continued, his tone matter-of-fact, not defensive. "Failed all three times. Couldn't get past the city guard and their allies."
 
 Three times. He was saying it like it was a specific number that mattered. I filed the detail away, not sure why it felt important but trusting my instinct that it was.
 
 "Tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "Doesn't work, but what you did back there, moving through instead of fighting head-on, using terrain, that's not something anyone here can do. Could be what we need."
+
+My clawed fingers curled against my thighs, the tips pressing small dents into the rag over my knees.
 
 "The library," I repeated, making sure I understood correctly. "You want me to get into the Grand Library of Lunarest."
 
@@ -72,7 +76,7 @@ Three times. He was saying it like it was a specific number that mattered. I fil
 
 "You complete this, you're under Thrash protection. You're ours, and we're yours. Anyone comes for you, they're coming for the clan."
 
-He was offering real, long-term backup. That was not nothing, especially if higher-level players started hunting the World Quest. I couldn't just throw that away.
+He was offering real, long-term backup. That was not nothing, especially if higher-level players started hunting the World Quest. I couldn't just throw that away. A bead of sweat rolled down my temple, slow and ticklish, and I let it go instead of wiping it.
 
 "And if I don't?" I asked, needing to hear the other side spelled out just as clearly.
 
@@ -81,6 +85,8 @@ Sevish's gold tag flickered again, and so did Wyx's, both of them reacting to th
 Stupid question. I knew what the answer was going to be before he said it.
 
 "Then you stay here," Sevish said, and there was no heat in his voice, no threat, just the plain statement of fact delivered like he was commenting on the weather. "I don't let someone who can drop two of my enforcers walk off into the world without knowing which side they're actually on. And understand this. If you take the job and don't come back, we're leaving. If we cross paths after that, you're an enemy. Simple as that."
+
+My jaw tightened, the small sharp teeth of this new mouth catching against my lip.
 
 Wyx spoke for the first time since we'd entered the tent, her voice dry and carrying a hint of warmth that didn't quite match the sharpness in her eyes. "He was entertaining, at least. That's worth something."
 
@@ -126,6 +132,8 @@ Two guards stepped forward from where they'd been standing just inside the tent 
 
 **[TIME LIMIT: 7 DAYS IN-GAME]**
 
+I squinted at the wall of text like narrowing my eyes would make it read any better, the glow of it sitting hot behind my forehead.
+
 The guards walked me back out of the tent and through the camp, past the arm-wrestling match that had fully broken up now, people dispersing back to their fires and their own business, past the older goblin who'd gone back to mending that same torn shirt by the light of a small lamp, needle moving in the same patient rhythm. The stew pot was down to nothing but coals now, one last goblin scraping the very bottom of it with a wooden spoon, the metallic sound of wood on metal carrying across the quieter parts of camp.
 
 They stopped at a tent near the eastern edge of the camp, away from the central fires but still close enough that I could hear the low murmur of conversation and the occasional burst of laughter from goblins still awake and moving around. One of the guards pulled the tent flap open, canvas rustling. "Inside."
@@ -142,7 +150,7 @@ Farther out, past the immediate camp sounds, a dog barked once and went quiet, a
 
 I pulled out the two green vials from the pouch at my belt and turned them over in my clawed hands, watching the way the lamplight caught in the glass and made the liquid inside seem to glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
 
-Sixteen thousand eight hundred yen total. Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll, making sure they wouldn't roll away. First real money this game had ever paid me. Not a bad first login.
+Sixteen thousand eight hundred yen total. Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll, making sure they wouldn't roll away. First real money this game had ever paid me. Not a bad first login. I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and felt my shoulders come down an inch.
 
 Once I was back online I'd just accept his mission so I could get things moving. I thought about Chiyo waiting at home, about Tochi sitting there as an option I'd been avoiding for months, about my mom in the hospital and the surgery I still couldn't pay for.
 

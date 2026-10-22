@@ -52,7 +52,7 @@ I confirmed it, already bracing to wait on a listing. Instead the vials vanished
 
 **[BANK BALANCE: ¥64,120]**
 
-That fast? I read it again. Then the logic caught up. Common gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up. No bidding, no waiting on a real buyer. Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve.
+That fast? I read it again. Then the logic caught up. Common gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up. No bidding, no waiting on a real buyer. Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve. I squinted against the glare of the screen in the dim hallway and tilted it away from my face.
 
 My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that four hours of getting chased around a goblin camp hadn't managed to.
 
@@ -68,7 +68,7 @@ Yeah, I bet you were. I scrolled past a dozen reposts of the same thing, then a 
 
 Wild. Their accounts were getting locked at launch whether they liked it or not, and waiting meant missing the Crownfall window. Not my problem. I was already starting at level one.
 
-I filed that thought somewhere useful and killed the screen.
+I raked a hand through my locs, the elastic tugging at my scalp, and filed that thought somewhere useful before killing the screen.
 
 Leon was at the counter when I stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
 
@@ -91,6 +91,8 @@ Leon's eyebrows went up. "Go ahead."
 Leon went very still. "Is the machine okay?"
 
 "It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. Your second pod is a shell right now, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
+
+I shifted my weight off the counter, my legs still not quite trusting the floor after the pod.
 
 Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
 
@@ -118,13 +120,15 @@ Leon leaned back against the counter, arms loose. "Okay. Here's what I want to d
 
 "And if this actually comes together," Leon said, "one of those pods is yours. Permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. Just keep it quiet until we're actually ready. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
-Sponsored. I turned the word over once, testing it. Yeah. Okay. That worked.
+Sponsored. I turned the word over once, testing it. Yeah. Okay. That worked. A muscle in my cheek twitched as I tried to keep a grin off my face.
 
 "One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
 
 "I'll get it done," I said.
 
 I meant it more than the two words let on. Patching a pod with a bypass and Dad's old notes was one thing. Getting it clean enough to pass a real safety inspection was something else, and that knowledge lived in exactly one place. Tochi had the actual coursework, the technical foundation Kazuku had built the third-gen hardware on, and I could order parts through the academy too. I'd been running on what my dad left behind. If I wanted to do this right instead of just keeping it alive with duct tape and hope, I needed what Tochi was teaching.
+
+I pressed the heel of my hand against my eyes until a few dull colors bloomed behind the lids.
 
 The thought had felt like a loss a week ago. It didn't feel that way anymore.
 
