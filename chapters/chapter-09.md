@@ -46,7 +46,7 @@ He looked up from the phone. "I was born here in Shibuya." He glanced briefly ba
 
 Something settled in her expression. Her eyes moved briefly to the phone still in his hand, the lock screen still lit. "She the one on your screen?"
 
-He looked at her. She'd seen it. "Yeah. She's been sick for a bit, so this image is pretty old." He didn't look back up right away after he said it.
+He looked at her. "Yeah. She's been sick for a bit, so this image is pretty old." He didn't look back up right away after he said it.
 
 "Well, might not want to call your mom old to her face." She began chuckling slightly, trying to better the mood. "She is beautiful, by the way." She said it softly, taking a few steps off the operations desk toward him.
 
@@ -104,7 +104,7 @@ She locked the screen and dropped the phone back to her side.
 
 That was his only thought, but on the other side of his heart, he actually wanted to hear her proposal. She did just give him information that would help him move differently.
 
-"It's a gamble I'm willing to take." She slid her hands into the back of her pockets in a swaying stance.
+"It's a gamble I was willing to take." She slid her hands into the back of her pockets in a swaying stance.
 
 He held her gaze for a moment, and the words he knew he had to say came next. "What do you want from me?"
 
@@ -112,7 +112,7 @@ He held her gaze for a moment, and the words he knew he had to say came next. "W
 
 "My adventure? Me?" He turned the words over again as if she'd spoken wrong. He wasn't expecting her to say adventure.
 
-"You know more about this game than you're showing." Something in her voice had shifted, less careful with it now, more direct. "You already started a stream. You managed to unlock stuff no one has seen in the game yet. Maybe it's luck." She stopped. When she started again, her voice had settled back to level. "But I am willing to make that gamble."
+"You know more about this game than you're showing." Something in her voice had shifted, less careful with it now, more direct. "You already started a stream. You managed to unlock stuff no one has seen in the game yet. Maybe it's luck." She stopped. When she started again, her voice had settled back to level. "I won't find out if I don't ask."
 
 He started to say something and she raised a hand, cutting him off before he could.
 
@@ -186,7 +186,7 @@ She reached out and tapped Leon once on the shoulder as she passed him, a light,
 
 Leon watched the door close. The arcade's low hum filled the space back in. Then he looked at Tatsuya.
 
-"Your sister is crazy bro," Tatsuya said.
+"Your sister is different," Tatsuya said in the nicest way he could.
 
 "Yeah." Leon shook his head once. "Tell me about it."
 

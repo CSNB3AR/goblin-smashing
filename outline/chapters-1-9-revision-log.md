@@ -1,8 +1,12 @@
-# Chapters 1-9 Revision Log (and ch10 term fixes)
+# Chapters 1-10 Revision Log
 
-Every change made to the drafted chapters to bring them in line with the Hearthfire / Crownfall / Season Zero canon (see `codex/lore/hearthfire-expansion-and-seasons.md`, `codex/lore/timeline-and-beta.md`). Changes are word and sentence level except the items marked **NEW, PROPOSED** and the one **structural** move. Line numbers are the line in the file BEFORE the edit within that chapter's edit session, so treat them as approximate. Review the NEW passages first, they are drafts in your voice for you to rework.
+Every change made to the drafted chapters to bring them in line with the Hearthfire / Crownfall / Season Zero canon (see `codex/lore/hearthfire-expansion-and-seasons.md`, `codex/lore/timeline-and-beta.md`). Changes are word and sentence level except the items marked **NEW, PROPOSED** and the one **structural** move. Line numbers are approximate. Review the NEW passages first, they are drafts in your voice for you to rework.
 
-**Not changed on purpose (flagged):** "watching this game for years" (ch1) and "studied this game for years" / "three years of caster build research" (ch2, ch3) now rest on pre-launch hype, since the closed beta only ran eight to nine months. The sweepstakes line is not on the chapter pages. Leon's "two years on pods" (ch6), the -3,014,200 Tabuchi notice (ch6) and the 7-day quest timer (ch4) stay. The Doppelganger's Band is not on the page in ch9, so nothing was removed.
+## Check against your PDFs (Chapters_8-9.pdf and goblin_smashing_updated_with_notes.pdf)
+
+I diffed every repo chapter against your PDFs word for word before these edits. **Chapters 1 to 6 in the repo were identical to your PDF.** Chapter 7 matched except for the character sheet that sits after "END CHAPTER SEVEN" at the back of your PDF (that sheet is not part of the chapter text, and the chapter 8 sheet already carries the same stats). **Chapters 8 and 9 had drifted from your updated PDF** (older wording and a few lines that were not yours, such as the level 5 arena paragraph, "your sister is crazy bro", and "I am willing to make that gamble"). Those are now restored to your PDF wording, with only the canon changes layered on, and the leaked prompt text at the end of your chapter 9 section left out. For chapter 10, your PDF holds three drafts: draft 3 matches the Part One in the repo (already reconciled), and draft 1 is the same Part One plus the "Part Two" raid, which is now on the page. Two rough spots in your PDF I kept as written: "the Loop icon buried on top of each other with some HGO Notifications floating" (ch8), and "the same one from earlier" (ch8, one word added because your PDF lost the name).
+
+**Not changed on purpose (flagged):** "watching this game for years" (ch1) and "studied this game for years" / "three years of caster build research" (ch2, ch3) now rest on pre-launch hype, since the closed beta only ran eight to nine months. The sweepstakes line is not on the chapter pages. Leon's "two years on pods" (ch6), the -3,014,200 Tabuchi notice (ch6) and the 7-day quest timer (ch4) stay.
 
 
 ## Chapter 1
@@ -608,6 +612,133 @@ AFTER:
 Three days locked out if he died down there. Three days he didn’t have, not with Crownfall sitting fifteen days out, not with no team locked in yet.
 ```
 
+### 08.3  (approx. line 9)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+still churning off whatever the Shiv reveal had lit under it a few minutes ago.
+```
+AFTER:
+```
+still churning off whatever the Shiv reveal had lit under it.
+```
+
+### 08.4  (approx. line 72)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+**[ANCIENT BONE FLAME BARRAGE – TIER 5]**
+**[GOBLIN GAS – TIER 1]**
+```
+AFTER:
+```
+**[ANCIENT BONE FLAME BARRAGE – TIER 5]**
+```
+
+### 08.5  (approx. line 92)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+VRSA’s going to be on my back if I let this slide any longer.
+```
+AFTER:
+```
+VRSA’s going to be on my ass if I let this slide any longer.
+```
+
+### 08.6  (approx. line 98)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+Will you be bringing help, or facing this alone?
+```
+AFTER:
+```
+Will you be joining us, or facing this alone?
+```
+
+### 08.7  (approx. line 108)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+Rott and Nab will already be ahead of you, holding the line. You’ll meet them there.
+```
+AFTER:
+```
+I will have Rott and Nab guide you. You’ll meet them there.
+```
+
+### 08.8  (approx. line 120)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+“Rott will show you to a tent. Get your rest while you can. When you’re back, we move.”
+```
+AFTER:
+```
+“I will have my men show you to a tent. When you’re back, we move.”
+```
+
+### 08.9  (approx. line 122)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+one of them the same Rott from earlier,
+```
+AFTER:
+```
+one of them the same one from earlier,
+```
+
+### 08.10  (approx. line 160)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+the Loop icon buried somewhere in the middle of the pile.
+```
+AFTER:
+```
+the Loop icon buried on top of each other with some HGO Notifications floating.
+```
+
+### 08.11  (approx. line 182)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+ He picked the phone back up, his grip firming around it. “Have to make sure I capitalize on it when the time arrives. Not everything needs to be streamed.”
+```
+AFTER:
+```
+ He picked the phone back up, his grip firming around it.
+```
+
+### 08.12  (approx. line 216)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept (72-hour lock, Crownfall, no team yet).*
+
+BEFORE:
+```
+“First real team fight. Nothing like the competitive scene, but if I can’t do this, thinking about that is a pipe dream.” His grip on the sink tightened once, then loosened. “Time to test my skill and not blame Eren or anyone else for not being here. This is my moment.”
+
+Something else surfaced while he stood there, a system flag he’d never actually gone looking for. He’d crossed level five somewhere in tonight’s jump without ever checking what that unlocked.
+
+[Arena queue eligibility: unlocked at level 5. Ranked and open-ladder PvP now available.]
+
+“Can queue in PvP now, which is also good. Will have to figure out my build and not keep points earmarked for that, and there’s the new meta coming out too.” He let out a short breath through his nose, his reflection doing the same back at him from the mirror. “Guess tonight’s where I find out if I can actually hang with the big dogs, if you can call them that.” He chuckled to himself, adrenaline forming.
+```
+AFTER:
+```
+“First real team fight. Nothing like the competitive scene.” His grip on the sink tightened once, then loosened. “Guess this is where I find out if I can actually hang with the big dogs, if you can call them that.” He chuckled to himself, adrenaline forming.
+```
+
 
 ## Chapter 9
 
@@ -681,6 +812,54 @@ AFTER:
 I will accept your offer only if
 ```
 
+### 09.8  (approx. line 49)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept. Only obvious typos fixed ("wont", "i", "dont").*
+
+BEFORE:
+```
+He looked at her. She'd seen it. "Yeah. She's been sick
+```
+AFTER:
+```
+He looked at her. "Yeah. She's been sick
+```
+
+### 09.9  (approx. line 107)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept. Only obvious typos fixed ("wont", "i", "dont").*
+
+BEFORE:
+```
+"It's a gamble I'm willing to take."
+```
+AFTER:
+```
+"It's a gamble I was willing to take."
+```
+
+### 09.10  (approx. line 115)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept. Only obvious typos fixed ("wont", "i", "dont").*
+
+BEFORE:
+```
+"But I am willing to make that gamble."
+```
+AFTER:
+```
+"I won't find out if I don't ask."
+```
+
+### 09.11  (approx. line 189)
+*Re-based on the author's updated PDF text (Chapters_8-9.pdf). Author wording restored; canon edits kept. Only obvious typos fixed ("wont", "i", "dont").*
+
+BEFORE:
+```
+"Your sister is crazy bro," Tatsuya said.
+```
+AFTER:
+```
+"Your sister is different," Tatsuya said in the nicest way he could.
+```
+
 
 ## Chapter 10
 
@@ -722,4 +901,16 @@ BEFORE:
 AFTER:
 ```
 "After the championship? She told me she was done playing.
+```
+
+### 10.5  (approx. line 421)
+*NEW, PROPOSED: Part Two adapted from the "Part Two" section of draft 1 in Chapters_8-9.pdf. Beats kept; paragraphs split to one speaker each; the shadow-clone tome (Art of Shadows) replaced by the Doppelganger's Band from Joss, the enchanter, MP cost 60 against a 32 MP bar (new canon); the duplicate stream-on exchange dropped because Part One already flips the stream live; Leon cutting the feed added to match Part One. Handles use the codex spellings (Pac_Pac, Taja_11, PK_Wraith, T_Drag).*
+
+BEFORE:
+```
+(chapter ended at "END CHAPTER TEN, PART ONE")
+```
+AFTER:
+```
+Part Two appended: the raid on the red tent (runes placed, Hushveil, three-sided gas, Ancient Bone Flame Barrage, battle report, loot, Shivbone Staff to Arya, Doppelganger's Band from Joss, Leon cuts the feed, "Welcome to the team"). About 2,600 words.
 ```

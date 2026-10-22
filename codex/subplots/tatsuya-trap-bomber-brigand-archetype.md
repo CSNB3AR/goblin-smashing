@@ -58,7 +58,7 @@ His first real PvP reps go badly, and the reason is mechanical: Siege objectives
 
 ## The doppelganger ring
 
-Any duplicate or clone trick in his kit is the doppelganger ring, a battle item, not a spell, unrelated to Shiv's blessing or Shaman's Veil (`codex/lore/battle-items-and-battlegear.md`). **It drops in the Chapter 10 fight from an enchanter's legacy item**, an illusion-mist ring. Its **mana cost is too high to use for now**. Earlier docs planned a Gambler's Gambit proc in Chapter 9, but the ring has never landed on the page, so nothing needed removing from the chapter.
+Any duplicate or clone trick in his kit is the doppelganger ring, a battle item, not a spell, unrelated to Shiv's blessing or Shaman's Veil (`codex/lore/battle-items-and-battlegear.md`). **It drops in the Chapter 10 fight (Part Two, on the page) from Joss, the enchanter, a legacy item, an illusion-mist ring.** Its **MP cost to activate is 60**, against his 32 MP full bar, so it is out of reach for now. Earlier docs planned a Gambler's Gambit proc in Chapter 9, but the ring has never landed on the page, so nothing needed removing from the chapter.
 
 ## What we deliberately didn't take from an outside build-concept reference
 
@@ -72,6 +72,6 @@ A separately drafted "Arcane Bomber Goblin" build concept was reviewed and mostl
 
 - **Root versus "no hard CC":** default is a short, conditional, resistible root, as written above.
 - **Summoning boundary:** default is that conjured daggers and the ring are allowed, creature summons never.
-- **Doppelganger ring resource:** the earlier ruling put it on SP at an accelerated drain, the newest note says mana cost. Unresolved.
+- **Doppelganger ring resource:** the earlier ruling put it on SP at an accelerated drain, the page now shows an MP cost (60 to activate). Treat MP as canon on the page unless the author says otherwise.
 
 Nothing in this file is unlocked or referenced on the page yet. It exists so future chapters stay consistent with this design.

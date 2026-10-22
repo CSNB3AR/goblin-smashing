@@ -419,3 +419,212 @@ The frost-stiff ground didn't move. The red tent sat exactly where it had been. 
 "There it is."
 
 **[END CHAPTER TEN, PART ONE]**
+
+---
+
+# Chapter Ten: Silence and Fire, Part Two
+
+The timer on Arya's nameplate read seven minutes when Tatsuya moved.
+
+He'd spent the last eighteen working the perimeter, staying low, his boots finding purchase on frozen ground without a sound, every step deliberate. The cold bit through his gloves as his fingers worked, frost crystals melting against his palms as he pressed each rune into place. The first went against the back wall. A faint pulse of orange light sank into the dirt where the canvas met earth, invisible to anyone who wasn't actively looking for it, sitting there for one full second before it faded, the warmth of it pulsing once against his palm and going dormant.
+
+The second went against the side wall nearest Ru's position, placed low where the fabric touched ground, the packed dirt giving slightly under his fingers. The third went against the last open wall, close enough now that he could hear muffled voices through the canvas. Someone was laughing at something. Metal clinked on metal. Nobody in there had any idea what was creeping up around them.
+
+"They have no idea. That's the last moment they'll have where they don't."
+
+He backed off toward the treeline, knees protesting as he rose, joints popping in the cold, and pulled up his ability list.
+
+**[RUNE PRIMING: 3/3 AVAILABLE]**
+
+"Three points. Same three walls the gas goes into. Has to hold together, or none of this works."
+
+Arya resolved out of the dark a moment later, half hidden behind a thick trunk to his left, her staff already in hand with its head glowing a faint blue like foxfire. She gave him a quick nod, sharp and professional, her fingers drumming once against the shaft before going still. The pro in her sat right under the surface now. The easy lean from the call was gone, replaced by weight set evenly on both feet, the staff angled slightly forward, her eyes already working angles.
+
+"That's the tent," Tatsuya said, keeping his voice low, his eyes on the red canvas below and the shadows moving behind it. "Four inside, from what Kesh counted. The plan changes a little now that you're here. I'm not forcing them out the road side anymore. I want them to stay exactly where they are."
+
+Arya's frown deepened, the glow on her staff brightening for half a second and then dimming back down. "You want Hushveil."
+
+"Advanced version, full radius." He turned to meet her eyes across the gap, moonlight catching in her red hair. "Cover the whole tent, not just the road."
+
+She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot of mana for that big a radius. Tier six at full size will eat most of what I've got." Her knuckles went white on the staff. "And I can't hold it forever once it's live. Everyone has to be in position before it runs dry."
+
+"You've got it," Tatsuya said, his voice steady, his weight settling. "Once it lands, they can't see, can't hear, can't cast, can't cleanse anything. They're not going anywhere until I want them to."
+
+He signaled toward the treeline. Rott and Nab were already crouched in the shadows twenty feet away, their eyes catching the firelight from camp behind them, and they jogged over low and quiet with the pouches at their belts barely shifting. Ru came in behind them, moving carefully around the arm he still kept pressed to his ribs.
+
+"Three walls, three of you, one each," Tatsuya said, crouching to their level and meeting their eyes one at a time. "Wait for the fog. Don't move until it's down." He tapped the pouches at Rott's belt, the leather worn smooth under his clawed finger. "Once you're in, gas together. Same moment, not one after another. Three of you hitting it at once stacks faster than any of you could manage alone."
+
+Rott nodded and scratched at his head with one clawed hand, his fingers catching in the matted hair, his eyes darting between Tatsuya and the tent. "Rott understands. Gas together. Stack fast."
+
+Nab grunted his agreement and went back to checking his own pouches, his fingers running over each one in turn, his lips moving as he counted.
+
+"Ru," Tatsuya said. "You hold the wall and nothing else. Anyone who breaks, they break into you."
+
+"Ru understands." His tusks caught the moonlight as his mouth split into something close to a grin, his claws flexing once with a soft click.
+
+The goblins dropped into a crouch and worked their way along the treeline toward the tent's blind side, barely rustling the underbrush, shadows moving through shadows.
+
+A small indicator already sat in the corner of his vision from the moment Leon had flipped the feed.
+
+**[STREAM: ACTIVE]**
+**[VIEWERS: 310]**
+**[CHAT: FOLLOWERS ONLY, 10-MINUTE COOLDOWN ACTIVE]**
+
+"Started over. Not even close to where it was before the monitor cooked. Have to earn that back same as everything else tonight."
+
+He looked across the dark to Arya, meeting her eyes through the trees. "On my mark. Clean, no hesitation."
+
+Her staff brightened at once, the blue glow deepening into something thicker and heavier, ready to drop like a physical weight. Her jaw set, her feet planted wide, her whole body tensing around the shaft.
+
+Tatsuya looked at the tent one more time, at the shapes of four people inside it who had no idea what was coming. They were probably dividing loot or arguing about the next target, or doing whatever raiders did when they thought they were safe, their shadows thrown long against the canvas by the lamplight.
+
+"Now."
+
+---
+
+The fog rolled down off Arya's staff like something poured rather than cast, thick and white and impossibly dense, swallowing the tent whole in seconds and moving like liquid down the hillside. The canvas walls vanished into it. The road vanished into it. The temperature dropped another few degrees as the spell settled, and frost crackled faintly across the grass at Tatsuya's feet, ice forming in spiderweb patterns around his boots. The silence that came with it pressed down over the hillside like a hand.
+
+**[HUSHVEIL (ADVANCED): ACTIVE]**
+**[ENEMIES WITHIN RADIUS: SILENCED, BLINDED, DEAFENED]**
+
+"They can't see the walls anymore. Can't hear us coming. Can't cast anything. Can't cleanse anything that hits them inside it. Perfect."
+
+"Go," Tatsuya said.
+
+Ru moved first, his massive frame swallowed by the white a heartbeat later. Rott and Nab followed, their smaller forms vanishing like ghosts, not even their footfalls audible. Tatsuya counted in his head. One breath, two, three.
+
+Green haze started bleeding up through the white like smoke from wet fire, thick and low, pouring in from three sides at once, sickly and wrong against the pure white of the fog.
+
+**[GOBLIN GAS: ACTIVE, THREE SOURCES]**
+**[POISON STACK: 4x, ACCELERATED]**
+**[ENEMIES WITHIN RADIUS: POISONED, MOVEMENT SLOWED, NAUSEOUS]**
+
+"Full stack already. Three of them hitting it together did that in seconds, not the usual couple of rounds. Didn't even know it could move that fast."
+
+Sound started reaching him through the fog, something between coughing and retching, desperate and wet, trapped inside canvas walls that weren't going anywhere. Voices rose in panic that nobody could hear. Nobody came stumbling out into the road. There was nowhere for them to stumble to.
+
+"Not like last time. They're not getting outside this one."
+
+"They're not even trying to run," Arya said quietly beside him, her voice tight with something between disbelief and awe, the glow on her staff flickering as the staff trembled in her grip. "They can't hear themselves choking."
+
+Ru and the two goblins peeled back out of the fog seconds later, clearing the treeline fast and low. Ru's chest heaved once as he sucked in clean air, his breath pluming white from his mouth, with Rott and Nab right behind him, gasping.
+
+The chat window exploded.
+
+**[VIEWERS: 310 → 1,847]**
+
+[Pac_Pac: yooo what is happening rn]
+
+[Taja_11: bro is that my brother. im not saying anything else]
+
+[Dosuke_AI: interesting setup, let's see if it holds]
+
+"Viewer count spiking. Good. Let them watch."
+
+Tatsuya triggered the first rune.
+
+The tent went up from the inside out. Flame caught the gas mid-breath and fed on it, flaring bright enough to punch through the fog itself in an orange-white flash that made him squint, his hand coming up on instinct to shield his eyes. Heat washed over him even at this distance, sharp and immediate, singeing the air against his exposed skin. The second rune fired half a second later, another flash, the sound muffled by the Hushveil but the pressure wave real enough to rock him back a step. Then the third, each one stacking on the last until the whole shape of the tent was a single sheet of orange fire folding in on itself, the canvas curling and blackening, the stakes popping free of the ground with cracks like breaking bones.
+
+**[ANCIENT BONE FLAME BARRAGE: TRIGGERED]**
+**[MP: -25] [7/32 REMAINING]**
+**[COMBO BONUS: TOXIN AMPLIFICATION ACTIVE]**
+
+A cold drain moved through the center of his chest, the kind that happened when something took from a pool rather than a reserve, all twenty-five points in one draw. It wasn't weakness and it wasn't a crash, just the plain notice of something spent.
+
+The explosion resolved into a battle report across his HUD, every ability that had fired in the last thirty seconds listed in clean order.
+
+**[BATTLE REPORT: RED TENT]**
+**[HUSHVEIL (ADVANCED): ARYA, TIER 6: SILENCE, BLIND, DEAFEN, 15-SECOND DURATION]**
+**[GOBLIN GAS x3: RU, ROTT, NAB: STACKED APPLICATION]**
+**[POISON STACK: 4x, ACCELERATED: DAMAGE OVER TIME ACTIVE]**
+**[RUNE PRIMING x3: T_DRAG: STRATEGIC PLACEMENT]**
+**[ANCIENT BONE FLAME BARRAGE: T_DRAG: TIER 5]**
+**[BASE DAMAGE: 840] [CRITICAL MODIFIER: x2.19] [TOTAL DAMAGE: 1,840]**
+
+Four nameplates flickered and died in rapid succession, the kill notifications stacking faster than he could read them.
+
+**[RIAN: DEFEATED]**
+**[TALO: DEFEATED]**
+**[JOSS: DEFEATED]**
+**[SPELLWEAVER_LYN: DEFEATED]**
+**[KILL CREDIT: T_DRAG, 4]**
+**[PARTY CONTRIBUTION: ARYA, HUSHVEIL (ADVANCED), ASSIST CREDITED]**
+
+"Almost all my mana in one shot. Worth every point."
+
+The fog started to thin as Hushveil's duration ran out, cold air rushing back in to fill the vacuum with an audible whoosh. When it lifted there was nothing left where the tent had stood except scorched earth and blackened canvas scraps, the four corner stakes still driven into the dirt but holding nothing up, and drop markers glowing in the ground like dying embers, pulsing with soft light that threw back off the frost.
+
+**[VIEWERS: 1,847 → 3,610]**
+
+[AriSky: proud of you out there. seriously.]
+
+[Eren_TB: ...]
+
+[PK_Wraith: who the fuck is T_Drag]
+
+[Haruto_M: that combo was clean, no cap]
+
+"Thirty-six hundred viewers. PK_Wraith just noticed. Eren's watching. Good."
+
+He walked down the slope toward the markers with his boots crunching on scorched grass, Arya falling into step beside him, the glow on her staff already dimmed to nothing.
+
+Three items sat in clean blue light.
+
+**[IRONHIDE CHESTPLATE: RARE]**
+**[VANGUARD'S GREAVES: RARE]**
+**[PK RAIDING CREST: RARE]**
+
+"Legacy gear. Real drops, and none of it came back bound. All three sellable."
+
+A fourth marker sat apart from the others, right where Spellweaver_Lyn had gone down, pulsing brighter than the rest. What rose out of it wasn't armor at all. It was a staff of gnarled dark wood wound in live green vines that seemed to pulse with their own faint light, a faceted pale-green crystal cradled at its head like a captured star, soft motes drifting off it into the settling smoke and fading as they floated away.
+
+**[SHIVBONE STAFF: LEGENDARY]**
+
+Tatsuya reached down and picked it up, his clawed fingers closing around the shaft, and turned it once in his hands. The wood was warm despite the cold air, almost hot, the vines shifting slightly under his grip as if they were still growing. The crystal pulsed once, twice, in a rhythm he couldn't name.
+
+"This one's not going on any market. She needs this more than the yen does."
+
+He turned and held it out to Arya. Her eyes went wide and her mouth opened slightly before she caught herself. "That's a legendary drop. That's worth..."
+
+"I know what it's worth," Tatsuya said, his voice steady. "You ran Hushveil on trust. That spell changed the entire fight. This is yours."
+
+She took it slowly, her fingers wrapping around the shaft the way someone held a thing they hadn't expected to be handed, the crystal's light reflecting in her eyes. "I don't know what to say."
+
+"Don't say anything. Just keep speccing into what works."
+
+Then a fifth marker blinked into being beside the others, small and pale, where Joss had gone down. What came out of it was a plain ring, thin silver, and inside the band a slow mist turned over and over as though it had been sealed in glass.
+
+**[DOPPELGANGER'S BAND: LEGACY ITEM]**
+**[CLASS: ENCHANTER]**
+**[EFFECT: CONJURES A DUPLICATE OF THE WEARER FOR A LIMITED WINDOW]**
+**[MP COST TO ACTIVATE: 60]**
+
+"Joss was an enchanter. An enchanter's legacy item." He turned the ring over once in his palm, the mist inside it moving against the silver. "A duplicate of me. And it costs sixty mana to light it. I've got thirty-two on a full bar."
+
+He slipped it into his inventory anyway. A copy of himself on a ring was too good a thing to leave in the dirt, even if it was a long way out of reach.
+
+"Forward problem."
+
+The last of the fog cleared and cold air came in off the hillside, carrying the smell of scorched canvas and the chemical bite of gas. Frost was already forming again on the grass at his feet, tiny crystals catching the moonlight.
+
+Arya stepped up beside him with her new staff in hand, the crystal at its head glowing faintly. Her breathing was harder than it should have been, her cheeks flushed despite the cold, her eyes wide. "You just wiped a full party," she said, her voice climbing, disbelief cracking into something that might have been a laugh if she'd let it all the way out. "In under a minute. With a fog spell I was ready to throw away an hour ago. They couldn't even cleanse. They were just stuck in it."
+
+"Yeah," Tatsuya said, still watching the last wisps of smoke curl up off the scorched dirt below. "That's the idea."
+
+She went quiet, her eyes unfocusing as she scrolled through something only she could see. When she looked back at him, something behind her eyes had recalibrated. "You knew exactly what that spell was going to do," Arya said, her tone flatter now, more precise. "Before I even cast it. You knew they couldn't cleanse because you knew silence locks all skills." Her voice picked up speed. "You set this whole thing up around that one mechanic."
+
+"Yeah," Tatsuya said.
+
+She said it plainly then, like someone confirming a thing she'd been working out since the fog first went up. "You're not lucky. You actually planned this."
+
+He didn't answer that one. Some things landed better when you let them sit.
+
+"Leon," he said instead, opening comms. "Cut the feed. Now."
+
+"Cutting." The stream indicator in the corner of his HUD blinked out. "Got what you wanted. Chat's going to be a mess for a while."
+
+Tatsuya dismissed the window and looked back toward camp, toward the dark ridge where Sevish and the others were waiting. Arya fell into step beside him, the Shivbone Staff resting easy in her hand, and for the first time since he'd logged in the camp didn't feel like it was waiting for him to fail.
+
+"Yeah," he said. "Welcome to the team."
+
+**[END CHAPTER TEN, PART TWO]**

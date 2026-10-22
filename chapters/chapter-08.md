@@ -6,7 +6,7 @@ A notification flickered at the edge of his vision before he could stop himself 
 
 **[VIEWERS: 7,392 → 8,110]**
 
-Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it a few minutes ago. He shoved it out of view without opening it. Kesh was still bent over his own knee ten feet away, chest working for air, and that mattered a lot more right now than anything chat had to say about it.
+Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it. He shoved it out of view without opening it. Kesh was still bent over his own knee ten feet away, chest working for air, and that mattered a lot more right now than anything chat had to say about it.
 
 Kesh hadn’t moved from the spot he’d skidded to a stop in, one hand still braced hard against his knee, claws gone pale at the tips, his breath coming in short, ragged pulls that hadn’t evened out at all.
 
@@ -70,7 +70,6 @@ A notification bloomed at the edge of Tatsuya’s vision, gold-bordered, bigger 
 **[CALL OF COMMAND – TIER 1]**
 **[RUNE PRIMING – TIER 3]**
 **[ANCIENT BONE FLAME BARRAGE – TIER 5]**
-**[GOBLIN GAS – TIER 1]**
 **[GAMBLER’S GAMBIT – PASSIVE]**
 **[BONE SURGE – PASSIVE]**
 
@@ -90,13 +89,13 @@ A second notification bloomed in the corner of his vision, smaller, gray-bordere
 
 Leon’s voice cut in a beat later, no longer quiet, no longer careful, the tone tight enough to pull Tatsuya’s focus away from the tent entirely.
 
-“I need you now,” Leon said. “The monitor’s not holding, I can’t see anything on my end, and VRSA’s going to be on my back if I let this slide any longer. Ten minutes, that’s all I’m asking.”
+“I need you now,” Leon said. “The monitor’s not holding, I can’t see anything on my end, and VRSA’s going to be on my ass if I let this slide any longer. Ten minutes, that’s all I’m asking.”
 
 “Damn, has to be at the most inconvenient time. I can’t push dad’s old pods without the repairs, or have VRSA close it down before I can even do that.” Tatsuya rolled his shoulders once before he answered.
 
 “Give me a second,” Tatsuya said, his voice low enough that Sevish barely caught it, then turned back to the chieftain.
 
-Sevish’s eyes stayed on him, holding there in the grim dark like his glare alone was piercing his chest. “So. Will you be bringing help, or facing this alone?”
+Sevish’s eyes stayed on him, holding there in the grim dark like his glare alone was piercing his chest. “So. Will you be joining us, or facing this alone?”
 
 Tatsuya knew that question was coming, and right now there was only one real answer if he didn’t want to risk the 72-hour lock facing them solo.
 
@@ -106,7 +105,7 @@ Sevish studied him a beat longer, his scarred face unreadable, then nodded once,
 
 “Already ahead of you,” Wyx said, already moving toward a crate stacked near the tent’s back wall, her hands working the latch before Sevish had finished the sentence. “Can’t have our own elder walking out there looking like he crawled out of a ditch.”
 
-Sevish’s eyes stayed on Tatsuya, something working behind them. “When you’re back, you go down with Ru. Rott and Nab will already be ahead of you, holding the line. You’ll meet them there.”
+Sevish’s eyes stayed on Tatsuya, something working behind them. “When you’re back, you go down with Ru. I will have Rott and Nab guide you. You’ll meet them there.”
 
 “Sounds good. I’ll have a plan shortly,” Tatsuya said.
 
@@ -118,9 +117,9 @@ Wyx returned a moment later with a bundle in her arms, rough-spun leather dyed a
 
 “It’ll do,” Tatsuya said.
 
-Sevish gestured toward the tent flap with his free hand, the axe still gripped in the other. “Rott will show you to a tent. Get your rest while you can. When you’re back, we move.”
+Sevish gestured toward the tent flap with his free hand, the axe still gripped in the other. “I will have my men show you to a tent. When you’re back, we move.”
 
-Two goblins fell in on either side of him without being told to, one of them the same Rott from earlier, gas pouches still hanging at his belt. They walked him through camp in silence, past goblins hauling crates toward the palisade line, past the fire pit where someone was sharpening a blade on a whetstone, the scrape of metal on stone cutting through the low murmur of voices.
+Two goblins fell in on either side of him without being told to, one of them the same one from earlier, gas pouches still hanging at his belt. They walked him through camp in silence, past goblins hauling crates toward the palisade line, past the fire pit where someone was sharpening a blade on a whetstone, the scrape of metal on stone cutting through the low murmur of voices.
 
 They stopped at a tent near the far edge of camp, smaller than Sevish’s but still standing on its own, a crude nameplate carved into the post beside the flap.
 
@@ -158,7 +157,7 @@ Leon didn’t answer right away, still bent over the panel. Then, quieter, mostl
 
 The bathroom at Sakura Arcade was small and smelled like the same industrial cleaner it always had, harsh enough to catch in the back of his throat after hours of woodsmoke and canvas. Tatsuya splashed water on his face before he even looked at his phone, both hands braced against the sink, needing a second to remember which world he was actually standing in.
 
-His phone had a dozen notifications stacked on the lock screen, more than he’d ever seen at once, the Loop icon buried somewhere in the middle of the pile.
+His phone had a dozen notifications stacked on the lock screen, more than he’d ever seen at once, the Loop icon buried on top of each other with some HGO Notifications floating.
 
 [Your follower count has grown by 2,140 in the last hour.]
 
@@ -180,7 +179,7 @@ The confirmation screen that loaded back wasn’t the instant green light he’d
 
 A quick search turned up the rest of it in under a minute, a forum thread somebody had laid out plain: HGO’s official channel auto-hosts any stream actively progressing a World Quest, standing platform practice, free exposure handed to whoever happened to be live when the algorithm noticed, not a permanent slot, and not something that follows him back online automatically. Coming back live after a break meant starting closer to zero and climbing again, not picking up where he left off.
 
-“Makes sense why they host World Quests. But it also makes sense how all the big guilds and top leaders grew so fast.” He picked the phone back up, his grip firming around it. “Have to make sure I capitalize on it when the time arrives. Not everything needs to be streamed.”
+“Makes sense why they host World Quests. But it also makes sense how all the big guilds and top leaders grew so fast.” He picked the phone back up, his grip firming around it.
 
 Subs themselves weren’t much once he actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around and a special chat tag, unless the streamer set their own perks, nothing that let them type more than any other viewer.
 
@@ -214,13 +213,7 @@ The reply came back faster than he expected.
 
 He splashed more water on his face, the cold biting against his skin, and gripped the edge of the sink with both hands. Three days locked out if he died down there. Three days he didn’t have, not with Crownfall sitting fifteen days out, not with no team locked in yet. This was the first real fight he’d ever be in against actual players, not scripted mobs, and right now it was still just him and Ru walking into it.
 
-“First real team fight. Nothing like the competitive scene, but if I can’t do this, thinking about that is a pipe dream.” His grip on the sink tightened once, then loosened. “Time to test my skill and not blame Eren or anyone else for not being here. This is my moment.”
-
-Something else surfaced while he stood there, a system flag he’d never actually gone looking for. He’d crossed level five somewhere in tonight’s jump without ever checking what that unlocked.
-
-[Arena queue eligibility: unlocked at level 5. Ranked and open-ladder PvP now available.]
-
-“Can queue in PvP now, which is also good. Will have to figure out my build and not keep points earmarked for that, and there’s the new meta coming out too.” He let out a short breath through his nose, his reflection doing the same back at him from the mirror. “Guess tonight’s where I find out if I can actually hang with the big dogs, if you can call them that.” He chuckled to himself, adrenaline forming.
+“First real team fight. Nothing like the competitive scene.” His grip on the sink tightened once, then loosened. “Guess this is where I find out if I can actually hang with the big dogs, if you can call them that.” He chuckled to himself, adrenaline forming.
 
 He filed it away, not something to chase mid-crisis, but it sat differently now, a door that had already opened without him.
 
