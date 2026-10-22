@@ -18,23 +18,35 @@ Dad wouldn't want her fighting this battle for him. The thought settled hard and
 
 I typed back a thumbs-up emoji, because a thumbs-up cost nothing and didn't invite follow-up questions I didn't have answers for yet, and flipped my phone face-down on the counter.
 
-Above the register, Yuna's bright, familiar voice was riding over the arena noise, cutting through the commentary hum with the kind of energy that made even a blowout sound hype.
+Above the register, Yuna's bright, familiar voice was riding over the crowd noise, cutting through the commentary hum with the kind of energy that made even a siege sound like a party.
 
-"And if you're just tuning in, I'm Yuna, and welcome to the last battle of Season Zero, live from Singapore, the biggest night of the beta!" Her voice pitched up slightly, matching the crowd roar underneath. "We're deep in the Battle of the Snowy Plains, and London Spire's up 270 to 230 over Aogiri, twenty players against twelve after three days of seventy-two-hour death locks bleeding both sides dry. For anyone just joining us, that's a siege fight where the first side to three hundred points takes it all, and every player who falls sits out three full days. And unlike other straight battle-arena VRMMORPGs, in HGO whatever these players have actually earned back in Eryndal rides into this fight with them, so don't let the fancy gear on-screen fool you into thinking it's cosmetic."
+"And if you're just tuning in, I'm Yuna, and welcome to the last battle of Season Zero, live from Singapore, the biggest night of the beta!" Her voice pitched up slightly, matching the crowd roar underneath. "The Knights of the London Spire sit on 10,500 season points, Aogiri trails them by 250, and the Battle of the Snowy Plains is worth 300. That means Aogiri has to win this one to take the whole season, and the Knights only have to hold. The final window opened two hours ago, three days of seventy-two-hour death locks have worn this down to twenty Knights against twelve Aogiri, and every player who falls sits out three full days. And unlike a battle arena, this is the open world. Nobody here gets teleported anywhere, and whatever these players have actually earned back in Eryndal rides into this fight with them, so don't let the fancy gear on-screen fool you into thinking it's cosmetic."
 
 Yuna. The name surfaced automatically, tied to Momo's whole personality lately, her voice blasting through a closed bedroom door most nights, singing along to tracks Yuna had performed in some virtual space in HGO. I didn't have the energy to be impressed tonight, but some habits didn't need energy to run, and my eyes tracked back to the screen before I'd decided to look.
 
-The arena cam cut to a wide shot of a line of players in midnight-blue kits holding a central platform while London Spire's gold-and-white pushed from two angles at once. A ring of sponsor banners ran along the rim of the arena, the WattsUp lightning bolt sitting right there between two logos I didn't know, and I almost laughed. I watched without meaning to and read the whole thing before it happened, the kind of read I'd picked up back when Eren and I spent whole nights drawing builds on graph paper and arguing over how a fight should be played. I hated that it was still in there. One more break in that line and Aogiri would be fighting the rest of this a man down against twenty. There was exactly one right play left: sit the point, force London to come get it, pray for a slow bleed to three hundred instead of a fight they couldn't win.
+The broadcast cut to a wide shot of a walled town sunk in the snow, a medieval city-state small enough to cross in ten minutes on foot, all gray stone and shuttered houses around a squat city hall with a banner snapping on its steps. Smoke hung low over the roofs. Along the bottom of the frame the overlay read **ZONE: CONTESTED**, and the WattsUp lightning bolt sat on the sponsor bar right there between two logos I didn't know, and I almost laughed. I squinted against the store lights glaring off the glass and dug the heel of my hand into one eye, like that would make me stop looking. It didn't.
 
-Aogiri's captain squared up anyway, weight shifting forward on-screen, committing to a push off the point, abandoning the high ground for an engage that made my hands go flat on the counter.
+Past the town the plains rolled out white toward the one pass that led back to Lunarest, and that was where the Knights had planted themselves. A shield line across the throat of the pass, casters stacked behind it, fire and smoke pouring down the only road in. Every Aogiri tag that came through got lit up before it finished loading. I watched a lone Spellforger in midnight blue fold in the crossfire before his boots cleared the rocks. One more body out for seventy-two hours.
 
-"Don't do it," I said out loud, low, to no one, already knowing how this ended, and I hated that I'd said it. I turned my back on the screen and went back to wiping the same spot I'd already cleaned twice tonight. "Just sit the point. You've got nothing to trade for that fight."
+That was the whole fight, and it was working. Aogiri's last twelve were stuck inside the walls, cornered into the city hall and a little house beside it, their banner on the hall steps, while their reinforcements walked into the funnel one at a time like it was a turnstile. Nobody had to charge in and kill the twelve. The Knights only had to keep that road shut and let the smoke do the rest.
 
-Behind me, sound cracked out of the speaker, sharp electronic hits stacking fast over each other, a double-kill chime that made the crowd explode, then one low, resonant tone that meant something had just ended for good.
+I hated how clean the read came. It was the tactics. It had always been the tactics, the reason I'd loved this game in the first place, who had the ground and who had the clock and where a fight actually broke, back when Eren and I spent whole nights drawing builds on graph paper and arguing over how a fight should be played. That was exactly why I kept my back to it now. It was still in there, and I hated that it was still in there. I dragged a hand back through my locs, a loose one slipping free again, and made myself breathe.
 
-I didn't need to turn around for that part. I already knew what it sounded like when a score hit the cap.
+And they were playing like boneheads. Feeding reinforcements through a single door one body at a time was handing the Knights a free kill every minute. That road was London's single point of failure just as much as Aogiri's, one input, one output, no second line, the kind of thing my father would have glanced at and asked where the redundancy was. The plains had deep caverns running under them too, a way around the pass that nobody on the broadcast had even mentioned. Hold the reinforcements out of sight, wait for a breakout from inside the walls, hit the pass from both sides at the same moment. And the banner only had to stay standing. As long as it did, the zone stayed contested and the Knights couldn't start their ten minutes. There was exactly one right play left: sit the banner, force London to come and get it, and stop dying one at a time.
 
-"That's game!" Yuna's voice cut through the noise, half-shouting over the arena's eruption. "London Spire takes Season Zero, forty million yen and the trophy, in front of a sold-out house here in Singapore and however many millions of you are watching from home!"
+Aogiri's captain came down the hall steps anyway, weight shifting forward on-screen, pulling the whole twelve out behind him, leaving three guards on the banner and the high ground at his back, committing to a push on the gate before a single reinforcement had even massed. My hands went flat on the counter.
+
+"Don't do it," I said out loud, low, to no one, already knowing how this ended, and I hated that I'd said it. I turned my back on the screen and went back to wiping the same spot I'd already cleaned twice tonight. "Just sit the banner. You've got nothing to trade for that fight."
+
+Behind me, sound cracked out of the speaker, sharp electronic hits stacking fast over each other, a double-kill chime that made the crowd explode, and I winced as the volume spiked. Then the roar changed. Something had gone down on the hall steps.
+
+"The Aogiri banner is down!" Yuna's voice cut through the noise, half-shouting. "The zone belongs to the Knights alone, and the ten-minute clock is running!"
+
+I didn't turn around for any of it. I wiped the same spot a third time and a fourth, listening to the crowd climb as the minutes bled off, the thump of casters, the long dull groan of the crowd every time another Aogiri tag tried the pass and didn't make it. Nobody left to contest the zone. Then one low, resonant tone, the kind that meant something had just ended for good.
+
+I already knew what it sounded like when a hold timer ran out.
+
+"That's game!" Yuna's voice cut through the eruption. "London Spire takes Season Zero, forty million yen and the trophy, in front of a sold-out house here in Singapore and however many millions of you are watching from home!"
 
 I let myself turn back around just in time to catch the confetti falling, gold and white streaming down over the stage. Tough, losing like that. I felt nothing about it.
 
@@ -68,7 +80,7 @@ The thought landed plain and certain, no drama attached to it, just a fact I was
 
 My thumb found the edge of the counter and pressed there, hard enough that my nail went white, a loose loc slipping across my face that I didn't bother pushing back. My mind was already calculating what it would take, what I'd need, how fast I could make something out of this to convince Chiyo.
 
-It's not like I was making bank here. Gato was a good guy, but this job had a ceiling and I'd hit it six months ago. Chiyo was covering more than she should, Mom's bills weren't getting smaller, and the Tabuchis weren't going to stop calling just because we kept ignoring them. If I didn't do something, Chiyo was going to make the Tochi decision for me, and I'd be walking back into that school with my tail between my legs.
+It's not like I was making bank here. Gato was a good guy, but this job had a ceiling and I'd hit it six months ago. Chiyo was covering more than she should, Mom's bills weren't getting smaller, and the Tabuchis weren't going to stop calling just because we kept ignoring them. If I didn't do something, Chiyo was going to make the Tochi decision for me, and I'd be walking back into that school with my tail between my legs. I scrubbed a hand down my face, my palm dragging over eyes gone dry and gritty under the store lights.
 
 Or I could take a gamble on this, and prove I could actually do something about it. The thought settled cold and sharp.
 
@@ -194,7 +206,7 @@ In the front room, Taji was still awake on the couch, wrapped in a blanket he'd 
 
 "They actually did it," Taji said, not looking up, his tone pitched somewhere between impressed and envious, assuming the way he always did that I had no idea what he was talking about and needed the context explained.
 
-"Yeah," I said, dropping onto the couch beside him and stealing a corner of the blanket back without asking. "It was on at work. Aogiri threw it at the end. Pushed off the point when they should've sat."
+"Yeah," I said, dropping onto the couch beside him and stealing a corner of the blanket back without asking. "It was on at work. Aogiri threw it at the end. Their captain walked out of the hall when they should've sat on the banner."
 
 Taji turned to look at me, eyebrows raised, like I'd said something that didn't match the script he'd been expecting. "You actually watched it? Like, the whole fight?"
 

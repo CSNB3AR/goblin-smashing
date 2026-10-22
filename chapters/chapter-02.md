@@ -34,9 +34,9 @@ The television was still paused on London Spire's trophy shot, confetti frozen m
 
 I took my laptop off the kitchen counter and dropped onto the couch, the cushions sinking under me in the spot that was basically mine now. I opened the HGO Companion App, and I wasn't there for the game. I was there for the market. Prices loaded first, item sets sorted by zone and rarity tier. Blue gear running five figures in yen for a single piece. Legendary gear didn't even have listed prices, just auction-house estimates that made my stomach drop when I scrolled past them.
 
-The sale had pulled in a flood of veterans cashing their avatars in for Legacy Points ahead of the lock, and the numbers on that page told me the same thing the ad had. There was real money moving through this game, and a new character with nothing could start sitting at the edge of it. I scrolled past all of it, looking for the baseline, the floor a newcomer could actually stand on without dropping money. Common gear cheap, uncommon attainable if you knew where to farm.
+The sale had pulled in a flood of veterans cashing their avatars in for Legacy Points ahead of the lock, and the numbers on that page told me the same thing the ad had. There was real money moving through this game, and a new character with nothing could start sitting at the edge of it. I scrolled past all of it, looking for the baseline, the floor a newcomer could actually stand on without dropping money. The afternoon glare off the window washed out the screen, and I squinted and tilted the laptop down a few degrees. Common gear cheap, uncommon attainable if you knew where to farm.
 
-The race-select table was on the same page, six numbers running down each row. Courage, Power, Wisdom, Speed, Fortune, Energy. I'd seen versions of that table before, in forums and in the margins of graph paper, back when Eren and I used to sit across from each other at Tochi arguing over which build would break the game. I closed the tab before I got to the Elf row. That was Eren's build now, and I wasn't touching it. Human, probably. Humans split the difference on everything, the safe pick for someone who didn't care enough to want anything specific and didn't want to get locked into the wrong race.
+The race-select table was on the same page, six numbers running down each row. Courage, Power, Wisdom, Speed, Fortune, Energy. I'd seen versions of that table before, in forums and in the margins of graph paper, back when Eren and I used to sit across from each other at Tochi arguing over which build would break the game. I closed the tab before I got to the Elf row. That was Eren's build now, and I wasn't touching it. I pressed the heel of my hand against one eye until the afterimage of the table faded. Human, probably. Humans split the difference on everything, the safe pick for someone who didn't care enough to want anything specific and didn't want to get locked into the wrong race.
 
 I closed the laptop and set it on the coffee table, leaning back against the couch with both hands behind my head. I wasn't trying to be good at this game. I was trying to get paid by it, and I'd read enough. Nothing on a page was going to tell me how that worked. I had to go in and find out.
 
@@ -50,7 +50,7 @@ I ignored it and unlocked the screen and opened Loop instead. My profile loaded,
 
 Nine people I didn't know, following an account I barely posted from. I closed it and pulled up a cafe booking app, filtering by ward, then by availability. Third-gen cafes across Shibuya came up first, sleek storefronts with waiting lists that stretched into next year, every single slot booked solid. I scrolled past them, already knowing what I'd find, the seventy-two-hour sale driving demand past anything the infrastructure could handle.
 
-Second-gen pods weren't much better. The Tabuchi-backed cafes had availability, technically, but the earliest slot was March, three months out. Not waiting three months.
+Second-gen pods weren't much better. The Tabuchi-backed cafes had availability, technically, but the earliest slot was March, three months out. Not waiting three months. I raked a hand back through my locs and felt a few of them spring loose again behind my ear.
 
 I kept scrolling, deeper into results I'd already written off as dead ends, when a single listing caught my eye halfway down the third page.
 
@@ -60,7 +60,7 @@ Sakura Arcade, a name I didn't recognize, marked with a small gray tag that read
 
 Free? I clicked through to the full listing. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises bought the patent rights.
 
-It shouldn't run at all. Not unless you knew exactly what was underneath the casing. And I did, or close enough. Dad's notes went back further than its early development. Which meant it was possible. That was all I had to go on.
+It shouldn't run at all. Not unless you knew exactly what was underneath the casing. And I did, or close enough. Dad's notes went back further than its early development. Which meant it was possible. That was all I had to go on. I rolled my shoulders, the knot between them pulling tight from a night on my feet and a morning on a couch.
 
 I checked the time. 3:47 PM.
 
@@ -96,7 +96,7 @@ I rattled it off from memory, 4472-KAZE, and watched the guy scan something on h
 
 "Appreciate it," I said, taking the package and putting it in my backpack, and turning back toward the door before the guy could launch into an upsell pitch about warranty extensions or premium helmets I couldn't afford and didn't need.
 
-Outside, the sun was already dropping behind the buildings, late-afternoon light going orange at the edges, the kind of light that said you had maybe an hour before everything went dark. I checked my phone. 4:22 PM. Sakura Arcade's free window opened in thirty-eight minutes, and I still had to get all the way back across town to Shibuya, navigate whatever traffic was clogging up the main routes, and hope the place actually existed and wasn't just some abandoned storefront with a listing nobody had bothered to take down.
+Outside, the sun was already dropping behind the buildings, late-afternoon light going orange at the edges, the kind of light that said you had maybe an hour before everything went dark. I squinted against it and shaded my eyes with one hand. I checked my phone. 4:22 PM. Sakura Arcade's free window opened in thirty-eight minutes, and I still had to get all the way back across town to Shibuya, navigate whatever traffic was clogging up the main routes, and hope the place actually existed and wasn't just some abandoned storefront with a listing nobody had bothered to take down.
 
 I pulled my helmet on, the visor clicking into place with the sound I'd heard every morning for two years, and kicked the Haya EB to life. The engine caught on the first try, humming up through my palms the way it always did when it was actually behaving, and I opened it up down the nearest stretch of clear road, downtown thinning out into the streets I actually knew, the ones that didn't make me feel like I was trespassing just by being there.
 

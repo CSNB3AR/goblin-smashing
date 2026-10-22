@@ -32,7 +32,7 @@ I pulled up the description, thumb moving through the motion without thinking ab
 
 **[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
 
-Hold on. I read it again, slower this time. Once per day I could roll for rare gear? At level one?
+Hold on. I read it again, slower this time, squinting as the white letters sharpened against the black of the visor. Once per day I could roll for rare gear? At level one?
 
 I pulled up the character menu, looking for the reset option I knew was supposed to be there.
 
@@ -40,7 +40,7 @@ Nothing. Just a gray notice at the bottom:
 
 **[CHARACTER RESET NOT AVAILABLE FOR THIS DRIVE]**
 
-Of course not. I could contact support, but that was days I didn't have if I was trying to get ahead.
+Of course not. I could contact support, but that was days I didn't have if I was trying to get ahead. I blew a breath out through my teeth.
 
 My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
 
@@ -54,7 +54,7 @@ My finger hovered over the logout command when another notification bloomed in f
 
 The race I'd been trying to avoid had handed me a World Quest. What was I supposed to do with that? I sat there for a moment, my mind racing through every possible scenario and finding no solution. Ugh. I hated this, but the magnitude of a world quest was hard to ignore.
 
-Six days until Chiyo was back from Kyoto. Six days to show her something real and figure out how to make this work or fail miserably trying. Ten million yen was still sitting on a calendar a couple of weeks away, and I had no idea how a level-one goblin got anywhere near it.
+Six days until Chiyo was back from Kyoto. Six days to show her something real and figure out how to make this work or fail miserably trying. Ten million yen was still sitting on a calendar a couple of weeks away, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math.
 
 I allocated one point to Wisdom, one to Speed. Not optimal for anything, but Speed kept you alive and three Wisdom was still better than two.
 
@@ -194,7 +194,7 @@ I focused on Goblin Gas mid-stride and the description expanded, text appearing 
 
 **[COOLDOWN: 45 SECONDS]**
 
-Useful. But how did I actually trigger it? Boots pounded closer behind me, the sound of two sets of feet getting louder. There was no time to figure it out gently. Just use it.
+Useful. But how did I actually trigger it? Boots pounded closer behind me, the sound of two sets of feet getting louder, a bead of sweat running into my left eye and stinging until I blinked it away. There was no time to figure it out gently. Just use it.
 
 I triggered the ability with a thought.
 
@@ -248,7 +248,7 @@ I reached into the small leather pocket attached to the rags I was wearing, my f
 
 **[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Distress use only.]**
 
-Signal flare. I looked at the two enforcers still folded over in the lingering gas cloud, both of them coughing hard enough that one was spitting into the dirt. But Gas said "can be ignited." And this thing was literally on fire once I lit it. I'd see what happened.
+Signal flare. My claws tightened around it, the casing rough against my palm. I looked at the two enforcers still folded over in the lingering gas cloud, both of them coughing hard enough that one was spitting into the dirt. But Gas said "can be ignited." And this thing was literally on fire once I lit it. I'd see what happened.
 
 I struck the flare against the rough edge of a nearby crate, the way I'd seen people light matches in old movies, and it caught immediately with a bright orange flare of sparks. Then I threw it low, not up into the sky where it was supposed to go, straight into the green cloud still hanging thick between the two enforcers.
 

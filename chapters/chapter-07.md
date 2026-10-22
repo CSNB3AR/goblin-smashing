@@ -124,7 +124,7 @@ He knew my username. And he'd just shortened it. Forums said quest NPCs responde
 
 My jaw tightened slightly, my mind working faster now.
 
-Sixteen thousand yen yesterday off two elixirs. Gambler's Gambit procced. A crit one-shot two level threes. The math had already checked out once. If this quest chain paid the same way, I was in.
+Sixteen thousand yen yesterday off two elixirs. Gambler's Gambit procced. A crit one-shot two level threes. The math had already checked out once. If this quest chain paid the same way, I was in. I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
 
 A small notification ticked in the corner of my vision, easy to miss against everything else.
 
@@ -146,7 +146,7 @@ The Call of the Bones tag never left my HUD. I filed it away and stayed on my kn
 
 "I wasn't always this," Shiv said, and something almost like a dry laugh moved through the ash. "I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest's own court, back when that meant something."
 
-The green eyes didn't blink, didn't move, just burned steady in the smoke.
+The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I flexed my clawed fingers into the dirt to steady it.
 
 Okay. This had to be a quest hook. That was my first thought, hearing it.
 
@@ -162,15 +162,15 @@ He paused, and something in the pause felt deliberate.
 
 He was waiting for me to say something.
 
-I stayed quiet, just kept my eyes on Shiv, reading the moment.
+I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the split seam of my sleeve with one claw, an idle fidget I only noticed once I'd started it.
 
 "Understand," Shiv said, his voice dropping slightly. "The court that cast me out wasn't righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I'm not interested in playing the villain of that story just to sound humble."
 
-Okay. So he wasn't the bad guy. Got it.
+Okay. So he wasn't the bad guy. Got it. My brow had pulled down while I listened, and I made it ease.
 
 "There's more to it than that," Shiv said. "How I managed to hold the goblin clans together at all, that part you'll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn't. I leave what's left of my Warset to any goblin with an open mind enough to go looking for it."
 
-Warset. That was the gear chain. Multiple pieces. This wasn't just one quest, this was a whole chain.
+Warset. That was the gear chain. Multiple pieces. This wasn't just one quest, this was a whole chain. I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
 
 A new notification flashed at the edge of my vision, bright yellow bordered.
 
@@ -186,7 +186,7 @@ Wait. HGO's main channel had just hosted me. Everyone watching their feed had ju
 
 The number kept climbing. **[VIEWERS: 891 → 1,247]**.
 
-I couldn't take this back. Whatever happened here, everyone was going to see it.
+I couldn't take this back. Whatever happened here, everyone was going to see it. A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent as if the viewers were standing in it.
 
 **[FOLLOWERS: 6 → 94]**
 
@@ -202,7 +202,7 @@ He was talking about yesterday. The camp. Stepping in for the kid. That had trig
 
 **[VIEWERS: 1,247 → 1,803]**
 
-The chat window was moving too fast to read now, lines stacking on top of each other, questions I couldn't answer yet.
+The chat window was moving too fast to read now, lines stacking on top of each other, questions I couldn't answer yet. The glow of it pressed at the edges of my eyes and I squinted, the letters smearing faster than I could track them.
 
 Guilds were probably watching. Everyone.
 
@@ -216,7 +216,7 @@ Permission. He was asking, not telling.
 
 I looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness.
 
-If I said yes, this kid was in it too. I couldn't just click through this.
+If I said yes, this kid was in it too. I couldn't just click through this. I rubbed my thumb along the side of one claw, a nervous motion I'd never had in my human hands.
 
 I turned back to Shiv, met those burning green eyes, and made the call.
 
@@ -232,7 +232,7 @@ Shiv turned his full attention back to me, raising one hand, and a necklace mate
 
 World-tier item. Bound, so I couldn't sell it. But if it was anything like yesterday's drops, everything that came with it was worth more than the item itself.
 
-My mind ran the calculation fast.
+My mind ran the calculation fast. My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
 
 Sixteen thousand off two potions. A World Quest paid better than random trash loot. This was the shot.
 
@@ -258,7 +258,7 @@ My hair had gone white. Not gray, not silver, pure white. My skin had shifted to
 
 **[THE FIRST DESCENDANT OF SHIV]**
 
-First. That meant nobody else had this.
+First. That meant nobody else had this. I raked my fingers back through the white hair and felt the odd new weight of it, lighter than my old locs and strangely cool against my claws.
 
 Notifications came fast, stacking on top of each other in my vision.
 
@@ -294,7 +294,7 @@ I pulled the allocation screen open, my mind already running the build.
 
 Four into Wisdom. Six into Fortune.
 
-I split the points fast, didn't touch Power, Courage, or Speed.
+I split the points fast, didn't touch Power, Courage, or Speed. My eyes ached from the glare of the screen, and I blinked hard twice to clear them.
 
 The new passive sat at the bottom of the list.
 
@@ -372,13 +372,13 @@ The first guard looked at the second guard, something passing between them.
 
 The second guard took off at a run, his boots kicking up dust as he cut through the crowd that had started gathering outside.
 
-I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see more goblins drifting closer, murmuring, pointing, none of them willing to come within arm's reach of the tent itself.
+I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see more goblins drifting closer, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I wiped my damp palms down the rags and felt every eye out there like heat on my skin.
 
 **[VIEWERS: 5,127 → 6,804]**
 
 **[FOLLOWERS: 94 → 580]**
 
-A couple of names snapped into focus out of the scroll before I lost the thread of it entirely. One handle I half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. Taji? I didn't say it out loud, didn't want to know for sure badly enough to ask. If it was him, it was better I stayed quiet about it too.
+A couple of names snapped into focus out of the scroll before I lost the thread of it entirely. One handle I half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. Taji? I didn't say it out loud, didn't want to know for sure badly enough to ask. If it was him, it was better I stayed quiet about it too. My stomach turned over, and I pressed a hand flat against it as if that could settle anything.
 
 The other name I didn't have to guess at.
 
@@ -418,7 +418,7 @@ He'd been quiet this whole time. He hadn't said a word during the Shiv scene, ha
 
 "Feed's still recording the whole time, for what it's worth," Leon added. "Been watching. Honestly it's been like a movie over here. Didn't want to break in on any of it, we agreed I'd keep things low-key while Arya's still around. Doesn't mean I'm not here, though. Anything you need, I'm still on the other end of this."
 
-Good to know he was actually keeping his side of it.
+Good to know he was actually keeping his side of it. My shoulders dropped, the tension I hadn't known I was carrying easing out of my neck.
 
 "Yeah, I'm good," I said out loud. "Take your time."
 
@@ -428,7 +428,7 @@ The line went quiet.
 
 **[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
 
-I barely registered it. There wasn't room left in my head for anything that wasn't standing directly in front of me right now.
+I barely registered it. There wasn't room left in my head for anything that wasn't standing directly in front of me right now. The ash chill was still riding my skin, and I rubbed my arms once, claws scraping the rough fabric.
 
 I followed Sevish and Wyx through the open ground, Ru close at my shoulder, goblins parting around us as we moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
 
