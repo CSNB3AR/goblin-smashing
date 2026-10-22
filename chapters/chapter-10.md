@@ -8,7 +8,7 @@ The smell hit before my eyes finished adjusting. Smoke, not the usual rotting-ca
 
 Two items resettled on me as the game registered my full presence. The Gambler's Earring found my left ear again, the small specific weight of the thing, the single die of it pressing against my lobe in a way I'd half-forgotten across the session out. The Call of the Bones necklace landed a breath behind, warmth returning low against my sternum, the bone pendant swinging once and going still. The leather chest plate was already there from before the log-out, buckles sitting loose. I found the straps and cinched them down, the worn leather pulling snug against my ribs on the second try.
 
-**[GOBLIN LEATHER CHEST PLATE]**
+**[COMMON GOBLIN LEATHER CHEST]**
 **[+1 ENERGY] [COMMON]**
 
 I rolled one shoulder, testing the fit. All three items together carried real weight on this frame. Nothing pinged encumbrance. I noted it and adjusted the belt.
@@ -94,7 +94,7 @@ I'd argued theoretical builds with Eren years ago like it was an abstraction. It
 
 This was a deck. Four cards down, the rest still somewhere in the pile. And what was down right now wasn't a fighting hand, it was a support hand. If I went in swinging, I was doing maybe six damage with my fists before something with actual armor put me down. At least, I thought that was how it worked. I'd never actually punched anything in this game. I rubbed my eyes with the heel of my hand, the display's glow ghosting on the inside of my lids.
 
-I reached out, tapped the necklace itself. A small note unfolded beside it: World-tier, Siege and other organized guild battles apply a scaling reduction for balance. I'd half-heard that somewhere before, some aside on the WattsUp screen. Yuna's voice, the same voice Momo played on repeat through the apartment walls, explaining how even the strongest items got brought down to earth once a guild fight was organized. Something about the cadence of it snagged on a memory I couldn't place and let go again before I could chase it. Real power, just not unlimited power everywhere it went.
+I reached out, tapped the necklace itself. A small note unfolded beside it: World-tier, organized guild events such as Crownfall apply a scaling reduction for balance. I'd half-heard that somewhere before, some aside on the WattsUp screen. Yuna's voice, the same voice Momo played on repeat through the apartment walls, explaining how even the strongest items got brought down to earth once a guild fight was organized. Something about the cadence of it snagged on a memory I couldn't place and let go again before I could chase it. Real power, just not unlimited power everywhere it went.
 
 I looked at my ability bar. The gas icon sat beside the flare, the same two icons from my first real kill, back when I'd dropped the gas and lit it on instinct without knowing what either ability actually did. That order had snagged somewhere at the back of my head since. The gas stacked something on targets. The flare ignited. I didn't know what they added up to together, just that the combination hadn't let go of me since. I wasn't going to force it into something before it was ready. Eren used to do that, commit to a combo he didn't fully understand and eat the consequences.
 
@@ -228,7 +228,7 @@ I didn't answer. I kept my face toward Sevish.
 
 A brief notification pushed up from the lower edge of my HUD:
 
-**[FIELD COMMAND: ACTIVE — TATSUYA | 4 THRASH CLAN AUXILIARIES ASSIGNED]**
+**[FIELD COMMAND: ACTIVE — TATSUYA | 3 THRASH CLAN AUXILIARIES ASSIGNED]**
 
 Four of us. And I'd never led anyone in a fight before. Never been the one calling it.
 
@@ -410,7 +410,7 @@ First time leading anyone into a real fight. Eren used to call the plays. I used
 
 Ru's mouth split into something that showed teeth, not quite a grin but close enough to read as one.
 
-"Three sides gassed," I continued, my eyes still on the red canvas below. "Me, you, Rott, Nab, one on each wall. We hit them at the same time. We force them into the open on the fourth side, the road side, the one they think is already covered because the road's behind them." I let the shape of it sit a moment. "That's the side they won't be watching. That's where Arya comes in from the treeline."
+"Three sides gassed," I continued, my eyes still on the red canvas below. "You, Rott, Nab, one on each wall. We hit them at the same time. We force them into the open on the fourth side, the road side, the one they think is already covered because the road's behind them." I let the shape of it sit a moment. "That's the side they won't be watching. That's where Arya comes in from the treeline."
 
 A gust came up the slope and I tucked my clawed fingers into my fists to keep them from stiffening.
 
@@ -464,7 +464,7 @@ She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot
 
 I signaled toward the treeline. Rott and Nab were already crouched in the shadows twenty feet away, their eyes catching the firelight from camp behind them, and they jogged over low and quiet with the pouches at their belts barely shifting. Ru came in behind them, moving carefully around the arm he still kept pressed to his ribs.
 
-"Three walls, three of you, one each," I said, crouching to their level and meeting their eyes one at a time. "Wait for the fog. Don't move until it's down." I tapped the pouches at Rott's belt, the leather worn smooth under my clawed finger. "Once you're in, gas together. Same moment, not one after another. Three of you hitting it at once stacks faster than any of you could manage alone."
+"Three walls, three of you, one each," I said, crouching to their level and meeting their eyes one at a time. "Wait for the fog. Don't move until it's down, and have your blades out before you step in, or the fog takes your skills right along with theirs." I tapped the pouches at Rott's belt, the leather worn smooth under my clawed finger. "Once you're in, gas together. Same moment, not one after another. Three of you hitting it at once stacks faster than any of you could manage alone."
 
 Rott nodded and scratched at his head with one clawed hand, his fingers catching in the matted hair, his eyes darting between me and the tent. "Rott understands. Gas together. Stack fast."
 
@@ -497,7 +497,7 @@ I looked at the tent one more time, at the shapes of four people inside it who h
 The fog rolled down off Arya's staff like something poured rather than cast, thick and white and impossibly dense, swallowing the tent whole in seconds and moving like liquid down the hillside. The canvas walls vanished into it. The road vanished into it. The temperature dropped another few degrees as the spell settled, and frost crackled faintly across the grass at my feet, ice forming in spiderweb patterns around my boots. The silence that came with it pressed down over the hillside like a hand.
 
 **[HUSHVEIL (ADVANCED): ACTIVE]**
-**[ENEMIES WITHIN RADIUS: SILENCED, BLINDED, DEAFENED]**
+**[ENEMIES WITHIN RADIUS: SILENCED, BLINDED]**
 
 They couldn't see the walls anymore. Couldn't hear us coming. Couldn't cast anything. Couldn't cleanse anything that hit them inside it. Perfect.
 
@@ -546,7 +546,7 @@ A cold drain moved through the center of my chest, the kind that happened when s
 The explosion resolved into a battle report across my HUD, every ability that had fired in the last thirty seconds listed in clean order.
 
 **[BATTLE REPORT: RED TENT]**
-**[HUSHVEIL (ADVANCED): ARYA, TIER 6: SILENCE, BLIND, DEAFEN, 15-SECOND DURATION]**
+**[HUSHVEIL (ADVANCED): ARYA, TIER 6: SILENCE, BLIND, 15-SECOND DURATION]**
 **[GOBLIN GAS x3: RU, ROTT, NAB: STACKED APPLICATION]**
 **[POISON STACK: 4x, ACCELERATED: DAMAGE OVER TIME ACTIVE]**
 **[RUNE PRIMING x3: T_DRAG: STRATEGIC PLACEMENT]**

@@ -92,7 +92,7 @@ The first thing that landed as I read the chat was that it was actively talking 
 
 "I was invited to this chat a while back. It holds some of the best players, guild leaders in Japan. I made a few alliances with the guilds before Fire Festival event. Now it's just something I sit in." She didn't say much after that. Her tone changed, as if she'd cut herself off.
 
-"The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just allied with a player in a game. Aside from Yuna, you're living in rare space. Also, with Crownfall and the new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
+"The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just allied with a player in a game. Aside from Yuna, you're living in rare space. Also, with Crownfall and the new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. And the Crownfall castle sits in a neutral zone, the kind of place people are already rumoring ties back to some legendary world quest. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
 
 A cold prickle ran down the back of my neck.
 
@@ -148,7 +148,7 @@ I looked at her. "Can you cast Hushveil?"
 
 The look that crossed her face was the kind that came right before a question someone already knew the answer to but still had to ask. Her eyes narrowed slightly, taking in the steadiness of my expression, looking for the tell that would say this was a bluff.
 
-"That's a fog spell in the early parts of the tree," she said, the skepticism in her voice not quite hiding that she was running some kind of recalculation behind it. "It doesn't deal damage. It doesn't scale on anything you'd actually want to scale."
+"That's a fog spell deep in the tree," she said, the skepticism in her voice not quite hiding that she was running some kind of recalculation behind it. "It doesn't deal damage. It doesn't scale on anything you'd actually want to scale."
 
 She paused.
 
