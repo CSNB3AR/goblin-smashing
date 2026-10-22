@@ -16,7 +16,7 @@ Royal children carry the **queen's family name**, not the king's.
 - **Prince Ilyan Solenne**, the **Silver Prince.** About 25. An agile mage, apprentice to High Magister Corvith Ostrane. Lives in the royal city.
 - **Prince Maldren Solenne**, the **Gilded Prince.** About 19 to 20. Cunning, cruel, the most powerful of the three. Wants a new order.
 
-During Season Zero the three princes each raise an army. Twelve guilds qualify for the championship, four attached to each prince's army, and city lords hire guilds as mercenaries.
+During Season Zero the three princes each raise an army. Twelve guilds qualify for the finale, four attached to each prince's army, and city lords hire guilds as mercenaries.
 
 ## High Magister Corvith Ostrane
 

@@ -124,7 +124,7 @@ Another goblin stepped up beside the first, arms crossed. "You heard him. Move."
 
 My eyes swept the camp. Goblins nearby kept working, sharpening blades, tending fires, a few glancing over but nobody moving to step in. The kind of scene people noticed and decided wasn't their problem.
 
-Two-on-one over a campfire spot. That's weak.
+Two-on-one over a campfire spot. That was weak.
 
 My hand went flat against my thigh, the motion automatic even in this shorter body, working through whether this was actually my problem or just felt like it.
 
@@ -132,7 +132,7 @@ I needed combat experience anyway. I couldn't test Gambler's Gambit if I wasn't 
 
 The two enforcers stepped closer to the kid, one reaching for him.
 
-Alright, fuck it. Let's see what this build can do.
+Alright, fuck it. I'd see what this build could do.
 
 I was moving before I'd finished the thought, boots hitting soft dirt as I crossed the open ground, not rushing, just deliberate, committed once I'd started.
 
@@ -172,13 +172,13 @@ Then there wasn't time to think.
 
 I turned and ran.
 
-My legs moved wrong, too short, the stride narrow and choppy, but lighter now, springier with every step, my reduced weight making the movement feel almost effortless compared to my real body. Speed stat's doing work. Okay, that's actually clean.
+My legs moved wrong, too short, the stride narrow and choppy, but lighter now, springier with every step, my reduced weight making the movement feel almost effortless compared to my real body. Speed stat was doing work. Okay, that was actually clean.
 
 I cut between two tents at an angle they'd have to widen out to follow, wind whipping through my hair as I used the canvas shadows to break line of sight, boots kicking up small clouds of dust where the ground was packed hard.
 
 Goblins nearby stopped what they were doing to watch, a few of them standing up from their fires or setting down whatever they'd been working on. Not many, the camp wasn't packed, but enough that I could feel the eyes tracking me.
 
-Can't die here. The 72-hour death lock surfaced in my mind, hard and immediate, something I'd skimmed in the license screen before I pressed accept. One mistake and I was cooked.
+I couldn't die here. The 72-hour death lock surfaced in my mind, hard and immediate, something I'd skimmed in the license screen before I pressed accept. One mistake and I was cooked.
 
 My thoughts raced as I brought up my skills menu with a thought, a small translucent UI flickering into existence at the edge of my vision, two icons sitting there waiting.
 
@@ -200,7 +200,7 @@ I triggered the ability with a thought.
 
 Pressure built low in my gut, sudden and mortifying even mid-sprint, and then gas vented out behind me in a thick green cloud that erupted from exactly where I'd been afraid it would.
 
-Oh, that's where it comes from. Damn, that's foul. I covered my own nose with one hand, the smell hitting me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
+Oh, that was where it came from. Damn, that was foul. I covered my own nose with one hand, the smell hitting me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
 
 Coughing erupted behind me, harsh and wet. One of them doubled over, the sound of retching clear even over the noise of the camp.
 
@@ -248,7 +248,7 @@ I reached into the small leather pocket attached to the rags I was wearing, my f
 
 **[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Distress use only.]**
 
-Signal flare. I looked at the two enforcers still folded over in the lingering gas cloud, both of them coughing hard enough that one was spitting into the dirt. But Gas said "can be ignited." And this thing was literally on fire once I lit it. Let's see what happens.
+Signal flare. I looked at the two enforcers still folded over in the lingering gas cloud, both of them coughing hard enough that one was spitting into the dirt. But Gas said "can be ignited." And this thing was literally on fire once I lit it. I'd see what happened.
 
 I struck the flare against the rough edge of a nearby crate, the way I'd seen people light matches in old movies, and it caught immediately with a bright orange flare of sparks. Then I threw it low, not up into the sky where it was supposed to go, straight into the green cloud still hanging thick between the two enforcers.
 

@@ -17,4 +17,4 @@ Seeded gradually per the established pacing model (King's Avatar, Ace of Diamond
 
 ## Do not
 
-Do not let the Chapter 1 broadcast self-intro read as more than background noise. Do not let this subplot outweigh the game/esports throughline. (The old "do not compress the hospital reveal earlier than currently planned" rule is superseded by the Luxor Lakes mechanism above, kept here as a note so the change reads as deliberate, not silently dropped.)
+Do not let the Chapter 1 broadcast self-intro read as more than background noise. Do not let this subplot outweigh the game, money and family throughline. (The old "do not compress the hospital reveal earlier than currently planned" rule is superseded by the Luxor Lakes mechanism above, kept here as a note so the change reads as deliberate, not silently dropped.)

@@ -4,8 +4,6 @@ The first thing I noticed when I logged back in wasn't Ru. It was the dark.
 
 The tent had gone deep while I was out, the single oil lamp guttered low, shadows covering the corners it used to just touch. I blinked against the dim canvas ceiling, the ache of full re-entry sharper than it should've been for how short the gap actually was. Ten minutes, give or take. That was all I'd been gone.
 
-Ten minutes. That was all this had taken.
-
 The smell hit before my eyes finished adjusting. Smoke, not the usual rotting-camp kind, but something sharper underneath, the bite of burned material rather than cook fire. My body turned toward the tent entrance before the thought caught up. I stopped myself. Turned back. Get the gear on first.
 
 Two items resettled on me as the game registered my full presence. The Gambler's Earring found my left ear again, the small specific weight of the thing, the single die of it pressing against my lobe in a way I'd half-forgotten across the session out. The Call of the Bones necklace landed a breath behind, warmth returning low against my sternum, the bone pendant swinging once and going still. The leather chest plate was already there from before the log-out, buckles sitting loose. I found the straps and cinched them down, the worn leather pulling snug against my ribs on the second try.

@@ -25,4 +25,4 @@ She's prepared to make the Tochi decision for Tatsuya herself if he stalls much 
 
 ## Personality
 
-The warm but iron-fisted matriarch. Looks like a sweet grandma until the old coach voice comes out and silences a room instantly. Runs the household with loving authority, cooks high-protein "athlete" meals, treats esports exactly like a physical sport, correcting posture, lecturing on recovery, forcing proper breaks. The ultimate peacekeeper when the twins clash, a soft, deeply protective bond with Tatsu, a safe place for him to land when the pressure gets too heavy.
+The warm but iron-fisted matriarch. Looks like a sweet grandma until the old coach voice comes out and silences a room instantly. Runs the household with loving authority, cooks high-protein "athlete" meals, treats the game exactly like a physical sport, correcting posture, lecturing on recovery, forcing proper breaks. The ultimate peacekeeper when the twins clash, a soft, deeply protective bond with Tatsu, a safe place for him to land when the pressure gets too heavy.

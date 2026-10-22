@@ -9,10 +9,10 @@
 - Yuna has also been at Tochi since elementary school.
 - Has a real, enforced zero-tolerance policy on bullying, hazing, and family-influence targeting students on campus, which is exactly why it's the one place in Japan the Tabuchis have no reach at all. Tatsuya was hazed there and chose not to report it, consistent with his instinct to absorb rather than escalate, even with real institutional backup available to him.
 - He only completed about three months of his first year of high school (age 16) before his father's death and Eren's betrayal pushed him out entirely.
-- Eren's team funding traces back to the Tabuchis investing in a school esports program once second-gen pods opened HGO access, consistent with Tochi's existing pedigree in competitive sports (baseball, Ohema's volleyball) and tech (Daichi's infrastructure work), the school leans into being competitive at everything.
+- Eren's team funding traces back to the Tabuchis investing in a school guild program once second-gen pods opened HGO access, consistent with Tochi's existing pedigree in competitive sports (baseball, Ohema's volleyball) and tech (Daichi's infrastructure work), the school leans into being competitive at everything.
 
 **Re-entry, resolved:** if Tatsuya returns to Tochi, he comes back as a full first-year. He never completed that year the first time, so there's no advanced placement and no version where he's ahead of Eren, he's behind, and re-entry means starting over.
 
 ## Governance: the school council (new)
 
-Tochi's major decisions, including whether to open a real representative qualifier for outside esports competition rather than default to an incumbent, run through an adult council: Chiyo, the Tabuchis, and five other unnamed members. Not a bureaucratic detail to dwell on, just enough structure to make Act Two's representative qualifier read as a real institutional decision rather than an arbitrary event. See `codex/pro-scene/tochi-representative-qualifier.md` for why the council actually opens the slot up now.
+Tochi's major decisions, including whether to open a real representative qualifier for outside Siege competition rather than default to an incumbent, run through an adult council: Chiyo, the Tabuchis, and five other unnamed members. Not a bureaucratic detail to dwell on, just enough structure to make Act Two's representative qualifier read as a real institutional decision rather than an arbitrary event. See `codex/pro-scene/tochi-representative-qualifier.md` for why the council actually opens the slot up now.

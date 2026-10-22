@@ -9,7 +9,7 @@
 ## Facts
 
 - Kansai Black Lotus's star player and **Breakout Player of the Season** (Season Zero's award).
-- Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see `codex/pro-scene/ranking-ladder.md`), but carries a real pro marker on his profile from actually qualifying into tournaments, a clean example of how ladder rank and pro status are related but distinct.
+- Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see `codex/pro-scene/ranking-ladder.md`), with a visible marker from the Season Zero finale week, a clean example of how ladder rank and standing are related but distinct.
 - Frustrated with Eren over Kansai Black Lotus missing the Season Zero top eight. Will end up leaving the guild around the Crownfall timing.
 - Has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. Watches quietly, a flicker of dawning respect rather than anything stated outright.
 

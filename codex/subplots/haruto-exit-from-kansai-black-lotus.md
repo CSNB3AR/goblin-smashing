@@ -4,7 +4,7 @@
 
 ## The seed
 
-Haruto has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. In Chapter 1 he gets a small, quiet beat of dawning respect toward Tatsuya, not a speech, and a genuine compliment on his way out ("You're too good to be on a roster like that"). See `codex/characters/haruto-murayama.md`.
+Haruto has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. In Chapter 1 he gets a small, quiet beat of dawning respect toward Tatsuya, not a speech, and a genuine compliment on his way out ("You're too good to be in a guild like that"). See `codex/characters/haruto-murayama.md`.
 
 ## The payoff (old-draft sourced, needs POV rework)
 
@@ -12,7 +12,7 @@ The old draft had this play out as a full Eren-POV chapter: Kazuto strips Eren o
 
 ## Timing
 
-Leaves the guild around the Crownfall timing, with the Hearthfire structure making his individual skill more valuable on a healthier roster. Matches Kansai Black Lotus missing the Season Zero top eight (`codex/pro-scene/pro-teams.md`), a real, felt trigger rather than a vague sense of frustration. He was Season Zero's Breakout Player.
+Leaves the guild around the Crownfall timing, with the Hearthfire structure making his individual skill more valuable in a healthier guild. Matches Kansai Black Lotus missing the Season Zero top eight (`codex/pro-scene/pro-teams.md`), a real, felt trigger rather than a vague sense of frustration. He was Season Zero's Breakout Player.
 
 ## Landed, Chapter 8
 

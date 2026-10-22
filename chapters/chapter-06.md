@@ -104,7 +104,7 @@ Everyone out there already knew it was live. That was a target on me whether I w
 
 I switched to Loop, set my handle to TDRAG to match the game, and set a goblin icon as my profile image instead, something pulled straight off my own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to me.
 
-After swiping through Loop for a bit I pulled up the Companion App next. Streams stacked down the front page, viewer counts running six figures on some of them, sponsor logos scrolling under the names that mattered.
+After swiping through Loop for a bit I pulled up the Companion App next. Streams stacked down the front page, viewer counts running six figures on some of them, sponsor logos scrolling under the biggest ones.
 
 There could be real money if I decided to stream the World Quest, but that came with a huge target on my back.
 

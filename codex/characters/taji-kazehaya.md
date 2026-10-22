@@ -7,7 +7,7 @@
 
 Dialogue and behavior should read like a real kid that age, not a scaled-down teenager or adult, genuine enthusiasm, moodiness affected as toughness, not weary composure.
 
-HGO-obsessed, always tangled in blankets and headphones, has strong opinions about every pro team. His favorite pro player is Dosuke AI (see `codex/characters/dosuke-ai.md`), whose build resembles the original concept Tatsuya and Eren once theorized together, a detail Tatsuya notices and says nothing about.
+HGO-obsessed, always tangled in blankets and headphones, has strong opinions about every big guild and player, and is the family's real fan of the game (Tatsuya tunes it out). His favorite player is Dosuke AI (see `codex/characters/dosuke-ai.md`), whose build resembles the original concept Tatsuya and Eren once theorized together, a detail Tatsuya notices and says nothing about.
 
 Tatsuya's full biological sibling, along with twin sister Momo, all three sharing the same two parents, Ohema and Daichi (see `codex/characters/ohema-kazehaya.md`, `codex/characters/daichi-kazehaya.md`).
 

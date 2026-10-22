@@ -22,4 +22,4 @@ A year ago someone pulled plug-ins from Daichi's adapted car, it malfunctioned, 
 
 ## Old-draft reference, superseded characterization
 
-The old draft (see `bible/old-draft-chapter-bible.md`) had Kazuto explicitly hint at deeper complicity in Daichi's death (not just debt pressure) in an Eren-POV chapter that's since been cut for breaking the locked third-person-on-Tatsuya rule. If any of that darker implication is wanted going forward, it needs to reach the reader through Tatsuya's own observation or secondhand knowledge, never a direct scene with Eren and Kazuto.
+The old draft (see `bible/old-draft-chapter-bible.md`) had Kazuto explicitly hint at deeper complicity in Daichi's death (not just debt pressure) in an Eren-POV chapter that's since been cut for breaking the locked first-person-on-Tatsuya rule. If any of that darker implication is wanted going forward, it needs to reach the reader through Tatsuya's own observation or secondhand knowledge, never a direct scene with Eren and Kazuto.
