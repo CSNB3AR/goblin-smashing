@@ -1,4 +1,6 @@
-# Chapters 1-10 Revision Log
+# Chapters 1-10 Revision Log (History: third-person term-swap pass)
+
+**This log records the earlier third-person term-swap pass and is kept as history.** The chapters are now first person and reworked as story. See `outline/first-person-conversion-log.md` for the current record.
 
 Every change made to the drafted chapters to bring them in line with the Hearthfire / Crownfall / Season Zero canon (see `codex/lore/hearthfire-expansion-and-seasons.md`, `codex/lore/timeline-and-beta.md`). Changes are word and sentence level except the items marked **NEW, PROPOSED** and the one **structural** move. Line numbers are approximate. Review the NEW passages first, they are drafts in your voice for you to rework.
 

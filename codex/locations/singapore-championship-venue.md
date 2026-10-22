@@ -1,6 +1,6 @@
 # Championship Venue, Singapore
 
-**Type:** Real-world location, Singapore. Host site for the Season Zero Championship final (Championship 1), the broadcast Chapter 1 opens on. Single source for the broader structure: `codex/lore/hearthfire-expansion-and-seasons.md`.
+**Type:** Real-world location, Singapore. Host site for the Season Zero finale, the broadcast Chapter 1 opens on. Single source for the broader structure: `codex/lore/hearthfire-expansion-and-seasons.md`.
 
 ## Facts
 

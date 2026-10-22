@@ -10,6 +10,7 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`style-guide/`](style-guide/)** — non-negotiable craft rules and voice/technique guidance.
   - [`craft-rules.md`](style-guide/craft-rules.md)
   - [`voice-technique.md`](style-guide/voice-technique.md)
+  - [`first-person-voice.md`](style-guide/first-person-voice.md): first-person conversion rules and what never changes.
   - [`race-dialect-and-voice.md`](style-guide/race-dialect-and-voice.md) — per-race NPC speech/voice rules for the 8 playable races.
 - **[`codex/characters/`](codex/characters/)** — one file per character, 24 entries: Tatsuya, his family, supporting cast, antagonists, and in-game characters.
 - **[`codex/locations/`](codex/locations/)**: one file per location, 12 entries: real-world Tokyo locations, the championship venue, and Eryndal's world/regions.
@@ -20,12 +21,13 @@ Everything below is split into individual files/entries specifically so it can b
 - **[`codex/creatures/`](codex/creatures/)** — the bestiary: the Class I-IV threat-tier system (`overview.md`) and one file per class with a representative, expandable creature roster.
 - **[`codex/races/`](codex/races/)** — one file per playable race (8), stats/racial ability/resistances/magic-access split out of the shared table that used to live in `codex/lore/`.
 - **[`codex/arena/`](codex/arena/)** — the standing PvP-queue hub: the level-5 gate, the teleport-with-zone-lock mechanic, and matchmaking formats.
-- **[`codex/pro-scene/`](codex/pro-scene/)**: the esports/competitive ecosystem: tournament and PvP formats, the pro-guild roster, the guild roster, the ranking ladder, and the Crownfall Siege event's full bracket/regional/points structure (`crownfall-siege-event.md`; `winter-bash-tournament.md` is now a redirect stub).
+- **[`codex/pro-scene/`](codex/pro-scene/)**: the competitive layer that develops after the opening (HGO is not an esports story at the start, the Siege Pro League is a later arc): tournament and PvP formats, the pro-guild roster, the guild roster, the ranking ladder, and the Crownfall Siege event's full bracket/regional/points structure (`crownfall-siege-event.md`; `winter-bash-tournament.md` is now a redirect stub).
 - **[`codex/crafting/`](codex/crafting/)** — the crafting/gathering system: Crafting Points, the six professions, tiered success rates and stations/process (`overview.md`, `professions.md`, `crafting-stations-and-process.md`), buffs and debuffs/resistances (`food-and-consumables.md`, `debuffs-and-resistances.md`), and representative recipes (`recipes-gadget-line.md`, `recipes-spirit-line.md`).
 - **[`codex/materials/`](codex/materials/)**: the raw-materials layer crafting draws from, organized per-region (`overview.md`) and per-category (`organic.md`, `inorganic-and-salvage.md`, `magical-and-spirit-tied.md`), maps forward cleanly onto the five-continent Hearthfire expansion.
 - **[`codex/subplots/`](codex/subplots/)** — one file per ongoing plot thread, 11 entries, each with a status flag (active / seeded / forward-only).
 - **[`outline/`](outline/)** — beat-by-beat chapter plan, one file per chapter, plus a restructuring-notes file explaining what changed from the old draft and why.
-- **[`chapters/`](chapters/)**: drafted chapter prose, Chapters 1-9. `outline/chapters-1-9-revision-log.md` lists every line changed in the Hearthfire-era canon update (before and after), with the new passages flagged for review.
+- **[`chapters/`](chapters/)**: drafted chapter prose, Chapters 1-10, **first person, past tense, inside Tatsuya's head**. `outline/first-person-conversion-log.md` records the conversion and every story-level change, with new passages flagged for review. `outline/chapters-1-9-revision-log.md` is the older third-person term-swap log, kept as history.
+- **[`chapters-third-person/`](chapters-third-person/)**: the archived third-person chapters as they stood before the first-person conversion.
 
 ## Archive
 
@@ -33,4 +35,4 @@ Everything below is split into individual files/entries specifically so it can b
 
 ## Status
 
-Chapters 1-9 have been brought up to date with the Hearthfire / Crownfall / Season Zero canon (see `outline/chapters-1-9-revision-log.md`, new passages flagged for the author's review). Chapter 10 now has both parts on the page (Part One reconciled from the author's drafts, Part Two the raid, adapted to the new canon). Earlier status: Chapters 1-6 drafted and final (`chapters/chapter-01.md` through `chapter-06.md`). Chapter 7 (`chapters/chapter-07.md`) drafted, in progress. Chapter 8 (`chapters/chapter-08.md`, "Assembling the Assault Team") and Chapter 9 (`chapters/chapter-09.md`, "Silence and Fire") drafted, in progress, together closing out the World Quest/tutorial phase and resolving the PK_Wraith tent-ambush. Chapter 10 (PK_Wraith's blacklist fallout + real-world fallout + Myrrhwood-departure setup) and Chapter 11 (next arc opener, meant to breathe before Crownfall tournament logistics take over) are planned but not yet drafted, see `outline/chapter-outline.md`.
+Chapters 1-10 are on the page in **first person, past tense, locked in Tatsuya's head**, reworked as story (HGO is not an esports story, Tatsuya avoids it because of Eren, the WattsUp Corporation sponsors HGO, Siege and Crownfall are announced with no Siege Pro League). See `outline/first-person-conversion-log.md` for every change, new passages flagged for the author's review. Chapter 11 (next arc opener, meant to breathe before Crownfall logistics take over) is planned but not yet drafted, see `outline/chapter-outline.md`.

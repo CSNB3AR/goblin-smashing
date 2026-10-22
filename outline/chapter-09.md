@@ -39,7 +39,7 @@ Viewer count climbs (`**[VIEWERS: 940 → 3,610]**`), Arya's assist gets credite
 
 ## Ending hook
 
-Lands on Arya's "I'm in the kill feed... my name's actually showing" and Tatsuya's "Welcome to the team," with the Doppelganger's Band explicitly still sitting unexamined in his inventory in the same closing beat, `**[END CHAPTER NINE]**`. Two live threads closing the chapter at once: the partnership deepening, and the ring's unresolved mystery. PK_Wraith's chat reaction, the informal blacklist, and Arya's offer to move the three sellable items through her auction contact are **not** in this chapter, they open Chapter 10 instead, see `outline/chapter-outline.md`'s Chapter 8-11 pacing section.
+Ends on the log-in to a quiet, smoke-sour camp, the defender count at 15/50, and "Ru!" (`**[END CHAPTER NINE, PART TWO]**`). The Doppelganger's Band is **not** in this chapter. It drops from Joss, an enchanter, in Chapter 10 Part Two, at 60 MP against Tatsuya's 32 MP bar. First person throughout.
 
 ## Craft notes for any future resync
 

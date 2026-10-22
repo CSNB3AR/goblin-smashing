@@ -25,7 +25,7 @@ When launch approached, right at the start of that first month of high school, E
 
 Eren took the build ideas they had developed together and implemented them on his own account without telling Tatsuya, then cut him off completely. He announced he already had an established, developed account, isolated himself from Tatsuya, and became openly dismissive and hostile. Tatsuya never publicly called it out. He absorbed it.
 
-The build dominated the meta, built Eren's reputation, and got Tochi to back a school esports team (funded by Tabuchi money).
+The build dominated the meta, built Eren's reputation, and got Tochi to back a school guild team (funded by Tabuchi money).
 
 **Aftermath at school:** once Eren's build got famous, Tatsuya became a target for mockery specifically because everyone knew he'd been involved in the underlying ideas but was too broke to actually play, a cruel, specific irony. This led to real altercations (Tatsuya was no longer the shy kid by this point), and combined with his father's death, led to him dropping out entirely within that first three-month stretch, giving him an undeserved "bad boy" reputation.
 

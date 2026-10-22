@@ -1,6 +1,6 @@
 # Tatsuya Kazehaya
 
-**Role:** Protagonist / POV character (locked third-person POV, always)
+**Role:** Protagonist / POV character (locked first-person past tense inside his head, always, see `style-guide/first-person-voice.md`)
 **Age:** 16 to 17 (no chapter states it, see `codex/lore/timeline-and-beta.md`). Returns to Tochi as a first-year.
 **In-game username:** TDRAG (see origin note below)
 **In-game character:** Goblin (see `codex/lore/playable-races-and-character-creation.md` for how)
@@ -15,9 +15,9 @@ Ghanaian and Japanese (father Japanese, mother Ghanaian). Dark brown skin, black
 
 ## Personality
 
-Current: hype, competitive, smartass, deep game IQ, deflects pain through humor and calculation. Built off Marcus Carter ("Miracle") and Scump energy, hype but always respectful of real skill, understands mechanics deeply. Thinks in numbers and odds. Doesn't monologue pain, deflects, calculates, goes quiet, goes still when the math is bad.
+Current: shut down, bitter, practical, a smartass when cornered, deflects pain through humor and calculation. He **avoids HGO**. It is the game he and Eren theorized together before Eren took the credit, so every broadcast, jacket and clip is a sore spot. He is not a fan, does not follow guilds, and did not plan a build for years. He still absorbed some knowledge and resents that it surfaces automatically. Money (Ohema's deadline, the debt), the Crownfall prize pool and a cheap drive are what pull him in, not the game. Warmth toward the world only starts after the world quest and Shiv, and it is about people and the world, never rankings. Thinks in numbers and odds. Doesn't monologue pain, deflects, calculates, goes quiet, goes still when the math is bad.
 
-**Character arc note (important):** He was NOT always like this. As a kid, and going into Tochi Academy, he was shy, isolated, had no friends. The loud, hype, deflecting personality is armor built after his father's death and the Eren betrayal, a transformation, not a static trait. This should inform flashback material and any scenes showing his younger self.
+**Character arc note (important):** He was NOT always like this. As a kid, and going into Tochi Academy, he was shy, isolated, had no friends. The deflecting, smartass, shut-down personality is armor built after his father's death and the Eren betrayal, a transformation, not a static trait. This should inform flashback material and any scenes showing his younger self.
 
 Sweepstakes pre-launch access (older line: one of roughly 200 people in Japan, a QR code scan that pulled his name) is **under review**, since he is now an open-beta player (see `codex/lore/timeline-and-beta.md` open items).
 
@@ -40,6 +40,8 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 
 ## Why HGO
 
+**Why he stayed away.** HGO is the thing he and Eren theorycrafted together. The WattsUp Corporation (the company behind the charge stations, not Gato) sponsors HGO the way other small companies buy exposure on a big closed-beta game with high stock, which is why the finale is on the store screen. Tatsuya keeps his back to it. Only the ¥10M Crownfall prize, the 72-hour discount and the closed-beta moment move him.
+
 **Money first.** Tatsuya is stuck in debt and Ohema's six-month deadline is running. HGO, "The New World," is a game that genuinely pays, and it offers a way out when nothing else does. That is why he joins. He is not the only one who sees it: anyone smart is going to try to make it big or find a business idea for the game, so he earns his place with connections and products (see `codex/lore/hearthfire-expansion-and-seasons.md`, `codex/subplots/goblin-trade-company-forward-plot.md`).
 
 **Second, the hints from his father, conscious but private.** He suspects what happened to his father was not an accident: the car that crashed Dad's business, the retailers that pulled back, the Tabuchis tightening their grip. He does not say it to anyone. Dad's manual (the first-gen schematics he inherited) holds a **hidden note** that warns and never proves: look at who is leaning on us, only Kazuku has the proof, and he is reachable only inside HGO. The schematics themselves never go in the game. Tatsuya brings **Dad's design logic** (the belt, turrets, gadgets) into HGO to sell and redeem the product, which may also draw Kazuku, and the Tabuchis.
@@ -53,7 +55,7 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 - `codex/subplots/goblin-trade-company-forward-plot.md` — a forward plot thread built on his father's tinkering legacy.
 - `codex/subplots/technical-arc-leon-and-sakura-arcade.md` — his growing role keeping Leon's arcade running.
 - `codex/subplots/tochi-academy-return.md` — the open decision hanging over Chapter 1 and beyond.
-- `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md` — the long-term end goal, reaching (and staying in) the pro league, and beating Eren along the way.
+- `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md`: the Siege Pro League is a later arc that finds him; his drivers are money, Dad's note, Eren and the world.
 
 ## Employment
 

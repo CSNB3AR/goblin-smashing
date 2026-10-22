@@ -4,12 +4,12 @@ The real-world and in-game calendar the story sits inside. Sequence and rules fo
 
 ## The window
 
-The whole story, from the Season Zero Championship broadcast to the Hearthfire launch and Node Wars opening, fits inside roughly **eight to nine months**. The closed beta ran about that long in real time. "Tonight" in Chapter 1 is **Sunday, December 10th, 2045**, the Season Zero Championship final. Crownfall is December 25th. Hearthfire is January 1st.
+The whole story, from the Season Zero finale broadcast to the Hearthfire launch and Node Wars opening, fits inside roughly **eight to nine months**. The closed beta ran about that long in real time. "Tonight" in Chapter 1 is **Sunday, December 10th, 2045**, the Season Zero finale final. Crownfall is December 25th. Hearthfire is January 1st.
 
 ## Beta structure
 
 - **Closed beta (Season Zero):** about **5,000 players**, from roughly **870,000 pre-orders**. One server, one continent. Access was a mix of invitation and pre-order draw.
-- **Open beta:** opens after the Season Zero Championship. All players and businesses can enter, and access drives are discounted. Tatsuya's character is an open-beta character (see `codex/objects/hgo-access-drive.md`).
+- **Open beta:** opens after the Season Zero finale. All players and businesses can enter, and access drives are discounted. Tatsuya's character is an open-beta character (see `codex/objects/hgo-access-drive.md`).
 - Closed-beta characters freeze at Hearthfire. Open-beta characters are permanent (see `codex/lore/hearthfire-expansion-and-seasons.md`).
 - **Lumi** is the cute system guide who walks players through character creation. She glitches when Tatsuya's goblin-glitch selection fires (see `codex/lore/playable-races-and-character-creation.md`).
 

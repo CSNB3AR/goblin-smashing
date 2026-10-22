@@ -6,14 +6,14 @@ Single source of truth for the HGO release sequence, the competitive structure a
 
 - **Hearthfire** is the expansion: the economy and "home" release, the push to bring a real business into the game, the world maps, and the start of Season One. Launches January 1st. "Crownfall" is **not** the expansion.
 - **Crownfall** is a Siege tournament, an open-beta showcase event held December 25th. It replaces the old Winter Bash entirely (same countdown, same 10 million yen prize pool). See `codex/pro-scene/crownfall-siege-event.md`.
-- **Season Zero** is the closed beta. Its finale is the **Season Zero Championship** (also called Championship 1), the broadcast the story opens on. There is no Winter Championship.
+- **Season Zero** is the closed beta. Its finale is the **Season Zero finale** (the last battle of Season Zero), the streamed spectacle the story opens on. There is no Winter Championship.
 - There is no "Beta 2". The sequence is closed beta (Season Zero), then open beta (all players and businesses, with discounted access drives), then Hearthfire opens Season One.
 
 ## Release sequence
 
 1. **Closed beta / Season Zero.** About 5,000 players out of roughly 870,000 pre-orders. One server, one continent (Lunarest, see `codex/lore/lunarest-royal-court.md`), three princes, city lords hiring guilds as mercenaries. Runs roughly eight to nine months in real time (see `codex/lore/timeline-and-beta.md`).
-2. **Season Zero Championship.** Twelve guilds qualify, four attached to each prince's army. A skirmish win is worth 40 points. See "Season Zero finale" below. Prize pool 40 million yen.
-3. **Closed-to-open gap.** Closed-beta veterans get a **24-hour cash-out window** for their Legacy Silver exchange (see "Currency"). Kazuku announces Hearthfire live during the championship broadcast.
+2. **Season Zero finale.** Twelve guilds qualify, four attached to each prince's army. A skirmish win is worth 40 points. See "Season Zero finale" below. Prize pool 40 million yen.
+3. **Closed-to-open gap.** Closed-beta veterans get a **24-hour cash-out window** for their Legacy Silver exchange (see "Currency"). Kazuku announces Hearthfire live during the finale broadcast.
 4. **Open beta.** All players and businesses can enter. Access drives are discounted. Characters made here are permanent. Tatsuya's character is an open-beta character.
 5. **Crownfall, December 25th.** Open-beta Siege tournament, 10 million yen pool.
 6. **Hearthfire, January 1st, Season One.** Roughly 14 hours of full server downtime, the first full shutdown in HGO's life (landing rules in `codex/lore/hgo-timeline-and-real-world-stakes.md`). The five-continent world maps release.
@@ -36,6 +36,8 @@ A guild-scale arena mode.
 - Siege is a **side mode and showcase**, not the main story. It has two lives: the one-off Crownfall event, and afterward the **Siege Pro League**.
 
 ### Siege Pro League
+
+**Status:** does not exist in Chapters 1 to 10. Kazuku's opening ad announces Siege as a mode, Crownfall as a one-off event with a 10 million yen pool, open beta and the 72-hour discount, and nothing more. The league is announced after Crownfall's crowds, sponsors and viewership earn it (staged arc and triggers in `codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md`). Everything below describes the league once it exists.
 
 A scheduled, ranked guild-versus-guild circuit that runs through each season. **HGO picks it up at national and global scale**, capitalizing on how popular the small 20v20 Siege became with players who go in carrying items they made in the world. It is the structure the pro-scene money and attention sit on top of (see `codex/pro-scene/tournaments-and-events.md`).
 

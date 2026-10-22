@@ -1,6 +1,6 @@
 # Act One: The Crownfall Arc
 
-(The file name is historical, from when the December 25th event was the Winter Bash. It is now **Crownfall**, a guild Siege tournament, see `codex/pro-scene/crownfall-siege-event.md`. Season Zero's finale is what Chapter 1 broadcasts, see `codex/lore/hearthfire-expansion-and-seasons.md`.)
+(The file name is historical, from when the December 25th event was the Winter Bash. It is now **Crownfall**, a guild Siege tournament, see `codex/pro-scene/crownfall-siege-event.md`. Season Zero's last battle is what Chapter 1 broadcasts, see `codex/lore/hearthfire-expansion-and-seasons.md`. Crownfall is an event inside a Siege mode, not a league. The Siege Pro League does not exist yet and is announced later, see `codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md`. The story is first person.)
 
 Picks up right after Chapter 9 ("Silence and Fire," see `outline/chapter-09.md`), starting with the not-yet-drafted Chapter 10. A sequence of story beats, not a chapter map, some of these will need more than one chapter to actually land, that gets sorted during drafting, not here.
 

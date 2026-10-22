@@ -17,7 +17,7 @@ Ten qualifying sieges per region, four regions run in parallel: **EMEA, Americas
 
 ## World bracket, single elimination, Christmas Day
 
-Top 32, Top 16, Top 8 (quarterfinals), Top 4 (semifinals), Final, run across one "Championship Sunday"-style finale (Crownfall falls on December 25th).
+Top 32, Top 16, Top 8 (quarterfinals), Top 4 (semifinals), Final, run across one finale day (Crownfall falls on December 25th).
 
 ## Physical-attendance requirement
 
@@ -39,3 +39,12 @@ Haya Storm (see `codex/pro-scene/haya-storm.md`) enters as a small guild built a
 - Win-based points only, none for a loss, a small completion bonus for finishing the qualifying stretch. Siege standings run on the siege objective result, not on individual scoring (no KDA bonus), keeping the format guild-first. Individual ladder rank stays a fully separate track (see `codex/pro-scene/ranking-ladder.md`).
 - Crownfall is the first event to award **seasonal points** that carry into Season One, the broader standing track (see `codex/pro-scene/ranking-ladder.md`). As semifinalists Haya Storm's core lands a points total high enough to rank above London Spire and Aogiri, Season Zero's champion and runner-up (see `codex/pro-scene/pro-teams.md`), a felt underdog-credibility beat even in a losing run.
 - **Prize pool: 10 million yen.** The winning guild's payout comes close to the cost of Ohema's surgery (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). The top three guilds earn seasonal points plus money. Payouts are contribution-based inside each guild.
+
+## Announcement and framing (what the story actually shows)
+
+- Crownfall is **announced** inside Kazuku's Hearthfire ad as a Siege event with a ten million yen prize pool, alongside open beta and the 72-hour 50 percent drive discount. That bundle is the enticing offer that pulls Tatsuya in. The story never calls it a league and no one in it talks about pro play.
+- Tatsuya treats it as money, not sport: the prize pool pays toward Ohema's surgery and the debt.
+
+## What happens after Crownfall (the Siege Pro League is earned)
+
+The Siege Pro League does not exist during Crownfall. It is announced later, after Crownfall's viewership, sponsors and stadium crowds prove Siege draws people, and after early Season One demand. Full staged arc and triggers: `codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md`. League rules (national and global circuit, seasonal points for rare items, Ember cores, troop cap, no 72-hour lock): `codex/lore/hearthfire-expansion-and-seasons.md`.

@@ -7,7 +7,7 @@ This is the single source of truth for canon facts and non-negotiable craft rule
 
 ## 1. Elevator Pitch
 
-Tatsuya Kazehaya is a broke eighteen-year-old dropout working a convenience store register in Tokyo, carrying his dead father's debt and his comatose mother's hospital bills, when he finally saves enough to buy his way into the biggest game in the world. He gets locked into the weakest possible starting position through a hardware glitch nobody could have predicted, on a character he can never reset. Everyone assumes that's the end of his story before it started. It isn't. This is a slow, earned rise told by someone who understands the game better than the people who locked him out of it, built through relationships, game knowledge, and refusal to quit, not power fantasy.
+Tatsuya Kazehaya is a broke teenage dropout working a convenience store register in Tokyo, carrying his dead father's debt and his sick mother's hospital bills. He has spent a year avoiding Hero's Glory Online because it is the game he and the friend who betrayed him once theorized about. Kazuku's Hearthfire announcement, a 72-hour discount on drives and a ten million yen Crownfall prize pool make it the cheapest way back into real money he has ever seen, so he buys in. A hardware glitch locks him into the weakest possible starting position, on a character he can never reset. This is a slow, earned rise told from inside his head, built through relationships, his father's design logic, and refusal to quit, not power fantasy. He is one of many who will try to make it big in a new world.
 
 ## 2. Three Core Genre Pillars
 
@@ -15,20 +15,20 @@ The story must never drift from these three. Overcomplicating the premise (real-
 
 1. **LitRPG** — visible stats, systems, progression the reader can track.
 2. **VRMMORPG** — full-dive pod hardware, real physical stakes to being "in" the game.
-3. **Deck-building** — players collect items and gear through play and deploy their earned kit in competitive matches. This is Chaotic-DNA (never name it directly, describe it functionally): your permanent, earned inventory is your deck, and what you bring into a match matters as much as your class.
+3. **Deck-building** — players collect items and gear through play and deploy their earned kit in guild battles. This is Chaotic-DNA (never name it directly, describe it functionally): your permanent, earned inventory is your deck, and what you bring into a battle matters as much as your class.
 
-Esports is the visible, spectator-friendly PvP layer sitting on top of a much bigger living MMORPG. Keep that distinction clear in the text — HGO is not "a fighting game," it's a whole world that happens to have a wildly popular competitive scene.
+**This is not an esports story.** HGO is a whole living world and a business opportunity. Siege is a guild mode announced with Hearthfire, Crownfall is a one-off Siege event, and the Siege Pro League is a later arc that has to be earned (`codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md`). Tatsuya avoids the game at the start because it reminds him of Eren.
 
 **Combat genre, light touch.** HGO's combat is melee, magic, and bow-based, no conventional firearms; steampunk tech (Tatsuya's own sidearm, see `codex/lore/battle-items-and-battlegear.md`) is the closest thing to a modern weapon the world has. This is part of why HGO pulled players over from shooters, MOBAs, and battle royales in the first place, its team-fight-with-items structure reads as familiar competitive ground to players coming from those other genres, even though the actual combat feel is nothing like a shooter. Keep this to background texture, not a lore dump.
 
 ## 3. Tone & Inspirations (Do Not Replicate — Understand the DNA)
 
-1. **King's Avatar** (top priority reference) — Ye Xiu energy. A player who understands the game on a level nobody else does, forced to rebuild from nothing. Strategic, grounded, competitive. Brilliance shown through game knowledge and tactical thinking, not power fantasy. The rise is slow, earned, deeply satisfying.
+1. **King's Avatar** (structure reference only): a gifted player forced to rebuild from nothing, with brilliance shown through knowledge and tactical thinking, not power fantasy. Borrow the earned rise, not the pro-circuit setting. The rise is slow, earned, deeply satisfying.
 2. **Overlord** — monster-as-protagonist angle, unusual starting position, slow build of influence and respect, loyal companions earned rather than assigned.
 3. **That Time I Got Reincarnated as a Slime** — weakest possible starting creature, real growth through intelligence and relationships, companions as found family, warmth without losing real stakes.
 4. **Log Horizon / Sword Art Online** — the game world is alive, reactive, has real social and political weight. Not just a backdrop for fights.
 
-**Governing principle:** King's Avatar energy, inside a world with Overlord's scope and Slime's warmth. The rise is chapter-by-chapter earned. Companions are built through relationship, never command.
+**Governing principle:** King's Avatar's earned rise, inside a world with Overlord's scope and Slime's warmth, told in first person like Slime. The rise is chapter-by-chapter earned. Companions are built through relationship, never command.
 
 ## 4. Main Character
 
@@ -39,7 +39,7 @@ Esports is the visible, spectator-friendly PvP layer sitting on top of a much bi
 - Username: **TDRAG**.
 - **Personality, two registers, not a contradiction:**
   - **Around Momo and Taji, and in most everyday moments:** calm, measured, quietly mature. Clear-eyed about hard truths instead of anxious around them. He decides fast and doesn't sit around regretting a call once he's made it.
-  - **Playing HGO is where the rest of him comes out:** hype, competitive, smartass, deep game IQ, deflects pain through humor and calculation. Built off Marcus Carter ("Miracle") and Scump energy, high, motivating gamer energy, hype but always respectful of real skill, understands mechanics deeply. When it actually matters, he goes clutch, locked in, more accurate, and the energy flips up rather than draining out, he doesn't go flat or quiet in the moments that count, the confidence gets louder right when the stakes peak. Reads a fight on instinct as much as calculation, doesn't stop to monologue pain, deflects it instead and keeps moving.
+  - **Inside HGO, once the world pulls him in:** deflecting, smartass, calculating, humor as armor. He does not start as a fan. He avoids the game because it reminds him of Eren, and what moves him is money, Dad's note and later the people and the world. When it actually matters he goes clutch and locked in, doesn't stop to monologue pain, deflects it and keeps moving.
 - He's stuck with an undeserved "bad boy" reputation from his Tochi years (see the Eren fallout, `codex/subplots/tabuchi-schematics-and-family-debt.md`), and how he looks doesn't help, tall, scarred, wild locs, people size him up before he's said a word. Who he actually is and what people assume don't match.
 - He's also just sharp, tactically and technically both. Reads a fight the same patient, systematic way he reads a broken pod, that's straight from Daichi (see `codex/objects/haya-eb.md` for the hardware side of it). He has real quiet, withdrawn moments, that's separate from clutch mode, more the weight of something outside the game catching up to him, and he's not performing all the time. But when he's actually good at something and knows it, that confidence shows, no false modesty about it.
 - **Character arc note (important):** He was NOT always like this. As a kid, and going into Tochi Academy, he was shy, isolated, had no friends. The loud, hype, deflecting personality is armor built after his father's death and the Eren betrayal, a transformation, not a static trait. This should inform flashback material and any scenes showing his younger self.
@@ -132,7 +132,7 @@ WattsUp and the Nakamura Grand are both in Tokyo's Shibuya ward (Kanto region), 
 - When launch approached, right at the start of that first month of high school, Eren, with family money and access through the Tabuchi second-gen pod business, got hardware access before Tatsuya could afford any device at all, and the betrayal below had already landed by the time Daichi died and the funeral happened, days or weeks later, in that same brutal first month.
 - Eren took the build ideas they had developed together and implemented them on his own account without telling Tatsuya, then cut him off completely. He announced he already had an established, developed account, isolated himself from Tatsuya, and became openly dismissive and hostile.
 - Tatsuya never publicly called it out. He absorbed it.
-- The build dominated the meta, built Eren's reputation, and got Tochi to back a school esports team (funded by Tabuchi money).
+- The build dominated the meta, built Eren's reputation, and got Tochi to back a school guild team (funded by Tabuchi money).
 - **Aftermath at school:** once Eren's build got famous, Tatsuya became a target for mockery specifically because everyone knew he'd been involved in the underlying ideas but was too broke to actually play — a cruel, specific irony. This led to real altercations (Tatsuya was no longer the shy kid by this point), and combined with his father's death, led to him dropping out entirely within that first three-month stretch, giving him an undeserved "bad boy" reputation.
 - Eren now collects on the Tabuchi family debt as leverage over Tatsuya.
 - Physical signature: easy posture, entitlement where Tatsuya has calculation, voice drops into a lower register when he's trying to sound threatening.
@@ -182,7 +182,7 @@ WattsUp and the Nakamura Grand are both in Tokyo's Shibuya ward (Kanto region), 
 - Company: Nexus Enterprises.
 
 ### Yuna / Yunaile
-- HGO's main broadcast personality and tournament caster. Pink hair, high energy, the public face of the esports world. Also an idol/singer (tracks like "Shadow Drive," performs in HGO's virtual spaces).
+- HGO's main broadcast personality and tournament caster. Pink hair, high energy, the public face of HGO's broadcasts. Also an idol/singer (tracks like "Shadow Drive," performs in HGO's virtual spaces).
 - Civilian name: Yunaile. Hides her public identity completely outside of broadcasts, glasses, real name only.
 - **Visual reference (locked, civilian look):** twin buns, glasses, ties directly to the disguise above, this is what she looks like as Yunaile, not on-broadcast Yuna.
 - Loop account: @Yuna_N9. Momo's obsession with her plants her in Tatsuya's household long before any direct connection forms.
@@ -192,7 +192,7 @@ WattsUp and the Nakamura Grand are both in Tokyo's Shibuya ward (Kanto region), 
 - The father and mother are both complicit — an outside doctor brings in medication through channels that bypass the hospital directly, and that medication is making Kaito worse, not better. Kaito visibly improves when his parents aren't present.
 - Yuna has been kept at Tochi Academy since elementary school. She barely sees her father outside formal occasions and hotel lobby encounters. She knows what her parents are, without hard proof of what they're doing to Kaito.
 - Her parents don't know how deeply she's actually embedded in HGO, not just as a caster, but as its entire public face. When that becomes impossible to hide, the family's interest in her flips overnight from "inconvenience" to "asset," especially once she's visibly connected to Tatsuya.
-- **The family's late interest in HGO specifically:** they weren't paying attention to the esports side until Kazuku began treating in-game economic infrastructure as a serious real-world business play (kept intentionally vague, see §8). Once that shift became impossible to ignore, the family scrambled to get positioned inside it, and suddenly Yuna, previously in the way, became valuable.
+- **The family's late interest in HGO specifically:** they weren't paying attention to HGO until Kazuku began treating in-game economic infrastructure as a serious real-world business play (kept intentionally vague, see §8). Once that shift became impossible to ignore, the family scrambled to get positioned inside it, and suddenly Yuna, previously in the way, became valuable.
 - **Hospital meeting:** Yuna visits Kaito regularly to cheer him up and bring him fan mail. Tatsuya bumps into her in the hallway; she drops envelopes. She introduces herself as Yunaile only. She recognizes the Kazehaya name but doesn't explain why. By the end of the conversation she asks if he plays HGO, quietly testing whether he recognizes her. He doesn't connect it in the moment. He pieces it together later, at home, watching TV.
 - **Revised:** Yuna's on-air name does surface in Chapter 1, via her own ordinary broadcast self-intro, background noise Tatsuya registers without fully engaging, not a character beat. What still stays for later, at the hospital: her civilian identity (Yunaile), any real recognition or connection on Tatsuya's part, and the slow-burn romance thread. Don't let the Chapter 1 self-intro turn into more than that.
 
@@ -242,7 +242,7 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 
 ### Competitive structure (distinct ruleset from open-world PvP)
 Full detail lives in `codex/pro-scene/tournaments-and-events.md` and `codex/lore/hearthfire-expansion-and-seasons.md`. Summary:
-- **Season Zero Championship (Championship 1):** the closed beta's finale, the broadcast Chapter 1 opens on. Twelve guilds qualify, four per prince's army. A skirmish win is 40 points. The top eight are cut two per day, the final four are set by the weekend, and Sunday is the **Battle of the Snowy Plains**, 300 points, 12 Aogiri (Japan) against 20 London Spire (UK) after attrition from 72-hour death locks. Prize pool 40 million yen. Hosted in Singapore.
+- **Season Zero finale:** the closed beta's finale, the broadcast Chapter 1 opens on. Twelve guilds qualify, four per prince's army. A skirmish win is 40 points. The top eight are cut two per day, the final four are set by the weekend, and Sunday is the **Battle of the Snowy Plains**, 300 points, 12 Aogiri (Japan) against 20 London Spire (UK) after attrition from 72-hour death locks. Prize pool 40 million yen. Hosted in Singapore.
 - **Siege:** a guild arena mode, up to 20 per side, garrison troops fill empty slots. **Crownfall** (December 25th, 10 million yen pool, open-beta guilds only) is the one-off Siege showcase that replaces the old Winter Bash. Afterward the **Siege Pro League**, a national and global guild circuit, runs through each season: seasonal points per match buy rare items, matches pay Ember cores (refined into Ember crystals that power the guild hall, which can still run without power; halls need city ownership or a lease inside a city, otherwise a leased plot, or a camp grown into an outskirts and a town), it is full loot with no death lock, and troops are capped hard (about one or two per player).
 - **Node Wars** across the five continents are the main war content after Hearthfire.
 - **Death lock:** a flat 72 hours in every mode except the Siege Pro League, which has none. Pass-out lock 24 hours (provisional).
@@ -258,7 +258,7 @@ Full detail lives in `codex/pro-scene/tournaments-and-events.md` and `codex/lore
 
 ### Timeline
 - HGO's closed beta (Season Zero) ran roughly eight to nine months, about 5,000 players from roughly 870,000 pre-orders (see `codex/lore/timeline-and-beta.md`).
-- **"Tonight" (story present, December 10th, 2045, a Sunday, "Championship Sunday")** is the Season Zero Championship final, and the Hearthfire expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Crownfall (December 25th), six of which (roughly December 10th-16th) Chiyo and the twins spend away on their Kyoto trip.
+- **"Tonight" (story present, December 10th, 2045, a Sunday, "Finale Sunday")** is the Season Zero finale, and the Hearthfire expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Crownfall (December 25th), six of which (roughly December 10th-16th) Chiyo and the twins spend away on their Kyoto trip.
 - **Hearthfire launch date: January 1st**, a week after Crownfall. The closed-beta character lock triggers at this full launch, not at the announcement. Crownfall sits in the gap between announcement and launch as a Siege showcase for open-beta characters.
 
 ## 8. Stakes & Motivations
@@ -271,14 +271,14 @@ Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, frame
 ### Real-world stakes — keep this simple, do not over-explain
 HGO generates enormous real money because in-game currency and items convert directly into real-world currency. Because of that money, the game has attracted real-world business interest, government interest, and criminal interest, everyone wants a piece of this new economic space, and no country wants to be left out of it. Criminal activity in the real world connects naturally to the open-world item-drop mechanic: steal valuable items via in-game death, launder or sell for real money.
 
-**Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering tonight's Season Zero Championship (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. Belongs in Chapter 2's already-outlined "next morning" opener.
+**Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering tonight's Season Zero finale (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. Belongs in Chapter 2's already-outlined "next morning" opener.
 
 ### Named apps and channels
 - **Loop** — the social-media app where HGO engagement, clips, and reactions live, a Twitter-equivalent. Ties forward to Arya's later footage-posting beat (see her entry in §6).
 - **HGO Companion App** — the official read-only info app: livestreams, VODs, news, a forum/Reddit-equivalent space. Not used for actual gameplay, informational only.
 - **HGO TV** — Kazuku's official broadcast channel, the thing playing at WattsUp and on Tatsuya's own TV at home. Match replays, Yuna's performances and caster appearances, and pro-scene news coverage, all filtered through Tatsuya's own insider recognition, never a narrator info-dump.
 
-**Do not** invent specific real-world resource-acquisition mechanics (no oil rigs, no doomsday market-collapse scenarios, no explicit geopolitical thriller machinery). Keep the real-world impact implied and atmospheric rather than mechanically explained. The story stays esports/guild/economy-focused at its core, not a geopolitical thriller.
+**Do not** invent specific real-world resource-acquisition mechanics (no oil rigs, no doomsday market-collapse scenarios, no explicit geopolitical thriller machinery). Keep the real-world impact implied and atmospheric rather than mechanically explained. The story stays guild/economy-focused at its core, not a geopolitical thriller.
 
 **Background mechanics (bible-only, for internal consistency, not for direct page use):** the laundering works through black-market merchants who convert illicit real-world cash into in-game value and back out again, functionally untraceable once it's passed through. HGO's internal privacy protections mean even outside enforcement (think a UN- or NATO-style unified body, never named that specifically on the page) can't easily reach in without agents operating inside the game world's own rules. This stays exactly as vague and atmospheric in the actual prose as the paragraph above already specifies, it exists here only so nothing contradicts itself later.
 
@@ -305,7 +305,7 @@ Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family
 - Full sentences in narration, no action fragments.
 - Every line of dialogue paired with an action, posture, or tone cue. No floating quotes.
 - **Banned physical beats:** jaw clenching, sighing as an emotional beat, pacing, swallowing hard, crossing arms, "chill ran down his spine," "heart pounded."
-- **POV:** Tight third-person, locked to Tatsuya at all times, no exceptions. The narrator never takes over, everything the reader learns about the world, other characters, or the setting has to arrive through what Tatsuya notices, does, or thinks, not through outside exposition. Real world first, VR second. No generic fantasy narration inside HGO. Real-life pressure (bills, twins, mom, Tabuchi) never fully turns off, even in-game.
+- **POV:** First person, past tense, locked inside Tatsuya's head at all times, no exceptions (the Slime effect; see `style-guide/first-person-voice.md`). Everything the reader learns about the world, other characters, or the setting has to arrive through what Tatsuya sees, hears, does, or thinks, not through outside exposition. The third-person originals are archived in `chapters-third-person/`. Real world first, VR second. No generic fantasy narration inside HGO. Real-life pressure (bills, twins, mom, Tabuchi) never fully turns off, even in-game.
 - **Chapter target:** roughly 3,000–4,000 words (updated from the earlier 2,000–2,500 baseline as the author's actual chapters settled at this length). Serial format. Every chapter ends on a decision, complication, reveal, or gut-punch. No neat bows. No recap-heavy internal monologue. No lore dumps, the world is revealed only through Tatsuya living inside it.
 
 ## 11. Open Questions / Flags for Confirmation

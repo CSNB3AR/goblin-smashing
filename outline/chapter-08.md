@@ -26,7 +26,7 @@ Same beats as before: the stream connection drops, Leon's warning escalates to "
 
 ## Real-world interlude, Sakura Arcade
 
-Same locked beats as before (Loop virality, affiliate realism, the Tochi notification, the money transfer, the Gato text, the arena-unlock realization, the Haruto/Kansai Black Lotus/Dosuke AI beat), tightened and reordered slightly, all still present and accurate to already-locked canon. New beat: a real, dangling worry, "How do I even enter the esports scene with this build?", left unanswered rather than resolved, a piece of real texture rather than a plot thread that needs closing here.
+Same locked beats as before (Loop virality, affiliate realism, the Tochi notification, the money transfer, the Gato text, the arena-unlock realization, the Haruto/Kansai Black Lotus departure beat, played as guild drama in the beta with Eren's stolen build in the subtext), tightened and reordered slightly, all still present and accurate to already-locked canon. First person. The only real stakes in the closing beats are the 72-hour lock, the fifteen days to Crownfall and no team locked in yet.
 
 ## Ending hook
 

@@ -4,7 +4,7 @@
 
 ## Appearance
 
-Pink hair, high energy on-broadcast, the public face of the esports world. **Civilian look (locked):** twin buns, glasses, ties directly to her disguise, this is what she looks like as Yunaile, not on-broadcast Yuna.
+Pink hair, high energy on-broadcast, the public face of HGO's broadcasts. **Civilian look (locked):** twin buns, glasses, ties directly to her disguise, this is what she looks like as Yunaile, not on-broadcast Yuna.
 
 ## Facts
 
@@ -25,7 +25,7 @@ Yuna has been kept at Tochi Academy since elementary school. She barely sees her
 
 Her parents don't know how deeply she's actually embedded in HGO, not just as a caster, but as its entire public face. When that becomes impossible to hide, the family's interest in her flips overnight from "inconvenience" to "asset," especially once she's visibly connected to Tatsuya.
 
-**The family's late interest in HGO specifically:** they weren't paying attention to the esports side until Kazuku began treating in-game economic infrastructure as a serious real-world business play (kept intentionally vague). Once that shift became impossible to ignore, the family scrambled to get positioned inside it, and suddenly Yuna, previously in the way, became valuable.
+**The family's late interest in HGO specifically:** they weren't paying attention to HGO until Kazuku began treating in-game economic infrastructure as a serious real-world business play (kept intentionally vague). Once that shift became impossible to ignore, the family scrambled to get positioned inside it, and suddenly Yuna, previously in the way, became valuable.
 
 ## Hospital meeting (future chapter material)
 
