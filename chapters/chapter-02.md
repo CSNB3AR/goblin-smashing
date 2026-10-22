@@ -6,13 +6,13 @@ My phone was still in my hand, the screen dark and cool against my palm. I thumb
 
 What the hell. I was up off the couch before the thought finished, the blanket sliding to the floor in a heap, the television still running the same paused replay of London Spire lifting the trophy that it had been showing when I closed my eyes. Momo's door stood open now, her room empty, bed made in the haphazard way that meant she'd done it fast before leaving. Taji's side of the couch was cold, no sign of him anywhere in the apartment.
 
-Nobody home but me, and the whole day already gone without my permission, half of my seventy-two-hour window burned while I'd been unconscious on a couch.
+Nobody home but me, and the whole day already gone without my permission, a good fifth of my seventy-two-hour window burned while I'd been unconscious on a couch.
 
 Slept through the whole damn morning. Great start.
 
 A note sat on the kitchen counter, folded once, my name written across the front in Chiyo's handwriting. I picked it up and read it standing there in the middle of an empty apartment.
 
-**[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. [Chiyo]**
+**[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
 Right. The trip. I'd known about it for two weeks, had it marked on the calendar stuck to the fridge, and had completely lost track of it.
 

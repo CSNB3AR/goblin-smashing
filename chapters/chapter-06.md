@@ -72,7 +72,7 @@ My eyes closed on something almost like excitement sitting underneath the exhaus
 
 • • •
 
-Morning came too early, sunlight cutting through the blinds in a way that said I'd slept past my usual alarm. I checked my phone. 7:43 AM. December 11th.
+Morning came too early, sunlight cutting through the blinds in a way that said I'd slept past my usual alarm. I checked my phone. 7:43 AM. December 12th.
 
 Damn. I sat up, a loc falling loose across my face that I pushed back automatically. Better move if I wanted to get research in before Leon.
 
