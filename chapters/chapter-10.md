@@ -460,7 +460,7 @@ Arya's frown deepened, the glow on her staff brightening for half a second and t
 
 She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot of mana for that big a radius. Tier six at full size will eat most of what I've got." Her knuckles went white on the staff. "And I can't hold it forever once it's live. Everyone has to be in position before it runs dry."
 
-"You've got it," I said, my voice steady, my weight settling. "Once it lands, they can't see, can't hear, can't cast, can't cleanse anything. They're not going anywhere until I want them to."
+"You've got it," I said, my voice steady, my weight settling. "Once it lands, they can't see, can't cast, can't cleanse anything. They're not going anywhere until I want them to."
 
 I signaled toward the treeline. Rott and Nab were already crouched in the shadows twenty feet away, their eyes catching the firelight from camp behind them, and they jogged over low and quiet with the pouches at their belts barely shifting. Ru came in behind them, moving carefully around the arm he still kept pressed to his ribs.
 
@@ -499,7 +499,7 @@ The fog rolled down off Arya's staff like something poured rather than cast, thi
 **[HUSHVEIL (ADVANCED): ACTIVE]**
 **[ENEMIES WITHIN RADIUS: SILENCED, BLINDED]**
 
-They couldn't see the walls anymore. Couldn't hear us coming. Couldn't cast anything. Couldn't cleanse anything that hit them inside it. Perfect.
+They couldn't see the walls anymore. Couldn't cast anything. Couldn't cleanse anything that hit them inside it. Perfect.
 
 "Go," I said.
 
@@ -517,7 +517,7 @@ Sound started reaching me through the fog, something between coughing and retchi
 
 Not like last time. They weren't getting outside this one.
 
-"They're not even trying to run," Arya said quietly beside me, her voice tight with something between disbelief and awe, the glow on her staff flickering as the staff trembled in her grip. "They can't hear themselves choking."
+"They're not even trying to run," Arya said quietly beside me, her voice tight with something between disbelief and awe, the glow on her staff flickering as the staff trembled in her grip. "They can't even call for help."
 
 Ru and the two goblins peeled back out of the fog seconds later, clearing the treeline fast and low. Ru's chest heaved once as he sucked in clean air, his breath pluming white from his mouth, with Rott and Nab right behind him, gasping.
 
