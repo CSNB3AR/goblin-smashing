@@ -18,7 +18,7 @@ Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
 
 See `codex/subplots/technical-arc-leon-and-sakura-arcade.md`, `codex/locations/sakura-arcade.md`, and `codex/subplots/leon-arya-custody-battle.md`.
 
-**Leaderboard watcher.** Leon follows the Siege and seasonal standings closely and is the first to spot Tatsuya's total climbing faster than his visible play explains (Whispers of Shiv troops credit their points to the commanding player, see `codex/lore/companion-troop-system.md`). He says so bluntly, as an analyst, before anyone else puts it together.
+**Leaderboard watcher.** Leon follows the Crownfall and seasonal standings closely and is the first to spot Tatsuya's total climbing faster than his visible play explains (Whispers of Shiv troops credit their points to the commanding player, see `codex/lore/companion-troop-system.md`). He says so bluntly, as an analyst, before anyone else puts it together.
 
 ## Personality
 

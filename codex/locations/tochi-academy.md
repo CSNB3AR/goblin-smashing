@@ -15,4 +15,4 @@
 
 ## Governance: the school council (new)
 
-Tochi's major decisions, including whether to open a real representative qualifier for outside Siege competition rather than default to an incumbent, run through an adult council: Chiyo, the Tabuchis, and five other unnamed members. Not a bureaucratic detail to dwell on, just enough structure to make Act Two's representative qualifier read as a real institutional decision rather than an arbitrary event. See `codex/pro-scene/tochi-representative-qualifier.md` for why the council actually opens the slot up now.
+Tochi's major decisions, including whether to open a real representative qualifier for outside guild competition rather than default to an incumbent, run through an adult council: Chiyo, the Tabuchis, and five other unnamed members. Not a bureaucratic detail to dwell on, just enough structure to make Act Two's representative qualifier read as a real institutional decision rather than an arbitrary event. See `codex/pro-scene/tochi-representative-qualifier.md` for why the council actually opens the slot up now.

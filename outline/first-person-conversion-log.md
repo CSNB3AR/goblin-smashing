@@ -82,3 +82,11 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 - **Love of tactics.** Tatsuya states why he likes HGO: the tactics, the thing he and Eren drew on graph paper. That love is why the broadcast hurts. Avoidance stays. NEW.
 - **Body-cue rule.** After information-heavy passages he returns to his body with a varied cue (rubbing his eyes, squinting at the fluorescents, a wince, a loc falling, hands flat on a surface). Applied chapter by chapter, see `style-guide/first-person-voice.md`.
 - **Open items.** The town's name. What happens if the clock expires while the zone is still contested. Whether "the Knights of the London Spire" stays an epithet or becomes the guild name (currently an epithet).
+
+## Addendum F: Siege is only the Crownfall event
+
+- Siege is no longer a game mode. Crownfall is a one-off **Siege Castle event** in a neutral zone, a crowning event that prepares players for the larger-scale Node Wars. There is no standing queue, ladder, hall practice arena or Siege Pro League in canon.
+- Chapter 1's ad and chapter 10's necklace note were reworded to the event. Earlier log lines above that say "Siege (fortress, banner, twenty a side)" or "Siege and other organized guild battles" describe the superseded wording.
+- Parked, not canon: Siege Pro League, Ember cores and crystals as match payouts, troop cap, no-lock rule, points shop, Ember-powered hall upgrades. Notes live in `codex/lore/hearthfire-expansion-and-seasons.md`.
+- Open items: whether the neutral-zone castle ties to a legendary world quest (hint only, undecided); whether Siege returns, and through another announcement or a different arc; the fate of the parked Ember and hall-power mechanics.
+

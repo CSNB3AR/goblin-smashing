@@ -45,7 +45,7 @@ Green poison skulls (stacks), fire orange turning blue-white as it scales (ignit
 
 ## Early PvP learning curve (confirmed forward-plot, Crownfall prep arc)
 
-His first real PvP reps go badly, and the reason is mechanical: Siege objectives and control points hold for a short window, and a purely trap-and-wait, setup-heavy playstyle cannot keep pace. This is the concrete in-fiction reason he needs the mobile kit above, immediate-use tools rather than only pre-armed traps. The troop system covers some of the gap (see `codex/lore/companion-troop-system.md`).
+His first real PvP reps go badly, and the reason is mechanical: zone-control and Crownfall objectives hold for a short window, and a purely trap-and-wait, setup-heavy playstyle cannot keep pace. This is the concrete in-fiction reason he needs the mobile kit above, immediate-use tools rather than only pre-armed traps. The troop system covers some of the gap (see `codex/lore/companion-troop-system.md`).
 
 ## Future signature abilities
 
@@ -54,7 +54,7 @@ His first real PvP reps go badly, and the reason is mechanical: Siege objectives
   - **Crit tie-in:** no new stat, just Fortune doing what it already does, applied to a target caught in a marked zone or otherwise debuffed.
 - **The doppelganger ring** replaces the earlier idea of a Clone spell. See below.
 - **A steampunk sidearm**, tool-based, fed by a tank on his back, switching between Goblin Gas (caustic shot) and Flare (fire shot). Details in `codex/lore/battle-items-and-battlegear.md`.
-- **A goblin-built turret**, tied to the future goblin trade company, not his personal kit. A product of the trade company once it exists (see `codex/subplots/goblin-trade-company-forward-plot.md`). **Balance niche, locked:** underperforms in the Siege Pro League (too slow and setup-heavy for that pace), but genuinely strong in Node Wars and PvE/base-defense content (see `codex/pro-scene/tournaments-and-events.md`).
+- **A goblin-built turret**, tied to the future goblin trade company, not his personal kit. A product of the trade company once it exists (see `codex/subplots/goblin-trade-company-forward-plot.md`). **Balance niche, locked:** underperforms in fast objective fights such as Crownfall (too slow and setup-heavy for that pace), but genuinely strong in Node Wars and PvE/base-defense content (see `codex/pro-scene/tournaments-and-events.md`).
 
 ## The doppelganger ring
 

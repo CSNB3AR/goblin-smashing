@@ -16,7 +16,7 @@ A LitRPG progression fantasy told in first person. Rise from the bottom, slow bu
 
 **What to expect:**
 - LitRPG with real stat sheets, a full class and skill system, and a progression that actually compounds over time
-- Guild wars, sieges and a world to build in, with a prize pool and a debt pushing every decision
+- Guild wars, a castle siege event and a world to build in, with a prize pool and a debt pushing every decision
 - Weak to strong from the absolute bottom, the kind of climb that has to be earned
 - Slow burn romance, rival arcs, found family, and real-world stakes running alongside the in-game climb
 - A long story. Act one is just the beginning.

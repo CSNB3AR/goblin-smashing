@@ -55,7 +55,7 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 - `codex/subplots/goblin-trade-company-forward-plot.md` — a forward plot thread built on his father's tinkering legacy.
 - `codex/subplots/technical-arc-leon-and-sakura-arcade.md` — his growing role keeping Leon's arcade running.
 - `codex/subplots/tochi-academy-return.md` — the open decision hanging over Chapter 1 and beyond.
-- `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md`: the Siege Pro League is a later arc that finds him; his drivers are money, Dad's note, Eren and the world.
+- `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md`: Crownfall is a one-off Siege Castle event and any league is undecided; his drivers are money, Dad's note, Eren and the world.
 
 ## Employment
 

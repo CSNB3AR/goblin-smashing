@@ -21,7 +21,7 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 
 - HGO is not an esports story. Tatsuya avoids it because it reminds him of Eren. No analysts, scrims, pro talk or meta talk.
 - The WattsUp Corporation sponsors HGO, which is why the finale plays on the store screen.
-- Hearthfire, Season Zero, Siege, Crownfall, the 72-hour lock, shillings, Legacy Points, Lumi and open beta are used everywhere. The Siege Pro League is never mentioned in Chapters 1 to 10.
+- Hearthfire, Season Zero, Crownfall (a one-off Siege Castle event, not a game mode), the 72-hour lock, shillings, Legacy Points, Lumi and open beta are used everywhere. The Siege Pro League and any Siege mode are never mentioned in Chapters 1 to 10.
 
 ## Return to the body
 

@@ -8,7 +8,7 @@ By STR_B3AR (Bobby)
 Primary: **LitRPG** (visible stats, systems, and progression the reader can track on the page).
 Secondary/blended: **VRMMORPG** (full-dive pod/helmet hardware, real physical stakes to being "in" the game) and **Deck-building progression fantasy** (Chaotic-TCG-flavored inventory system, never named directly on the page — players collect gear and deploy their earned kit in guild battles, described functionally).
 
-**This is not an esports story.** HGO (Hero's Glory Online) is a whole living world and a business opportunity, not a competitive circuit. Siege is a guild mode announced as part of Hearthfire, and Crownfall is a one-off Siege event with a prize pool. The Siege Pro League does not exist at the start of the story. If it happens, it is a later arc that has to be earned (`codex/pro-scene/crownfall-siege-event.md`). Tatsuya is not a fan of the game. Keep that distinction clear at all times.
+**This is not an esports story.** HGO (Hero's Glory Online) is a whole living world and a business opportunity, not a competitive circuit. Siege is not a game mode. Crownfall is a one-off Siege Castle event with a prize pool, announced with Hearthfire as a crowning event that prepares players for the larger Node Wars. There is no Siege Pro League in canon. If players like the event it may return through another announcement or a different arc, which is undecided (`codex/pro-scene/crownfall-siege-event.md`). Tatsuya is not a fan of the game. Keep that distinction clear at all times.
 
 **Point of view:** first person, past tense, locked inside Tatsuya's head (the Slime effect). See `style-guide/first-person-voice.md`.
 

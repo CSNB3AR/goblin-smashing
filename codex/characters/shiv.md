@@ -30,4 +30,4 @@ Shiv tells Tatsuya part of his own history directly, in his own words, inside th
 
 See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` and `codex/lore/world-quests.md`.
 
-**Whispers of Shiv in Sieges.** Garrison troops recruited through Whispers of Shiv fill the 20-player Siege queue and their points credit to Tatsuya (see `codex/lore/companion-troop-system.md`), which he does not notice at first.
+**Whispers of Shiv at Crownfall.** Garrison troops recruited through Whispers of Shiv fill the 20-player Crownfall side and their points credit to Tatsuya (see `codex/lore/companion-troop-system.md`), which he does not notice at first.
