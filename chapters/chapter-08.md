@@ -169,7 +169,7 @@ I pulled up my HGO account next, and there it was, a button that hadn't existed 
 
 [Apply for Affiliate Status]
 
-Five hundred and eight, huh. Not bad for the first stream. It was crazy how lucky I'd been, but I could only expect there'd be bullshit too. Just wait until Eren found out about me. My thumb hovered over it for a second before I tapped it, the dread of the Tabuchis sitting in my chest. Not to mention telling Chiyo the truth about this. I could tell her about Sakura, but if I made anything big off it, she wouldn't believe an arcade built on old tech paid me that much. I shook the thought off and looked at the screen again.
+Five hundred and eighty, huh. Not bad for the first stream. It was crazy how lucky I'd been, but I could only expect there'd be bullshit too. Just wait until Eren found out about me. My thumb hovered over it for a second before I tapped it, the dread of the Tabuchis sitting in my chest. Not to mention telling Chiyo the truth about this. I could tell her about Sakura, but if I made anything big off it, she wouldn't believe an arcade built on old tech paid me that much. I shook the thought off and looked at the screen again.
 
 The confirmation screen that loaded back wasn't the instant green light I'd half expected.
 
