@@ -16,6 +16,10 @@ The Tabuchis see Eren's betrayal of Tatsuya as having cost them a shot at the sc
 
 The Tabuchi family's second-generation pod business was originally bankrolled by yakuza money, laundered in through the family. Part of why they're under real financial pressure themselves and part of why the pressure on Tatsuya hasn't let up.
 
+## Author-side truth (not on the page)
+
+A year ago someone pulled plug-ins from Daichi's adapted car, it malfunctioned, and the failure looked like his product failing. Retailers pulled back and his income collapsed. The Tabuchis, who build second-gen pods cheaply and have yakuza ties, tightened their grip and offered to take the first-gen schematics as collateral against the debt. Daichi refused. On the page this stays suspicion only, reaching the reader through Tatsuya's own inference (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). Eren is blind to all of it and acts only as Kazuto's messenger.
+
 ## Old-draft reference, superseded characterization
 
 The old draft (see `bible/old-draft-chapter-bible.md`) had Kazuto explicitly hint at deeper complicity in Daichi's death (not just debt pressure) in an Eren-POV chapter that's since been cut for breaking the locked third-person-on-Tatsuya rule. If any of that darker implication is wanted going forward, it needs to reach the reader through Tatsuya's own observation or secondhand knowledge, never a direct scene with Eren and Kazuto.

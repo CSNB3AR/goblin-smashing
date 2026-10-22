@@ -12,7 +12,7 @@ The old draft had this play out as a full Eren-POV chapter: Kazuto strips Eren o
 
 ## Timing
 
-Leaves the team around the Winter Bash timing, especially with the 5v5 format shift making his individual skill more valuable on a healthier roster. Matches Kansai Black Lotus's own worst-record qualifier bump-out (`codex/pro-scene/pro-teams.md`), a real, felt trigger rather than a vague sense of frustration.
+Leaves the guild around the Crownfall timing, with the Hearthfire structure making his individual skill more valuable on a healthier roster. Matches Kansai Black Lotus missing the Season Zero top eight (`codex/pro-scene/pro-teams.md`), a real, felt trigger rather than a vague sense of frustration. He was Season Zero's Breakout Player.
 
 ## Landed, Chapter 8
 

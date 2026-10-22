@@ -16,6 +16,10 @@ Weakest overall base line in the game, why the race sits dull-red on the selecti
 
 Passively identifies which nearby loot is actually worth picking up before it's touched. The race's baseline economic edge, distinct from Tatsuya's own personal rare-variant roll below, every goblin gets this, not just him.
 
+## Racial ability: Nimble Hands
+
+A second goblin racial. Lets a goblin pick pockets through doors and other barriers, and grants a proficiency with arcane tech (gadgets, runework tools) that other races lack. It carries **karma and Affiliation costs** when used on NPCs and players, and there is **no player pickpocketing in green zones**. Together with Scavenger's Eye it is the race's economic and gadget identity, and it supports Tatsuya's Arcane Bomber path (see `codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`). Goblins also start **infamous** under the fame system (see `codex/lore/affiliation-and-reputation-system.md`).
+
 ## Resistances
 
 None, deliberately flat/unspecialized across the board, consistent with the race's low-floor, no-hard-walls identity.

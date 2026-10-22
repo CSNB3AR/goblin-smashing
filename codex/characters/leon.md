@@ -18,6 +18,8 @@ Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
 
 See `codex/subplots/technical-arc-leon-and-sakura-arcade.md`, `codex/locations/sakura-arcade.md`, and `codex/subplots/leon-arya-custody-battle.md`.
 
+**Leaderboard watcher.** Leon follows the Siege and seasonal standings closely and is the first to spot Tatsuya's total climbing faster than his visible play explains (Whispers of Shiv troops credit their points to the commanding player, see `codex/lore/companion-troop-system.md`). He says so bluntly, as an analyst, before anyone else puts it together.
+
 ## Personality
 
 The rough, no-nonsense analyst and reluctant coach. Claims he's done with the competitive scene, just wants a quiet life, yet the moment he sees young players struggling or getting pushed around, his old competitive blood boils and he steps in. Blunt, harsh coaching, curses out sloppy mechanics and lack of grit, then breaks down strategy in plain, practical terms. Values instinct, mental toughness, and finishing fights over fancy setups. His place is a safe haven for the chaotic regulars even while he yells at them to stop being idiots.

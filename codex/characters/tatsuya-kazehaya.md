@@ -1,7 +1,7 @@
 # Tatsuya Kazehaya
 
 **Role:** Protagonist / POV character (locked third-person POV, always)
-**Age:** 18
+**Age:** 16 to 17 (no chapter states it, see `codex/lore/timeline-and-beta.md`). Returns to Tochi as a first-year.
 **In-game username:** TDRAG (see origin note below)
 **In-game character:** Goblin (see `codex/lore/playable-races-and-character-creation.md` for how)
 
@@ -19,7 +19,7 @@ Current: hype, competitive, smartass, deep game IQ, deflects pain through humor 
 
 **Character arc note (important):** He was NOT always like this. As a kid, and going into Tochi Academy, he was shy, isolated, had no friends. The loud, hype, deflecting personality is armor built after his father's death and the Eren betrayal, a transformation, not a static trait. This should inform flashback material and any scenes showing his younger self.
 
-Was one of roughly 200 people in Japan who won sweepstakes access to HGO's pre-launch beta (not money, not connections, a QR code scan that pulled his name).
+Sweepstakes pre-launch access (older line: one of roughly 200 people in Japan, a QR code scan that pulled his name) is **under review**, since he is now an open-beta player (see `codex/lore/timeline-and-beta.md` open items).
 
 ## Physical/behavioral signature (for consistency across chapters)
 
@@ -40,7 +40,9 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 
 ## Why HGO, underneath the obvious reasons
 
-The surgery money and the Eren rivalry are what he'd tell you if you asked. Underneath both, not yet conscious, not yet nameable, HGO was the world his father spent his last years working toward, with Kazuku, before dying. Some part of Tatsuya is drawn to the game for reasons that have nothing to do with money or Eren, something closer to why he gravitates toward the PvE/exploration side rather than just grinding the ladder. He doesn't know this yet. It surfaces gradually, alongside the Kazuku reveal, never as a stated realization early on. See `codex/characters/daichi-kazehaya.md` and `codex/characters/kazuku.md`.
+The surgery money and the Eren rivalry are what he would say first. Underneath both, and **conscious but private**, he suspects what happened to his father was not an accident: the car that crashed Dad's business, the retailers that pulled back, the Tabuchis tightening their grip. He does not say it to anyone. Dad's manual (the first-gen schematics he inherited) holds a **hidden note** that warns and never proves: look at who is leaning on us, only Kazuku has the proof, and he is reachable only inside HGO. The schematics themselves never go in the game. Tatsuya brings **Dad's design logic** (the belt, turrets, gadgets) into HGO to sell and redeem the product, which may also draw Kazuku, and the Tabuchis.
+
+HGO was also the world his father spent his last years working toward with Kazuku, a place where a body that could not move freely would not be the ceiling (see `codex/characters/daichi-kazehaya.md`). Some part of Tatsuya is drawn to the PvE and exploration side for that reason, even if he would currently describe it as just liking the grind. The father's design-line and the Kazuku link surface gradually, never as a stated realization early on. See `codex/characters/kazuku.md` and `codex/subplots/tabuchi-schematics-and-family-debt.md`.
 
 ## Key relationships and threads
 
@@ -64,17 +66,7 @@ Works the register at WattsUp (see `codex/locations/wattsup.md`), Gato's charge 
 
 ## Build direction (forward-locked from Chapter 10)
 
-**Goblin Gas → Vile Curse evolution path:** The current Goblin Gas / nausea-stack mechanic is the seed of a deeper build direction Tatsuya hasn't fully named yet. Going forward, the smoke evolves from a nausea debuff into a stackable poison curse, visually distinct from his fire abilities (greenish, not red). Each stack displays as a poison skull on the target. At 4 stacks, the next ability that lands on a stacked target triggers a burst explosion on impact. This mirrors the Albion curse-build structure but is grounded in the goblin gas origin. The evolution has not happened as of Chapter 10 — Tatsuya is just beginning to clock that his kit's combination of stacking debuffs and fire ignition is pointing at something he hasn't mapped yet.
-
-**Chain Root (future unlock):** An AOE ability where chains rip from the ground and root targets for approximately 5 seconds. Designed to set up the vile curse DOT stack and burst combo. Can trap multiple targets simultaneously, giving him a Y-shaped group kill range rather than strictly 1v1 output.
-
-**Gadget Belt (unique item upgrade path):** The goblin gadget belt upgrades into a unique item over time. Its core function becomes deploying gas bombs, throwables, and field-setup items without triggering the cooldowns on his primary ability bar. This distinction is the key mechanical value — he can set up the field with the belt while keeping Goblin Gas, Shiv-Touched Flare, and his other core abilities available for the actual execution.
-
-**Shiv-Touched Flare / Fire:** Fire abilities scale more destructively as he invests in the path. Fire also has a practical crafting function — he needs fire access to weld and smelt in his crafting work — so the flame affinity connects combat and profession in a way that isn't coincidental.
-
-**Clone / Duplicate ability (future unlock):** A shadow-clone that lasts 2 to 3 minutes, capable of dual-casting abilities or dropping sigils independently. Can scale to 3 clones when fully invested, which requires heavy point sacrifice elsewhere. The key function: clones can place sigils in the field while Tatsuya engages frontally, turning sigil placement from a slow supplementary action into live zone control.
-
-**Sigils:** Zone control and crafting oriented, not primary combat. He crafts sigils to enhance weapons and establish field advantage. Sigil placement in active combat is inherently slow unless clones are covering it. This keeps sigil work in the supplementary lane and out of competition with his main combat rotation.
+His build is **Arcane Bomber**, a unique advanced class: an amplifier that roots, stacks debuffs (green poison skulls, 4 stacks then a burst), ignites (fire orange, then blue-white) and finishes. Weapons are crafted, burnable wands, a reusable rune staff, conjured arcane daggers and a short sword on the gadget belt. Root is a gadget-belt snare first, Chain Root (arcane blue chains, about 5 seconds) later. Nimble Hands is the goblin racial that supports it. The full design is in `codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`, and the belt's upgrade path is in `codex/objects/goblin-gadget-belt.md`. Fire also has a practical crafting function (he needs fire to weld and smelt), so the flame affinity connects combat and profession. The earlier **Clone / Duplicate spell idea is dropped**: any duplicate trick is the doppelganger ring, a battle item.
 
 ## Geographic grounding
 

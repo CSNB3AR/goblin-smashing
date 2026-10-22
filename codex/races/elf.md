@@ -27,3 +27,7 @@ Full, unrestricted magic access, no Wisdom gate beyond the standard tier-1 thres
 ## Cross-references
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
+
+## High Elf and Lunarest's elven law
+
+**High Elf** is a rare Elf variant. In Lunarest, Elves receive special treatment under an **elven law**, while Beastfolk, goblins and dwarves carry bad infamy (see `codex/lore/lunarest-royal-court.md`). **High Magister Corvith Ostrane** is a High Elf banished from his own domain in the Azure Expanse and made a royal court mage in Lunarest. Spellforger-leaning elves such as Arya benefit from the standing, though Arya is not a High Elf.

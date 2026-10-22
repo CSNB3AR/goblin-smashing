@@ -8,14 +8,14 @@ Not just the outstanding debt. The Tabuchis believe Tatsuya has copies of the fi
 
 ## What's known and by whom
 
-Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. This is Tatsuya's private knowledge, Chiyo doesn't know it, she assumes ordinary debt collection. The debt pressure that shows up in scenes like Eren's WattsUp visits (see `chapters/chapter-01.md`) is what's escalated in place of that direct contact ever since. Tatsuya doesn't consciously connect any of this to pod technology, he just knows the demands keep circling back to his father's old paperwork specifically, which never fully squares with "just pay us."
+Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. This is Tatsuya's private knowledge, Chiyo doesn't know it, she assumes ordinary debt collection. The debt pressure that shows up in scenes like Eren's WattsUp visits (see `chapters/chapter-01.md`) is what's escalated in place of that direct contact ever since. Tatsuya doesn't yet know why the demands keep circling back to his father's old paperwork specifically, only that it never fully squares with "just pay us."
 
 ## Escalation levers available going forward
 
 - Eren personally leaning on Tatsuya (already active, Chapter 1).
 - The Tabuchis' threat of arson against the Nakamura Grand (established, not yet deployed on the page).
 - Chiyo's own protective ultimatum about the Tochi decision, tangential but related pressure (see `codex/subplots/tochi-academy-return.md`).
-- Tabuchi complicity in Daichi's death, confirmed as an active, intended direction (previously flagged as superseded, that flag is lifted). Reaches the reader only through Tatsuya's own inference, never a direct reveal scene or confession. The exact mechanism of death stays unstated even once this lands, it's a live suspicion, not a solved mystery.
+- Tabuchi complicity in Daichi's death and the collapse before it, confirmed as an active, intended direction. **Author-side truth:** a year before he died someone pulled plug-ins from his adapted car, it malfunctioned and looked like his product failing, retailers pulled back, his income collapsed, and the Tabuchis offered to take the first-gen schematics as collateral. Daichi refused. Reaches the reader only through Tatsuya's own inference (he is **consciously, privately suspicious**), never a direct reveal scene or confession. The exact mechanism of death stays unstated even once this lands, it's a live suspicion, not a solved mystery. Eren is blind to it and acts only as Kazuto's messenger. Dad's manual carries a hidden warning note (see `codex/characters/daichi-kazehaya.md`).
 
 ## The debt, in figures (locked)
 

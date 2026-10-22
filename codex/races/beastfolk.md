@@ -14,6 +14,10 @@ Leans Power/Speed with a real Wisdom penalty.
 
 Bonus initiative and a passive read on the nearest real threat in a room. Matches the race's Speed/Power lean.
 
+## Racial ability: Enrage
+
+A second Beastfolk racial. Below 40% HP, a damage multiplier stacks up to **x12** while the Beastfolk loses HP and defenses in exchange. It rewards a tank who can survive on the edge, which is why wards, heals and enchantments matter so much to a Beastfolk brawler such as Pac_Pac (see `codex/characters/pac-pac.md`). Beastfolk carry bad infamy in Lunarest (see `codex/lore/lunarest-royal-court.md`).
+
 ## Resistances
 
 | Notable resistance | Notable weakness |

@@ -8,9 +8,11 @@ Not a guild-scene or pro-scene name, a real-world local artist still building an
 
 **Loop/chat handle: Pac_Pac.** First shows up in Chapter 8's chat during the tent-ambush stream, reacting to the fight itself ("cinema," wants it run back) rather than the game mechanics, a different register from the more invested viewers.
 
-**Forward plot, landed: Winter Bash's random third teammate.** Lands on Tatsuya's team via the Winter Bash tournament's random-teammate mechanic (see `codex/pro-scene/winter-bash-tournament.md`), the seed pays off here rather than staying open-ended.
+**Forward plot, landed: joins Tatsuya's side for Crownfall.** The old Winter Bash random-teammate mechanic is gone (see `codex/pro-scene/crownfall-siege-event.md`), so the exact way he joins is left open, but the seed still pays off here rather than staying open-ended.
 
-**Race and build, locked: Beastfolk, tank/brawler.** Beastfolk are hard-locked out of all magic at any Wisdom investment (see `codex/races/beastfolk.md`), Physical Arts is the race's entire combat identity, not a fallback, and the race's Power/Speed-leaning stat profile fits the close-range brawler role directly. This is what he builds as once he's actually playing competitively, distinct from his real-world identity as a homeschooled local rapper around Tatsuya's age. Becomes the core tank of **Haya Storm** (see `codex/pro-scene/haya-storm.md`), the team Tatsuya names after Winter Bash.
+**Race and build, locked: Beastfolk, tank/brawler.** Beastfolk are hard-locked out of all magic at any Wisdom investment (see `codex/races/beastfolk.md`), Physical Arts is the race's entire combat identity, not a fallback, and the race's Power/Speed-leaning stat profile fits the close-range brawler role directly. This is what he builds as once he's actually playing, distinct from his real-world identity as a homeschooled local rapper around Tatsuya's age. Becomes the core tank of **Haya Storm** (see `codex/pro-scene/haya-storm.md`), the guild Tatsuya names around Crownfall.
+
+**New racial, Enrage (see `codex/races/beastfolk.md`).** Under 40% HP, a damage multiplier stacks up to x12 while he loses HP and defenses. Tatsuya's wards and enchantments keep him alive through it. Party engine: Pac_Pac holds, Tatsuya roots and stacks debuffs, Arya detonates.
 
 **Forward-plot, Act Two: his real-world rap career starts taking off.** Riding Haya Storm's growing public profile, his own audience grows for real alongside the team's, no longer just "not yet big." Drops a single, proposing **"Give It to Him"** as a working title, easy to rename, landing around the same stretch as the PK_Wraith/Yuna drama (see `codex/characters/yuna-yunaile.md`), another real music-plant alongside "Heart on You" and "Heart on Mute."
 

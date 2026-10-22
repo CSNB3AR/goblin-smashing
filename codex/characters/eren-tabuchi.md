@@ -10,11 +10,12 @@
 
 - Son of the Tabuchi family, who back/manufacture the second-generation pods (see `codex/objects/pod-hardware.md`).
 - Physical signature: easy posture, entitlement where Tatsuya has calculation, voice drops into a lower register when he's trying to sound threatening.
-- Eren now collects on the Tabuchi family debt as leverage over Tatsuya.
+- Eren now collects on the Tabuchi family debt as leverage over Tatsuya. He is **Kazuto's messenger and blind to the schematics**: he knows his father wants something from the Kazehaya family, not what or why.
+- His guild, Kansai Black Lotus, missed the Season Zero top eight because Arya's small guild took the last qualifying spot (see `codex/lore/lunarest-royal-court.md`). **He hates her for it.** He is a second-year (see `codex/lore/timeline-and-beta.md`).
 
 ## Timeline (exact, keep consistent everywhere)
 
-Eren and Tatsuya met at 15, Tatsuya's final year of middle school at Tochi. HGO launched when Tatsuya turned 16, the same year he started Tochi High School. Daichi died within Tatsuya's first month of high school, closed-casket funeral, Kazuto's approach (see `codex/characters/daichi-kazehaya.md` and `codex/characters/kazuto-tabuchi.md`). Tatsuya lasted about three months total in that first year, grief, the funeral, and Eren's betrayal all compounding fast, before dropping out entirely. He's 18 now, matching "HGO has been live roughly two years." If he returns to Tochi, he re-enters as a full first-year, he never completed that year, not an advanced placement, and not ahead of Eren.
+Eren and Tatsuya met at 15, Tatsuya's final year of middle school at Tochi. Tatsuya started Tochi High School a school year ago; the closed beta launched about eight to nine months before the story's present. Daichi died within Tatsuya's first month of high school, closed-casket funeral, Kazuto's approach (see `codex/characters/daichi-kazehaya.md` and `codex/characters/kazuto-tabuchi.md`). Tatsuya lasted about three months total in that first year, grief, the funeral, and Eren's betrayal all compounding fast, before dropping out entirely. He's a second-year now (Tatsuya is 16 to 17, see `codex/lore/timeline-and-beta.md`). If Tatsuya returns to Tochi, he re-enters as a full first-year, he never completed that year, not an advanced placement, and not ahead of Eren.
 
 ## Origin of the friendship and the betrayal
 

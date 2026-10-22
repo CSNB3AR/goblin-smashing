@@ -17,7 +17,7 @@ Tatsuya's full biological sibling, along with twin sister Momo, all three sharin
 
 **Flagged forward-plot, not yet detailed:** once Tatsuya's actually making real money, he and Momo end up discovering his HGO/T-Drag identity. A real, coming beat, not worked out further here.
 
-**Flagged idea, being developed:** Taji gets his own competitive arc first, real growth as a player, his own eventual teammates, possibly his own World Championship, before any storyline about teaming up with Tatsuya specifically. See `codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md` for the correctly sequenced version.
+**Flagged idea, being developed:** Taji gets his own competitive arc first, real growth as a player, his own eventual teammates, possibly his own seasonal championship, before any storyline about teaming up with Tatsuya specifically. See `codex/pro-scene/esports-timeline-and-tatsuyas-long-arc.md` for the correctly sequenced version.
 
 ## Personality
 
