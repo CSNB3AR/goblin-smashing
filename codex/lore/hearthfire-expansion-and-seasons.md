@@ -37,11 +37,19 @@ A guild-scale arena mode.
 
 ### Siege Pro League
 
-A scheduled, ranked guild league running through each season. Its rewards are **rare seasonal items** (cosmetics, gear, crafting materials) plus seasonal points. It does not grant territory or world control. Pro guilds typically run about 50 members. Detail in `codex/pro-scene/tournaments-and-events.md`.
+A scheduled, ranked guild-versus-guild circuit that runs through each season. **HGO picks it up at national and global scale**, capitalizing on how popular the small 20v20 Siege became with players who go in carrying items they made in the world. It is the structure the pro-scene money and attention sit on top of (see `codex/pro-scene/tournaments-and-events.md`).
+
+- **Seasonal points per match.** Every match pays points, and winning pays more. Points buy **rare items** from a seasonal shop.
+- **Power cores.** Points (and match materials) also pay out **power cores**, the crafting material that **powers and sources the guild hideout**. Borrowed in spirit from Albion's power cores. **Placeholder name: Embercores**, to be confirmed. This is the reason guilds that do not care about the circuit still have to play it. The same match payouts also feed gathering and crafting materials. Hideout upkeep is an early-game pressure that comes well before expedition and gathering content, and long before the wider expansion content of Act 2.
+- **High end-of-season rewards** for the top of the circuit.
+- **Full loot, no rebound.** Dying drops items as in the open world, and recovered items do not stay bound to their old owner.
+- **The only mode with no 72-hour lock.** Because it is full loot, the lock is skipped so people can actually grind it without feeling constantly benched. The pass-out lock still applies.
+- **Troop cap.** Crownfall let Tatsuya bring a large garrison because it was a new event. The Pro League caps troops hard, about **one or two per player, nowhere near fifteen**, the same way HGO caps any world-level item or world-level mechanic that proves too strong. The cap is a rule change, not a story reversal: his Whispers of Shiv credit is what gets noticed and capped (see `codex/lore/companion-troop-system.md`).
+- It does not grant territory or world control (that is Node Wars). Pro guilds typically run about 50 members.
 
 ### Troops
 
-Guilds field NPC troops from their hall to fill the 20-player queue. Credit for troop kills and objective points routes to the guild member who commands them. Tatsuya's Whispers of Shiv troops count toward his total without him realizing it at first (see `codex/characters/shiv.md`).
+Guilds field NPC troops from their hall to fill the 20-player queue. Crownfall allows a large garrison, the Siege Pro League caps it (see above). Credit for troop kills and objective points routes to the guild member who commands them. Tatsuya's Whispers of Shiv troops count toward his total without him realizing it at first (see `codex/characters/shiv.md`).
 
 ## Node Wars (the main story after Hearthfire)
 
@@ -71,7 +79,7 @@ After the world maps release, the war the story is about is **Node Wars across t
 
 ## Locks
 
-- **Death lock: a flat 72 hours** everywhere (raids, skirmishes, sieges).
+- **Death lock: a flat 72 hours** in raids, skirmishes, node wars and the Crownfall sieges. **The Siege Pro League is the one exception and has no death lock.**
 - **Pass-out lock: 24 hours** by default, shorter than the death lock. Not yet dramatized, treat as provisional (see `codex/lore/preserved-misc-mechanics.md`).
 - The Chapter 4 "[TIME LIMIT: 7 DAYS IN-GAME]" is a quest timer and is separate from the death lock.
 
@@ -88,3 +96,5 @@ After the world maps release, the war the story is about is **Node Wars across t
 
 - Pass-out lock (24 hours) is a default, not a ruling.
 - Whether Crownfall keeps the old level-25 new-region cap is unconfirmed.
+- Whether Crownfall itself carries the 72-hour lock (default: yes, only the Pro League is exempt).
+- Final name for power cores (Embercores is a placeholder), and whether the hideout is the same thing as the guild hall.

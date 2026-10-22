@@ -6,7 +6,7 @@ Crownfall is a **one-off Siege tournament**, an open-beta showcase held in the w
 
 ## What kind of event it is
 
-- A **Siege**: guilds queue up to 20 players per side and fight over a fortified objective on a siege map (see `codex/lore/hearthfire-expansion-and-seasons.md` for Siege rules). Guilds fill empty slots with troops from their hall, the troop system (see `codex/lore/companion-troop-system.md`), so a small guild can still field a full side.
+- A **Siege**: guilds queue up to 20 players per side and fight over a fortified objective on a siege map (see `codex/lore/hearthfire-expansion-and-seasons.md` for Siege rules). Guilds fill empty slots with troops from their hall, the troop system (see `codex/lore/companion-troop-system.md`), so a small guild can still field a full side. Because it is a new event, **Crownfall does not cap troops**, which is why Tatsuya can bring so many. The Siege Pro League caps them afterward.
 - **Open-beta characters only.** Built after the Hearthfire announcement. Closed-beta characters cannot enter, and they freeze at the full launch a week later. It is the debut showcase for characters built for the incoming season.
 - Hosted by HGO itself, not a licensed outside host.
 - The random-teammate mechanic of the old Winter Bash is gone. Entry is by guild.

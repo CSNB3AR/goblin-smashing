@@ -22,7 +22,7 @@ Ru (see `codex/characters/young-goblin-companion-candidate.md`) does not follow 
 
 ## Siege queues and troop credit
 
-In a Siege (see `codex/lore/hearthfire-expansion-and-seasons.md`), a side queues up to 20, and **garrison troops fill empty slots**, so a guild with a small active core can still field a full side. Garrison cap still scales as above, so a small guild's real ceiling is its players' levels. Kills and objective points a troop earns **credit to the member who commands it**. Tatsuya's Whispers of Shiv garrison therefore adds to his totals during Crownfall without him realizing it at first, and leaderboard watchers (Leon, Arya) notice the climb before he does.
+In a Siege (see `codex/lore/hearthfire-expansion-and-seasons.md`), a side queues up to 20, and **garrison troops fill empty slots**, so a guild with a small active core can still field a full side. Garrison cap still scales as above, so a small guild's real ceiling is its players' levels. **Crownfall allows a large garrison; the Siege Pro League caps troops hard, about one or two per player**, as HGO does with any world-level item or mechanic that proves too strong. Kills and objective points a troop earns **credit to the member who commands it**. Tatsuya's Whispers of Shiv garrison therefore adds to his totals during Crownfall without him realizing it at first, and leaderboard watchers (Leon, Arya) notice the climb before he does.
 
 ## Old-draft precedent
 

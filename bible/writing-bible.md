@@ -243,9 +243,9 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 ### Competitive structure (distinct ruleset from open-world PvP)
 Full detail lives in `codex/pro-scene/tournaments-and-events.md` and `codex/lore/hearthfire-expansion-and-seasons.md`. Summary:
 - **Season Zero Championship (Championship 1):** the closed beta's finale, the broadcast Chapter 1 opens on. Twelve guilds qualify, four per prince's army. A skirmish win is 40 points. The top eight are cut two per day, the final four are set by the weekend, and Sunday is the **Battle of the Snowy Plains**, 300 points, 12 Aogiri (Japan) against 20 London Spire (UK) after attrition from 72-hour death locks. Prize pool 40 million yen. Hosted in Singapore.
-- **Siege:** a guild arena mode, up to 20 per side, garrison troops fill empty slots. **Crownfall** (December 25th, 10 million yen pool, open-beta guilds only) is the one-off Siege showcase that replaces the old Winter Bash. Afterward the **Siege Pro League** runs through each season and pays in rare seasonal items.
+- **Siege:** a guild arena mode, up to 20 per side, garrison troops fill empty slots. **Crownfall** (December 25th, 10 million yen pool, open-beta guilds only) is the one-off Siege showcase that replaces the old Winter Bash. Afterward the **Siege Pro League**, a national and global guild circuit, runs through each season: seasonal points per match buy rare items, matches pay power cores that power the guild hideout, it is full loot with no death lock, and troops are capped hard (about one or two per player).
 - **Node Wars** across the five continents are the main war content after Hearthfire.
-- **Death lock:** a flat 72 hours in every mode. Pass-out lock 24 hours (provisional).
+- **Death lock:** a flat 72 hours in every mode except the Siege Pro League, which has none. Pass-out lock 24 hours (provisional).
 - **Character lock at Hearthfire:** closed-beta characters freeze at their current level, owners keep playing them or retire them for Legacy Points (convert to Legacy Silver, locked until Hearthfire, plus Legacy items). Open-beta characters are permanent.
 - **1v1 Open Ladder:** anyone can enter, leaderboard resets each season, top 100 earns pro tryouts, rare gear, and media coverage.
 - **Top 500:** nameplate icon with tiers at 500, 100, 50 and 5, with role and race boards.
