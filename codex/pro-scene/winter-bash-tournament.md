@@ -1,34 +1,5 @@
-# Winter Bash Tournament (Forward Plot, Confirmed Structure)
+# Winter Bash Tournament (superseded)
 
-**Status:** Forward-plot, not yet on the page. Consistent with, and expands on, the already-locked framing in `codex/pro-scene/tournaments-and-events.md`: December 25th, **3v3 duo-queue** (a pre-formed partner plus one randomly assigned teammate who stays the whole tournament), **freshly-created characters only**, built after the Crystal League expansion's announcement but before the universal character-lock actually triggers. This file locks the bracket, regional, attendance, and points structure, and Tatsuya's team's actual run.
+Redirect stub. The Winter Bash no longer exists as a duo-queue 3v3 event. The December 25th showcase is now **Crownfall**, a guild Siege tournament with the same date and the same 10 million yen prize pool. Full structure, bracket, Haya Storm's run and payouts: `codex/pro-scene/crownfall-siege-event.md`.
 
-## Qualifying structure
-
-Ten qualifying matches per region, four regions run in parallel: **EMEA, Americas, APAC, China.** Top 8 finishers in each region's qualifying standings advance, 32 teams total, into a single world bracket.
-
-## World bracket, single elimination, Christmas Day
-
-Top 32 → Top 16 → Top 8 (Quarterfinals) → Top 4 (Semifinals) → Final, run across the same "Championship Sunday"-style finale day already locked for the event in `codex/pro-scene/tournaments-and-events.md`.
-
-## Physical-attendance requirement (new, significant)
-
-Once a team reaches the Top 32 cut, they're required to physically attend a regional HGO stadium for the remainder of the bracket, Tokyo for APAC. This is the actual mechanism behind two major reveals landing in the same stretch: it's Tatsuya's first real public appearance as T-Drag outside a stream overlay, and it's Eren's first real-time discovery that T-Drag is Tatsuya, since their Top 32 match puts them across from each other in person, not through a screen. Neither of them gets advance warning, the bracket draw is what does it.
-
-**Eren's Top 32 partner is PK_Wraith** (see `codex/characters/pk-wraith.md`), not a random pairing. Haruto's public exit from Kansai Black Lotus (Chapter 8) leaves Eren without anyone strong willing to team with him, and PK_Wraith takes the open slot, his own vendetta against T-Drag already real since Chapter 9. **Neither of them can actually guarantee facing Haya Storm**, Top 32 seeding factors in qualifying win-loss record alongside the draw, not a pure random bracket, so PK_Wraith is chasing real odds of the matchup, not something he's engineered. When the draw does put them across from Haya Storm, it lands the identity-reveal beat and PK_Wraith's own, separate revenge beat in the same match, genuine coincidence rather than anyone's plan.
-
-## Tatsuya's team, the random-teammate mechanic
-
-Arya (pre-formed partner, per the already-locked mechanic that puts them on the same team) plus one randomly assigned third player. **Pac_Pac** (see `codex/characters/pac-pac.md`, a Beastfolk tank/brawler) is that random third, landing his forward-plot seed here. This trio names itself **Haya Storm** (see `codex/pro-scene/haya-storm.md`) and stays together as the core of a roster that later grows to five for the post-expansion 5v5 format.
-
-## The actual run, locked
-
-- **8-2 qualifying record**, 8th seed out of APAC, the last team through on regional standing, not a dominant qualifying run.
-- Advances through the Top 32 match against Eren and PK_Wraith's team (the reveal beat above) and continues into the bracket.
-- **Eliminated in the semifinals**, losing to a Haruto Murayama/Dosuke AI/Souma Ikeda team-up (see `codex/characters/haruto-murayama.md`, `codex/characters/dosuke-ai.md`), Souma Ikeda filling the roster's third slot, this is where Dosuke AI picking Haruto up as a free agent, seeded in Chapter 8, actually pays off on the page as a real, formidable roster.
-- A real, earned loss, not a throwaway elimination, consistent with Tatsuya's team being an underdog seed the whole way rather than a favorite who chokes.
-
-## Points system (team-sport weighted, not solo-performance weighted)
-
-Win-based points only, no points awarded for a loss. A small completion bonus for simply finishing the qualifying stretch (participation floor, not a meaningful ranking factor). Deliberately not solo-performance-weighted, no individual scoring, KDA, or personal-stat bonus feeds the standings, keeping the format's identity as a team format rather than a personal-highlight reel, consistent with the control/King-of-the-Hill win condition already locked in `codex/pro-scene/tournaments-and-events.md`. See `codex/pro-scene/ranking-ladder.md` for how this sits alongside individual ladder rank, which stays a fully separate track.
-
-**Winter Bash is the first tournament to award HGO Points** (see `codex/pro-scene/ranking-ladder.md`), the broader circuit-standing track feeding the World Circuit. As semifinalists, Haya Storm's three members, Tatsuya, Arya, and Pac_Pac, land a real points total, high enough to rank above London Spire and Aogiri, this cycle's World Championship winner and runner-up (see `codex/pro-scene/pro-teams.md`), a real, felt underdog-credibility beat even in a losing semifinal run.
+Kept so older cross-references (for example in `outline/act-one-winter-bash.md`, whose filename is historical) still resolve. Surrounding sequence: `codex/lore/hearthfire-expansion-and-seasons.md`.

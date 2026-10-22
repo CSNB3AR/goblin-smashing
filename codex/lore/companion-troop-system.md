@@ -20,6 +20,10 @@ Recruiting a companion isn't a static NPC assignment. A recruited companion gain
 
 Ru (see `codex/characters/young-goblin-companion-candidate.md`) does not follow the standard path above. In the same scene as the necklace bond, Shiv personally and directly grants Ru an instant Goblin to Hobgoblin evolution (level 1 to level 5), an evolved Goblin Gas → Toxic Breath, and the "First Disciple of Shiv" title on the spot, explicitly marked in dialogue as Shiv's own one-time act, not the Whispers of Shiv recruitment flow described above. (Call of Command, Shiv-Touched Flare, and Rune Priming, originally slated for Ru here, ended up on Tatsuya's own kit instead, see `codex/objects/call-of-the-bones-necklace.md`.) **This does not reopen or loosen the general rule.** Every other companion, including any future Whispers of Shiv recruits and the eventual named squad (Grukk, Tikka, Muzzle, Drosh), still levels up and earns rank-ups and titles gradually, the normal way. Ru's blessing is a one-time founding exception tied to his being Shiv's literal first disciple, not evidence the system works this way in general.
 
+## Siege queues and troop credit
+
+In a Siege (see `codex/lore/hearthfire-expansion-and-seasons.md`), a side queues up to 20, and **garrison troops fill empty slots**, so a guild with a small active core can still field a full side. Garrison cap still scales as above, so a small guild's real ceiling is its players' levels. Kills and objective points a troop earns **credit to the member who commands it**. Tatsuya's Whispers of Shiv garrison therefore adds to his totals during Crownfall without him realizing it at first, and leaderboard watchers (Leon, Arya) notice the climb before he does.
+
 ## Old-draft precedent
 
 The old draft has Tatsuya opening a system/status screen mid-fight, with a small goblin trio fighting alongside him against PK_Wraith's men (see `codex/characters/pk-wraith.md`), worth preserving as an early precedent for companions actually fighting and growing alongside him rather than sitting passively in camp. Not a beat-for-beat template, just the earliest seed of this mechanic already existing in the material.
