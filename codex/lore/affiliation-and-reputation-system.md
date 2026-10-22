@@ -44,3 +44,7 @@ At the very top of Affiliation, a small number of AI-driven, adaptive NPCs (flag
 - `codex/lore/npc-tag-system.md` — the visible tag-color system this sits alongside, and the reactive-NPC-AI system that actually drives this meter; tag color and Affiliation band are related but not identical, a Friendly-band NPC still reads by the existing white/yellow/red/gold rules, Affiliation is the number underneath that color.
 - `style-guide/race-dialect-and-voice.md` — the roleplay-register requirement this depends on.
 - `codex/lore/mastery-system.md` — a third, separate progression axis. Affiliation is who trusts you, Mastery is what you're actually capable of, don't conflate the two.
+
+## Fame (Hearthfire canon)
+
+**Fame** sits beside karma and Affiliation as a third public-facing meter: how widely a player is known, as opposed to how NPCs feel about them (Affiliation) or how their actions read morally (karma). **Goblins start infamous**, and Beastfolk, goblins and dwarves carry bad infamy in Lunarest, while elves get special treatment under an elven law (see `codex/lore/lunarest-royal-court.md`). Fame carries into Node Wars standing and Siege Pro League seasons (see `codex/lore/hearthfire-expansion-and-seasons.md`). NPCs react to a player's fame and race as lived reality, never as news to them (see `style-guide/craft-rules.md`).

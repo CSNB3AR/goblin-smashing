@@ -6,6 +6,10 @@ Global quest lines any player can attempt, actively hunted by the entire playerb
 
 ## Real stakes for "Call of the Bones," specifically
 
-HGO's been live almost two years, and most existing world-quest chains have already been pushed about as far as they can go without the expansion's new content, a real drought, nothing new popping up for roughly a year and a half. "Call of the Bones" activating is the first new one in that entire stretch, which means the instant it activates, the competitive scene converges on it, real, immediate outside pressure on the goblin camp's own claim to it.
+HGO's closed beta has run eight or nine months, and most existing world-quest chains have already been pushed about as far as they can go without the expansion's new content, a real drought, nothing new popping up for the better part of the closed beta, with the main story about to freeze at Hearthfire. "Call of the Bones" activating is the first new one in that entire stretch, which means the instant it activates, the competitive scene converges on it, real, immediate outside pressure on the goblin camp's own claim to it.
 
 See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` for the full narrative arc, `codex/characters/shiv.md` for the quest-giver, and `codex/objects/call-of-the-bones-necklace.md` and `codex/objects/shivs-warset.md` for the rewards.
+
+## Time windows and the frozen main story (Hearthfire canon)
+
+World quests carry real in-game time windows. The Chapter 4 "[TIME LIMIT: 7 DAYS IN-GAME]" is a **quest timer**, separate from the 72-hour death lock (see `codex/lore/preserved-misc-mechanics.md`). At Hearthfire the beta's main story freezes, except for hidden quests, so a quest line not progressed by the expansion **expires**. Tatsuya's goblin quest line is one of these (see `codex/lore/hearthfire-expansion-and-seasons.md`).

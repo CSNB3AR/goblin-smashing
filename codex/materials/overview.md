@@ -1,6 +1,6 @@
 # Materials & Resource Nodes — Overview
 
-**Status:** New system, built to support `codex/crafting/overview.md`. Story-present Eryndal is one supercontinent with six regions (see `codex/locations/eryndal-world-overview.md`), not yet five separate continents, that split only lands once the Crystal League expansion fully launches. This file builds per-region for the current state of the world; once the expansion lands, each region below maps cleanly onto its own future continent without needing to be rebuilt from scratch.
+**Status:** New system, built to support `codex/crafting/overview.md`. Story-present Eryndal is one supercontinent with six regions (see `codex/locations/eryndal-world-overview.md`), not yet five separate continents, that split only lands once the Hearthfire expansion fully launches. This file builds per-region for the current state of the world; once the expansion lands, each region below maps cleanly onto its own future continent without needing to be rebuilt from scratch.
 
 ## Material grades
 

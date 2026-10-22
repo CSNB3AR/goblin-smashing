@@ -19,4 +19,4 @@ These are the hard rules. Nothing in `style-guide/voice-technique.md` or anywher
 ## Open Questions / Flags for Confirmation
 
 1. **Companion/business name:** one dictated note referenced a company name that sounded like "Kazuto Tech" in the middle of a sentence about the pod exchange program. This assumes that was a slip for Kazuku/Nexus Enterprises (the only publisher/hardware entity established in canon) rather than a fourth company. Flag if that's wrong.
-2. **Pass-out limit vs. seven-day death lock:** how the third-gen hardware's pass-out penalty (several days locked out from taking too much damage) relates to the established seven-day death lock for actual character death needs confirmation before either is dramatized on the page. See `codex/lore/preserved-misc-mechanics.md`.
+2. **Pass-out limit vs. 72-hour death lock:** the pass-out lock defaults to 24 hours, shorter than the flat 72-hour death lock. The 24 hours is a provisional default and needs confirmation before either is dramatized on the page. See `codex/lore/preserved-misc-mechanics.md`.

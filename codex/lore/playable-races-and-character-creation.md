@@ -21,3 +21,7 @@ See `codex/objects/hgo-access-drive.md` for the resulting drive-color mechanic.
 ## Shiv Goblin (advanced rare race, not selectable at creation)
 
 **Not on the playable-races list above, not something anyone can pick or roll into at character creation.** Shiv Goblin is an advanced rare race reachable only in-game, by bonding with the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`) during the "Call of the Bones" World Quest. Bonding doesn't just grant stat bonuses and unlock the Shaman's Veil path, it evolves Tatsuya's race entry itself, Goblin to Shiv Goblin, a real upgrade tier rather than a cosmetic-only change. The white-hair transformation is the visible marker of the evolution, not a separate effect. See `codex/lore/goblin-clan-culture-and-feral-stigma.md` for how other goblins recognize the mark on sight.
+
+## Lumi, the character-creation guide (Hearthfire-era canon)
+
+**Lumi** is the cute system guide who walks players through character creation. She glitches when the goblin glitch hits Tatsuya (see `codex/lore/timeline-and-beta.md`). Open-beta characters created after the Hearthfire announcement are permanent, and during Season Zero every race starts in Lunarest (see `codex/lore/hearthfire-expansion-and-seasons.md`).

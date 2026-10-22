@@ -10,7 +10,7 @@ This is the current, up-to-date map of the story. Start here.
 
 ## What's next
 
-- **`outline/act-one-winter-bash.md`** — the Winter Bash arc, picking up at the not-yet-drafted Chapter 10, running through the tournament's conclusion.
+- **`outline/act-one-winter-bash.md`**: the Crownfall arc (file name kept from the old Crownfall), picking up at the not-yet-drafted Chapter 10, running through the tournament's conclusion.
 - **`outline/act-two-haya-storm-rise.md`** — the Haya Storm Rise arc, picking up immediately after Act One closes: Tochi's sponsorship of Pac_Pac and Arya, the Tochi representative tournament and its real Eren-rivalry climax, the Inter-High tournament, and the roster growing to five.
 
 Both are written as sequential story beats, not chapter maps, since some beats will need more than one chapter to actually land. That gets sorted during drafting.
