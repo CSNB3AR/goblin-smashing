@@ -1,4 +1,4 @@
-# Chapter 9 — "Assembling the Assault Team, Part Two" (Outline of the drafted chapter), and the beats of Chapter 10 ("Silence and Fire")
+# Chapter 9: "Assembling the Assault Team, Part Two" (Outline of the drafted chapter), and the beats of Chapter 10 ("Silence and Fire")
 
 **Status:** Chapter 9 is fully drafted, see `chapters/chapter-09.md`. It picks up in the Sakura Arcade hallway right after Chapter 8's last beat (Arya's "Hey, T-Drag"), and it ends on the log-in to the hit camp. The assault (the Battle of Thrash Hill) is **Chapter 10, Parts One and Two**, drafted in `chapters/chapter-10.md`; its beats are listed in the second half of this file because this file used to describe the assault under the old chapter numbering. This is a beat-by-beat reference, useful for checking any future resync against.
 
