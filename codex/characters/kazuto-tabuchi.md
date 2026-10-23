@@ -7,7 +7,7 @@
 - Cold, controlling, ruthless.
 - Approached Tatsuya personally at Daichi's funeral (which the Tabuchis held and funded) about the old schematics/computer files, framed as an offer to help. Tatsuya refused and cut off contact, partly because Eren had already betrayed him by then. See `codex/characters/daichi-kazehaya.md` for the full detail, this is Tatsuya's private knowledge, not Chiyo's.
 - Chiyo's own instinct to keep Tatsuya away from the Tabuchis is separate and simpler, they're the family collecting on a dead man's debt, reason enough on its own. She doesn't know about the funeral conversation or the files.
-- Because there has been no contact since the funeral, the debt pressure has escalated in its place over the last couple of years, Eren showing up to lean on Tatsuya is the visible edge of that.
+- Because there has been no contact since the funeral, the debt pressure has escalated in its place over the last year, Eren showing up to lean on Tatsuya is the visible edge of that.
 - The real target has always been Daichi's old schematics and paperwork (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). Tatsuya doesn't consciously connect this to third-gen pod tech, he just knows the demands keep circling back to his father's old paperwork specifically, never fully squaring with "just pay us." This should read on the page as something he half-notices doesn't add up, never explained outright.
 
 ## Mutual-grievance angle (background, later chapters)

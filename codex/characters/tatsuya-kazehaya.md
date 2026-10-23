@@ -5,7 +5,7 @@
 **In-game username:** TDRAG (see origin note below)
 **In-game character:** Goblin (see `codex/lore/playable-races-and-character-creation.md` for how)
 
-**TDRAG origin, Chapter 4:** because of the goblin-lock glitch, his account never had a username assigned. He creates it on the spot, mid-collision with Yunaile outside the hospital, while the HGO Companion App is actively prompting him to set one, not a name he'd already picked ahead of time.
+**TDRAG origin, Chapter 5:** because of the goblin-lock glitch, his account never had a username assigned. He creates it on the spot, mid-collision with Yunaile outside the hospital, while the HGO Companion App is actively prompting him to set one, not a name he'd already picked ahead of time.
 
 ## Appearance
 
@@ -57,7 +57,7 @@ See `codex/characters/daichi-kazehaya.md`, `codex/characters/ohema-kazehaya.md`,
 - `codex/subplots/goblin-trade-company-forward-plot.md` — a forward plot thread built on his father's tinkering legacy.
 - `codex/subplots/technical-arc-leon-and-sakura-arcade.md` — his growing role keeping Leon's arcade running.
 - `codex/subplots/tochi-academy-return.md` — the open decision hanging over Chapter 1 and beyond.
-- `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md`: Crownfall is a one-off Siege Castle event and any league is undecided; his drivers are money, Dad's note, Eren and the world.
+- `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md`: Crownfall opens Season One and introduces Siege; the Siege Pro League is an option on the menu, not his goal; his drivers are money, Dad's letter, Eren and the world.
 
 ## Employment
 

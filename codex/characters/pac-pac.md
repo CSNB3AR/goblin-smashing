@@ -1,6 +1,6 @@
 # Pac_Pac
 
-**Role:** Real-world local rapper, not yet big, one of Tatsuya's first genuine stream regulars. New character, introduced Chapter 8.
+**Role:** Real-world local rapper, not yet big, one of Tatsuya's first genuine stream regulars. New character, first appears on the page in Chapter 10 Part Two (stream chat).
 
 ## Facts
 

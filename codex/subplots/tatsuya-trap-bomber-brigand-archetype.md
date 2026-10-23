@@ -1,6 +1,6 @@
 # Forward Plot: Tatsuya's Combat Archetype (Arcane Bomber)
 
-**Status:** Forward-looking build/ability lore, codex only. The merged home for his build (the Build direction that used to sit in `codex/characters/tatsuya-kazehaya.md` now points here). Not on-page in Chapter 4, seeded here so later chapters build toward it consistently. File name kept so old cross-references resolve.
+**Status:** Forward-looking build/ability lore, codex only. The merged home for his build (the Build direction that used to sit in `codex/characters/tatsuya-kazehaya.md` now points here). Not on-page in Chapters 1 to 4, seeded here so later chapters build toward it consistently. File name kept so old cross-references resolve.
 
 ## The archetype
 
@@ -14,7 +14,7 @@ Not a healer, not a tank, not a hard-CC caster. A utility amplifier that holds a
 
 ## Magic path
 
-Shaman's Veil (already established, see `codex/objects/call-of-the-bones-necklace.md`) leans sorcerer/warlock-flavored, not priest/cleric. It does not hand Tatsuya finished spells. What it actually does: removes the goblin's Wisdom-restricted magic-access lockout (see `codex/races/goblin.md`) and opens the Arcane Bomber path to him at all, spirit-flavored since it is Shiv's blessing. Real mastery, runework, amplifying, anything past the basics, is not handed over by the bond. He has to separately pursue alchemy and crafting research and materials himself (see `codex/lore/crafting-and-alchemy.md`) to grow into it, an earned progression tied to his own effort, climbing the tier system as he goes (`codex/magic/overview.md`). His school within the path is Book of the Veil (formerly "Dark"), see `codex/magic/book-of-the-veil.md`. He notices the Wisdom-restriction angle himself during morning research early in Chapter 5.
+Shaman's Veil (already established, see `codex/objects/call-of-the-bones-necklace.md`) leans sorcerer/warlock-flavored, not priest/cleric. It does not hand Tatsuya finished spells. What it actually does: removes the goblin's Wisdom-restricted magic-access lockout (see `codex/races/goblin.md`) and opens the Arcane Bomber path to him at all, spirit-flavored since it is Shiv's blessing. Real mastery, runework, amplifying, anything past the basics, is not handed over by the bond. He has to separately pursue alchemy and crafting research and materials himself (see `codex/lore/crafting-and-alchemy.md`) to grow into it, an earned progression tied to his own effort, climbing the tier system as he goes (`codex/magic/overview.md`). His school within the path is Book of the Veil (formerly "Dark"), see `codex/magic/book-of-the-veil.md`. He notices the Wisdom-restriction angle himself during morning research early in Chapter 6.
 
 **Debuff stacking, Goblin Gas to Vile Curse.** The Goblin Gas nausea stack (4x, then nauseous) is the seed. The smoke evolves into a stackable poison curse, visually distinct from his fire (green poison skulls, one per stack). At 4 stacks the next ability that lands on the target triggers a burst. Not yet happened as of Chapter 10: Tatsuya is only beginning to clock that stacking debuffs plus fire ignition is pointing at something he has not mapped. **Cleanses** only come from healer classes or towns, and antidotes take time, which is what makes his stacks stick.
 

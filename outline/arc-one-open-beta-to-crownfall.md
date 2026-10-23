@@ -14,7 +14,7 @@
 
 ## Beats
 
-1. **Open beta night.** Tatsuya shrugs off the ad, finds Dad's letter, buys the drive and the rig, and enters the game (Chapters 1 to 3).
+1. **Open beta night.** Tatsuya shrugs off the ad, finds Dad's letter, buys the drive, and enters the game (Chapters 1 to 3).
 2. **The World Quest and the camp.** Shiv, the necklace and the Thrash Clan (Chapters 3 to 9).
 3. **The Battle of Thrash Hill** (Chapter 10). The raid on PK_Wraith's early legacy crew, with Arya, Ru, Rott and Nab. The first legacy drops come out of it. (Whether "one of the holders" of a world weapon also fights there is not set.)
 4. **The split.** After Thrash Hill the group separates from the Thrash Clan. The clan heads for the boat. Tatsuya, Arya and the first recruits head for Lunarest while avoiding bigger guilds.
@@ -39,7 +39,7 @@
 
 ## Later items (forward only)
 
-- **The Staff of the Mist God (Seranis).** A piece of Shiv's set and one of seven blessed world weapons (see `codex/lore/patrons-and-world-weapons.md` if present). It raises a fallen player once every seven days, stacks enchantments faster at lower MP cost, and has three forms: sword, staff, and a two-handed energy rifle / gun-blade gadget. He will favor the gun-blade form so he can shoot and move. It is distinct from the Shivbone Staff given to Arya in Chapter 10.
+- **The Staff of the Mist God (Seranis).** A piece of Shiv's set and one of seven blessed world weapons (see `codex/lore/patrons-and-world-weapons.md`). It raises a fallen player once every seven days, stacks enchantments faster at lower MP cost, and has three forms: sword, staff, and a two-handed energy rifle / gun-blade gadget. He will favor the gun-blade form so he can shoot and move. It is distinct from the Shivbone Staff given to Arya in Chapter 10.
 - **Patrons.** Five patrons. A player picks one at the start. Seranis blesses demi-humans.
 
 ## Open items

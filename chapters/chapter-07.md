@@ -412,7 +412,7 @@ Sevish held my gaze for a long moment, then let out a breath that was most of th
 
 We'd barely taken three steps toward the war tent when Leon's voice crackled through, distant and tinny.
 
-"Hey, sorry to jump back in," Leon said, "but I'm gonna need to step away for a bit." A pause, like he was deciding how much to explain. "External monitors started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, live monitoring gear doesn't come down mid-dive. Just checking it's still holding for now."
+"Hey, sorry to jump back in," Leon said, "but I'm gonna need to step away for a bit." A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
 
 He'd been quiet this whole time. He hadn't said a word during the Shiv scene, hadn't chimed in with anyone on his side either.
 

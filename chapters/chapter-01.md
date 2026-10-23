@@ -12,7 +12,7 @@ I caught myself in the dark half of the window between the counter and the door 
 
 My phone buzzed against the counter, the vibration loud enough to cut through the hum of the store. Chiyo's name lit up the screen.
 
-**[Tabuchi called again. Told them the usual. The lawyers are handling it, so don't worry if anything turns up at the hotel, I've got it. Also, Tochi's application window opens back up Jan 4, I'm gonna need a response soon, Tatsu.]**
+**[Tabuchi called again. Told them the usual. The lawyers are handling it, so don't worry if anything turns up at the hotel, I've got it. Also, Tochi's submission window closes on the 23rd and the entrance exams are Jan 4, I'm gonna need a response soon, Tatsu.]**
 
 I read it twice, once for the words and once for the weight sitting right behind them that she hadn't bothered spelling out. Chiyo called it ordinary debt collection, same as always, and mentioned the lawyers like it was nothing. I'd stopped being sure it was ordinary a while ago. The demands kept circling back to my father's old paperwork specifically, in a way that never fully squared with "just pay us."
 

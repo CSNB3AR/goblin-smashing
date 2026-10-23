@@ -1,6 +1,6 @@
 # Subplot: Leon and Arya Sakura's Custody Battle
 
-**Status:** Background, seeded on the page already (Chapter 9), full mechanism locked here. Reopens as a real, dramatized conflict in Act Two.
+**Status:** Background, seeded on the page already (Chapter 10 Part One, through Leon), full mechanism locked here. Reopens as a real, dramatized conflict in Act Two.
 
 ## The setup
 
@@ -8,7 +8,7 @@ Leon and Arya's grandfather died roughly four years ago and left them Sakura Arc
 
 ## The real, live vulnerability
 
-With the grandfather gone and no money for another legal battle, that first win was never permanent. This is the actual foundation under Arya's already-drafted Chapter 9 dialogue ("Last time I let someone in this close, it cost me everything," the not-wanting-to-go-back-to-America lines), not new information contradicting it, the explanation underneath something the reader's already seen. Her parents pushing for her to come live with them and attend medical school in America (already locked, see `codex/characters/arya.md`) isn't just a preference clash, it's the custody fight, quietly, threatening to reopen.
+With the grandfather gone and no money for another legal battle, that first win was never permanent. This is the actual foundation under Leon's Chapter 10 Part One explanation (her parents overseas pushing her to come back, no legal backing without the grandfather), not new information contradicting it, the explanation underneath something the reader's already seen. Her parents pushing for her to come live with them and attend medical school in America (already locked, see `codex/characters/arya.md`) isn't just a preference clash, it's the custody fight, quietly, threatening to reopen.
 
 ## Act Two: the fight actually reopens, and how it gets winnable again
 

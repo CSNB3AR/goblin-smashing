@@ -146,7 +146,7 @@ Ru's tusks caught the lamplight as his mouth pulled into something that wasn't q
 
 The lid hissed open and the ceiling of the operator's booth swam into focus, too bright after however many hours my eyes had actually been closed. I sat up slow, joints stiff in a way that made me wince, and the VRSA inspector was already crouched at the monitor bay, panel open, tools laid out in a neat row on a cloth beside him.
 
-Leon stood next to him, one hip braced against the monitor bay, glasses slipping slightly down his nose, and he looked up the second I sat up. "Hey. I think the monitor started to overheat, might be from the streaming. We may have to consider not doing that for as long, until we get the new parts in. But we can talk about that later."
+Leon stood next to him, one hip braced against the monitor bay, glasses slipping slightly down his nose, and he looked up the second I sat up. "Hey. I think the pod started to overheat, might be from the streaming. We may have to consider not doing that for as long, until we get the new parts in. But we can talk about that later."
 
 "For sure, man, that was crazy. My heart's still pounding from the rush." I pushed myself off the pod's edge and rolled my neck until something popped.
 

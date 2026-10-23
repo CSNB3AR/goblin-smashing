@@ -56,4 +56,4 @@ See `codex/subplots/` for individual thread breakdowns and `outline/` for the be
 - `codex/subplots/` — individual ongoing plot threads.
 - `outline/` — beat-by-beat chapter plan, one file per chapter.
 - `chapters/` — drafted prose.
-- `bible/` — the original consolidated reference docs this structure was split out from. Kept as an archival source of truth; if anything in the new split-out structure ever seems to contradict `bible/writing-bible.md` or `bible/game-system.md`, those two files still win until this note is removed.
+- `bible/` — the original consolidated reference docs this structure was split out from. Kept as an archival source of truth; if anything in the new split-out structure ever seems to contradict `bible/writing-bible.md` or `bible/game-system.md`, those two files still win until this note is removed, except where the resolution hierarchy in `outline/canon-ledger.md` decides it.

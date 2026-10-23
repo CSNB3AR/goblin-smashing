@@ -6,7 +6,7 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 
 ## Canon decisions applied across all chapters
 
-- HGO is not an esports story. The Siege Pro League does not exist in Chapters 1 to 10. Siege is announced as a mode, with Crownfall as a one-off event, a ten million yen prize pool and the 72-hour 50 percent drive discount.
+- HGO is not an esports story. Siege is a battle royale introduced at Crownfall, a guild-only event with a ten million yen prize pool, and Kazuku mentions a pro league once as an option (Addendum H). The 72-hour 50 percent discount covers the drive and the rig.
 - Tatsuya avoids HGO because it reminds him of Eren. Money, the Crownfall prize, the cheap drive and the closed-beta moment pull him in. No fandom, no studying, no meta talk.
 - The WattsUp Corporation (not Gato) sponsors HGO, like other small companies buying exposure on a high-stock closed beta. That is why the screen runs it.
 - The broadcast is the last battle of Season Zero, the Battle of the Snowy Plains, with Yuna hosting. No analysts, scrims or pro talk.
@@ -16,9 +16,9 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 
 - Broadcast reframed as the last battle of Season Zero. WattsUp Corporation sponsorship and stock rise added, sponsor banner in the arena. NEW (reshaped).
 - Tatsuya keeps his back to the broadcast, resents that the read comes automatically, says "Don't do it" only to hate that he said it. NEW (reshaped).
-- Kazuku announces Hearthfire, Siege (fortress, banner, twenty a side), the Crownfall Siege on Christmas Day with ten million yen, open beta tonight and the 72-hour 50 percent off. No Siege Pro League.
+- Kazuku announces Hearthfire, Siege as a five-guild battle royale, the guild-only Crownfall Siege on Christmas Day with ten million yen, open beta tonight rolling into Season One, the 72-hour 50 percent off on drives and rigs, and a pro league as an option (Addendum H).
 - Taji is the fan, Tatsuya is dismissive. Eren's guild "bounced out of the top eight". Haruto is the beta's Breakout Player of the Season.
-- Kept: the EB failing, Dad's room, the manual and the note, the purchase. Chapter ends "I didn't remember closing my eyes."
+- Kept: the EB failing, Dad's room, the manual and Dad's letter, the purchase. Chapter ends "I didn't remember closing my eyes."
 - NEW: the EB failing beat, the Dad's-room note scene, the thought after Eren leaves (Eren as Kazuto's messenger, blind to what is in the envelope). Originally written in the term-swap pass, converted here.
 
 ## Chapter 2
@@ -64,7 +64,7 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 ## Chapter 10 (Parts One and Two)
 
 - Secondary stats: no analyst or pro-stream framing, now Taji arguing over builds at dinner that Tatsuya tuned out. "Nobody runs goblin" replaces "in competitive".
-- The World-tier necklace note now says Siege and other organized guild battles apply a scaling reduction, heard in an aside on the WattsUp screen. NEW (reshaped; check the rule).
+- The World-tier necklace note now says organized guild events such as Crownfall apply a scaling reduction, heard in an aside on the WattsUp screen. NEW (reshaped; check the rule).
 - Eren appears as the thing Tatsuya does not want to repeat: "Eren used to call the plays. I used to be the one who wrote them." NEW.
 - Viewer-count spike is reframed: eyes on his location, but the pods need repairs and repairs need numbers.
 - Part Two (the raid) was written in the term-swap pass and is converted here. The Doppelganger's Band drops from Joss, an enchanter, at 60 MP against a 32 MP bar. NEW.
@@ -78,12 +78,14 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 
 ## Addendum E: Chapter 1 battle rework, love of tactics, body-cue rule
 
-- **Battle rework (Chapter 1).** The Battle of the Snowy Plains is an open-world, king-of-the-hill fight in an unnamed walled medieval town, not an arena. Season points 10,500 (London Spire) to 10,250 (Aogiri), 300 on the line, ten uncontested minutes wins the zone. The Knights hold the only pass like a firing range, 12 Aogiri are cornered in the hall, reinforcements trickle in and die to 72-hour locks. Aogiri's captain walks out early, the banner falls. NEW (reshaped).
+- **Battle rework (Chapter 1).** The Battle of the Snowy Plains is an open-world, king-of-the-hill fight in an unnamed walled medieval town, not an arena. Season points 10,500 (London Spire) to 10,250 (Aogiri), 300 on the line, ten uncontested minutes wins the zone. The Knights hide in the walls with a kill zone at the choke, 12 Aogiri are cornered in the hall under a poisoned leader who never decides, reinforcements trickle in and die to 72-hour locks, the leader dies and the banner ends (Addendum H). NEW (reshaped).
 - **Love of tactics.** Tatsuya states why he likes HGO: the tactics, the thing he and Eren drew on graph paper. That love is why the broadcast hurts. Avoidance stays. NEW.
 - **Body-cue rule.** After information-heavy passages he returns to his body with a varied cue (rubbing his eyes, squinting at the fluorescents, a wince, a loc falling, hands flat on a surface). Applied chapter by chapter, see `style-guide/first-person-voice.md`.
 - **Open items.** The town's name. What happens if the clock expires while the zone is still contested. Whether "the Knights of the London Spire" stays an epithet or becomes the guild name (currently an epithet).
 
-## Addendum F: Siege is only the Crownfall event
+## Addendum F (superseded by Addendum H): Siege briefly treated as only the Crownfall event
+
+**Superseded.** The author later decided that Siege is a battle royale introduced at Crownfall and that the Siege Pro League is an active option from the start of Season One that Kazuku mentions (Addendum H, `outline/canon-ledger.md`). The bullets below are kept only as history.
 
 - Siege is no longer a game mode. Crownfall is a one-off **Siege Castle event** in a neutral zone, a crowning event that prepares players for the larger-scale Node Wars. There is no standing queue, ladder, hall practice arena or Siege Pro League in canon.
 - Chapter 1's ad and chapter 10's necklace note were reworded to the event. Earlier log lines above that say "Siege (fortress, banner, twenty a side)" or "Siege and other organized guild battles" describe the superseded wording.
@@ -105,4 +107,4 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 - **Chapter 1 summary and outlines** now describe: Tatsuya shrugging off the ad, the EB dying on the ride home, Dad's letter with a bear paw print, "bring your business here" clicking, then buying the drive and the rig. Kazuku's ad mentions open beta rolling into Season One, the rig discount, guild-only Crownfall and a pro league option. The finale is guerrilla warfare: Knights hide in the walls, a kill zone at the choke, Aogiri's poisoned leader waits too long and dies, the banner ends.
 - **Story files and README.** Premise, blurb, Discord text and README now say Siege is a battle royale introduced at Crownfall, a pro league is an option, and the story stays not-esports with Tatsuya on the open-world path. The old "no Siege Pro League" wording is superseded.
 - **Style.** `style-guide/first-person-voice.md` notes that Dad's letters and notes appear in plain brackets.
-- **Open items.** Crownfall heats and bracket size under the five-guild format; sword versus great axe and the res cadence for the Seranis staff (seven days used); "one of the holders" at Thrash Hill; whether the letter's exact wording is final. Note: Chapter 1 currently shows texts and Dad's letter in bold brackets, while `style-guide/craft-rules.md` says plain brackets.
+- **Open items.** Crownfall heats and bracket size under the five-guild format; sword versus great axe and the res cadence for the Seranis staff (seven days used); "one of the holders" at Thrash Hill; whether the letter's exact wording is final. OPEN: Chapter 1 sets texts and Dad's letter in bold brackets, while this rule and Chapter 8 use plain brackets; not decided.

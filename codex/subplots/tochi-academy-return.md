@@ -4,7 +4,7 @@
 
 ## The setup
 
-Chiyo needs an answer soon on whether Tatsuya reapplies to Tochi Academy (application window opens back up January 4th). If he doesn't decide, she's prepared to decide for him, framed as love and protection, not control. See `codex/characters/chiyo-nakamura.md`.
+Chiyo needs an answer soon on whether Tatsuya reapplies to Tochi Academy (the submission window closes December 23rd and the entrance exams are January 4th). If he doesn't decide, she's prepared to decide for him, framed as love and protection, not control. See `codex/characters/chiyo-nakamura.md`.
 
 ## Why it matters
 

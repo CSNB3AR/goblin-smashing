@@ -126,7 +126,7 @@ These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged t
 
 - **Skill combo system** — Goblin Gas + fire = Goblin Flare; toxin effects boost Ancient Bone Flame Barrage's damage/radius. Reusable and mechanically satisfying, fits the deck-building pillar.
 - **Karma/Alignment system** — killing players outside sanctioned PvP shifts alignment and visibly flips the nameplate from white to red ("Blood Tinted"). A strong, visible consequence system for open-world PvP, and per §6 above, this now extends to mistreating NPCs and a region's people too, not player-kills alone.
-- **72-hour death lock**: dying carries a real three-day penalty, not just a respawn timer (flat 72 hours in every competitive mode, pass-out lock 24 hours provisional).
+- **72-hour death lock**: dying carries a real three-day penalty, not just a respawn timer (flat 72 hours everywhere except Siege sessions, which use the 60-life rule, pass-out lock 24 hours provisional).
 - **Physical Arts** — a distinct skill category from spells (Drosh's Veil-Pierce Gaze, Silent Three Fang), giving goblins/hobgoblins a combat identity separate from caster classes.
 - **Tactical Cartographer title** — earned for drawing up a battle plan, not just fighting. Rewards the brains-over-brawn playstyle the story leads with.
 - **In-game time dilation** — time moves faster inside HGO than in the real world. Flagged as needing pacing care: any quest timer stated in-game (e.g., a three-day ultimatum) needs to be checked against how it lands against Tatsuya's real-world schedule before it's used in a chapter.

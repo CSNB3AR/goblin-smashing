@@ -1,47 +1,46 @@
-# Chapter 9 — "Silence and Fire" (Outline of the drafted chapter)
+# Chapter 9 — "Assembling the Assault Team, Part Two" (Outline of the drafted chapter), and the beats of Chapter 10 ("Silence and Fire")
 
-**Status:** Chapter fully drafted, see `chapters/chapter-09.md`. Working title, easy to rename. Opens directly on Arya's first line of dialogue, no re-introduction, since Chapter 8's own ending now covers Tatsuya turning to see her and her physical description, one beat later than an earlier split point used briefly this session. This file is a beat-by-beat reference, same purpose as `outline/chapter-08.md`, useful for checking any future resync against.
+**Status:** Chapter 9 is fully drafted, see `chapters/chapter-09.md`. It picks up in the Sakura Arcade hallway right after Chapter 8's last beat (Arya's "Hey, T-Drag"), and it ends on the log-in to the hit camp. The assault (the Battle of Thrash Hill) is **Chapter 10, Parts One and Two**, drafted in `chapters/chapter-10.md`; its beats are listed in the second half of this file because this file used to describe the assault under the old chapter numbering. This is a beat-by-beat reference, useful for checking any future resync against.
 
-**House-style note:** inner monologue is plain quotation marks, no italics, per the current, twice-reconfirmed rule in `style-guide/craft-rules.md`. Every bracketed notification in this chapter is bold (`**[...]**`), since the entire chapter takes place in-dive, no real-world plain-bracket text appears here.
+**House-style note:** the story is first person, past tense. Inner thoughts are plain unquoted narration (see `style-guide/craft-rules.md` and `style-guide/first-person-voice.md`). In-dive system text is bold bracketed. The first half of Chapter 9 is real-world (Sakura Arcade) and only the closing beats are in-dive.
 
-## Arya's in-person interception
+## Chapter 9
 
-Opens on "Hey," Tatsuya's own line, already mid-exchange with her (she's already spoken, Chapter 8 covers that). Two real declines, each explicitly tied in his own reasoning to the Eren pattern, not just plot friction ("No. Not doing this again. Last time I let someone in this close, it cost me everything."). She escalates into real, unperformed desperation, the guild-collapse specifics (90 down to 3, the rumor campaign after Sana and Nao turned on her following the Season Zero finale-week cut, see `codex/characters/arya.md`) and her mother's medical-school plan for her, landed as plain, unguarded dialogue, not narrated backstory. What actually moves him is the escalation, not a single line. Her ask, once he is listening, is to **join his adventure** (not his guild, she joins the guild later), with Crownfall as the first stop, and the deal is the Hushveil upgrade that gets him out of the camp (see `outline/chapters-1-9-revision-log.md` for the exact lines that changed).
+### Arya at the desk (real world)
 
-## The Hushveil negotiation
+- She used the handle, not his name. Leon is with the VRSA inspector (the pod started overheating, probably from the stream), so Arya is minding the desk. The clock reads 8:54 PM and he wants to get back to the goblins.
+- She offers to watch the monitor, he declines, a light exchange ("Spicy one, aren't you?"). She shows a paused HGO stream of him and asks how he is playing on these pods; he stonewalls ("confidential between me and your brother").
+- A small human beat: his lock screen shows Mom with Momo and Taji. She asks where he is from (born in Shibuya, father from Ishikawa, mother from Ghana raised by his grandmother in Shibuya) and says his mother is beautiful.
 
-He asks about her build, pushes her toward the advanced Hushveil upgrade as "the price of admission," ties his private reasoning (never explained to her) back to the Eren/original-build history. She commits, twenty minutes out to a different cafe with an open pod.
+### The information and the ask
 
-## Re-login and staging
+- She says guilds know his location and shows a guild chat log (top Japanese guild leaders). They tracked him from his own stream footage. They have not moved because they do not know whether he is an ally or an enemy and nobody wants to die testing a warband allied to a player.
+- Her read of the landscape: Crownfall is guild-only, so nobody enters as a solo, and the seasonal points everyone earns in the open beta carry into Season One and decide who qualifies. The Crownfall castle sits in a neutral zone people rumor ties back to a legendary world quest (hint only). Another thread claims royal healers have been carrying elixirs up to the palace at night (unconfirmed). Legacy accounts are stuck on low levels for a while, which helps him.
+- The price of the information is a proposal: she wants to join his adventure, Crownfall the first stop. Her guild was cut early in the Season Zero finals and she does not want to get into it. "I won't find out if I don't ask."
+- He makes his own deal: help him out of the camp situation and he accepts, but she must be able to cast Hushveil. She runs through her Spellforger kit (Elf, level ten almost eleven; Static Lash, Tempest Fan, Storm Shear, Stormwall), laughs at gambling on "the weakest race in the game", and agrees. She is at the Luxor Lakes scouting tent, about thirty minutes from his location. He asks her to keep all of it quiet.
 
-Avatar picked up exactly where it was left, seated in the war tent. `**[VIEWERS: 310]**` stands alone as a deliberate small-number contrast to the earlier peak (set up in Chapter 8's return-to-game beat). Gear handed off by Sevish, twenty-minute window set (stretches to twenty-five), party invitation from Arya lands mid-wait, party moves out together, Rott and Nab already gone ahead.
+### Leon returns, then the log-in
 
-## The assault itself
+- Leon comes back, Arya leaves for J-Link ("met a new friend"), and he tells her "Your sister is different." Leon offers to be on comms more and warns the stream can run about an hour before he cuts it. The arcade closes at nine but he can play it out.
+- In-dive log-in: smoke that smells wrong, a quiet camp, the oil lamp low. `**[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**`, `**[THRASH CLAN DEFENDERS: 15/50]**`, and "Ru!" (`**[END CHAPTER NINE, PART TWO]**`).
 
-- Nameplates resolve on the tent: `**[RIAN] [TALO] [JOSS] [SPELLWEAVER_LYN]**`, tagged `**[GUILD: ANSWERS TO PK_WRAITH]**`.
-- Arya joins the party formally: `**[ARYA – LEVEL 11 – MAGE]**` (class tag deliberately not "Spellweaver," avoids colliding with the enemy Spellweaver_Lyn's name).
-- Plan: Ru plus Rott and Nab take three tent walls, Arya's advanced Hushveil (Tier six, full radius) blankets the fourth/open side and the whole tent, silencing/blinding/deafening the raiders inside, who can't tell they're facing real coordination rather than monsters.
-- Gas floods the tent from three sides at once, trapping them inside it this time, an explicit callback line: "Not like last time. They're not getting outside this one."
-- Three primed runes (Rune Priming, seated ahead of time along the same three walls) trigger Ancient Bone Flame Barrage, tent collapses in fire, all four raiders die in rapid-fire kill notifications.
+## Chapter 10, Part One ("Silence and Fire")
 
-## The loot, two separate sources
+- Dark tent, gear back on (Gambler's Earring, Call of the Bones necklace, Goblin Leather Chest Plate). The sheet now shows secondary stats and Leon explains them over comms. The squishy build has a magic ceiling and no floor.
+- Camp damage, the party screen showing Ru as MOBILE (alive). Burn marks along the northern line, fifteen goblins where fifty stood.
+- Sevish's tent: the confrontation ("Whose fault is that, though"), Wyx asks about Shiv, Affiliation ticks (Thrash Clan, Wyx), Field Command with three Thrash auxiliaries, the scouting report (four raiders in a red tent, Kesh counted), recovery-timer math, Leon confirms.
+- Leon on the friend code: Arya told him she was done playing; Tatsuya shares his mother's six-month window and the debt. Arya joins the party (Spellforger) and merges channels; her texts: two of Tokyo's biggest guilds are talking about moving on his location.
+- The red tent below the camp: nameplates Rian, Talo, Joss and Spellweaver_Lyn, `**[GUILD: ANSWERS TO PK_WRAITH]**`. The plan: three walls, three goblins, Arya on the fourth, Hushveil over the whole tent. Arya warns that PK_Wraith's handle has been running a thread across the guild chats tracking this World Quest.
 
-- The four raiders' own legacy gear drops normally off their bodies: Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest, all sellable, courtesy of Tatsuya's high Fortune keeping it unbound. A fourth piece, Spellweaver_Lyn's own `**[SHIVBONE STAFF – LEGENDARY]**` (see `codex/crafting/recipes-spirit-line.md`), drops separately and doesn't go to market, Tatsuya sets it aside on the spot for Arya, recognizing it as a real match for the mage build and the Hushveil investment he just talked her into (see `codex/characters/arya.md`).
-- Separate from all of that, an independent Gambler's Gambit bonus proc fires, unrelated to anything the four raiders actually carried, and pulls `**[DOPPELGANGER'S BAND – UNIQUE]**`, a plain iron ring with no visible enchantment, tagged `**[GAMBLER'S GAMBIT BONUS PROC: INDEPENDENT ROLL]**` so the distinction from the raiders' gear is explicit on the page. This is the concrete on-page acquisition of the signature battle item already locked in `codex/lore/battle-items-and-battlegear.md` (SP-based, no MP, no summoning, unrelated to Shiv's blessing). What it actually does isn't explained on the page, deliberate, left for later.
+## Chapter 10, Part Two
 
-## Arya's recalibration
-
-A new character beat, not in earlier drafts of this chapter: Arya works out mid-scene that the win wasn't luck, "You knew exactly what that spell was going to do... You're not lucky. You actually planned this." Tatsuya doesn't confirm or deny it out loud. A real shift in how she reads him, worth preserving in any future pass.
-
-## Named chat exchange
-
-Viewer count climbs (`**[VIEWERS: 940 → 3,610]**`), Arya's assist gets credited on-stream. Three named handles surface in the scroll, exactly these three, nobody else speaks in chat this scene: **Taja_11** (Taji, quiet almost-recognition, doesn't call it out directly), **Pac_Pac** (local rapper, first-regular-chatter, reacts to the spectacle itself), **AriSky** (Arya's own confirmed Loop/stream handle, first appearing on the page here). Tatsuya replies once, deliberately gives nothing away and doesn't ignore it either.
-
-## Ending hook
-
-Ends on the log-in to a quiet, smoke-sour camp, the defender count at 15/50, and "Ru!" (`**[END CHAPTER NINE, PART TWO]**`). The Doppelganger's Band is **not** in this chapter. It drops from Joss, an enchanter, in Chapter 10 Part Two, at 60 MP against Tatsuya's 32 MP bar. First person throughout.
+- Three Rune Priming runes placed on three walls; Arya's advanced Hushveil (tier six, full radius) silences and blinds the tent; Ru, Rott and Nab gas the three walls together; the stream is live and spikes.
+- Ancient Bone Flame Barrage detonates the gas and runes. Four kills, a battle report on the HUD. Chat names surface (Pac_Pac, Taja_11, Dosuke_AI, AriSky, Eren_TB, PK_Wraith, Haruto_M).
+- Loot: Ironhide Chestplate, Vanguard's Greaves and PK Raiding Crest (Rare, sellable). Spellweaver_Lyn's Shivbone Staff (Legendary) goes to Arya. Joss, an enchanter, drops the **Doppelganger's Band** (legacy item, 60 MP to activate against a 32 MP bar, out of reach for now). It is not in Chapter 9.
+- Arya works out the win was not luck: "You actually planned this." Leon cuts the feed. "Welcome to the team." A closing thought: Crownfall is a guild event, so he will need a guild of his own.
 
 ## Craft notes for any future resync
 
-- All banned physical beats (jaw clenching, arms crossing, a hand going flat against a thigh) have been swept out of this chapter specifically, it was reconciled from an external draft that reintroduced several of them, see `style-guide/craft-rules.md`'s banned-beats list.
-- All names checked against locked canon and confirmed clean (Rian, Talo, Joss, Spellweaver_Lyn, PK_Wraith, Sevish, Wyx, Ru, Rott, Nab, Arya, Leon, Kesh, Hushveil, Doppelganger's Band, the three legacy gear names, Shivbone Staff).
+- All banned physical beats (jaw clenching, arms crossing, a hand going flat against a thigh) have been swept out, see `style-guide/craft-rules.md`'s banned-beats list. Several were reintroduced by external drafts before, watch for them.
+- Names checked against locked canon: Rian, Talo, Joss, Spellweaver_Lyn, PK_Wraith, Sevish, Wyx, Ru, Rott, Nab, Arya, Leon, Kesh, Hushveil, Doppelganger's Band, Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest, Shivbone Staff.
+- Open (flagged in the ledger): the Gambler's Earring ear, the sale-window hours and days-to-Crownfall counts in the chapters, and Arya's Hushveil tier vs her mastery. This file avoids stating those numbers.

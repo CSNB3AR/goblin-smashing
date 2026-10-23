@@ -4,7 +4,7 @@ She'd used the handle. Not my name.
 
 "Where's Leon?" I asked once more, my eyes catching hers as I walked from the bathroom.
 
-"He called the VRSA inspector in." She didn't move from where she was, arms loose at her sides, red hair catching the overhead lights in waves of copper and auburn. "Monitor started overheating. Probably from your live stream. He told me to sit here while he deals with it."
+"He called the VRSA inspector in." She didn't move from where she was, arms loose at her sides, red hair catching the overhead lights in waves of copper and auburn. "The pod started overheating. Probably from your live stream. He told me to sit here while he deals with it."
 
 My hand came up and scrubbed over the back of my head, the motion pulling my sleeve back from my forearm.
 
@@ -206,7 +206,7 @@ Leon moved to the operator's desk that sat on a podium above the pod. It took st
 
 "Yeah," I said. "That'd actually help."
 
-Leon nodded once, glancing toward the inspector's equipment still laid out near the monitor bay. "One more thing. The stream might be able to run for an hour before I cut it off. That's probably what cooked the monitor. As long as you don't run too long, we should be fine."
+Leon nodded once, glancing toward the inspector's equipment still laid out near the monitor bay. "One more thing. The stream might be able to run for an hour before I cut it off. That's probably what cooked the pod. As long as you don't run too long, we should be fine."
 
 I rubbed the back of my neck, the pod's warmth still clinging to my skin.
 

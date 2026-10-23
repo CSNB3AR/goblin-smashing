@@ -2,7 +2,7 @@
 
 **Status:** Chapter fully drafted, see `chapters/chapter-08.md`, author's own hand-authored draft, adopted with house-style fixes applied. Ends on a hook right as Arya's voice catches Tatsuya in the Sakura Arcade hallway, and the chapter itself now includes him turning to see her, one beat later than an earlier split point used briefly this session. `chapters/chapter-09.md` ("Silence and Fire") picks up directly at her first line of dialogue, no re-introduction. This file is a beat-by-beat reference, useful for checking any future resync against.
 
-**House-style note:** inner monologue is plain quotation marks, no italics, per the current, twice-reconfirmed rule in `style-guide/craft-rules.md`. Every bracketed notification while still in-dive is bold; every real-world phone/banking/text notification in the Sakura Arcade bathroom scene is plain.
+**House-style note:** the story is first person, past tense, and inner thoughts are plain unquoted narration (see `style-guide/craft-rules.md` and `style-guide/first-person-voice.md`). Every bracketed notification while still in-dive is bold; every real-world phone/banking/text notification in the Sakura Arcade bathroom scene is plain.
 
 ## Opening — direct continuation from Chapter 7, no restaged entrance
 
@@ -34,6 +34,6 @@ Arya's voice cuts through the noise, "Hey, T-Drag." Tatsuya turns to see her lea
 
 ## Craft notes for any future resync
 
-- Structural pattern specific to this draft: a monologue-quote first, then a body-cue narration sentence right after (e.g. "Every word costs him something." Tatsuya's weight shifted forward...). This is a deliberate, consistent choice, don't restructure it to put the cue before the quote.
+- Structural pattern specific to this draft: a thought or line first, then a body-cue narration sentence right after (e.g. "Every word cost him something. My weight shifted forward..."). This is a deliberate, consistent choice, don't restructure it to put the cue before the thought.
 - Banned physical beats (jaw clenching/setting, arms crossing, a hand going flat against a thigh) were swept out of this draft during adoption, replaced with varied cues. Watch for these specific tics reappearing in any future resync, they've shown up three separate times this session across different sources.
 - All named minor characters (Kesh, Rott, Nab) stay named consistently once introduced. Kesh specifically carries his name in from Chapter 7, no in-chapter nameplate reveal for him here, only Rott and Nab (mentioned, not yet on-page) and the `**[WAR TENT – ELDER T-DRAG]**` nameplate later in the chapter still use that device.

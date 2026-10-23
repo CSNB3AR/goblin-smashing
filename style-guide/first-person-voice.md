@@ -13,7 +13,7 @@ Keep the author's sentences, rhythm, word choices and punctuation. Change only w
 - Anything he cannot perceive is cut or rerouted through what he sees, hears and infers. `Something in her expression settled` stays, because he reads it. `She was nervous` becomes what he sees her doing.
 - Inner thoughts, which the third-person draft set in quotation marks, become plain unquoted narration in the author's own words. Example: `"Damn, she's got me cornered."` becomes `Damn, she had me cornered.`
 - Dialogue stays in quotation marks. System text stays in bold brackets. Texts and on-screen written text stay in plain brackets.
-- Letters and notes from Dad appear in plain brackets as written text (not bold, not quotation marks), with the narrator's reaction in the next paragraph. Dad's letter in Chapter 1 follows this.
+- Letters and notes from Dad appear as bracketed written text (not quotation marks), with the narrator's reaction in the next paragraph. OPEN: Chapter 1 sets texts and Dad's letter in bold brackets, while this rule and Chapter 8 use plain brackets; not decided.
 - Tense stays past. Present-tense thought becomes past (`That's not good` becomes `That wasn't good`).
 
 ## What the story changes, beyond mechanics

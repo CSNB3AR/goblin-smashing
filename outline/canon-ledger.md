@@ -21,7 +21,7 @@ Fix at the lower-priority place. Keep chapter edits minimal and in the author's 
 ## Timeline and numbers
 
 - Story present: Sunday, December 10th, 2045, night. Sale: 72 hours, 50 percent off drives and rigs; the timer reads 71:42 near midnight.
-- Crownfall Siege: December 25th. Hearthfire launch: January 1st. Tochi application window reopens January 4th.
+- Crownfall Siege: December 25th. Hearthfire launch: January 1st. Tochi submission window closes December 23rd; the Tochi entrance exams are January 4th (author-stated). The pod is what overheats under streaming load (author-stated).
 - Chiyo and the twins leave for Kyoto the morning of December 11th for a six-day trip (chapter 2).
 - Death lock: 72 hours in raids, skirmishes and node wars. Siege Pro League sessions use 60 lives instead. Which death rule Crownfall uses is OPEN. Pass-out lock: 24 hours (provisional).
 - Currency: 10 shillings = 1 HGO Coin = 2 yen. Legacy Points become Legacy Silver.

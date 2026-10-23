@@ -1,6 +1,6 @@
 # Act Three: The Myrrhwood Expedition Arc
 
-Picks up only after `outline/act-two-haya-storm-rise.md` closes. Myrrhwood stays fully dormant through Acts One and Two (locked in that file's throughlines section); this is the arc where it finally activates. A sequence of story beats, not a chapter map, some of these will need more than one chapter to actually land, that gets sorted during drafting, not here.
+Picks up only after `outline/act-two-haya-storm-rise.md` closes. Myrrhwood stays fully dormant for Tatsuya's party through Acts One and Two (locked in that file's throughlines section; the Thrash Clan itself sails home around the start of Season One, off-screen); this is the arc where it finally activates. A sequence of story beats, not a chapter map, some of these will need more than one chapter to actually land, that gets sorted during drafting, not here.
 
 ## Locked for this arc
 

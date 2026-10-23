@@ -114,7 +114,7 @@ One of my pointed ears twitched at the rapid clatter of keys, a habit this body 
 
 "Twenty-six hours." I let that land. The rare-space read was real. The person who'd told me that knew exactly what she was looking at. "That confirms it. Thanks."
 
-"Yeah." Leon's chair shifted. "Also, heads-up on the stream. Once you're close to actually engaging down there, I'll flip it live. We've been careful about the monitor running hot, so I'm holding until you're actually moving." A pause, something more personal under it. "Got some info about the parts situation that we should talk about face-to-face when you're out."
+"Yeah." Leon's chair shifted. "Also, heads-up on the stream. Once you're close to actually engaging down there, I'll flip it live. We've been careful about the pod running hot, so I'm holding until you're actually moving." A pause, something more personal under it. "Got some info about the parts situation that we should talk about face-to-face when you're out."
 
 "That works," I said. "Let me know the second it goes live so I'm not caught off guard. And after any engagement, kill the feed right after. I don't want to be immediately targeted if these people have friends watching."
 
@@ -482,7 +482,7 @@ A small indicator already sat in the corner of my vision from the moment Leon ha
 **[VIEWERS: 310]**
 **[CHAT: FOLLOWERS ONLY, 10-MINUTE COOLDOWN ACTIVE]**
 
-Started over. Not even close to where it was before the monitor cooked. I'd have to earn that back same as everything else tonight.
+Started over. Not even close to where it was before the pod cooked. I'd have to earn that back same as everything else tonight.
 
 I looked across the dark to Arya, meeting her eyes through the trees. "On my mark. Clean, no hesitation."
 

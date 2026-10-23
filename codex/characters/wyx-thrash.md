@@ -1,6 +1,6 @@
 # Wyx Thrash
 
-**Role:** Goblin chieftain's sister. In-game, first appears Chapter 3 (camp arc).
+**Role:** Goblin chieftain's sister. In-game, first appears Chapter 4 (camp arc).
 
 ## Appearance
 

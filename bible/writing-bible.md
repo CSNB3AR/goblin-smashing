@@ -3,7 +3,7 @@
 A LitRPG / VRMMORPG / Deck-Building Progression Story
 By STR_B3AR (Bobby)
 
-This is the single source of truth for canon facts and non-negotiable craft rules. If anything in another document (outline, chapter draft, old-draft archive) conflicts with this file, this file wins.
+This is the single source of truth for canon facts and non-negotiable craft rules. If anything in another document (outline, chapter draft, old-draft archive) conflicts with this file, this file wins, except where the resolution hierarchy in `outline/canon-ledger.md` decides it (the author's latest stated canon, then the chapters as written, then the owning codex file).
 
 ## 1. Elevator Pitch
 
@@ -252,7 +252,7 @@ Full detail lives in `codex/pro-scene/tournaments-and-events.md` and `codex/lore
 - **Character lock at Hearthfire:** closed-beta characters freeze at their current level, owners keep playing them or retire them for Legacy Points (convert to Legacy Silver, locked until Hearthfire, plus Legacy items). Open-beta characters are permanent.
 - **1v1 Open Ladder:** anyone can enter, leaderboard resets each season, top 100 earns pro tryouts, rare gear, and media coverage.
 - **Top 500:** nameplate icon with tiers at 500, 100, 50 and 5, with role and race boards.
-- **Presentation:** a hybrid broadcast, a virtual arena inside HGO itself plus a real, sold-out physical venue where fans gather and the newest hardware (third-gen helmets) is on public display. Convention-style, with attendee rare-drop draws. **Host location:** Singapore, a major neutral international hub. **Kazuku's avatar presence at the physical venue is grounded by Singapore's own real-world reputation for advanced projection/holographic CG technology,** which is how his virtual avatar gets a physical stadium presence without ever revealing his true identity.
+- **Presentation:** a hybrid broadcast, an in-world broadcast of the fight itself (the Season Zero finale is staged in the open world, not an arena) plus a real, sold-out physical venue where fans gather and the newest hardware (third-gen helmets) is on public display. Convention-style, with attendee rare-drop draws. **Host location:** Singapore, a major neutral international hub. **Kazuku's avatar presence at the physical venue is grounded by Singapore's own real-world reputation for advanced projection/holographic CG technology,** which is how his virtual avatar gets a physical stadium presence without ever revealing his true identity.
 - Pro guilds run about 50 members, guilds cap at 120, pay is by contribution.
 - **Season Zero bracket background:** Kansai Black Lotus (Eren's guild) missed the top eight because Arya's small guild, Crimson Static, took the last spot by winning the Fire Festival guild event "The Second Dawn." Dosuke AI's guild fell on Saturday. None of this needs to land on the page in Chapter 1.
 
@@ -261,7 +261,7 @@ Full detail lives in `codex/pro-scene/tournaments-and-events.md` and `codex/lore
 
 ### Timeline
 - HGO's closed beta (Season Zero) ran roughly eight to nine months, about 5,000 players from roughly 870,000 pre-orders (see `codex/lore/timeline-and-beta.md`).
-- **"Tonight" (story present, December 10th, 2045, a Sunday, "Finale Sunday")** is the Season Zero finale, and the Hearthfire expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Crownfall (December 25th), six of which (roughly December 10th-16th) Chiyo and the twins spend away on their Kyoto trip.
+- **"Tonight" (story present, December 10th, 2045, a Sunday, "Finale Sunday")** is the Season Zero finale, and the Hearthfire expansion gets announced live during the broadcast, the first real confirmation of what Kazuku has been vaguely hyping since launch. Fifteen days out from Crownfall (December 25th), six of which (roughly December 11th-17th, Chiyo leaves with the twins the morning after, per Chapter 2) Chiyo and the twins spend away on their Kyoto trip.
 - **Hearthfire launch date: January 1st**, a week after Crownfall. The closed-beta character lock triggers at this full launch, not at the announcement. Crownfall sits in the gap between announcement and launch as the Season One opener and first Siege for open-beta guilds.
 
 ## 8. Stakes & Motivations
@@ -274,12 +274,12 @@ Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, frame
 ### Real-world stakes — keep this simple, do not over-explain
 HGO generates enormous real money because in-game currency and items convert directly into real-world currency. Because of that money, the game has attracted real-world business interest, government interest, and criminal interest, everyone wants a piece of this new economic space, and no country wants to be left out of it. Criminal activity in the real world connects naturally to the open-world item-drop mechanic: steal valuable items via in-game death, launder or sell for real money.
 
-**Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This surfaces as an ordinary morning news segment, framed as entertainment news, covering tonight's Season Zero finale (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. Belongs in Chapter 2's already-outlined "next morning" opener.
+**Delivery mechanism, for Chapter 2's opening, not Chapter 1.** This would surface as an ordinary morning news segment, framed as entertainment news, covering tonight's Season Zero finale (the prize figure gets mentioned) alongside a darker undertone: criminal enterprises using the open in-game economy to launder money, nations that have tried and failed to make direct contact with HGO's ownership. Chapter 2 as drafted does not use it (Tatsuya switches the TV off), so it is available for a later chapter.
 
 ### Named apps and channels
 - **Loop** — the social-media app where HGO engagement, clips, and reactions live, a Twitter-equivalent. Ties forward to Arya's later footage-posting beat (see her entry in §6).
 - **HGO Companion App** — the official read-only info app: livestreams, VODs, news, a forum/Reddit-equivalent space. Not used for actual gameplay, informational only.
-- **HGO TV** — Kazuku's official broadcast channel, the thing playing at WattsUp and on Tatsuya's own TV at home. Match replays, Yuna's performances and caster appearances, and pro-scene news coverage, all filtered through Tatsuya's own insider recognition, never a narrator info-dump.
+- **HGO TV** — Kazuku's official broadcast channel, the thing playing at WattsUp and on Tatsuya's own TV at home. Match replays, Yuna's performances and caster appearances, and guild news coverage, all filtered through Tatsuya's own insider recognition, never a narrator info-dump.
 
 **Do not** invent specific real-world resource-acquisition mechanics (no oil rigs, no doomsday market-collapse scenarios, no explicit geopolitical thriller machinery). Keep the real-world impact implied and atmospheric rather than mechanically explained. The story stays guild/economy-focused at its core, not a geopolitical thriller.
 
@@ -288,7 +288,7 @@ HGO generates enormous real money because in-game currency and items convert dir
 ### Tochi Academy
 Major, prestigious Tokyo sports and academic school running from elementary through academy level. Tatsuya got in on genuine merit, he tested in, smart and tech-savvy like his father, reinforced by Daichi's tech infrastructure contributions to the school. He needs to go back: Tochi has the resources and curriculum required to maintain the first-gen pods long-term, and his path back runs through Chiyo's instructor position, Ohema's volleyball legacy, and Daichi's tech legacy. Yuna has also been at Tochi since elementary school.
 
-Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family-influence targeting students on campus, which is exactly why it's the one place in Japan the Tabuchis have no reach at all. Tatsuya was hazed there and chose not to report it, consistent with his instinct to absorb rather than escalate, even with real institutional backup available to him. He only completed about three months of his first year of high school (age 16, see the exact timeline in Eren's entry in §6) before his father's death and Eren's betrayal pushed him out entirely. Eren's team funding (see his entry in §6) traces back to the Tabuchis investing in a school esports program once second-gen pods opened HGO access, consistent with Tochi's existing pedigree in competitive sports (baseball, Ohema's volleyball) and tech (Daichi's infrastructure work), the school leans into being competitive at everything.
+Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family-influence targeting students on campus, which is exactly why it's the one place in Japan the Tabuchis have no reach at all. Tatsuya was hazed there and chose not to report it, consistent with his instinct to absorb rather than escalate, even with real institutional backup available to him. He only completed about three months of his first year of high school (age 16, see the exact timeline in Eren's entry in §6) before his father's death and Eren's betrayal pushed him out entirely. Eren's team funding (see his entry in §6) traces back to the Tabuchis investing in a school guild program once second-gen pods opened HGO access, consistent with Tochi's existing pedigree in competitive sports (baseball, Ohema's volleyball) and tech (Daichi's infrastructure work), the school leans into being competitive at everything.
 
 **Re-entry, resolved:** if Tatsuya returns to Tochi, he comes back as a full first-year. He never completed that year the first time, so there's no advanced placement and no version where he's ahead of Eren, he's behind, and re-entry means starting over.
 

@@ -24,7 +24,7 @@ A third, separate departure around the same time: **Jiro Amano**, an old Crimson
 
 Arya rebuilt under a new guild name with a couple of new recruits, one of them the unnamed auction-house specialist mentioned above, she leans on him for gear logistics. She's currently sitting on a fresh, low-level mage build (level 10-11), most of her discipline points still unspent, deliberately held back since the collapse rather than sunk into a build she can't yet commit to.
 
-**The real pressure underneath it.** Her mother wants her in America for medical school, a real, live option, not a bluff. Arya doesn't want to go, wants to stay in Tokyo, near Leon, and build something real in HGO first. Her entire read on the current moment, the guild, the Crownfall run, all of it, is filtered through needing this to actually work before that decision gets made for her. **The real foundation underneath this, not yet stated on the page beyond what Chapter 9 already implies:** this isn't just preference, it's a live custody situation, Leon won formal guardianship of her years ago on the strength of their late grandfather's legal backing, and without that money now, her parents pushing to bring her to America is the custody fight quietly threatening to reopen. See `codex/subplots/leon-arya-custody-battle.md` for the full mechanism.
+**The real pressure underneath it.** Her mother wants her in America for medical school, a real, live option, not a bluff. Arya doesn't want to go, wants to stay in Tokyo, near Leon, and build something real in HGO first. Her entire read on the current moment, the guild, the Crownfall run, all of it, is filtered through needing this to actually work before that decision gets made for her. **The real foundation underneath this, not yet stated on the page beyond what Chapter 10 Part One already implies through Leon:** this isn't just preference, it's a live custody situation, Leon won formal guardianship of her years ago on the strength of their late grandfather's legal backing, and without that money now, her parents pushing to bring her to America is the custody fight quietly threatening to reopen. See `codex/subplots/leon-arya-custody-battle.md` for the full mechanism.
 
 **School:** attends a local Tokyo public school, not Tochi Academy, a different background from Tatsuya's.
 
@@ -42,11 +42,11 @@ Once Tatsuya is actually playing, Arya records and posts footage of his early ga
 
 The old draft used both "Aria" (Chapter 8) and "AriaSky" (Chapter 10 stream handle) inconsistently. Confirmed spelling going forward: **Arya**.
 
-**Handle, confirmed Chapter 9: AriSky** (not "AriaSky"), her actual in-game/Loop chat handle, distinct from her real name. First appears on the page in Chapter 9's post-kill chat scroll, already fighting alongside Tatsuya by that point, a light, supportive presence in chat rather than announcing herself.
+**Handle, confirmed Chapter 10: AriSky** (not "AriaSky"), her actual in-game/Loop chat handle, distinct from her real name. First appears on the page as a party tag in Chapter 10 Part One and in Part Two's post-kill chat scroll, already fighting alongside Tatsuya by that point, a light, supportive presence in chat rather than announcing herself.
 
-## Shivbone Staff, Chapter 9
+## Shivbone Staff, Chapter 10 Part Two
 
-Off the PK_Wraith kill, Spellweaver_Lyn's own legacy weapon drops separately from the rest of the sellable gear: a Shivbone Staff (Rare-Legendary, see `codex/crafting/recipes-spirit-line.md` for the item's full recipe/effect entry, +Wisdom and +Fortune, a Spirit Echo passive that applies a light Silence proc). Tatsuya doesn't put it up for sale with the rest of the loot, he sets it aside for Arya specifically, a real, on-page recognition that it matches her build directly, complementing the same Hushveil investment he just talked her into. The other three pieces (Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest) go to market normally.
+Off the PK_Wraith kill, Spellweaver_Lyn's own legacy weapon drops separately from the rest of the sellable gear: a Shivbone Staff (Legendary on the page, see `codex/crafting/recipes-spirit-line.md` for the item's full recipe/effect entry, +Wisdom and +Fortune, a Spirit Echo passive that applies a light Silence proc). Tatsuya doesn't put it up for sale with the rest of the loot, he sets it aside for Arya specifically, a real, on-page recognition that it matches her build directly, complementing the same Hushveil investment he just talked her into. The other three pieces (Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest) go to market normally.
 
 ## Character Sheet
 
