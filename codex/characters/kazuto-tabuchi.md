@@ -18,6 +18,8 @@ The Tabuchi family's second-generation pod business was originally bankrolled by
 
 ## Author-side truth (not on the page)
 
+**Updated.** The Tabuchis hired yakuza to sabotage Daichi's vehicle (the Haya Sedan, a hybrid that still ran on gas, whose breakdown caused the accident), expecting it to bankrupt the family while Ohema was in the hospital. They then used the breakdown to attack the business, and people pulled the model from the market. Chiyo returning was not in their plans, since she began paying the fees. Kazuto hoped to take the Kazehaya family to court to win the business and the first-gen schematics, and it has not worked because Chiyo has her own money and has hired lawyers. Open: whether the "a year ago" plug-in malfunction below is the same event or a second one.
+
 A year ago someone pulled plug-ins from Daichi's adapted car, it malfunctioned, and the failure looked like his product failing. Retailers pulled back and his income collapsed. The Tabuchis, who build second-gen pods cheaply and have yakuza ties, tightened their grip and offered to take the first-gen schematics as collateral against the debt. Daichi refused. On the page this stays suspicion only, reaching the reader through Tatsuya's own inference (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). Eren is blind to all of it and acts only as Kazuto's messenger.
 
 ## Old-draft reference, superseded characterization

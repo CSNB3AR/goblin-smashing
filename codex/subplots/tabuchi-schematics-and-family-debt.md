@@ -12,7 +12,7 @@ Daichi's letter in the manual says the Tabuchis pushed him hard to sell the busi
 
 ## What's known and by whom
 
-Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. This is Tatsuya's private knowledge, Chiyo doesn't know it, she assumes ordinary debt collection. The debt pressure that shows up in scenes like Eren's WattsUp visits (see `chapters/chapter-01.md`) is what's escalated in place of that direct contact ever since. Tatsuya doesn't yet know why the demands keep circling back to his father's old paperwork specifically, only that it never fully squares with "just pay us."
+Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. This is Tatsuya's private knowledge, Chiyo doesn't know it, she treats it as debt collection and has hired lawyers. The debt pressure that shows up in scenes like Eren's WattsUp visits (see `chapters/chapter-01.md`) is what's escalated in place of that direct contact ever since. Tatsuya doesn't yet know why the demands keep circling back to his father's old paperwork specifically, only that it never fully squares with "just pay us."
 
 ## Escalation levers available going forward
 
@@ -20,6 +20,10 @@ Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, frame
 - The Tabuchis' threat of arson against the Nakamura Grand (established, not yet deployed on the page).
 - Chiyo's own protective ultimatum about the Tochi decision, tangential but related pressure (see `codex/subplots/tochi-academy-return.md`).
 - Tabuchi complicity in Daichi's death and the collapse before it, confirmed as an active, intended direction. **Author-side truth:** a year before he died someone pulled plug-ins from his adapted car, it malfunctioned and looked like his product failing, retailers pulled back, his income collapsed, and the Tabuchis offered to take the first-gen schematics as collateral. Daichi refused. Reaches the reader only through Tatsuya's own inference (he is **consciously, privately suspicious**), never a direct reveal scene or confession. The exact mechanism of death stays unstated even once this lands, it's a live suspicion, not a solved mystery. Eren is blind to it and acts only as Kazuto's messenger. Dad's manual carries a hidden warning note (see `codex/characters/daichi-kazehaya.md`).
+
+## Author-side truth, updated (Haya Sedan, yakuza, Chiyo, lawyers)
+
+Stays suspicion on the page, never confirmed. Daichi's own car, the **Haya Sedan**, was a **hybrid that still ran on gas** (only the Haya EB scooter is fully electric). It broke down and caused the accident, and the **Tabuchis used it as a way to attack the business**, so people pulled the model from the market. The Tabuchis **hired yakuza to sabotage Daichi's vehicle**, expecting it to bankrupt the family while Ohema was in the hospital. **Chiyo returning was not in their plans**: she began paying the fees. Kazuto hoped to take the family to court and win the **business and the first-gen pod schematics** that way, and it has not worked because **Chiyo has her own money**. She does not want to pay them and has **hired lawyers**, which is why her text in Chapter 1 says they called again and that she is handling it. **Open (not decided):** whether the earlier "a year before he died, plug-ins pulled from the adapted car" malfunction is the same event as the Haya Sedan breakdown or a second one.
 
 ## The debt, in figures (locked)
 

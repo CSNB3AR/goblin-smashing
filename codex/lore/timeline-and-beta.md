@@ -26,6 +26,7 @@ The whole story, from the Season Zero finale broadcast to the Hearthfire launch 
 ## Dad's crash and death
 
 - When Tatsuya was a child, a **car crash** left him the scar over his right brow. It also **paralyzed Daichi**, who then went all in on VR as a way to make a world where the body was not the ceiling: the Haya pod, the Haya EB, an adapted car.
+- The crash came from a breakdown of the **Haya Sedan**, Daichi's own car, a **hybrid that still ran on gas** (only the Haya EB is fully electric). The Tabuchis used the breakdown to attack the business, and people pulled the model from the market. Author-side truth, suspicion only on the page: the Tabuchis hired yakuza to sabotage the vehicle, expecting it to bankrupt the family while Ohema was in the hospital. Chiyo returning was not in their plans, Kazuto's court plan for the business and schematics has not worked because Chiyo has her own money, and she has hired lawyers (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). The date of the childhood crash is unchanged.
 - Daichi died about **a year ago**. Closed casket, never fully explained (see `codex/characters/daichi-kazehaya.md`).
 - Order of events, reconciled with `bible/writing-bible.md` (Eren's entry): Tatsuya starts Tochi High School, Daichi dies within his first month (about a year ago), and the Eren betrayal over the stolen build lands in the same stretch, before the beta opens (Eren had Tabuchi second-gen pod access ahead of launch). About three months into the school year Tatsuya drops out, which falls around the closed beta's launch roughly eight to nine months ago. Exact dates are left unpinned.
 - What the reader is given is suspicion, never proof. The author-side truth sits in `codex/subplots/tabuchi-schematics-and-family-debt.md`.
@@ -40,6 +41,8 @@ The whole story, from the Season Zero finale broadcast to the Hearthfire launch 
 King Aldemar Vaereth dies around the start of Season One (see `codex/lore/lunarest-royal-court.md`). The December 25th event is named **Crownfall** for it. A royal funeral truce follows (length and scope open), then the princes move against each other, the map starts moving and Node Wars open. The Thrash Clan's return to Myrrhwood falls near the same time.
 
 ## Open items
+
+- Whether the earlier "a year ago, plug-ins pulled from the adapted car" malfunction is the same event as the Haya Sedan breakdown or a second one.
 
 - Whether Tatsuya's "sweepstakes" pre-launch access (older codex line) stays. It conflicts with his being an open-beta player and needs a ruling before any chapter pass.
 - Funeral truce length and scope, and whether the expansion should be renamed Crownfall (Hearthfire stays for now).

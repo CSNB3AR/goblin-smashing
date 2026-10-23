@@ -10,7 +10,7 @@
 
 - Son of the Tabuchi family, who back/manufacture the second-generation pods (see `codex/objects/pod-hardware.md`).
 - Physical signature: easy posture, entitlement where Tatsuya has calculation, voice drops into a lower register when he's trying to sound threatening.
-- Eren now collects on the Tabuchi family debt as leverage over Tatsuya. He is **Kazuto's messenger and blind to the schematics**: he knows his father wants something from the Kazehaya family, not what or why.
+- Eren now collects on the Tabuchi family debt as leverage over Tatsuya. He is **Kazuto's messenger and blind to the schematics**: he knows his father wants something from the Kazehaya family, not what or why. He also knows nothing about the sabotage of Daichi's car or his father's court plan (see `codex/subplots/tabuchi-schematics-and-family-debt.md`).
 - His guild, Kansai Black Lotus, missed the Season Zero top eight because Arya's small guild took the last qualifying spot (see `codex/lore/lunarest-royal-court.md`). **He hates her for it.** He is a second-year (see `codex/lore/timeline-and-beta.md`).
 
 ## Timeline (exact, keep consistent everywhere)
