@@ -25,3 +25,7 @@ See `codex/objects/hgo-access-drive.md` for the resulting drive-color mechanic.
 ## Lumi, the character-creation guide (Hearthfire-era canon)
 
 **Lumi** is the cute system guide who walks players through character creation. She glitches when the goblin glitch hits Tatsuya (see `codex/lore/timeline-and-beta.md`). Open-beta characters created after the Hearthfire announcement are permanent, and during Season Zero every race starts in Lunarest (see `codex/lore/hearthfire-expansion-and-seasons.md`).
+
+## Choosing a patron
+
+At the start of the game a player also **chooses a patron to follow**. There are five patrons and each race leans toward one (dwarves follow a patron, goblins follow a patron). **Seranis** blesses demi-humans and is the goblins' patron (see `codex/lore/patrons-and-world-weapons.md`). In Tatsuya's case Lumi's walkthrough is interrupted by the power cut and the goblin glitch, so how his patron is applied is open.
