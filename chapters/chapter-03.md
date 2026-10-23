@@ -54,7 +54,7 @@ My finger hovered over the logout command when another notification bloomed in f
 
 **[ESTIMATED VALUE: WORLD-TIER REWARD]**
 
-The race I'd been trying to avoid had handed me a World Quest. What was I supposed to do with that? I sat there for a moment, my mind racing through every possible scenario and finding no solution. Ugh. I hated this, but the magnitude of a world quest was hard to ignore.
+The race I'd tapped on a whim had handed me a World Quest. What was I supposed to do with that? I sat there for a moment, my mind racing through every possible scenario and finding no solution. Ugh. I hated this, but the magnitude of a world quest was hard to ignore.
 
 Six days until Chiyo was back from Kyoto. Six days to show her something real and figure out how to make this work or fail miserably trying. Ten million yen was still sitting on a calendar a couple of weeks away, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math.
 
@@ -274,7 +274,7 @@ A concentrated burst of flame erupted outward from the point of impact, bright a
 
 I stood there for a second, ears ringing from the explosion, staring at two bodies sprawled in the dirt that weren't moving anymore, smoke still rising off them in thin trails.
 
-Holy shit. That actually worked. My hands were shaking slightly when I looked down at them. I didn't know it would kill them. I'd only been testing whether fire caught the gas.
+Holy shit. That actually worked. My hands were shaking slightly when I looked down at them.
 
 I hadn't meant to. I'd been testing whether the tooltip meant what it said, not trying to end anyone.
 
