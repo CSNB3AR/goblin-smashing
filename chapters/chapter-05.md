@@ -52,7 +52,7 @@ I confirmed it, already bracing to wait on a listing. Instead the vials vanished
 
 **[BANK BALANCE: ¥64,120]**
 
-That fast? I read it again. Then the logic caught up. Common gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up. No bidding, no waiting on a real buyer. Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve. I squinted against the glare of the screen in the dim hallway and tilted it away from my face.
+That fast? I read it again. Then the logic caught up. Low-tier gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up. No bidding, no waiting on a real buyer. Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve. I squinted against the glare of the screen in the dim hallway and tilted it away from my face.
 
 My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that four hours of getting chased around a goblin camp hadn't managed to.
 
@@ -76,7 +76,7 @@ Leon was at the counter when I stepped back into the main room, tablet in one ha
 
 "Pod held," I said. "No crashes. Ran longer than I thought it would."
 
-"Good." Leon nodded, easy, nothing behind it. He glanced toward the dark hallway where the second pod sat dead, then back. "Listen. I want to be straight with you before you start getting comfortable coming back here. Business is slow right now, and I don't want you thinking that open access is a permanent thing if it turns into a habit for both of us."
+"Good." Leon nodded, easy, nothing behind it. He glanced toward the dark hallway where the second pod sat dark, then back. "Listen. I want to be straight with you before you start getting comfortable coming back here. Business is slow right now, and I don't want you thinking that open access is a permanent thing if it turns into a habit for both of us."
 
 I did the math fast before speaking. "How slow are we talking?"
 
@@ -134,13 +134,13 @@ The thought had felt like a loss a week ago. It didn't feel that way anymore.
 
 "I believe you," Leon said.
 
-Outside, my breath misted in the cold. I pulled my helmet on, kicked the Haya EB to life, and sat there a second while the engine found its rhythm.
+Outside, my breath misted in the cold. I pulled my helmet on, kicked the Haya EB to life, and sat there a second while the motor found its rhythm.
 
 Two things to deal with on the way home. The hospital, then Chiyo.
 
 I pulled out into the street.
 
-The ride to the hospital ran on muscle memory, my hands steady on the grips. The city blurred past in orange and white, the kind of quiet that only existed at this hour, between when the bars closed and before anything else opened.
+The ride to the hospital ran on muscle memory, my hands steady on the grips. The city blurred past in orange and white, the kind of quiet that only existed at this hour, after the dinner crowds had gone home.
 
 The hospital came up on my left, white-lit and too clean. I parked in the visitor lot, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing. It always hit me there, every single time, like my body had already memorized the building.
 

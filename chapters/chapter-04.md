@@ -152,7 +152,7 @@ I pulled out the two green vials from the pouch at my belt and turned them over 
 
 Sixteen thousand eight hundred yen total. Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll, making sure they wouldn't roll away. First real money this game had ever paid me. Not a bad first login. I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and felt my shoulders come down an inch.
 
-Once I was back online I'd just accept his mission so I could get things moving. I thought about Chiyo waiting at home, about Tochi sitting there as an option I'd been avoiding for months, about my mom in the hospital and the surgery I still couldn't pay for.
+Once I was back online I'd just accept his mission so I could get things moving. I thought about Chiyo in Kyoto, about Tochi sitting there as an option I'd been avoiding for months, about my mom in the hospital and the surgery I still couldn't pay for.
 
 The camp kept breathing around me outside the canvas, fire and low voices and the smell of woodsmoke still thick in the air even here. It all felt real in a way I hadn't been prepared for, the way it kept existing whether I was paying attention or not.
 

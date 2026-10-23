@@ -84,7 +84,7 @@ Not the race I wanted. Not that I'd wanted any of them. But honestly? I might ha
 
 I got dressed, cleaned up my room, and dug the folded note out of my jacket pocket before putting it away.
 
-Yunaile's handwriting at the top, clean block letters, the friend code underneath. I read the date at the bottom.
+Her handwriting at the top, clean block letters, the friend code underneath. I read the date at the bottom.
 
 December 23rd. 689450YY.
 
