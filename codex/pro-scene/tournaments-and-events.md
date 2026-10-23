@@ -21,6 +21,8 @@ For the release sequence, payouts and currency, see `codex/lore/hearthfire-expan
 
 After the world maps release, guild fights over **nodes** (towns, resource sites, forts) across the **five continents** are the war the story is about. Territory brings taxes, rules for the zone, infrastructure and NPC ties. Contested zones grant buffs and minor perks, and bigger guilds with existing numbers take them first. Owning a province or a kingdom is real income, which is why legitimate guilds and the darker real-money side of the game chase the same land (see `codex/lore/hgo-timeline-and-real-world-stakes.md`). Node Wars are the main war content, and Crownfall is the rehearsal for them. Guild halls, the 20-player side and the troop system carry into node war fights. Older notes that called this "GvG Wars" describe the same system.
 
+**Funeral truce.** When the king dies around the start of Season One, his royal funeral pauses combat in the royal lands for its length (length and scope open, see `codex/lore/hearthfire-expansion-and-seasons.md`). Node Wars start after the funeral, once the princes move against each other and the map starts moving.
+
 ## Events, sponsors and history
 
 - **Finale history.** The Season Zero finale, streamed as spectacle with sponsors such as the WattsUp Corporation, won by London Spire (40 million yen). Sometimes called the finals of the season-long regional-to-national qualifying structure, which feeds into a single flagship event per season.

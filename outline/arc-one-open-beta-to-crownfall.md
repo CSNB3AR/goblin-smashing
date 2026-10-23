@@ -25,7 +25,10 @@
 9. **The guild.** To enter Crownfall he founds a guild, gathers seasonal points and recruits gradually.
 10. **The troop edge.** He is the first to fill guild slots with NPC troops (see `codex/lore/companion-troop-system.md`). Because troops do not follow the player system, his enchants multiply on them and last longer than they do on players.
 11. **Crownfall.** The Siege battle royale debut: 5 guilds per session, 20 players each, camps to forts, 60 lives, 3 hours, a neutral zone (see `codex/lore/hearthfire-expansion-and-seasons.md`).
-12. **Hearthfire.** Season One starts and the map opens.
+12. **The king falls.** Around the start of Season One the king of Lunarest dies, about when the Thrash Clan heads back to Myrrhwood (see `codex/lore/lunarest-royal-court.md`). This is why the event is called Crownfall: HGO named it for the coming fall, a wink the reader catches later. Nobody in the story knows yet.
+13. **The funeral.** A royal event and a truce: no battling in the royal lands while it runs.
+14. **The map moves.** After the funeral the princes go after each other, Node Wars open, and the expansion opens up. Hearthfire stays the expansion's name; Crownfall is the arc and event.
+15. **Hearthfire.** Season One starts and the map opens.
 
 ## Tatsuya's drivers
 
@@ -46,3 +49,5 @@
 - Sword versus great axe for the staff's melee form. The res cadence (the author said daily, 24 hours, then every seven days; seven is used).
 - "One of the holders" at Thrash Hill.
 - Seranis and the staff's enchanted name are working names.
+- **Naming:** the author said "the Crownfall expansion". Read as the Crownfall arc and event, with Hearthfire kept as the expansion's name. If the expansion itself should be renamed, that is a separate sweep.
+- Funeral scope (Lunarest only or wider) and length.

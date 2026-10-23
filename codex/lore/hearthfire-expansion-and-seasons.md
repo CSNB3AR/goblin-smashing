@@ -26,6 +26,18 @@ Single source of truth for the HGO release sequence, the competitive structure a
 - **The main story is frozen**, except for hidden quests. The princes are off-screen, held in restricted zones.
 - **Tatsuya's goblin quest line expires at the expansion** if he has not progressed it (the Call of the Bones deadline, see `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`).
 
+## Why Crownfall
+
+Crownfall is named for the king's fall. HGO's ownership knows King Aldemar Vaereth is dying (see `codex/lore/lunarest-royal-court.md`), so the Season One opener is called Crownfall. Nobody in the story knows this yet, and the name is a wink the reader catches later. The December 25th event runs in a neutral zone outside royal jurisdiction, so the coming death does not stop it.
+
+**Naming note (OPEN):** the user said "the Crown Fall expansion." Hearthfire stays the expansion's name, and Crownfall is the arc and event where the crown falls. Whether the expansion itself should be renamed is undecided.
+
+## The funeral and what follows
+
+The king dies around the start of Season One, about when the Thrash Clan heads back to Myrrhwood. His funeral is a royal event. A truce holds in the royal lands and nobody can battle there while it lasts. When the funeral ends, the princes (Dorrin, Ilyan and Maldren) move against each other, the map starts moving, and Node Wars open. This is what breaks the expansion open.
+
+- **Open:** the funeral's length, and whether the truce covers Lunarest only or the whole map.
+
 ## Siege and the Siege Pro League
 
 ### The Siege format (battle royale)
@@ -136,6 +148,8 @@ The systems above are the stage, not the story.
 
 ## Open items
 
+- Naming: Hearthfire stays the expansion name, Crownfall is the arc and event where the crown falls (the user said "the Crown Fall expansion"). Undecided whether to rename.
+- Funeral truce: length, and whether it covers Lunarest only or the whole map.
 - Pass-out lock (24 hours) is a default, not a ruling.
 - Whether Crownfall keeps the old level-25 new-region cap is unconfirmed.
 - Whether Crownfall carries the 72-hour lock or the Siege 60-life rule (now: 60 lives).

@@ -22,6 +22,14 @@ During Season Zero the three princes each raise an army. Twelve guilds qualify f
 
 A **High Elf** (a rare Elf variant, see `codex/races/elf.md`) banished from his own domain in the Azure Expanse and made a royal court mage in Lunarest. Papal in authority, he speaks to the king directly. He is the one who cursed Shiv. He makes the king's elixirs from material he brought out of Azure, and **that material is running low**, which is the real reason the king is declining.
 
+## The king's fall and the funeral
+
+Corvith's elixirs fail as his Azure material runs out, and King Aldemar's decline is the reason the Season One opener is called **Crownfall** (see `codex/lore/hearthfire-expansion-and-seasons.md`). He dies around the start of Season One.
+
+- **The funeral** is a royal event. A truce holds in the royal lands, and no battling is allowed there while it lasts. Length and scope (Lunarest only or the whole map) are **open**.
+- **After the funeral** the princes Dorrin, Ilyan and Maldren move against each other. The map starts moving and Node Wars open.
+- **Timing:** the Crownfall Siege on December 25th runs in a neutral zone outside royal jurisdiction, so it is not stopped. The Thrash Clan's return to Myrrhwood falls near the same time.
+
 ## Shiv, additions to the Chapter 7 account
 
 Existing facts stay: Shivaris Jutsuin, a noble of the court, loved the Queen, was "corrected" into a goblin hybrid, unified the clans. Added:

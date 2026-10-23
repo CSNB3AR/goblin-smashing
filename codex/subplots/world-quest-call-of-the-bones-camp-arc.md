@@ -54,3 +54,9 @@ The necklace bond, Shiv Goblin evolution, and Ru's founding blessing land in Cha
 - **Patron and weapon.** Shiv's set piece, the Staff of the Mist God, comes later in this arc (see `codex/lore/patrons-and-world-weapons.md`, owned by another agent).
 
 **Open:** the "holders" on PK_Wraith's side; whether the Staff of the Mist God is earned before or after Crownfall.
+
+## The Thrash Clan's return and the king's fall (Addendum I)
+
+- The Thrash Clan's return to Myrrhwood lines up with the king's death near the start of Season One. Sevish and Wyx leave Bloodhurst while Lunarest is still ordinary, and the king falls after (see `codex/lore/lunarest-royal-court.md` for his age and failing elixirs).
+- The royal funeral is a royal event: a truce, with no battling in the royal lands while it runs. After it, the princes move against each other and the map starts moving (see `outline/arc-one-open-beta-to-crownfall.md`).
+- **Open:** funeral scope (Lunarest only or wider) and length; whether Thrash's boat departure falls before, during or after the funeral.

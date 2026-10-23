@@ -35,6 +35,11 @@ The whole story, from the Season Zero finale broadcast to the Hearthfire launch 
 - **Eren Tabuchi** is Kazuto's messenger and is **blind to the schematics**: he knows his father wants something from Tatsuya's family, not what or why.
 - His guild missed the Season Zero top eight because **Arya's small guild took the last spot** (see `codex/lore/lunarest-royal-court.md`, Fire Festival). He hates her for it, and the rivalry with Tatsuya is layered with that (see `codex/subplots/tatsuya-pro-league-arc-and-eren-rivalry.md`).
 
+## The king's fall
+
+King Aldemar Vaereth dies around the start of Season One (see `codex/lore/lunarest-royal-court.md`). The December 25th event is named **Crownfall** for it. A royal funeral truce follows (length and scope open), then the princes move against each other, the map starts moving and Node Wars open. The Thrash Clan's return to Myrrhwood falls near the same time.
+
 ## Open items
 
 - Whether Tatsuya's "sweepstakes" pre-launch access (older codex line) stays. It conflicts with his being an open-beta player and needs a ruling before any chapter pass.
+- Funeral truce length and scope, and whether the expansion should be renamed Crownfall (Hearthfire stays for now).

@@ -45,9 +45,14 @@ Haya Storm (see `codex/pro-scene/haya-storm.md`) enters as a small guild built a
 - Crownfall is **announced** inside Kazuku's Hearthfire ad as the Crownfall Siege Castle event in a neutral zone, a taste of the wars to come, with a ten million yen prize pool, alongside open beta, the 72-hour 50 percent discount on drives and the helmet rig, and the note that open beta leads into Season One. Kazuku also mentions a pro league as an option for players who do not want the open-world route. That bundle is the enticing offer that pulls Tatsuya in.
 - Tatsuya treats it as money, not sport: the prize pool pays toward Ohema's surgery and the debt, and Crownfall may get the bear's attention.
 
+## Why it is called Crownfall
+
+The name comes from the king's fall. King Aldemar is dying, and he dies around the start of Season One (see `codex/lore/hearthfire-expansion-and-seasons.md`). The December 25th event runs in a neutral zone outside royal jurisdiction, so the coming death does not stop it. Nobody in the story knows yet.
+
 ## Open
 
 - Heats, bracket size, regions and the final session format under the 5-guild format.
 - Whether the neutral zone ties to a legendary world quest (hint only).
 - Whether the 60-life rule or the 72-hour lock applies at Crownfall (now: 60 lives).
 - The old level-25 new-region cap is unconfirmed.
+- Whether the expansion should be called Crownfall (Hearthfire stays for now).
