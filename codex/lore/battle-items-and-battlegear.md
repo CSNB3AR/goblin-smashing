@@ -12,6 +12,7 @@ Original to HGO, described functionally only, not modeled on or naming any outsi
   - **Second Wind Draught** — a minor SP-refill consumable, the standard answer to the resource-drain pacing already locked in `codex/lore/hp-sp-mp-resource-pools.md`. Restores SP directly rather than drawing from either pool itself.
   - **Nameplate Ward** — a cheap defensive trinket, shaves a small percentage off the first hit taken after combat starts. Passive, no activation cost, same category as the Momentum Charm.
   - **Scout's Whistle** — a utility item, pings visible allies within a short radius on the mini-map. Draws a small flat SP cost on use, pure item-based Physical Arts action, no magic involved.
+  - **Sealed-Tip Field Quill**: a utility item made by craftsmen in border markets for couriers and scouts, a quill with a sealed tip so it does not leak in a pack. Lets a player take notes, prices and sketches in the field without a surface or a bottle. Passive, no activation cost, genuinely common tier, a good small purchase for any scout or broker (suits Arya). Adapted from BKC-Files.
 - **Signature battle items** — rarer, build-defining gear tied to a specific playstyle rather than generic stats. Tatsuya's pieces below are this tier.
 
 ## Tatsuya's signature battle items (forward canon, not acquired yet)
@@ -21,6 +22,22 @@ Original to HGO, described functionally only, not modeled on or naming any outsi
 - **A back-mounted mobility rig.** Steampunk thruster pack, short controlled bursts rather than sustained flight, real mobility/repositioning tool consistent with his Speed-leaning build (`codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`). Fuel/charge-limited, not a permanent flight solution, a tool for disengaging or closing a gap fast, not a way to skip positioning entirely. **Physical Arts identity, pure SP:** a mechanical fuel/charge system, not magic in any way, straightforward SP draw per burst, no augment, no MP. Fits the same visual identity as the sidearm, tubes and tank included, reads as one coherent gear set rather than three unrelated gadgets.
 
 The doppelganger ring is acquired in the Chapter 10 fight (see above); the sidearm and mobility rig are not acquired on the page yet. **Open:** the page shows the ring at 60 MP against a 32 MP bar, while the entry above says SP-based. The page wins until ruled.
+
+## Charged Ward (adapted from BKC-Files)
+
+Provenance: adapted from the author's abandoned Beast King Chronicles (BKC-Files), recreated in HGO terms, not pasted.
+
+- **What it is.** A single-use defensive item, a small warded token or charm carried in a coat. It is charged when crafted. When a burst or lightning hit lands, it throws up a ward that absorbs the blow, then burns out and is gone. Rare tier, usually carried by veterans, guards and officers.
+- **Limit.** The ward absorbs up to the charge it was crafted with. A hit past that cap overloads it: the item breaks and the excess damage passes through, as in a berserk-grade blast overwhelming a Guard Marshal's ward in BKC. It will not save a player from a Crownfall-scale finisher.
+- **Identity.** Physical Arts item, small flat SP to ready it, no MP draw, consistent with the SP/MP rule above (the charge is baked in at crafting, not drawn from the user).
+- **Crafting.** Stub recipe in `codex/crafting/recipes-gadget-line.md`.
+
+## Open (items imported from BKC-Files)
+
+- Whether the Charged Ward belongs to the gadget line (Tatsuya's crafting) or to Enchanting or the spirit line is not set.
+- The ward's absorb cap, SP cost and rarity scaling are placeholders.
+- Whether the 72-hour lock interacts with an item that stops a killing blow (a ward that prevents a death, so no lock) is open.
+- Other BKC item-like entries noted but not recreated: the northern pauldrons that throw cold wind sideways, the church healer's Silver Chain worn at the throat as a doctrine focus, and the Amulet of Seranis (see `codex/lore/patrons-and-world-weapons.md`, another agent's file).
 
 ## World weapon, forward canon
 
