@@ -4,7 +4,7 @@
 
 ## Facts
 
-- Tatsuya got in on genuine merit, he tested in, smart and tech-savvy like his father, reinforced by Daichi's tech infrastructure contributions to the school.
+- Tatsuya got in on genuine merit, he tested in, smart and tech-savvy like his father, reinforced by Daichi's tech infrastructure contributions to the school and his own history there (student, instructor or donor-builder is Open).
 - He needs to go back: Tochi has the resources and curriculum required to maintain the first-gen pods long-term, and his path back runs through Chiyo's instructor position, Ohema's volleyball legacy, and Daichi's tech legacy. See `codex/subplots/tochi-academy-return.md`.
 - Yuna has also been at Tochi since elementary school.
 - Has a real, enforced zero-tolerance policy on bullying, hazing, and family-influence targeting students on campus, which is exactly why it's the one place in Japan the Tabuchis have no reach at all. Tatsuya was hazed there and chose not to report it, consistent with his instinct to absorb rather than escalate, even with real institutional backup available to him.
