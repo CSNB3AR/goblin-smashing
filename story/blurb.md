@@ -8,7 +8,7 @@ Full-dive virtual reality changed the world's biggest game into something closer
 
 In Hero's Glory Online, businesses buy in, guilds raise halls, and a few players are already making real money. Nobody expected a goblin to be one of them.
 
-Tatsuya Kazehaya has spent a year avoiding it. A friend's betrayal pushed him out of one of Tokyo's top schools and into a gas station, and the game is the one place that friend's name still follows him. Then a sale, a prize pool and a cheap drive opened a window. The debt was bigger than the grudge.
+Tatsuya Kazehaya has spent a year avoiding it. A friend's betrayal pushed him out of one of Tokyo's top schools and into a gas station, and the game is the one place that friend's name still follows him. A sale, a prize pool and a cheap drive tempted him, and he shrugged them off, until a letter from his father in an old manual told him whom to ask.
 
 One session on his father's old pod. A hardware glitch. The game's worst starting race, on a character he can never reset. A pending debt with his mother's life on the line.
 
@@ -20,7 +20,7 @@ A LitRPG progression fantasy told in first person. Rise from the bottom, slow bu
 
 **What to expect:**
 - LitRPG with real stat sheets, a full class and skill system, and a progression that actually compounds over time
-- Guild wars, a castle siege event and a world to build in, with a prize pool and a debt pushing every decision
+- Guild wars, a Siege battle royale and a world to build in, with a prize pool and a debt pushing every decision
 - Weak to strong from the absolute bottom, the kind of climb that has to be earned
 - Slow burn romance, rival arcs, found family, and real-world stakes running alongside the in-game climb
 - A long story. Act one is just the beginning.

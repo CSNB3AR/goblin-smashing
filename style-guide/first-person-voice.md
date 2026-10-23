@@ -13,6 +13,7 @@ Keep the author's sentences, rhythm, word choices and punctuation. Change only w
 - Anything he cannot perceive is cut or rerouted through what he sees, hears and infers. `Something in her expression settled` stays, because he reads it. `She was nervous` becomes what he sees her doing.
 - Inner thoughts, which the third-person draft set in quotation marks, become plain unquoted narration in the author's own words. Example: `"Damn, she's got me cornered."` becomes `Damn, she had me cornered.`
 - Dialogue stays in quotation marks. System text stays in bold brackets. Texts and on-screen written text stay in plain brackets.
+- Letters and notes from Dad appear in plain brackets as written text (not bold, not quotation marks), with the narrator's reaction in the next paragraph. Dad's letter in Chapter 1 follows this.
 - Tense stays past. Present-tense thought becomes past (`That's not good` becomes `That wasn't good`).
 
 ## What the story changes, beyond mechanics
@@ -21,7 +22,7 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 
 - HGO is not an esports story. Tatsuya avoids it because it reminds him of Eren. No analysts, scrims, pro talk or meta talk.
 - The WattsUp Corporation sponsors HGO, which is why the finale plays on the store screen.
-- Hearthfire, Season Zero, Crownfall (a one-off Siege Castle event, not a game mode), the 72-hour lock, shillings, Legacy Points, Lumi and open beta are used everywhere. The Siege Pro League and any Siege mode are never mentioned in Chapters 1 to 10.
+- Hearthfire, Season Zero, Crownfall (the guild-only Siege event that opens Season One and introduces the Siege battle royale), the 72-hour lock, shillings, Legacy Points, Lumi, patrons and open beta are used everywhere. Kazuku mentions a pro league once as an option in Chapter 1, and Tatsuya stays on the open-world path.
 
 ## Return to the body
 

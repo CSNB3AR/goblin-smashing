@@ -2,13 +2,15 @@
 
 This is the current, up-to-date map of the story. Start here.
 
-## Drafted (Chapters 1-9)
+## Drafted (Chapters 1-10, first person)
 
 - **Chapters 1-7** — finalized. See `outline/chapters-1-7-summary.md`, one accurate summary per chapter generated directly from the final committed prose in `chapters/chapter-01.md` through `chapters/chapter-07.md`.
 - **Chapter 8** ("Assembling the Assault Team") — drafted. See `outline/chapter-08.md` for its beat-by-beat reference and `chapters/chapter-08.md` for the prose.
 - **Chapter 9** ("Silence and Fire") — drafted. See `outline/chapter-09.md` for its beat-by-beat reference and `chapters/chapter-09.md` for the prose.
 
 ## What's next
+
+- **`outline/arc-one-open-beta-to-crownfall.md`**: Arc One (Open Beta, Crownfall, Hearthfire), the Battle of Thrash Hill, the split from the Thrash Clan, the guild founding and seasonal points path.
 
 - **`outline/act-one-winter-bash.md`**: the Crownfall arc (file name kept from the old Crownfall), picking up at the not-yet-drafted Chapter 10, running through the tournament's conclusion.
 - **`outline/act-two-haya-storm-rise.md`** — the Haya Storm Rise arc, picking up immediately after Act One closes: Tochi's sponsorship of Pac_Pac and Arya, the Tochi representative tournament and its real Eren-rivalry climax, the Inter-High tournament, and the roster growing to five.

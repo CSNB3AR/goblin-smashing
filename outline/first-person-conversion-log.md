@@ -90,3 +90,19 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 - Parked, not canon: Siege Pro League, Ember cores and crystals as match payouts, troop cap, no-lock rule, points shop, Ember-powered hall upgrades. Notes live in `codex/lore/hearthfire-expansion-and-seasons.md`.
 - Open items: whether the neutral-zone castle ties to a legendary world quest (hint only, undecided); whether Siege returns, and through another announcement or a different arc; the fate of the parked Ember and hall-power mechanics.
 
+
+## Addendum H
+
+### Chapters 2 and 3 (patron beat and letter)
+
+- NEW (chapter 2): the manual now holds Dad's letter (bear paw print signature) instead of the old note.
+- NEW (chapter 2): a short patron-selection beat after the race pick. Lumi's line (five patrons, choose one to follow) breaks off in the power blip and the goblin patron Seranis, goddess of the demi-humans, is applied by default. Cause of the default is not stated on the page (flagged).
+- NEW (chapter 3): the character sheet gains **[PATRON: SERANIS]**. No other patron is named.
+
+### Docs: outline, story, README, style (Addendum H)
+
+- **Arc One file.** New `outline/arc-one-open-beta-to-crownfall.md`: Open Beta, Crownfall (Season One opener, introduces the Siege battle royale), Hearthfire; Battle of Thrash Hill; the split from the Thrash Clan; Archives floor one; selling legacy drops through Arya; PK_Wraith blackmail and framing; founding a guild because Crownfall is guild-only; open-beta seasonal points rolling into Season One; the troop edge; the Staff of the Mist God (Seranis) as a forward Shiv set piece.
+- **Chapter 1 summary and outlines** now describe: Tatsuya shrugging off the ad, the EB dying on the ride home, Dad's letter with a bear paw print, "bring your business here" clicking, then buying the drive and the rig. Kazuku's ad mentions open beta rolling into Season One, the rig discount, guild-only Crownfall and a pro league option. The finale is guerrilla warfare: Knights hide in the walls, a kill zone at the choke, Aogiri's poisoned leader waits too long and dies, the banner ends.
+- **Story files and README.** Premise, blurb, Discord text and README now say Siege is a battle royale introduced at Crownfall, a pro league is an option, and the story stays not-esports with Tatsuya on the open-world path. The old "no Siege Pro League" wording is superseded.
+- **Style.** `style-guide/first-person-voice.md` notes that Dad's letters and notes appear in plain brackets.
+- **Open items.** Crownfall heats and bracket size under the five-guild format; sword versus great axe and the res cadence for the Seranis staff (seven days used); "one of the holders" at Thrash Hill; whether the letter's exact wording is final. Note: Chapter 1 currently shows texts and Dad's letter in bold brackets, while `style-guide/craft-rules.md` says plain brackets.
