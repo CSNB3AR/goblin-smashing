@@ -41,6 +41,29 @@ Not a hard racial lock, no race is pre-assigned a school. It comes from backgrou
 - **Amplify magic** — a caster can spend extra MP to push a known spell's effect temporarily above the tier they've actually unlocked, at real cost and real risk (see `codex/lore/hp-sp-mp-resource-pools.md`), a genuine gamble, not a safe stat purchase. Bone Surge's own Amplify mode (`codex/objects/call-of-the-bones-necklace.md`) is a once-a-day, free, Fortune-scaled version of this same general concept, specific to Tatsuya and the necklace, the two aren't the same system but read as the same family of idea.
 - **Dual-casting** — maintaining two spells' effects active at the same time, a real Wisdom-gated difficulty spike rather than something any caster can do casually.
 
+## Open: possible school names for HGO's seven books
+
+The author's abandoned *Beast King Chronicles* (BKC-Files) names seven magic schools with a Latin root pattern, each with a base entry spell that uses the school name alone. Recorded here as optional names only. **No existing book or spell is renamed**, and nothing here is decided.
+
+| BKC school | BKC name | Loose HGO counterpart |
+|---|---|---|
+| Fire | Ascentio | Book of Embers |
+| Wind | Ventara | Book of Tempest (shared) |
+| Light | Lumenara | Book of Radiance (the Lumenara line is already adapted there) |
+| Earth | Terrava | Book of Stone |
+| Lightning | Fulgara | Book of Tempest (shared) |
+| Dark | Umbrava | Book of the Veil |
+| Water | Aquara | Book of Frost (closest fit) |
+
+Notes:
+- **Book of the Arcane** has no BKC counterpart.
+- **Book of Tempest** might cover both wind and lightning, so two BKC schools land on one HGO book.
+- **Book of Frost** covers ice rather than water, so Aquara is only a rough match.
+
+**Open**
+- Whether any BKC school names are used as in-world names, as flavor, or not at all.
+- How to handle the Tempest overlap (one name, or an in-world split).
+
 ## Cross-references
 
 Split out of `codex/lore/magic-tier-system.md` and `codex/lore/magic-affinities.md` (both superseded by this folder, kept in `codex/lore/` only if a stray non-school-specific cross-reference still needs them, otherwise treat this folder as current).
