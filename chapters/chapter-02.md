@@ -190,13 +190,19 @@ A small bead of light drifted out of the white and settled at eye level, bobbing
 
 A mascot. Of course there was a mascot. I let out one breath through my nose, almost a laugh, and kept my eyes on the bead of light.
 
+The bead bobbed higher, plainly pleased with itself, and kept talking.
+
 ***[First, a little about where you're going! Hero's Glory Online isn't an arena or a lobby. It's a second world. Everything you earn stays with you, the people you meet remember what you do, and nothing resets when you log off.]***
 
 I knew all of that. Taji had recited it at the breakfast table like scripture, and I had tuned out every word. I dug the heel of my hand into one eye, still stinging from the pod's first white flash, and let her keep going.
 
+Lumi swirled in a lazy circle, trailing a few sparks, and her voice dropped into the tone of someone sharing a secret.
+
 ***[Eryndal is watched over by five patrons! Each one favors a people and gifts them something no one else gets. Seranis, goddess of creation, watches over the demi-humans. The others watch over the elves, the humans and the dwarves. And the fifth? Their gifts come with a price, so most adventurers keep their distance!]***
 
 Five gods, one of them bad news. Eren would have had his pick memorized by now. I rolled my shoulders, the pod's padding squeaking against my jacket, and decided I could care about it after I'd picked a face.
+
+The bead bounced once in the air, as if the whole speech had been rehearsed for me alone.
 
 ***[Choose your race, and the patron who favors it will bless you. Ready? Let's begin!]***
 

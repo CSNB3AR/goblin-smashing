@@ -613,9 +613,7 @@ Then a fifth marker blinked into being beside the others, small and pale, where 
 
 Joss was an enchanter. An enchanter's legacy item. I turned the ring over once in my palm, the mist inside it moving against the silver. A duplicate of me. And it cost sixty mana to light it. I had thirty-two on a full bar.
 
-I slipped it into my inventory anyway. A copy of myself on a ring was too good a thing to leave in the dirt, even if it was a long way out of reach.
-
-Forward problem.
+I slipped it into my inventory anyway. A copy of myself on a ring was too good a thing to leave in the dirt, even if it was a long way out of reach. That was a problem for later.
 
 The last of the fog cleared and cold air came in off the hillside, carrying the smell of scorched canvas and the chemical bite of gas. Frost was already forming again on the grass at my feet, tiny crystals catching the moonlight.
 
