@@ -55,7 +55,7 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 - "How the big guilds and top leaders grew so fast" became "a lot of eyes landed on whoever happened to be live".
 - "First real team fight. Nothing like anything I'd watched on a screen" and the "big dogs" line were cut for the plain stakes: real people with real gear and a real reason to put me down.
 - Haruto's Loop post stays as guild drama in the beta. The Dosuke AI paragraph is cut.
-- Crownfall "fifteen days out, not with no team locked in yet" and the three-day lock are kept.
+- Crownfall "thirteen days out, not with no team locked in yet" and the three-day lock are kept.
 
 ## Chapter 9
 
