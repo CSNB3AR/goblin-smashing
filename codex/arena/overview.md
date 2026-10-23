@@ -10,7 +10,7 @@ A player has to reach character level 5 before they can open queue for any arena
 
 Any player who's unlocked the arena (level 5+) can teleport directly into the arena hub from anywhere in the world, no travel required. But the arena hub itself is a **locked zone**: a player who teleports in can queue, spectate, and use whatever's inside the hub itself, but cannot walk out into the surrounding city/region without the right access, a **city pass or visa** for that specific zone. A player who hasn't unlocked or earned access to wherever the arena happens to be regionally tied to is stuck inside the arena hub itself until they teleport back out the way they came. This mirrors the same "guards won't let you in without the right paperwork" logic already established for Lunarest's restricted zones (see `codex/locations/grand-library-of-lunarest.md`), just applied to a standing PvP venue instead of a one-time location.
 
-Functionally, this makes the arena hub a genuine neutral ground, similar in spirit to Crownfall's host-venue concept (see `codex/pro-scene/crownfall-siege-event.md`) but permanent and always-open rather than a once-a-year event, anyone level 5+ can show up and queue regardless of what regions they've actually unlocked in the wider world.
+Functionally, this makes the arena hub a genuine neutral ground, similar in spirit to Crownfall's host-venue concept (see `codex/pro-scene/crownfall-siege-event.md`) but permanent and always-open rather than a single event, anyone level 5+ can show up and queue regardless of what regions they've actually unlocked in the wider world.
 
 ## Matchmaking
 

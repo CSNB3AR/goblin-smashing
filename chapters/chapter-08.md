@@ -66,6 +66,7 @@ Okay. So them attacking us had triggered a new quest. I dismissed the notificati
 **[ENERGY: 4]**
 
 **[ABILITIES]**
+**[GOBLIN GAS]**
 **[SHIV-TOUCHED FLARE – TIER 1]**
 **[CALL OF COMMAND – TIER 1]**
 **[RUNE PRIMING – TIER 3]**
@@ -145,7 +146,7 @@ Ru's tusks caught the lamplight as his mouth pulled into something that wasn't q
 
 The lid hissed open and the ceiling of the operator's booth swam into focus, too bright after however many hours my eyes had actually been closed. I sat up slow, joints stiff in a way that made me wince, and the VRSA inspector was already crouched at the monitor bay, panel open, tools laid out in a neat row on a cloth beside him.
 
-Leon stood next to him, one hip braced against the monitor bay, glasses slipping slightly down his nose, and he looked up the second I sat up. "Hey. I think the pods started to overheat, might be from the streaming. We may have to consider not doing that for as long, until we get the new parts in. But we can talk about that later."
+Leon stood next to him, one hip braced against the monitor bay, glasses slipping slightly down his nose, and he looked up the second I sat up. "Hey. I think the monitor started to overheat, might be from the streaming. We may have to consider not doing that for as long, until we get the new parts in. But we can talk about that later."
 
 "For sure, man, that was crazy. My heart's still pounding from the rush." I pushed myself off the pod's edge and rolled my neck until something popped.
 
@@ -213,7 +214,7 @@ The reply came back faster than I expected.
 
 That was Gato for you. The corner of my mouth pulled flat, something close to a smile before it was gone.
 
-I splashed more water on my face, the cold biting against my skin, and gripped the edge of the sink with both hands. Three days locked out if I died down there. Three days I didn't have, not with Crownfall sitting fifteen days out, not with no team locked in yet. This was the first real fight I'd ever be in against actual players, not scripted mobs, and right now it was still just me and Ru walking into it.
+I splashed more water on my face, the cold biting against my skin, and gripped the edge of the sink with both hands. Three days locked out if I died down there. Three days I didn't have, not with Crownfall sitting thirteen days out, not with no team locked in yet. This was the first real fight I'd ever be in against actual players, not scripted mobs, and right now it was still just me and Ru walking into it.
 
 My grip on the sink tightened once, then loosened. Real people on the other end this time, with real gear and a real reason to put me down. I chuckled to myself, adrenaline forming.
 

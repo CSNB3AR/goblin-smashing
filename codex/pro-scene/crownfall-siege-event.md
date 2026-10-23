@@ -2,7 +2,7 @@
 
 **Status:** Forward-plot, not yet on the page. Replaces the old Winter Bash (same December 25th date, same countdown from the story's opening, same 10 million yen prize pool). The old file `codex/pro-scene/winter-bash-tournament.md` is now a redirect stub.
 
-Crownfall is the **Season One opener for seasonal points** and the **introduction of the Siege format**, a guild-only open-beta event hosted by HGO in the week between the Hearthfire announcement and the launch. It is the gateway event Tatsuya's early arc runs toward. It prepares everyone for the larger-scale conflict that follows: the war the story is about is Node Wars (see `codex/lore/hearthfire-expansion-and-seasons.md`). The event takes place in a **neutral zone** that may tie back to a legendary world quest (a rumor and a hint only, undecided). The standing competitive option built on the same format is the Siege Pro League, active from the start of Season One (see the Hearthfire doc, "Siege and the Siege Pro League").
+Crownfall is the **Season One opener for seasonal points** and the **introduction of the Siege format**, a guild-only open-beta event hosted by HGO in the weeks between the Hearthfire announcement and the launch. It is the gateway event Tatsuya's early arc runs toward. It prepares everyone for the larger-scale conflict that follows: the war the story is about is Node Wars (see `codex/lore/hearthfire-expansion-and-seasons.md`). The event takes place in a **neutral zone** that may tie back to a legendary world quest (a rumor and a hint only, undecided). The standing competitive option built on the same format is the Siege Pro League, active from the start of Season One (see the Hearthfire doc, "Siege and the Siege Pro League").
 
 ## What kind of event it is
 
@@ -53,6 +53,6 @@ The name comes from the king's fall. King Aldemar is dying, and he dies around t
 
 - Heats, bracket size, regions and the final session format under the 5-guild format.
 - Whether the neutral zone ties to a legendary world quest (hint only).
-- Whether the 60-life rule or the 72-hour lock applies at Crownfall (now: 60 lives).
+- OPEN: whether Crownfall uses the Siege 60-life rule or the 72-hour death lock is.
 - The old level-25 new-region cap is unconfirmed.
 - Whether the expansion should be called Crownfall (Hearthfire stays for now).

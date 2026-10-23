@@ -44,7 +44,7 @@ The king dies around the start of Season One, about when the Thrash Clan heads b
 
 - **Session.** 5 guilds per session, 20 players per guild (comps sorted any way the guild likes). Match length **3 hours**.
 - **Start.** Each guild begins at an **outskirts-like camp** at spawn. It must gather a set amount of resources to upgrade the camp to **level 3**, at which point it becomes a **fort**.
-- **Flag and lives.** Each guild has a **guild flag** and **60 total lives** (3 waves of 20). The 60 lives replace the 72-hour death lock inside the mode.
+- **Flag and lives.** Each guild has a **guild flag** and **60 total lives** (3 waves of 20). The 60 lives replace the 72-hour death lock inside the Siege Pro League; whether Crownfall uses the Siege 60-life rule or the 72-hour death lock is OPEN.
 - **Play.** Guilds fight for resources, strategize and survive in a battle-royale setting. Forts are built creatively with items and magic, which is what opens up warfare. It takes tactics.
 - **Rewards.** The winning guild earns **shillings and Ember cores**.
 - **Not Node Wars.** Node Wars last weeks and months. A Siege session is a three-hour contained match.
@@ -93,7 +93,7 @@ After the world maps release, the war the story is about is **Node Wars across t
 ## Season Zero finale
 
 - The finale week cuts the top eight guilds, **two per day**, with the final four set by the weekend. Dosuke AI's group is eliminated on Saturday. Cut guilds can still play but earn no points.
-- **Sunday final: the Battle of the Snowy Plains.** 300 points, 12 Aogiri players (Japan) against 20 London Spire (UK, called the Knights of the London Spire as an epithet, the guild name stays London Spire), after attrition from the 72-hour death locks. Season points going in: London Spire 10,500, Aogiri 10,250. The battle is worth 300, so Aogiri must win it to take the season and London Spire only has to hold. About two hours remain on the final window when Yuna recaps. Japan holds a winnable position and overplays it.
+- **Sunday final: the Battle of the Snowy Plains.** 300 points, 12 Aogiri players (Japan) against 20 London Spire (UK, called the Knights of the London Spire as an epithet, the guild name stays London Spire), after attrition from the 72-hour death locks. Season points going in: London Spire 10,500, Aogiri 10,250. The battle is worth 300, so Aogiri must win it to take the season and London Spire only has to hold. About two hours remain on the final window when Yuna recaps. Aogiri holds the zone but its leader never decides and the position collapses.
 - **Setting.** An open-world fight, not an arena and not a teleport match. A small walled medieval city-state in the snowy plains (Arendelle-like: snow, a city hall, small houses, bunkers). The town is unnamed, name left open. Singapore is where Yuna and the crowd are, the fight is in-world.
 - **Zone rules (king of the hill).** The zone reads CONTESTED while both guild banners stand in it. A guild that holds it alone for ten uncontested minutes becomes the zone leader and wins the battle. The same rule scales up once territories apply.
 - **Tactical picture (guerrilla warfare).** The Knights of the London Spire hide **within the walls** and ambush anyone from Aogiri who comes in. They built a **kill zone at the choke point** (the gate and the street funnel) and strike from hidden positions. Aogiri's leader is stuck inside the town hall with 11 others (12 total) and their banner. The leader has been **poisoned** and needs **antidotes** that only reinforcements can bring. Every player who dies goes on the **72-hour death lock**, so the reinforcement pool only shrinks, and those who come back keep trying to push the choke into the prepared kill zone, wave after wave, never together. The plains have deep caverns, a flank route nobody uses. The right play was to cure the leader first or break out together, hold the antidote pass and time the waves. Instead the leader makes no decision, waits too long and lets his health drop until he **dies**. The **banner is bound to its leader**, so the flag ends, and the Knights hold the ten uncontested minutes.
@@ -125,7 +125,7 @@ After the world maps release, the war the story is about is **Node Wars across t
 
 ## Locks
 
-- **Death lock: a flat 72 hours** in raids, skirmishes, node wars and the open world. **Siege sessions use the 60-life rule instead** (Crownfall and the Siege Pro League), so the lock does not apply inside the mode (flagged: whether Crownfall also carries the lock, see Open items).
+- **Death lock: a flat 72 hours** in raids, skirmishes, node wars and the open world. **Siege Pro League sessions use the 60-life rule instead**, so the lock does not apply inside the league; whether Crownfall uses the Siege 60-life rule or the 72-hour death lock is OPEN.
 - **Pass-out lock: 24 hours** by default, shorter than the death lock. Not yet dramatized, treat as provisional (see `codex/lore/preserved-misc-mechanics.md`).
 - The Chapter 4 "[TIME LIMIT: 7 DAYS IN-GAME]" is a quest timer and is separate from the death lock.
 
@@ -152,7 +152,7 @@ The systems above are the stage, not the story.
 - Funeral truce: length, and whether it covers Lunarest only or the whole map.
 - Pass-out lock (24 hours) is a default, not a ruling.
 - Whether Crownfall keeps the old level-25 new-region cap is unconfirmed.
-- Whether Crownfall carries the 72-hour lock or the Siege 60-life rule (now: 60 lives).
+- OPEN: whether Crownfall uses the Siege 60-life rule or the 72-hour death lock is.
 - Whether the Crownfall neutral zone ties to a legendary world quest (hint only, undecided).
 - Crownfall heats, bracket size and regions under the 5-guild format.
 - Siege Pro League: whether full loot, no rebound and the troop cap hold for the battle-royale format.

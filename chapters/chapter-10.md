@@ -6,7 +6,7 @@ The tent had gone deep while I was out, the single oil lamp guttered low, shadow
 
 The smell hit before my eyes finished adjusting. Smoke, not the usual rotting-camp kind, but something sharper underneath, the bite of burned material rather than cook fire. My body turned toward the tent entrance before the thought caught up. I stopped myself. Turned back. Get the gear on first.
 
-Two items resettled on me as the game registered my full presence. The Gambler's Earring found my left ear again, the small specific weight of the thing, the single die of it pressing against my lobe in a way I'd half-forgotten across the session out. The Call of the Bones necklace landed a breath behind, warmth returning low against my sternum, the bone pendant swinging once and going still. The leather chest plate was already there from before the log-out, buckles sitting loose. I found the straps and cinched them down, the worn leather pulling snug against my ribs on the second try.
+Two items resettled on me as the game registered my full presence. The Gambler's Earring found my right ear again, the small specific weight of the thing, the single die of it pressing against my lobe in a way I'd half-forgotten across the session out. The Call of the Bones necklace landed a breath behind, warmth returning low against my sternum, the bone pendant swinging once and going still. The leather chest plate was already there from before the log-out, buckles sitting loose. I found the straps and cinched them down, the worn leather pulling snug against my ribs on the second try.
 
 **[COMMON GOBLIN LEATHER CHEST]**
 **[+1 ENERGY] [COMMON]**
@@ -108,13 +108,13 @@ I dropped my hand from the post. "Two other things. If you haven't caught it on 
 
 "Bet." I glanced toward the tent flap, toward the gray haze visible through the gap. "One more thing. Can you check if HGO's dropped any patch notes or updates? A lot of what's happening with this garrison system, this World Quest, it all feels like new space. Someone told me we might be in a rare window." I didn't name her. "I want to know if the update is still rolling out."
 
-"Give me a sec." Keys on Leon's end, fast and deliberate, then a pause. "Okay, looking at it. The Hearthfire expansion is dripping small updates throughout the game because of how big it is, but they're not dropping full patch notes until after the seventy-two-hour sale window closes." Another pause. "Which is about sixteen hours from now, based on when the finale wrapped."
+"Give me a sec." Keys on Leon's end, fast and deliberate, then a pause. "Okay, looking at it. The Hearthfire expansion is dripping small updates throughout the game because of how big it is, but they're not dropping full patch notes until after the seventy-two-hour sale window closes." Another pause. "Which is about twenty-six hours from now, based on when the finale wrapped."
 
 One of my pointed ears twitched at the rapid clatter of keys, a habit this body had picked up without asking.
 
-"Sixteen hours." I let that land. The rare-space read was real. The person who'd told me that knew exactly what she was looking at. "That confirms it. Thanks."
+"Twenty-six hours." I let that land. The rare-space read was real. The person who'd told me that knew exactly what she was looking at. "That confirms it. Thanks."
 
-"Yeah." Leon's chair shifted. "Also, heads-up on the stream. Once you're close to actually engaging down there, I'll flip it live. We've been careful about the pod running hot, so I'm holding until you're actually moving." A pause, something more personal under it. "Got some info about the parts situation that we should talk about face-to-face when you're out."
+"Yeah." Leon's chair shifted. "Also, heads-up on the stream. Once you're close to actually engaging down there, I'll flip it live. We've been careful about the monitor running hot, so I'm holding until you're actually moving." A pause, something more personal under it. "Got some info about the parts situation that we should talk about face-to-face when you're out."
 
 "That works," I said. "Let me know the second it goes live so I'm not caught off guard. And after any engagement, kill the feed right after. I don't want to be immediately targeted if these people have friends watching."
 
@@ -507,7 +507,7 @@ Ru moved first, his massive frame swallowed by the white a heartbeat later. Rott
 
 Green haze started bleeding up through the white like smoke from wet fire, thick and low, pouring in from three sides at once, sickly and wrong against the pure white of the fog.
 
-**[GOBLIN GAS: ACTIVE, THREE SOURCES]**
+**[GOBLIN GAS AND TOXIC BREATH: ACTIVE, THREE SOURCES]**
 **[POISON STACK: 4x, ACCELERATED]**
 **[ENEMIES WITHIN RADIUS: POISONED, MOVEMENT SLOWED, NAUSEOUS]**
 
@@ -547,7 +547,7 @@ The explosion resolved into a battle report across my HUD, every ability that ha
 
 **[BATTLE REPORT: RED TENT]**
 **[HUSHVEIL (ADVANCED): ARYA, TIER 6: SILENCE, BLIND, 15-SECOND DURATION]**
-**[GOBLIN GAS x3: RU, ROTT, NAB: STACKED APPLICATION]**
+**[GOBLIN GAS x2, TOXIC BREATH x1: ROTT, NAB, RU: STACKED APPLICATION]**
 **[POISON STACK: 4x, ACCELERATED: DAMAGE OVER TIME ACTIVE]**
 **[RUNE PRIMING x3: T_DRAG: STRATEGIC PLACEMENT]**
 **[ANCIENT BONE FLAME BARRAGE: T_DRAG: TIER 5]**

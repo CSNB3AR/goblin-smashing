@@ -28,4 +28,4 @@ See `codex/objects/hgo-access-drive.md` for the resulting drive-color mechanic.
 
 ## Choosing a patron
 
-At the start of the game a player also **chooses a patron to follow**. There are five patrons and each race leans toward one (dwarves follow a patron, goblins follow a patron). **Seranis** blesses demi-humans and is the goblins' patron (see `codex/lore/patrons-and-world-weapons.md`). In Tatsuya's case Lumi's walkthrough is interrupted by the power cut and the goblin glitch, so how his patron is applied is open.
+At the start of the game a player also **chooses a patron to follow**. There are five patrons and each race leans toward one (dwarves follow a patron, goblins follow a patron). **Seranis** blesses demi-humans and is the goblins' patron (see `codex/lore/patrons-and-world-weapons.md`). In Tatsuya's case (Chapter 2) Lumi's walkthrough is cut off by the power blip and the patron is assigned by default as Seranis, goddess of the demi-humans; the cause of the default is OPEN.

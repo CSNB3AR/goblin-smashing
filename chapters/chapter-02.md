@@ -98,7 +98,7 @@ I rattled it off from memory, 4472-KAZE, and watched the guy scan something on h
 
 Outside, the sun was already dropping behind the buildings, late-afternoon light going orange at the edges, the kind of light that said you had maybe an hour before everything went dark. I squinted against it and shaded my eyes with one hand. I checked my phone. 4:22 PM. Sakura Arcade's free window opened in thirty-eight minutes, and I still had to get all the way back across town to Shibuya, navigate whatever traffic was clogging up the main routes, and hope the place actually existed and wasn't just some abandoned storefront with a listing nobody had bothered to take down.
 
-I pulled my helmet on, the visor clicking into place with the sound I'd heard every morning for two years, and kicked the Haya EB to life. The engine caught on the first try, humming up through my palms the way it always did when it was actually behaving, and I opened it up down the nearest stretch of clear road, downtown thinning out into the streets I actually knew, the ones that didn't make me feel like I was trespassing just by being there.
+I pulled my helmet on, the visor clicking into place with the sound I'd heard every morning for two years, and kicked the Haya EB to life. The motor caught on the first try, humming up through my palms the way it always did when it was actually behaving, and I opened it up down the nearest stretch of clear road, downtown thinning out into the streets I actually knew, the ones that didn't make me feel like I was trespassing just by being there.
 
 • • •
 

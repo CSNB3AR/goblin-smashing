@@ -5,9 +5,9 @@
 ## Facts
 
 - Buffs and minuses. Not detailed yet.
-- **Resurrection:** the staff carries Seranis's domain of life and resurrection, and raises a fallen player once every **seven days** (the dictation also said once a day and every 24 hours, seven days used). It matters because a dead player sits out a 72-hour death lock.
+- **Resurrection:** the staff carries Seranis's domain of life and resurrection, and raises a fallen player once every **seven days** (once a day and every 24 hours were also proposed; seven days is used and the cadence is OPEN). It matters because a dead player sits out a 72-hour death lock.
 - Lets Tatsuya **stack enchantments faster at lower MP cost**, and is a strong magic tool.
-- **Three forms**, chosen by the user: sword (the dictation also said great axe), staff, and a two-handed **energy rifle / gadget gun-blade**. Tatsuya picks the gun-blade, since it lets him shoot and move while casting through the staff.
+- **Three forms**, chosen by the wielder: sword (great axe was also proposed, OPEN), staff, and a two-handed **energy rifle / gadget gun-blade**. Tatsuya picks the gun-blade, since it lets him shoot and move while casting through the staff.
 - Distinct from the **Shivbone Staff** (Legendary drop given to Arya in chapter 10).
 - Related relic: the **Amulet of Seranis** (`codex/objects/amulet-of-seranis.md`). Whether the necklace is her relic (Option A) or the amulet is a separate sister relic (Option B) is open, see the patrons doc.
 
