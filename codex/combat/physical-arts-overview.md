@@ -12,6 +12,11 @@ Structured the same rough way the magic tier system is (`codex/magic/overview.md
 - **Tier 6** — signature techniques, distinctive enough to be recognized by other players/NPCs on sight.
 - **Tier 7** — battlefield-altering signature moves, rare, most Physical Arts practitioners never get here.
 
+## Naming and one heavy-target technique
+
+- **Reinforced Arts (northern term).** In the northern holds and among mountain and frontier fighters, Physical Arts is called Reinforced Arts, mana pushed into the body and weapon. Same system, different name, a flavor note rather than a separate skill tree.
+- **Upheaval.** A named lifting strike that drives under a heavy target's guard and flips it, used against large creatures and armored brutes. A mid-tier technique (roughly Tier 4-5) available to any category that can get a weapon or fist under the target, open to the martial-master rule below. Whether it lives under one Way or is shared across several is left open.
+
 ## Weapon categories
 
 One file per category, each with a representative tiered move list (not exhaustive, flagged as expandable in each file):
