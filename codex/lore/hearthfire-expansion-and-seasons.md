@@ -152,7 +152,7 @@ The systems above are the stage, not the story.
 - Funeral truce: length, and whether it covers Lunarest only or the whole map.
 - Pass-out lock (24 hours) is a default, not a ruling.
 - Whether Crownfall keeps the old level-25 new-region cap is unconfirmed.
-- OPEN: whether Crownfall uses the Siege 60-life rule or the 72-hour death lock is.
+- OPEN: whether Crownfall uses the Siege 60-life rule or the 72-hour death lock.
 - Whether the Crownfall neutral zone ties to a legendary world quest (hint only, undecided).
 - Crownfall heats, bracket size and regions under the 5-guild format.
 - Siege Pro League: whether full loot, no rebound and the troop cap hold for the battle-royale format.

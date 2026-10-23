@@ -53,6 +53,6 @@ The name comes from the king's fall. King Aldemar is dying, and he dies around t
 
 - Heats, bracket size, regions and the final session format under the 5-guild format.
 - Whether the neutral zone ties to a legendary world quest (hint only).
-- OPEN: whether Crownfall uses the Siege 60-life rule or the 72-hour death lock is.
+- OPEN: whether Crownfall uses the Siege 60-life rule or the 72-hour death lock.
 - The old level-25 new-region cap is unconfirmed.
 - Whether the expansion should be called Crownfall (Hearthfire stays for now).

@@ -1,6 +1,6 @@
 # Varekhold
 
-**Type:** In-game location, Eryndal. A mountain fortress on the northern coast of Valefrost. Forward material, not yet on the page.
+**Type:** In-game location, Eryndal. A mountain fortress above a cold coast in Valefrost (which coast is OPEN). Forward material, not yet on the page.
 
 ## Facts
 

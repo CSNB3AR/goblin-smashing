@@ -18,7 +18,7 @@ A small walled medieval city-state in the snowy plains of Lunarest, Arendelle-li
 
 ## Places by region (forward material)
 
-- **Valefrost (north):** the **Ashenveil Forest and Mountains** (`codex/locations/ashenveil-forest.md`) divide the southern lowlands from the northern holds. **Skaldmere** (`codex/locations/skaldmere.md`) is the waypost town on the approach, **Varekpass** (`codex/locations/varekpass.md`) the garrison pass beyond it, and **Varekhold** (`codex/locations/varekhold.md`) the mountain fortress on the northern coast. The **Barren Lands** (`codex/locations/barren-lands.md`) are the contested zone on the southern lowlands where the first big guild clashes land once the map opens.
+- **Valefrost (north):** the **Ashenveil Forest and Mountains** (`codex/locations/ashenveil-forest.md`) divide the southern lowlands from the northern holds. **Skaldmere** (`codex/locations/skaldmere.md`) is the waypost town on the approach, **Varekpass** (`codex/locations/varekpass.md`) the garrison pass beyond it, and **Varekhold** (`codex/locations/varekhold.md`) the mountain fortress above a cold coast (which coast is OPEN). The **Barren Lands** (`codex/locations/barren-lands.md`) are the contested zone (placement on Valefrost's southern lowlands is the working read, OPEN) where the first big guild clashes land once the map opens.
 - **Myrrhwood (west):** **Khen-Mora** (`codex/locations/khen-mora.md`) is the border march on the Beastfolk side facing goblin territory.
 - These are node and hall sites for Node Wars (towns, resource sites, forts), not capitals.
 
