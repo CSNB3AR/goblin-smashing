@@ -90,7 +90,7 @@ Stream dropped. That wasn't good. I dismissed it, already knowing what was comin
 
 Leon's voice cut in a moment later, no longer quiet, no longer careful, the tone tight enough to pull my focus away from the tent entirely.
 
-"I need you now," Leon said. "The monitor's not holding, I can't see anything on my end, and VRSA's going to be on my ass if I let this slide any longer. Ten minutes, that's all I'm asking."
+"I need you now," Leon said. "The feed's not holding, I can't see anything on my end, and VRSA's going to be on my ass if I let this slide any longer. Ten minutes, that's all I'm asking."
 
 Damn, it had to be at the most inconvenient time. I couldn't push Dad's old pods without the repairs, or have VRSA close it down before I could even do that. I rolled my shoulders once before I answered.
 

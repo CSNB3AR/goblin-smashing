@@ -456,15 +456,15 @@ Arya resolved out of the dark a moment later, half hidden behind a thick trunk t
 
 Arya's frown deepened, the glow on her staff brightening for half a second and then dimming back down. "You want Hushveil."
 
-"Advanced version, full radius." I turned to meet her eyes across the gap, moonlight catching in her red hair. "Cover the whole tent, not just the road."
+"The silence upgrade, full radius." I turned to meet her eyes across the gap, moonlight catching in her red hair. "Cover the whole tent, not just the road."
 
-She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot of mana for that big a radius. Tier six at full size will eat most of what I've got." Her knuckles went white on the staff. "And I can't hold it forever once it's live. Everyone has to be in position before it runs dry."
+She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot of mana for that big a radius. Tier three at full size will eat most of what I've got." Her knuckles went white on the staff. "And it only lasts a few seconds once it's live. Everyone has to be in position before it drops."
 
-"You've got it," I said, my voice steady, my weight settling. "Once it lands, they can't see, can't cast, can't cleanse anything. They're not going anywhere until I want them to."
+"You've got it," I said, my voice steady, my weight settling. "Once it lands, they can't see, can't cast, can't cleanse anything. They're not going anywhere for as long as it holds."
 
 I signaled toward the treeline. Rott and Nab were already crouched in the shadows twenty feet away, their eyes catching the firelight from camp behind them, and they jogged over low and quiet with the pouches at their belts barely shifting. Ru came in behind them, moving carefully around the arm he still kept pressed to his ribs.
 
-"Three walls, three of you, one each," I said, crouching to their level and meeting their eyes one at a time. "Wait for the fog. Don't move until it's down, and have your blades out before you step in, or the fog takes your skills right along with theirs." I tapped the pouches at Rott's belt, the leather worn smooth under my clawed finger. "Once you're in, gas together. Same moment, not one after another. Three of you hitting it at once stacks faster than any of you could manage alone."
+"Three walls, three of you, one each," I said, crouching to their level and meeting their eyes one at a time. "Wait for the fog. Don't move until it's down, and stay clear of Arya's side of it, because the fog doesn't pick who it hits." I tapped the pouches at Rott's belt, the leather worn smooth under my clawed finger. "Once you're in, gas together. Same moment, not one after another. Three of you hitting it at once stacks faster than any of you could manage alone."
 
 Rott nodded and scratched at his head with one clawed hand, his fingers catching in the matted hair, his eyes darting between me and the tent. "Rott understands. Gas together. Stack fast."
 
@@ -496,7 +496,7 @@ I looked at the tent one more time, at the shapes of four people inside it who h
 
 The fog rolled down off Arya's staff like something poured rather than cast, thick and white and impossibly dense, swallowing the tent whole in seconds and moving like liquid down the hillside. The canvas walls vanished into it. The road vanished into it. The temperature dropped another few degrees as the spell settled, and frost crackled faintly across the grass at my feet, ice forming in spiderweb patterns around my boots. The silence that came with it pressed down over the hillside like a hand.
 
-**[HUSHVEIL (ADVANCED): ACTIVE]**
+**[HUSHVEIL (SILENCE): ACTIVE]**
 **[ENEMIES WITHIN RADIUS: SILENCED, BLINDED]**
 
 They couldn't see the walls anymore. Couldn't cast anything. Couldn't cleanse anything that hit them inside it. Perfect.
@@ -546,7 +546,7 @@ A cold drain moved through the center of my chest, the kind that happened when s
 The explosion resolved into a battle report across my HUD, every ability that had fired in the last thirty seconds listed in clean order.
 
 **[BATTLE REPORT: RED TENT]**
-**[HUSHVEIL (ADVANCED): ARYA, TIER 6: SILENCE, BLIND, 15-SECOND DURATION]**
+**[HUSHVEIL (SILENCE): ARYA, TIER 3: SILENCE, BLIND, 12-SECOND DURATION]**
 **[GOBLIN GAS x2, TOXIC BREATH x1: ROTT, NAB, RU: STACKED APPLICATION]**
 **[POISON STACK: 4x, ACCELERATED: DAMAGE OVER TIME ACTIVE]**
 **[RUNE PRIMING x3: T_DRAG: STRATEGIC PLACEMENT]**
@@ -560,7 +560,7 @@ Four nameplates flickered and died in rapid succession, the kill notifications s
 **[JOSS: DEFEATED]**
 **[SPELLWEAVER_LYN: DEFEATED]**
 **[KILL CREDIT: T_DRAG, 4]**
-**[PARTY CONTRIBUTION: ARYA, HUSHVEIL (ADVANCED), ASSIST CREDITED]**
+**[PARTY CONTRIBUTION: ARYA, HUSHVEIL (SILENCE), ASSIST CREDITED]**
 
 Almost all my mana in one shot. Worth every point. I swayed on my feet, the afterimage of the blast still burned across my eyes, and I blinked it down.
 
@@ -623,7 +623,7 @@ Arya stepped up beside me with her new staff in hand, the crystal at its head gl
 
 "Yeah," I said, still watching the last wisps of smoke curl up off the scorched dirt below. "That's the idea."
 
-She went quiet, her eyes unfocusing as she scrolled through something only she could see. When she looked back at me, something behind her eyes had recalibrated. "You knew exactly what that spell was going to do," Arya said, her tone flatter now, more precise. "Before I even cast it. You knew they couldn't cleanse because you knew silence locks all skills." Her voice picked up speed. "You set this whole thing up around that one mechanic."
+She went quiet, her eyes unfocusing as she scrolled through something only she could see. When she looked back at me, something behind her eyes had recalibrated. "You knew exactly what that spell was going to do," Arya said, her tone flatter now, more precise. "Before I even cast it. You knew they couldn't cleanse because you knew silence locks their casting." Her voice picked up speed. "You set this whole thing up around that one mechanic."
 
 "Yeah," I said.
 

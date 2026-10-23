@@ -58,7 +58,7 @@ Sakura Arcade, a name I didn't recognize, marked with a small gray tag that read
 
 **[Free after 5 PM on weekdays.]**
 
-Free? I clicked through to the full listing. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises bought the patent rights.
+Free? I clicked through to the full listing. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises moved on to the third-gen helmets.
 
 It shouldn't run at all. Not unless you knew exactly what was underneath the casing. And I did, or close enough. Dad's notes went back further than its early development. Which meant it was possible. That was all I had to go on. I rolled my shoulders, the knot between them pulling tight from a night on my feet and a morning on a couch.
 

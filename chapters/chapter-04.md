@@ -12,7 +12,7 @@ They didn't bind either of us or even touch us, just fell in on either side and 
 
 We stopped in front of a tent bigger than all the rest, wide enough to fit a dozen people inside if they packed in tight. Bone totems were carved into the posts on either side of the entrance flap, intricate patterns that caught the firelight and threw strange shadows across the canvas. One of the guards pulled the flap open and gestured for us to go inside.
 
-I ducked through, the kid right behind me, and the temperature dropped immediately. The air inside was cooler, darker, lit only by a single oil lamp hanging from the center pole that threw uneven, flickering light up the canvas walls. A scarred goblin sat behind a crude table made from stacked crates and a plank of wood, a bone-carved staff leaning against the side of his chair within easy reach. His eyes were sharp, taking in both of us in one sweep, and when the woman with the copper rings stepped in behind us and took up a position at his shoulder, something in the air shifted, became more formal.
+I ducked through, the kid right behind me, and the temperature dropped immediately. The air inside was cooler, darker, lit only by a single oil lamp hanging from the center pole that threw uneven, flickering light up the canvas walls. A scarred goblin sat behind a crude table made from stacked crates and a plank of wood, a two-handed battle axe leaning against the side of his chair within easy reach. His eyes were sharp, taking in both of us in one sweep, and when the woman with the copper rings stepped in behind us and took up a position at his shoulder, something in the air shifted, became more formal.
 
 **[SEVISH THRASH - CHIEFTAIN - LEVEL 80]**
 
@@ -70,7 +70,7 @@ My clawed fingers curled against my thighs, the tips pressing small dents into t
 
 "The library," I repeated, making sure I understood correctly. "You want me to get into the Grand Library of Lunarest."
 
-"The restricted floors, specifically," Sevish clarified, uncrossing his arms and letting one hand rest on the pommel of the blade at his belt, a casual motion that still carried weight. "Public floors won't have what we're looking for. You find anything on Shiv up there, records, journals, anything that tells us what he knew or where he went, you bring it back here."
+"The restricted floors, specifically," Sevish clarified, uncrossing his arms and letting one hand drift up to the haft of the battle axe slung across his back, a casual motion that still carried weight. "Public floors won't have what we're looking for. You find anything on Shiv up there, records, journals, anything that tells us what he knew or where he went, you bring it back here."
 
 "And if I do this," I said slowly, working through the implications even as I spoke, "what does that actually mean?"
 

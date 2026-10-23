@@ -88,7 +88,7 @@ A notification blinked into existence at the edge of my vision and I flinched ha
 
 I dismissed it with a thought and made myself breathe. Everything was too immediate, too real. Heat off the nearest fire actually reached my skin in a way that made me want to step back from it, and the smell of whatever was cooking behind me made my mouth water even though I hadn't been hungry a second ago. I flexed a clawed hand and watched it move, the precision something my real hand had never had, each finger responding with a sharpness that felt almost dangerous.
 
-I'd spent a year dodging every clip of this game, and not one of them had come close to what it felt like to stand in it.
+I'd spent most of a year dodging every clip of this game, and not one of them had come close to what it felt like to stand in it.
 
 The camp spread up a hillside in a loose scatter of patched tents, canvas gone gray with weather and smoke stains, salvaged crates and pots stacked haphazardly against guy-lines that creaked in the wind.
 

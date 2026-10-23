@@ -9,7 +9,7 @@
 
 ## Appearance
 
-Ghanaian and Japanese (father Japanese, mother Ghanaian). Dark brown skin, black hair in wild locs, scar over right brow from a childhood car accident (the breakdown of his father's Haya Sedan, see `codex/characters/daichi-kazehaya.md`). 188cm (6'2"), lean, tall build. **The height is from Ohema** (a former volleyball player, see `codex/characters/ohema-kazehaya.md`), not Daichi, who was the shorter of his two parents. His technical aptitude and analytical mind trace to Daichi instead.
+Ghanaian and Japanese (father Japanese, mother Ghanaian). Dark brown skin, black hair in wild locs, scar over right brow from a childhood car accident about eleven years ago, the same crash that paralyzed his father (see `codex/characters/daichi-kazehaya.md`). 188cm (6'2"), lean, tall build. **The height is from Ohema** (a former volleyball player, see `codex/characters/ohema-kazehaya.md`), not Daichi, who was the shorter of his two parents. His technical aptitude and analytical mind trace to Daichi instead.
 
 **Goblin form, visual reference locked (from Chapter 3):** green skin, sharp angular features, yellow eyes, pointed ears, clawed fingers, a mouth of small sharp teeth. Messy, tousled sandy/light-brown hair, swept back, a real departure from his real-world locs. Much shorter than his real height, per the established goblin body-adjustment beats in Chapter 3. Book-cover art also shows him in a ragged brown cloak with a "NOOB" branded VR-style headband, that headband is stylized cover framing, not an in-story item, his actual Chapter 3 attire is the plain patched rags described on the page.
 
