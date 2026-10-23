@@ -98,6 +98,7 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 ### Chapters 2 and 3 (patron beat and letter)
 
 - NEW (chapter 2): the manual now holds Dad's letter (bear paw print signature) instead of the old note.
+- Addendum Q (flow pass): Lumi now explains the game (a second world, nothing resets) and the five patrons BEFORE the race wheel, so the glitch lands at the patron step. Yuna's chapter 1 broadcast also explains what HGO is for new viewers. Chapters 1 to 3 had their joins and style tightened (duplicate gas-pump line merged, fragments joined, cues added to Lumi's lines).
 - NEW (chapter 2): a short patron-selection beat after the race pick. Lumi's line (five patrons, choose one to follow) breaks off in the power blip and the goblin patron Seranis, goddess of the demi-humans, is applied by default. Cause of the default is not stated on the page (flagged).
 - NEW (chapter 3): the character sheet gains **[PATRON: SERANIS]**. No other patron is named.
 

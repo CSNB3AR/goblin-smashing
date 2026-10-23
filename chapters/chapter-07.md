@@ -88,7 +88,7 @@ What the hell.
 
 I tried to speak and my mouth moved half a second late, the words coming out sluggish and wrong.
 
-Slowed times four. I could barely move. If this went bad I was locked out for three days, and that was nearly half the window gone.
+Slowed times four. I could barely move. If this went bad I was locked out for three days, and I didn't have three days to spare with Crownfall coming.
 
 My vision swam slightly at the edges, colors bleeding together, and I forced myself to breathe slow through my nose, trying to ground myself in something real. The smell of smoke and old canvas, the rough texture of packed dirt under my palm.
 
