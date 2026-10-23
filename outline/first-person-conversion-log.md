@@ -108,3 +108,14 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 - **Story files and README.** Premise, blurb, Discord text and README now say Siege is a battle royale introduced at Crownfall, a pro league is an option, and the story stays not-esports with Tatsuya on the open-world path. The old "no Siege Pro League" wording is superseded.
 - **Style.** `style-guide/first-person-voice.md` notes that Dad's letters and notes appear in plain brackets.
 - **Open items.** Crownfall heats and bracket size under the five-guild format; sword versus great axe and the res cadence for the Seranis staff (seven days used); "one of the holders" at Thrash Hill; whether the letter's exact wording is final. OPEN: Chapter 1 sets texts and Dad's letter in bold brackets, while this rule and Chapter 8 use plain brackets; not decided.
+
+## Addendum P (author rulings: axe, timeline, handoff, Hushveil, Warset)
+
+- Sevish always carried a battle axe. Any staff or belt blade is gone.
+- Two separate accidents: the childhood crash about eleven years ago paralyzed Daichi (cause not stated); the sabotaged Haya Sedan accident about a year ago, months before HGO and the third-gen pods released, killed him. Every Haya product was then pulled. The older docs that had the Sedan cause the childhood crash, and the "same event or second event" open item, are retired.
+- Daichi handed some notes to Kazuku while they were building the third-gen pods; that stake would have paid off Ohema's debt, another reason the letter says to find the bear. Not a simple schematics sale.
+- The pod overheats. Tochi's submission window is December 23rd and the exams are January 4th.
+- Arya at level ten to eleven casts a low-tier Hushveil (about tier three), not tier six.
+- Shiv's Warset is a set of unique items, not seven pieces. The Staff of the Mist God is the one relic in it and one of the seven world weapons. The Call of the Bones necklace is a unique non-relic item. The Amulet of Seranis is retired.
+- The writing bible's old line that Daichi died in Tatsuya's first month of high school was removed because it clashes with the author's anchors. The exact order of Daichi's death and the Tochi stint is OPEN (see `outline/canon-ledger.md`).
+

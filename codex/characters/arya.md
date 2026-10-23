@@ -67,7 +67,7 @@ Secondary stat line:
 
 Discipline points invested: 5 total (+3 Wisdom, +1 Speed, +1 Fortune). Most points deliberately unspent since the Crimson Static collapse — holding back rather than committing to a direction she can't yet be sure of. Build profile: high magic output, negligible physical, poor crit, decent evasion. Clearly a caster, still unformed past that.
 
-Current spell unlocks: Static Lash (Mastery building), Tempest Fan, Storm Shear, Stormwall, Hushveil base. Hushveil Silence upgrade not yet invested — the Chapter Nine deal with Tatsuya is what changes that.
+Current spell unlocks: Static Lash (Mastery building), Tempest Fan, Storm Shear, Stormwall, Hushveil base. Hushveil Silence upgrade not yet invested — the Chapter Nine deal with Tatsuya is what changes that. At Level 10 to 11 she cannot cast a tier 6 spell: her Hushveil on the page is a low-tier cast (about tier 2 to 3) with a limited area and duration that takes a large share of her mana, and the tent raid works because a tent is small.
 
 **Build ceiling, if she commits.** Her displayed sheet reflects 5 of the 20 points a Level 10 character actually has available (see `codex/lore/leveling-and-progression.md`), 15 still sitting unspent. A hypothetical full investment as a true caster (roughly 13 more into Wisdom, 3 into Fortune, 2 into Speed) puts her at Wisdom 22, Magic AP roughly 88, clearly ahead of Tatsuya's gear-boosted Magic AP 52. He only touches those numbers because of a World-tier necklace bond; she gets there on class identity alone once she stops holding back. Not on the page yet, this is the ceiling the story is building toward, not her current build.
 

@@ -94,9 +94,7 @@ The first thing that landed as I read the chat was that it was actively talking 
 
 "The thing keeping them from hunting you down is simple. They don't know if you can become an ally or enemy. On top of that," she said, one finger tapping a specific thread, "no one wants to die testing the warband that just allied with a player in a game. Aside from Yuna, you're living in rare space. Also, with Crownfall and the new expansion approaching, no one wants to risk dying early and be locked out. It's for sure a race for the higher guilds now that territory and other things can profit. Crownfall is guild-only, so nobody gets in as a solo, and the seasonal points everyone earns in the open beta carry into Season One and decide who qualifies. And the Crownfall castle sits in a neutral zone, the kind of place people are already rumoring ties back to some legendary world quest. Another thread swears the royal healers have been seen carrying elixirs up to the palace at night, but nobody can confirm it. The legacy accounts also play in your favor. Even vets of this game are now stuck on low levels for a while."
 
-A cold prickle ran down the back of my neck.
-
-She locked the screen and dropped the phone back to her side.
+A cold prickle ran down the back of my neck as she locked the screen and dropped the phone back to her side.
 
 "I see. That gives me a narrower window to move. That's for sure." I stood with it for a moment, working through the implications, my eyes tracking over her shoulder toward where Leon's voice was still carrying through.
 
@@ -148,7 +146,7 @@ I looked at her. "Can you cast Hushveil?"
 
 The look that crossed her face was the kind that came right before a question someone already knew the answer to but still had to ask. Her eyes narrowed slightly, taking in the steadiness of my expression, looking for the tell that would say this was a bluff.
 
-"That's a fog spell deep in the tree," she said, the skepticism in her voice not quite hiding that she was running some kind of recalculation behind it. "It doesn't deal damage. It doesn't scale on anything you'd actually want to scale."
+"That's a fog spell in the early parts of the tree," she said, the skepticism in her voice not quite hiding that she was running some kind of recalculation behind it. "It doesn't deal damage. It doesn't scale on anything you'd actually want to scale."
 
 She paused.
 

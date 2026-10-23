@@ -62,7 +62,7 @@ An HGO access drive is a neutral silver/clear color before a character is create
 
 ## 4. The Goblin Signature Mechanic: The Call of the Bones Necklace
 
-Shiv's Warset stays a 7-piece legendary set (see `bible/old-draft-chapter-bible.md`); the necklace remains piece 1 of 7.
+Shiv's Warset is a set of unique items, not seven pieces. The Call of the Bones necklace is one of them and is not a relic. One Warset item, the Staff of the Mist God (Seranis), is a relic and is one of the seven world weapons (see `codex/lore/patrons-and-world-weapons.md`). Both the Warset and the seven weapons exist.
 
 **Two separate Fortune/gambling-themed abilities exist, not one, and they must not be conflated:**
 

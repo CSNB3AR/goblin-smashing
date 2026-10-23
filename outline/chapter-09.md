@@ -34,7 +34,7 @@
 
 ## Chapter 10, Part Two
 
-- Three Rune Priming runes placed on three walls; Arya's advanced Hushveil (tier six, full radius) silences and blinds the tent; Ru, Rott and Nab gas the three walls together; the stream is live and spikes.
+- Three Rune Priming runes placed on three walls; Arya's Hushveil (a low tier, about tier three, sized to cover the small tent, short duration, a large share of her mana) silences and blinds the tent; Ru, Rott and Nab gas the three walls together; the stream is live and spikes.
 - Ancient Bone Flame Barrage detonates the gas and runes. Four kills, a battle report on the HUD. Chat names surface (Pac_Pac, Taja_11, Dosuke_AI, AriSky, Eren_TB, PK_Wraith, Haruto_M).
 - Loot: Ironhide Chestplate, Vanguard's Greaves and PK Raiding Crest (Rare, sellable). Spellweaver_Lyn's Shivbone Staff (Legendary) goes to Arya. Joss, an enchanter, drops the **Doppelganger's Band** (legacy item, 60 MP to activate against a 32 MP bar, out of reach for now). It is not in Chapter 9.
 - Arya works out the win was not luck: "You actually planned this." Leon cuts the feed. "Welcome to the team." A closing thought: Crownfall is a guild event, so he will need a guild of his own.
@@ -43,4 +43,4 @@
 
 - All banned physical beats (jaw clenching, arms crossing, a hand going flat against a thigh) have been swept out, see `style-guide/craft-rules.md`'s banned-beats list. Several were reintroduced by external drafts before, watch for them.
 - Names checked against locked canon: Rian, Talo, Joss, Spellweaver_Lyn, PK_Wraith, Sevish, Wyx, Ru, Rott, Nab, Arya, Leon, Kesh, Hushveil, Doppelganger's Band, Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest, Shivbone Staff.
-- Open (flagged in the ledger): the Gambler's Earring ear, the sale-window hours and days-to-Crownfall counts in the chapters, and Arya's Hushveil tier vs her mastery. This file avoids stating those numbers.
+- Settled in the ledger: the Gambler's Earring is on the right ear, and Arya (level ten almost eleven) casts a low-tier Hushveil. The sale-window hours and days-to-Crownfall counts are in the chapters and the ledger, not restated here.

@@ -33,13 +33,13 @@
 ## Tatsuya's drivers
 
 - **Money** first: the surgery deadline and the debt.
-- **Dad's letter** second. The Tabuchis want what is in the manual. Only the bear, Dad's business partner, has the proof, and he is reachable inside HGO.
+- **Dad's letter** second. The Tabuchis want what is in the manual. Only the bear, Dad's business partner, has the proof, and he is reachable inside HGO. Daichi also handed Kazuku some notes while they were building the third-gen pods; that stake would have paid off Ohema's debt, another reason the letter says to find the bear.
 - **Getting the bear's attention.** He cannot go in doing nothing. A Dad invention brought into the game, a top guild, a Crownfall run: any of these might get Kazuku to notice. He also wants the compensation (tech sold in the game plus other earners).
 - **Dad's name.** Dad could not walk, and he helped build a world that does not know his name.
 
 ## Later items (forward only)
 
-- **The Staff of the Mist God (Seranis).** A piece of Shiv's set and one of seven blessed world weapons (see `codex/lore/patrons-and-world-weapons.md`). It raises a fallen player once every seven days, stacks enchantments faster at lower MP cost, and has three forms: sword, staff, and a two-handed energy rifle / gun-blade gadget. He will favor the gun-blade form so he can shoot and move. It is distinct from the Shivbone Staff given to Arya in Chapter 10.
+- **The Staff of the Mist God (Seranis).** The one relic among the unique items of Shiv's Warset, and one of seven blessed world weapons (see `codex/lore/patrons-and-world-weapons.md`). It raises a fallen player once every seven days, stacks enchantments faster at lower MP cost, and has three forms: sword, staff, and a two-handed energy rifle / gun-blade gadget. He will favor the gun-blade form so he can shoot and move. It is distinct from the Shivbone Staff given to Arya in Chapter 10.
 - **Patrons.** Five patrons. A player picks one at the start. Seranis blesses demi-humans.
 
 ## Open items

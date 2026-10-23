@@ -50,7 +50,7 @@ A purple notification bloomed at the edge of my vision, the color immediately dr
 
 The world quest was back? Did I really just advance it?
 
-Sevish stood up from his chair, the movement slow and deliberate, and walked around the table with heavy, purposeful steps that made the packed dirt floor creak slightly under his weight. He stopped a few feet away from me, close enough that I had to tilt my head back slightly to maintain eye contact, and crossed his arms over his broad chest.
+Sevish stood up from his chair, the movement slow and deliberate, the battle axe sliding into the sling across his back, and walked around the table with heavy, purposeful steps that made the packed dirt floor creak slightly under his weight. He stopped a few feet away from me, close enough that I had to tilt my head back slightly to maintain eye contact, and crossed his arms over his broad chest.
 
 "You killed two of my men," Sevish said, voice carrying absolute certainty. "Justified or not, that makes you a threat. I can't just let you walk out of here without knowing more." He paused, letting that sink in, then continued. "You have shown more in one fight than most of this camp has shown in weeks. Outside my sister." A nod toward Wyx, who was still watching me with that sharp, evaluating gaze. "So here's what I'm offering you."
 

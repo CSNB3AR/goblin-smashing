@@ -40,10 +40,10 @@ There are **two entirely separate accidents**. Never conflate them.
 |---|---|
 | About 11 years ago | The childhood car accident: Tatsuya's brow scar, and Daichi is paralyzed (the wheelchair grooves). Cause not stated. |
 | After it, over the years | Daichi goes all in on VR: Kazuhaya Tech owns the first-gen pods; the fully electric Haya EB; his own hybrid Haya Sedan (ran on gas, hand controls). Kazuku is his partner. They are building the third-gen pods. |
-| Spring 2044 | Tatsuya starts Tochi with Eren and Arya (second-years now). About three months in (about July 2044), the Eren betrayal and he drops out. He has been out a full school year and returns a first-year. |
+| Same period, order OPEN | Tatsuya lasts about three months of his first year at Tochi (Eren and Arya are second-years now), then the Eren betrayal and he drops out. He has been out a full school year and returns a first-year. |
 | About a year ago, months before the HGO release and the third-gen pods | The Tabuchis' hired yakuza sabotage the Haya Sedan. The breakdown causes the accident that **killed Daichi**. The Tabuchis use it to attack the business; **every Haya product is pulled from the market, the EB included**; income collapses. Ohema is already in the hospital; Chiyo pays; her money goes to bills and Ohema. |
-| About January 2045 | Tatsuya starts at WattsUp (about a year there now). |
-| About March or April 2045 to December 2045 | The HGO closed beta (Season Zero), about eight to nine months. Third-gen helmets launched with HGO. |
+| After the dropout | Tatsuya works at WattsUp (about a year there now). |
+| The eight to nine months before December 2045 | The HGO closed beta (Season Zero). Third-gen helmets launched with HGO. |
 
 - Daichi's company, Kazuhaya Tech, owned the first-gen pods. Daichi has history at Tochi.
 - Daichi did **not** simply sell the schematics. While he and Kazuku were building the third-gen pods, before he died, he **handed off some notes**; that stake **would have paid off Ohema's debt**. That is another reason his letter says to find the bear: Kazuku owes the family and holds what Daichi gave. The third-gen pods are advanced because the two were partners and Daichi passed some of his work on.
@@ -70,6 +70,8 @@ There are **two entirely separate accidents**. Never conflate them.
 - Creatures use Class I to IV. The Greyvast is Class III. Monocrystals and mono steel exist (mono steel is a Rimeiron alloy).
 - Regions: Lunarest (central), Valefrost (north), Myrrhwood (west), Sunmarch (south), Azure Expanse (north peaks), Wraith Isles (east). BKC-derived places: Varekhold, Varekpass, Skaldmere, Ashenveil Forest, Barren Lands, Khen-Mora.
 - Provenance of imported material is kept only in `outline/bkc-reuse-map.md`.
+
+- OPEN: whether Daichi died before or during Tatsuya's roughly three months at Tochi. The only author-stated anchors are above (killed about a year ago, months before HGO and the third-gen pods released; about three months at Tochi, out a full school year). No exact dates are pinned.
 
 ## Settled by the author
 

@@ -8,7 +8,7 @@ Visual reference locked. Broad, hulking build, bigger and heavier than a standar
 
 ## Facts
 
-Level 80. Massive presence, scarred, commands total respect. Gives Kaiseki (Tatsuya's in-game name) his central ultimatum, prove himself within a set window or be treated as an enemy, and later treats the Shiv bond as a genuine honor.
+Level 80. Carries a two-handed battle axe (always has). Massive presence, scarred, commands total respect. Gives Kaiseki (Tatsuya's in-game name) his central ultimatum, prove himself within a set window or be treated as an enemy, and later treats the Shiv bond as a genuine honor.
 
 **Structural note:** the "chained up" beat now lands by the end of Chapter 4 itself, after Tatsuya kills two of the clan's goblins in Chapter 3's fight, held as a suspected threat even while being offered the World Quest. See `outline/archive/chapter-03.md` and `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`.
 

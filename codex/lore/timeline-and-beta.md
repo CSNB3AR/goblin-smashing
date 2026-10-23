@@ -20,15 +20,15 @@ The whole story, from the Season Zero finale broadcast to the Hearthfire launch 
 - Tatsuya lasted about **three months** of his first year at Tochi Academy, then dropped out. He has been out a **full school year**. He returns as a **first-year**.
 - **Eren and Arya are second-years.**
 - Tatsuya's age is **16 to 17**. No chapter states it. The older "18" in `codex/characters/tatsuya-kazehaya.md` is superseded.
-- He has worked the WattsUp register for roughly a year, since dropping out (see `codex/locations/wattsup.md`).
+- He has worked the WattsUp register for roughly a year, since not long after Daichi was killed (see `codex/locations/wattsup.md`).
 - Taji and Momo are the twins, and **they do not know** about Dad's connection to the game (see `codex/characters/daichi-kazehaya.md`).
 
-## Dad's crash and death
+## Dad's two accidents (separate events)
 
-- When Tatsuya was a child, a **car crash** left him the scar over his right brow. It also **paralyzed Daichi**, who then went all in on VR as a way to make a world where the body was not the ceiling: the Haya pod, the Haya EB, an adapted car.
-- The crash came from a breakdown of the **Haya Sedan**, Daichi's own car, a **hybrid that still ran on gas** (only the Haya EB is fully electric). The Tabuchis used the breakdown to attack the business, and people pulled the model from the market. Author-side truth, suspicion only on the page: the Tabuchis hired yakuza to sabotage the vehicle, expecting it to bankrupt the family while Ohema was in the hospital. Chiyo returning was not in their plans, Kazuto's court plan for the business and schematics has not worked because Chiyo has her own money, and she has hired lawyers (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). The date of the childhood crash is unchanged.
-- Daichi died about **a year ago**. Closed casket, never fully explained (see `codex/characters/daichi-kazehaya.md`).
-- Order of events, reconciled with `bible/writing-bible.md` (Eren's entry): Tatsuya starts Tochi High School, Daichi dies within his first month (about a year ago), and the Eren betrayal over the stolen build lands in the same stretch, before the beta opens (Eren had Tabuchi second-gen pod access ahead of launch). About three months into the school year Tatsuya drops out, which falls around the closed beta's launch roughly eight to nine months ago. Exact dates are left unpinned.
+- **The childhood crash, about eleven years ago.** It left Tatsuya the scar over his right brow and **paralyzed Daichi**, who then went all in on VR as a way to make a world where the body was not the ceiling: the Haya pod, the Haya EB, his hybrid Haya Sedan with hand controls. Its cause is not stated.
+- **The fatal accident, about a year ago, months before HGO and the third-gen pods released.** Author-side truth, suspicion only on the page: the Tabuchis hired yakuza to sabotage Daichi's **Haya Sedan** (a **hybrid that still ran on gas**; only the Haya EB is fully electric). Its breakdown caused the accident that **killed him**. The Tabuchis used it to attack the business, and every Haya product, the EB included, was pulled from the market. They expected the family to go broke while Ohema was in the hospital. Chiyo returning was not in their plans, Kazuto's court plan for the business and schematics has not worked because Chiyo has her own money, and she has hired lawyers (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). Closed casket, never fully explained (see `codex/characters/daichi-kazehaya.md`).
+- **Daichi's handoff.** He and Kazuku were building the third-gen pods. Before he died he handed off some notes; that stake would have paid off Ohema's debt, which is another reason his letter says to find the bear.
+- **Order of events.** Daichi is killed about a year ago, months before HGO and the third-gen pods released. Tatsuya lasts about three months of his first year at Tochi before the Eren betrayal over the stolen build, and has been out a full school year. He starts at WattsUp about a year ago. The closed beta opens roughly eight to nine months before the December 2045 finale. OPEN: whether Daichi died before or during Tatsuya's roughly three months at Tochi. The only author-stated anchors are that Daichi was killed about a year ago, months before HGO and the third-gen pods released, and that Tatsuya lasted about three months of his first year at Tochi before the Eren betrayal pushed him out and he has been out a full school year.
 - What the reader is given is suspicion, never proof. The author-side truth sits in `codex/subplots/tabuchi-schematics-and-family-debt.md`.
 
 ## Eren
@@ -42,7 +42,6 @@ King Aldemar Vaereth dies around the start of Season One (see `codex/lore/lunare
 
 ## Open items
 
-- Whether the earlier "a year ago, plug-ins pulled from the adapted car" malfunction is the same event as the Haya Sedan breakdown or a second one.
 
 - Whether Tatsuya's "sweepstakes" pre-launch access (older codex line) stays. It conflicts with his being an open-beta player and needs a ruling before any chapter pass.
 - Funeral truce length and scope, and whether the expansion should be renamed Crownfall (Hearthfire stays for now).

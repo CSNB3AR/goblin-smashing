@@ -8,7 +8,7 @@ Ash-and-smoke form, wide-brimmed hat, burning green eyes.
 
 ## Facts
 
-Strong character from the old draft, well-written voice, worth preserving almost entirely as-is. Grants Tatsuya (in-game name TDRAG) a legendary bound item, the first piece of "Shiv's Warset" (1 of 7): the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`), which negates the goblin Wisdom penalty and unlocks the Shaman's Veil spirit magic path, plus Gambler's Gambit.
+Strong character from the old draft, well-written voice, worth preserving almost entirely as-is. Grants Tatsuya (in-game name TDRAG) a legendary bound item, the first piece of "Shiv's Warset" (a set of unique items; it is not the seven world weapons): the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`), which negates the goblin Wisdom penalty and unlocks the Shaman's Veil spirit magic path, plus Gambler's Gambit.
 
 Worldbuilding tied to Shiv: goblins are historically barred from the capital; there's a hidden "Astralum Archive" beneath the palace that Shiv wants Tatsuya to eventually reach (see `codex/locations/astralum-archive.md`).
 
@@ -34,4 +34,4 @@ See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` and `codex/lore/w
 
 ## Set piece: the Staff of the Mist God (Addendum H)
 
-A piece of Shiv's set (see `codex/objects/shivs-warset.md`) is the **Staff of the Mist God**, blessed by the goddess **Seranis**, the patron who blesses demi-humans and the goblins' patron (see `codex/lore/patrons-and-world-weapons.md`, owned by another agent). Details and open items are in `codex/objects/staff-of-the-mist-god.md`. It is not the Shivbone Staff Tatsuya gave Arya in chapter 10.
+One item from Shiv's Warset (see `codex/objects/shivs-warset.md`) is a **relic**, the **Staff of the Mist God**, one of the seven world weapons, blessed by the goddess **Seranis**, the patron who blesses demi-humans and the goblins' patron (see `codex/lore/patrons-and-world-weapons.md`). The rest of the Warset is unique items, not relics; the Warset is not all seven weapons. Details and open items are in `codex/objects/staff-of-the-mist-god.md`. It is not the Shivbone Staff Tatsuya gave Arya in chapter 10.

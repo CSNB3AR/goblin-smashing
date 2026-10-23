@@ -40,7 +40,7 @@ An NPC faith that can exist in Eryndal, a faction of the living world and not a 
 - **Seven world weapons** are blessed by patrons: **five relics, one per patron, plus two additional**. The two additional are not in the source and wait on the author.
 - They are World-tier items (see `codex/lore/deck-building-rarity-and-classes.md`) and globally significant gear, tied to World Quests (see `codex/lore/world-quests.md`).
 - A relic is bonded to a single bearer and works as a **divine credential**: people accept an odd bearer once the relic shows a god chose them.
-- **Seranis holds the Staff of the Mist God** as her weapon. Her relic slot is that staff unless the author decides the amulet below is a separate relic.
+- **Seranis holds exactly one weapon: the Staff of the Mist God.** It is the one item of Shiv's Warset that is a relic, and it is one of the seven.
 
 ### Table of the seven
 
@@ -54,11 +54,11 @@ An NPC faith that can exist in Eryndal, a faction of the living world and not a 
 | 6 | OPEN, additional | OPEN | Waiting on the author |
 | 7 | OPEN, additional | OPEN | Waiting on the author |
 
-Shiv's Warset is also seven pieces (`codex/objects/shivs-warset.md`) and the Staff is one of them. How the seven Warset pieces and the seven world weapons relate (the same seven, overlapping, or separate) is OPEN.
+**Shiv's Warset is a set of unique items, not seven pieces and not all relics** (`codex/objects/shivs-warset.md`). One item of it, the Staff of the Mist God, is a relic and is one of these seven. The rest of the Warset are unique items, not relics. Both the Warset and the seven weapons exist.
 
 ## The Staff of the Mist God (Seranis)
 
-A piece of **Shiv's set** (see `codex/characters/shiv.md`, `codex/objects/shivs-warset.md`). Full entry: `codex/objects/staff-of-the-mist-god.md`. Final enchanted name open ("Staff of the Mist God" is the working title).
+The **one relic among Shiv's Warset items** (see `codex/characters/shiv.md`, `codex/objects/shivs-warset.md`). Full entry: `codex/objects/staff-of-the-mist-god.md`. Final enchanted name open ("Staff of the Mist God" is the working title).
 
 - **Three forms**, chosen by the wielder: a **sword**, a **staff**, and a **two-handed energy rifle / gadget gun-blade**. Pick one form at a time. Sword versus great axe for the melee form is OPEN.
 - **Tatsuya picks the gun-blade form.** It lets him shoot and move while still conjuring his abilities through the staff, which suits his Arcane Bomber build (`codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`).
@@ -66,13 +66,6 @@ A piece of **Shiv's set** (see `codex/characters/shiv.md`, `codex/objects/shivs-
 - **Enchanting.** It lets him **stack enchants faster at a lower MP cost**, and it is a strong tool for his magic.
 - **Buffs and minuses.** It has drawbacks as well as benefits. The biggest benefit is the resurrection.
 - **Distinct from the Shivbone Staff.** The Shivbone Staff (Legendary) dropped from Spellweaver_Lyn in Chapter 10 and given to Arya is a different item.
-
-## The Amulet of Seranis and the Call of the Bones necklace
-
-`codex/objects/amulet-of-seranis.md` describes a relic worn at the sternum that warms during magic, pulses like a second heartbeat and bonds to one chosen bearer. The Call of the Bones necklace (`codex/objects/call-of-the-bones-necklace.md`) already behaves very like it. To avoid double-booking Seranis (she holds one weapon, the staff), two options are on the table and **neither is chosen**:
-
-- **Option A: the necklace is Seranis's relic.** The Amulet of Seranis is the old name or the in-world truth behind the Call of the Bones necklace. The staff belongs to Shiv's set and is simply blessed by her, so she holds no second weapon.
-- **Option B: the amulet is a separate sister relic.** It exists as its own item. Seranis would then hold two world items, the staff and the amulet, and the count of seven weapons needs the amulet to be one of the two additional or a non-weapon relic.
 
 ## Open: what the author needs to supply
 
@@ -84,6 +77,5 @@ A piece of **Shiv's set** (see `codex/characters/shiv.md`, `codex/objects/shivs-
 - The Staff's final enchanted name, its minuses, and sword versus great axe.
 - Resurrection cadence: the dictation said once a day, every 24 hours and every seven days. Seven days used, flagged.
 - How the patron is applied to Tatsuya given the goblin glitch (Lumi's selection is interrupted), and when and how he obtains the staff.
-- Amulet versus necklace (Options A and B above), and how Shiv's seven-piece Warset relates to the seven world weapons.
 - Whether "one of the holders" at the Battle of Thrash Hill (user's note) means a holder of a world weapon among PK_Wraith's side. Not in Chapter 10 now.
 - How much of the Church of Seranis (Popes, doctrine, healer arts) appears in the story, and whether a player class or cleanse line is tied to it.

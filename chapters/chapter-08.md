@@ -6,7 +6,7 @@ A notification flickered at the edge of my vision before I could stop myself fro
 
 **[VIEWERS: 7,392 → 8,110]**
 
-Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it. I shoved it out of view without opening it. Kesh was still bent over his own knee ten feet away, chest working for air, and that mattered a lot more right now than anything chat had to say about it.
+Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it. I shoved it out of view without opening it. Chat could wait.
 
 Kesh hadn't moved from the spot he'd skidded to a stop in, one hand still braced hard against his knee, claws gone pale at the tips, his breath coming in short, ragged pulls that hadn't evened out at all.
 
@@ -170,7 +170,7 @@ I pulled up my HGO account next, and there it was, a button that hadn't existed 
 
 [Apply for Affiliate Status]
 
-Five hundred and eighty, huh. Not bad for the first stream. It was crazy how lucky I'd been, but I could only expect there'd be bullshit too. Just wait until Eren found out about me. My thumb hovered over it for a second before I tapped it, the dread of the Tabuchis sitting in my chest. Not to mention telling Chiyo the truth about this. I could tell her about Sakura, but if I made anything big off it, she wouldn't believe an arcade built on old tech paid me that much. I shook the thought off and looked at the screen again.
+Five hundred and eighty followers, huh. Not bad for the first stream. It was crazy how lucky I'd been, but I could only expect there'd be bullshit too. Just wait until Eren found out about me. My thumb hovered over it for a second before I tapped it, the dread of the Tabuchis sitting in my chest. Not to mention telling Chiyo the truth about this. I could tell her about Sakura, but if I made anything big off it, she wouldn't believe an arcade built on old tech paid me that much. I shook the thought off and looked at the screen again.
 
 The confirmation screen that loaded back wasn't the instant green light I'd half expected.
 
@@ -180,9 +180,7 @@ Thirty days. I set the phone down on the sink's edge and stared at it. That mean
 
 A quick search turned up the rest of it in under a minute, a forum thread somebody had laid out plain: HGO's official channel auto-hosts any stream actively progressing a World Quest, standing platform practice, free exposure handed to whoever happened to be live when the algorithm noticed, not a permanent slot, and not something that followed me back online automatically. Coming back live after a break meant starting closer to zero and climbing again, not picking up where I'd left off.
 
-I rubbed my eyes with the heel of my hand, the bathroom's fluorescent buzz needling at them.
-
-It made sense why they hosted World Quests. It also meant a lot of eyes landed on whoever happened to be live when the algorithm noticed. I picked the phone back up, my grip firming around it.
+I rubbed my eyes with the heel of my hand, the bathroom's fluorescent buzz needling at them. It made sense why they hosted World Quests. It also meant a lot of eyes landed on whoever happened to be live when the algorithm noticed. I picked the phone back up, my grip firming around it.
 
 Subs themselves weren't much once I actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around and a special chat tag, unless the streamer set their own perks, nothing that let them type more than any other viewer. I pinched the bridge of my nose, a dull ache starting up behind my eyes.
 
