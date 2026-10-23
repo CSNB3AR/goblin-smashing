@@ -1,22 +1,22 @@
 # Chapter One: The Countdown Starts
 
-Nobody left at WattsUp this late but me. I worked a rag along the counter in slow, even strokes, cleaning that filled time more than it filled a need.
+Nobody left at WattsUp this late but me. I worked a rag along the counter in slow, even strokes over the same stretch of laminate, the rag dragging with a faint squeak, my shoulder stiff from the angle.
 
-The counter had been clean for an hour already. Outside, the canopy lights hummed over three empty charge bays, the cables hanging slack from their housings, the tall pylon sign out front cycling through ad after ad against a sky gone fully dark. Past the old gas pumps standing dark at the far end of the lot and the string of little flags along the canopy's edge, Shibuya kept doing what Shibuya did at midnight, glowing like it had somewhere better to be.
+The counter had been clean for an hour already. Outside, the canopy lights hummed over three empty charge bays, the cables hanging slack from their housings, the tall pylon sign out front cycling through ad after ad against a sky gone fully dark. Past the old gas pumps standing dark at the far end of the lot and the string of little flags along the canopy's edge, Shibuya kept doing what Shibuya did at midnight, every sign lit, the crossings still crowded, a thump of bass carrying faintly across the lot.
 
 An electric sedan had pulled into the middle bay a little after eleven, a man in a rumpled suit behind the wheel thumbing his phone while it took its charge with a soft double chime. He never came inside. Nobody did, anymore. I couldn't remember the last time anyone had pulled up to one of those pumps, hoses coiled and dusty, and the motor cars were fading out of Japan the way film had, and WattsUp had been quick to rip out the signs and call itself a charging chain. The last person I'd known to keep feeding one was Dad, whose hybrid still drank gas, hand controls worn smooth under his palms, and I pushed that thought back where it lived and went back to the counter. I squinted against the fluorescent tubes buzzing overhead and rolled my neck until something popped.
 
 The register drawer ticked in the quiet, a number I could have recited without looking. Gato was a good boss and the job was steady, and steady covered rent and groceries and not much else. I tried not to do the other math.
 
-I caught myself in the dark half of the window between the counter and the door and looked longer than I meant to. Locs pulled back off my face with an elastic gone soft from reuse, a few loose ones falling free at my temple no matter how many times I tucked them back. The scar over my right brow, thin and pale, catching the fluorescent light at an angle that made it look almost fresh even eleven years out from the car accident that put it there. Dark skin gone sallow under the store lighting, the kind of tired that lived behind the eyes more than anywhere else. I had my mother's height and my father's hands, steady and precise, the kind that fixed things instead of breaking them, and some nights working nights like this that felt like its own kind of inheritance I wasn't sure I'd earned yet.
+I caught myself in the dark half of the window between the counter and the door and looked longer than I meant to. Locs pulled back off my face with an elastic gone soft from reuse, a few loose ones falling free at my temple no matter how many times I tucked them back. The scar over my right brow, thin and pale, catching the fluorescent light at an angle that made it look almost fresh even eleven years out from the car accident that put it there. Dark skin gone sallow under the store lighting, the tired showing mostly around my eyes. I had my mother's height and my father's hands, steady and precise, the kind that fixed things instead of breaking them, and some nights working nights like this that felt like its own kind of inheritance I wasn't sure I'd earned yet.
 
 My phone buzzed against the counter, the vibration loud enough to cut through the hum of the store. Chiyo's name lit up the screen.
 
 **[Tabuchi called again. Told them the usual. The lawyers are handling it, so don't worry if anything turns up at the hotel, I've got it. Also, Tochi's submission window closes on the 23rd and the entrance exams are Jan 4, I'm gonna need a response soon, Tatsu.]**
 
-I read it twice, once for the words and once for the weight sitting right behind them that she hadn't bothered spelling out. Chiyo called it ordinary debt collection, same as always, and mentioned the lawyers like it was nothing. I'd stopped being sure it was ordinary a while ago. The demands kept circling back to my father's old paperwork specifically, in a way that never fully squared with "just pay us."
+I read it twice, once for the words and once for what she hadn't bothered spelling out. Chiyo called it ordinary debt collection, same as always, and mentioned the lawyers like it was nothing. I'd stopped being sure it was ordinary a while ago. The demands kept circling back to my father's old paperwork specifically, in a way that never fully squared with "just pay us."
 
-Dad wouldn't want her fighting this battle for him. The thought settled hard and quiet in my chest. This wasn't hers to carry. Never was.
+Dad wouldn't want her fighting this battle for him. My chest tightened. This wasn't hers to carry. Never was.
 
 I typed back a thumbs-up emoji, because a thumbs-up cost nothing and didn't invite follow-up questions I didn't have answers for yet, and flipped my phone face-down on the counter.
 
@@ -72,7 +72,7 @@ Gold light bloomed across the screen behind him, a map pattern I recognized a ha
 
 My weight shifted forward slightly, like I could lean into the screen and see the map more clearly if I just got close enough. Then I caught it and stepped back, and found the counter's edge with my hand again.
 
-"And to christen it," the bear went on, "we'll be hosting the Crownfall Siege on Christmas Day, in a neutral zone nobody owns. Twenty of your guild on the field, open to every new character, with ten million yen on the table." The number bloomed in gold behind him, **¥10,000,000**, and the arena roared for it. He reached behind his back and produced an oversized access drive, the kind of theatrical prop that only worked because he was ten feet tall and made of CG, gold light spilling off it like it was the most important object in the world. "Open beta starts tonight, and Crownfall opens Season One. Everything you earn from the moment you log in counts toward the season. Points are yours alone, but Crownfall is a guild event, so bring your guild. And whether you're stepping into Eryndal for the first time, or you've been circling the idea of setting up shop in the new economy, bring your business here. There's never been a cheaper way in. For the next seventy-two hours only, every HGO access drive and every rig is fifty percent off. And about your existing avatar, every closed-beta character locks at its level once the expansion launches. Legacy Points waiting to be spent or cashed out on your terms, and once you're on a new avatar the old one is retired."
+"And to christen it," the bear went on, "we'll be hosting the Crownfall Siege on Christmas Day, in a neutral zone nobody owns. Twenty of your guild on the field, open to every new character, with ten million yen on the table." The number bloomed in gold behind him, **¥10,000,000**, and the arena roared for it. He reached behind his back and produced an oversized access drive, the kind of theatrical prop that only worked because he was ten feet tall and made of CG, gold light spilling off it. "Open beta starts tonight, and Crownfall opens Season One. Everything you earn from the moment you log in counts toward the season. Points are yours alone, but Crownfall is a guild event, so bring your guild. And whether you're stepping into Eryndal for the first time, or you've been circling the idea of setting up shop in the new economy, bring your business here. There's never been a cheaper way in. For the next seventy-two hours only, every HGO access drive and every rig is fifty percent off. And about your existing avatar, every closed-beta character locks at its level once the expansion launches. Legacy Points waiting to be spent or cashed out on your terms, and once you're on a new avatar the old one is retired."
 
 The number appeared on-screen beneath him, clean white text against the dark: **50% OFF - 72 HOURS ONLY**.
 
@@ -92,7 +92,7 @@ Red-gold headlights swept across the front window and my stomach dropped half a 
 
 Through the windshield I could just make out a figure in dark clothes, hands steady on the wheel as the car powered down.
 
-The driver's door swung open first, and blonde hair caught the streetlight before anything else registered. Black team jacket zipped to the throat, a silver lotus crossed with two staffs stitched into the chest, the emblem catching the light like it wanted to be noticed.
+The driver's door swung open first, and blonde hair caught the streetlight before anything else registered. Black team jacket zipped to the throat, a silver lotus crossed with two staffs stitched into the chest, the emblem catching the light.
 
 My posture shifted as soon as I recognized who it was.
 
@@ -140,7 +140,7 @@ Something in Eren's easy expression flickered, just for a second. It might have 
 
 Fake as always.
 
-My grip on the counter's edge tightened at the knuckles for exactly one breath, my jaw setting hard enough that I felt it in my teeth, then loosened again before the tension could spread anywhere visible. Nothing on my face moved. I watched the charge indicator climb on the screen in front of me, green light by green light, tick by tick, until the transaction cleared and Eren finally stepped back from the counter.
+My grip on the counter's edge tightened at the knuckles for exactly one breath, my jaw setting hard enough that my teeth ached, then loosened again before the tension could spread anywhere visible. Nothing on my face moved. I watched the charge indicator climb on the screen in front of me, green light by green light, tick by tick, until the transaction cleared and Eren finally stepped back from the counter.
 
 Eren turned toward the door without another word, his jacket catching the overhead light as he moved, the Kansai Black Lotus emblem glinting silver across his back.
 
@@ -152,7 +152,7 @@ I gave him a nod back, nothing more spent on it than that, my expression still f
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
-The door swung shut behind them with a soft chime, and quiet folded back over the store like it had never left.
+The door swung shut behind them with a soft chime, and the store went quiet again, nothing but the tubes buzzing overhead.
 
 I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the ambient neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place.
 
@@ -166,13 +166,13 @@ I looked up at the screen. The bear was gone. In its place, the discount banner 
 
 I took one final breath and went to close up.
 
-I moved through closing on autopilot, muscle memory carrying me when my brain didn't want to be present for any of it. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy mechanical clunk that echoed off the empty lot.
+I moved through closing on autopilot. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy mechanical clunk that echoed off the empty lot.
 
 Around back, the Haya EB moped was sitting exactly where I'd left it, old paint gone matte in patches under the yellow security light, the helmet hanging off the handlebar where I always left it when I knew nobody else would be back here. I pulled it on, tucked the loose loc back into place before it could get caught in the strap, and swung a leg over the seat, the cold leather biting through my jeans.
 
 The touchscreen between the handlebars flickered awake under my thumb the way it always did, half a second of hesitation like it didn't trust me yet, the old hardware taking its time. I waited it out, thumb still pressed flat to the glass, until the dash finally lit green and the charge indicator climbed and stalled at two bars, not the full it should have read after a day on the charger.
 
-I kicked the stand up, rolled it forward off the curb with my feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white, neon bleeding together in the rain that had picked up again without me noticing. The streets were emptier now, past the point where the last trains had run and the people still out were the ones who didn't have anywhere better to be. I opened it up down an empty stretch, the hum of the electric motor climbing under me, rain needling cold against my cheeks where the helmet didn't quite cover. The hum stuttered once, a dip in the climb like the motor had lost its grip on something, then caught again.
+I kicked the stand up, rolled it forward off the curb with my feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white, neon bleeding together in the rain that had picked up again. The streets were emptier now, past the point where the last trains had run, the sidewalks nearly empty. I opened it up down an empty stretch, the hum of the electric motor climbing under me, rain needling cold against my cheeks where the helmet didn't quite cover. The hum stuttered once, a dip in the climb, then caught again.
 
 Some track was playing low through the scooter's tiny built-in speaker, one of Yuna's, something Momo had dropped into my queue two weeks ago without asking and I'd never bothered deleting.
 
@@ -218,7 +218,7 @@ Taji turned to look at me, eyebrows raised, like I'd said something that didn't 
 
 Taji cracked a small smile at that despite himself, the kind he tried not to give up too easily these days now that he was eleven and thought acting unimpressed made him look older. He shoved the rest of the blanket over without being asked, a peace offering that didn't need words attached to it.
 
-I sat there in my own living room and let it land, the broadcast still paused on-screen, Momo's muffled humming bleeding through the walls, Taji's blanket warm against my legs, Chiyo two floors down covering a shift that a retired national-team legend shouldn't have to work at all. None of them had asked this.
+I sat there in my own living room, the broadcast still paused on-screen, Momo's muffled humming bleeding through the walls, Taji's blanket warm against my legs, Chiyo two floors down covering a shift that a retired national-team legend shouldn't have to work at all. None of them had asked this.
 
 The Haya EB was still sitting dead around back, that long blank second when the dash went dark still replaying at the back of my mind. I pushed myself up off the couch.
 
