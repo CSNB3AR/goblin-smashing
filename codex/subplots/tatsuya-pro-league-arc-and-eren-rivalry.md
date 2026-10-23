@@ -1,12 +1,16 @@
 # Subplot: Crownfall, a Possible League and the Eren Rivalry
 
-**Status:** Long-term thread, spans the full story. Not a near-term payoff. The file name is kept for links. The old framing, that reaching a pro league is Tatsuya's end goal, is retired, and so is the idea that a Siege Pro League is coming.
+**Status:** Long-term thread, spans the full story. Not a near-term payoff. The file name is kept for links. HGO is not an esports story, and the Siege Pro League is an option on the menu, not Tatsuya's goal.
 
-## Crownfall is an event, a league is undecided
+## Crownfall, the Siege Pro League and Arc One
 
-HGO is not an esports title and Siege is not a game mode. Crownfall is a one-off Siege Castle event, a crowning event in a neutral zone that prepares players for the larger-scale Node Wars (see `codex/pro-scene/crownfall-siege-event.md`). If players like it, HGO may bring it back through another announcement, or the story may take an entirely different arc. Neither is decided. The parked notes (a league, Ember cores, troop cap, no-lock rule, points shop) sit in `codex/lore/hearthfire-expansion-and-seasons.md` and are not canon. If a league ever happens, its arc would ask a different question of Tatsuya, since his small guild cannot win on troop numbers and connections and products would have to carry it.
+**Siege** is a battle royale: 5 guilds per session, 20 players each, every guild starting at an outskirts-like camp it grows to a fort, with a flag and 60 lives (3 waves) over a 3-hour match, fighting for resources (see `codex/lore/hearthfire-expansion-and-seasons.md`, which another agent owns). **Crownfall** is the Season One opener for season points and the first Siege, a guild-only event, which introduces the format. The **Siege Pro League** is active from the start of Season One and Kazuku mentions it in the Hearthfire ad as an option for players who do not want the open-world route. Siege is so watched that a pro scene forms around it. Node Wars are a separate, weeks-to-months conflict.
 
-What actually drives Tatsuya early on is money (Ohema's surgery, the family debt, the Crownfall prize pool), Dad's hidden note, Eren and the world. Any league would be something that happens around him, not a ladder he climbs for its own sake.
+Tatsuya stays on the open-world path. **Arc One:** Open Beta, then Crownfall, then Hearthfire (Season One starts). The Battle of Thrash Hill is its mini sub-plot. Season points earned in the open beta count toward Season One, and only guilds enter Crownfall, so Tatsuya founds a guild after he and Arya escape Thrash Hill. His troop system lets him fill slots with NPC troops, whose enchants last longer than on players.
+
+What actually drives Tatsuya early on is money (Ohema's surgery, the family debt, the Crownfall prize pool), Dad's letter, Eren and the world. The pro league is something that happens around him, not a ladder he climbs for its own sake.
+
+**Open:** whether Tatsuya ever plays in the pro league; how Crownfall heats and brackets work under the 5-guild format.
 
 ## The Eren throughline
 
@@ -16,7 +20,7 @@ Distinct from, but layered on top of, the ongoing Tabuchi schematics/family-debt
 
 ## The hidden drivers
 
-Underneath the money and the Eren rivalry, both of which Tatsuya would name if asked, there are two more drivers. One is **conscious and private**: he suspects his father's collapse and death were engineered, and Dad's hidden note says Kazuku holds the proof and is reachable only inside HGO. The other he doesn't have conscious access to yet: HGO is the world his father spent his last years working toward, with Kazuku, before dying. His pull toward the PvE and exploration side of the game has roots here, even though he'd currently describe it as just liking the grind. Surfaces alongside the Kazuku reveal late in the story, not stated early, and doesn't replace either of the two established drivers above, it sits underneath them. See `codex/characters/daichi-kazehaya.md` and `codex/characters/kazuku.md`.
+Underneath the money and the Eren rivalry, both of which Tatsuya would name if asked, there are two more drivers. One is **conscious and private**: he suspects his father's collapse and death were engineered, and Dad's letter says to speak to the bear (Kazuku), who holds the proof and is reachable only inside HGO. The other he doesn't have conscious access to yet: HGO is the world his father spent his last years working toward, with Kazuku, before dying. His pull toward the PvE and exploration side of the game has roots here, even though he'd currently describe it as just liking the grind. Surfaces alongside the Kazuku reveal late in the story, not stated early, and doesn't replace either of the two established drivers above, it sits underneath them. See `codex/characters/daichi-kazehaya.md` and `codex/characters/kazuku.md`.
 
 ## Craft notes
 

@@ -20,6 +20,8 @@ My hand moved toward the race selection, trying to go back, but the interface wa
 
 **[RACE LOCKED: GOBLIN]**
 
+**[PATRON: SERANIS]**
+
 **[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
 
 My hand froze mid-reach, hovering in the empty air of the pod. Wait. Gambler's Gambit?

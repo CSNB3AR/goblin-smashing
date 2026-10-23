@@ -19,3 +19,7 @@ Foggy, muted color palette, overcast light. Patched canvas tents in irregular cl
 ## Hearthfire note
 
 PK_Wraith's group stays in Lunarest after the expansion, where a faction hating Shiv grows. The camp's departure to Myrrhwood before January 1st is a ship crossing of four to five days (see `codex/locations/eryndal-world-overview.md`).
+
+## Thrash Hill
+
+The hillside above Bloodhurst is the site of the **Battle of Thrash Hill** (chapters 8 to 10), the first battle of Arc One. After it, the group splits from the Thrash Clan (see `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`).

@@ -66,7 +66,7 @@ I checked the time. 3:47 PM.
 
 Sakura Arcade's free window opened in just over an hour, and I still had to pick up the drive from Nexus first. I stood, grabbed my jacket off the back of the couch where I'd left it, and headed for my room, Dad's old work room. I pushed the door open to a space that still smelled faintly like old solder and circuit boards, a smell that never quite left no matter how many times Momo complained about it.
 
-Dad's tech manual sat on the shelf above my desk, spine cracked from years of use, pages dog-eared in a dozen places where he'd marked something worth coming back to. The folded note was still tucked in at the controller diagrams, right where I'd left it. I pulled the manual down, the weight of it familiar in my hands, and tucked it under my arm without thinking twice.
+Dad's tech manual sat on the shelf above my desk, spine cracked from years of use, pages dog-eared in a dozen places where he'd marked something worth coming back to. Dad's letter was still folded in at the controller diagrams, right where I'd left it, the bear's paw print at the bottom of the page the only signature on it. I pulled the manual down, the weight of it familiar in my hands, and tucked it under my arm without thinking twice.
 
 Might need this. Just a hunch.
 
@@ -235,6 +235,14 @@ It had stopped.
 The Goblin segment, the one that had been glowing dull red just a moment ago, was now lit up in bright green, pulsing faintly like it was locked in and waiting for confirmation. Text appeared beneath it, clean and definitive and completely final.
 
 ***[RACE SELECTED: GOBLIN]***
+
+***[Five patrons watch over Eryndal, and every adventurer follows one. Who will you ch—]***
+
+The line broke off mid-word, the text fraying at the edge like a bad signal. I squinted at the empty spot where Lumi's bead had hung, my eyes still stinging from the dark.
+
+***[PATRON ASSIGNED BY DEFAULT: SERANIS, GODDESS OF THE DEMI-HUMANS]***
+
+I hadn't picked a goddess either. Apparently the game had picked one for me.
 
 ***[PROCEEDING TO ATTRIBUTE ALLOCATION...]***
 

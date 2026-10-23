@@ -44,3 +44,13 @@ The necklace bond, Shiv Goblin evolution, and Ru's founding blessing land in Cha
 6. Arya has to separately negotiate her own place on that ship as a non-goblin, not assumed or automatic, see `codex/subplots/aryas-loop-discovery-and-reputation.md`.
 
 **Act Three forward-plot, see `outline/act-three-myrrhwood-expedition.md` for the full sequence.** Tatsuya eventually realizes on the page that "Call of the Bones" is the recurring monthly rally itself, not a separate thing, paying off point 6's "three times" seed. The rally finally succeeds with him present, Sevish and Wyx's collective trust crosses into genuine, earned Allied-band Affiliation (distinct from Chapter 8's already-unearned "elder" title, see `codex/lore/affiliation-and-reputation-system.md`), and the party ships out for Myrrhwood alongside a second, still-undefined elder NPC.
+
+## Arc One: the Battle of Thrash Hill and what follows (Addendum H)
+
+- **Battle of Thrash Hill** is the first battle and the Arc One mini sub-plot: the assault on PK_Wraith's early legacy crew (chapters 8 to 10), connected to the World Quest. (Dictation also mentioned "one of the holders" on the opposing side, unclear, see Open.)
+- **After the battle** the group splits from the Thrash Clan, who go to their boat and destination (see `codex/locations/eryndal-world-overview.md`), while Tatsuya, Arya and recruits head to Lunarest, avoiding bigger guilds.
+- **Lunarest and the Archive.** They get roughly to floor one of the Archive, the public level (see `codex/locations/astralum-archive.md`). It is heavily guarded, and as a goblin Tatsuya is watched by the royal guard from the door. He sees that deeper floors cannot be reached yet.
+- **Aims.** Crownfall qualification (season points, guild-only entry, a guild he founds), IRL money, stream growth, Leon and Arya, using his early world-quest advantage. He sells legacy drops that do not fit his build through Arya's brokering, and he is blackmailed and framed by PK_Wraith's influence while the whole new game watches, so streaming ramps up sooner. Recruits arrive gradually.
+- **Patron and weapon.** Shiv's set piece, the Staff of the Mist God, comes later in this arc (see `codex/lore/patrons-and-world-weapons.md`, owned by another agent).
+
+**Open:** the "holders" on PK_Wraith's side; whether the Staff of the Mist God is earned before or after Crownfall.

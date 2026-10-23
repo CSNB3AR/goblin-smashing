@@ -41,3 +41,7 @@ See `codex/lore/playable-races-and-character-creation.md` and `codex/objects/cal
 ## Cross-references
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`.
+
+## Patron: Seranis (Addendum H)
+
+At the start of the game each player chooses a patron to follow (five patrons, see `codex/lore/patrons-and-world-weapons.md`, owned by another agent). Goblins follow **Seranis**, a goddess (working name) who blesses demi-humans. Seven world weapons are blessed by patrons, and Seranis holds one, the Staff of the Mist God (see `codex/objects/staff-of-the-mist-god.md`). Whether the goblin glitch affects Tatsuya's patron choice is open.

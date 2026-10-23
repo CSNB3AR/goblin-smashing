@@ -6,6 +6,10 @@
 
 Not just the outstanding debt. The Tabuchis believe Tatsuya has copies of the first-gen schematics, or something else of his father's that could let them fix their second-gen hardware and finally compete with Kazuku's third-gen tech. That's their real endgame. Tatsuya doesn't know this yet, he just notices the questions don't add up to only being about money. See `codex/characters/kazuto-tabuchi.md` and `codex/characters/daichi-kazehaya.md`.
 
+## Dad's letter
+
+Daichi's letter in the manual says the Tabuchis pushed him hard to sell the business and he had not, that the manual holds what they need, and that Tatsuya should not give it to them and should speak to the bear (text in `codex/characters/daichi-kazehaya.md`). It gives Tatsuya enough to know the Tabuchis are behind the pressure, but not proof. Only Kazuku holds proof, which is what steers Tatsuya into HGO.
+
 ## What's known and by whom
 
 Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. This is Tatsuya's private knowledge, Chiyo doesn't know it, she assumes ordinary debt collection. The debt pressure that shows up in scenes like Eren's WattsUp visits (see `chapters/chapter-01.md`) is what's escalated in place of that direct contact ever since. Tatsuya doesn't yet know why the demands keep circling back to his father's old paperwork specifically, only that it never fully squares with "just pay us."

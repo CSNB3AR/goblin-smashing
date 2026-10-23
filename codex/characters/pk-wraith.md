@@ -31,3 +31,9 @@ First surfaces in Chapter 4 through Loop chatter reacting to the "Call of the Bo
 PK_Wraith's group stays in Lunarest after Hearthfire, where a faction that hates Shiv is growing (see `codex/lore/lunarest-royal-court.md`).
 
 See `codex/locations/bloodhurst.md` and `codex/characters/old-draft-minor-references.md` for the party who answers to him.
+
+## After Thrash Hill: blackmail and framing (Addendum H)
+
+PK_Wraith has real influence in a game where nobody is established yet except the names made in the closed beta. His crew was just wiped on a global stream, and Tatsuya is new and under everyone's gaze. Expect blackmail, a frame job and pressure on his early items, which is why Tatsuya gets his stream going sooner and leans on Arya's brokering to move legacy drops (see `codex/characters/arya.md`). PK_Wraith's side may include a holder of a world weapon (see Open).
+
+**Open:** who "one of the holders" refers to; not in chapter 10 as written.

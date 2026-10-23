@@ -75,3 +75,10 @@ A separately drafted "Arcane Bomber Goblin" build concept was reviewed and mostl
 - **Doppelganger ring resource:** the earlier ruling put it on SP at an accelerated drain, the page now shows an MP cost (60 to activate). Treat MP as canon on the page unless the author says otherwise.
 
 Nothing in this file is unlocked or referenced on the page yet. It exists so future chapters stay consistent with this design.
+
+## Staff of the Mist God, troops and enchants (Addendum H)
+
+- **Gun-blade form.** The Staff of the Mist God (see `codex/objects/staff-of-the-mist-god.md`) has a two-handed energy rifle / gadget gun-blade form that suits his shoot-and-move play while he casts through the staff. It also stacks enchantments faster at lower MP cost and raises a fallen player **once every seven days**, which offsets the 72-hour death lock.
+- **Troop enchants.** Tatsuya is the first to fill guild slots with NPC troops. Enchants multiply on them and last longer than on players, since troops do not follow the player system, so he can build super-soldiers (see `codex/lore/companion-troop-system.md`, owned by another agent). Crownfall does not cap troops.
+
+**Open:** the staff's name and minuses.

@@ -30,23 +30,25 @@ Yuna. The name surfaced automatically, tied to Momo's whole personality lately, 
 
 The broadcast cut to a wide shot of a walled town sunk in the snow, a medieval city-state small enough to cross in ten minutes on foot, all gray stone and shuttered houses around a squat city hall with a banner snapping on its steps. Smoke hung low over the roofs. Along the bottom of the frame the overlay read **ZONE: CONTESTED**, and the WattsUp lightning bolt sat on the sponsor bar right there between two logos I didn't know, and I almost laughed. I squinted against the store lights glaring off the glass and dug the heel of my hand into one eye, like that would make me stop looking. It didn't.
 
-Past the town the plains rolled out white toward the one pass that led back to Lunarest, and that was where the Knights had planted themselves. A shield line across the throat of the pass, casters stacked behind it, fire and smoke pouring down the only road in. Every Aogiri tag that came through got lit up before it finished loading. I watched a lone Spellforger in midnight blue fold in the crossfire before his boots cleared the rocks. One more body out for seventy-two hours.
+Past the town the plains rolled out white toward the one pass that led back to Lunarest, and that was where the fight was really being won. Not in the open. The Knights of the London Spire had pulled back into the walls themselves, twenty of them tucked into shuttered houses and the shadow of the gatehouse, and they weren't holding a line at all. They were waiting.
 
-That was the whole fight, and it was working. Aogiri's last twelve were stuck inside the walls, cornered into the city hall and a little house beside it, their banner on the hall steps, while their reinforcements walked into the funnel one at a time like it was a turnstile. Nobody had to charge in and kill the twelve. The Knights only had to keep that road shut and let the smoke do the rest.
+Every Aogiri tag that came through the gate walked into a street the Knights had already built a kill zone for. The cam kept cutting to it. A lone Spellforger in midnight blue stepped off the road onto packed snow, and bolts and fire came out of three windows at once and folded him before his boots cleared the gatehouse. One more body out for seventy-two hours. The cam pulled back and I could see the whole shape of it, every window a firing slot, every alley a cut-off, the street a funnel with nowhere to run but forward.
+
+That was the whole fight, and it was working. Aogiri's leader was stuck inside with eleven others, pinned in the city hall and a little house beside it with their banner on the hall steps, and he wasn't well. The overlay flagged it in small green letters beside his name, **POISONED**, a slow rot the Knights' casters had put on him that ate a little health every few seconds, and the only thing that cleared it was an antidote none of the twelve had left. The antidotes were on the people trying to reach him. Every one of them who died at the gate went on the seventy-two-hour lock, out of the fight for three days, and the ones who came back were throwing themselves at the same gate with the same kill zone waiting. Nobody had to charge in and finish the twelve. The Knights only had to keep the gate bleeding and let the poison do the work.
 
 I hated how clean the read came. It was the tactics. It had always been the tactics, the reason I'd loved this game in the first place, who had the ground and who had the clock and where a fight actually broke, back when Eren and I spent whole nights drawing builds on graph paper and arguing over how a fight should be played. That was exactly why I kept my back to it now. It was still in there, and I hated that it was still in there. I dragged a hand back through my locs, a loose one slipping free again, and made myself breathe.
 
-And they were playing like boneheads. Feeding reinforcements through a single door one body at a time was handing the Knights a free kill every minute. That road was London's single point of failure just as much as Aogiri's, one input, one output, no second line, the kind of thing my father would have glanced at and asked where the redundancy was. The plains had deep caverns running under them too, a way around the pass that nobody on the broadcast had even mentioned. Hold the reinforcements out of sight, wait for a breakout from inside the walls, hit the pass from both sides at the same moment. And the banner only had to stay standing. As long as it did, the zone stayed contested and the Knights couldn't start their ten minutes. There was exactly one right play left: sit the banner, force London to come and get it, and stop dying one at a time.
+And they were playing like boneheads. The leader had one real choice and the poison was eating it. Either he cured himself and broke out with the eleven while a wave hit the gate from the other side at the same moment, so the Knights had to choose a front, or he sent a runner out through the caverns under the plains, a way around the gate nobody on the broadcast had even mentioned, to meet the wave and bring the antidote back. Anything, as long as it was a decision. The gate was London's single point of failure too, one input, one output, no second line, the kind of thing my father would have glanced at and asked where the redundancy was, and the Knights were thin there. Every minute the leader sat on the steps was a minute the poison took from his health bar, and the banner was bound to him. If he went, it went.
 
-Aogiri's captain came down the hall steps anyway, weight shifting forward on-screen, pulling the whole twelve out behind him, leaving three guards on the banner and the high ground at his back, committing to a push on the gate before a single reinforcement had even massed. My hands went flat on the counter.
+Aogiri's leader didn't move. He sat on the hall steps with his shield across his knees and watched his own health tick down, one tick, then another, calling out to no one, waiting for a wave that kept dying at the gate before it ever reached him. The cam lingered on his face, a big man with his jaw set like he meant to outlast the poison on stubbornness alone. My hands went flat on the counter.
 
-"Don't do it," I said out loud, low, to no one, already knowing how this ended, and I hated that I'd said it. I turned my back on the screen and went back to wiping the same spot I'd already cleaned twice tonight. "Just sit the banner. You've got nothing to trade for that fight."
+"Pick something," I said out loud, low, to no one, already knowing how this ended, and I hated that I'd said it. I turned my back on the screen and went back to wiping the same spot I'd already cleaned twice tonight. "Break out or cure it. Do something."
 
 Behind me, sound cracked out of the speaker, sharp electronic hits stacking fast over each other, a double-kill chime that made the crowd explode, and I winced as the volume spiked. Then the roar changed. Something had gone down on the hall steps.
 
-"The Aogiri banner is down!" Yuna's voice cut through the noise, half-shouting. "The zone belongs to the Knights alone, and the ten-minute clock is running!"
+"His health bar's gone! Aogiri's leader is down, and the banner goes with him!" Yuna's voice cut through the noise, half-shouting. "The zone belongs to the Knights alone, and the ten-minute clock is running!"
 
-I didn't turn around for any of it. I wiped the same spot a third time and a fourth, listening to the crowd climb as the minutes bled off, a long dull groan rolling through it every time another Aogiri tag tried the pass and didn't make it. Nobody left to contest the zone. Then one low, resonant tone, the kind that meant something had just ended for good.
+I didn't turn around for any of it. I wiped the same spot a third time and a fourth, listening to the crowd climb as the minutes bled off, a long dull groan rolling through it every time another Aogiri tag tried the gate and didn't make it. Nobody left to contest the zone. Then one low, resonant tone, the kind that meant something had just ended for good.
 
 I already knew what it sounded like when a hold timer ran out.
 
@@ -68,25 +70,25 @@ He paused, let the applause roll through and fade, then his expression shifted i
 
 Gold light bloomed across the screen behind him, a map pattern I recognized a half-second before my brain caught up. Not one continent anymore but five. Five separate landmasses where there had only ever been one, each one detailed enough that I could see mountain ranges and coastlines rendered in fine, deliberate strokes.
 
-"Eryndal is growing," Kazuku said, and the arena noise swelled again, louder this time, people on their feet. "The Hearthfire expansion arrives January 1st. Five new continents, each one favoring the people born to it. Kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are and what you've done. Earn their trust, or don't. And before the real wars come, we're giving you a taste of them. A castle, a neutral zone, and nowhere to hide."
+"Eryndal is growing," Kazuku said, and the arena noise swelled again, louder this time, people on their feet. "The Hearthfire expansion arrives January 1st. Five new continents, each one favoring the people born to it. Kingdoms and cities you'll build and defend yourselves, in a world where the people already living there notice exactly who you are and what you've done. Earn their trust, or don't. And before the real wars come, we're opening a new way to fight. Siege. Five guilds, one neutral zone, every guild starting with nothing but a camp and a flag. Build it, hold it, outlast the rest. And for the players who would rather fight for sport than for land, there's a league waiting for you when the season starts."
 
 My weight shifted forward slightly, like I could lean into the screen and see the map more clearly if I just got close enough. Then I caught it and stepped back, and found the counter's edge with my hand again.
 
-"And to christen it," the bear went on, "we'll be hosting the Crownfall Siege Castle event on Christmas Day, in a neutral zone nobody owns. A fortress, a banner, twenty of your guild on a side, open to every new character, with ten million yen on the table." The number bloomed in gold behind him, **¥10,000,000**, and the arena roared for it. He reached behind his back and produced an oversized access drive, the kind of theatrical prop that only worked because he was ten feet tall and made of CG, gold light spilling off it like it was the most important object in the world. "Open beta starts tonight. And whether you're stepping into Eryndal for the first time, or you've been circling the idea of setting up shop in the new economy, there's never been a cheaper way in. For the next seventy-two hours only, every HGO access drive is fifty percent off. And about your existing avatar, every closed-beta character locks at its level once the expansion launches. Legacy Points waiting to be spent or cashed out on your terms, and once you're on a new avatar the old one is retired."
+"And to christen it," the bear went on, "we'll be hosting the Crownfall Siege on Christmas Day, in a neutral zone nobody owns. Twenty of your guild a side, open to every new character, with ten million yen on the table." The number bloomed in gold behind him, **¥10,000,000**, and the arena roared for it. He reached behind his back and produced an oversized access drive, the kind of theatrical prop that only worked because he was ten feet tall and made of CG, gold light spilling off it like it was the most important object in the world. "Open beta starts tonight, and Crownfall opens Season One. Everything you earn from the moment you log in counts toward the season. Points are yours alone, but Crownfall is a guild event, so bring your guild. And whether you're stepping into Eryndal for the first time, or you've been circling the idea of setting up shop in the new economy, bring your business here. There's never been a cheaper way in. For the next seventy-two hours only, every HGO access drive and every rig is fifty percent off. And about your existing avatar, every closed-beta character locks at its level once the expansion launches. Legacy Points waiting to be spent or cashed out on your terms, and once you're on a new avatar the old one is retired."
 
 The number appeared on-screen beneath him, clean white text against the dark: **50% OFF - 72 HOURS ONLY**.
 
 I read it twice, the same way I'd read Chiyo's text, making sure the number was real and not something my exhausted brain had invented to torment me.
 
-Half off. For three days. I did the math automatically, the same way I did every math problem that involved money I didn't have. If I bought it right now, there was enough. Barely. But enough. And ten million yen on the table for one night, from the one game on earth I'd sworn I'd never touch.
+Half off. For three days. I did the math automatically, the same way I did every math problem that involved money I didn't have. If I bought it right now, there was enough. Barely. And ten million yen on the table for one night, from the one game on earth I'd sworn I'd never touch.
 
-The thought landed plain and certain, no drama attached to it, just a fact I was telling myself because saying it twice was the only way I'd convince myself. If there was ever going to be a window, it was now, while it was cheap.
+I shook it off. Not tonight, and not this game. Tonight was a shift, and tomorrow was another one, and a sale was only a sale. I'd watched people burn their savings on less.
 
 My thumb found the edge of the counter and pressed there, hard enough that my nail went white, a loose loc slipping across my face that I didn't bother pushing back. My mind was already calculating what it would take, what I'd need, how fast I could make something out of this to convince Chiyo.
 
 It's not like I was making bank here. Gato was a good guy, but this job had a ceiling and I'd hit it six months ago. Chiyo was covering more than she should, Mom's bills weren't getting smaller, and the Tabuchis weren't going to stop calling just because we kept ignoring them. If I didn't do something, Chiyo was going to make the Tochi decision for me, and I'd be walking back into that school with my tail between my legs. I scrubbed a hand down my face, my palm dragging over eyes gone dry and gritty under the store lights.
 
-Or I could take a gamble on this, and prove I could actually do something about it. The thought settled cold and sharp.
+I wasn't going to gamble the little I had on a game I couldn't even stand to hear. I picked the rag back up and told myself that was the end of it.
 
 Red-gold headlights swept across the front window and my stomach dropped half a second before I understood why. A black car eased up to the curb outside the charge bays, slow and certain.
 
@@ -176,7 +178,7 @@ I kicked the stand up, rolled it forward off the curb with my feet, and pulled o
 
 Some track was playing low through the scooter's tiny built-in speaker, one of Yuna's, something Momo had dropped into my queue two weeks ago without asking and I'd never bothered deleting.
 
-The ride home ran out from under me before I was ready for it, the Haya EB slowing under my hand, the dash blinking dark for a full second and coming back sulky and dim as the familiar six-story building came up on my left, the one I'd been looking at every night for two years without ever really seeing it anymore. A striped green awning caught the streetlight overhead, faded a shade lighter than I remembered it being when we'd first moved in, and the plain glass doors of the lobby threw my own headlight back at me for a second before I cut the engine.
+The ride home ran out from under me before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back sulky and dim, and then the motor quit altogether, the hum dropping out of the frame like someone had pulled a plug. I thumbed the throttle twice. Nothing. I swung off into the rain and walked it the rest of the way, boots splashing through the gutter, rain needling my neck, my jaw tight as the familiar six-story building came up on my left, the one I'd been looking at every night for two years without ever really seeing it anymore. A striped green awning caught the streetlight overhead, faded a shade lighter than I remembered it being when we'd first moved in, and the plain glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I leaned it against the wall.
 
 I parked around back on reflex, in the spot that wasn't technically mine but nobody else ever used, and came in through the side door the hotel staff used during the day.
 
@@ -198,7 +200,7 @@ I didn't answer that. I didn't have to. She'd meant it as a promise, not a threa
 
 I gave her a nod that didn't commit to anything, the same nod I'd been giving her for months whenever this conversation came up, and headed for the stairs, feeling her eyes shift back to the screen.
 
-She was going to decide for me whether I wanted her to or not. And unless I wanted to be a low-level tech engineer somewhere or get shipped off to some military prep, HGO was my only real shot at the kind of money that fixed any of this. WattsUp wasn't cutting it, and we both knew it.
+She was going to decide for me whether I wanted her to or not. WattsUp wasn't cutting it, and we both knew it.
 
 I took the steps two at a time, my boots landing heavy on each one, the sound echoing in the stairwell.
 
@@ -210,7 +212,7 @@ In the front room, Taji was still awake on the couch, wrapped in a blanket he'd 
 
 "They actually did it," Taji said, not looking up, his tone pitched somewhere between impressed and envious, assuming the way he always did that I had no idea what he was talking about and needed the context explained.
 
-"Yeah," I said, dropping onto the couch beside him and stealing a corner of the blanket back without asking. "It was on at work. Aogiri threw it at the end. Their captain walked out of the hall when they should've sat on the banner."
+"Yeah," I said, dropping onto the couch beside him and stealing a corner of the blanket back without asking. "It was on at work. Aogiri threw it at the end. Their leader sat on his hands and let the poison take him."
 
 Taji turned to look at me, eyebrows raised, like I'd said something that didn't match the script he'd been expecting. "You actually watched it? Like, the whole fight?"
 
@@ -226,33 +228,41 @@ The Haya EB's dash was still sulking at the back of my mind, that long blank sec
 
 My room was the last door down the hall, the converted corner of the apartment my father had worked out of for most of my life, and I didn't bother with the overhead. The desk lamp was enough. The room smelled faintly like old solder and cold circuit boards, the way it had since long before the funeral, and two pale grooves still ran along the floorboards from the desk to the door where a wheelchair had worn them down.
 
-Dad's tech manual sat on the shelf above the desk, spine cracked from years of use, pages dog-eared in a dozen places. I pulled it down and flipped to the section on the EB's controller board, both hands flat on the desk, my thumb already running down the margin notes in his slanted handwriting, looking for the line about the dash resetting itself under load.
+Dad's tech manual sat on the shelf above the desk, spine cracked from years of use, pages dog-eared in a dozen places. The EB had to be fixable. Everything he'd built could be fixed. I pulled the manual down and flipped to the section on the controller board, both hands flat on the desk, my thumb running down the margin notes in his slanted handwriting, looking for the line about the dash resetting itself under load.
 
 Something slid out from between the pages and landed face-up on the desk. A single sheet, folded in thirds, soft at the creases like it had been sealed in there a long time. His handwriting again, but not the margin shorthand. Slower. Pressed harder into the paper.
 
-**[Tatsuya. If you're reading this, don't trust the paper trail. Look at who has been leaning on us. Kazuku has what proves it, and he only answers inside the game.]**
+**[Tatsuya,]**
 
-I read it once for the words and once for the date I couldn't find, because there wasn't one. My hands had gone flat on the desk again without me telling them to.
+**[If you're reading this, then I'm gone, and I didn't manage to deal with the Tabuchis. I can't explain everything, not on paper. But what's in this manual is what they need, so don't give it to them. Not a page, not a drawing. They've been pushing me for a long time to sell the business out from under us, and I haven't, and I hope that by the time you read this they still haven't gotten hold of anything that matters to their plans.]**
 
-Kazuku. The bear. The thought came out of me flat, a list already starting behind it. Dad knew him. Dad knew the only way to reach him would be inside the game. And "leaning on us" wasn't the Tabuchi calls. It was older than the calls.
+**[I'm sorry. I know I'm leaving this on you and Chiyo, and that isn't fair. But I know you can carry it.]**
 
-My breath went out through my nose, slow and controlled, and a loose loc slid across my face that I didn't push back. I'd spent a year telling myself the pieces only looked wrong because I was grieving. Standing there with the page still warm from my hands, I knew I was the only one in that apartment who'd been pretending.
+**[If you want the truth, talk to the bear. He's the only one who has it, and he'll tell you. Just be careful who is listening.]**
 
-I refolded the note along its old creases, slid it back in at the controller diagrams, and set the manual on the shelf exactly where it had been, spine out, because Chiyo and the twins weren't supposed to know there was anything in it to find. Later. I couldn't do anything with it from here. I killed the lamp and went back down the hall.
+**[A man who couldn't walk once built a place where he could run. The world there doesn't know my name. Maybe it's time it did.]**
+
+I read it once for the words and once for the date I couldn't find, because there wasn't one. My hands had gone flat on the desk again without me telling them to. At the bottom, where his name should have been, there was only a print in dark ink, smudged at one edge. I tilted the page toward the lamp and squinted until the shape resolved: a paw, four toes and a wide pad. A bear's.
+
+The bear. Talk to the bear. I turned the words over and they wouldn't sit still. Then another line surfaced, one I'd heard ten thousand times over the last year and tried not to hear once. Bring your business here. I stopped breathing. He couldn't mean. He couldn't mean the man on the stage, the one who'd just handed a stadium an oversized drive, the one who had a ten-foot cartoon bear for a face.
+
+But the first-gen pod. The one Dad had spent his last years on, in this room, in a chair that wasn't built for the work. It had never been a side project. It had been a piece of this. My breath went out through my nose, slow and controlled, and a loose loc slid across my face that I didn't push back. I'd spent a year telling myself the pieces only looked wrong because I was grieving. Standing there with the page still warm from my hands, I knew I was the only one in that apartment who'd been pretending.
+
+Everything lined up the way a bad sum finally lines up. The calls that kept circling back to his paperwork. The Tabuchis who wanted what was in this book more than they wanted their money. Dad hadn't wanted them to have it. He had known exactly what they'd do when he was gone, and he'd left the answer in the only place a man like me would look, inside a manual for a scooter, and with the only person who could prove any of it. A bear who answered, if the letter was right, inside the game.
+
+That was the part I kept coming back to. I couldn't walk into HGO with nothing and expect the man behind it to take my call. A goblin with a headline wouldn't do it either. But a player carrying something only my father could have built, a gadget, a design, a piece of his logic that nobody else in the game had seen, and that player standing at the front of a guild when ten million yen and every eye in the world was on Crownfall? That might get his attention. And it paid. Whatever else the game was, it paid, and Mom's six months hadn't stopped running just because I'd found a letter.
+
+I refolded the page along its old creases, slid it back in at the controller diagrams, and set the manual on the shelf exactly where it had been, spine out, because Chiyo and the twins weren't supposed to know there was anything in it to find. I killed the lamp and went back down the hall.
 
 Taji hadn't moved. I dropped back onto the couch beside him, the blanket warm against my legs again.
 
-I thumbed my phone awake out of habit more than intent, the screen lighting up in my hand, and pulled up Loop without really thinking about why. An account barely a year old, a few dozen follows and nobody following back, and I scrolled past a wall of reactions to tonight's fight, clips, hot takes, people arguing over who'd thrown the last push and which prince was going to start a war over it, before I caught myself and backed out.
-
-Not tonight. I didn't need to see what everyone else thought about a game I wasn't even playing.
-
-I opened the app with my bank balance in it instead, the one that told me exactly how much room I had to maneuver and how much I didn't.
+I opened the app with my bank balance in it, the one that told me exactly how much room I had to maneuver and how much I didn't.
 
 Rent covered. Mom's hospital bill covered, barely, with Chiyo carrying most of the actual weight, groceries for one more week if we were tight about it. And underneath all of that, if I moved right now, there was enough left over for a drive.
 
 My thumb swiped to the Nexus Enterprises purchase screen, the ad blinking next to a number that counted down the remaining time of the sale.
 
-If I did this, I couldn't forget why I was doing it. Not for me. Not to prove something to Eren or show off to Haruto or get Loop clout or any of that. It was for them. My eyes flicked toward Taji, who was still staring at the frozen trophy shot like he was trying to memorize every detail.
+If I did this, I couldn't forget why I was doing it. Not for me. Not to prove something to Eren or show off to Haruto or get Loop clout or any of that. It was for them. It was for a man who couldn't walk and the name nobody in that world knew. My eyes flicked toward Taji, who was still staring at the frozen trophy shot like he was trying to memorize every detail.
 
 Fine. I pulled in a breath through my nose, held it longer than I needed to, and let it out slow and controlled. Doing it.
 
@@ -262,7 +272,7 @@ A small green confirmation bloomed on the screen a moment later, text appearing 
 
 I locked my phone and set it face-down on the couch beside me, my hand coming up to rub the back of my neck. I couldn't waste a single day. I had to figure things out early. Every hour I spent in Eryndal from here on had to count for something real.
 
-No noob bullshit. Find the fastest route to turn this into money she couldn't argue with, and prove this wasn't just me gambling my future on a dream that didn't pay.
+No noob bullshit. Find the fastest route to turn this into money she couldn't argue with, and a way to put my father's name in front of the bear.
 
 I didn't remember closing my eyes.
 

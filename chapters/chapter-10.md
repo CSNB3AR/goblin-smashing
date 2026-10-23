@@ -639,4 +639,6 @@ I dismissed the window and looked back toward camp, toward the dark ridge where 
 
 "Yeah," I said. "Welcome to the team."
 
+Crownfall was a guild event. Two of us on a ridge wasn't a guild, and seasonal points didn't care how clean one fight had been. I would need a guild of my own, and soon. I rubbed my thumb across my cold claws and let the thought settle.
+
 **[END CHAPTER TEN, PART TWO]**

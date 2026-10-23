@@ -74,3 +74,7 @@ Current spell unlocks: Static Lash (Mastery building), Tempest Fan, Storm Shear,
 ## Personality
 
 High-energy, passionate, slightly chaotic. Plays aggressive and loud, gets easily tilted by lag or toxic teammates, then laughs it off. Refuses to read tutorials or guides, forces her way through everything by stubborn trial-and-error. Extremely expressive, her face and hands do half the talking. Fiercely protective of her people, defends them hard, carries lower-skilled friends without hesitation.
+
+## Info broker in Arc One (Addendum H)
+
+Her information-broker role is vital after Thrash Hill: she sells the legacy drops Tatsuya cannot use (through her auction contact Jiro Amano) and tracks the guild chats on his location. She joins his adventure first and his guild later, because Crownfall is guild-only and Tatsuya has to found one (see `codex/lore/hearthfire-expansion-and-seasons.md`). She is a Spellforger who tracks everything about the new game as it starts.
