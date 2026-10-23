@@ -188,7 +188,17 @@ A small bead of light drifted out of the white and settled at eye level, bobbing
 
 ***[Hi there! I'm Lumi, your guide to Eryndal! Let's find the perfect you!]***
 
-A mascot. Of course there was a mascot. I let out one breath through my nose, almost a laugh, and kept my eyes on the wheel.
+A mascot. Of course there was a mascot. I let out one breath through my nose, almost a laugh, and kept my eyes on the bead of light.
+
+***[First, a little about where you're going! Hero's Glory Online isn't an arena or a lobby. It's a second world. Everything you earn stays with you, the people you meet remember what you do, and nothing resets when you log off.]***
+
+I knew all of that. Taji had recited it at the breakfast table like scripture, and I had tuned out every word. I dug the heel of my hand into one eye, still stinging from the pod's first white flash, and let her keep going.
+
+***[Eryndal is watched over by five patrons! Each one favors a people and gifts them something no one else gets. Seranis, goddess of creation, watches over the demi-humans. The others watch over the elves, the humans and the dwarves. And the fifth? Their gifts come with a price, so most adventurers keep their distance!]***
+
+Five gods, one of them bad news. Eren would have had his pick memorized by now. I rolled my shoulders, the pod's padding squeaking against my jacket, and decided I could care about it after I'd picked a face.
+
+***[Choose your race, and the patron who favors it will bless you. Ready? Let's begin!]***
 
 A wheel materialized in the space in front of me, spinning slowly at first, each segment marked with a race name and a small icon rendered in fine detail. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** The Goblin segment sat near the bottom, glowing a dull red compared to the brighter colors around it, and even without reading the stats I could tell it was flagged as the lowest-tier option, the joke pick nobody took seriously.
 
@@ -236,7 +246,7 @@ The Goblin segment, the one that had been glowing dull red just a moment ago, wa
 
 ***[RACE SELECTED: GOBLIN]***
 
-***[Five patrons watch over Eryndal, and every adventurer follows one. Who will you ch—]***
+***[Now, which of the five will you ch—]***
 
 The line broke off mid-word, the text fraying at the edge like a bad signal. I squinted at the empty spot where Lumi's bead had hung, my eyes still stinging from the dark.
 
