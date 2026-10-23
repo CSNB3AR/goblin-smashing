@@ -34,3 +34,7 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 - No em dashes. No floating quotes. One speaker per paragraph.
 - Real-world pressure (Ohema, Chiyo, the twins, the Tabuchis) never turns off.
 - No metagaming: he cannot know anything he has not seen, and the first-person lock makes this automatic.
+
+## Concrete detail
+
+See `style-guide/concrete-detail-and-figurative-language.md` for the author's rule on concrete detail, sparing figures and filter words, and the limits that keep the voice intact.

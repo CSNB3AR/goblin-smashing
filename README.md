@@ -11,6 +11,7 @@ Everything below is split into individual files/entries specifically so it can b
   - [`craft-rules.md`](style-guide/craft-rules.md)
   - [`voice-technique.md`](style-guide/voice-technique.md)
   - [`first-person-voice.md`](style-guide/first-person-voice.md): first-person conversion rules and what never changes.
+  - [`concrete-detail-and-figurative-language.md`](style-guide/concrete-detail-and-figurative-language.md): concrete detail, sparing figures, filter words, and the limits that protect the voice.
   - [`race-dialect-and-voice.md`](style-guide/race-dialect-and-voice.md) — per-race NPC speech/voice rules for the 8 playable races.
 - **[`codex/characters/`](codex/characters/)** — one file per character, 26 entries: Tatsuya, his family, supporting cast, antagonists, and in-game characters.
 - **[`codex/locations/`](codex/locations/)**: one file per location, 18 entries: real-world Tokyo locations, the championship venue, Eryndal's world/regions, and the northern and border places [`varekhold.md`](codex/locations/varekhold.md), [`varekpass.md`](codex/locations/varekpass.md), [`skaldmere.md`](codex/locations/skaldmere.md), [`ashenveil-forest.md`](codex/locations/ashenveil-forest.md), [`barren-lands.md`](codex/locations/barren-lands.md) and [`khen-mora.md`](codex/locations/khen-mora.md).
