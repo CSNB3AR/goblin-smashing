@@ -6,7 +6,7 @@ The tent had gone deep while I was out, the single oil lamp guttered low, shadow
 
 The smell hit before my eyes finished adjusting. Smoke, not the usual rotting-camp kind, but something sharper underneath, the bite of burned material rather than cook fire. My body turned toward the tent entrance before the thought caught up. I stopped myself. Turned back. Get the gear on first.
 
-Two items resettled on me as the game registered my full presence. The Gambler's Earring found my right ear again, the small specific weight of the thing, the single die of it pressing against my lobe in a way I'd half-forgotten across the session out. The Call of the Bones necklace landed a breath behind, warmth returning low against my sternum, the bone pendant swinging once and going still. The leather chest plate was already there from before the log-out, buckles sitting loose. I found the straps and cinched them down, the worn leather pulling snug against my ribs on the second try.
+Two items resettled on me as the game registered my full presence. The Gambler's Earring found my right ear again, the small specific weight of the thing, the carved dice of it pressing against my lobe in a way I'd half-forgotten across the session out. The Call of the Bones necklace landed a breath behind, warmth returning low against my sternum, the bone pendant swinging once and going still. The leather chest plate was already there from before the log-out, buckles sitting loose. I found the straps and cinched them down, the worn leather pulling snug against my ribs on the second try.
 
 **[COMMON GOBLIN LEATHER CHEST]**
 **[+1 ENERGY] [COMMON]**
