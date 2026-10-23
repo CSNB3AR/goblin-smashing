@@ -6,7 +6,7 @@
 
 - The contested border region of Myrrhwood's two landmasses (`codex/locations/eryndal-world-overview.md`): Beastfolk-kingdom land on one side, goblin clan land on the other. People from here are called Khen-Moran.
 - Beastfolk here have **partial advantages in augmented armor and weapons** through trade, a head start that makes the march harder to take than it looks.
-- Ship-locked like the rest of Myrrhwood, so no player reaches it before the world maps.
+- Ship-locked like the rest of Myrrhwood: reachable only by ship, and ahead of the world maps only through the hidden-quest exception described in `codex/locations/eryndal-world-overview.md`.
 - **Node Wars use:** a border march with a few small fort nodes. For Tatsuya's goblin trade company it is both a market and an obstacle: Beastfolk buyers want goblin goods, goblin clans distrust the border (`codex/subplots/goblin-trade-company-forward-plot.md`).
 
 ## Open

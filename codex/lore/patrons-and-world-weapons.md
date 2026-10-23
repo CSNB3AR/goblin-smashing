@@ -32,7 +32,7 @@ The grouping above is a working match only, so every race has a patron to point 
 An NPC faith that can exist in Eryndal, a faction of the living world and not a player guild. Light touch, available when a scene needs it. Lunarest's royal court canon wins wherever the two meet (see `codex/lore/lunarest-royal-court.md`); the church is not a crown's enemy by default.
 
 - Led by a **Pope** of Seranis. The church ranks **beside** the nobility, not under it, so a Pope answers to the goddess before any king or prince.
-- Its doctrine centers on **life, creation and resurrection**: healing, warding and bringing the fallen back. Its healers' arts (light guidance, targeted healing and cleansing, protective wards, see the Lumenara line in `codex/magic/book-of-radiance.md`) are healer-class abilities the world already allows. They are doctrine-bound, so they cost the caster something each time and can fail if the caster is weak, interrupted or compromised.
+- Its doctrine centers on **life, creation and resurrection**: healing, warding and bringing the fallen back. Its healers' arts (light guidance, targeted healing and cleansing, see the Lumenara line in `codex/magic/book-of-radiance.md`, plus the school's existing wards) are healer-class abilities the world already allows. They are doctrine-bound, so they cost the caster something each time and can fail if the caster is weak, interrupted or compromised.
 - A church holds relics of its patron and can recognize or refuse a bearer's legitimacy, which matters when a ruler wants divine endorsement.
 
 ## The seven world weapons

@@ -9,7 +9,7 @@
 - **How they are gathered.** Standard post-kill procedure for garrison soldiers, guards and monster-hunting parties: cut the cluster from the base of the neck as soon as the beast drops. Nobody treats them as treasure in the north, they are routine trade goods.
 - **Trade value.** Reliable coin. A small cluster pays for a day's supplies, which makes them a natural early substitute for shillings for any guild running short. Sold to smiths, enchanters and dwarven houses.
 - **Rarity and grade.** Base rarity **Uncommon** (Rough or Standard grade off a Class III Greyvast), **Rare** grades off prime specimens.
-- **Region.** The high mountain ranges and northern forest country along Valefrost's southern edge (`codex/materials/overview.md`, `codex/locations/eryndal-world-overview.md`).
+- **Region.** The Ashenveil Forest and the high mountain ranges of southern Valefrost (`codex/materials/overview.md`, `codex/locations/eryndal-world-overview.md`).
 
 ## Mono Steel
 

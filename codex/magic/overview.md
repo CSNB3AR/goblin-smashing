@@ -47,7 +47,7 @@ Not a hard racial lock, no race is pre-assigned a school. It comes from backgrou
 HGO's books cover the elements as follows: Embers = fire, Frost = cold and control, Tempest = wind and lightning (storm), Stone = earth, Tides = water (new), Radiance = light and healing, Veil = dark, Arcane = neutral. Eight books in all.
 
 **Open**
-- Optional in-world names: the school names from the author's earlier work (Ascentio fire, Ventara wind, Fulgara lightning, Terrava earth, Umbrava dark, Aquara water, Lumenara light) could serve as the tier-1 entry spell names in each book. Nothing is renamed, and whether to use them at all is undecided.
+- Optional in-world names: an alternate set of school names (Ascentio fire, Ventara wind, Fulgara lightning, Terrava earth, Umbrava dark, Aquara water, Lumenara light) could serve as the tier-1 entry spell names in each book. Nothing is renamed, and whether to use them at all is undecided.
 - Whether Tempest stays one book or splits into wind and lightning later.
 
 ## Cross-references

@@ -1,6 +1,6 @@
 # Amulet of Seranis
 
-**Type:** Object, in-game, forward plot. A divine relic tied to the goddess **Seranis**, goddess of demigods and creation (and of life and resurrection), see `codex/lore/patrons-and-world-weapons.md`. Also called the Relic of Thalos in older records. Not yet on the page in HGO.
+**Type:** Object, in-game, forward plot. A divine relic tied to the goddess **Seranis**, goddess of demigods and creation (and of life and resurrection), see `codex/lore/patrons-and-world-weapons.md`. Not yet on the page in HGO.
 
 ## Facts
 

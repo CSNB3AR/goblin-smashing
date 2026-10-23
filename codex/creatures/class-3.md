@@ -12,7 +12,7 @@ Identity: an oversized alpha wolf found in Valefrost's deep-winter regions, lead
 
 ## Greyvast
 
-Identity: an ash-furred, iron-banded wolf-shaped beast of the northern forest and mountain country (the Ashenveil Forest and the high ranges along Valefrost's southern edge), shoulder-high on a large Beastfolk, with a wide skull and pale amber eyes. A faintly luminescent cluster of crystal grows along its ridge fur.
+Identity: an ash-furred, iron-banded wolf-shaped beast of the northern forest and mountain country (the Ashenveil Forest and the high ranges of southern Valefrost), shoulder-high on a large Beastfolk, with a wide skull and pale amber eyes. A faintly luminescent cluster of crystal grows along its ridge fur.
 
 - **Stats:** Power and Speed both high, Courage high, Wisdom low-moderate (enough to read who is casting).
 - **Abilities:** Innate: caster aggro, it drops a melee attacker it is fighting and goes after anyone casting, so a party needs a bodyguard for its casters. Activated: a pinning lunge on lightly armored targets (details open).
