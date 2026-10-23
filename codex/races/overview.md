@@ -25,3 +25,7 @@ See `codex/magic/overview.md` for the tier-1 Wisdom-18 threshold itself and how 
 ## Advanced/evolved races, not selectable at creation
 
 **Shiv Goblin** (Tatsuya's evolution, see `codex/races/goblin.md` and `codex/objects/call-of-the-bones-necklace.md`) — the only one documented so far, forward material for other advanced evolutions as the story needs them.
+
+## Patrons
+
+Five patrons, one per race group, each giving its group a different trait (`codex/lore/patrons-and-world-weapons.md`). Seranis is the patron of the demi-humans, goblins included. The race-to-patron matches for the other races are working placeholders until the author supplies them.

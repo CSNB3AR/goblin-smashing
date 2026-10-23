@@ -13,3 +13,7 @@ The archive holds the truth about the first queen, **Isaveil Thandrel**, killed 
 ## Arc One access (Addendum H)
 
 After the Battle of Thrash Hill, Tatsuya and his group reach roughly **floor one**, the level open to everyone. It is heavily guarded and secured. A goblin entering is watched and scrutinized by the royal guard from the start, since goblins are already looked down on, and the deeper floors are heavier still. He realizes he cannot get further yet. Deeper access is later material. See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md`.
+
+## Sealed floors (OPEN idea)
+
+One possible explanation for the sealed lower floors: faith, not force, opens them. Doctrine and light can open sealed doors and wake ancient etchings in the stone, so the deeper levels answer to the Church of Seranis and its blessed bearers rather than to royal keys (see `codex/lore/patrons-and-world-weapons.md`). Not decided, and it does not change the Arc One floor-one access above.

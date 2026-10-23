@@ -1,6 +1,6 @@
 # Shiv's Warset
 
-**Type:** Object set, in-game. A 7-piece legendary item set tied to the "Call of the Bones" World Quest arc.
+**Type:** Object set, in-game. A 7-piece legendary item set tied to the "Call of the Bones" World Quest arc. Cross-link: one piece is the Staff of the Mist God (`codex/objects/staff-of-the-mist-god.md`), Seranis's world weapon, and the world has seven patron-blessed weapons too (`codex/lore/patrons-and-world-weapons.md`). How the two sevens relate is open.
 
 ## Facts
 

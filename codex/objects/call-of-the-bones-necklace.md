@@ -1,6 +1,6 @@
 # Call of the Bones Necklace
 
-**Type:** Object, in-game. Piece 1 of 7 in Shiv's Warset. Tatsuya's signature goblin item.
+**Type:** Object, in-game. Piece 1 of 7 in Shiv's Warset. Tatsuya's signature goblin item. Cross-link: it closely echoes the Amulet of Seranis (`codex/objects/amulet-of-seranis.md`); whether it is Seranis's relic or a separate item is open (`codex/lore/patrons-and-world-weapons.md`).
 
 ## Facts
 

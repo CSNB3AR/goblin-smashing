@@ -15,6 +15,10 @@ A four-band difficulty system, Class I weakest through Class IV strongest, leave
 
 Each entry uses the existing "Creature/Hero card" format (`codex/lore/deck-building-rarity-and-classes.md`): name, a short identity line, the six Discipline+Energy stats (`codex/lore/five-disciplines-stat-system.md`) as a rough illustrative band rather than a hard number (these scale with the zone/level a creature is actually encountered in), innate/activated/triggered abilities, and a rarity from the standard ladder. Narrative shorthand, not literally shown to the reader as a UI card for every encounter, per the existing house convention.
 
+## Draft and pack animals
+
+**Drevhorn** (optional, open): a heavy draft beast, heavier through the shoulder than a horse, used by northern caravans to pull carriages and sleds through snow. A working animal, not a mount for fighting; overland travel in Eryndal has no fast travel, so a hired Drevhorn carriage is one way a party crosses the north (`codex/locations/eryndal-world-overview.md`). **Open:** whether this exists in HGO canon, and whether it overlaps the Wyvern Pact mount trade (`codex/pro-scene/guilds.md`).
+
 ## Scope note
 
 Each class file below carries a representative, expandable roster, not an exhaustive monster manual. More entries get added as later chapters need them.

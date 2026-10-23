@@ -16,6 +16,14 @@
 
 A small walled medieval city-state in the snowy plains of Lunarest, Arendelle-like, with a city hall, small houses and bunkers. The town is unnamed, name left open. The only pass between Lunarest and the plains runs into it, and the plains have deep caverns that offer an unused flank. It is where the Battle of the Snowy Plains is fought in-world (see `codex/lore/hearthfire-expansion-and-seasons.md`).
 
+## Places by region (forward material)
+
+- **Valefrost (north):** the **Ashenveil Forest and Mountains** (`codex/locations/ashenveil-forest.md`) divide the southern lowlands from the northern holds. **Skaldmere** (`codex/locations/skaldmere.md`) is the waypost town on the approach, **Varekpass** (`codex/locations/varekpass.md`) the garrison pass beyond it, and **Varekhold** (`codex/locations/varekhold.md`) the mountain fortress on the northern coast. The **Barren Lands** (`codex/locations/barren-lands.md`) are the contested zone on the southern lowlands where the first big guild clashes land once the map opens.
+- **Myrrhwood (west):** **Khen-Mora** (`codex/locations/khen-mora.md`) is the border march on the Beastfolk side facing goblin territory.
+- These are node and hall sites for Node Wars (towns, resource sites, forts), not capitals.
+
+**Overland carriage service (OPEN, optional).** Hired carriages with drivers could run overland routes on a continent for a fee, a slow paid alternative to walking. Not decided; there is still no fast travel.
+
 ## The regions
 
 - **Lunarest**: central hub, human-dominated, the Season Zero continent. Where Tatsuya's goblin glitch drops him: Lunarest Outskirts. Seat of the royal court.
