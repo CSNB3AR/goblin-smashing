@@ -32,13 +32,23 @@ Fix at the lower-priority place. Keep chapter edits minimal and in the author's 
 - The Knights of the London Spire (guild: London Spire) have 10,500 season points; Aogiri has 10,250. The battle is worth 300. Twenty Knights against twelve Aogiri.
 - The Knights hide in the walls and ambush at the choke point. Aogiri's leader is poisoned, needs antidotes, makes no decision, dies; the banner is bound to its leader and ends. The Knights hold the zone for ten uncontested minutes and win. 40 million yen prize.
 
-## Backstory (author-stated; on the page it stays suspicion)
+## Backstory and timeline (author-stated; on the page it stays suspicion)
 
-- Daichi's company, Kazuhaya Tech, owned the first-gen pods. Daichi has history at Tochi. Daichi and Kazuku were partners; Daichi passed some of his work to Kazuku, which is why third-gen is advanced. He also sold the original schematics to Kazuku for Ohema's bills (how the sale and the handoff relate is OPEN).
-- Daichi's own car, the Haya Sedan, was a hybrid that ran on gas. Its breakdown caused the accident. Every Haya product was pulled from the market, the EB included. Only the EB scooter is fully electric.
-- The Tabuchis hired yakuza to sabotage Daichi's vehicle, expecting the family to go broke while Ohema was in the hospital. Chiyo's return was not in their plans. Kazuto hoped to win the business and schematics in court; Chiyo's own money blocks that.
-- Chiyo: yakuza daughter, owns the Nakamura Grand, has hired lawyers, does not pay the Tabuchis. Her money goes to bills and Ohema. She does not know the details of the sabotage but wants them to pay in her own right. Eren knows nothing.
-- OPEN: whether the earlier "a year before he died, plug-ins pulled from the adapted car" malfunction is the same event as the Haya Sedan breakdown or a second one.
+There are **two entirely separate accidents**. Never conflate them.
+
+| When | Event |
+|---|---|
+| About 11 years ago | The childhood car accident: Tatsuya's brow scar, and Daichi is paralyzed (the wheelchair grooves). Cause not stated. |
+| After it, over the years | Daichi goes all in on VR: Kazuhaya Tech owns the first-gen pods; the fully electric Haya EB; his own hybrid Haya Sedan (ran on gas, hand controls). Kazuku is his partner. They are building the third-gen pods. |
+| Spring 2044 | Tatsuya starts Tochi with Eren and Arya (second-years now). About three months in (about July 2044), the Eren betrayal and he drops out. He has been out a full school year and returns a first-year. |
+| About a year ago, months before the HGO release and the third-gen pods | The Tabuchis' hired yakuza sabotage the Haya Sedan. The breakdown causes the accident that **killed Daichi**. The Tabuchis use it to attack the business; **every Haya product is pulled from the market, the EB included**; income collapses. Ohema is already in the hospital; Chiyo pays; her money goes to bills and Ohema. |
+| About January 2045 | Tatsuya starts at WattsUp (about a year there now). |
+| About March or April 2045 to December 2045 | The HGO closed beta (Season Zero), about eight to nine months. Third-gen helmets launched with HGO. |
+
+- Daichi's company, Kazuhaya Tech, owned the first-gen pods. Daichi has history at Tochi.
+- Daichi did **not** simply sell the schematics. While he and Kazuku were building the third-gen pods, before he died, he **handed off some notes**; that stake **would have paid off Ohema's debt**. That is another reason his letter says to find the bear: Kazuku owes the family and holds what Daichi gave. The third-gen pods are advanced because the two were partners and Daichi passed some of his work on.
+- The Tabuchis expected the sabotage to bankrupt the family while Ohema was in the hospital. Chiyo's return was not in their plans. Kazuto hoped to win the business and schematics in court; Chiyo's own money blocks that.
+- Chiyo: yakuza daughter, owns the Nakamura Grand, has hired lawyers, does not pay the Tabuchis. She does not know the details of the sabotage but wants them to pay in her own right. Eren knows nothing.
 - Dad's letter (in the manual, bear paw print, no name) tells Tatsuya to speak to the bear; "bring your business here" makes the click.
 
 ## WattsUp
@@ -55,14 +65,20 @@ Fix at the lower-priority place. Keep chapter edits minimal and in the author's 
 
 ## Patrons, magic, items, places
 
-- Five patrons, one per race group. Seranis is goddess of demigods and creation (and life and resurrection) and patron of the demi-humans. The other four patrons, their names, domains and flair, "Gloomy", and the two additional weapons are not supplied (OPEN). Seven world weapons; Seranis holds the Staff of the Mist God (Shiv's set, resurrect once every seven days, gun-blade form). The Amulet of Seranis vs the Call of the Bones necklace is OPEN.
+- Five patrons, one per race group. Seranis is goddess of demigods and creation (and life and resurrection) and patron of the demi-humans. The other four patrons, their names, domains and flair, "Gloomy", and the two additional weapons are not supplied (OPEN). Seven world weapons, all relics. **Shiv's Warset is a set of unique items, not seven pieces; one of them, the Staff of the Mist God (Seranis), is a relic and is one of the seven.** Both exist. Seranis holds exactly one weapon (the staff: resurrect once every seven days, gun-blade form). The Call of the Bones necklace is a unique Warset item, not a relic. The Amulet of Seranis is retired (it would give Seranis a second relic).
 - Magic books: Embers, Frost, Radiance, Stone, Tempest, Arcane, Veil, and the new Tides (name OPEN). Tiers 1 to 8, Wisdom-18 gate.
 - Creatures use Class I to IV. The Greyvast is Class III. Monocrystals and mono steel exist (mono steel is a Rimeiron alloy).
 - Regions: Lunarest (central), Valefrost (north), Myrrhwood (west), Sunmarch (south), Azure Expanse (north peaks), Wraith Isles (east). BKC-derived places: Varekhold, Varekpass, Skaldmere, Ashenveil Forest, Barren Lands, Khen-Mora.
 - Provenance of imported material is kept only in `outline/bkc-reuse-map.md`.
 
-## Known inconsistencies to settle (chapters)
+## Settled by the author
 
-- Gambler's Earring ear: chapter 3 says right, chapter 10 says left. First appearance wins: right.
-- Sale-window hours and Crownfall days-out counts in chapters 8 and 10 must match the timeline above.
-- Sevish's weapon, chapter 3 level-1 vitals, the chapter 8 sheet vs the gas icon in chapter 10, the doppelganger ring cost (60 MP on the page), Arya's Hushveil tier, the chapter 8 pods vs monitor wording and the affiliate rule: settle by the hierarchy or leave OPEN.
+- Sevish always carried an axe (battle axe).
+- The pod overheats (not the monitor). Tochi submission window closes December 23rd; the exams are January 4th.
+- Arya (level 10 to 11) cannot cast tier 6. Hushveil is a low tier (about 2 to 3) with a smaller area and shorter duration; her mana is a large share of her pool.
+- Follow all style guides in `style-guide/` for every edit.
+
+## Known inconsistencies still to settle
+
+- Gambler's Earring ear: right (chapter 3, first appearance).
+- Chapter 3 level-1 vitals vs the codex formula, the doppelganger ring cost (60 MP on the page), the affiliate rule: settle by the hierarchy or leave OPEN.
