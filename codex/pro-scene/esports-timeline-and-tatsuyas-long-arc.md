@@ -1,26 +1,27 @@
-# Crownfall and What Comes After, and Tatsuya's Long-Term Arc
+# Crownfall, the Siege Pro League, and Tatsuya's Long-Term Arc
 
-Forward material, long-horizon. Keeps options open for what follows the Crownfall Siege Castle event without committing the story to anything that may not stay. The file name is kept for links. The old "esports timeline" and "Siege Pro League arc" framing is retired: **HGO is not an esports title, Siege is not a game mode, and no league exists in canon.**
+Forward material, long-horizon. Locks how Crownfall introduces the Siege format and how the Siege Pro League sits beside the open-world path, without turning the story into an esports story. The file name is kept for links. The old "esports timeline" framing is retired: **HGO is not an esports title. Siege is a battle-royale format introduced at Crownfall, and the Siege Pro League is an option active from the start of Season One that Kazuku mentions. Tatsuya is on the open-world path.**
 
 ## Where things actually stand
 
 - HGO's closed beta (Season Zero) ran roughly eight to nine months (see `codex/lore/timeline-and-beta.md`). It ended with the Battle of the Snowy Plains, an open-world city-state fight streamed as spectacle for the closed-beta crowd (see `codex/lore/hearthfire-expansion-and-seasons.md`).
-- Kazuku announces **Crownfall**, a one-off Siege Castle event in a neutral zone, with a ten million yen prize pool, alongside open beta and a 72-hour 50 percent discount on drives (see `codex/pro-scene/crownfall-siege-event.md`). It is a crowning event and a taste of the larger Node Wars that follow.
+- Kazuku announces **Crownfall**, the Season One opener for seasonal points and the first Siege (a guild-only battle royale in a neutral zone), with a ten million yen prize pool, alongside open beta and a 72-hour 50 percent discount on drives and the helmet rig (see `codex/pro-scene/crownfall-siege-event.md`). He also mentions a **pro league** as an option for players who do not want the open-world route. Crownfall is a taste of the larger Node Wars that follow.
 - Small companies, the WattsUp Corporation among them, buy sponsorship exposure on HGO because the game's stock is high. That is why the beta finale plays on the screen in Gato's store. It is a sponsor relationship, not a sign of an esports scene.
 - Haya Storm's end-of-Act-Two status is locked as "positioned for Season One" (see `codex/pro-scene/haya-storm.md`).
 
-## After Crownfall: options, none decided
+## After Crownfall
 
-- **Siege may return.** If players like the castle event, HGO could bring it back, through another announcement or an entirely different arc. It could also stay a one-off.
-- **Triggers that would make a return plausible (options, not a schedule):** Crownfall viewership and stadium crowds, sponsor interest from brands such as the WattsUp Corporation, and early Season One demand.
-- **Parked league notes.** A standing league, a points shop, Ember cores, a troop cap and a no-lock rule were drafted for a Siege that returns as a circuit. They are **not canon** and live only in `codex/lore/hearthfire-expansion-and-seasons.md` under "If Siege returns".
-- **Node Wars stay the main war.** The story's long arc runs through Node Wars, Myrrhwood and the business Tatsuya is building. Crownfall is the rehearsal for that conflict.
+- **The Siege Pro League is active from the start of Season One.** It is a standing, scheduled, ranked circuit on the Siege battle-royale format (5 guilds per session, 60 lives, 3 hours, shillings and Ember cores for winners). The mode is so watched that a pro scene with a league forms around it. Full rules: `codex/lore/hearthfire-expansion-and-seasons.md`, "Siege Pro League".
+- **It is an option, not the road.** Kazuku mentions it so players who do not want the open world have a path. The open-world path (Node Wars, Myrrhwood, trade, world quests) stays the spine of the story.
+- **Sponsor and crowd pull.** Crownfall viewership, stadium crowds and sponsor interest from brands such as the WattsUp Corporation feed the scene.
+- **Node Wars stay the main war.** They last weeks and months, unlike a three-hour Siege session. The story's long arc runs through Node Wars, Myrrhwood and the business Tatsuya is building. Crownfall is the rehearsal for that conflict.
+- **Open:** how the troop cap, full loot and no-rebound rules fit the battle-royale format (adapted, not confirmed).
 
-Tatsuya does not chase any of this. His drivers stay money, Dad's note, Eren and the world. Anything that follows Crownfall finds him, and each step is something he reacts to through what he notices and needs, never a ladder he is climbing for its own sake.
+Tatsuya does not chase any of this. His drivers stay money, Dad's letter, Eren and the world. The league and its crowds grow around him, and each step is something he reacts to through what he notices and needs, never a ladder he is climbing for its own sake.
 
 ## Tatsuya's arc, the long version
 
-**Not winning a seasonal championship until roughly season five**, a few years out from the story's present, if a championship structure exists by then (undecided). His first full-season run gets him closer, genuinely competitive, but doesn't end in a win. This is deliberate pacing, not a placeholder, the point is that his climb is real and earned over multiple years, not a single-season power spike.
+**Not winning a seasonal Siege Pro League championship until roughly season five**, a few years out from the story's present, if he chooses that route at all (undecided). His first full-season run gets him closer, genuinely competitive, but doesn't end in a win. This is deliberate pacing, not a placeholder, the point is that his climb is real and earned over multiple years, not a single-season power spike.
 
 **A roster change follows that run.** One of Haya Storm's members from this stretch, an older player, chooses to step back from competing. The resulting change ends up being a net positive for the guild, not a loss the story treats as a setback.
 
@@ -33,6 +34,6 @@ Confirmed by the author to actively develop, with one real correction to the ori
 ## Cross-references
 
 - `codex/pro-scene/tournaments-and-events.md`: current formats, prize pools, event history.
-- `codex/pro-scene/crownfall-siege-event.md`: the one-off Siege Castle event.
+- `codex/pro-scene/crownfall-siege-event.md`: the Season One opener and first Siege.
 - `codex/pro-scene/haya-storm.md`: the guild's actual current-arc status, stays the authority for anything before Season One.
 - `codex/characters/taji-kazehaya.md`: the flagged future-teammate idea above.

@@ -1,6 +1,6 @@
 # Haya Storm
 
-**Status:** Name locked. A small guild that forms around the Crownfall Siege Castle event (see `codex/pro-scene/crownfall-siege-event.md`) and grows across Act Two. Previously described as a three-player team; it is now a guild that fills its side of the 20-player Crownfall castle siege with garrison troops.
+**Status:** Name locked. A small guild that Tatsuya founds so it can enter Crownfall, the guild-only Season One opener and first Siege (see `codex/pro-scene/crownfall-siege-event.md`), and that grows across Act Two. Previously described as a three-player team; it is now a guild that fills its 20-player Siege side with garrison troops.
 
 ## The name
 
@@ -13,9 +13,9 @@
 - **Arya**: highly skilled Spellforger, fog/silence control via Book of Tempest's Hushveil (see `codex/magic/book-of-tempest.md`, `codex/characters/arya.md`), an information broker who asks to join his adventure, then his guild later. In the party engine she is the detonator.
 - **Pac_Pac**: Beastfolk brawler/tank with the Enrage racial (see `codex/characters/pac-pac.md`). How he enters the group is open now that the random-teammate mechanic is gone.
 
-**Comp reasoning:** the three roles were already implicit before the guild existed, Tatsuya's archetype rules out tank and hard-CC for him, which leaves exactly the space Pac_Pac and Arya fill. The engine: Pac_Pac holds and enrages, Tatsuya roots and stacks debuffs while his wards and enchantments keep Pac_Pac alive, Arya detonates. The actual synergy already works on the page: Arya's Hushveil Silence denies enemy casters and blinds/deafens an area, the same effect that let Ru and two goblins close distance safely during the Bloodhurst tent ambush, repurposed here to let Pac_Pac close distance safely in Siege play instead.
+**Comp reasoning:** the three roles were already implicit before the guild existed, Tatsuya's archetype rules out tank and hard-CC for him, which leaves exactly the space Pac_Pac and Arya fill. The engine: Pac_Pac holds and enrages, Tatsuya roots and stacks debuffs while his wards and enchantments keep Pac_Pac alive, Arya detonates. The actual synergy already works on the page: Arya's Hushveil Silence denies enemy casters and blinds an area, the same effect that let Ru and two goblins close distance safely during the Bloodhurst tent ambush, repurposed here to let Pac_Pac close distance safely in a Siege fight instead.
 
-**Roster grows during Act Two.** A Crownfall side holds 20, and garrison troops fill the empty slots (see `codex/lore/companion-troop-system.md`), so real players are added as they are earned, not invented as placeholders now. Two additions will be Tochi students (see the rule below).
+**Roster grows during Act Two.** A Siege guild fields 20, and garrison troops fill the empty slots (see `codex/lore/companion-troop-system.md`), so real players are added as they are earned, not invented as placeholders now. Two additions will be Tochi students (see the rule below).
 
 **Roster-composition rule, resolves how Tochi's representation actually works.** Tochi's representation rules require a majority of a 5-player representing squad to be actively enrolled at the school. Tatsuya only needs the squad's still-unnamed final two additions to be Tochi students, Arya and Pac_Pac never have to be. This is what actually makes winning the Tochi representative qualifier (see `codex/pro-scene/tochi-representative-qualifier.md`) mechanically possible without changing who's already on the team.
 
@@ -23,4 +23,4 @@
 
 ## Cross-references
 
-`codex/pro-scene/crownfall-siege-event.md` for the guild's actual tournament run (8-2 qualifying, 8th seed, beats Eren's side in the Top 32 reveal match, eliminated in the semifinals by Dosuke AI's guild with Haruto Murayama and Souma Ikeda). `codex/pro-scene/tochi-representative-qualifier.md` and `codex/pro-scene/inter-high-tournament.md` for the Act Two tournaments the team competes in next.
+`codex/pro-scene/crownfall-siege-event.md` for the guild's actual tournament run (underdog seed, shares a session with Eren's side for the reveal match, eliminated before the final by Dosuke AI's guild with Haruto Murayama and Souma Ikeda; heats to be refit to the 5-guild format). `codex/pro-scene/tochi-representative-qualifier.md` and `codex/pro-scene/inter-high-tournament.md` for the Act Two tournaments the team competes in next.

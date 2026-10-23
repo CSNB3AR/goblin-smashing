@@ -4,12 +4,14 @@ The real-world and in-game calendar the story sits inside. Sequence and rules fo
 
 ## The window
 
-The whole story, from the Season Zero finale broadcast to the Hearthfire launch and Node Wars opening, fits inside roughly **eight to nine months**. The closed beta ran about that long in real time. "Tonight" in Chapter 1 is **Sunday, December 10th, 2045**, the Season Zero finale. Crownfall is December 25th. Hearthfire is January 1st.
+The whole story, from the Season Zero finale broadcast to the Hearthfire launch and Node Wars opening, fits inside roughly **eight to nine months**. The closed beta ran about that long in real time. "Tonight" in Chapter 1 is **Sunday, December 10th, 2045**, the Season Zero finale. Crownfall (Season One opener) is December 25th. Hearthfire is January 1st.
 
 ## Beta structure
 
 - **Closed beta (Season Zero):** about **5,000 players**, from roughly **870,000 pre-orders**. One server, one continent. Access was a mix of invitation and pre-order draw.
-- **Open beta:** opens after the Season Zero finale. All players and businesses can enter, and access drives are discounted. Tatsuya's character is an open-beta character (see `codex/objects/hgo-access-drive.md`).
+- **Open beta:** opens after the Season Zero finale. All players and businesses can enter, and the access drive **and the helmet rig** are discounted 50 percent for 72 hours, which undercuts the Tabuchis' Gen 2 pods. Tatsuya's character is an open-beta character (see `codex/objects/hgo-access-drive.md`).
+- **The season restarts at open beta.** Open beta leads into Season One (Kazuku explains this at the start), so open-beta seasonal points roll into Season One. Individuals can earn them, but only guilds enter Crownfall, the Season One opener (see `codex/lore/hearthfire-expansion-and-seasons.md`, "Seasonal points and Arc One").
+- **New-game tone.** Closed-beta names (Dosuke AI, Eren and others) are established. Tatsuya is new, and after the global stream everybody is watching him.
 - Closed-beta characters freeze at Hearthfire. Open-beta characters are permanent (see `codex/lore/hearthfire-expansion-and-seasons.md`).
 - **Lumi** is the cute system guide who walks players through character creation. She glitches when Tatsuya's goblin-glitch selection fires (see `codex/lore/playable-races-and-character-creation.md`).
 
