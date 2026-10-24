@@ -29,6 +29,6 @@ The author's own example: the chapter 1 opening line about cleaning that "filled
 2. Smallest possible edit: delete the figurative clause or swap the filter word before rewriting a sentence. Keep the author's sentence length, rhythm, slang, dry humor, asides and rough phrasing.
 3. Keep Tatsuya's own comparisons that sound like him (sarcasm, tech and engineering, till and counter, game systems, volleyball).
 4. Replacement detail must already be on the page nearby. No new facts, beats, jokes or metaphors.
-5. Never touch dialogue, plain-narration thoughts the author wrote, Lumi and system text, the letter, sheets, notifications, names, numbers or paragraph order.
+5. Never touch dialogue, inner thoughts the author wrote, Lumi and system text, the letter, sheets, notifications, names, numbers or paragraph order.
 6. Roughly one change per 150 words at most. A paragraph that needs more than two edits is left and listed for the author.
 7. Every change is logged in `outline/concrete-detail-pass-log.md` (chapter, BEFORE, AFTER, reason) so the author can reject any line.

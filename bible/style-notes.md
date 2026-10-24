@@ -5,7 +5,7 @@ This document distills technique from a reference sample the user shared (an exc
 ## What the reference sample does well (worth keeping)
 
 - **Deductive internal narration around system mechanics.** The POV character reasons through stats, screens, and unfamiliar rules out loud in his own head, testing theories, drawing conclusions, getting them half right. This already fits Tatsuya, who "thinks in numbers and odds" per Writing Bible §4, lean into it whenever he's parsing something new about HGO or the Glory Codex.
-- **Inner monologue as plain first-person narration** (house format, see `style-guide/craft-rules.md` and `style-guide/first-person-voice.md`; the older quotes-only rule belonged to the third-person draft), dropped directly into the narration mid-paragraph rather than set off as its own beat every time. No quotation marks, no italics.
+- **Inner monologue in quotation marks and italics** (house format, see `style-guide/craft-rules.md`), set into the narration where the thought happens. Reflection and analysis stay narration.
 - **Dialogue paired with a tone or action beat**, never a floating line. Also already a Writing Bible rule, the sample is consistent about it, worth matching that consistency exactly.
 - **Dry, understated internal wit.** Humor comes from the character's own deflating observations about his situation, not from narrator jokes. Fits Tatsuya's established humor-as-deflection trait directly.
 - **Consistent, spare formatting for system text**, notification dings, bracketed status/skill text, kept visually distinct from prose. Compatible with the blue-box/card presentation already defined in `bible/game-system.md` §4.

@@ -11,7 +11,7 @@ Keep the author's sentences, rhythm, word choices and punctuation. Change only w
 - he / his / him / himself and "Tatsuya" become I / my / me / myself. "Tatsuya said" becomes "I said."
 - Body description of himself becomes his own sensation. `his jaw set` becomes `my jaw set`. A line about his own skin or locs survives only when he would feel or notice it.
 - Anything he cannot perceive is cut or rerouted through what he sees, hears and infers. `Something in her expression settled` stays, because he reads it. `She was nervous` becomes what he sees her doing.
-- Inner thoughts, which the third-person draft set in quotation marks, become plain unquoted narration in the author's own words. Example: `"Damn, she's got me cornered."` becomes `Damn, she had me cornered.`
+- Inner thoughts stay in quotation marks and are also italicized, the author's format: `*"Damn, she has me cornered."*`. This supersedes the earlier plain-narration rule, which was a mistake. Direct thoughts (short, self-addressed, in his voice) take the marks; reflection and analysis stay narration.
 - Dialogue stays in quotation marks. System text stays in bold brackets. Texts and on-screen written text stay in plain brackets.
 - Letters and notes from Dad appear as bracketed written text (not quotation marks), with the narrator's reaction in the next paragraph. OPEN: Chapter 1 sets texts and Dad's letter in bold brackets, while this rule and Chapter 8 use plain brackets; not decided.
 - Tense stays past. Present-tense thought becomes past (`That's not good` becomes `That wasn't good`).

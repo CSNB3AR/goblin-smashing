@@ -79,6 +79,8 @@ There are **two entirely separate accidents**. Never conflate them.
 - The pod overheats (not the monitor). Tochi submission window closes December 23rd; the exams are January 4th.
 - Arya (level 10 to 11) cannot cast tier 6. Hushveil is a low tier (about 2 to 3) with a smaller area and shorter duration; her mana is a large share of her pool.
 - Follow all style guides in `style-guide/` for every edit.
+- Inner thoughts are in quotation marks AND italics (`*"..."*`), the author's format, final. Dialogue is quotes without italics. Never convert thoughts to plain narration.
+- Tatsuya's body on the page: Black, a little over six feet with his mother's height and long build. The author said Nigerian; the codex says a Ghanaian mother and Japanese father. OPEN: the page says only that he is Black until the author decides the nationality.
 - Prose rule: concrete detail, sparing figures, no filter words where the fact can stand, with the voice-protecting limits in `style-guide/concrete-detail-and-figurative-language.md`. Do not kill the character's voice or the author's writing.
 
 ## Known inconsistencies still to settle
