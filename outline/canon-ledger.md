@@ -30,6 +30,7 @@ Fix at the lower-priority place. Keep chapter edits minimal and in the author's 
 
 - The last battle of Season Zero, the Battle of the Snowy Plains, in a walled medieval snow town in the open world. Yuna hosts from Singapore.
 - The Knights of the London Spire (guild: London Spire) have 10,500 season points; Aogiri has 10,250. The battle is worth 300. Twenty Knights against twelve Aogiri.
+- Author-stated: the battle runs on node war rules in miniature (hold the zone, fort inside it, three nodes make a province you can rule with the NPCs). Every kill is worth 6 season points on top of the 300 for the battle. Aogiri's twelve are a guild leader, two officers and nine others; their fort is an existing building (the city hall). The leader is already on a poison tick; no gas, no source named (that is the author's own tactic for fight one). Yuna summarizes the game; she does not explain what a VRMMORPG is.
 - The Knights hide in the walls and ambush at the choke point. Aogiri's leader is poisoned, needs antidotes, makes no decision, dies; the banner is bound to its leader and ends. The Knights hold the zone for ten uncontested minutes and win. 40 million yen prize.
 
 ## Backstory and timeline (author-stated; on the page it stays suspicion)
