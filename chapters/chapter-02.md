@@ -80,7 +80,7 @@ I pushed through the front doors and the smell hit me first, something clean and
 
 The ground floor read more showroom than store, third-gen helmets mounted on individual pedestals under warm spotlights, HGO's compass rose etched into the glass casing around each one, reflections bouncing off polished floors that looked like nobody was allowed to actually walk on them. A wall-sized display looped highlights from last night's battle on a screen taller than I was, Yuna's voice cutting through the ambient noise every time the reel restarted.
 
-"...and that's game, London Spire takes Season Zero, three hundred points and the border fortress..."
+"...and that's game, London Spire takes Season Zero, three hundred points and Thornwatch..."
 
 Of course they were playing that on repeat. I kept my head down and kept moving.
 

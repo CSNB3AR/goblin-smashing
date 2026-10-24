@@ -57,3 +57,12 @@ The Fire Festival is a guild event during Season Zero. **Arya's small guild won 
 After Season Zero the main story is frozen except for hidden quests, and the princes are held off-screen in **restricted zones**. Yuna Yunaile has restricted-area access but remains in Lunarest, and no player holds a sigil (see `codex/characters/yuna-yunaile.md`). Restricted zones are one more reason ordinary players cannot walk up to the court.
 
 - **Access to power in Lunarest (author-stated).** A guild is not given access to nobles or the kingdom's NPCs just because it is a guild. Players have to get comfortable with the nobles first. Once they have power they can keep following their prince or choose their own path.
+
+## Faction map and why Thornwatch matters (author-stated)
+
+- The Kingdom of Lunarest is one supercontinent, the only continent on the map for now, with **12 provinces**. All three princes are still under the king's banner, but tension has built and there have been skirmishes.
+- **Prince 2 (Ilyan)** runs the king's army while the king is sick, under his father and the court mage (Corvith). He is the king's faction, the true court. About 4 provinces. OPEN: his count is inferred from the author's "the other two princes have 4".
+- **Prince 3 (Maldren)** has done his own thing. 4 provinces.
+- **Prince 1 (Dorrin)** is the outcast. He set himself up far from the capital cities and holds 3 provinces. OPEN: 3 + 4 + 4 = 11 of 12; the twelfth province (perhaps the royal city) is not assigned.
+- The power struggle is roughly equal. Until now the conflict has been espionage, missions and seasonal points. **Thornwatch is the first major skirmish out in the open**: two guilds fighting for two different princes over a city. Thornwatch is a border fortress at the edge of the kingdom and the gate to a new port city. Early in the year trailers teased a potential expansion with five continents, so players read the border as important. Yuna only knows the trailers; she does not know what the expansion is.
+- OPEN: the existing region list (Valefrost, Myrrhwood, Sunmarch and others) versus a single supercontinent with 12 provinces.

@@ -12,9 +12,9 @@
 
 **Racial standing differs by continent.** In Lunarest, elves receive special treatment under an elven law, while Beastfolk, goblins and dwarves carry bad infamy. Other continents differ.
 
-## The border fortress city (Season Zero finale site)
+## Thornwatch, the border fortress city (Season Zero finale site)
 
-A walled fortress city on the border, on the outskirts of the snowy plains and outside the Kingdom of Lunarest, with a city hall, small houses and bunkers inside the walls. It is a new zone added at the very end of the closed beta and it leads on to a new city beyond it, a port-city type place. The fortress is unnamed, name left open. The only pass between Lunarest and the fortress runs into it, and the plains have deep caverns that offer an unused flank. It is where the Battle of the Border Fortress is fought in-world (see `codex/lore/hearthfire-expansion-and-seasons.md`).
+A walled fortress city on the border, on the outskirts of the snowy plains and outside the Kingdom of Lunarest, with a city hall, small houses and bunkers inside the walls. It is a new zone added at the very end of the closed beta and it leads on to a new city beyond it, a port-city type place. The fortress is named Thornwatch (proposed name, OPEN to swap). The only pass between Lunarest and the fortress runs into it, and the plains have deep caverns that offer an unused flank. It is where the Battle of Thornwatch is fought in-world (see `codex/lore/hearthfire-expansion-and-seasons.md`).
 
 ## Places by region (forward material)
 
