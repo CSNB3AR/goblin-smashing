@@ -159,3 +159,5 @@ The systems above are the stage, not the story.
 - Siege Pro League: whether full loot, no rebound and the troop cap hold for the battle-royale format.
 - Exact number of Rare Ember cores per Legendary crystal, the tier names, and whether Rare is the core cap.
 - Patron and world-weapon lore: see `codex/lore/patrons-and-world-weapons.md`.
+
+- **A sandbox game (author-stated).** HGO is a sandbox VRMMORPG heavily driven by player influence, which is the reason behind "bring your business here." Players are not limited to fighting: a blacksmith, a merchant, a general or any other path is open, and the economy is built by the people in it.

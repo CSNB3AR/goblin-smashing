@@ -75,6 +75,7 @@ There are **two entirely separate accidents**. Never conflate them.
 
 - OPEN: whether Daichi died before or during Tatsuya's roughly three months at Tochi. The only author-stated anchors are above (killed about a year ago, months before HGO and the third-gen pods released; about three months at Tochi, out a full school year). No exact dates are pinned.
 
+- HGO is a sandbox VRMMORPG (author-stated): heavily shaped by player influence, with alive NPCs, quests and raids. That is why Kazuku says "bring your business here": you can run a business, be a blacksmith, a general or a fighter; there are many ways to make a living and a name. Yuna says this in her opener.
 - Yuna does not know about the Hearthfire expansion, territory ownership or the next season; her lines cannot hint at them. Her NPC access came from befriending NPCs (idol path); a player can also build a career as a general.
 - Tatsuya's Myrrhwood advantage: goblin clans fight among themselves, so he can gather territory without a higher echelon; he is already a Thrash Clan elder who leads expeditions, so land he takes falls under his liege. In Lunarest, players must get comfortable with the nobles before they hold any power. Sevish (level 80) and Wyx do not level until they become Tatsuya's troops; non-troops stay at their held level.
 
