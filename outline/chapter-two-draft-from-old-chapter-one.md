@@ -60,7 +60,7 @@ I gave him a nod back, nothing more spent on it than that, my expression still f
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
-The door swung shut behind them with a soft chime, and the store went quiet again, nothing but the tubes buzzing overhead.
+The door swung shut behind them with a soft chime, and the store went quiet again, nothing but the light bulbs buzzing overhead.
 
 I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the ambient neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place.
 

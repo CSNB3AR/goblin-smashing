@@ -11,4 +11,4 @@ Chapter one now ends on the Eren cut. The text that followed is held in `outline
 5. **Do not repeat that Chiyo is a Japanese volleyball star.** Say it once (the lobby line) and cut the second mention (the couch line, "a retired national-team legend").
 6. **Cleanup:** the ride paragraph repeats "empty" three times ("emptier", "nearly empty", "an empty stretch"). Fix.
 7. **Keep:** the letter, the paw print, "Bring your business here", the Nexus purchase, "I didn't remember closing my eyes."
-8. Keep Tatsuya Black, a little over six feet with his mother's build (set in chapter one). Nationality stays OPEN (author said Nigerian; the codex says a Ghanaian mother and Japanese father).
+8. Keep Tatsuya Black, 6'3" with his mother's build (set in chapter one). His mother is from Africa; the page names no country.

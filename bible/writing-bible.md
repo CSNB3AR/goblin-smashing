@@ -35,7 +35,7 @@ The story must never drift from these three. Overcomplicating the premise (real-
 ### Tatsuya Kazehaya
 - Age 16 to 17. Ghanaian and Japanese (father Japanese, mother Ghanaian).
 - Dark brown skin, black hair in wild locs, scar over right brow from a childhood car accident.
-- 188cm (6'2"). Lean, tall build. **The height is from Ohema** (a former volleyball player, see her entry below), not Daichi, who was the shorter of his two parents. His technical aptitude and analytical mind trace to Daichi instead.
+- 6'3" (about 190cm). Lean, tall build. **The height is from Ohema** (a former volleyball player, see her entry below), not Daichi, who was the shorter of his two parents. His technical aptitude and analytical mind trace to Daichi instead.
 - Username: **TDRAG**.
 - **Personality, two registers, not a contradiction:**
   - **Around Momo and Taji, and in most everyday moments:** calm, measured, quietly mature. Clear-eyed about hard truths instead of anxious around them. He decides fast and doesn't sit around regretting a call once he's made it.
