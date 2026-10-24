@@ -29,3 +29,9 @@ Scaling that proof-of-concept up into the real thing: Tatsuya's first and bigges
 - The Myrrhwood advantage: goblin clan players get above-average advantages there that opponents consistently underestimate, see `codex/locations/eryndal-world-overview.md`.
 - The player-owned economy mechanic (craft houses, territory, upkeep), see `codex/lore/player-owned-economy-and-living-world-npcs.md`.
 - Daichi's tinkering legacy, already the throughline for the Haya EB and the pod override, see `codex/characters/daichi-kazehaya.md` and `codex/objects/haya-eb.md`.
+
+## Tatsuya's Myrrhwood advantage (author-stated)
+
+- The goblins of Myrrhwood are clans fighting among themselves. When Tatsuya starts gathering territory there he does not need a higher echelon to approve it.
+- Anyone starting in Lunarest has to get comfortable with the nobles before they can hold any power, and the kingdom's NPCs do not open doors to a guild just because it is a guild. Once a player has power there, they can keep following their prince or do whatever they like, but they have to earn the access first. Bigger guilds will come to understand why Yuna's closeness with NPCs got her into certain areas: NPCs being alive is a massive factor.
+- Tatsuya is already an elder of the Thrash Clan, so he has power inside Thrash and leads many of its expeditions. Territory he takes then falls under his liege (the clan), especially as he grows stronger and gains allies such as Sevish.

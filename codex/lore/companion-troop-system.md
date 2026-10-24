@@ -34,3 +34,5 @@ The old draft has Tatsuya opening a system/status screen mid-fight, with a small
 
 - `codex/characters/young-goblin-companion-candidate.md` — first companion recruited this way.
 - `codex/characters/goblin-squad-companions.md` — Drosh's existing Hobgoblin rank is the target tier this system's rank-up leads toward.
+
+- **Non-troops do not level (author-stated).** NPCs who are not under the troop system (for example Sevish and his sister Wyx) cannot gain levels and stay at the level they are held at until they become troops of the player and receive the troop experience buff. Developer updates may adjust this later.

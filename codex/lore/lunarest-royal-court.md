@@ -55,3 +55,5 @@ The Fire Festival is a guild event during Season Zero. **Arya's small guild won 
 ## Restricted zones
 
 After Season Zero the main story is frozen except for hidden quests, and the princes are held off-screen in **restricted zones**. Yuna Yunaile has restricted-area access but remains in Lunarest, and no player holds a sigil (see `codex/characters/yuna-yunaile.md`). Restricted zones are one more reason ordinary players cannot walk up to the court.
+
+- **Access to power in Lunarest (author-stated).** A guild is not given access to nobles or the kingdom's NPCs just because it is a guild. Players have to get comfortable with the nobles first. Once they have power they can keep following their prince or choose their own path.
