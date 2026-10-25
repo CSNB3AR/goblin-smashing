@@ -54,7 +54,7 @@ My finger hovered over the logout command when another notification bloomed in f
 
 **[ESTIMATED VALUE: WORLD-TIER REWARD]**
 
-The race I'd brushed past by accident had handed me a World Quest. *"What am I supposed to do with that?"* I sat there in the pod, running every scenario I could think of and finding no clean answer. I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
+The race I'd brushed past by accident had handed me a World Quest. *"What am I supposed to do with that?"* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
 
 Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math.
 
@@ -130,7 +130,7 @@ My eyes swept the camp. Goblins nearby kept working, sharpening blades, tending 
 
 I tapped two claws against my thigh, working through whether this was actually my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
 
-I needed combat experience anyway. I couldn't test Gambler's Gambit if I wasn't fighting, and I was level one in a body I barely knew how to move in. Might as well find out what breaks before it actually matters.
+I needed combat experience anyway. Might as well find out what breaks before it actually matters.
 
 The two enforcers stepped closer to the kid, one reaching for him.
 
@@ -224,7 +224,7 @@ Somewhere off to my left, a tent flap snapped open with a sharp crack of canvas 
 
 She didn't move to stop anything that was happening. A couple of the watching goblins picked up on that fast, started calling out to each other, half cheer and half joke, the kind of noise a crowd makes once it's decided nobody's in actual danger and this is just entertainment now.
 
-*"Good to know they think this is funny. It means nobody's about to jump in."*
+*"Good to know they think this is funny."*
 
 The cooldown hit zero, the number disappearing from my vision.
 
@@ -278,7 +278,7 @@ I stood there with my ears ringing, staring at two bodies sprawled in the dirt t
 
 I hadn't meant to. I'd been testing whether the tooltip meant what it said, not trying to end anyone, and the quiet where the shouting had been sat wrong with me.
 
-I dropped both attribute points into Wisdom and Speed without thinking twice, the allocation happening almost on autopilot. Wisdom could wait. Staying alive and staying fast couldn't.
+I dropped both attribute points into Wisdom and Speed without thinking twice, the allocation happening almost on autopilot.
 
 **[Speed: 9]**
 
@@ -290,7 +290,7 @@ A leather belt sat in the dirt where the smaller of the two bodies had fallen, h
 
 **[ABILITIES: SMOKE BOMB, GAS BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]**
 
-Locked until I got crafting materials to actually make the items. I turned the belt over in my hands, feeling the weight of it, the rough leather warm from sitting in the dirt near the fire. Fine. Still something. Better than nothing.
+I turned the belt over in my hands, feeling the weight of it, the rough leather warm from sitting in the dirt near the fire. Fine. Still something. Better than nothing.
 
 I looped it around my waist and felt it settle, the pouches hanging against my hip where I could reach them easily. Then I picked up the two vials, small and delicate in my clawed hands, a number stamped faint beneath the green glass on each one.
 
@@ -306,7 +306,7 @@ A gold-bordered notification bloomed beneath the item description, brighter than
 
 **[GAMBLER'S GAMBIT PROC: FORTUNE CHECK PASSED]**
 
-There it was. Something in my chest loosened for the first time since I'd watched the word Goblin lock into place. The ability actually worked. I'd made money off a level-three kill.
+There it was. Something in my chest loosened for the first time since I'd watched the word Goblin lock into place.
 
 I let the thought sit there, the two vials still warm in my hands from lying near the bodies. *"This might actually work. The goblin lock, the World Quest, all of it. Maybe this isn't the disaster I thought it was."*
 

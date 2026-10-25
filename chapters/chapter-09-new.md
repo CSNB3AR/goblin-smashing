@@ -34,13 +34,13 @@ Sevish's eyes tracked to me for half a second, something passing behind them, th
 
 "They're using our own rally point against us," I said, half to myself.
 
-Wyx's head turned sharp at that, her green eyes narrowing with something close to interest, a flicker of real respect she didn't bother hiding. "You've seen it."
+Wyx's head turned sharp at that, her green eyes narrowing with something close to interest. "You've seen it."
 
 "Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's claws still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
 
 **[AFFILIATION: THRASH CLAN 10% → 12%]**
 
-I wondered what that meant. I'd have to do more research once I logged off for the day. I kept my expression flat, my eyes on Sevish, not letting the notification distract me.
+I wondered what that meant. I kept my expression flat, my eyes on Sevish, not letting the notification distract me.
 
 Wyx was already moving before Sevish said another word, her voice pitched to carry past the tent flap toward the goblins scrambling outside. "You heard him. Palisade line, now, nobody stands out there proving a point when we've got a headcount to protect."
 
@@ -48,7 +48,7 @@ A notification bloomed at the edge of my vision, gold-bordered, bigger than anyt
 
 **[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 50/50]** **[INVASION TIMER: 00:04:37]**
 
-*"Okay. So them attacking us triggered a quest."* I dismissed the notification and pulled up my own character sheet instead, the blue UI screen resolving clean in my vision.
+I dismissed the notification and pulled up my own character sheet instead, the blue UI screen resolving clean in my vision.
 
 **[CHARACTER: TDRAG]**
 **[RACE: SHIV GOBLIN]**
@@ -74,7 +74,7 @@ A notification bloomed at the edge of my vision, gold-bordered, bigger than anyt
 **[GAMBLER'S GAMBIT – PASSIVE]**
 **[BONE SURGE – PASSIVE]**
 
-I squinted against the glare of it, the blue washing the firelight flat across my eyes. *"Four points Wisdom, six Fortune. That's the build."* It wasn't the Elf I'd walked in wanting, but it was working. Speed was sitting at nine, and that was enough for now. I dismissed the screen and looked back at Sevish, my stance settling back to even.
+I squinted against the glare of it, the blue washing the firelight flat across my eyes. *"Four points Wisdom, six Fortune. That's the build."* It wasn't the Elf I'd walked in wanting, but it was working. I dismissed the screen and looked back at Sevish, my stance settling back to even.
 
 My eyes had caught on Gambler's Gambit one more time before the screen faded, and something close to a real grin threatened this time. I still hadn't made a single yen off the stream, whatever chat thought about that. I wondered if Gambit even procced off a player kill the same way it did a mob. I'd never had a reason to test it. Four raiders with real gear on their backs were about to be the first.
 
@@ -92,13 +92,13 @@ Leon's voice cut in a moment later, no longer quiet, no longer careful, the tone
 
 "I need you now," Leon said. "The feed's not holding, I can't see anything on my end, and VRSA's going to be on my ass if I let this slide any longer. Ten minutes, that's all I'm asking."
 
-*"Damn, it had to be right now."* I couldn't push Dad's old pods without the repairs, or have VRSA close it down before I could even do that. I rolled my shoulders once before I answered.
+*"Damn, it had to be right now."* I rolled my shoulders once before I answered.
 
 "Give me a second," I said, my voice low enough that Sevish barely caught it, then turned back to the chieftain.
 
 Sevish's eyes stayed on me, holding there in the grim dark like his glare alone was piercing my chest. "So. Will you be joining us, or facing this alone?"
 
-I knew that question was coming, and right now there was only one real answer if I didn't want to risk the 72-hour lock facing them solo.
+I knew that question was coming.
 
 "Yeah, I'm in. But if you're expecting me to run down there in prisoner rags, I won't be very productive. You got anything better I can work with? Also, I need some time to prepare, if you can give me the space for that," I said, readjusting my new frame, which gave me a couple of inches.
 
@@ -126,7 +126,7 @@ They stopped at a tent near the far edge of camp, smaller than Sevish's but stil
 
 **[WAR TENT – ELDER T-DRAG]**
 
-It was interesting how much had changed so fast. I had so many questions I didn't have answers to right now, but this was fun. I pushed through the flap and let it fall shut behind me.
+I pushed through the flap and let it fall shut behind me.
 
 The tent was sparse, just a bedroll, a single oil lamp hanging from the center pole, and a small crate stacked against the back wall.
 
@@ -134,7 +134,7 @@ Ru came trailing in behind me, positioning near the entrance, his larger hobgobl
 
 "What's next, elder," Ru said, watching me cross to the bedroll.
 
-"Yeah, I'm going to meditate for a bit. Maybe it'll give me a chance to channel Shiv once more, for guidance," I said, clearly lying through my teeth, but I didn't want to give them player terms, not anymore, this was the only way I could earn their trust.
+"Yeah, I'm going to meditate for a bit. Maybe it'll give me a chance to channel Shiv once more, for guidance," I said, clearly lying through my teeth.
 
 I sat down on the bedroll, the straw crunching under me. "If anything happens while I'm out, you stand guard. If they push the camp, if anything happens, you keep me alive. Understood?"
 
@@ -170,29 +170,29 @@ I pulled up my HGO account next, and there it was, a button that hadn't existed 
 
 [Apply for Affiliate Status]
 
-*"Five hundred and eighty followers, huh. Not bad for the first stream."* It was crazy how lucky I'd been, but I could only expect there'd be bullshit too. *"Just wait until Eren finds out about me."* My thumb hovered over it for a second before I tapped it, the dread of the Tabuchis sitting in my chest. Not to mention telling Chiyo the truth about this. I could tell her about Sakura, but if I made anything big off it, she wouldn't believe an arcade built on old tech paid me that much. I shook the thought off and looked at the screen again.
+*"Five hundred and eighty followers, huh. Not bad for the first stream."* It was crazy how lucky I'd been, but I could only expect there'd be bullshit too. *"Just wait until Eren finds out about me."* My thumb hovered over it for a second before I tapped it, the dread of the Tabuchis sitting in my chest. Not to mention telling Chiyo the truth about this. I shook the thought off and looked at the screen again.
 
 The confirmation screen that loaded back wasn't the instant green light I'd half expected.
 
 [Application received. Affiliate status requires a minimum of 30 days active streaming history. Current eligibility: Day 1.]
 
-*"Thirty days."* I set the phone down on the sink's edge and stared at it, scratching at my goatee while I ran the math. That meant I could gain an audience, but I wouldn't be able to really make anything until after. That was fine. Subs were nice, but the real money was sponsorships, and that didn't have a limit, I just had to be smart about how I approached my brand. I couldn't tell anyone who I was behind the goblin, not right now, not even family. Taji and Momo were the first to come to mind, and Chiyo.
+*"Thirty days."* I set the phone down on the sink's edge and stared at it, scratching at my goatee while I ran the math. Subs were nice, but the real money was sponsorships, and that didn't have a limit, I just had to be smart about how I approached my brand. I couldn't tell anyone who I was behind the goblin, not right now, not even family. Taji and Momo were the first to come to mind, and Chiyo.
 
-A quick search turned up the rest of it in under a minute, a forum thread somebody had laid out plain: HGO's official channel auto-hosts any stream actively progressing a World Quest, standing platform practice, free exposure handed to whoever happened to be live when the algorithm noticed, not a permanent slot, and not something that followed me back online automatically. Coming back live after a break meant starting closer to zero and climbing again, not picking up where I'd left off.
+A quick search turned up the rest of it in under a minute, a forum thread somebody had laid out plain: HGO's official channel auto-hosts any stream actively progressing a World Quest.
 
-The fluorescent tube over the mirror buzzed and flickered at one end, and I turned my back on it. It made sense why they hosted World Quests. It also meant a lot of eyes landed on whoever happened to be live when the algorithm noticed. I picked the phone back up, my grip firming around it.
+The fluorescent tube over the mirror buzzed and flickered at one end, and I turned my back on it. I picked the phone back up, my grip firming around it.
 
 Subs themselves weren't much once I actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around and a special chat tag, unless the streamer set their own perks, nothing that let them type more than any other viewer. I pinched the bridge of my nose, a dull ache starting up behind my eyes.
 
-It would be nice to have that now. I couldn't even read that wave of mess earlier. Maybe I could get a setting to limit spam chat or something faster. Waiting thirty days to say anything was going to be horrible. I turned the phone over in my hand, once. Lesson for next time, I supposed.
+Maybe I could get a setting to limit spam chat or something faster. Waiting thirty days to say anything was going to be horrible. I turned the phone over in my hand, once.
 
 Two more notifications sat under the Loop pile, both real-world, both waiting.
 
 [Tochi Academy Admissions: Your application has been reviewed. You are invited to sit the entrance interest exam. Reply for scheduling.]
 
-I stared at that one longer than I meant to, my thumb going still against the screen. I'd sent that application off this morning knowing the deal I had with Leon.
+I stared at that one longer than I meant to, my thumb going still against the screen. I'd sent that application off this morning.
 
-I wasn't dealing with that right now. I locked the screen and set the phone face-down on the sink. It would still be there when I actually had time to think about it straight.
+I wasn't dealing with that right now. I locked the screen and set the phone face-down on the sink.
 
 I picked the phone back up and opened my banking app instead, pulled up the balance sitting at ¥64,120, and moved a piece of it into the account that covered my mother's ongoing costs.
 
@@ -212,7 +212,7 @@ The reply came back faster than I expected.
 
 That was Gato for you. The corner of my mouth pulled flat, something close to a smile before it was gone.
 
-I splashed more water on my face, the cold biting against my skin, and leaned my weight onto the sink. Three days locked out if I died down there. Three days I didn't have, not with Crownfall sitting thirteen days out, not with no team locked in yet. This was the first real fight I'd ever be in against actual players, not scripted mobs, and right now it was still just me and Ru walking into it.
+I splashed more water on my face, the cold biting against my skin, and leaned my weight onto the sink. Three days locked out if I died down there. This was the first real fight I'd ever be in against actual players, not scripted mobs, and right now it was still just me and Ru walking into it.
 
 I pushed up straight and shook out my hands. Real people on the other end this time, with real gear and a real reason to put me down. I chuckled to myself, adrenaline forming.
 
@@ -220,15 +220,15 @@ I was about to pocket my phone when a Loop headline pushed past everything else 
 
 [Haruto Murayama announces departure from Kansai Black Lotus, effective immediately.]
 
-*"Haruto was leaving. Actually leaving."* I stopped dead in the middle of the bathroom, caught off guard by it.
+*"Haruto was leaving. Actually leaving."* I stopped dead in the middle of the bathroom.
 
 The post underneath was short and careful, nothing like the messy public blowups Loop usually ran on. Haruto thanked Tochi and Kansai Black Lotus for the opportunity, said he still respected what the guild had tried to build, and then, without naming Eren directly, said he wasn't willing to keep carrying a guild whose own signature build he'd started to suspect wasn't built by the person taking credit for it. Replies underneath were already split between people defending Eren and people reading between the lines exactly the way I was. I read it a second time, a wince tugging at one side of my face.
 
 *"He knew."* My hand came out of my pocket and curled into a loose fist at my side. Maybe not everything, but enough. And he still hadn't said the name.
 
-I knew exactly why that mattered, because the same shape of idea had been mine, once, worked out on our tablets with Eren, night after night, back before either of us had touched the game for real, before Eren took the whole build and ran with only half of what it could actually do. Eren copied the notes. He never understood them. That gap was the whole reason he'd capped out as a captain instead of anything more, and it was the same gap I'd been staring at for a year.
+I knew exactly why that mattered, because the same shape of idea had been mine, once, worked out on our tablets with Eren, night after night, back before either of us had touched the game for real, before Eren took the whole build and ran with only half of what it could actually do. Eren copied the notes. He never understood them.
 
-Everything Eren built was starting to come apart. I pushed off the wall and headed for the door. *"That bastard had better not crash yet."* I wanted to settle everything when I faced him in this world. The thought sat heavy, an anger surfacing that I didn't know I had, but a smile crept onto my face as I realized what was at stake.
+Everything Eren built was starting to come apart. I pushed off the wall and headed for the door. *"That bastard had better not crash yet."* I wanted to settle everything when I faced him in this world. The thought sat heavy, an anger surfacing that I didn't know I had.
 
 I was already down the hallway, thumb still hovering over my phone, when a voice cut through the noise behind me.
 

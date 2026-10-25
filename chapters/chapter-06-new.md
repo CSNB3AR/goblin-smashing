@@ -26,7 +26,7 @@ My account loaded, the goblin face of my avatar staring back at me from a small 
 
 *"Later. When I can think of one."* I swiped it away and kept scrolling.
 
-Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare. That made sense, they were my active skills.
+Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
 
 My inventory sat above that.
 
@@ -64,7 +64,7 @@ I pocketed the phone, pulled it back out almost immediately, and opened Loop on 
 
 *"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
 
-*"Wild."* Their accounts were getting locked at launch whether they liked it or not, and waiting meant missing the Crownfall window. *"Not my problem. I'm already starting at level one."* I filed that thought somewhere useful and killed the screen.
+*"Wild."* *"Not my problem. I'm already starting at level one."* I killed the screen.
 
 Leon was at the counter when I stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
 
@@ -122,9 +122,9 @@ Leon leaned back against the counter, arms loose. "Okay. Here's what I want to d
 
 "I'll get it done," I said.
 
-I meant it more than the two words let on. Patching a pod with a bypass and Dad's old notes was one thing. Getting it clean enough to pass a real safety inspection was something else, and that knowledge lived in exactly one place. Tochi had the actual coursework, the technical foundation the third-gen hardware was built on, and I could order parts through the academy too. I'd been running on what my dad left behind. If I wanted to do this right instead of just keeping it alive with duct tape and hope, I needed what Tochi was teaching.
+I meant it more than the two words let on. Patching a pod with a bypass and Dad's old notes was one thing. Getting it clean enough to pass a real safety inspection was something else, and Tochi had the coursework and the parts.
 
-I scratched along my goatee, the way I did when a number wouldn't add up. The thought had felt like a loss a week ago. It didn't feel that way anymore.
+I scratched along my goatee. The thought had felt like a loss a week ago. It didn't feel that way anymore.
 
 "I believe you," Leon said.
 
@@ -152,9 +152,9 @@ The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying 
 
 I leaned back and pushed the loose loc behind my ear where it kept falling.
 
-"But I made some money already. Sixteen thousand eight hundred yen off two elixirs I got from a kill. And there's this ability, Gambler's Gambit, once a day I roll for a chance at rare loot. If I use it right, if I actually grind it properly, I can turn this into something real."
+"But I made some money already. Sixteen thousand eight hundred yen off two elixirs I got from a kill."
 
-The words came easier here than they did anywhere else. Something about a room where nobody was watching.
+The words came easier here than they did anywhere else.
 
 "Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
 
@@ -184,9 +184,9 @@ Their footsteps faded down the opposite hall, and I stood alone in the corridor,
 
 *"Six months. And Chiyo knew. She knew and she didn't tell me."*
 
-The anger came fast and clean, hotter than anything else I'd felt all day. Not at the news itself, I'd known things were bad, I'd known for a while. But the secrecy. Being kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
+The anger came fast and clean, hotter than anything else I'd felt all day. Being kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
 
-She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
+She was trying to protect me. The thought didn't help.
 
 I turned and walked, not toward the exit, just away from the voices, counting the ceiling lights as they passed because it gave my head something to hold. By the sixth one I'd lost count, and the corner came up fast.
 
@@ -242,7 +242,7 @@ I pulled out my phone.
 
 Chiyo's last message sat at the top of the thread, the one about Tochi I'd answered with a thumbs-up because a thumbs-up cost me nothing.
 
-She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard, the way I did when I was about to stop weighing and start doing. This was my call.
+She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
 
 I slid the phone back into my pocket before continuing out of the building.
 

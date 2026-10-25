@@ -8,7 +8,7 @@ She'd used the handle. Not my name.
 
 My hand came up and scrubbed over the back of my head, the motion pulling my sleeve back from my forearm.
 
-I wasn't going to respond to that. If I did, it confirmed everything about me, which was exactly what she wanted, I was sure.
+I wasn't going to respond to that. If I did, it confirmed everything about me.
 
 I glanced toward the front desk. The desk lamp at the front cast a warmer light over both of us, the inspector's equipment laid out across the surface beside it. Leon was mid-conversation, both hands moving as he talked. The inspector, tan skin, dark hair, glasses giving off a reflection from the overhead lights, had his stylus moving across his tablet without looking up.
 
@@ -66,11 +66,11 @@ I kept my expression level. "Guilds knowing my location. That was sooner than I 
 
 Arya's mouth pulled into something that might have been satisfaction, her eyes brightening slightly. "That is something that won't come free, though." She let the words hang there, deliberate, watching my reaction. Then: "I'm going to need you to promise you'll hear out a proposal first."
 
-She was shorter than me by enough that she had to tilt her head back slightly to hold my eyes, and something about the angle made her features catch the light differently. Her expression had shifted from casual to focused.
+She was shorter than me by enough that she had to tilt her head back slightly to hold my eyes.
 
 I looked at her for a long moment, watching her posture, steady, expectant, not pressing but clearly waiting.
 
-I knew she was working something, or else she wouldn't be standing here. I could turn her down, but then what if the information was key to my survival? *"Damn, she has me cornered."*
+I knew she was working something, or else she wouldn't be standing here. *"Damn, she has me cornered."*
 
 I scratched at my goatee while I weighed it, looking down at her, then let my hand drop from my chin.
 
@@ -82,7 +82,7 @@ A guild chat log. The threads went back several hours, a dozen different names c
 
 *"That's not good at all."* The overhead light threw a glare off her screen and I squinted through it.
 
-The first thing that landed as I read the chat was that it was actively talking about my whereabouts. And they had already been tracking my position off my own stream footage, mapping me back to the location near the goblin camp.
+They were already tracking my position off my own stream footage, mapping me back to the goblin camp.
 
 "So I take it you know them?" The question slipped past my lips as I pulled my face away from her phone, which was still actively lit, messages still flowing in.
 
@@ -98,13 +98,11 @@ She tapped a different thread, then another. "Another thread swears the royal he
 
 A cold prickle ran down the back of my neck as she locked the screen and dropped the phone back to her side.
 
-"I see. That gives me a narrower window to move. That's for sure." I stood with it for a moment, working through the implications, my eyes tracking over her shoulder toward where Leon's voice was still carrying through.
+"I see. That gives me a narrower window to move. That's for sure." I stood with it for a moment, my eyes tracking over her shoulder toward where Leon's voice was still carrying through.
 
 "What if I say no you gave it to me for free?" I said.
 
-I knew I was being cold. But I couldn't let anyone do what Eren did. If she was a real ally, she'd have to prove it.
-
-That was my only thought, but on the other side of my heart, I actually wanted to hear her proposal. She did just give me information that would help me move differently.
+I knew I was being cold. But I couldn't let anyone do what Eren did.
 
 "It's a gamble I was willing to take." She slid her hands into the back of her pockets in a swaying stance.
 
@@ -122,9 +120,9 @@ I started to say something and she raised a hand, cutting me off before I could.
 
 The hand came back down.
 
-I didn't say anything for a second. The hand was down and she wasn't adding to it.
+I didn't say anything for a second.
 
-*"Having her wouldn't be a bad option."* I didn't have a team in mind, and she'd already been through a real guild fight. The only issue was my current situation. I couldn't prepare if I was stuck on a hillside. Maybe she could help with that.
+*"Having her wouldn't be a bad option."* I didn't have a team in mind. The only issue was my current situation. I couldn't prepare if I was stuck on a hillside. Maybe she could help with that.
 
 I kept my eyes on her. "I could ask why me? But seeing what happened in the finals, I won't. But if I do say yes, you have to assist me with something first."
 
@@ -148,7 +146,7 @@ I listened without interrupting, arms folded, one thumb tapping slow against my 
 
 I looked at her. "Can you cast Hushveil?"
 
-The look that crossed her face was the kind that came right before a question someone already knew the answer to but still had to ask. Her eyes narrowed slightly, taking in the steadiness of my expression, looking for the tell that would say this was a bluff.
+Her eyes narrowed slightly, taking in the steadiness of my expression, looking for the tell that would say this was a bluff.
 
 "That's a fog spell in the early parts of the tree," she said, the skepticism in her voice not quite hiding that she was running some kind of recalculation behind it. "It doesn't deal damage. It doesn't scale on anything you'd actually want to scale."
 
@@ -158,17 +156,15 @@ She paused.
 
 I kept my expression clear, kept my hands where they were, kept my breathing even. I knew exactly what I was asking for.
 
-She held the look for a long moment, reading something in my face that I wasn't giving her. Then the corner of her mouth made a small, skeptical shape, not quite a smile, more like she was deciding whether to be amused by my certainty or annoyed by it.
+She held the look for a long moment, reading something in my face that I wasn't giving her. Then the corner of her mouth made a small, skeptical shape, not quite a smile.
 
 "Deal." She chuckled. "I am really gambling, laying all my cards to the weakest race in the game."
 
 "Not here to control your playstyle, but you'll like what it does once you get to play it yourself. I wish I could have," I said.
 
-*"Too much."* I'd been thinking about Eren's build when I said that, the setup, the window, what that spell opens up in a coordinated push. She didn't need to know that part.
+*"Too much."* She didn't need to know that part.
 
-She was quiet for a moment, her eyes still on my face, still running whatever calculation she was running. I watched the held tension in her expression ease by some small fraction, not gone, not all the way sold, but somewhere closer to convinced than she'd been two minutes ago.
-
-Something in her posture shifted too, the careful quality dropping out a little, her weight settling differently.
+She was quiet for a moment, her eyes still on my face, still running whatever calculation she was running. I watched the held tension in her expression ease by some small fraction.
 
 "Okay," she said.
 
@@ -178,13 +174,13 @@ I looked at her before I turned back to the pod. "I'm trusting you not to say an
 
 I pulled the hair tie from my jacket pocket and twisted my locs back in one practiced move, already turning toward the pod.
 
-Leon came through the hallway a moment later, still carrying the tail end of whatever conversation he'd just finished with the inspector, and took in both of us with a look that said he'd missed the whole thing and was still deciding how much of it he needed to know.
+Leon came through the hallway a moment later, still carrying the tail end of whatever conversation he'd just finished with the inspector, and took in both of us with a look that said he'd missed the whole thing.
 
 "What the hell did I miss?"
 
-Arya was already moving. She had her phone in her pocket, her posture easy, the settled quality of someone who'd gotten what they came for and wasn't in any rush to explain it.
+Arya was already moving. She had her phone in her pocket, her posture easy.
 
-"Nothing, brother," she said, and there was something in her voice that was the specific kind of smooth that came from not having to say more. "Heading to J-Link to hop on for a bit. Met a new friend," she said, taking a look back at me.
+"Nothing, brother," she said. "Heading to J-Link to hop on for a bit. Met a new friend," she said, taking a look back at me.
 
 She reached out and tapped Leon once on the shoulder as she passed him, a light, unhurried touch, and was through the door before he could put a follow-up together.
 
@@ -230,7 +226,7 @@ The oil lamp was lower than I'd left it, flame pulling to one side, shadows fall
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
-I looked toward the tent flap. Less movement outside. The quiet had a different quality than before.
+I looked toward the tent flap. Less movement outside.
 
 A notification caught the edge of my vision before I could move.
 

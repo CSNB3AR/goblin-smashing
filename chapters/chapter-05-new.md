@@ -62,7 +62,7 @@ I shifted my weight onto the other foot, the cold of the packed dirt coming up t
 
 "We've tried the rally three times now," Sevish continued, his tone matter-of-fact, not defensive. "Failed all three times. Couldn't get past the city guard and their allies."
 
-*"Three times. He says it like the number matters."* I filed the detail away, not sure why it felt important but trusting that it was.
+*"Three times. He says it like the number matters."*
 
 "Tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "Doesn't work, but what you did back there, moving through instead of fighting head-on, using terrain, that's not something anyone here can do. Could be what we need."
 
@@ -76,7 +76,7 @@ My claw went up to scratch my chin the way it did when I was weighing something,
 
 "You complete this, you're under Thrash protection. You're ours, and we're yours. Anyone comes for you, they're coming for the clan."
 
-*"Real, long-term backup. That's not nothing, not if higher-level players start hunting this quest. I can't throw that away."* A bead of sweat rolled down my temple, slow and ticklish, and I let it go instead of wiping it.
+*"Real, long-term backup. That's not nothing"* A bead of sweat rolled down my temple, slow and ticklish, and I let it go instead of wiping it.
 
 "And if I don't?" I asked, needing to hear the other side spelled out just as clearly.
 
@@ -94,13 +94,13 @@ Before I could answer, the clock in the corner of my vision caught me, small and
 
 9:41 PM.
 
-I'd logged in late because of the pod and the override, and the night was almost gone. *"Damn."*
+*"Damn."*
 
 Leon's voice crackled through the pod's external speaker a second later, distant and tinny, cutting in from somewhere outside the world I was standing in. "Hey, heads-up, we're closing in about thirty minutes. Just wanted to give you a warning."
 
 I blinked, trying to hold both places in my head at once, a goblin chieftain's tent on one side and Leon's voice reaching in from the other.
 
-"I'll be off shortly," I said out loud, the words aimed at Leon even though he couldn't hear Sevish's side of this conversation and had no idea what I was in the middle of.
+"I'll be off shortly," I said out loud, the words aimed at Leon.
 
 "No worries, man," Leon's voice came back through the speaker, relaxed and unbothered. "You've been in there a while. Hope the pod didn't give you any more issues after that initial hiccup."
 
@@ -110,7 +110,7 @@ Sevish and Wyx were both looking at me strangely now, their expressions sliding 
 
 *"Right. They can't hear Leon. All they see is me talking to empty air. Great first impression, the new guy talks to himself."*
 
-"I need a few days," I said out loud, aiming the words at Sevish this time, knowing I had to log out soon but needing to set the timeline before I left. "Three days to think about this and figure out my next move."
+"I need a few days," I said out loud, aiming the words at Sevish this time. "Three days to think about this and figure out my next move."
 
 "You can have them," Sevish said, and his tone made it clear that wasn't a negotiation, it was a decision he'd already made. "But you're staying in camp while you think."
 
@@ -142,17 +142,17 @@ I ducked through the entrance, my shorter frame making it easier than it would h
 
 I sat down on the bedroll and the straw stuffing crackled loudly under my weight, sharp in the sudden quiet. The fabric under my hands was rough, woven from something coarser than cotton, and the tent wall, when I reached out to touch it, was thick and heavy, oiled or waxed against rain and wind. The ground under the bedroll was hard-packed dirt, uneven in places, and the cold seeped up through the thin padding, through my boots and the rags I was wearing.
 
-This was where I'd be staying until I gave them an answer. *"Three days. I asked for them."* I couldn't leave camp boundaries until Sevish released me, and that was fine.
+This was where I'd be staying until I gave them an answer. *"Three days. I asked for them."*
 
 Outside the canvas walls, the camp kept moving around me, life going on whether I was part of it or not. Footsteps passed close to my tent, boots scuffing on the packed earth. Farther out, past the immediate camp sounds, a dog barked once and went quiet, answered a moment later by another bark from a different direction. Wind moved through the tree line beyond the camp boundary, branches creaking, and underneath that came the distant sound of something larger moving through the underbrush, probably some kind of wildlife I couldn't see from here.
 
 I pulled the two green vials out of the pouch at my belt and turned them over in my clawed hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
 
-Sixteen thousand eight hundred yen total. Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll so they wouldn't roll away. *"First real money this game ever paid me. Not a bad first login."* I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and grinned at nothing for a second.
+Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll so they wouldn't roll away. *"Not a bad first login."* I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and grinned at nothing for a second.
 
 Once I was back online I'd just accept his mission and get things moving. *"A clan at my back and a quest nobody else has. That's a start."* The weight came in behind it anyway: Chiyo in Kyoto, Tochi sitting there as an option I'd been avoiding for months, Mom in the hospital and the surgery I still couldn't pay for.
 
-The camp kept breathing around me outside the canvas, fire and low voices and the smell of woodsmoke still thick in the air even here. It all felt real in a way I hadn't been prepared for, the way it kept existing whether I was paying attention or not.
+The camp kept breathing around me outside the canvas, fire and low voices and the smell of woodsmoke still thick in the air even here.
 
 In the corner of my vision, barely noticeable until it moved, the chat window I hadn't looked at since spawning suddenly lit up, messages scrolling past faster than I could read individual lines. Then a bell rang, clear and loud enough that it should have echoed through the camp, though nobody else reacted to it.
 

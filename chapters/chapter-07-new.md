@@ -30,7 +30,7 @@ I typed a reply, cut it down twice, and sent the shortest version.
 
 **[I've decided on going to Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a new part-time job too. I'm good.]**
 
-Short, on purpose. I wasn't in the mood to explain the rest of it tonight, and I wasn't sure I wanted to yet anyway. If she wanted the whole story she could ask when she got back. Right now this was mine.
+Short, on purpose. Right now this was mine.
 
 The phone buzzed again before I'd even set it down.
 
@@ -42,11 +42,11 @@ The phone buzzed again before I'd even set it down.
 
 **[Chiyo: I love you. Get some sleep.]**
 
-I didn't answer that one. It sat on the screen longer than I wanted, because it was Chiyo and I'd just handed her half a truth, and I closed the thread without typing anything back. The banking app was one more thing to check before I let myself sleep.
+I didn't answer that one. It sat on the screen longer than I wanted, and I closed the thread without typing anything back. The banking app was one more thing to check before I let myself sleep.
 
 **[BANK BALANCE: ¥64,120]**
 
-Not much. But it was mine, earned off two elixirs and an ability I was already learning how to use right. The corner of my mouth lifted before I caught it.
+Not much. But it was mine. The corner of my mouth lifted before I caught it.
 
 Whatever this turned into, it wasn't going toward the Tabuchis. Mom came first, but I had to somehow get them off me. I doubted paying them off would be that simple.
 
@@ -66,7 +66,7 @@ But legally my hands were tied as long as the balance sat there owing, and that 
 
 I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
 
-Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. Crownfall's ten million yen was the only number in this game big enough to matter, and the clock on it was already running. The fatigue was shifting in now, the good kind, the kind that came after a day that had actually moved somewhere.
+Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. Crownfall's ten million yen was the only number in this game big enough to matter, and the clock on it was already running. The fatigue was shifting in now, the good kind.
 
 My eyes closed on a low hum of excitement underneath the exhaustion.
 
@@ -114,9 +114,9 @@ If someone decided I was worth the trouble, I wouldn't have an answer for that y
 
 I almost closed the tab. Then the words Sevish said echoed in my head.
 
-Sevish did say I would be an ally of Thrash, and it held as long as I didn't blow the quest. Two powerful NPCs plus a warband of goblins backing me meant anyone coming after me needed an actual party. That was a commitment on their end too.
+Sevish did say I would be an ally of Thrash, and it held as long as I didn't blow the quest. Two powerful NPCs plus a warband of goblins backing me meant anyone coming after me needed an actual party.
 
-Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. Fewer real threats walking around this exact week than there'd be in a month. I stretched my arms over my head until my back popped.
+Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. I stretched my arms over my head until my back popped.
 
 I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window.
 
@@ -124,11 +124,11 @@ December 23rd.
 
 Same date as the note in my pocket.
 
-Already decided. I scratched at my goatee and looked at it one more second. I needed Tochi more now than I had a week ago. If I was expected to actually repair those pods I needed proper training, and they were the only ones I knew that offered that level of teaching without being at university.
+Already decided. I scratched at my goatee and looked at it one more second. I needed Tochi more now than I had a week ago.
 
 I skimmed the race comparison page while I double-knotted my laces and caught something I'd glossed over before. Every other race had hard class locks sitting right there in print. Goblin's column was nearly empty. Low base stats, almost no restrictions.
 
-Nobody had taken this seriously because the numbers scared them off on day one. This time the grin stayed, and I let it. And if the magic path opened up on top of it, which it looked like it actually would, that was a build nobody had mapped out yet, my own caster idea on a body nobody else would touch, because nobody had stayed long enough to find out.
+Nobody had taken this seriously because the numbers scared them off on day one. This time the grin stayed, and I let it. And if the magic path opened up on top of it, which it looked like it actually would, that was a build nobody had mapped out yet, my own caster idea on a body nobody else would touch.
 
 I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phone in my pocket.
 
@@ -174,7 +174,7 @@ Leon peeled off a few minutes later, the same energy from yesterday still sittin
 
 "Good. I've got leads on parts from Dad's manual. Can pull more if we need specifics."
 
-"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose, posture settling into something that read more relieved than he was probably willing to say out loud. "Been sitting on those pods for two years thinking they were basically scrap." He tipped his head toward the front of the arcade and dropped his voice to a whisper. "Sorry if Arya gave you a hard time out there. She's been asking questions since yesterday. I don't want her near this until we're cleared and running."
+"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Been sitting on those pods for two years thinking they were basically scrap." He tipped his head toward the front of the arcade and dropped his voice to a whisper. "Sorry if Arya gave you a hard time out there. She's been asking questions since yesterday. I don't want her near this until we're cleared and running."
 
 "Makes sense," I said, and left it there.
 
@@ -184,11 +184,11 @@ We spent the next twenty minutes going through the parts list from Dad's manual,
 
 "I've got leads on funding it, too," I said. "Not gonna let you front the whole bill on something that's supposed to make you money."
 
-"We'll figure that part out." Leon didn't argue it further, which told me more than an actual answer would have. I tapped a knuckle against the cool frame of the pod and went back down the list, my eyes starting to ache from the small print.
+"We'll figure that part out." I tapped a knuckle against the cool frame of the pod and went back down the list, my eyes starting to ache from the small print.
 
 By the end Leon looked more settled than he had when I walked in.
 
-"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with working first-gen HGO access." He clapped me on the shoulder once, the kind that sealed something more than it said goodbye. Then his face shifted, more careful. "Before you get in there, though. The inspector's not done yet, so let me actually explain what he's doing back there, because it matters for you specifically."
+"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with working first-gen HGO access." He clapped me on the shoulder once. Then his face shifted, more careful. "Before you get in there, though. The inspector's not done yet, so let me actually explain what he's doing back there, because it matters for you specifically."
 
 "Go for it."
 

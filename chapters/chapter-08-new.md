@@ -22,7 +22,7 @@ A notification blinked into existence, soft green text.
 
 **[EFFECT: GRANTS USER 50% EXPERIENCE BUFF FOR ONE HOUR DUE TO SLEEPING IN A SAFE AREA]**
 
-*"So sleeping on a bedroll in a busted tent counts as safe for a goblin. That's almost insulting."* A short laugh came out of me, and I sat up slow, the straw crackling louder under the shift in weight. The buff procced once a day for an hour. I had to make sure that when I logged off I was somewhere I could actually get it. Whatever came out of today needed to be worth something once I was back out.
+*"So sleeping on a bedroll in a busted tent counts as safe for a goblin. That's almost insulting."* A short laugh came out of me, and I sat up slow, the straw crackling louder under the shift in weight. The buff procced once a day for an hour. I had to make sure that when I logged off I was somewhere I could actually get it.
 
 I scanned the tent, letting my eyes adjust to the dim lamplight. I was still wearing the same torn prisoner rags, one shoulder split halfway down the seam, the fabric rough and scratchy against my green skin. The empty Goblin Gadget Belt sat at my waist, pouches hanging limp with nothing loaded yet.
 
@@ -98,8 +98,6 @@ Half expecting to see it dropping, I made myself glance at my health anyway.
 
 "It just slowed me down," I muttered. "Still have full health."
 
-The realization eased the pressure in my chest slightly, even though any attack from something of this magnitude would wipe me.
-
 The ash and smoke figure stepped closer, each movement smooth and deliberate, completely unaffected by whatever force was pinning me to the ground.
 
 "What do you want from me?" I managed, forcing my head up slightly, just enough to meet those burning green eyes through the haze. The words came out slower than I meant them to, dragging against the air.
@@ -107,8 +105,6 @@ The ash and smoke figure stepped closer, each movement smooth and deliberate, co
 "You're the one who said we have bigger problems than fighting each other," the voice said, and it didn't come from one place. It came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore, resonating in my chest.
 
 *"Wait. I said that yesterday."* I froze, thinking about the interaction I'd had with Sevish and Wyx after I'd been captured. *"To Sevish. After the fight. How does he know that?"*
-
-I mumbled the words under my breath, trying to piece it together.
 
 I tried to push myself up again, my arm shaking with the effort, and managed to get one knee under me before the pressure doubled and shoved me back down, my cheek hitting dirt this time. The taste of earth and old smoke filled my mouth.
 
@@ -120,11 +116,11 @@ The figure stepped even closer, ash trailing behind him, and the temperature in 
 
 "Calm yourself," the voice said, quieter now, almost amused. "Calm yourself, T-Drag. Or can I call you T? Seems easier on my tongue. If I meant to kill you, you'd already be dead. This is just what standing near me costs, for now."
 
-*"He knows my username. And he just shortened it."* Forums said quest NPCs responded to keywords, but this felt different. Either way, world-tier meant gear, which meant money, which meant this was the break I needed.
+*"He knows my username. And he just shortened it."* Forums said quest NPCs responded to keywords, but this felt different. Either way, world-tier meant gear, which meant money.
 
 I reached to scratch my chin where my goatee should have been and found smooth goblin skin, my mind working faster now.
 
-*"Sixteen thousand yen yesterday off two elixirs. Gambler's Gambit procced. A crit one-shot two level threes. The math already checked out once. If this quest chain pays the same way, I'm in."* I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
+*"Sixteen thousand yen yesterday off two elixirs. If this quest chain pays the same way, I'm in."* I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
 
 A small notification ticked in the corner of my vision, easy to miss against everything else.
 
@@ -158,7 +154,7 @@ He gestured, vague and dismissive, at his own ash and smoke form, the shape of h
 
 "Everywhere I went after that, it didn't matter where, it was the same," Shiv said, something harder settling into his voice. "A monster first. Anything else second, if I was lucky enough to get a second look at all. I decided I wasn't going to spend what was left of this life proving them right. Goblins weren't feral. We could be something civilized, something worth building. That's the only reason Myrrhwood exists at all."
 
-He paused, and something in the pause felt deliberate.
+He paused.
 
 He was waiting for me to say something.
 
@@ -182,7 +178,7 @@ Then, half a second later, **[VIEWERS: 316 → 891]**.
 
 Everything in me went still.
 
-*"Wait. HGO's main channel just hosted me. Everyone watching their feed just got redirected here."*
+*"Wait. HGO's main channel just hosted me."*
 
 The number kept climbing. **[VIEWERS: 891 → 1,247]**.
 
@@ -197,8 +193,6 @@ The number kept climbing. **[VIEWERS: 891 → 1,247]**.
 Shiv's burning green eyes stayed locked on my face.
 
 "Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "I've done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That's not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds."
-
-*"He's talking about yesterday. The camp. Stepping in for the kid. That triggered this."*
 
 **[VIEWERS: 1,247 → 1,803]**
 
@@ -232,9 +226,7 @@ Shiv turned his full attention back to me, raising one hand, and a necklace mate
 
 *"World-tier item. Bound, so I can't sell it. But if it's anything like yesterday's drops, everything that comes with it is worth more than the item."*
 
-My mind ran the calculation fast. My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
-
-*"Sixteen thousand off two potions. A World Quest pays better than random trash loot. This is the shot."*
+My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
 
 "I want it," I said, my voice clear. "Yes."
 
@@ -294,7 +286,7 @@ I pulled the allocation screen open, my mind already running the build.
 
 Four into Wisdom. Six into Fortune.
 
-I split the points fast, didn't touch Power, Courage, or Speed. My eyes ached from the glare of the screen, and I blinked hard twice to clear them.
+My eyes ached from the glare of the screen, and I blinked hard twice to clear them.
 
 The new passive sat at the bottom of the list.
 
@@ -352,11 +344,11 @@ Then he was gone, the ash collapsing inward and disappearing entirely, and the f
 
 The chat window was a blur now, too fast to track.
 
-I looked down at myself, still dressed in the same torn prisoner rags, nothing about my clothes matching what my hair and my skin and the bones rattling softly at my throat were telling me had just happened.
+I looked down at myself, still dressed in the same torn prisoner rags.
 
 I stepped up to the entrance, close enough now that both guards could see me, and both of them went completely still.
 
-The nearer guard's eyes dropped from my face to the necklace hanging at my throat, then tracked up to the white hair, and the flat, hostile line of his mouth came apart, confusion shifting into something closer to shock.
+The nearer guard's eyes dropped from my face to the necklace hanging at my throat, then tracked up to the white hair, and the flat, hostile line of his mouth came apart.
 
 "I'm taking Sevish's quest," I said, keeping my tone steady. "Go get him. Tell him I'm ready. Also tell him Shiv has given me his blessing."
 
@@ -378,7 +370,7 @@ I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Th
 
 **[FOLLOWERS: 94 → 580]**
 
-A couple of names snapped into focus out of the scroll before I lost the thread of it entirely. One handle I half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. *"Taji?"* I didn't say it out loud, didn't want to know for sure badly enough to ask. If it was him, it was better I stayed quiet about it too. My stomach turned over, and I pressed a hand flat against it.
+A couple of names snapped into focus out of the scroll before I lost the thread of it entirely. One handle I half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. *"Taji?"* I didn't say it out loud, didn't want to know for sure badly enough to ask. My stomach turned over, and I pressed a hand flat against it.
 
 The other name I didn't have to guess at.
 
@@ -414,11 +406,9 @@ We'd barely taken three steps toward the war tent when Leon's voice crackled thr
 
 "Hey, sorry to jump back in," Leon said, "but I'm gonna need to step away for a bit." A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
 
-He'd been quiet this whole time. He hadn't said a word during the Shiv scene, hadn't chimed in with anyone on his side either.
-
 "Feed's still recording the whole time, for what it's worth," Leon added. "Been watching. Honestly it's been like a movie over here. Didn't want to break in on any of it, we agreed I'd keep things low-key while Arya's still around. Doesn't mean I'm not here, though. Anything you need, I'm still on the other end of this."
 
-Good to know he was actually keeping his side of it. Hearing him loosened something in my neck I hadn't known was tight.
+Hearing him loosened something in my neck I hadn't known was tight.
 
 "Yeah, I'm good," I said out loud. "Take your time."
 
@@ -428,7 +418,7 @@ The line went quiet.
 
 **[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
 
-I barely registered it. There wasn't room left in my head for anything that wasn't standing directly in front of me right now. The ash chill was still riding my skin, and I rubbed my arms once, claws scraping the rough fabric.
+I barely registered it. The ash chill was still riding my skin, and I rubbed my arms once, claws scraping the rough fabric.
 
 I followed Sevish and Wyx through the open ground, Ru close at my shoulder, goblins parting around us as we moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
 
