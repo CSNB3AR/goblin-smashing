@@ -64,7 +64,11 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 My nod stalled halfway. *"He knows. That was never said out loud, not to anybody but Eren and me, and Eren has no idea Haruto caught on. The man's got good eyes. He can tell when somebody doesn't know how to run his own build."* I finished the nod, nothing more spent on it than that.
 
-I scratched the side of my chin. *"Why would he say that wearing Eren's jacket? He's with Eren. Why talk to me like that? Makes me wonder. Damn it, I hate speculating when I've got all these questions and no answers."*
+*"Why would he say that, wearing Eren's jacket?"* I scratched the side of my chin and looked at the silver lotus stitched on his shoulder.
+
+*"He's with Eren. So why talk to me like that?"* My fingers drummed once on the counter and stopped.
+
+*"Makes me wonder."* I let out a slow breath through my nose. *"Damn it. I hate speculating when I've got all these questions and no answers."*
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
