@@ -156,7 +156,7 @@ My room was the last door down the hall, the converted corner of the apartment m
 
 Dad's tech manual sat on the shelf above the desk, spine cracked from years of use, pages dog-eared in a dozen places. *"The EB has to be fixable. Everything he built could be fixed."* I pulled the manual down and flipped to the section on the controller board, both hands flat on the desk, my thumb running down the margin notes in his slanted handwriting, looking for the line about the dash resetting itself under load.
 
-Something slid out from between the pages and landed face-up on the desk. A single sheet, folded in thirds, soft at the creases like it had been sealed in there a long time. His handwriting again, but not the margin shorthand. Slower. Pressed harder into the paper.
+Something slid out from between the pages and landed face-up on the desk. A single sheet, folded in thirds, folded small and tucked deep between the pages. His handwriting again, but not the margin shorthand. Slower. Pressed harder into the paper.
 
 **[Tatsuya,]**
 
@@ -174,7 +174,7 @@ He'd tucked it in the one place I would eventually look, the manual with all his
 
 *"What bear?"* I said it out loud, low, to the empty room.
 
-Nobody I knew had ever been called that. I ran through everyone who'd come up those stairs to see him, the parts suppliers, the repair guys, the neighbors who borrowed his tools, and none of them had a name that came close. *"A nickname, maybe. A shop. A bar called the Bear."* I tried it as a street, a station, a restaurant. Nothing fit. I tried it on Chiyo and dropped it before it finished forming. If she'd known, she'd have told me a year ago.
+Nobody I knew had ever been called that. I ran through everyone who'd come up those stairs to see him, the parts suppliers, the repair guys, the neighbors who borrowed his tools, and none of them had a name that came close. *"A nickname, maybe. A shop. A bar called the Bear."* I tried it as a street, a station, a restaurant. Nothing fit.
 
 I smacked the desk hard enough to rattle the lamp. *"Dad, why couldn't you just write a name?"*
 
@@ -188,23 +188,13 @@ I looked at the phone. I looked at the paw print on the page. I looked at the ph
 
 *"No."*
 
-*"The bear. Bear, bear, HGO. That damn mascot?"*
+*"The bear. HGO's bear. Kazuku."*
 
-My stomach dropped and stayed there. I pressed the heel of my hand against one eye. *"No. Dad wouldn't send me chasing a cartoon."*
+My stomach dropped and stayed there. I pressed the heel of my hand against one eye. *"Dad wouldn't send me chasing a cartoon. So the bear isn't a cartoon. It's a person. Somebody Dad trusted, standing behind that mascot."* Nobody had ever seen who that was. Nobody knew Kazuku's real face.
 
-I took two steps down the room, then three, the floorboards creaking over the grooves the wheelchair had worn. *"So why would he tell me to talk to a bear? Why would he point me at a game? Dad built things and fixed things. He wouldn't send me after a mascot."*
+I read the last paragraph again. *"The world I helped create."* Dad fixed things, and what he had always wanted to build were VR games, whole worlds you could put on and walk into. *"HGO. Dad helped build HGO?"* My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back. I pictured Dad in that chair, building a world, and the picture was bigger than the man I thought I knew.
 
-I stopped at the shelf and looked at the manual. *"Unless the bear isn't the point. Unless somebody Dad trusted is standing behind the bear."* Nobody had ever seen who that was. Nobody knew Kazuku's real face. If anyone alive was careful about who was listening, it was a man who had built himself a bear to hide behind.
-
-*"The world I helped create."* I read it again with the game in my head instead of this room. *"Dad only had three big products that I know of. The pod, the sedan, the EB. Where does a world fit in?"* The first-gen pod, the one Dad had spent his last years on, in this room, in a chair that wasn't built for the work. It had never been a side project. It had been a piece of this. *"No way. Dad helped build HGO?"* I let myself picture it for a second, Dad in that chair, building a whole world, and the picture was bigger than the man I thought I knew. My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back.
-
-*"I could be wrong. I've been wrong about Dad before."* I'd spent a year telling myself the pieces only looked wrong because I was grieving. The calls that kept circling back to his paperwork. The Tabuchis, who wanted what was in this book more than they wanted their money. Standing there with the page still warm from my hands, I knew the only person in that apartment pretending was me.
-
-I flipped to the back of the manual, to the first-gen pod schematic, the headset frame and the feed and the harness he'd drawn and redrawn until the paper wore thin. *"More than I did."* Nexus sold third-gen helmets now. I tried to picture that kind of power under an old first-gen pod, one that could actually run a game like HGO the way it should, and I could almost see where it would fit.
-
-The thought dragged me straight to Tochi. Dad had learned everything he knew there, the circuits, the pods, all of it, and parts of that work were still sitting in the school's archives where I had never been allowed to look. I scratched along my jaw, and for the first time all night the school felt like more than a place I was running from.
-
-I didn't have a plan. I had a bear, a game and a countdown, and the only door I could see to a man nobody had ever met was inside HGO. And it paid. Whatever else the game was, it paid, and Mom's bills hadn't stopped coming just because I'd found a letter.
+*"But why hide it like this? Why not just tell me?"* Because somebody might read it. I took two steps down the room, then three, the floorboards creaking over the grooves the wheelchair had worn. *"This isn't only about the payments, and it isn't only about Tochi. The way he wrote this, it felt like somebody was coming after him. Who's backing the Tabuchis? Is somebody at Tochi?"* I stopped at the shelf. *"And the casket stayed closed."* The room felt colder than it had a minute ago.
 
 I refolded the page along its old creases, slid it back in at the controller diagrams, and set the manual on the shelf exactly where it had been, spine out, because Chiyo and the twins weren't supposed to know there was anything in it to find. I killed the lamp and went back down the hall.
 
@@ -226,7 +216,7 @@ A small green confirmation bloomed on the screen a moment later, text appearing 
 
 I locked my phone and set it face-down on the couch beside me, my hand coming up to rub the back of my neck. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
 
-*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"I don't know the game as well as I want to. But that's the first place I look."*
+*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"If I make real money in there, Chiyo can't send me back to Tochi."* I rubbed the back of my neck. *"I don't know the game as well as I want to. But that's the first place I look."*
 
 I didn't remember closing my eyes.
 
