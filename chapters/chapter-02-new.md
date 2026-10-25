@@ -30,7 +30,7 @@ Eren didn't answer that. He leaned into the counter instead, both hands flat on 
 
 I rolled my eyes toward the ceiling and back. "Heard about that," I said, and left it there.
 
-I didn't say what I was actually thinking, that a guild built on a stolen concept always hit a ceiling the concept alone couldn't push through, and that the only reason Eren's had gotten as far as it had was his dad's money buying him gear good enough to cover the gaps.
+I didn't say what I was actually thinking, that a guild built on a stolen concept always hit a ceiling the concept alone couldn't push through, and that the only reason Eren's had gotten as far as it had was his dad's money buying him gear good enough to cover the gaps. It was a good build, but it was skill-locked, and if you didn't know how to run it, it never opened up.
 
 Behind Eren, Haruto had gone quiet, his eyes moving between the two of us like he was working out a math problem of his own.
 
@@ -46,7 +46,7 @@ Something in Eren's easy expression flickered, just for a second. It might have 
 
 *"Fake as always. Say one more word about her."*
 
-Heat climbed my neck. My grip on the counter's edge tightened at the knuckles, my jaw set so hard my teeth ached, and for one breath I wanted to reach across and grab his jacket. I let it go before the tension could spread anywhere visible. Nothing on my face moved.
+Heat climbed my neck. My grip on the counter's edge tightened at the knuckles, my jaw set so hard my teeth ached, and for one breath I wanted to vault the counter and whip his ass. I let it go before the tension could spread anywhere visible. Nothing on my face moved.
 
 "She's fine," I said, low and even, and I held his eyes. "Your card's going through. After that, the door's behind you."
 
@@ -58,11 +58,9 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "Guess I'll see you in Eryndal, then," Haruto said, quiet enough that the words didn't carry past the counter, just between the two of us.
 
-"I don't even play that game," I said.
+"I don't play that game. You know that," I said.
 
-"Now's your chance." Haruto's eyes flicked to the door Eren had walked out of, then back to me. "I'd like to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate. "Beats wasting away behind that counter."
-
-"That counter keeps the lights on at my place," I said. "I'm not knocking it."
+"Why not?" Haruto's eyes flicked to the door Eren had walked out of, then back to me. "Better than sitting here letting someone else steal from you. I'm not knocking the job, and I'm not telling you how to live, bro. I'd just love to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate.
 
 I rolled my shoulders back and gave him a nod, nothing more spent on it than that. *"Haruto doesn't talk like Eren. That's what makes it stick."*
 
@@ -78,7 +76,7 @@ The light bulbs buzzed overhead and the courtyard was gone. Just the counter, th
 
 *"Fuck. I just wish I'd never trusted that snaky bastard."*
 
-Haruto's voice came back anyway. *"I'd love to see what the brain behind that build looks like when it's actually playing it."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. My jaw worked once. *"Why would he ask me that? Why now?"*
+Haruto's voice came back anyway. *"I'd just love to see what the brain behind that build looks like when it's actually playing it."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. My jaw worked once. *"Why would he ask me that? Why now?"*
 
 *"Sure, send Eren. He's too dumb to even think to ask why."* I raked a hand back through my locs, and a loose one slid across my face. As long as his father's money kept feeding the guild, he'd do whatever he was told.
 
@@ -94,15 +92,15 @@ I took one final breath and went to close up.
 
 I moved through closing on autopilot. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy clunk that echoed across the lot. The cold hit my face and my breath fogged in front of me.
 
-Around back, the Haya EB moped was sitting exactly where I'd left it, old paint gone matte in patches under the yellow security light, the helmet hanging off the handlebar where I always left it when I knew nobody else would be back here. I pulled it on, tucked the loose loc back before it could catch in the strap, and swung a leg over the seat, the cold leather biting through my jeans.
+Around back, the Haya EB scooter was sitting exactly where I'd left it, the last thing of Dad's that still ran, old paint gone matte in patches under the yellow security light, the helmet hanging off the handlebar where I always left it when I knew nobody else would be back here. I pulled it on, tucked the loose loc back before it could catch in the strap, and swung a leg over the seat, the cold leather biting through my jeans.
 
 The touchscreen between the handlebars flickered awake under my thumb the way it always did, half a second of hesitation like it didn't trust me yet. I waited it out, thumb pressed flat to the glass, until the dash finally lit green and the charge indicator climbed and stalled at two bars, not the full it should have read after a day on the charger.
 
-I kicked the stand up, rolled it off the curb with my feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white in the rain that had picked up again. The last trains had stopped running and the sidewalks were nearly bare. I opened it up on a long clear stretch, the hum of the electric motor climbing under me, rain needling cold against my cheeks where the helmet didn't quite cover. The hum stuttered once, a dip in the climb, then caught again.
+I kicked the stand up, rolled it off the curb with my feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white in the rain that had picked up again. Even after the last trains the sidewalks kept their late crowd, office workers, couples, groups of kids under the signs. I opened it up on a long clear stretch, the hum of the electric motor climbing under me, rain needling cold against my cheeks where the helmet didn't quite cover. The hum stuttered once, a dip in the climb, then caught again.
 
 Some track was playing low through the scooter's tiny speaker, one of Yuna's, something Momo had dropped into my queue two weeks ago without asking and I'd never bothered deleting.
 
-The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. *"Come on, now. I'm already having a day."* I swung off into the rain and pushed it the rest of the way, boots splashing through the gutter, my arms burning on the handlebars, my breath rasping, rain needling my neck, my jaw tight as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
+The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. *"Come on, now. I'm already having a day."* I crouched and pressed my palm flat to the dead dash. *"Not you too. You're the last thing of his that still runs. I'm fixing you, I don't care how long it takes."* I stood and pushed it the rest of the way, boots splashing through the gutter, my arms burning on the handlebars, my breath rasping, rain needling my neck, two women under a shop awning looked me up and down, a six-foot-three Black guy in the rain pushing a dead scooter, and one leaned toward the other and said something. I kept my eyes on the road, my jaw tight as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
 
 I parked around back on reflex, in the spot that wasn't technically mine but nobody else ever used, and came in through the side door the hotel staff used during the day.
 
@@ -218,7 +216,7 @@ A small green confirmation bloomed on the screen a moment later, text appearing 
 
 I locked my phone and set it face-down on the couch beside me, my hand coming up to rub the back of my neck. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
 
-*"No noob bullshit. Find a way to turn this into money she can't argue with, and find a way to the bear."*
+*"I don't know this game as well as I want to. Before I plan anything, I look at the first option. Crownfall."*
 
 I didn't remember closing my eyes.
 
