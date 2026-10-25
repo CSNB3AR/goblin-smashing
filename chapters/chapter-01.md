@@ -42,7 +42,7 @@ The Knights of the London Spire had pulled back into the walls, twenty of them t
 
 Aogiri's leader was pinned in the city hall with eleven others, their banner on the hall steps and his name on the overlay as its guardian. He was **POISONED**, a tick eating a little health every few seconds, and the Shadowveils who could have slipped an antidote through the narrow way in had all died early. London's own leader guarded their flag from a tent set back from the gate, with the one way in sealed. The Knights only had to keep the gate bleeding and let the poison work.
 
-I hated how clean the read came. It was the tactics. It had always been the tactics, the reason I'd loved this game in the first place, back when Eren and I spent whole nights building them out on our tablets and kept arguing about them between classes. That was exactly why I kept my back to it now. I dragged a hand through my locs, a loose one slipping free again, and made myself breathe.
+I hated how clean the read came. It was the tactics. It had always been the tactics, the reason I'd loved this game in the first place, back when Eren and I spent whole nights building them out on our tablets and kept arguing about them between classes. That was exactly why I kept my back to it now. I stared at the dark window until my reflection settled, and made myself breathe.
 
 *"And they were playing like boneheads."* He could hand the flag off and meet a runner outside the walls, or break out with the eleven while a wave hit the gate from the other side, but a handoff would show on the overlay and London would swarm whoever held it, and both his officers were DPS who wouldn't last. Sitting on the steps was the only play that couldn't win. The reinforcements were worse, feeding the gate one at a time instead of massing. The gate was London's single point of failure too, one input, one output, the kind of thing Dad would have glanced at and asked where the redundancy was. Every minute he sat there was a minute of poison, and the flag was his to guard. If he went, it went.
 
@@ -88,9 +88,9 @@ I read it twice, the same way I'd read Chiyo's text, making sure the number was 
 
 I shook it off. *"Not tonight, and not this game. Tonight is a shift, tomorrow is another one, and a sale is only a sale. I've watched people burn their savings on less."*
 
-My thumb found the edge of the counter and pressed there, hard enough that my nail went white, a loose loc slipping across my face that I didn't bother pushing back. My mind kept running the number anyway, a stubborn little machine that never knew when to quit, and I made it stop.
+My thumb found the edge of the counter and pressed there, hard enough that my nail went white, the light bulbs buzzing on overhead. My mind kept running the number anyway, a stubborn little machine that never knew when to quit, and I made it stop.
 
-*"It's not like I'm making bank here."* Gato was a good guy, but this job had a ceiling and I'd hit it six months ago. Chiyo was covering more than she should, Mom's bills weren't getting smaller, and the Tabuchis weren't going to stop calling just because we kept ignoring them. If I didn't do something, Chiyo was going to make the Tochi decision for me, and I'd be walking back into that school with my tail between my legs. I scratched the stubble on my chin, my earring swinging against my neck.
+*"It's not like I'm making bank here."* Gato was a good guy, but this job had a ceiling and I'd hit it six months ago. Chiyo was covering more than she should, Mom's bills weren't getting smaller, and the Tabuchis weren't going to stop calling just because we kept ignoring them. If I didn't do something, Chiyo was going to make the Tochi decision for me, and I'd be walking back into that school with my tail between my legs. I let out a breath through my teeth and watched the rain start to streak the window.
 
 I wasn't going to gamble the little I had on a game I couldn't even stand to hear. I picked the rag back up and told myself that was the end of it.
 

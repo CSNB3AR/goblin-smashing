@@ -68,7 +68,7 @@ Haruto straightened up, pulled his jacket tighter against the cold, and followed
 
 The door swung shut behind them with a soft chime, and the store went quiet again, nothing but the light bulbs buzzing overhead.
 
-I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place.
+I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place, apart from a siren somewhere across Shibuya that rose and faded.
 
 The courtyard at Tochi came back without me asking, the one spot where nobody bothered me, a tablet propped on my knee and an HGO trailer playing. Dad was already gone by then. He had always loved the idea of building a world inside VR, and he used to talk about it all the time. I didn't know why, but that game made me feel connected to him. Then Eren walked by, stopped, and said something about the trailer, and for months after that we argued about the game between classes until I thought I finally had a friend. I'd been wrong. Once he saw what my head could do, he made his offer. I couldn't get into the game yet. He could. So he flipped, ran my work on his father's money, and let the whole school watch him do it. It was the best thing I'd ever made, and now it was his. My throat went tight.
 
@@ -76,11 +76,11 @@ The light bulbs buzzed overhead and the courtyard was gone. Just the counter, th
 
 *"Fuck. I just wish I'd never trusted that snaky bastard."*
 
-Haruto's voice came back anyway. *"I'd just like to see who the brain behind that build looks like in this game."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. I pushed a loc back behind my ear. *"Why would he ask me that? Why now?"*
+Haruto's voice came back anyway. *"I'd just like to see who the brain behind that build looks like in this game."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. I looked at the dark window, my own reflection looking back at me. *"Why would he ask me that? Why now?"*
 
 I flipped the door sign to CLOSED and shut off the coffee machine, the gurgle dying out under the buzz of the light bulbs. *"Why would he say that, wearing Eren's jacket? He's with Eren. So why talk to me like that?"* I scratched the side of my chin and killed the hot case light, and the glass went dark.
 
-*"Makes me wonder."* I let out a slow breath through my nose and pulled the drawer out of the register. *"Damn it. I hate speculating when I've got all these questions and no answers."*
+*"Makes me wonder."* I yanked the drawer out of the register and set it on the counter harder than I needed to. *"Damn it. I hate speculating when I've got all these questions and no answers."*
 
 *"Sure, send Eren. He's too dumb to even think to ask why."* I raked a hand back through my locs, and a loose one slid across my face. As long as his father's money kept feeding the guild, he'd do whatever he was told.
 
@@ -180,7 +180,7 @@ I smacked the desk hard enough to rattle the lamp. *"Dad, why couldn't you just 
 
 Then I read the last line of that paragraph again. *Just be careful who is listening.* He hadn't left a name because a name could be read by the wrong person. Whatever the bear was, it had to be something only I would catch.
 
-I tapped the dangling earring at my ear, a habit I'd never lost. My phone lit up on the desk.
+I crossed the room and cracked the window to let the cold in. My phone lit up on the desk.
 
 The sale reminder from Nexus. The bear on the screen was cartoon-round and grinning, one paw raised in a wave, sitting beside the gold countdown. **71:31:06.** Under it, in white letters, the same line Kazuku had said on the broadcast at work an hour ago: *Bring your business here.*
 
@@ -190,9 +190,9 @@ I looked at the phone. I looked at the paw print on the page. I looked at the ph
 
 *"The bear. HGO's bear. Kazuku."*
 
-My stomach dropped and stayed there. A loc dropped in front of my face and I shoved it back. *"Dad wouldn't send me chasing a cartoon. So the bear isn't a cartoon. It's a person. Somebody Dad trusted, standing behind that mascot."* Nobody had ever seen who that was. Nobody knew Kazuku's real face.
+My stomach dropped and stayed there. I gripped the back of the desk chair. *"Dad wouldn't send me chasing a cartoon. So the bear isn't a cartoon. It's a person. Somebody Dad trusted, standing behind that mascot."* Nobody had ever seen who that was. Nobody knew Kazuku's real face.
 
-I read the last paragraph again. *"The world I helped create."* Dad fixed things, and what he had always wanted to build were VR games, whole worlds you could put on and walk into. *"HGO. Dad helped build HGO?"* My breath went out through my nose, slow, and my earring swung against my neck. I pictured Dad in that chair, building a world, and the picture was bigger than the man I thought I knew.
+I read the last paragraph again. *"The world I helped create."* Dad fixed things, and what he had always wanted to build were VR games, whole worlds you could put on and walk into. *"HGO. Dad helped build HGO?"* I gripped the edge of the shelf. I pictured Dad in that chair, building a world, and the picture was bigger than the man I thought I knew.
 
 *"But why hide it like this? Why not just tell me?"* Because somebody might read it. I took two steps down the room, then three, the floorboards creaking over the grooves the wheelchair had worn. *"This isn't only about the payments, and it isn't only about Tochi. The way he wrote this, it felt like somebody was coming after him. Who's backing the Tabuchis? Is somebody at Tochi?"* I stopped at the shelf. *"And the casket stayed closed."* The room felt colder than it had a minute ago.
 
@@ -208,15 +208,15 @@ My thumb swiped to the Nexus Enterprises purchase screen, the ad blinking next t
 
 *"If I do this, I can't forget why I'm doing it."* Not for me. Not to prove something to Eren or show off to Haruto or get Loop clout or any of that. It was for them, and for the schematics Dad never got to finish. Haruto's question was still rattling around my head, and I hated that part of me wanted to answer it. My eyes flicked toward Taji, who was still staring at the frozen screen like he was trying to memorize every detail.
 
-*"Fine."* I pulled in a breath through my nose, held it longer than I needed to, and let it out slow. *"Doing it."*
+*"Fine."* I stared at the screen, the glow the brightest thing in the dim living room. *"Doing it."*
 
 *"Chiyo's going to kill me. Then she's going to bring me back and kill me again."* I pressed my thumb down on the purchase button before I could talk myself out of it, before the sensible part of my brain could start listing all the reasons this was a bad idea and I should wait and save more.
 
 A small green confirmation bloomed on the screen a moment later, text appearing in clean white letters: **Purchase Complete. Your HGO Access Drive will be available for pickup within 24 hours.**
 
-I locked my phone and set it face-down on the couch beside me, my earring swinging as I tipped my head back against the couch. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
+I locked my phone and set it face-down on the couch beside me, and let my head fall back against the couch cushion. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
 
-*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"If I make real money in there, Chiyo can't send me back to Tochi."* I scratched my small beard. *"I don't know the game as well as I want to. But that's the first place I look."*
+*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"If I make real money in there, Chiyo can't send me back to Tochi."* I looked at the frozen screen across the room, then back at the phone. *"I don't know the game as well as I want to. But that's the first place I look."*
 
 I didn't remember closing my eyes.
 
