@@ -52,9 +52,13 @@ Eren turned toward the door without another word, his jacket catching the overhe
 
 Haruto lingered a beat longer than he needed to, his weight still resting slightly against the counter.
 
-"Guess I'll see you in Eryndal, then," Haruto said, quiet enough that the words didn't carry past the counter, just between the two of us. He nodded once toward the TV, small and deliberate. "You're too sharp to be working a register. Hope you know that."
+"Guess I'll see you in Eryndal, then," Haruto said, quiet enough that the words didn't carry past the counter, just between the two of us.
 
-I gave him a nod back, nothing more spent on it than that, my expression still flat.
+"I don't even play that game," I said.
+
+"Now's your chance." Haruto's eyes flicked to the door Eren had walked out of, then back to me. "I'd like to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate. "Beats wasting away behind that counter."
+
+I rolled my shoulders back, took a slow breath through my nose, and gave him a nod, nothing more spent on it than that. *"He's not wrong. I'm not telling him that."*
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 

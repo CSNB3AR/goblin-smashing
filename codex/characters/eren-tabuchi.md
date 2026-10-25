@@ -32,3 +32,4 @@ The build dominated the meta, built Eren's reputation, and got Tochi to back a s
 See `codex/subplots/tabuchi-schematics-and-family-debt.md`.
 
 - **Voice (author-stated).** An absolute jackass: smug, needling, fake-sympathetic. Never the same voice as Haruto or Tatsuya.
+- **The build has a ceiling for Eren (author-stated).** Haruto and Tatsuya both know it; Tatsuya, who created much of the build, does not share that ceiling.
