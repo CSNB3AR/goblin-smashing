@@ -4,23 +4,21 @@ I woke up wrong, sluggish and heavy, and I knew it before I opened my eyes. Sunl
 
 My phone was still in my hand, the screen dark and cool against my palm. I thumbed it awake: **3:04 PM**.
 
-*"What the hell."* I was off the couch before the thought finished, the blanket sliding to the floor, the television still paused on the soldiers marching through the gate. Momo's door stood open, her room empty, the bed made in the quick, lopsided way that meant she'd done it on her way out. Taji's side of the couch was cold.
+*"No. No, no, no."* I was off the couch before I was fully awake, the blanket sliding to the floor, my heart already going. The television was still paused on the soldiers marching through the gate. Momo's door stood open and her room was empty, the bed made in the quick, lopsided way she did it on her way out. Taji's side of the couch was cold.
 
-Nobody home but me, and a good fifth of my seventy-two-hour window already gone.
+*"Chiyo is going to kill me. How did I sleep through the whole day?"* The sale clock had been running the entire time, a fifth of its seventy-two hours already gone, and I hadn't even picked up the drive. I stood in the middle of the living room with my phone in one hand, listening for anybody at all, and heard the fridge hum.
 
-*"Slept through the whole damn morning. Great start."*
-
-A note sat on the kitchen counter, folded once, my name written across the front in Chiyo's handwriting.
+A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting. I grabbed it too fast and had to read the first line twice.
 
 **[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
-Right. The trip. It had been on the calendar stuck to the fridge for two weeks, and I'd still managed to lose track of it.
+My breath went out of me slowly. *"The trip. Right. The trip."* It had been on the calendar stuck to the fridge for two weeks, and I'd still lost track of it. Nobody was waiting on me. Nobody was angry. The only thing I'd missed was sleep I clearly needed, and the rice balls line was pure Chiyo. I read it once more before I put it down. Six days with nobody home but me.
 
 My phone buzzed in my hand, then again. A text from an unknown number sat at the top of my notifications, sender marked **Nexus Enterprises**.
 
 **[Your HGO Access Drive order has been processed and is ready for pickup. Please collect within 72 hours of this notification. Pickup Code: 4472-KAZE]**
 
-Whatever came next, it started today, and I was already behind. I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
+That settled it, and my shoulders came up again, but this time with something to aim at. *"Okay. I need to go pick this up. Today, before anything else goes wrong."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
 I took my laptop off the kitchen counter, dropped onto the couch, and opened the HGO Companion App. I wasn't there for the game. I was there for the market. Item sets loaded sorted by zone and rarity, blue gear running five figures in yen for a single piece, legendary gear with no price at all, just auction estimates that made my stomach drop when I scrolled past them.
 
@@ -40,15 +38,15 @@ I ignored it and opened Loop. My profile loaded, the follower count in the corne
 
 Nine people I didn't know, following an account I barely posted from. I closed it and pulled up the cafe booking app, filtering by ward, then by availability. Third-gen cafes across Shibuya came up first, waiting lists stretching into next year, every slot booked. The sale had driven demand past anything the cafes could handle.
 
-Second-gen pods weren't much better. The Tabuchi-backed cafes had openings, technically, but the earliest was March, three months out. *"Not waiting three months."* I scrolled deeper into results I'd already written off.
+Second-gen pods weren't much better. The Tabuchi-backed cafes had openings, technically, but the earliest was March, three months out. *"Three months. Mom's bills don't wait three months."* My jaw was set by the time I scrolled past the last result I could afford, the clock on the sale ticking in the corner of the screen. I went deeper into the listings anyway, past the ones I'd already written off.
 
 A listing halfway down the third page stopped me. Sakura Arcade, a name I didn't know, with a small gray tag reading **[Legacy Hardware - First-Gen Pods Available]**. Walk-ins accepted, limited compatibility with newer titles, and a single line at the bottom.
 
 **[Free after 5 PM on weekdays.]**
 
-*"Free?"* I clicked through. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises moved on to the third-gen helmets. It shouldn't run HGO at all, not unless you knew what was underneath the casing, and I knew, or close enough. That was all I had to go on, but it was something.
+*"Free?"* Something small and stupid lifted in my chest, the first thing all afternoon that wasn't dread, and I shut it down before it could get comfortable. It was probably a typo. I clicked through anyway. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises moved on to the third-gen helmets. It shouldn't run HGO at all, not unless you knew what was underneath the casing, and I knew, or close enough. That was all I had to go on, but it was something.
 
-I checked the time. 3:47 PM. The window opened in just over an hour, and I still had to pick up the drive from Nexus first. I grabbed my jacket from the back of the couch and went down the hall to Dad's old work room, the smell of old solder and circuit boards hitting me at the door, the smell Momo had complained about for years.
+I checked the time. 3:47 PM. My pulse picked up. The window opened in just over an hour, and I still had to pick up the drive from Nexus first, on an EB that hadn't held a charge since last night. I grabbed my jacket from the back of the couch and went down the hall to Dad's old work room, the smell of old solder and circuit boards hitting me at the door, the smell Momo had complained about for years.
 
 The manual sat on the shelf above the desk, spine cracked, pages dog-eared in a dozen places. I pulled it down, and the letter stayed where I'd tucked it, hidden in the controller diagrams. I left it there and flipped to the controller board section, my thumb running down the margins until a note in his slanted handwriting stopped it. **Joint on rail 3 goes cold under load. Reflow.**
 
@@ -56,7 +54,7 @@ The manual sat on the shelf above the desk, spine cracked, pages dog-eared in a 
 
 It was parked where I'd left it, black paint still clean, dead dash and all. I propped it on its stand and pulled the cover off the controller board, the cold air biting the back of my neck, and found the joint on rail 3 exactly where the margin said. A hairline crack, hardly visible, enough to cut power the second the motor pulled hard. It took twenty minutes with the iron, a rag and a lot of patience, and I didn't breathe easy until I pressed my thumb to the screen.
 
-The dash took its time reading my print, that half-second of scanning to confirm who was riding, and then it lit green. The visor on the helmet threw a bright route line across the street. *"Good. Good. We're good."* I ran a hand along the seat. It wasn't fixed forever, but it was fixed enough.
+The dash took its time reading my print, that half-second of scanning to confirm who was riding, and then it lit green. The visor on the helmet threw a bright route line across the street. *"Good. Good. We're good."* I ran a hand along the seat. I let my forehead drop against the handlebar for one second, long enough to breathe out. It wasn't fixed forever, but it was fixed enough.
 
 I clipped the manual into the rear case, pulled the helmet on, tucked my locs in so I could drop the visor, and rode out toward Ginza with the route line leading the way.
 
@@ -72,7 +70,7 @@ The ground floor read more showroom than store. Third-gen helmets sat on individ
 
 *"Of course they're playing that on repeat."* I kept my head down and kept moving.
 
-The pickup counter sat toward the back, past a row of demo pods where a handful of kids waited their turn to try a helmet for five free minutes. A line had formed anyway, everyone holding the same confirmation text I had on my phone. I joined it with my hands in my pockets and watched the guy ahead of me collect a small glossy sleeve with the compass rose stamped in gold. The same sleeve got handed over three more times before I reached the counter.
+The pickup counter sat toward the back, past a row of demo pods where a handful of kids waited their turn to try a helmet for five free minutes. A line had formed anyway, everyone holding the same confirmation text I had on my phone. I joined it with my hands in my pockets and watched the guy ahead of me collect a small glossy sleeve with the compass rose stamped in gold. The same sleeve got handed over three more times before I reached the counter, and every one of them took longer than the clock on my phone could spare.
 
 "Confirmation number," the attendant said, not looking up from his tablet.
 
@@ -82,7 +80,7 @@ I rattled it off from memory, 4472-KAZE, and he disappeared into the back and ca
 
 "Appreciate it," I said, and dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension or a premium helmet I couldn't afford.
 
-Outside, the sun was dropping behind the buildings, the light going orange at the edges. I checked my phone. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might turn out to be an abandoned storefront with a listing nobody had taken down.
+Outside, the sun was dropping behind the buildings, the light going orange at the edges. I checked my phone. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might turn out to be an abandoned storefront with a listing nobody had taken down. *"If it's a dead end, I just burned the whole afternoon."* My stomach turned over once, and I got on the EB.
 
 The visor clicked into place with the sound I'd heard every morning for two years, and the EB caught on the first try, the hum climbing through my palms the way it did when it was behaving. I took it down the nearest clear stretch of road, downtown thinning out into the streets I actually knew.
 
@@ -158,7 +156,7 @@ The display went dark. Then the world did.
 
 Sound came first, a low hum building underneath everything, bass-heavy, loud enough that I felt it in my teeth. Then light, bright enough that my eyes watered before the system adjusted. I was standing in a white void, no walls, no floor I could see, just empty space in every direction, the kind of nothing that should have been disorienting and wasn't.
 
-*"Holy shit. It worked."* The grin tried to happen before I caught it. I was actually in.
+*"Holy shit. It worked."* My shoulders dropped for the first time since I'd woken up, and the grin tried to happen before I caught it. I was actually in.
 
 Text floated at eye level, clean white letters with no shadows.
 

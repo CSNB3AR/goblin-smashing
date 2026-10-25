@@ -20,6 +20,7 @@ How to bring an old chapter (4 to 10) up to the format set by `chapters/chapter-
 - Concrete detail over figures. Keep a figure only if it comes from his world and makes the scene clearer (see `concrete-detail-and-figurative-language.md`).
 - Cues after information-heavy stretches are body or sensory, varied, and habits (eye press, beard, earring, locs) are rare. Never repeat one cue three times in a chapter.
 - Tatsuya is not a fan. No esports vocabulary, no meta talk, no outside knowledge he would not have.
+- Emotion fits each scene and shifts with it: name what he feels coming in, what turns it, and what he leaves with (see `craft-rules.md`, "Emotion fits the scene").
 - Humor is an occasional drip, honest, aimed at people who earned it, never at Haruto.
 
 ## Canon to match (the ledger wins)
