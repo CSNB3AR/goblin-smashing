@@ -56,9 +56,9 @@ Behind me, sound cracked out of the speaker, a double-kill chime that made the c
 
 I didn't turn around. I wiped the same spot a third time and a fourth while the crowd climbed and the minutes bled off, until one low tone sounded, the kind that meant a hold timer had run out.
 
-"The zone is secured, Thornwatch is London's!" Yuna's voice rolled over the eruption. "And look at that, folks, Prince Dorrin's soldiers are marching through the gate, and a quest line is opening for the Knights! As soon as they settle it, the points go on the board, and London Spire takes Season Zero, forty million yen and the trophy, in front of a sold-out house here in Singapore!"
+"The zone is secured, Thornwatch is London's!" Yuna's voice rolled over the eruption. "And look at that, folks, Prince Dorrin's soldiers are marching through the gate, and a quest line is opening for the Knights! As soon as they settle it, the points go on the board, and London Spire takes Season Zero, forty million yen, in front of a sold-out house here in Singapore!"
 
-I turned back around in time to see the camera orbs peel away from the dead leader and drift after the soldiers, the way the feed would follow any other fight, while the feed cut to Yuna on a virtual stage, her CG avatar waving as gold and white confetti fell around her. *"Tough, losing like that."* I felt nothing about it.
+I turned back around in time to see the camera orbs peel away from the dead leader and drift after the soldiers, the way the feed would follow any other fight, while the feed cut to Yuna on a virtual stage, her CG avatar waving at the crowd. *"Tough, losing like that."* I felt nothing about it.
 
 *"Forty million."* The thought went exactly where it always went. *"Even a tenth of that pays for the surgery outright. No more Chiyo quietly covering gaps she thinks I don't notice. No more Tabuchi calls."*
 

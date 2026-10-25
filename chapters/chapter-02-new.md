@@ -30,7 +30,7 @@ Eren didn't answer that. He leaned into the counter instead, both hands flat on 
 
 I rolled my eyes toward the ceiling and back. "Heard about that," I said, and left it there.
 
-I didn't say what I was actually thinking, that a guild built on a stolen concept always hit a ceiling the concept alone couldn't push through, and that the only reason Eren's had gotten as far as it had was his dad's money buying him gear good enough to cover the gaps. It was a good build, but it was skill-locked, and if you didn't know how to run it, it never opened up.
+I didn't say what I was actually thinking, that a guild built on a stolen concept always hit a ceiling the concept alone couldn't push through. It was a good build, but it was skill-locked, and if you didn't know how to run it, it never opened up.
 
 Behind Eren, Haruto had gone quiet, his eyes moving between the two of us like he was working out a math problem of his own.
 
@@ -100,7 +100,7 @@ Around back, the Haya EB scooter was sitting exactly where I'd left it, black pa
 
 I pressed my thumb to the touchscreen between the handlebars. Dad had locked it to the owner's fingerprint, so it always took a moment, half a second of scanning to read who was riding before it trusted me. I waited it out, thumb flat to the glass, until the dash lit green and the visor threw a glowing route line across the road ahead. The charge indicator climbed and stalled at two bars, not the full it should have read after a day on the charger.
 
-I kicked the stand up, rolled it off the curb with my feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white in the rain that had picked up again. Even after the last trains the sidewalks kept their late crowd, office workers, couples, groups of kids under the signs. I opened it up on a long clear stretch, the hum of the electric motor climbing under me, rain needling cold against my cheeks where the helmet didn't quite cover. The hum stuttered once, a dip in the climb, then caught again.
+I kicked the stand up, rolled it off the curb with my feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white. Even after the last trains the sidewalks kept their late crowd, office workers, couples, groups of kids under the signs. I opened it up on a long clear stretch, the hum of the electric motor climbing under me. The hum stuttered once, a dip in the climb, then caught again.
 
 Some track was playing low through the scooter's tiny speaker, one of Yuna's, something Momo had dropped into my queue two weeks ago without asking and I'd never bothered deleting.
 
@@ -128,15 +128,13 @@ I didn't answer that. I didn't have to. She'd meant it as a promise, not a threa
 
 I gave her a nod that didn't commit to anything, the same nod I'd been giving her for months whenever this came up, and headed for the stairs, feeling her eyes shift back to the screen.
 
-I took the steps two at a time, my boots landing heavy, the sound echoing in the stairwell.
-
 *"So either I go back to Tochi with my tail tucked between my legs, or I do something first. Something she can't argue with. Something that proves I'm not just wasting time."*
 
-Upstairs, the apartment was mostly dark. Momo's door was cracked open, a wedge of pink light spilling into the hallway, her voice humming along under her headphones to something with way too much reverb, a melody I recognized from the ride home. I caught the edge of her phone screen through the gap, @Yuna_N9 pulled up in her browser, a livestream replay looping in the corner, Momo mouthing the words without actually singing them out loud, her golden-blond locs piled on top of her head and her reddish eyes fixed on the screen.
+Upstairs, the apartment was mostly dark. Momo's door was cracked open, a wedge of pink light spilling into the hallway, her voice humming along under her headphones to something with way too much reverb, a melody I recognized from the ride home. I caught the edge of her phone screen through the gap, @Yuna_N9 pulled up in her browser, a livestream replay looping in the corner, Momo mouthing the words without actually singing them out loud, her golden-blond hair piled on top of her head and her reddish eyes fixed on the screen.
 
-In the front room, Taji was still awake on the couch, his dark locs hanging past his shoulders, a red headband pushed up on his forehead, his green eyes on the screen, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the same broadcast I'd just left behind at WattsUp. The London Spire trophy shot was paused on the screen, confetti frozen mid-fall, London Spire's captains in gold and white holding hardware that probably weighed more than it looked like it did.
+In the front room, Taji was still awake on the couch, his dark hair hanging past his shoulders, a red headband pushed up on his forehead, his green eyes on the screen, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the same broadcast I'd just left behind at WattsUp. The broadcast was paused on the soldiers marching through the gate, the quest prompt glowing over their heads.
 
-"They actually did it," Taji said, not looking up, assuming the way he always did that I had no idea what he was talking about and needed the context explained.
+"Did you see the expansion?" Taji said, not looking up. "Five continents. I wish I was old enough to play it myself."
 
 "Yeah," I said, dropping onto the couch beside him and stealing a corner of the blanket back without asking. "It was on at work. Aogiri threw it at the end. Their leader sat on his hands and let the poison take him."
 
@@ -148,11 +146,11 @@ Taji cracked a small smile despite himself, the kind he tried not to give up too
 
 I sat there in my own living room, the broadcast still paused on-screen, Momo's muffled humming coming through the wall, Taji's blanket warm against my legs, and Chiyo downstairs, still on shift. None of them had asked for this.
 
-The locs were the one thing the three of us shared, a Ghanaian thing from Mom's side. Mom had loved them, so Chiyo had learned to do them early and did them well. Everything else about us was different, Taji's dark locs and green eyes, Momo's golden ones, my skin a shade darker than either of theirs.
+The three of us wore our hair in locs, a Ghanaian thing from Mom's side. Mom had loved them, so Chiyo had learned to do them early and did them well. Past that we looked nothing alike: Taji's thick, dark twists and green eyes, Momo's golden ones, thinner and loose at the ends, and my skin a shade darker than either of theirs.
 
 The Haya EB was still sitting dead around back, and my shift started in the morning. I couldn't walk it, I couldn't afford the train, and the scooter charged for free at work. I shot up off the couch.
 
-"Back in a minute," I said. Taji gave me a nod without looking away from the frozen trophy shot.
+"Back in a minute," I said. Taji gave me a nod without looking away from the frozen screen.
 
 My room was the last door down the hall, the converted corner of the apartment my father had worked out of for most of my life, and I didn't bother with the overhead. The desk lamp was enough. The room smelled faintly of old solder and cold circuit boards, the way it had since long before the funeral, and two pale grooves still ran along the floorboards from the desk to the door where a wheelchair had worn them down.
 
@@ -216,7 +214,7 @@ Rent covered. Mom's hospital bill covered, barely, with Chiyo carrying most of t
 
 My thumb swiped to the Nexus Enterprises purchase screen, the ad blinking next to a number that counted down the remaining time of the sale.
 
-*"If I do this, I can't forget why I'm doing it."* Not for me. Not to prove something to Eren or show off to Haruto or get Loop clout or any of that. It was for them, and for the schematics Dad never got to finish. Haruto's question was still rattling around my head, and I hated that part of me wanted to answer it. My eyes flicked toward Taji, who was still staring at the frozen trophy shot like he was trying to memorize every detail.
+*"If I do this, I can't forget why I'm doing it."* Not for me. Not to prove something to Eren or show off to Haruto or get Loop clout or any of that. It was for them, and for the schematics Dad never got to finish. Haruto's question was still rattling around my head, and I hated that part of me wanted to answer it. My eyes flicked toward Taji, who was still staring at the frozen screen like he was trying to memorize every detail.
 
 *"Fine."* I pulled in a breath through my nose, held it longer than I needed to, and let it out slow. *"Doing it."*
 
