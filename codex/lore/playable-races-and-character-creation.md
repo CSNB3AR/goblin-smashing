@@ -29,3 +29,7 @@ See `codex/objects/hgo-access-drive.md` for the resulting drive-color mechanic.
 ## Choosing a patron
 
 At the start of the game a player also **chooses a patron to follow**. There are five patrons and each race leans toward one (dwarves follow a patron, goblins follow a patron). **Seranis** blesses demi-humans and is the goblins' patron (see `codex/lore/patrons-and-world-weapons.md`). In Tatsuya's case (Chapter 2) Lumi first explains what Hero's Glory Online is (a second world, nothing resets) and the five patrons (only Seranis is named; the evil fifth is hinted at) and says the race you choose decides which patron blesses you. Her walkthrough is cut off by the power blip only after that, at the patron step, and the patron is assigned by default as Seranis, goddess of the demi-humans; the cause of the default is OPEN.
+
+## One character per account (author-stated)
+
+A drive carries one character on one account. Once the character is chosen it is done, and there are no refunds, handled as a waiver because buyers came back upset. A respec exists but costs a great deal, and most players never use it. Proposal: 350,000 yen, OPEN.

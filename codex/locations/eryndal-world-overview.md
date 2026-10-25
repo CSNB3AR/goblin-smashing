@@ -44,3 +44,9 @@ A walled fortress city on the border, on the outskirts of the snowy plains and o
 ## World Quests
 
 Global quest lines any player can attempt, actively hunted by the entire playerbase, not just whoever's nearby, and effectively hoardable by whoever gets there first. See `codex/lore/world-quests.md`.
+
+## Crownfall zone (author-stated)
+
+The Crownfall zone (author-stated): a neutral trade zone on a plateau off the coast of Lunarest, reached by ship. It is a massive magical forest, the last 10 to 15 acres off the back end of the kingdom, full of magical beasts, and the only high-magic ancient forest near Lunarest. It leads to the elves' domain: a domain that teleports you there, and the elves welcome you. Rumor says the court mage Corvith came from there. Normally the zone is open to everyone. During the event the forest is replicated, and the zone is locked to guilds and their participants. The rules will be set closer to the date.
+
+OPEN: the event name (the king's fall) and the zone name are both "Crownfall". Not resolved.

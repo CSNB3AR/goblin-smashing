@@ -101,3 +101,5 @@ Essentially never travels outside Shibuya ward. His day-to-day world (WattsUp, t
 - **Physical tells (author-stated, revised).** He scratches his small, stubby beard when he thinks, his earrings dangle and swing, and his locs drop in front of his face even in a ponytail. These are occasional, about every three to four chapters, never after every beat. He does not wear glasses now but gets them back later. Do not use pressing a hand to his eye. Vary cues with arms folded, visible emotion, the light, sounds outside, looking at things, opening a window.
 
 - **Keeps up with HGO casually (author-stated).** Has the Companion App because WattsUp makes staff carry it, and uses that as cover for following the game; hates admitting it. Dosuke AI is one of his favorite players to watch. Goes into the game for money, which means a strong build for Crownfall: his first choice is the Elf Spellforger build he designed, until the glitch. Excited, a little naive, nervous.
+
+- **Dressed (author-stated).** Locs tied up, earrings in, soccer-oriented drip: J1 League jerseys and joggers from a Japanese sportswear company, no brand names on the page.

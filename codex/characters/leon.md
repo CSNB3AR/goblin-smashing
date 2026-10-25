@@ -23,3 +23,5 @@ See `codex/subplots/technical-arc-leon-and-sakura-arcade.md`, `codex/locations/s
 ## Personality
 
 The rough, no-nonsense former guild analyst and reluctant coach. Claims he's done with the competitive side of the game, just wants a quiet life, yet the moment he sees young players struggling or getting pushed around, his old competitive blood boils and he steps in. Blunt, harsh coaching, curses out sloppy mechanics and lack of grit, then breaks down strategy in plain, practical terms. Values instinct, mental toughness, and finishing fights over fancy setups. His place is a safe haven for the chaotic regulars even while he yells at them to stop being idiots.
+
+- **Later with Tatsuya (author-stated).** Older than Tatsuya, a tech but not high-end yet, with an unlit cigarette behind his ear and glasses. When Tatsuya brings Tochi notes, books and materials the two sharpen each other. Leon eventually manages the guild's operations so Arya can play. Stunned but not starstruck when he learns Tatsuya is Daichi's son.

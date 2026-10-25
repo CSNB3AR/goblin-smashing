@@ -64,3 +64,6 @@ Late in the story, Tatsuya discovers his father's connection to Kazuku and the f
 - **OPEN.** The exact order of Daichi's death versus the loan and the betrayal.
 
 - **VR2 (author-stated).** The Tabuchis invested in the developers who built second-gen full-dive pods from public-record schematics. They are not the company that made them and never had Daichi's base form, which is why they wanted the first-gen designs. First-gen pods are considered extinct and run only basic early VR games.
+
+- **Mom's surgery debt (author-stated).** The first surgery failed on a blood type mismatch after the family had already sold everything, so the next surgery has no money behind it and a six-month clock (see `codex/characters/ohema-kazehaya.md`). The bill is kept off the page until the hospital visit.
+- **Three businesses (author-stated).** Kazuhaya Tech (Daichi), Nexus Enterprises (built on patents from his schematics) and Tabuchi Enterprises are separate. OPEN: the exact relationship between Kazuhaya Tech and Nexus; Tatsuya has to form that connection.

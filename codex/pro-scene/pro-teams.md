@@ -22,3 +22,5 @@ The competitive units in HGO are **guilds**, not fixed small teams (the file kee
 | **Paris Dream** | Europe | Flashy, high-variance drafts, a fan-favorite team that either pops off or falls apart, rarely in between. |
 | **Manila Pulse** | SEA | Fast-paced, aggressive early game, the region's most-watched team on Loop clips. |
 | **Bangkok Aegis** | SEA | Defensive, methodical, SEA's answer to Tokyo Ronin's playstyle. |
+
+- **Season Zero standings and sizes (PROPOSALS, easy to rename).** London Spire first in seasonal points with 50 members, leader Edmund Vane. Aogiri second with about 75 members, leader Lin Haoyu (Chinese-Japanese naming, mixed-nation guild). Dosuke AI's guild Stillwater fourth. Prize splits differ by guild size. OPEN: the roster above names Alistair Rhodes as London Spire's shotcaller, which clashes with the leader's first name; one should be renamed.

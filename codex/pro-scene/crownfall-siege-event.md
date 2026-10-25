@@ -56,3 +56,11 @@ The name comes from the king's fall. King Aldemar is dying, and he dies around t
 - OPEN: whether Crownfall uses the Siege 60-life rule or the 72-hour death lock.
 - The old level-25 new-region cap is unconfirmed.
 - Whether the expansion should be called Crownfall (Hearthfire stays for now).
+
+## Zone and entry (author-stated)
+
+The event is held in the Crownfall zone (author-stated): a neutral trade zone on a plateau off the coast of Lunarest, reached by ship. It is a massive magical forest, the last 10 to 15 acres off the back end of the kingdom, full of magical beasts, and the only high-magic ancient forest near Lunarest. It leads to the elves' domain: a domain that teleports you there, and the elves welcome you. Rumor says the court mage Corvith came from there. Normally the zone is open to everyone. During the event the forest is replicated, and the zone is locked to guilds and their participants. The rules will be set closer to the date.
+
+OPEN: the event name (the king's fall) and the zone name are both "Crownfall". Not resolved.
+
+Guild entry (author-stated): a guild needs at least five members to start (OPEN: the author wavered between three and five; five is used). Crownfall needs at least ten participants out of twenty slots, and participants can include allies and troops, not only players. Pac_Pac becomes needed later.
