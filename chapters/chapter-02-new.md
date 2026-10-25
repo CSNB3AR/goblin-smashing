@@ -1,6 +1,6 @@
 # Chapter Two: Talk to the Bear
 
-I didn't move. I kept both hands flat on the counter and listened to the light bulbs buzz, the way I always went quiet when something was about to go wrong and there was no clean way to stop it. The black car idled outside the middle bay. The silver lotus on the jacket meant Kansai Black Lotus, Eren's guild, funded by Tabuchi money and built on a concept I'd helped him theorize back when we were still friends.
+I didn't move. I kept my palms on the counter and listened to the light bulbs buzz, the way I always went quiet when something was about to go wrong and there was no clean way to stop it. The black car idled outside the middle bay. The silver lotus on the jacket meant Kansai Black Lotus, Eren's guild, funded by Tabuchi money and built on a concept I'd helped him theorize back when we were still friends.
 
 The passenger door opened a second later. Silver hair, a warmup jacket slung over one shoulder, still half in a practice kit that looked expensive even from across the lot. I knew the build before I could place the name.
 
@@ -38,7 +38,7 @@ Eren folded his arms across his chest and rocked back on his heels.
 
 "My father wanted me to remind you the account's still open," Eren said, his voice dropping into that lower register he always used when he wanted to sound like a man.
 
-I let my eyes slide up to the ceiling for a second. "I haven't forgotten," I said. "Tell your dad he can send an email next time. Save you the charge." I kept my hands exactly where they were, breathing even, my pulse steady in my throat. "Bay's open. Card or account."
+I let my eyes slide up to the ceiling for a second. "I haven't forgotten," I said. "Tell your dad he can send an email next time. Save you the charge." I kept my hands exactly where they were, breathing even. "Bay's open. Card or account."
 
 Something in Eren's easy expression flickered, just for a second. It might have been irritation, or disappointment, or just the faint sense that this conversation wasn't going the way he'd pictured it.
 
@@ -154,7 +154,7 @@ The Haya EB was still sitting dead around back, and my shift started in the morn
 
 My room was the last door down the hall, the converted corner of the apartment my father had worked out of for most of my life, and I didn't bother with the overhead. The desk lamp was enough. The room smelled faintly of old solder and cold circuit boards, the way it had since long before the funeral, and two pale grooves still ran along the floorboards from the desk to the door where a wheelchair had worn them down.
 
-Dad's tech manual sat on the shelf above the desk, spine cracked from years of use, pages dog-eared in a dozen places. *"The EB has to be fixable. Everything he built could be fixed."* I pulled the manual down and flipped to the section on the controller board, both hands flat on the desk, my thumb running down the margin notes in his slanted handwriting, looking for the line about the dash resetting itself under load.
+Dad's tech manual sat on the shelf above the desk, spine cracked from years of use, pages dog-eared in a dozen places. *"The EB has to be fixable. Everything he built could be fixed."* I pulled the manual down and flipped to the section on the controller board, the desk lamp warming the page, my thumb running down the margin notes in his slanted handwriting, looking for the line about the dash resetting itself under load.
 
 Something slid out from between the pages and landed face-up on the desk. A single sheet, folded in thirds, folded small and tucked deep between the pages. His handwriting again, but not the margin shorthand. Slower. Pressed harder into the paper.
 
