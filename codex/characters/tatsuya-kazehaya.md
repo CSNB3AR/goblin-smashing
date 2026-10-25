@@ -77,3 +77,5 @@ His build is **Arcane Bomber**, a unique advanced class: an amplifier that roots
 ## Geographic grounding
 
 Essentially never travels outside Shibuya ward. His day-to-day world (WattsUp, the Nakamura Grand, Tochi Academy, Sakura Arcade) sits within it, see `codex/locations/real-world-geography.md`. This keeps any real-world search or errand (like the cafe/pod search in Chapter 2) naturally hyperlocal rather than a citywide odyssey, and makes even a trip to the far side of the ward (Sakura Arcade reads "cut off," "the other side of town" relative to WattsUp and home) feel like a real departure for him. **One clear exception:** the Nexus Enterprises flagship store in Ginza (see `codex/locations/nexus-enterprises-flagship.md`), downtown, a genuine departure from his usual radius, he's been down there maybe twice in his life, both as a kid on some errand of Chiyo's.
+
+- **Voice (author-stated).** Hype, chaotic good, dry humor, real emotion, never monotone. He keeps his composure but stands up for himself and is not a punching bag. When he feels empowered he turns cocky and entitled, a jock-type jerk.

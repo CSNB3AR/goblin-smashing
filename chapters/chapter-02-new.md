@@ -20,7 +20,7 @@ My face didn't move. Some small muscle around my mouth flattened out and tighten
 
 *"Dear friend. Right. That's what we're calling it now."*
 
-"Bay's open," I said, nodding toward the window and the black car parked beyond it, my voice level and professional, the same tone I used for every customer who walked through that door and didn't deserve anything extra. "Card or account."
+"It's called a job, Eren. You should try one." I nodded toward the window and the black car parked beyond it, my voice level and professional, the same tone I used for every customer who walked through that door and didn't deserve anything extra. "Bay's open. Card or account."
 
 Eren didn't answer that. He leaned into the counter instead, both hands flat on the surface I'd just cleaned, close enough that I caught his cologne cutting through the cold air he'd brought in with him, something sharp and expensive.
 
@@ -40,9 +40,13 @@ Something in Eren's easy expression flickered, just for a second. It might have 
 
 "Card," Eren said, pulling it from his wallet and tapping it against the reader without looking away from my face, holding eye contact like it was a challenge I was supposed to rise to. "I hope your mother's doing better. I heard she's still at the hospital. That's rough, man. Really rough."
 
-*"Fake as always."*
+*"Fake as always. Say one more word about her."*
 
-My grip on the counter's edge tightened at the knuckles for exactly one breath, my jaw set so hard my teeth ached, then loosened before the tension could spread anywhere visible. Nothing on my face moved. I watched the charge indicator climb on the screen in front of me, green light by green light, until the payment cleared and Eren finally stepped back from the counter.
+Heat climbed my neck. My grip on the counter's edge tightened at the knuckles, my jaw set so hard my teeth ached, and for one breath I wanted to reach across and grab his jacket. I let it go before the tension could spread anywhere visible. Nothing on my face moved.
+
+"She's fine," I said, low and even, and I held his eyes. "Your card's going through. After that, the door's behind you."
+
+Something in Eren's grin slipped, just for a second, and Haruto's eyes cut over to him. I watched the charge indicator climb on the screen in front of me, green light by green light, until the payment cleared and Eren finally stepped back from the counter.
 
 Eren turned toward the door without another word, his jacket catching the overhead light, the Kansai Black Lotus emblem glinting silver across his back.
 
@@ -58,7 +62,7 @@ The door swung shut behind them with a soft chime, and the store went quiet agai
 
 I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place.
 
-*"He just carries the message. He doesn't even know what's in the envelope."* The thought came flat and certain, the kind I'd stopped questioning somewhere between the funeral and the third phone call. Whatever Eren's father was really after, it had never been Eren's to know. I ran my thumb once along the edge of the counter before I reached for the lights.
+*"Why does his dad keep sending him with the messages? Does Eren even know what they want from us?"* I doubted it. Eren had always been the one sent to the door. *"And why do they keep asking about Dad's paperwork and never about the money?"* The question had been sitting in me since somewhere between the funeral and the third phone call, and I still didn't have an answer. I ran my thumb once along the edge of the counter before I reached for the lights.
 
 I looked up at the screen. The bear was gone. In its place, the discount banner ran on a loop, gold numbers ticking down a countdown that had just crossed under seventy-two hours.
 
@@ -148,7 +152,7 @@ I said it out loud, low, to the empty room. *"What bear?"*
 
 Nobody I knew had ever been called that. I ran through everyone who'd come up those stairs to see him, the parts suppliers, the repair guys, the neighbors who borrowed his tools, and none of them had a name that came close. *"A nickname, maybe. A shop. A bar called the Bear."* I tried it as a street, a station, a restaurant. Nothing fit. I tried it on Chiyo, and then on Mom, and dropped both before they finished forming. If either of them had known, they'd have told me a year ago.
 
-*"Dad, why couldn't you just write a name?"*
+I smacked the desk hard enough to rattle the lamp. *"Dad, why couldn't you just write a name?"*
 
 Then I read the last line of that paragraph again. *Just be careful who is listening.* He hadn't left a name because a name could be read by the wrong person. Whatever the bear was, it had to be something only I would catch.
 

@@ -24,3 +24,5 @@ The old draft (`bible/old-draft-chapter-bible.md`) gave him a much bigger early 
 ## Personality
 
 The silent, expressionless powerhouse. Barely talks or reacts, looks almost bored until he casually deletes entire teams with raw firepower. Ignores complex tactics, forces his way through with pure, unblockable damage. When truly challenged, becomes intensely stubborn, refuses to look away. A complete game hog with his preferred high-damage role, only listens to one trusted support player. Completely blind to chat and compliments, only a direct rival insult makes him try even harder.
+
+- **Voice (author-stated).** A jock: easygoing and careless about other people, a bit neglectful, different in tone from Eren.

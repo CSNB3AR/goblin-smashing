@@ -30,3 +30,5 @@ The build dominated the meta, built Eren's reputation, and got Tochi to back a s
 **Aftermath at school:** once Eren's build got famous, Tatsuya became a target for mockery specifically because everyone knew he'd been involved in the underlying ideas but was too broke to actually play, a cruel, specific irony. This led to real altercations (Tatsuya was no longer the shy kid by this point), and combined with his father's death, led to him dropping out entirely within that first three-month stretch, giving him an undeserved "bad boy" reputation.
 
 See `codex/subplots/tabuchi-schematics-and-family-debt.md`.
+
+- **Voice (author-stated).** An absolute jackass: smug, needling, fake-sympathetic. Never the same voice as Haruto or Tatsuya.
