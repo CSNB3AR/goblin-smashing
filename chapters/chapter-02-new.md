@@ -64,12 +64,6 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 My nod stalled halfway. *"He knows. That was never said out loud, not to anybody but Eren and me, and Eren has no idea Haruto caught on. The man's got good eyes. He can tell when somebody doesn't know how to run his own build."* I finished the nod, nothing more spent on it than that.
 
-*"Why would he say that, wearing Eren's jacket?"* I scratched the side of my chin and looked at the silver lotus stitched on his shoulder.
-
-*"He's with Eren. So why talk to me like that?"* My fingers drummed once on the counter and stopped.
-
-*"Makes me wonder."* I let out a slow breath through my nose. *"Damn it. I hate speculating when I've got all these questions and no answers."*
-
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
 The door swung shut behind them with a soft chime, and the store went quiet again, nothing but the light bulbs buzzing overhead.
@@ -84,6 +78,10 @@ The light bulbs buzzed overhead and the courtyard was gone. Just the counter, th
 
 Haruto's voice came back anyway. *"I'd just like to see who the brain behind that build looks like in this game."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. I pushed a loc back behind my ear. *"Why would he ask me that? Why now?"*
 
+I flipped the door sign to CLOSED and shut off the coffee machine, the gurgle dying out under the buzz of the light bulbs. *"Why would he say that, wearing Eren's jacket? He's with Eren. So why talk to me like that?"* I scratched the side of my chin and killed the hot case light, and the glass went dark.
+
+*"Makes me wonder."* I let out a slow breath through my nose and pulled the drawer out of the register. *"Damn it. I hate speculating when I've got all these questions and no answers."*
+
 *"Sure, send Eren. He's too dumb to even think to ask why."* I raked a hand back through my locs, and a loose one slid across my face. As long as his father's money kept feeding the guild, he'd do whatever he was told.
 
 *"But why keep pushing us for the money? Chiyo isn't broke, she's just not paying while the lawyers fight it. It has to be bigger than that."* I made myself look at the shelves, the neat rows of rice balls and phone chargers, the dark lot past the glass, and breathed until my pulse slowed. Every call circled back to Dad's paperwork, and I still didn't have an answer. I reached for the lights.
@@ -96,7 +94,7 @@ I looked up at the screen. The bear was gone. In its place, the discount banner 
 
 I took one final breath and went to close up.
 
-I moved through closing on autopilot. I flipped the door sign to CLOSED, shut off the coffee machine and killed the hot case light. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy clunk that echoed across the lot. The cold hit my face and my breath fogged in front of me.
+I moved through the rest of closing on autopilot. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy clunk that echoed across the lot. The cold hit my face and my breath fogged in front of me.
 
 Around back, the Haya EB scooter was sitting exactly where I'd left it, the last thing of Dad's that still ran, old paint gone matte in patches under the yellow security light, the helmet hanging off the handlebar where I always left it when I knew nobody else would be back here. I pulled it on, tucked the loose loc back before it could catch in the strap, and swung a leg over the seat, the cold leather biting through my jeans.
 
