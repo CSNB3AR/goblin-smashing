@@ -45,7 +45,7 @@ def check(path):
     if not re.match(r"# Chapter \w+: .+", first):
         issues.append((1, f"title should read '# Chapter Three: Title', got: {first[:50]}"))
     tail = [l for l in lines if l.strip()][-1] if text.strip() else ""
-    if not re.fullmatch(r"\*\*\[END CHAPTER [A-Z ]+\]\*\*", tail):
+    if not re.fullmatch(r"\*\*\[END CHAPTER [A-Z ]+(, PART \w+)?\]\*\*", tail):
         issues.append((len(lines), f"last line should be **[END CHAPTER N]**, got: {tail[:50]}"))
 
     for n, line in enumerate(lines, 1):
@@ -68,6 +68,10 @@ def check(path):
             looks.append((n, "figure of speech: check it comes from his world"))
         if re.search(r"\bI (thought|wondered)\b", narr) and '*"' not in narr:
             looks.append((n, "thought as narration: direct thoughts take *\"...\"*"))
+        if (len(plain.split()) <= 22 and re.search(r"\bI\b|\bmy\b", plain)
+                and '"' not in plain and not plain.startswith(("*", "#", "**"))
+                and re.search(r"[.?!]$", plain.strip())):
+            looks.append((n, "short first-person line: a thought? take *\"...\"* if direct"))
         low = line.lower()
         for c in CUES:
             if c in low:
