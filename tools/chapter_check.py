@@ -15,7 +15,7 @@ STALE = [
     "scrim", "meta", "5v5", "3v3", "five-on-five", "three-on-three",
     "seven-day", "seven days", "Rookie of the Year", "Snowy Plains",
     "Siege mode", "Pro League", "pro league", "roster", "analyst",
-    "Haya Interply", "Embercore", "trophy", "confetti",
+    "Haya Interply", "Embercore", "trophy", "graph paper",
 ]
 FILTER = r"\b(felt|realized|seemed|noticed|watched as|could tell)\b"
 FIGURE = r"\b(like a|like an|as if|as though|almost like|the way (a|an|the))\b"
@@ -26,6 +26,18 @@ CUES = [
     "raked", "scratched my", "touched my beard", "tugged", "my earring",
     "twisted a loc", "pressed my thumb",
 ]
+CRUTCHES = {
+    "jaw": r"\bjaw\b",
+    "stomach": r"\bstomach (dropped|turned|lurched|clenched)|\bstomach drop",
+    "pulse": r"\bpulse\b",
+    "breath out/held": r"breath(ed)? out|let out a breath|held my breath|breath caught|exhaled",
+    "shoulders": r"\bshoulders (came up|dropped|tightened|sagged|were wound)",
+    "knee": r"\bknee (was )?bouncing",
+    "hands flat": r"\bhands? (went )?flat",
+    "throat": r"\bthroat (tight|closed|did)",
+    "heat neck": r"heat (climbed|crawled|rose|crept)",
+    "blinked hard": r"blinked hard",
+}
 LEAK = r"\b(he|his|him|himself)\b"
 BOLD_TOKEN = re.compile(r"\*\*\*?\[.*?\]\*\*\*?")
 
@@ -84,6 +96,11 @@ def check(path):
     if pron:
         looks.append((pron[0], f"he/his/him in narration on {len(pron)} lines, "
                       f"narrator leak or another man (Leon, Eren, Dad): {pron}"))
+    crut = {k: [i + 1 for i, l in enumerate(lines) if re.search(v, l, re.I)]
+            for k, v in CRUTCHES.items()}
+    for k, ns in crut.items():
+        if len(ns) > 1:
+            issues.append((ns[1], f"crutch cue '{k}' used {len(ns)} times (cap is 1): lines {ns}"))
     print(f"\n== {path} ({words} words) ==")
     print("MUST FIX:" if issues else "MUST FIX: none")
     for n, m in sorted(issues):

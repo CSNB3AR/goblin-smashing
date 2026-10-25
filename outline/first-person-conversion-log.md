@@ -79,7 +79,7 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 ## Addendum E: Chapter 1 battle rework, love of tactics, body-cue rule
 
 - **Battle rework (Chapter 1).** The Battle of the Snowy Plains is an open-world, king-of-the-hill fight in an unnamed walled medieval town, not an arena. Season points 10,500 (London Spire) to 10,250 (Aogiri), 300 on the line, ten uncontested minutes wins the zone. The Knights hide in the walls with a kill zone at the choke, 12 Aogiri are cornered in the hall under a poisoned leader who never decides, reinforcements trickle in and die to 72-hour locks, the leader dies and the banner ends (Addendum H). NEW (reshaped).
-- **Love of tactics.** Tatsuya states why he likes HGO: the tactics, the thing he and Eren drew on graph paper. That love is why the broadcast hurts. Avoidance stays. NEW.
+- **Love of tactics.** Tatsuya states why he likes HGO: the tactics, the thing he and Eren built out on tablets. That love is why the broadcast hurts. Avoidance stays. NEW.
 - **Body-cue rule.** After information-heavy passages he returns to his body with a varied cue (rubbing his eyes, squinting at the fluorescents, a wince, a loc falling, hands flat on a surface). Applied chapter by chapter, see `style-guide/first-person-voice.md`.
 - **Open items.** The town's name. What happens if the clock expires while the zone is still contested. Whether "the Knights of the London Spire" stays an epithet or becomes the guild name (currently an epithet).
 

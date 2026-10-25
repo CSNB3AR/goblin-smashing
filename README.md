@@ -12,6 +12,7 @@ Everything below is split into individual files/entries specifically so it can b
   - [`voice-technique.md`](style-guide/voice-technique.md)
   - [`first-person-voice.md`](style-guide/first-person-voice.md): first-person conversion rules and what never changes.
   - [`concrete-detail-and-figurative-language.md`](style-guide/concrete-detail-and-figurative-language.md): concrete detail, sparing figures, filter words, and the limits that protect the voice.
+  - [`cue-bank.md`](style-guide/cue-bank.md): his goatee-scratch tell, the capped crutch cues, and what to reach for instead. Overrides older cue lists.
   - [`chapter-reformat-checklist.md`](style-guide/chapter-reformat-checklist.md): how to bring chapters 4 to 10 up to the new format, with `tools/chapter_check.py` (audit) and `tools/build_chapter.py` (docx and md).
   - [`race-dialect-and-voice.md`](style-guide/race-dialect-and-voice.md) — per-race NPC speech/voice rules for the 8 playable races.
 - **[`codex/characters/`](codex/characters/)** — one file per character, 26 entries: Tatsuya, his family, supporting cast, antagonists, and in-game characters.

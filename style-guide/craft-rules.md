@@ -33,3 +33,5 @@ These are the hard rules. Nothing in `style-guide/voice-technique.md` or anywher
 ## Emotion fits the scene
 
 Every beat carries the feeling that scene calls for, and it changes as the scene turns. Waking late is panic, a note that explains everything is relief, a text that says the drive is ready is purpose. Do not run one flat register ("What the hell", then a shrug) across a scene that moves. For each scene, name the emotion on the way in, the one that turns it, and the one he leaves with, and show each through his thoughts, body and what he does next. Check this before the concrete-detail pass, and keep it in his voice (a drip of humor is fine, never a replacement for the feeling).
+
+> Cue rules live in `style-guide/cue-bank.md`, which overrides any older cue list in this file.

@@ -18,7 +18,7 @@ How to bring an old chapter (4 to 10) up to the format set by `chapters/chapter-
 - System text `**[...]**`. Lumi `***[...]***`. Dialogue in plain quotes, one speaker per paragraph.
 - No em dashes. The only exception is Lumi's cut-off `ch—` in bold-italic system text.
 - Concrete detail over figures. Keep a figure only if it comes from his world and makes the scene clearer (see `concrete-detail-and-figurative-language.md`).
-- Cues after information-heavy stretches are body or sensory, varied, and habits (eye press, beard, earring, locs) are rare. Never repeat one cue three times in a chapter.
+- Cues follow `style-guide/cue-bank.md`: his signature thinking tell is scratching the thin goatee (once or twice a chapter), crutch cues (jaw, stomach, pulse, breath, shoulders, knee, hands flat) are capped at once per chapter and not repeated from the previous chapter, and builds were drawn on tablets, never graph paper.
 - Tatsuya is not a fan. No esports vocabulary, no meta talk, no outside knowledge he would not have.
 - Emotion fits each scene and shifts with it: name what he feels coming in, what turns it, and what he leaves with (see `craft-rules.md`, "Emotion fits the scene").
 - Humor is an occasional drip, honest, aimed at people who earned it, never at Haruto.
