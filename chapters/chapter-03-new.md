@@ -30,7 +30,7 @@ I went straight for the shower, scrubbed the night shift off, wrung out my locs 
 
 I dropped onto the couch and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason. It wasn't. I hated how much of it I knew.
 
-The feed opened on a headline. **[Season Zero final: London Spire (Edmund Vane) 10,800. Aogiri (Lin Haoyu) 10,250. Stillwater (Dosuke AI) fourth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
+The feed opened on a headline. **[Season Zero final: London Spire, led by Edmund Vane, 10,800. Aogiri, led by Lin Haoyu, 10,250. Stillwater, led by Dosuke AI, fourth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
 
 The auction board was thin. No shelves of common gear, prices swinging between refreshes. Closed-beta characters were frozen at the lock, so everything they'd earned was now a legacy item, and legacy items were unique. Players could drop and sell them, and that was about all that was for sale: single pieces nobody else would ever own, most of them off last night's fight, some in the hundreds of thousands of yen, some with only an estimate and more zeroes than my whole bank balance.
 
