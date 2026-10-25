@@ -27,3 +27,4 @@ The silent, expressionless powerhouse. Barely talks or reacts, looks almost bore
 
 - **Voice (author-stated).** A jock: easygoing and careless about other people, a bit neglectful, different in tone from Eren.
 - **Sees Tatsuya as the brain behind the build (author-stated).** Haruto likes smart, skillful players. In chapter 2 he tells Tatsuya that now is his chance to play, that the build has a ceiling for some people (a jab at Eren, never said outright) but not for the person who made it, and that it beats wasting away behind a register.
+- **Eventually Tatsuya's teammate (author-stated).** Haruto did nothing wrong in chapter 2; Tatsuya respects him and does not mock him.

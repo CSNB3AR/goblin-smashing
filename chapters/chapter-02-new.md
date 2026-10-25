@@ -6,7 +6,7 @@ The passenger door opened a second later. Silver hair, a warmup jacket slung ove
 
 Haruto. Kansai Black Lotus's best player, the guy they'd built the guild around, the beta's Breakout Player of the Season, the kind of player people actually respected instead of just hyping for content.
 
-*"Great. Exactly what I needed tonight. Somebody check if it's Friday the thirteenth."*
+*"Great. Exactly what I needed tonight. Eren, and he brought a witness."*
 
 Eren said something to Haruto that didn't carry through the window, gestured toward the charge bays like he was making a point, and the two of them started across the lot toward the front door, boots scuffing on wet asphalt, their breath fogging in the cold.
 
@@ -62,7 +62,9 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "Now's your chance." Haruto's eyes flicked to the door Eren had walked out of, then back to me. "I'd like to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate. "Beats wasting away behind that counter."
 
-I rolled my shoulders back and gave him a nod, nothing more spent on it than that. *"Everybody wants a piece of my brain tonight, and nobody's offering to pay for it."*
+"That counter keeps the lights on at my place," I said. "I'm not knocking it."
+
+I rolled my shoulders back and gave him a nod, nothing more spent on it than that. *"Haruto doesn't talk like Eren. That's what makes it stick."*
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
