@@ -132,9 +132,9 @@ Leon's voice came in low through the HUD corner. "Yeah. This place looks like he
 
 I stepped fully through the flap, boots finding packed dirt, and stopped. I scanned left first, then right.
 
-The burn marks were on three panels of tarp along the northern line, visible even in the dark, the scorched edges curling inward where something had hit hot. *"Aimed at the boundary. Not a cook fire that got away from somebody. Someone pointed this at us on purpose."* My stomach sank as I read them again. *"That's on me. I told them ten minutes."*
+The burn marks were on three panels of tarp along the northern line, visible even in the dark, the scorched edges curling inward where something had hit hot. *"Aimed at the boundary. Not a cook fire that got away from somebody. Someone pointed this at us on purpose."* My stomach sank as I read them again. "That's on me," I said under my breath. "I told them ten minutes."
 
-"You're fine." A brief pause on Leon's end, something adjusting in it. "I watched them come up at least twice on the monitor. They turned back both times. Beyond that I don't have clean reads on what happened down there."
+"You're fine." A brief pause on Leon's end, something adjusting in it. "I couldn't see anything while you were out, so I don't have clean reads on what happened down there. I only have what's on your feed now."
 
 The full width of the warband that had been cycling watch rotation earlier had compressed into clusters of three and four. Goblins worked repairs rather than standing posts, the momentum from before replaced by something that sat lower and moved slower. Not broken, just recalibrated toward what they'd already absorbed. I didn't run. Running drew attention and questions I couldn't answer standing still.
 
@@ -396,7 +396,7 @@ Rott shifted his weight. He didn't say anything, but the shift was its own answe
 
 "Yeah," I said. I was still watching the tent, the nameplates sitting steady in the gray. "It does."
 
-Arya's voice came through the merged channel before I could go on, cutting in clear and specific. "Hey." A short pause, something running behind her voice as though she were checking a second window at the same time. "Before you go in." A key clicked on her end, sharp in the quiet. "Those nameplates down there. ANSWERS TO PK_WRAITH. That tag." Her voice settled into something careful and deliberate. "I've been monitoring every major guild chat in Tokyo for the last three weeks. That handle has been running a thread in all of them, specifically tracking this World Quest."
+Arya's voice came through the merged channel before I could go on, cutting in clear and specific. "Hey." A short pause, something running behind her voice as though she were checking a second window at the same time. "Before you go in." A key clicked on her end, sharp in the quiet. "Those nameplates down there. ANSWERS TO PK_WRAITH. That tag." Her voice settled into something careful and deliberate. "I've been monitoring every major guild chat in Tokyo for the last three weeks. That handle has been running a thread in all of them, specifically tracking world quests."
 
 The frost-stiff ground didn't move. The red tent sat exactly where it had been, the four nameplates unchanged. *"So they didn't stumble onto us. They were looking."* The cold in my chest had nothing to do with the night air.
 

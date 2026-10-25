@@ -58,7 +58,7 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "Guess I'll see you in Eryndal, then," Haruto said, quiet enough that the words didn't carry past the counter, just between the two of us.
 
-"I don't play that game. You know that," I said.
+"I don't play that game," I said.
 
 "Why not?" Haruto's eyes flicked to the door Eren had walked out of, then back to me. "Better than sitting here letting someone steal from you. Not knocking the job." He nodded once toward the TV, small and deliberate. "I'd just like to see who the brain behind that build looks like in this game."
 

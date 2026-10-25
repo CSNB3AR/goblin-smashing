@@ -76,7 +76,7 @@ A notification bloomed at the edge of my vision, gold-bordered, bigger than anyt
 
 I squinted against the glare of it, the blue washing the firelight flat across my eyes. *"Four points Wisdom, six Fortune. That's the build."* It wasn't the Elf I'd walked in wanting, but it was working. Speed was sitting at nine, and that was enough for now. I dismissed the screen and looked back at Sevish, my stance settling back to even.
 
-My eyes had caught on Gambler's Gambit one more time before the screen faded, and something close to a real grin threatened this time. I still hadn't made a single actual yen off any of this, whatever chat thought about that. I wondered if Gambit even procced off a player kill the same way it did a mob. I'd never had a reason to test it. Four raiders with real gear on their backs were about to be the first.
+My eyes had caught on Gambler's Gambit one more time before the screen faded, and something close to a real grin threatened this time. I still hadn't made a single yen off the stream, whatever chat thought about that. I wondered if Gambit even procced off a player kill the same way it did a mob. I'd never had a reason to test it. Four raiders with real gear on their backs were about to be the first.
 
 Sevish was already barking orders, his voice carrying across the tent and out into the camp beyond, goblins scrambling the second his words landed.
 
