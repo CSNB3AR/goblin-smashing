@@ -51,3 +51,4 @@ A deliberate craft pattern, not just LitRPG flavor: the reader should be able to
 ## How this interacts with existing rules
 
 Nothing here overrides `style-guide/craft-rules.md` (no em dashes, one speaker/thinker per paragraph, full sentences, banned physical beats, first person locked to Tatsuya) or the house style reminder in `codex/lore/deck-building-rarity-and-classes.md` (mechanics shown sparingly, filtered through what Tatsuya perceives). This file is about texture and immersion within those constraints, not an exception to them.
+- **A cue can be a body cue or a sensory cue (author-stated).** After a thought, bring him back with a body beat (touching his hair, an eye roll when Eren talks, a slow breath to calm down) or a sensory beat (how the store is laid out, the shelves, the dark outside the glass, the smell of the room). The cue must make physical sense and keep him in the scene.

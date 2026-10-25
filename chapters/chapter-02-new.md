@@ -26,7 +26,7 @@ Eren didn't answer that. He leaned into the counter instead, both hands flat on 
 
 "You watching the broadcast?" Eren asked, tilting his chin toward the screen where Kazuku's bear was still grinning behind scrolling captions about the expansion launch. "Crazy night, right? We got bounced out of the top eight."
 
-"Heard about that," I said, and left it there.
+I rolled my eyes toward the ceiling and back. "Heard about that," I said, and left it there.
 
 I didn't say what I was actually thinking, that a guild built on a stolen concept always hit a ceiling the concept alone couldn't push through, and that the only reason Eren's had gotten as far as it had was his dad's money buying him gear good enough to cover the gaps.
 
@@ -34,7 +34,7 @@ Behind Eren, Haruto had gone quiet, his eyes moving between the two of us like h
 
 "My father wanted me to remind you the account's still open," Eren said, his voice dropping into that lower register he always used when he wanted to sound like a man.
 
-"I haven't forgotten," I said. I kept my hands exactly where they were, breathing even, my pulse steady in my throat. "Bay's open. Card or account."
+I let my eyes slide up to the ceiling for a second. "I haven't forgotten," I said. I kept my hands exactly where they were, breathing even, my pulse steady in my throat. "Bay's open. Card or account."
 
 Something in Eren's easy expression flickered, just for a second. It might have been irritation, or disappointment, or just the faint sense that this conversation wasn't going the way he'd pictured it.
 
@@ -64,7 +64,7 @@ I stood there a moment longer than I needed to, watching through the window as t
 
 *"Sure, send Eren. He's too dumb to even think to ask why."* I raked a hand back through my locs, and a loose one slid across my face. As long as his father's money kept feeding the guild, he'd do whatever he was told.
 
-*"But why keep pushing us for the money? Chiyo isn't broke, she's just not paying while the lawyers fight it. It has to be bigger than that."* My thumb pressed into the edge of the counter until the laminate bit. Every call circled back to Dad's paperwork, and I still didn't have an answer. I let go of the counter and reached for the lights.
+*"But why keep pushing us for the money? Chiyo isn't broke, she's just not paying while the lawyers fight it. It has to be bigger than that."* I made myself look at the shelves, the neat rows of rice balls and phone chargers, the dark lot past the glass, and breathed until my pulse slowed. Every call circled back to Dad's paperwork, and I still didn't have an answer. I reached for the lights.
 
 I looked up at the screen. The bear was gone. In its place, the discount banner ran on a loop, gold numbers ticking down a countdown that had just crossed under seventy-two hours.
 
