@@ -1,6 +1,6 @@
 # Chapter Two: Talk to the Bear
 
-I didn't move. I kept both hands flat on the counter and breathed in through my nose and out slow, the way I always did when something was about to go wrong and there was no clean way to stop it. The black car idled outside the middle bay. The silver lotus on the jacket meant Kansai Black Lotus, Eren's guild, funded by Tabuchi money and built on a concept I'd helped him theorize back when we were still friends.
+I didn't move. I kept both hands flat on the counter and listened to the light bulbs buzz, the way I always went quiet when something was about to go wrong and there was no clean way to stop it. The black car idled outside the middle bay. The silver lotus on the jacket meant Kansai Black Lotus, Eren's guild, funded by Tabuchi money and built on a concept I'd helped him theorize back when we were still friends.
 
 The passenger door opened a second later. Silver hair, a warmup jacket slung over one shoulder, still half in a practice kit that looked expensive even from across the lot. I knew the build before I could place the name.
 
