@@ -408,7 +408,7 @@ The frost-stiff ground didn't move. The red tent sat exactly where it had been, 
 
 The timer on Arya's nameplate read seven minutes when I moved.
 
-I'd spent the last eighteen working the perimeter, staying low, my boots finding purchase on frozen ground without a sound, every step deliberate. The cold bit through my gloves as my fingers worked, frost crystals melting against my palms as I pressed each rune into place. The first went against the back wall. A faint pulse of orange light sank into the dirt where the canvas met earth, invisible to anyone who wasn't actively looking for it, sitting there for one full second before it faded, the warmth of it flaring once against my palm and going dormant.
+I'd spent the last eighteen working the perimeter, staying low, my boots finding purchase on frozen ground without a sound, every step deliberate. The cold bit through my gloves as my fingers worked, frost crystals melting against my palms as I pressed each rune into place. The first went against the back wall. A faint orange glow sank into the dirt where the canvas met earth, invisible to anyone who wasn't actively looking for it, sitting there for one full second before it faded, the warmth of it flaring once against my palm and going dormant.
 
 The second went against the side wall nearest Ru's position, placed low where the fabric touched ground, the packed dirt giving slightly under my fingers. The third went against the last open wall, close enough now that I could hear muffled voices through the canvas. Someone was laughing at something. Metal clinked on metal. Nobody in there had any idea what was creeping up around them, and that was the last moment they'd have where they didn't.
 
@@ -556,7 +556,7 @@ Three items sat in clean blue light.
 
 Legacy gear. Real drops, and none of it came back bound. All three sellable.
 
-A fourth marker sat apart from the others, right where Spellweaver_Lyn had gone down, pulsing brighter than the rest. What rose out of it wasn't armor at all. It was a staff of gnarled dark wood wound in live green vines that seemed to pulse with their own faint light, a faceted pale-green crystal cradled at its head, soft motes drifting off it into the settling smoke and fading as they floated away.
+A fourth marker sat apart from the others, right where Spellweaver_Lyn had gone down, pulsing brighter than the rest. What rose out of it wasn't armor at all. It was a staff of gnarled dark wood wound in live green vines that seemed to glow with their own faint light, a faceted pale-green crystal cradled at its head, soft motes drifting off it into the settling smoke and fading as they floated away.
 
 **[SHIVBONE STAFF: LEGENDARY]**
 
