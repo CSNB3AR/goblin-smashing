@@ -60,9 +60,9 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "I don't play that game. You know that," I said.
 
-"Why not?" Haruto's eyes flicked to the door Eren had walked out of, then back to me. "Better than sitting here letting someone else steal from you. I'm not knocking the job, and I'm not telling you how to live, bro. I'd just love to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate.
+"Why not?" Haruto's eyes flicked to the door Eren had walked out of, then back to me. "Better than sitting here letting someone steal from you. Not knocking the job. Not telling you how to live, bro." He nodded once toward the TV, small and deliberate. "I'd just like to see who the brain behind that build looks like in this game."
 
-I rolled my shoulders back and gave him a nod, nothing more spent on it than that. *"Haruto doesn't talk like Eren. That's what makes it stick."*
+I rolled my shoulders back and gave him a nod, nothing more spent on it than that. *"Haruto doesn't talk like Eren. And he's wearing Eren's colors, asking about the guy Eren stole from. He's not planning to wear them long."*
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
@@ -76,7 +76,7 @@ The light bulbs buzzed overhead and the courtyard was gone. Just the counter, th
 
 *"Fuck. I just wish I'd never trusted that snaky bastard."*
 
-Haruto's voice came back anyway. *"I'd just love to see what the brain behind that build looks like when it's actually playing it."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. My jaw worked once. *"Why would he ask me that? Why now?"*
+Haruto's voice came back anyway. *"I'd just like to see who the brain behind that build looks like in this game."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. My jaw worked once. *"Why would he ask me that? Why now?"*
 
 *"Sure, send Eren. He's too dumb to even think to ask why."* I raked a hand back through my locs, and a loose one slid across my face. As long as his father's money kept feeding the guild, he'd do whatever he was told.
 
