@@ -180,7 +180,7 @@ I smacked the desk hard enough to rattle the lamp. *"Dad, why couldn't you just 
 
 Then I read the last line of that paragraph again. *Just be careful who is listening.* He hadn't left a name because a name could be read by the wrong person. Whatever the bear was, it had to be something only I would catch.
 
-I rubbed the heel of my hand into one eye until the lamp went blurry. My phone lit up on the desk.
+I tapped the dangling earring at my ear, a habit I'd never lost. My phone lit up on the desk.
 
 The sale reminder from Nexus. The bear on the screen was cartoon-round and grinning, one paw raised in a wave, sitting beside the gold countdown. **71:31:06.** Under it, in white letters, the same line Kazuku had said on the broadcast at work an hour ago: *Bring your business here.*
 
@@ -190,9 +190,9 @@ I looked at the phone. I looked at the paw print on the page. I looked at the ph
 
 *"The bear. HGO's bear. Kazuku."*
 
-My stomach dropped and stayed there. I pressed the heel of my hand against one eye. *"Dad wouldn't send me chasing a cartoon. So the bear isn't a cartoon. It's a person. Somebody Dad trusted, standing behind that mascot."* Nobody had ever seen who that was. Nobody knew Kazuku's real face.
+My stomach dropped and stayed there. A loc dropped in front of my face and I shoved it back. *"Dad wouldn't send me chasing a cartoon. So the bear isn't a cartoon. It's a person. Somebody Dad trusted, standing behind that mascot."* Nobody had ever seen who that was. Nobody knew Kazuku's real face.
 
-I read the last paragraph again. *"The world I helped create."* Dad fixed things, and what he had always wanted to build were VR games, whole worlds you could put on and walk into. *"HGO. Dad helped build HGO?"* My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back. I pictured Dad in that chair, building a world, and the picture was bigger than the man I thought I knew.
+I read the last paragraph again. *"The world I helped create."* Dad fixed things, and what he had always wanted to build were VR games, whole worlds you could put on and walk into. *"HGO. Dad helped build HGO?"* My breath went out through my nose, slow, and my earring swung against my neck. I pictured Dad in that chair, building a world, and the picture was bigger than the man I thought I knew.
 
 *"But why hide it like this? Why not just tell me?"* Because somebody might read it. I took two steps down the room, then three, the floorboards creaking over the grooves the wheelchair had worn. *"This isn't only about the payments, and it isn't only about Tochi. The way he wrote this, it felt like somebody was coming after him. Who's backing the Tabuchis? Is somebody at Tochi?"* I stopped at the shelf. *"And the casket stayed closed."* The room felt colder than it had a minute ago.
 
@@ -214,9 +214,9 @@ My thumb swiped to the Nexus Enterprises purchase screen, the ad blinking next t
 
 A small green confirmation bloomed on the screen a moment later, text appearing in clean white letters: **Purchase Complete. Your HGO Access Drive will be available for pickup within 24 hours.**
 
-I locked my phone and set it face-down on the couch beside me, my hand coming up to rub the back of my neck. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
+I locked my phone and set it face-down on the couch beside me, my earring swinging as I tipped my head back against the couch. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
 
-*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"If I make real money in there, Chiyo can't send me back to Tochi."* I rubbed the back of my neck. *"I don't know the game as well as I want to. But that's the first place I look."*
+*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"If I make real money in there, Chiyo can't send me back to Tochi."* I scratched my small beard. *"I don't know the game as well as I want to. But that's the first place I look."*
 
 I didn't remember closing my eyes.
 
