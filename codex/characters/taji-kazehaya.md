@@ -22,3 +22,4 @@ Tatsuya's full biological sibling, along with twin sister Momo, all three sharin
 ## Personality
 
 Pure grind and unstoppable optimism. No natural talent advantage, so he outworks everyone, staying up until the early hours repeating the same mechanics until they become muscle memory. Classic little-brother energy, looks up to older players, takes every piece of advice as gospel. Never tilts, even after long losing streaks, just resets and queues again with burning eyes. Constantly invents dramatic self-imposed challenges and actually follows through on the punishments.
+- **Visual reference (author's picture, see `codex/characters/reference/`).** Dark red-brown locs past his shoulders, a red headband, green eyes, a red hoodie, a bandage on his nose; warm brown skin, lighter than Tatsuya's. Pictured stern, not upset. Picture: `twins-momo-taji.jpg`. He and Momo share only the locs with Tatsuya, a Ghanaian family trait from their mother's side.

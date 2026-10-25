@@ -132,9 +132,9 @@ I took the steps two at a time, my boots landing heavy, the sound echoing in the
 
 *"So either I go back to Tochi with my tail tucked between my legs, or I do something first. Something she can't argue with. Something that proves I'm not just wasting time."*
 
-Upstairs, the apartment was mostly dark. Momo's door was cracked open, a wedge of pink light spilling into the hallway, her voice humming along under her headphones to something with way too much reverb, a melody I recognized from the ride home. I caught the edge of her phone screen through the gap, @Yuna_N9 pulled up in her browser, a livestream replay looping in the corner, Momo mouthing the words without actually singing them out loud, her locs piled on top of her head.
+Upstairs, the apartment was mostly dark. Momo's door was cracked open, a wedge of pink light spilling into the hallway, her voice humming along under her headphones to something with way too much reverb, a melody I recognized from the ride home. I caught the edge of her phone screen through the gap, @Yuna_N9 pulled up in her browser, a livestream replay looping in the corner, Momo mouthing the words without actually singing them out loud, her golden-blond locs piled on top of her head and her reddish eyes fixed on the screen.
 
-In the front room, Taji was still awake on the couch, locs bunched under the hood of his red hoodie, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the same broadcast I'd just left behind at WattsUp. The London Spire trophy shot was paused on the screen, confetti frozen mid-fall, London Spire's captains in gold and white holding hardware that probably weighed more than it looked like it did.
+In the front room, Taji was still awake on the couch, his dark locs hanging past his shoulders, a red headband pushed up on his forehead, his green eyes on the screen, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the same broadcast I'd just left behind at WattsUp. The London Spire trophy shot was paused on the screen, confetti frozen mid-fall, London Spire's captains in gold and white holding hardware that probably weighed more than it looked like it did.
 
 "They actually did it," Taji said, not looking up, assuming the way he always did that I had no idea what he was talking about and needed the context explained.
 
@@ -148,6 +148,8 @@ Taji cracked a small smile despite himself, the kind he tried not to give up too
 
 I sat there in my own living room, the broadcast still paused on-screen, Momo's muffled humming coming through the wall, Taji's blanket warm against my legs, and Chiyo downstairs, still on shift. None of them had asked for this.
 
+The locs were the one thing the three of us shared, a Ghanaian thing from Mom's side. Mom had loved them, so Chiyo had learned to do them early and did them well. Everything else about us was different, Taji's dark locs and green eyes, Momo's golden ones, my skin a shade darker than either of theirs.
+
 The Haya EB was still sitting dead around back, and my shift started in the morning. I couldn't walk it, I couldn't afford the train, and the scooter charged for free at work. I shot up off the couch.
 
 "Back in a minute," I said. Taji gave me a nod without looking away from the frozen trophy shot.
@@ -160,7 +162,9 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 
 **[Tatsuya,]**
 
-**[If you're reading this, then I'm gone, and I didn't manage to deal with the Tabuchis. I can't explain everything, not on paper. But what's in this manual is what they need, so don't give it to them. Not a page, not a drawing. They've been pushing me for a long time to sell the business out from under us, and I haven't, and I hope that by the time you read this they still haven't gotten hold of anything that matters to their plans.]**
+**[If you're reading this and I'm not there, you need to know what's going on. The Tabuchis have been putting a lot of pressure on me over my schematics. Whatever happens, don't give them any. Not a page, not a drawing. Make sure they never get their hands on what's in this manual, no matter what.]**
+
+**[I can't explain everything in a letter. I sent you an email before this, if you want to know more about what's been happening. Some people have been after me, and some of them are yakuza.]**
 
 **[I'm sorry. I know I'm leaving this on you and Chiyo, and that isn't fair. But I know you can carry it.]**
 
@@ -170,9 +174,9 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 
 I read it once for the words and once for the date I couldn't find, because there wasn't one. The lamp buzzed faintly, the only sound in the room. My hands had gone flat on the desk again without me telling them to. At the bottom, where his name should have been, there was only a print in dark ink, smudged at one edge. I tilted the page toward the lamp and squinted until the shape came clear: a paw, four toes and a wide pad.
 
-*"Talk to the bear."*
+He'd tucked it in the one place I would eventually look, the manual with all his old gear. *"He knew I'd crack this book open sooner or later."* And somewhere in his inbox there was an email I'd never opened. *"I haven't touched his email since the funeral."* I set that thought aside for later and went back to the line that bothered me.
 
-I said it out loud, low, to the empty room. *"What bear?"*
+*"What bear?"* I said it out loud, low, to the empty room.
 
 Nobody I knew had ever been called that. I ran through everyone who'd come up those stairs to see him, the parts suppliers, the repair guys, the neighbors who borrowed his tools, and none of them had a name that came close. *"A nickname, maybe. A shop. A bar called the Bear."* I tried it as a street, a station, a restaurant. Nothing fit. I tried it on Chiyo and dropped it before it finished forming. If she'd known, she'd have told me a year ago.
 
