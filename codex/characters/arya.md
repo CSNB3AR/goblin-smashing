@@ -78,3 +78,5 @@ High-energy, passionate, slightly chaotic. Plays aggressive and loud, gets easil
 ## Info broker in Arc One (Addendum H)
 
 Her information-broker role is vital after Thrash Hill: she sells the legacy drops Tatsuya cannot use (through her auction contact Jiro Amano) and tracks the guild chats on his location. She joins his adventure first and his guild later, because Crownfall is guild-only and Tatsuya has to found one (see `codex/lore/hearthfire-expansion-and-seasons.md`). She is a Spellforger who tracks everything about the new game as it starts.
+
+- **Her trading tip (author-stated, future scene).** She tells Tatsuya what she did in the beta: traded items she could not get off the auction board directly with other players, and came out ahead because of the insane tax. She says it plainly as her own history; he is the one who connects it to his own legacy drops and a business. Selling legacy items on the board is not viable for him right now because of PK_Wraith's group and the blacklist risk.

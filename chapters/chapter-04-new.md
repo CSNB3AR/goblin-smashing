@@ -300,7 +300,7 @@ I looped it around my waist and felt it settle, the pouches hanging against my h
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total, and I remembered what the board's fees would do to a sale like that. First real money this game had handed me.
+*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me.
 
 A gold-bordered notification bloomed beneath the item description, brighter than the white text around it.
 

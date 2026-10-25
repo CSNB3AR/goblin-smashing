@@ -35,3 +35,7 @@ These are the hard rules. Nothing in `style-guide/voice-technique.md` or anywher
 Every beat carries the feeling that scene calls for, and it changes as the scene turns. Waking late is panic, a note that explains everything is relief, a text that says the drive is ready is purpose. Do not run one flat register ("What the hell", then a shrug) across a scene that moves. For each scene, name the emotion on the way in, the one that turns it, and the one he leaves with, and show each through his thoughts, body and what he does next. Check this before the concrete-detail pass, and keep it in his voice (a drip of humor is fine, never a replacement for the feeling).
 
 > Cue rules live in `style-guide/cue-bank.md`, which overrides any older cue list in this file.
+
+## Show, don't tell (ideas and plans)
+
+Tatsuya does not explain a business idea, a mechanic's loophole or a plan to the reader. An idea lands harder when another character hands him a piece of it and he puts it together on the page, so the reader solves it with him. Keep his own lines to a short reaction ("that tax eats most of it") and let the other person's story carry the information. If a paragraph reads like a lore explainer in his voice, cut it back to what he sees and says, and move the information into someone else's mouth or a later scene.

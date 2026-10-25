@@ -52,7 +52,7 @@ I confirmed it, already bracing to wait on a listing. Instead the vials vanished
 
 **[BANK BALANCE: ¥64,120]**
 
-*"That fast?"* I read it again. Then the logic caught up, and with it what I'd read on the auction board that afternoon. There was no posting fee and no cut because it never touched the board. Low-tier gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up, a flat price straight into my account. *"The board's tax is for the stuff worth waiting on. This is just a handoff."* Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve. I tilted the screen away from the hallway light.
+*"That fast?"* I read it again. No fee, no cut, nothing taken off the top. I tilted the screen away from the hallway light, half expecting it to take the money back.
 
 My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that four hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
 
