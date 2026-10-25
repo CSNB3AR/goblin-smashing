@@ -6,7 +6,7 @@ The passenger door opened a second later. Silver hair, a warmup jacket slung ove
 
 Haruto. Kansai Black Lotus's best player, the guy they'd built the guild around, the beta's Breakout Player of the Season, the kind of player people actually respected instead of just hyping for content.
 
-*"Great. Exactly what I needed tonight."*
+*"Great. Exactly what I needed tonight. Somebody check if it's Friday the thirteenth."*
 
 Eren said something to Haruto that didn't carry through the window, gestured toward the charge bays like he was making a point, and the two of them started across the lot toward the front door, boots scuffing on wet asphalt, their breath fogging in the cold.
 
@@ -20,7 +20,7 @@ Eren's eyes found my face under the store lights and stalled there, recognition 
 
 My face didn't move. Some small muscle around my mouth flattened out and tightened, the closest thing to a reaction I was willing to give away for free.
 
-*"Dear friend. Right. That's what we're calling it now."*
+*"Dear friend. Right. And I'm the king of Shibuya."*
 
 "It's called a job, Eren. You should try one." I nodded toward the window and the black car parked beyond it, my voice level and professional, the same tone I used for every customer who walked through that door and didn't deserve anything extra. "Bay's open. Card or account."
 
@@ -38,7 +38,7 @@ Eren folded his arms across his chest and rocked back on his heels.
 
 "My father wanted me to remind you the account's still open," Eren said, his voice dropping into that lower register he always used when he wanted to sound like a man.
 
-I let my eyes slide up to the ceiling for a second. "I haven't forgotten," I said. "Tell your dad thanks for the reminder. Real thoughtful, coming from someone who used to be a friend, if you ever really considered us that." I kept my hands exactly where they were, breathing even, my pulse steady in my throat. "Bay's open. Card or account."
+I let my eyes slide up to the ceiling for a second. "I haven't forgotten," I said. "Tell your dad he can send an email next time. Save you the charge." I kept my hands exactly where they were, breathing even, my pulse steady in my throat. "Bay's open. Card or account."
 
 Something in Eren's easy expression flickered, just for a second. It might have been irritation, or disappointment, or just the faint sense that this conversation wasn't going the way he'd pictured it.
 
@@ -62,7 +62,7 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "Now's your chance." Haruto's eyes flicked to the door Eren had walked out of, then back to me. "I'd like to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate. "Beats wasting away behind that counter."
 
-I rolled my shoulders back and gave him a nod, nothing more spent on it than that.
+I rolled my shoulders back and gave him a nod, nothing more spent on it than that. *"Everybody wants a piece of my brain tonight, and nobody's offering to pay for it."*
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
@@ -100,7 +100,7 @@ I kicked the stand up, rolled it off the curb with my feet, and pulled out onto 
 
 Some track was playing low through the scooter's tiny speaker, one of Yuna's, something Momo had dropped into my queue two weeks ago without asking and I'd never bothered deleting.
 
-The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. I swung off into the rain and pushed it the rest of the way, boots splashing through the gutter, my arms burning on the handlebars, my breath rasping, rain needling my neck, my jaw tight as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
+The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. *"Come on, now. I'm already having a day."* I swung off into the rain and pushed it the rest of the way, boots splashing through the gutter, my arms burning on the handlebars, my breath rasping, rain needling my neck, my jaw tight as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
 
 I parked around back on reflex, in the spot that wasn't technically mine but nobody else ever used, and came in through the side door the hotel staff used during the day.
 
@@ -210,7 +210,7 @@ My thumb swiped to the Nexus Enterprises purchase screen, the ad blinking next t
 
 *"Fine."* I pulled in a breath through my nose, held it longer than I needed to, and let it out slow. *"Doing it."*
 
-I pressed my thumb down on the purchase button before I could talk myself out of it, before the sensible part of my brain could start listing all the reasons this was a bad idea and I should wait and save more.
+*"Chiyo's going to kill me. Then she's going to bring me back and kill me again."* I pressed my thumb down on the purchase button before I could talk myself out of it, before the sensible part of my brain could start listing all the reasons this was a bad idea and I should wait and save more.
 
 A small green confirmation bloomed on the screen a moment later, text appearing in clean white letters: **Purchase Complete. Your HGO Access Drive will be available for pickup within 24 hours.**
 
