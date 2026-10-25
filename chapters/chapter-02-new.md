@@ -58,13 +58,21 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "Now's your chance." Haruto's eyes flicked to the door Eren had walked out of, then back to me. "I'd like to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate. "Beats wasting away behind that counter."
 
-I rolled my shoulders back and gave him a nod, nothing more spent on it than that. But the question stuck, low in my chest. *"The brain behind that build."* I could still see the courtyard at Tochi, the one spot where nobody bothered me, a tablet propped on my knee and an HGO trailer playing. Dad was already gone by then. He had loved games, every kind, and for the length of a trailer, that huge world on the screen, it felt like sitting next to him again. That was why I'd gotten into HGO in the first place. It had nothing to do with winning. Then Eren walked by, stopped, and said something about the trailer, and for months after that we argued about the game between classes until I thought I finally had a friend. I'd been wrong. Once he saw what my head could do, he made his offer. I couldn't get into the game yet. He could. So he flipped, ran my work on his father's money, and let the whole school watch him do it. It was the best thing I'd ever made, and now it was his. My jaw worked once. *"Why would he ask me that? Why now?"* The cold he'd let in hadn't left the room, and I made myself look at the counter.
+I rolled my shoulders back and gave him a nod, nothing more spent on it than that.
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
 The door swung shut behind them with a soft chime, and the store went quiet again, nothing but the light bulbs buzzing overhead.
 
 I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place.
+
+The courtyard at Tochi came back without me asking, the one spot where nobody bothered me, a tablet propped on my knee and an HGO trailer playing. Dad was already gone by then. He had always loved the idea of building a world inside VR, and he used to talk about it all the time. I didn't know why, but that game made me feel connected to him. Then Eren walked by, stopped, and said something about the trailer, and for months after that we argued about the game between classes until I thought I finally had a friend. I'd been wrong. Once he saw what my head could do, he made his offer. I couldn't get into the game yet. He could. So he flipped, ran my work on his father's money, and let the whole school watch him do it. It was the best thing I'd ever made, and now it was his.
+
+The light bulbs buzzed overhead and the courtyard was gone. Just the counter, the dark glass and my own hands.
+
+*"Fuck. I just wish I'd never trusted that snaky bastard."*
+
+Haruto's voice came back anyway. *"I'd love to see what the brain behind that build looks like when it's actually playing it."* I had never really answered him. I'd nodded and let him walk out on it, and now the words sat in my chest and wouldn't move. My jaw worked once. *"Why would he ask me that? Why now?"*
 
 *"Sure, send Eren. He's too dumb to even think to ask why."* I raked a hand back through my locs, and a loose one slid across my face. As long as his father's money kept feeding the guild, he'd do whatever he was told.
 
