@@ -11,4 +11,4 @@
 
 See `codex/pro-scene/tournaments-and-events.md`.
 
-- Yuna and Kazuku never appear in person at the venue. Both are avatar projections on the stage; their real bodies and identities stay hidden (author-stated).
+- Yuna and Kazuku never appear in person at the venue. Both appear as CG avatars on virtual stages (Yuna's may sit in a restricted area); their real bodies and identities stay hidden (author-stated). Keep it simple.
