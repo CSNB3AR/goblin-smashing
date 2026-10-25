@@ -160,9 +160,7 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 
 **[Tatsuya,]**
 
-**[If you're reading this and I'm not there, you need to know what's going on. The Tabuchis have been putting a lot of pressure on me over my schematics. Whatever happens, don't give them any. Not a page, not a drawing. Make sure they never get their hands on what's in this manual, no matter what.]**
-
-**[I can't explain everything in a letter. I sent you an email before this, if you want to know more about what's been happening. Some people have been after me, and some of them are yakuza.]**
+**[If you're reading this and I'm not there, I didn't manage to deal with the Tabuchis. I can't explain everything, not on paper. But what's in this manual is what they need, so don't give it to them. Not a page, not a drawing. They've been pushing me hard over my schematics, and I haven't given in, and I hope that by the time you read this they still haven't gotten hold of anything that matters to their plans.]**
 
 **[I'm sorry. I know I'm leaving this on you and Chiyo, and that isn't fair. But I know you can carry it.]**
 
@@ -172,7 +170,7 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 
 I read it once for the words and once for the date I couldn't find, because there wasn't one. The lamp buzzed faintly, the only sound in the room. My hands had gone flat on the desk again without me telling them to. At the bottom, where his name should have been, there was only a print in dark ink, smudged at one edge. I tilted the page toward the lamp and squinted until the shape came clear: a paw, four toes and a wide pad.
 
-He'd tucked it in the one place I would eventually look, the manual with all his old gear. *"He knew I'd crack this book open sooner or later."* And somewhere in his inbox there was an email I'd never opened. *"I haven't touched his email since the funeral."* I set that thought aside for later and went back to the line that bothered me.
+He'd tucked it in the one place I would eventually look, the manual with all his old gear. *"He knew I'd crack this book open sooner or later."* I went back to the line that bothered me.
 
 *"What bear?"* I said it out loud, low, to the empty room.
 
