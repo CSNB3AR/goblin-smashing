@@ -184,7 +184,7 @@ Then I read the last line of that paragraph again. *Just be careful who is liste
 
 I rubbed the heel of my hand into one eye until the lamp went blurry. My phone lit up on the desk.
 
-The sale reminder from Nexus. The bear on the screen was cartoon-round and grinning, one paw raised in a wave, sitting beside the gold countdown. **71:31:06.** Under it, in white letters, the line I'd heard on every screen for the last two weeks and tried not to hear once: *Bring your business here.*
+The sale reminder from Nexus. The bear on the screen was cartoon-round and grinning, one paw raised in a wave, sitting beside the gold countdown. **71:31:06.** Under it, in white letters, the same line Kazuku had said on the broadcast at work an hour ago: *Bring your business here.*
 
 I looked at the phone. I looked at the paw print on the page. I looked at the phone again.
 
@@ -192,7 +192,11 @@ I looked at the phone. I looked at the paw print on the page. I looked at the ph
 
 *"The bear. Bear, bear, HGO. That damn mascot?"*
 
-My stomach dropped and stayed there. *"Dad wouldn't hand me a cartoon. He'd never trust his last words to a cartoon."* But the bear wasn't a cartoon to anyone who'd met the man behind it, and nobody ever had. Nobody knew who Kazuku was. If anyone alive was careful about who was listening, it was the man who'd built himself a bear to hide behind.
+My stomach dropped and stayed there. I pressed the heel of my hand against one eye. *"No. Dad wouldn't send me chasing a cartoon."*
+
+I took two steps down the room, then three, the floorboards creaking over the grooves the wheelchair had worn. *"So why would he tell me to talk to a bear? Why would he point me at a game? Dad built things and fixed things. He wouldn't send me after a mascot."*
+
+I stopped at the shelf and looked at the manual. *"Unless the bear isn't the point. Unless somebody Dad trusted is standing behind the bear."* Nobody had ever seen who that was. Nobody knew Kazuku's real face. If anyone alive was careful about who was listening, it was a man who had built himself a bear to hide behind.
 
 *"The world I helped create."* I read it again with the game in my head instead of this room. *"Dad only had three big products that I know of. The pod, the sedan, the EB. Where does a world fit in?"* The first-gen pod, the one Dad had spent his last years on, in this room, in a chair that wasn't built for the work. It had never been a side project. It had been a piece of this. *"No way. Dad helped build HGO?"* I let myself picture it for a second, Dad in that chair, building a whole world, and the picture was bigger than the man I thought I knew. My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back.
 
