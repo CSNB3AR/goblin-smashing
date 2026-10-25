@@ -12,6 +12,8 @@ Eren said something to Haruto that didn't carry through the window, gestured tow
 
 The bell over the door announced them before either one spoke, loud over the hum of the broadcast still running on the screen above my head.
 
+Eren came in first, the way he came into every room, chin up and shoulders back, blond hair pushed off his forehead, the black jacket zipped to his throat. Haruto followed a step behind, silver hair damp from the cold, hands loose in the pockets of his warmup, and let the door swing shut with his heel.
+
 Eren's eyes found my face under the store lights and stalled there, recognition landing a half-second late, then all at once, his expression shifting into something that wasn't quite a smile but was trying to be one.
 
 "Well, well." He glanced sideways at Haruto like he needed a witness for this, his grin widening. "Guess who we've got here. Our dear friend Tatsu, working the night shift. Didn't know you'd taken up residence at the WattsUp."
@@ -32,9 +34,11 @@ I didn't say what I was actually thinking, that a guild built on a stolen concep
 
 Behind Eren, Haruto had gone quiet, his eyes moving between the two of us like he was working out a math problem of his own.
 
+Eren folded his arms across his chest and rocked back on his heels.
+
 "My father wanted me to remind you the account's still open," Eren said, his voice dropping into that lower register he always used when he wanted to sound like a man.
 
-I let my eyes slide up to the ceiling for a second. "I haven't forgotten," I said. I kept my hands exactly where they were, breathing even, my pulse steady in my throat. "Bay's open. Card or account."
+I let my eyes slide up to the ceiling for a second. "I haven't forgotten," I said. "Tell your dad thanks for the reminder. Real thoughtful, coming from someone who used to be a friend, if you ever really considered us that." I kept my hands exactly where they were, breathing even, my pulse steady in my throat. "Bay's open. Card or account."
 
 Something in Eren's easy expression flickered, just for a second. It might have been irritation, or disappointment, or just the faint sense that this conversation wasn't going the way he'd pictured it.
 
@@ -66,7 +70,7 @@ The door swung shut behind them with a soft chime, and the store went quiet agai
 
 I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place.
 
-The courtyard at Tochi came back without me asking, the one spot where nobody bothered me, a tablet propped on my knee and an HGO trailer playing. Dad was already gone by then. He had always loved the idea of building a world inside VR, and he used to talk about it all the time. I didn't know why, but that game made me feel connected to him. Then Eren walked by, stopped, and said something about the trailer, and for months after that we argued about the game between classes until I thought I finally had a friend. I'd been wrong. Once he saw what my head could do, he made his offer. I couldn't get into the game yet. He could. So he flipped, ran my work on his father's money, and let the whole school watch him do it. It was the best thing I'd ever made, and now it was his.
+The courtyard at Tochi came back without me asking, the one spot where nobody bothered me, a tablet propped on my knee and an HGO trailer playing. Dad was already gone by then. He had always loved the idea of building a world inside VR, and he used to talk about it all the time. I didn't know why, but that game made me feel connected to him. Then Eren walked by, stopped, and said something about the trailer, and for months after that we argued about the game between classes until I thought I finally had a friend. I'd been wrong. Once he saw what my head could do, he made his offer. I couldn't get into the game yet. He could. So he flipped, ran my work on his father's money, and let the whole school watch him do it. It was the best thing I'd ever made, and now it was his. My throat went tight.
 
 The light bulbs buzzed overhead and the courtyard was gone. Just the counter, the dark glass and my own hands.
 
@@ -86,7 +90,7 @@ I looked up at the screen. The bear was gone. In its place, the discount banner 
 
 I took one final breath and went to close up.
 
-I moved through closing on autopilot. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy clunk that echoed across the lot.
+I moved through closing on autopilot. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy clunk that echoed across the lot. The cold hit my face and my breath fogged in front of me.
 
 Around back, the Haya EB moped was sitting exactly where I'd left it, old paint gone matte in patches under the yellow security light, the helmet hanging off the handlebar where I always left it when I knew nobody else would be back here. I pulled it on, tucked the loose loc back before it could catch in the strap, and swung a leg over the seat, the cold leather biting through my jeans.
 
@@ -96,13 +100,13 @@ I kicked the stand up, rolled it off the curb with my feet, and pulled out onto 
 
 Some track was playing low through the scooter's tiny speaker, one of Yuna's, something Momo had dropped into my queue two weeks ago without asking and I'd never bothered deleting.
 
-The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. I swung off into the rain and walked it the rest of the way, boots splashing through the gutter, rain needling my neck, my jaw tight as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
+The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. I swung off into the rain and pushed it the rest of the way, boots splashing through the gutter, my arms burning on the handlebars, my breath rasping, rain needling my neck, my jaw tight as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
 
 I parked around back on reflex, in the spot that wasn't technically mine but nobody else ever used, and came in through the side door the hotel staff used during the day.
 
 She was still at the front desk. Alone.
 
-I stopped in the doorway to the lobby longer than I meant to, just taking it in before she noticed me. Chiyo behind the counter in her blazer, the one she wore when she was working a shift instead of just managing, red hair falling loose over one shoulder in a way that meant she'd been standing there too long without a break. She was checking something on the reservation screen.
+I stopped in the doorway to the lobby longer than I meant to, just taking it in before she noticed me. Chiyo behind the counter in her blazer, the one she wore when she was working a shift instead of just managing, red hair falling loose over one shoulder in a way that meant she'd been standing there too long without a break. She was checking something on the reservation screen. The lobby smelled like floor polish and burnt coffee, and the screen gave a tired chirp every time she clicked.
 
 A woman who led Japan's national volleyball team onto an Olympic court, still working a night shift that should have had two other people on it. I didn't have to ask why they weren't here.
 
@@ -158,7 +162,7 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 
 **[I know this is a lot to put on you. Maybe you can do more with my schematics than I ever did, but I don't want to push you. If you meet the bear, a lot of what you're dealing with will probably sort itself out, and you'll understand why. I wish I could be there when you get to experience the world I helped create.]**
 
-I read it once for the words and once for the date I couldn't find, because there wasn't one. My hands had gone flat on the desk again without me telling them to. At the bottom, where his name should have been, there was only a print in dark ink, smudged at one edge. I tilted the page toward the lamp and squinted until the shape came clear: a paw, four toes and a wide pad.
+I read it once for the words and once for the date I couldn't find, because there wasn't one. The lamp buzzed faintly, the only sound in the room. My hands had gone flat on the desk again without me telling them to. At the bottom, where his name should have been, there was only a print in dark ink, smudged at one edge. I tilted the page toward the lamp and squinted until the shape came clear: a paw, four toes and a wide pad.
 
 *"Talk to the bear."*
 
