@@ -156,7 +156,7 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 
 **[If you want the truth, talk to the bear. He's the only one who has it, and he'll tell you. Just be careful who is listening.]**
 
-**[A man who couldn't walk once built a place where he could run. I know this is a lot to put on you. Maybe you can do more with my schematics than I ever did. But I don't want to push you.]**
+**[I know this is a lot to put on you. Maybe you can do more with my schematics than I ever did, but I don't want to push you. If you meet the bear, a lot of what you're dealing with will probably sort itself out, and you'll understand why. I wish I could be there when you get to experience the world I helped create.]**
 
 I read it once for the words and once for the date I couldn't find, because there wasn't one. My hands had gone flat on the desk again without me telling them to. At the bottom, where his name should have been, there was only a print in dark ink, smudged at one edge. I tilted the page toward the lamp and squinted until the shape came clear: a paw, four toes and a wide pad.
 
@@ -182,7 +182,7 @@ I looked at the phone. I looked at the paw print on the page. I looked at the ph
 
 My stomach dropped and stayed there. *"Dad wouldn't hand me a cartoon. He'd never trust his last words to a cartoon."* But the bear wasn't a cartoon to anyone who'd met the man behind it, and nobody ever had. Nobody knew who Kazuku was. If anyone alive was careful about who was listening, it was the man who'd built himself a bear to hide behind.
 
-*"A man who couldn't walk once built a place where he could run."* I read it again with the game in my head instead of this room. The first-gen pod, the one Dad had spent his last years on, in this room, in a chair that wasn't built for the work. It had never been a side project. It had been a piece of this. My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back.
+*"The world I helped create."* I read it again with the game in my head instead of this room. The first-gen pod, the one Dad had spent his last years on, in this room, in a chair that wasn't built for the work. It had never been a side project. It had been a piece of this. My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back.
 
 *"I could be wrong. I've been wrong about Dad before."* I'd spent a year telling myself the pieces only looked wrong because I was grieving. The calls that kept circling back to his paperwork. The Tabuchis, who wanted what was in this book more than they wanted their money. Standing there with the page still warm from my hands, I knew the only person in that apartment pretending was me.
 
