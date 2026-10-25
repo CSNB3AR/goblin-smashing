@@ -1,251 +1,165 @@
-# Chapter Five: Consequences in Silence
+# Chapter Five: Into Bloodhurst II
 
-The pod hissed open and the real world came back wrong.
+Heavy footsteps behind me. Multiple sets, moving with purpose. I turned fast, weight already shifting back into a ready stance before I'd thought about it, my body answering on its own.
 
-Sound first, the low hum of Sakura Arcade's overhead lights where there'd been fire and wind and thirty goblins doing whatever goblins did at midnight. Then weight, my body settling into the padded interior with legs that were suddenly too long and hands that were suddenly too big. Then smell, old electronics and carpet cleaner instead of woodsmoke and whatever that stew had been.
+Three goblins in real armor stepped into view, not the rags everyone else was wearing but fitted leather and metal plates, weapons drawn but not raised yet. White tags floated above their heads, bright and clear. *"Real gear. These aren't like the two I just dropped."*
 
-I lay there a second longer than I needed to, staring at the curved shell of the pod above me.
+"You're coming with us," one of them said, voice flat and professional.
 
-*"Okay. That's going to happen every single time I log out."*
+Another one peeled off toward the supply crate where the smaller goblin was still pressed against the wood, eyes wide. "You too, kid."
 
-I sat up slow, pulled the visor off, and set it on the rim. I popped the access panel and eased the drive out of its port. Dad's manual still lay open on the floor where I'd left it, pages marked in his handwriting. I closed it carefully, my thumb running along the worn spine before I tucked it into my bag with the letter still inside. Some habits didn't need a reason.
+They didn't bind either of us or even touch us, just fell in on either side and started walking, a flanking position that made it obvious running wasn't an option. Goblins throughout the camp stopped what they were doing to watch as we passed, some whispering to each other, a few pointing. The woman with the wild green hair and copper rings fell a few steps behind us. My mouth had gone dry before we'd gone ten steps, and I kept my eyes forward and my stride even.
 
-I stood, and my knees cracked loud in the small room. *"I'm stretching before I get in that thing next time. For real."*
+We stopped in front of a tent bigger than all the rest, wide enough to fit a dozen people inside if they packed in tight. Bone totems were carved into the posts on either side of the entrance flap, intricate patterns that caught the firelight and threw strange shadows across the canvas. One of the guards pulled the flap open and gestured for us to go inside.
 
-I pulled my phone out on the walk back to the main room, opened the HGO Companion App, and held the drive against the back of it.
+I ducked through, the kid right behind me, and the temperature dropped immediately. The air inside was cooler, darker, lit only by a single oil lamp hanging from the center pole that threw uneven, flickering light up the canvas walls. A scarred goblin sat behind a crude table made from stacked crates and a plank of wood, a two-handed battle axe leaning against the side of his chair within easy reach. His eyes were sharp, taking in both of us in one sweep, and when the woman with the copper rings stepped in behind us and took up a position at his shoulder, the air shifted and the tent got more formal.
 
-**[SCANNING...]**
+**[SEVISH THRASH - CHIEFTAIN - LEVEL 80]**
 
-**[DRIVE DETECTED]**
+The woman's nameplate appeared a second later when my eyes tracked to her.
 
-**[LOGGING IN...]**
+**[WYX THRASH - LEVEL 25]**
 
-My account loaded, the goblin face of my avatar staring back at me from a small circle at the top of the screen. *"That's not the face I picked. Not that I picked it."*
+*"Eighty and twenty-five. I'm level two. One wrong word and I'm dead."*
 
-**[USERNAME NOT SET. TAP TO CREATE ONE.]**
+Sevish's eyes went from me to the kid and back, taking his time before he spoke. The silence stretched, broken only by the crackle of the oil lamp and the distant sounds of camp life continuing outside.
 
-*"Later. When I can think of one."* I swiped it away and kept scrolling.
+"So," Sevish finally said, voice deep and rough, a voice that carried without getting loud. "You two causing trouble in my camp."
 
-Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare. That made sense, they were my active skills.
+The kid opened his mouth, about to speak, but I cut in before he could get a word out. "They came at him first. Two on one over a fire spot, so I stepped in."
 
-My inventory sat above that.
+"And killed two of my men while doing that," Sevish said, leaning forward slightly, elbows resting on the makeshift table.
 
-**[GOBLIN GADGET BELT - COMMON (LOCKED)]**
+"They came at me after I got involved," I said, keeping my hands open and visible on my thighs. "I did what I had to do to still be standing."
 
-**[GAMBLER'S EARRING - RARE (BOUND, CANNOT BE SOLD)]**
+Sevish leaned back, the wood of his chair creaking under his weight, and something that might have been approval crossed his scarred face, eyes still locked on mine. "Not bad."
 
-**[MINOR ELIXIR x2 - UNCOMMON]**
+I kept my breathing steady and my posture as non-threatening as I could manage while still ready to move if this went sideways. "Would've been peaceful if they'd let it. But I'm not about to watch goblins waste time on each other when there's clearly bigger shit to deal with."
 
-I tapped the elixirs. The app flagged me before I could do anything.
+The moment the words left my mouth, Sevish went completely still. Beside him, Wyx's sharp eyes locked onto my face with an intensity that hadn't been there a second ago, her whole body gone alert. Both of their gold tags flickered at the edges, not changing to yellow or red, just flickering like a notification trying to fire and being held back.
 
-**[BANK ACCOUNT REQUIRED TO COMPLETE SALE]**
+*"What now? Did I say something wrong?"*
 
-I linked the account my WattsUp paychecks already hit, a few taps and a code texted to my phone, and the warning cleared.
+Sevish let out a short laugh, genuine and a little surprised. "Bigger problems than fighting each other." He glanced at Wyx, and something passed between them in that look that I couldn't read. When Sevish looked back at me, his expression had gone more serious, more considering. "That's the kind of thinking we've been missing around here."
 
-**[MARKET VALUE: ¥8,400 EACH]**
+A purple notification bloomed at the edge of my vision, the color pulling my eye at once.
 
-**[LIST FOR SALE?]**
+**[WORLD QUEST DETECTED]**
 
-I confirmed it, already bracing to wait on a listing. Instead the vials vanished from my inventory almost immediately, replaced by a single gold-bordered line.
+**[CALL OF THE BONES – STAGE 1 ACTIVATED]**
 
-**[SALE COMPLETE: ¥16,800 DEPOSITED]**
+*"The world quest's back? Did I really just advance it?"*
 
-**[BANK BALANCE: ¥64,120]**
+Sevish stood up from his chair, slow and deliberate, the battle axe sliding into the sling across his back, and walked around the table with heavy steps that made the packed dirt floor creak. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
-*"That fast?"* I read it again. Then the logic caught up, and with it what I'd read on the auction board that afternoon. There was no posting fee and no cut because it never touched the board. Low-tier gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up, a flat price straight into my account. *"The board's tax is for the stuff worth waiting on. This is just a handoff."* Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve. I tilted the screen away from the hallway light.
+"You killed two of my men," Sevish said, voice carrying absolute certainty. "Justified or not, that makes you a threat. I can't just let you walk out of here without knowing more." He paused, letting that sink in, then continued. "You have shown more in one fight than most of this camp has shown in weeks. Outside my sister." A nod toward Wyx, who was still watching me with that sharp, evaluating gaze. "So here's what I'm offering you."
 
-My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that four hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
+He laid it out plain and rough, no sugarcoating, just the facts.
 
-I pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. My own profile loaded first, follower count still embarrassingly low in the corner. I typed out a real bio this time, not the blank field I'd left sitting there for a year, something short and dry about a goblin who didn't plan on being one, and cut it down twice before I let it post. Then I backed out to the feed, and the feed was already loud.
+"Myrrhwood is hell right now. Gets worse every year. Shiv's been gone for nearly half a century and the clans have never found their footing again without his leadership. That's the real reason Wyx and I gathered people and came all the way out here to find what Shiv was hiding before he disappeared, and maybe bring that knowledge back to our people so we can actually survive what's coming."
 
-**[@PK_Wraith: World Quest just popped at Lunarest. First one in months. Y'all better believe we're getting a piece of that.]**
+I shifted my weight onto the other foot, the cold of the packed dirt coming up through my thin boots, and kept my eyes on his face.
 
-**[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
+"We've tried the rally three times now," Sevish continued, his tone matter-of-fact, not defensive. "Failed all three times. Couldn't get past the city guard and their allies."
 
-*"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
+*"Three times. He says it like the number matters."* I filed the detail away, not sure why it felt important but trusting that it was.
 
-*"Wild."* Their accounts were getting locked at launch whether they liked it or not, and waiting meant missing the Crownfall window. *"Not my problem. I'm already starting at level one."* I filed that thought somewhere useful and killed the screen.
+"Tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "Doesn't work, but what you did back there, moving through instead of fighting head-on, using terrain, that's not something anyone here can do. Could be what we need."
 
-Leon was at the counter when I stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
+My clawed fingers curled against my thighs, the tips pressing small dents into the rag over my knees.
 
-"How'd it go?"
+"The library," I repeated, making sure I understood correctly. "You want me to get into the Grand Library of Lunarest."
 
-"Pod held," I said. "No crashes. Ran longer than I thought it would."
+"The restricted floors, specifically," Sevish clarified, uncrossing his arms and letting one hand drift up to the haft of the battle axe slung across his back, a casual motion that still carried weight. "Public floors won't have what we're looking for. You find anything on Shiv up there, records, journals, anything that tells us what he knew or where he went, you bring it back here."
 
-"Good." Leon nodded, easy, nothing behind it. He glanced toward the dark hallway where the second pod sat, then back. "Listen. I want to be straight with you before you start getting comfortable coming back here. Business is slow right now, and I don't want you thinking that open access is a permanent thing if it turns into a habit for both of us."
+My claw went up to scratch my chin the way it did when I was weighing something, hunting for a goatee this face didn't have, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
 
-I did the math fast before speaking. "How slow are we talking?"
+"You complete this, you're under Thrash protection. You're ours, and we're yours. Anyone comes for you, they're coming for the clan."
 
-Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
+*"Real, long-term backup. That's not nothing, not if higher-level players start hunting this quest. I can't throw that away."* A bead of sweat rolled down my temple, slow and ticklish, and I let it go instead of wiping it.
 
-"So you're getting cooked on every front." My thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should probably hear too."
+"And if I don't?" I asked, needing to hear the other side spelled out just as clearly.
 
-Leon's eyebrows went up. "Go ahead."
+Sevish's gold tag flickered again, and so did Wyx's.
 
-"I overrode one of the pods tonight." I kept my voice even, watching Leon's face. "Used my dad's manual. That's what caused the blackout earlier. It wasn't the hardware failing on its own."
+*"Stupid question. I already know the answer."*
 
-Leon went very still. "Is the machine okay?"
+"Then you stay here," Sevish said, and there was no heat in his voice, no threat, just a plain statement of fact. "I don't let someone who can drop two of my enforcers walk off into the world without knowing which side they're actually on. And understand this. If you take the job and don't come back, we're leaving. If we cross paths after that, you're an enemy. Simple as that."
 
-"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. Your second pod is a shell right now, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
+The small sharp teeth of this new mouth caught against my lip. *"So I don't really get to say no. I only get to pick when."*
 
-I shifted my weight off the counter, my legs still not quite trusting the floor after the pod.
+Wyx spoke for the first time since we'd entered the tent, her voice dry and carrying a hint of warmth that didn't quite match the sharpness in her eyes. "He was entertaining, at least. That's worth something."
 
-Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
+Before I could answer, the clock in the corner of my vision caught me, small and quiet and impossible to ignore once I'd looked.
 
-"That's why the session ran long. It wasn't the game. It was convincing the pod to accept the drive in the first place."
+9:41 PM.
 
-Leon started to say something, stopped, and shook his head slow instead.
+I'd logged in late because of the pod and the override, and the night was almost gone. *"Damn."*
 
-"The second pod's the harder problem," I said. "Getting it running is one thing. Doing it right, keeping it running, that needs parts that don't exist on any shelf anymore." I paused a moment. "I know where to find what I actually need, though."
+Leon's voice crackled through the pod's external speaker a second later, distant and tinny, cutting in from somewhere outside the world I was standing in. "Hey, heads-up, we're closing in about thirty minutes. Just wanted to give you a warning."
 
-"Where?"
+I blinked, trying to hold both places in my head at once, a goblin chieftain's tent on one side and Leon's voice reaching in from the other.
 
-"Tochi."
+"I'll be off shortly," I said out loud, the words aimed at Leon even though he couldn't hear Sevish's side of this conversation and had no idea what I was in the middle of.
 
-Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy."
+"No worries, man," Leon's voice came back through the speaker, relaxed and unbothered. "You've been in there a while. Hope the pod didn't give you any more issues after that initial hiccup."
 
-"Yeah."
+"Nah, it's been good," I said, keeping my voice casual while my heart hammered from everything happening inside the game.
 
-"That explains a lot, actually."
+Sevish and Wyx were both looking at me strangely now, their expressions sliding from serious evaluation to mild confusion.
 
-"Wasn't trying to hide it," I said. "Just wasn't relevant until now."
+*"Right. They can't hear Leon. All they see is me talking to empty air. Great first impression, the new guy talks to himself."*
 
-Leon leaned back against the counter, arms loose. "Okay. Here's what I want to do. I'll get a tech in here tomorrow, start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
+"I need a few days," I said out loud, aiming the words at Sevish this time, knowing I had to log out soon but needing to set the timeline before I left. "Three days to think about this and figure out my next move."
 
-"I can do that."
+"You can have them," Sevish said, and his tone made it clear that wasn't a negotiation, it was a decision he'd already made. "But you're staying in camp while you think."
 
-"And if this actually comes together," Leon said, "one of those pods is yours. Permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. Just keep it quiet until we're actually ready. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+Two guards stepped forward from where they'd been standing just inside the tent entrance, moving into flanking positions on either side of me without being told to, their movements smooth and practiced.
 
-*"Sponsored."* I turned the word over once. *"Yeah. Okay. I can work with that."* A muscle in my cheek twitched as I tried to keep a grin off my face.
+**[YOU ARE NOW A PRISONER OF THE THRASH CLAN]**
 
-"One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
+**[MOVEMENT RESTRICTED TO CAMP BOUNDARIES]**
 
-"I'll get it done," I said.
+**[DURATION: UNTIL RELEASED BY CHIEFTAIN SEVISH]**
 
-I meant it more than the two words let on. Patching a pod with a bypass and Dad's old notes was one thing. Getting it clean enough to pass a real safety inspection was something else, and that knowledge lived in exactly one place. Tochi had the actual coursework, the technical foundation the third-gen hardware was built on, and I could order parts through the academy too. I'd been running on what my dad left behind. If I wanted to do this right instead of just keeping it alive with duct tape and hope, I needed what Tochi was teaching.
+**[WORLD QUEST ACTIVATION: CALL OF THE BONES]**
 
-I scratched along my goatee, the way I did when a number wouldn't add up. The thought had felt like a loss a week ago. It didn't feel that way anymore.
+**[STAGE 1 UNLOCKED]**
 
-"I believe you," Leon said.
+**[OBJECTIVE: INFILTRATE THE GRAND LIBRARY OF LUNAREST – RESTRICTED FLOORS]**
 
-Outside, my breath misted in the cold. I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the half-second scan until the dash lit green and the visor threw the route line across the street. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
+**[REWARD: UNKNOWN]**
 
-Two things before I went home. The hospital, then the thread with Chiyo I'd left on a thumbs-up.
+**[TIME LIMIT: 7 DAYS IN-GAME]**
 
-I pulled out into the street.
+I squinted at the wall of text like narrowing my eyes would make it read any better, the glow of it sitting hot behind my forehead.
 
-The ride to the hospital ran on muscle memory, my hands steady on the grips. The city blurred past in orange and white, thinner than at noon, the dinner crowds gone and the late ones not out yet.
+The guards walked me back out of the tent and through the camp, past the arm-wrestling match that had fully broken up now, people dispersing back to their fires and their own business, past the older goblin who'd gone back to mending that same torn shirt by the light of a small lamp, needle moving in the same patient rhythm. The stew pot was down to nothing but coals now, one last goblin scraping the very bottom of it with a wooden spoon, the sound of wood on metal carrying across the quieter parts of camp.
 
-The hospital came up on my left, white-lit and too clean. I parked in the visitor lot, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing. It always hit me there, every single time, like my body had already memorized the building.
+They stopped at a tent near the eastern edge of the camp, away from the central fires but close enough that I could hear the low murmur of conversation and the occasional burst of laughter from goblins still awake. One of the guards pulled the tent flap open, canvas rustling. "Inside."
 
-Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
+I ducked through the entrance, my shorter frame making it easier than it would have been in my real body, and the noise from outside dropped off almost at once, muffled by the thick canvas. The tent was small, barely tall enough for me to sit upright in without my head brushing the peaked ceiling, lit by a single oil lamp hanging from the center pole that threw uneven shadows up the walls every time the flame guttered. A bedroll took up most of the floor, thin and patched in multiple places but relatively clean, and a wooden bowl sat beside it filled with water that smelled faintly metallic when I leaned closer.
 
-She looked smaller than I remembered. She always did when I came back after a few days away, the blanket lying flat across her where it should have lifted. Monitors beeped quiet and steady beside the bed, the IV drip slow and regular, her face turned toward the window.
+I sat down on the bedroll and the straw stuffing crackled loudly under my weight, sharp in the sudden quiet. The fabric under my hands was rough, woven from something coarser than cotton, and the tent wall, when I reached out to touch it, was thick and heavy, oiled or waxed against rain and wind. The ground under the bedroll was hard-packed dirt, uneven in places, and the cold seeped up through the thin padding, through my boots and the rags I was wearing.
 
-I pulled the chair close and sat, elbows on my knees, hands loose between them.
+This was where I'd be staying until I gave them an answer. *"Three days. I asked for them."* I couldn't leave camp boundaries until Sevish released me, and that was fine.
 
-"Hey, Mom." I kept my voice low. "I know it's been a minute."
+Outside the canvas walls, the camp kept moving around me, life going on whether I was part of it or not. Footsteps passed close to my tent, boots scuffing on the packed earth. Farther out, past the immediate camp sounds, a dog barked once and went quiet, answered a moment later by another bark from a different direction. Wind moved through the tree line beyond the camp boundary, branches creaking, and underneath that came the distant sound of something larger moving through the underbrush, probably some kind of wildlife I couldn't see from here.
 
-The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something I couldn't catch.
+I pulled the two green vials out of the pouch at my belt and turned them over in my clawed hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
 
-"I got into the game," I said. "HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short sound, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
+Sixteen thousand eight hundred yen total. Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll so they wouldn't roll away. *"First real money this game ever paid me. Not a bad first login."* I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and grinned at nothing for a second.
 
-I leaned back and pushed the loose loc behind my ear where it kept falling.
+Once I was back online I'd just accept his mission and get things moving. *"A clan at my back and a quest nobody else has. That's a start."* The weight came in behind it anyway: Chiyo in Kyoto, Tochi sitting there as an option I'd been avoiding for months, Mom in the hospital and the surgery I still couldn't pay for.
 
-"But I made some money already. Sixteen thousand eight hundred yen off two elixirs I got from a kill. And there's this ability, Gambler's Gambit, once a day I roll for a chance at rare loot. If I use it right, if I actually grind it properly, I can turn this into something real."
+The camp kept breathing around me outside the canvas, fire and low voices and the smell of woodsmoke still thick in the air even here. It all felt real in a way I hadn't been prepared for, the way it kept existing whether I was paying attention or not.
 
-The words came easier here than they did anywhere else. Something about a room where nobody was watching.
+In the corner of my vision, barely noticeable until it moved, the chat window I hadn't looked at since spawning suddenly lit up, messages scrolling past faster than I could read individual lines. Then a bell rang, clear and loud enough that it should have echoed through the camp, though nobody else reacted to it.
 
-"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
+**[SYSTEM ANNOUNCEMENT: WORLD QUEST | CALL OF THE BONES HAS BEEN ACTIVATED]**
 
-I stopped, my throat going tight. I let the quiet sit a second before pushing through it.
+My eyes shot up to the chat window and I watched it erupt. Messages flooded in so fast the text was nearly a blur, player names I didn't recognize all reacting at once, questions and theories and arguments breaking out in real time.
 
-"I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
-
-The monitors kept their rhythm. The room stayed quiet.
-
-"I'm gonna figure it out. I always do."
-
-I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
-
-I was halfway down the hall when I heard them. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
-
-"...six months," one of them was saying. Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted. "Dr. Inoue was clear. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
-
-I stopped walking.
-
-"Chiyo asked us to keep it quiet," the second nurse said. "She didn't want the family worrying."
-
-"I know," Ms. Sugiyama said. "But that boy deserves to know."
-
-"Not our call."
-
-Their footsteps faded down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
-
-*"Six months. And Chiyo knew. She knew and she didn't tell me."*
-
-The anger came fast and clean, hotter than anything else I'd felt all day. Not at the news itself, I'd known things were bad, I'd known for a while. But the secrecy. Being kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
-
-She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
-
-I turned and walked, not toward the exit, just away from the voices, counting the ceiling lights as they passed because it gave my head something to hold. By the sixth one I'd lost count, and the corner came up fast.
-
-The collision knocked the air out of me, a shoulder catching my chest, papers exploding outward in a soft white flurry. A small startled sound came from whoever I'd walked into, and my hands were already moving, catching an elbow, steadying someone before either of us actually went down.
-
-"Sorry, I wasn't," I started, and then I actually looked at her.
-
-Twin buns. Glasses that seemed specifically designed to make her forgettable and were failing completely at the job. She was already crouching to gather pages, hands quick and practiced, and when she looked up at me, something in her face did the exact same double-take mine just had.
-
-Neither of us said anything for a second that ran a beat too long to be nothing.
-
-"It's fine," she said, too fast, like she needed to get ahead of the silence. "I wasn't watching either."
-
-I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, screen still lit, the blank username field still open and waiting.
-
-"You play?" she asked, tilting her head, a real question.
-
-"Just started." I turned the phone slightly without meaning to. "Haven't even got a name yet."
-
-Something flickered across her face, amused, like I'd said the funniest thing she'd heard all week. "Well, let's change that. What did you have in mind?" She reached over and tapped the screen before I could stop her, the prompt still sitting there patiently.
-
-My thumb hovered a second, then I just typed it, letters and a number, done before I talked myself out of it.
-
-**[USERNAME SET: TDRAG]**
-
-"There," I said, and held the screen up.
-
-"TDRAG." She said it slow, testing how it sat. "I like it."
-
-We finished stacking the last of the pages in a silence that had stopped being awkward somewhere in the last thirty seconds. I was close enough now to see the seam where her glasses didn't quite sit right on her face, like they weren't originally hers.
-
-She stood first, I followed, the stack of papers changing hands without either of us fully letting go for a second.
-
-"I have to go," she said, and somehow didn't sound entirely like she meant it. She pulled a pen from her jacket pocket, scribbled fast on the corner of one page, tore it free, folded it twice, and tucked it into my jacket pocket herself. Her hand rested against my chest for half a second longer than the motion needed. "My code. Add me sometime."
-
-"Wait," I started.
-
-"Good luck with the game," she said, taking the papers from me and turning, already three steps into the hallway before I'd finished the sentence. "Hope to see you soon."
-
-I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms, some part of me already running the last thirty seconds back to confirm it had actually happened.
-
-I set the papers on the nearest chair and unfolded the note.
-
-A friend code sat at the top, a string of letters and numbers in clean, careful handwriting. Beneath it, a date.
-
-December 23rd. 689450YY
-
-*"Two days before Crownfall."* I turned the paper over, checking the back in case something else was written there. Nothing.
-
-I pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. Six months. Chiyo knew. The two things sat next to each other, the note and the sentence, and neither one would stay separate from the other.
-
-I pulled out my phone.
-
-Chiyo's last message sat at the top of the thread, the one about Tochi I'd answered with a thumbs-up because a thumbs-up cost me nothing.
-
-She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard, the way I did when I was about to stop weighing and start doing. This was my call.
-
-I slid the phone back into my pocket before continuing out of the building.
-
-The decision was already made.
+*"Damn. That's not good."* I reached for the logout button and my vision of the world went dark.
 
 **[END CHAPTER FIVE]**
