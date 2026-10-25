@@ -10,3 +10,5 @@
 - Kazuku's avatar presence at the physical venue is grounded by Singapore's own real-world reputation for advanced projection/holographic CG technology, which is how his virtual avatar gets a physical stadium presence without ever revealing his true identity.
 
 See `codex/pro-scene/tournaments-and-events.md`.
+
+- Yuna and Kazuku never appear in person at the venue. Both are avatar projections on the stage; their real bodies and identities stay hidden (author-stated).
