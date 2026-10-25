@@ -13,3 +13,8 @@ See `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` for the full narr
 ## Time windows and the frozen main story (Hearthfire canon)
 
 World quests carry real in-game time windows. The Chapter 4 "[TIME LIMIT: 7 DAYS IN-GAME]" is a **quest timer**, separate from the 72-hour death lock (see `codex/lore/preserved-misc-mechanics.md`). At Hearthfire the beta's main story freezes, except for hidden quests, so a quest line not progressed by the expansion **expires**. Tatsuya's goblin quest line is one of these (see `codex/lore/hearthfire-expansion-and-seasons.md`).
+
+
+## Chains and the 300 points (author-stated)
+
+The Season Zero 300-point battle was a world storyline quest, the first engagement of its kind, which is why it was worth so much when other seasonal points came from raids and quests. A world quest is a main sequence of several quest chains, each with multiple quests, and it can keep growing. A chain such as Call of the Bones holds until the player finds every piece and gives no clues, so it cannot be solved cheaply and does not simply hand over a legendary set.

@@ -26,23 +26,25 @@ My phone buzzed in my hand, then again. A text from an unknown number sat at the
 
 The sale clock had a fifth of its seventy-two hours gone and I still wasn't dressed. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
-I took my laptop off the kitchen counter, dropped onto the couch, and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason it was there. It wasn't. I'd had it open most mornings since the beta started, my thumb always ready to close it. I hated how much of it I knew.
+I went straight for the shower, scrubbed the night shift off, wrung out my locs and tied them up, and came out in jeans, a clean shirt and my jacket, boots half laced.
 
-The feed opened on Saturday's headline. **[Dosuke AI's group cut one step short of the final. Role award for the season.]** *"He deserved better than a Saturday exit."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
+I dropped onto the couch with my phone and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason it was there. It wasn't. I'd had it open most mornings since the beta started, my thumb always ready to close it. I hated how much of it I knew.
+
+The feed opened on a headline. **[Dosuke AI's guild finishes top four in Season Zero seasonal points.]** *"Top four. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
 
 The auction board was thinner than I'd expected. No shelves of common gear, no flood of sellers. Closed-beta characters were frozen at the lock, everything they'd earned had turned into legacy items, and legacy items were unique. Players could still drop them and sell them, and that was about all that was for sale: single pieces nobody else would ever own a copy of, most of them off last night's fight, running into the hundreds of thousands of yen, a few with no price at all, just auction estimates with more zeroes than my whole bank balance.
 
 Then I saw what it cost to sell anything. Every listing carried a posting fee up front and another cut when it sold, and on a six-figure piece that cut was a number I could feel in my own account. *"That tax eats most of it before the seller sees a yen."* I let it sit and kept scrolling. I didn't have anything to sell yet.
 
-*"So that's where the money is."* Crownfall's ten million yen was the only pool big enough, and nobody got paid for showing up. I needed a strong build, something balanced enough to be productive from the first hour.
+*"So that's where the money is."* Crownfall's ten million yen was the only pool big enough, and Crownfall was guild-only. London Spire's forty million had been split fifty ways, by contribution, and plenty of those names got a sliver. Ten million cut the same way wasn't going to cover Mom's bills unless I was the one carrying the guild. I needed a strong build, something balanced enough to be productive from the first hour.
 
 The race table sat on the same page, six numbers down each row. Courage, Power, Wisdom, Speed, Fortune, Energy. I opened the Elf row without really deciding to. Wisdom stacked high, Spellforger on top of it, control and burst, the build I'd spent months drawing out with Eren and had never once been able to play. Eren had a copy now with his name on it, and Haruto had looked straight through it last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* Eren had the build. He didn't know how to run it, and the build never opened up for anybody who didn't.
 
 *"Let's see what the original does."* I caught myself grinning at the screen and checked the empty room to make sure nobody had seen, half excitement and half nerves. Dad's game, the world he said he helped create, and I was about to stand inside it with a build I actually believed in.
 
-I shut the laptop and set it on the coffee table. *"Six days."* Chiyo would be back in six days, and I wanted to have something to show her by then. *"I've got the build. I've never played a minute of it."* I was sitting on the very edge of the cushion, and I made myself lean back.
+*"Six days."* Chiyo would be back in six days, and I wanted to have something to show her by then. *"I've got the build. I've never played a minute of it."* I was sitting on the very edge of the cushion, and I made myself lean back.
 
-My bank balance sat on my phone as a widget at the top of the screen.
+My bank balance sat as a widget at the top of the screen.
 
 **[¥47,320]**
 
@@ -62,7 +64,7 @@ A listing halfway down the third page stopped me. Sakura Arcade, a name I didn't
 
 *"Free?"* Something small and stupid lifted in my chest, the first thing all afternoon that wasn't dread, and I shut it down before it could get comfortable. It was probably a typo. I clicked through anyway. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises moved on to the third-gen helmets. First-gen pods were basically extinct, hardware that ran a couple of early VR games and not much else. There was no reason one should run HGO. Maybe it could, if Dad's manual got me lucky. Maybe I'd cross town and find a pod that did nothing but power on. It was a gamble, and it was the only one I could afford.
 
-I checked the time. 3:47 PM. The window opened in just over an hour, I still had to pick up the drive from Nexus first, and the EB hadn't held a charge since last night. I changed out of the WattsUp shirt I'd slept in, pulled on jeans and my jacket, shoved my feet into my boots, and went down the hall to my room, the corner my father had worked out of for most of my life, the smell of old solder and cold circuit boards hitting me at the door, the smell Momo had complained about for years.
+I checked the time. 3:47 PM. The window opened in just over an hour, I still had to pick up the drive from Nexus first, and the EB hadn't held a charge since last night. I laced my boots and went down the hall to my room, the corner my father had worked out of for most of my life, the smell of old solder and cold circuit boards hitting me at the door, the smell Momo had complained about for years.
 
 I wasn't leaving the manual on that shelf anymore. I pulled it down, spine cracked, pages dog-eared in a dozen places, the letter still hidden where I'd tucked it in the controller diagrams, and I left it right there. I flipped to the controller board section until a note in his slanted handwriting stopped my thumb. **Joint on rail 3 goes cold under load. Reflow.**
 
