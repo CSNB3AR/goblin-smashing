@@ -4,13 +4,13 @@ I woke up wrong, sluggish and heavy, and I knew it before I opened my eyes. Sunl
 
 My phone was still in my hand, the screen dark and cool against my palm. I thumbed it awake: **3:04 PM**.
 
-*"No. No, no, no."* I was off the couch before I was fully awake, the blanket sliding to the floor, my heart already going. *"The morning shift. I told Gato I'd cover the morning."* It wasn't my regular shift, which was the whole reason I'd promised it, and Gato had never once been late on me. *"Gato is going to kill me."*
+*"No. No, no, no."* I was off the couch before I was fully awake, the blanket sliding to the floor, my heart already going. *"The morning shift. I told Gato I'd cover it."* Extra hours, extra money, and I'd slept straight through it. *"Gato is going to kill me."*
 
 I thumbed my phone open. A message from him sat at the top of the screen, sent before seven.
 
 **[Opened up myself. Figured you'd be dead on your feet after the night shift. Don't sweat it, kid. Sleep. - Gato]**
 
-I read it twice. The panic drained out of me so fast my legs went soft, and I sat down hard on the arm of the couch. He wasn't mad. He'd called it before I could, and he'd opened the store himself on a shift that was never his to work. I owed him one, and he would never bring it up.
+I read it twice. *"Damn. He ain't tripping."* The panic drained out of me and I dropped onto the arm of the couch.
 
 The television was still paused on the soldiers marching through the gate. Momo's door stood open and her room was empty, the bed made in the quick, lopsided way she did it on her way out. Taji's side of the couch was cold. I stood in the middle of the living room, listening for anybody at all, and heard the fridge hum.
 
@@ -18,13 +18,13 @@ A note sat on the kitchen counter, folded once, my name across the front in Chiy
 
 **[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
-I set the note flat on the counter and smoothed the fold. *"The trip. Right. The trip."* It had been on the calendar stuck to the fridge for two weeks, and I'd still lost track of it. Nobody was waiting on me. Nobody was angry. The rice balls line was pure Chiyo. I read it once more before I put it down. Six days with nobody home but me.
+I set the note flat on the counter and smoothed the fold. *"The trip. Right. The trip."* It had been on the calendar stuck to the fridge for two weeks, and I'd still lost track of it. The rice balls line was pure Chiyo. Six days with nobody home but me.
 
 My phone buzzed in my hand, then again. A text from an unknown number sat at the top of my notifications, sender marked **Nexus Enterprises**.
 
 **[Your HGO Access Drive order has been processed and is ready for pickup. Please collect within 24 hours of this notification. Pickup Code: 4472-KAZE]**
 
-That settled it. The sale clock had a fifth of its seventy-two hours gone, the drive was sitting in a store across the city, and I still wasn't dressed. *"Okay. I need to go pick this up. Today, before anything else goes wrong."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
+The sale clock had a fifth of its seventy-two hours gone and I still wasn't dressed. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
 I took my laptop off the kitchen counter, dropped onto the couch, and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason it was there. It wasn't. I'd had it open most mornings since the beta started, my thumb always ready to close it. I hated how much of it I knew.
 
@@ -34,7 +34,7 @@ The auction board was thinner than I'd expected. No shelves of common gear, no f
 
 Then I saw what it cost to sell anything. Every listing carried a posting fee up front and another cut when it sold, and on a six-figure piece that cut was a number I could feel in my own account. *"That tax eats most of it before the seller sees a yen."* I let it sit and kept scrolling. I didn't have anything to sell yet.
 
-*"So that's where the money is."* There was real money moving through this game, and I needed some of it. Crownfall's ten million yen was the only pool big enough, and nobody got paid for showing up. You got paid for winning, or for getting close enough that people noticed. I couldn't walk in as a nobody with a random character. I needed a strong build, something balanced enough to be productive from the first hour.
+*"So that's where the money is."* Crownfall's ten million yen was the only pool big enough, and nobody got paid for showing up. I needed a strong build, something balanced enough to be productive from the first hour.
 
 The race table sat on the same page, six numbers down each row. Courage, Power, Wisdom, Speed, Fortune, Energy. I opened the Elf row without really deciding to. Wisdom stacked high, Spellforger on top of it, control and burst, the build I'd spent months drawing out with Eren and had never once been able to play. Eren had a copy now with his name on it, and Haruto had looked straight through it last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* Eren had the build. He didn't know how to run it, and the build never opened up for anybody who didn't.
 
@@ -46,7 +46,7 @@ My bank balance sat on my phone as a widget at the top of the screen.
 
 **[¥47,320]**
 
-It was mine, but not all of it. I paid what I could toward groceries and a small bill Chiyo had handed me so I'd have something to carry, and she covered the rest. She owned the hotels, she could have covered every bit of it, and I'd stopped questioning it a while back. It made sense.
+Every month I paid Chiyo what she asked, groceries and a small bill. It was never the real number, and we both knew it. It still felt good to put it in her hand.
 
 I opened Loop. My profile loaded, the follower count in the corner a number that hadn't moved in six months.
 

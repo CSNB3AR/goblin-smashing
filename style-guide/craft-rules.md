@@ -43,3 +43,8 @@ Tatsuya does not explain a business idea, a mechanic's loophole or a plan to the
 ## No metagaming, for every character
 
 A character only knows what they saw, heard, were told, or can reasonably look up. If they were not in the scene and had no eyes, ears or source on it, they do not have the information, and that includes Tatsuya. Before a character acts on, mentions or reacts to a fact, name where they got it. Gato was not there when the scooter died, so he cannot mention it. If a character needs the fact, give them a source on the page (a text, a witness, a post they could read) or cut it.
+
+
+## No self-explanation after a beat
+
+When a beat lands, move on. Do not follow it with a sentence that restates what just happened or explains why he did it ("He wasn't mad. He'd called it before I could... I owed him one"). The reader sees it. Give a short human reaction (*"Damn. He ain't tripping."*) and go to the next thing. If a motive matters, hint it with a detail (extra hours, extra money; paying what Chiyo asks and knowing it is not the real number) and trust the reader. Explain only when the information is new and the reader could not get it from the scene.
