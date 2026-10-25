@@ -35,7 +35,7 @@
 - **Money** first: the surgery deadline and the debt.
 - **Dad's letter** second. The Tabuchis want what is in the manual. Only the bear, Dad's business partner, has the proof, and he is reachable inside HGO. Daichi also handed Kazuku some notes while they were building the third-gen pods; that stake would have paid off Ohema's debt, another reason the letter says to find the bear.
 - **Getting the bear's attention.** He cannot go in doing nothing. A Dad invention brought into the game, a top guild, a Crownfall run: any of these might get Kazuku to notice. He also wants the compensation (tech sold in the game plus other earners).
-- **Dad's name.** Dad could not walk, and he helped build a world that does not know his name.
+- **Dad's schematics and Tochi.** Dad could not walk, and he built a place where he could run. His letter says Tatsuya may do more with the schematics than he did, and that he does not want to push. That sends Tatsuya toward Tochi, where Dad learned everything and where parts of the archives hold his work.
 
 ## Later items (forward only)
 

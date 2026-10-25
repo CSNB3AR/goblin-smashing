@@ -58,7 +58,7 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "Now's your chance." Haruto's eyes flicked to the door Eren had walked out of, then back to me. "I'd like to see what the brain behind that build looks like when it's actually playing it. Some people hit a ceiling with it. I don't think you would." He nodded once toward the TV, small and deliberate. "Beats wasting away behind that counter."
 
-I rolled my shoulders back, took a slow breath through my nose, and gave him a nod, nothing more spent on it than that. *"He's not wrong. I'm not telling him that."*
+I rolled my shoulders back and gave him a nod, nothing more spent on it than that. But the question stuck, low in my chest. *"The brain behind that build."* I could still see the graph paper, Eren across the table from me at Tochi, the two of us arguing over one row of numbers until the loop finally clicked and we were both yelling loud enough that people turned around. For about a week that was the best thing I had ever made. My jaw worked once. *"Why would he ask me that? Why now?"* The cold he'd let in hadn't left the room, and I made myself look at the counter.
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
@@ -148,7 +148,7 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 
 **[If you want the truth, talk to the bear. He's the only one who has it, and he'll tell you. Just be careful who is listening.]**
 
-**[A man who couldn't walk once built a place where he could run. The world there doesn't know my name. Maybe it's time it did.]**
+**[A man who couldn't walk once built a place where he could run. I know this is a lot to put on you. Maybe you can do more with my schematics than I ever did. But I don't want to push you.]**
 
 I read it once for the words and once for the date I couldn't find, because there wasn't one. My hands had gone flat on the desk again without me telling them to. At the bottom, where his name should have been, there was only a print in dark ink, smudged at one edge. I tilted the page toward the lamp and squinted until the shape came clear: a paw, four toes and a wide pad.
 
@@ -178,6 +178,10 @@ My stomach dropped and stayed there. *"Dad wouldn't hand me a cartoon. He'd neve
 
 *"I could be wrong. I've been wrong about Dad before."* I'd spent a year telling myself the pieces only looked wrong because I was grieving. The calls that kept circling back to his paperwork. The Tabuchis, who wanted what was in this book more than they wanted their money. Standing there with the page still warm from my hands, I knew the only person in that apartment pretending was me.
 
+I flipped to the back of the manual, to the first-gen pod schematic, the headset frame and the feed and the harness he'd drawn and redrawn until the paper wore thin. *"More than I did."* Nexus sold third-gen helmets now. I tried to picture that kind of power under an old first-gen pod, one that could actually run a game like HGO the way it should, and I could almost see where it would fit.
+
+The thought dragged me straight to Tochi. Dad had learned everything he knew there, the circuits, the pods, all of it, and parts of that work were still sitting in the school's archives where I had never been allowed to look. I scratched along my jaw, and for the first time all night the school felt like more than a place I was running from.
+
 I didn't have a plan. I had a bear, a game and a countdown, and the only door I could see to a man nobody had ever met was inside HGO. And it paid. Whatever else the game was, it paid, and Mom's bills hadn't stopped coming just because I'd found a letter.
 
 I refolded the page along its old creases, slid it back in at the controller diagrams, and set the manual on the shelf exactly where it had been, spine out, because Chiyo and the twins weren't supposed to know there was anything in it to find. I killed the lamp and went back down the hall.
@@ -190,7 +194,7 @@ Rent covered. Mom's hospital bill covered, barely, with Chiyo carrying most of t
 
 My thumb swiped to the Nexus Enterprises purchase screen, the ad blinking next to a number that counted down the remaining time of the sale.
 
-*"If I do this, I can't forget why I'm doing it."* Not for me. Not to prove something to Eren or show off to Haruto or get Loop clout or any of that. It was for them. It was for a man who couldn't walk and the name nobody in that world knew. My eyes flicked toward Taji, who was still staring at the frozen trophy shot like he was trying to memorize every detail.
+*"If I do this, I can't forget why I'm doing it."* Not for me. Not to prove something to Eren or show off to Haruto or get Loop clout or any of that. It was for them, and for the schematics Dad never got to finish. Haruto's question was still rattling around my head, and I hated that part of me wanted to answer it. My eyes flicked toward Taji, who was still staring at the frozen trophy shot like he was trying to memorize every detail.
 
 *"Fine."* I pulled in a breath through my nose, held it longer than I needed to, and let it out slow. *"Doing it."*
 
