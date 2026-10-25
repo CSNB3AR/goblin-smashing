@@ -96,15 +96,17 @@ I took one final breath and went to close up.
 
 I moved through the rest of closing on autopilot. I killed the bays one at a time, the digital readouts blinking dark in sequence. Counted the drawer twice, same total both times, bagged it for Gato's morning deposit. Wiped down the counter one last pass, out of habit more than need, the rag coming up clean. Hit the lights, stepped out into the cold, the door locking itself behind me with a heavy clunk that echoed across the lot. The cold hit my face and my breath fogged in front of me.
 
-Around back, the Haya EB scooter was sitting exactly where I'd left it, the last thing of Dad's that still ran, old paint gone matte in patches under the yellow security light, the helmet hanging off the handlebar where I always left it when I knew nobody else would be back here. I pulled it on, tucked the loose loc back before it could catch in the strap, and swung a leg over the seat, the cold leather biting through my jeans.
+Around back, the Haya EB scooter was sitting exactly where I'd left it, black paint clean and glossy under the yellow security light, the one thing I kept in shape. It was the last thing of Dad's that still ran, one of maybe twenty that ever sold before they were pulled. The helmet hung off the handlebar where I always left it, a visor Dad had built to work like smart glasses. I pulled it on, tucked the loose loc back before it could catch in the strap, and swung a leg over the seat, the cold seat biting through my jeans.
 
-The touchscreen between the handlebars flickered awake under my thumb the way it always did, half a second of hesitation like it didn't trust me yet. I waited it out, thumb pressed flat to the glass, until the dash finally lit green and the charge indicator climbed and stalled at two bars, not the full it should have read after a day on the charger.
+I pressed my thumb to the touchscreen between the handlebars. Dad had locked it to the owner's fingerprint, so it always took a moment, half a second of scanning to read who was riding before it trusted me. I waited it out, thumb flat to the glass, until the dash lit green and the visor threw a glowing route line across the road ahead. The charge indicator climbed and stalled at two bars, not the full it should have read after a day on the charger.
 
 I kicked the stand up, rolled it off the curb with my feet, and pulled out onto wet asphalt, letting Shibuya blur past in long smears of orange and white in the rain that had picked up again. Even after the last trains the sidewalks kept their late crowd, office workers, couples, groups of kids under the signs. I opened it up on a long clear stretch, the hum of the electric motor climbing under me, rain needling cold against my cheeks where the helmet didn't quite cover. The hum stuttered once, a dip in the climb, then caught again.
 
 Some track was playing low through the scooter's tiny speaker, one of Yuna's, something Momo had dropped into my queue two weeks ago without asking and I'd never bothered deleting.
 
-The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. *"Come on, now. I'm already having a day."* I crouched and pressed my palm flat to the dead dash. *"Not you too. You're the last thing of his that still runs. I'm fixing you, I don't care how long it takes."* I stood and pushed it the rest of the way, boots splashing through the gutter, my arms burning on the handlebars, my breath rasping, rain needling my neck, two women under a shop awning looked me up and down, a six-foot-three Black guy in the rain pushing a dead scooter, and one leaned toward the other and said something. I kept my eyes on the road, my shoulders hunched against the rain as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
+The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. *"Come on, now. I'm already having a day."* I crouched and pressed my palm flat to the dead dash. *"Not you too. You're the last thing of his that still runs."*
+
+It was also how I got to work, how I got everywhere. *"I've got a shift tomorrow. I can't be walking, and I can't be paying for the train. The charge is free at WattsUp, and that's one expense I don't have."* I stood, wiped the rain off the dash with my sleeve, and pushed it the rest of the way. *"I'm fixing you. I don't care how long it takes."* My boots splashed through the gutter, my arms burned on the handlebars and my breath rasped. Two women under a shop awning looked me up and down, a six-foot-three Black guy in the rain pushing a dead scooter, and one leaned toward the other and said something. I kept my eyes on the road, my shoulders hunched against the rain as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
 
 I parked around back on reflex, in the spot that wasn't technically mine but nobody else ever used, and came in through the side door the hotel staff used during the day.
 
@@ -130,9 +132,9 @@ I took the steps two at a time, my boots landing heavy, the sound echoing in the
 
 *"So either I go back to Tochi with my tail tucked between my legs, or I do something first. Something she can't argue with. Something that proves I'm not just wasting time."*
 
-Upstairs, the apartment was mostly dark. Momo's door was cracked open, a wedge of pink light spilling into the hallway, her voice humming along under her headphones to something with way too much reverb, a melody I recognized from the ride home. I caught the edge of her phone screen through the gap, @Yuna_N9 pulled up in her browser, a livestream replay looping in the corner, Momo mouthing the words without actually singing them out loud.
+Upstairs, the apartment was mostly dark. Momo's door was cracked open, a wedge of pink light spilling into the hallway, her voice humming along under her headphones to something with way too much reverb, a melody I recognized from the ride home. I caught the edge of her phone screen through the gap, @Yuna_N9 pulled up in her browser, a livestream replay looping in the corner, Momo mouthing the words without actually singing them out loud, her locs piled on top of her head.
 
-In the front room, Taji was still awake on the couch, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the same broadcast I'd just left behind at WattsUp. The London Spire trophy shot was paused on the screen, confetti frozen mid-fall, London Spire's captains in gold and white holding hardware that probably weighed more than it looked like it did.
+In the front room, Taji was still awake on the couch, locs bunched under the hood of his red hoodie, wrapped in a blanket he'd clearly stolen from someone's bed, probably Momo's, based on the color, watching the same broadcast I'd just left behind at WattsUp. The London Spire trophy shot was paused on the screen, confetti frozen mid-fall, London Spire's captains in gold and white holding hardware that probably weighed more than it looked like it did.
 
 "They actually did it," Taji said, not looking up, assuming the way he always did that I had no idea what he was talking about and needed the context explained.
 
@@ -146,7 +148,7 @@ Taji cracked a small smile despite himself, the kind he tried not to give up too
 
 I sat there in my own living room, the broadcast still paused on-screen, Momo's muffled humming coming through the wall, Taji's blanket warm against my legs, and Chiyo downstairs, still on shift. None of them had asked for this.
 
-The Haya EB was still sitting dead around back, that long blank second when the dash went dark replaying in my head. I pushed myself up off the couch.
+The Haya EB was still sitting dead around back, and my shift started in the morning. I couldn't walk it, I couldn't afford the train, and the scooter charged for free at work. I shot up off the couch.
 
 "Back in a minute," I said. Taji gave me a nod without looking away from the frozen trophy shot.
 
@@ -172,7 +174,7 @@ I read it once for the words and once for the date I couldn't find, because ther
 
 I said it out loud, low, to the empty room. *"What bear?"*
 
-Nobody I knew had ever been called that. I ran through everyone who'd come up those stairs to see him, the parts suppliers, the repair guys, the neighbors who borrowed his tools, and none of them had a name that came close. *"A nickname, maybe. A shop. A bar called the Bear."* I tried it as a street, a station, a restaurant. Nothing fit. I tried it on Chiyo, and then on Mom, and dropped both before they finished forming. If either of them had known, they'd have told me a year ago.
+Nobody I knew had ever been called that. I ran through everyone who'd come up those stairs to see him, the parts suppliers, the repair guys, the neighbors who borrowed his tools, and none of them had a name that came close. *"A nickname, maybe. A shop. A bar called the Bear."* I tried it as a street, a station, a restaurant. Nothing fit. I tried it on Chiyo and dropped it before it finished forming. If she'd known, she'd have told me a year ago.
 
 I smacked the desk hard enough to rattle the lamp. *"Dad, why couldn't you just write a name?"*
 
@@ -190,7 +192,7 @@ I looked at the phone. I looked at the paw print on the page. I looked at the ph
 
 My stomach dropped and stayed there. *"Dad wouldn't hand me a cartoon. He'd never trust his last words to a cartoon."* But the bear wasn't a cartoon to anyone who'd met the man behind it, and nobody ever had. Nobody knew who Kazuku was. If anyone alive was careful about who was listening, it was the man who'd built himself a bear to hide behind.
 
-*"The world I helped create."* I read it again with the game in my head instead of this room. The first-gen pod, the one Dad had spent his last years on, in this room, in a chair that wasn't built for the work. It had never been a side project. It had been a piece of this. My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back.
+*"The world I helped create."* I read it again with the game in my head instead of this room. *"Dad only had three big products that I know of. The pod, the sedan, the EB. Where does a world fit in?"* The first-gen pod, the one Dad had spent his last years on, in this room, in a chair that wasn't built for the work. It had never been a side project. It had been a piece of this. *"No way. Dad helped build HGO?"* I let myself picture it for a second, Dad in that chair, building a whole world, and the picture was bigger than the man I thought I knew. My breath went out through my nose, slow, and a loose loc slid across my face that I didn't push back.
 
 *"I could be wrong. I've been wrong about Dad before."* I'd spent a year telling myself the pieces only looked wrong because I was grieving. The calls that kept circling back to his paperwork. The Tabuchis, who wanted what was in this book more than they wanted their money. Standing there with the page still warm from my hands, I knew the only person in that apartment pretending was me.
 
@@ -220,7 +222,7 @@ A small green confirmation bloomed on the screen a moment later, text appearing 
 
 I locked my phone and set it face-down on the couch beside me, my hand coming up to rub the back of my neck. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
 
-*"I don't know this game as well as I want to. Before I plan anything, I look at the first option. Crownfall."*
+*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"I don't know the game as well as I want to. But that's the first place I look."*
 
 I didn't remember closing my eyes.
 
