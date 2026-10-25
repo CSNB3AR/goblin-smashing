@@ -30,3 +30,4 @@ How to bring an old chapter (4 to 10) up to the format set by `chapters/chapter-
 ## Per-chapter pass
 
 Read the old chapter whole, mark every line that breaks the format or the ledger, change only those lines and the beats around them, keep the author's content and voice, reread the whole chapter, then run the checker.
+- Knowledge: no character, Tatsuya included, knows anything they were not present for, unless a source on the page gives it to them. Check every message, reaction and line of dialogue for where the information came from.

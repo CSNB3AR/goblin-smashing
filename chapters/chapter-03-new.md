@@ -8,7 +8,7 @@ My phone was still in my hand, the screen dark and cool against my palm. I thumb
 
 I thumbed my phone open. A message from him sat at the top of the screen, sent before seven.
 
-**[Opened up myself. Figured you'd be out cold after last night, and that scooter wasn't getting you here anyway. Don't sweat it, kid. Sleep. - Gato]**
+**[Opened up myself. Figured you'd be dead on your feet after the night shift. Don't sweat it, kid. Sleep. - Gato]**
 
 I read it twice. The panic drained out of me so fast my legs went soft, and I sat down hard on the arm of the couch. He wasn't mad. He'd called it before I could, and he'd opened the store himself on a shift that was never his to work. I owed him one, and he would never bring it up.
 

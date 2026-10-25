@@ -39,3 +39,7 @@ Every beat carries the feeling that scene calls for, and it changes as the scene
 ## Show, don't tell (ideas and plans)
 
 Tatsuya does not explain a business idea, a mechanic's loophole or a plan to the reader. An idea lands harder when another character hands him a piece of it and he puts it together on the page, so the reader solves it with him. Keep his own lines to a short reaction ("that tax eats most of it") and let the other person's story carry the information. If a paragraph reads like a lore explainer in his voice, cut it back to what he sees and says, and move the information into someone else's mouth or a later scene.
+
+## No metagaming, for every character
+
+A character only knows what they saw, heard, were told, or can reasonably look up. If they were not in the scene and had no eyes, ears or source on it, they do not have the information, and that includes Tatsuya. Before a character acts on, mentions or reacts to a fact, name where they got it. Gato was not there when the scooter died, so he cannot mention it. If a character needs the fact, give them a source on the page (a text, a witness, a post they could read) or cut it.

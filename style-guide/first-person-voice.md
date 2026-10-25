@@ -38,3 +38,7 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 ## Concrete detail
 
 See `style-guide/concrete-detail-and-figurative-language.md` for the author's rule on concrete detail, sparing figures and filter words, and the limits that keep the voice intact.
+
+## Knowledge rule (every character)
+
+The no-metagaming rule applies to everyone on the page, not only the narrator: nobody knows what they were not present for unless a source on the page told them (see `style-guide/craft-rules.md`, "No metagaming, for every character").
