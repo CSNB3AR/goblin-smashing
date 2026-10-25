@@ -41,7 +41,7 @@ I'd seen columns like this before. Taji had them running on his phone at dinner 
 
 A sound came through on the line, brief and mechanical, then the voice right behind it.
 
-**[OPERATOR'S DESK — LEON]**
+**[OPERATOR'S DESK - LEON]**
 **[EXTERNAL COMMS ACTIVE]**
 
 "Yeah, what's up?" Easy, unhurried.
@@ -117,8 +117,8 @@ One of my pointed ears twitched at the rapid clatter of keys, a habit this body 
 The UI minimized, Leon's name staying visible in the corner of the HUD. I turned to the party screen without deciding to.
 
 **[PARTY MEMBERS: 2/5]**
-**[T_DRAG — LEVEL 7 — SHIV GOBLIN]**
-**[RU — LEVEL 5 — HOBGOBLIN] [MOBILE]**
+**[T_DRAG - LEVEL 7 - SHIV GOBLIN]**
+**[RU - LEVEL 5 - HOBGOBLIN] [MOBILE]**
 
 The MOBILE tag sat in small gray text beside Ru's name. I read it twice to be sure I was reading it right. *"Alive."* Relief hit hard enough that I almost laughed out loud in an empty tent. Wherever Ru was, he was alive, and the frustration could wait.
 
@@ -190,11 +190,11 @@ I watched the shift happen. Wyx's shoulders dropped half an inch, the tension in
 
 A small notification flickered at the edge of my vision, there one second before fading.
 
-**[AFFILIATION: THRASH CLAN — 12% → 15%]**
+**[AFFILIATION: THRASH CLAN - 12% → 15%]**
 
 Below it, smaller and quieter, a second one:
 
-**[AFFILIATION: WYX THRASH — 0% → 4%]**
+**[AFFILIATION: WYX THRASH - 0% → 4%]**
 
 I caught the second one. Wyx's eyes had settled on me the moment I'd said Shiv's name, and they hadn't fully left since, carrying something that didn't read like standard camp-leader assessment. I filed it away and kept my eyes on Sevish.
 
@@ -206,7 +206,7 @@ I didn't answer. I kept my face toward Sevish.
 
 A brief notification pushed up from the lower edge of my HUD:
 
-**[FIELD COMMAND: ACTIVE — TATSUYA | 3 THRASH CLAN AUXILIARIES ASSIGNED]**
+**[FIELD COMMAND: ACTIVE - TATSUYA | 3 THRASH CLAN AUXILIARIES ASSIGNED]**
 
 *"Four of us. I've never led anyone in a fight. Never been the one calling it."* My claws flexed once at my sides. Then I looked back at Sevish. "You have a scouting report?"
 
@@ -284,7 +284,7 @@ The party notification blinked at the edge of my vision.
 
 A half-second delay. Then:
 
-**[ARISKY — LEVEL 11 — SPELLFORGER]**
+**[ARISKY - LEVEL 11 - SPELLFORGER]**
 **[ARISKY HAS JOINED YOUR PARTY]**
 **[PARTY SIZE: 3/5]**
 
