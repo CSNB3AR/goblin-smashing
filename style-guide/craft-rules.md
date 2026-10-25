@@ -48,3 +48,8 @@ A character only knows what they saw, heard, were told, or can reasonably look u
 ## No self-explanation after a beat
 
 When a beat lands, move on. Do not follow it with a sentence that restates what just happened or explains why he did it ("He wasn't mad. He'd called it before I could... I owed him one"). The reader sees it. Give a short human reaction (*"Damn. He ain't tripping."*) and go to the next thing. If a motive matters, hint it with a detail (extra hours, extra money; paying what Chiyo asks and knowing it is not the real number) and trust the reader. Explain only when the information is new and the reader could not get it from the scene.
+
+
+## A revision replaces, it does not add
+
+When a chapter is revised, new beats replace or fold into the lines already there. A revised chapter should not end up longer than its source unless the author asks. Add a beat only by cutting the sentence it makes redundant. Check with `python3 tools/chapter_check.py <new> --source <old>`.

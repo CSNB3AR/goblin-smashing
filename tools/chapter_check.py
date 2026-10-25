@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Audit a chapter file against the new chapter format.
 
-Usage: python3 tools/chapter_check.py chapters/chapter-04.md [more files]
+Usage: python3 tools/chapter_check.py chapters/chapter-04-new.md [--source chapters/chapter-03.md] [more files]\n--source prints the length change against the old chapter and warns on growth over 5 percent.
 
 Reports, by line: rule breaks that are certain (em dashes, stale terms, narrator
 pronoun leaks) and lines worth a human look (figures, filter words, repeated
@@ -110,8 +110,24 @@ def check(path):
         print(f"  {n}: {m}")
 
 
+def compare(path, source):
+    new = len(open(path, encoding="utf-8").read().split())
+    old = len(open(source, encoding="utf-8").read().split())
+    pct = (new - old) / old * 100
+    flag = "  <- GREW MORE THAN 5%, fold new beats into old lines" if pct > 5 else ""
+    print(f"LENGTH: {old} -> {new} words ({pct:+.1f}%){flag}")
+
+
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
+    args = sys.argv[1:]
+    source = None
+    if "--source" in args:
+        i = args.index("--source")
+        source = args[i + 1]
+        del args[i:i + 2]
+    if not args:
         sys.exit(__doc__)
-    for p in sys.argv[1:]:
+    for p in args:
         check(p)
+        if source:
+            compare(p, source)
