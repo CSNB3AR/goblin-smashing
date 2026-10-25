@@ -26,17 +26,21 @@ My phone buzzed in my hand, then again. A text from an unknown number sat at the
 
 The sale clock had a fifth of its seventy-two hours gone and I still wasn't dressed. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
-I went straight for the shower, scrubbed the night shift off, wrung out my locs and tied them up, and came out in jeans, a clean shirt and my jacket, boots half laced.
+I went straight for the shower, scrubbed the night shift off, wrung out my locs and tied them up, and came out in a worn J1 jersey and black joggers from one of those Japanese sportswear companies, my hoop in, the chain swinging, jacket over my arm and boots half laced.
 
 I dropped onto the couch with my phone and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason it was there. It wasn't. I'd had it open most mornings since the beta started, my thumb always ready to close it. I hated how much of it I knew.
 
-The feed opened on a headline. **[Dosuke AI's guild finishes top four in Season Zero seasonal points.]** *"Top four. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
+The feed opened on a headline. **[Season Zero final: London Spire (Alistair Vane) 10,800. Aogiri (Lin Haoyu) 10,250. Stillwater (Dosuke AI) fourth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
 
-The auction board was thinner than I'd expected. No shelves of common gear, no flood of sellers. Closed-beta characters were frozen at the lock, everything they'd earned had turned into legacy items, and legacy items were unique. Players could still drop them and sell them, and that was about all that was for sale: single pieces nobody else would ever own a copy of, most of them off last night's fight, running into the hundreds of thousands of yen, a few with no price at all, just auction estimates with more zeroes than my whole bank balance.
+The auction board was thinner than I'd expected. No shelves of common gear, no flood of sellers, and the prices swung from one refresh to the next. Closed-beta characters were frozen at the lock, everything they'd earned had turned into legacy items, and legacy items were unique. Players could still drop them and sell them, and that was about all that was for sale: single pieces nobody else would ever own a copy of, most of them off last night's fight, running into the hundreds of thousands of yen, a few with no price at all, just auction estimates with more zeroes than my whole bank balance.
 
-Then I saw what it cost to sell anything. Every listing carried a posting fee up front and another cut when it sold, and on a six-figure piece that cut was a number I could feel in my own account. *"That tax eats most of it before the seller sees a yen."* I let it sit and kept scrolling. I didn't have anything to sell yet.
+Then I saw what it cost to sell anything. Every listing carried a posting fee up front and another cut when it sold, and on a six-figure piece that cut was a number I could feel in my own account. *"That tax eats most of it before the seller sees a yen."* I let it sit and kept scrolling. I didn't have anything to sell yet. *"But the board's this empty and the game's still new. One lucky drop, one quest nobody's run, and I'd have something to wear and something to sell."*
 
-*"So that's where the money is."* Crownfall's ten million yen was the only pool big enough, and Crownfall was guild-only. London Spire's forty million had been split fifty ways, by contribution, and plenty of those names got a sliver. Ten million cut the same way didn't go far unless I was the one carrying the guild. I needed a strong build, something balanced enough to be productive from the first hour.
+*"So that's where the money is."* Crownfall's ten million yen was the only pool big enough, and the page for it was short.
+
+**[CROWNFALL: GUILDS ONLY. 10 TO 20 PARTICIPANTS PER GUILD.]**
+
+The guild page in the app wanted five names just to register one. *"Five to start. Ten to enter. Twenty slots."* London Spire's forty million had been split fifty ways, by contribution, and plenty of those names got a sliver. Ten million cut the same way didn't go far unless I was the one carrying the guild. I needed a strong build, something balanced enough to be productive from the first hour.
 
 The race table sat on the same page, six numbers down each row. Courage, Power, Wisdom, Speed, Fortune, Energy. I opened the Elf row without really deciding to. Wisdom stacked high, Spellforger on top of it, control and burst, the build I'd spent months drawing out with Eren and had never once been able to play. Eren had a copy now with his name on it, and Haruto had looked straight through it last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* Eren had the build. He didn't know how to run it, and the build never opened up for anybody who didn't.
 
@@ -94,7 +98,13 @@ The pickup counter sat toward the back, past a row of demo pods where a handful 
 
 I rattled it off from memory, 4472-KAZE, and he disappeared into the back and came out with the same sleeve he'd handed everyone else.
 
-"Drive's pre-loaded with your license. You're good to go."
+"Drive's pre-loaded with your license." He slid a printed waiver across the counter anyway. "One character, one account. Once you pick, that's it. No refunds, we've had people come back upset. Respec exists." He tapped the line at the bottom.
+
+**[RESPEC FEE: ¥350,000]**
+
+My eyebrows went up on their own. "Most people don't go that route," he said.
+
+"Yeah," I said. "I can see why."
 
 "Appreciate it," I said, and dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension or a premium helmet I couldn't afford.
 
@@ -108,47 +118,51 @@ Sakura Arcade sat on a side street I didn't recognize, wedged between a closed r
 
 *"This is it? Doesn't look like much."* I parked the EB around the side, hung the helmet on one handlebar, and went to the door with my backpack on.
 
-Inside, it smelled like old carpet and something floral. Themed gaming chairs lined the walls in neat rows, each facing a monitor, most of them dark.
+Inside, it smelled like old carpet and something floral. Themed gaming chairs lined the walls in neat rows, each facing a monitor, most of them dark. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
 
-Behind the counter, a guy in his mid-thirties looked up from a tablet, dark hair pulled back in a small knot, sleeves rolled to his elbows.
+Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, dark hair pulled back in a small knot, an unlit cigarette tucked behind one ear and a smear of grease across his thumb.
 
-"Can I help you?"
+"Can I help you?" He sat up straighter. "Walk-ins are fine. Please tell me you're a walk-in."
 
 "I'm here for a pod," I said, stepping up. "First-gen, if you've got availability."
 
-His expression shifted, not quite a wince, more like someone who'd had this exact conversation too many times today. "I do, but I'll warn you up front, they're first-gen Kazuhaya Tech. They don't play well with newer titles. I've turned away a dozen HGO hopefuls since the sale hit. It's not gonna run the way you think it will."
+"I do." The hope on his face got itself under control. "Before you get excited, they're first-gen Kazuhaya Tech. They don't play well with newer titles. I've turned away a dozen HGO hopefuls since the sale hit, and I'd hate for the free part to scare you off. But I'm telling you now, if you test something newer on it and the pod dies, you're paying for the pod. It's the only moneymaker I've got."
 
 "I know," I said, level, not defensive. "That's fine."
 
-He studied me a second, then shrugged and slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself. Only one pod's actually functional, the other one's a shell at this point."
+He studied me a second, then shrugged and slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself. Only one pod's actually functional, the other one's a shell."
 
 I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya.
 
-He glanced at the clipboard as he took it back, and something in his posture changed, quick but obvious, a flicker of recognition he didn't bother hiding. "Kazehaya," he said, quieter. "That name mean something to you?"
+He read it as he took the clipboard back. "Kazehaya." He stopped. "Any relation?"
 
-My hand tightened on my bag strap. *"Here we go."* "Depends what you think it means."
+"My dad was Daichi."
 
-"Daichi Kazehaya." He set the clipboard down carefully, both hands flat on the counter. "He built those pods, back when Kazuhaya Tech was still around."
+He set the clipboard down carefully. "Daichi Kazehaya. Are you serious? You're not messing with me?"
 
-I nodded once, slowly. "He was my father."
+"I'm not."
 
-His face softened, something almost apologetic under the recognition. "Leon," he said, offering a hand across the counter. "My sister and I run this place now. Your dad's work is a big reason we're still running at all. I'm sorry for your loss."
+He took a second, one hand flat on the counter, and then he put himself back together. "Okay. Okay. What can I do for you? Anything."
+
+"Just the pod."
+
+"Nobody's heard a word about Kazehaya since everything got pulled off the market," he said. "That's why the second pod's a shell. I can't get anything for it. Nexus got big off his patents and nobody says his name." He held out a hand across the counter. "Leon. My sister and I run this place. I'm sorry for your loss."
 
 I shook it, firm and brief, and let go before my throat could do anything I wasn't going to deal with right now. "Thanks."
 
-Leon nodded toward a back hallway, easy about it. "Pods are through there, second door on the left. Take your time. No one else is using them tonight."
+Leon nodded toward a back hallway. "Pods are through there, second door on the left. Take your time. No one else is using them tonight."
 
 • • •
 
 The pod sat in the corner of a small, dim room that smelled like dust and old plastic. One overhead light caught the curved shell in long, uneven streaks where the casing had been scratched and resealed too many times. I stood in front of it a moment, taking in the worn edges and the faded Kazuhaya Tech logo near the base, a relic from the days when full-dive was still experimental and nobody knew if it would catch on.
 
-*"Dad built this."* It sat heavier in my chest than I wanted, pride and grief tangled together, and I wasn't going to look at it right now. *"Alright. Let's see if I can make it work."*
+I wiped the dust off the shell with my sleeve, slowly, until the whole logo came clear. *"Dad built this."* It sat heavier in my chest than I wanted, pride and grief tangled together, and I wasn't going to look at it right now. *"Alright. Let's see if I can make it work."*
 
 I dropped my bag beside the pod and pulled the sleeve out. The access drive slid free, smaller than I'd expected, black with a single port and the HGO logo etched in thin gold lines that flashed when I turned it in the light. It felt expensive enough to make me nervous holding it.
 
 The pod's access panel opened with a soft click on a mess of old connectors, nothing like the plug-and-play of the third-gen helmets, just a tangle of ports and cables that hadn't been touched in years, dust packed in the gaps. This was going to take a minute.
 
-I opened the manual on the floor beside me. Dad's handwriting crowded the margins, notes from problems nobody else had bothered to solve, and I cross-referenced the diagrams against the panel with my hands already moving. The manual got me the bypass. It didn't get me everything. Whole sections of the harness were missing, pages he'd never written or someone had taken, and I wrote down the gaps in my head for later.
+I opened the manual on the floor beside me and flipped through it first. Three sections, tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them, clean white. *"Room for my own notes."* All of it in one book. *"No wonder they wanted it."* Dad's handwriting crowded the margins, notes from problems nobody else had bothered to solve, and I cross-referenced the diagrams against the panel with my hands already moving. The manual got me the bypass. It didn't get me everything. Whole sections of the harness were missing, pages he'd never written or someone had taken, and I wrote down the gaps in my head for later.
 
 The override wasn't elegant. It forced the pod to accept input it hadn't been built to handle, rerouting power through secondary channels that weren't made for the load, and nothing in the manual promised it would work. The first try threw a red error and the display died. I sat back on my heels and listened to the pod tick as it cooled, reread Dad's margin note, found the connection I'd crossed, and tried again, the same careful motions I'd used on the EB. *"Come on. It has to take."*
 
