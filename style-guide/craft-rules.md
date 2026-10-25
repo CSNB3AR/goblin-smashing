@@ -27,4 +27,4 @@ These are the hard rules. Nothing in `style-guide/voice-technique.md` or anywher
 - **Exposition earns its place by cause and effect.** Every piece of game or world information must lead to the next beat (the sponsor puts the finale on the screen, the finale sets up the announcement, the announcement is how Tatsuya learns of the sale and the prize). A pregame summary followed by a tactical read is an intended broadcast structure, not a dump; keep it short and move on.
 - **Names and places must make sense on the page.** A city is not "in the plains." Check that a place name matches what the place is before it is used.
 - **Commentators sell, they do not know.** In-world announcers read the story as players, state only public facts, cite what they have read (Loop, the HGO forums) and give no spoilers.
-
+- **Plain words (author-stated).** Do not use words normal readers will not understand or that read like a name ("christen", "sallow", "resonant", "shuttered"). Pick the everyday word. Game and tech terms the story itself teaches are fine.
