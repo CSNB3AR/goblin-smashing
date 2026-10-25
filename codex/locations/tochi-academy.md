@@ -16,3 +16,5 @@
 ## Governance: the school council (new)
 
 Tochi's major decisions, including whether to open a real representative qualifier for outside guild competition rather than default to an incumbent, run through an adult council: Chiyo, the Tabuchis, and five other unnamed members. Not a bureaucratic detail to dwell on, just enough structure to make Act Two's representative qualifier read as a real institutional decision rather than an arbitrary event. See `codex/pro-scene/tochi-representative-qualifier.md` for why the council actually opens the slot up now.
+
+- **Why Tochi is safe and what it has (author-stated).** Tochi is the safest place to be: by the prime minister's law it is connected to all politics. It also has the national volleyball and baseball programs. No esports or HGO guild existed there until Eren brought one in. Chiyo wants Tatsuya in school there because she has the money and wants him to focus on school.
