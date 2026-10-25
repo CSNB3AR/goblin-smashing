@@ -62,7 +62,7 @@ Haruto lingered a beat longer than he needed to, his weight still resting slight
 
 "Why not?" Haruto's eyes flicked to the door Eren had walked out of, then back to me. "Better than sitting here letting someone steal from you. Not knocking the job." He nodded once toward the TV, small and deliberate. "I'd just like to see who the brain behind that build looks like in this game."
 
-I rolled my shoulders back and gave him a nod, nothing more spent on it than that. *"Haruto doesn't talk like Eren. And he's wearing Eren's colors, asking about the guy Eren stole from. He's not planning to wear them long."*
+My nod stalled halfway. *"He knows. That was never said out loud, not to anybody but Eren and me."* I finished the nod, nothing more spent on it than that, and rolled my shoulders back. *"Haruto doesn't talk like Eren. And he's wearing Eren's colors, asking about the guy Eren stole from. He's not planning to wear them long."*
 
 Haruto straightened up, pulled his jacket tighter against the cold, and followed Eren out into the night.
 
