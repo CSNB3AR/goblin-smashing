@@ -20,7 +20,7 @@ Keep the author's sentences, rhythm, word choices and punctuation. Change only w
 
 These were story-level fixes made during conversion, listed in `outline/first-person-conversion-log.md`:
 
-- HGO is not an esports story. Tatsuya avoids it because it reminds him of Eren. No analysts, scrims, pro talk or meta talk.
+- HGO is not an esports story. Tatsuya is bitter about it because it reminds him of Eren, but he still keeps up with it casually and likes Dosuke AI; he hates admitting that. No analysts, scrims, pro talk or meta talk.
 - The WattsUp Corporation sponsors HGO, which is why the finale plays on the store screen.
 - Hearthfire, Season Zero, Crownfall (the guild-only Siege event that opens Season One and introduces the Siege battle royale), the 72-hour lock, shillings, Legacy Points, Lumi, patrons and open beta are used everywhere. Kazuku mentions a pro league once as an option in Chapter 1, and Tatsuya stays on the open-world path.
 

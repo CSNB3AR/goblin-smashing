@@ -11,3 +11,5 @@ His build resembles the original concept Tatsuya and Eren theorized together bac
 ## Personality
 
 Quiet, soft-spoken, completely in control. Unmatched awareness and micro-management, sees plays five steps ahead. A patient, strict mentor who builds detailed training routines for chaotic or lower-skilled players. Values discipline and strategy over flashy plays, will instantly bench anyone who strays from the plan. Beneath the calm, serious exterior, deeply protective of his team, quiet, intense pride when they execute perfectly.
+
+**Tatsuya's favorite too (author-stated).** Tatsuya quietly follows and watches Dosuke, and says nothing about the build resemblance. Taji is the loud fan.

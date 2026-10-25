@@ -25,7 +25,7 @@ Chapters 1 to 10 were converted from the author's third-person draft into first 
 
 - Opens with the wake-up block moved from the end of chapter 1.
 - The TV is killed. The Companion App is used for the market, not for builds. The analysts and Dosuke are removed.
-- Race choice: no research. He avoids the Elf row ("That was Eren's build now"), leans toward Human, taps Goblin by accident. NEW (reshaped).
+- Race choice (superseded by the author's Chapter 3 corrections): he wants the Elf Spellforger build, scans across the wheel and brushes Goblin, glitch. He keeps up with HGO casually and likes Dosuke. NEW (reshaped).
 - Lumi, the character-creation guide, is added and glitches. NEW.
 
 ## Chapter 3

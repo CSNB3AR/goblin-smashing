@@ -20,13 +20,17 @@ My phone buzzed in my hand, then again. A text from an unknown number sat at the
 
 That settled it, and my shoulders came up again, but this time with something to aim at. *"Okay. I need to go pick this up. Today, before anything else goes wrong."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
-I took my laptop off the kitchen counter, dropped onto the couch, and opened the HGO Companion App. I wasn't there for the game. I was there for the market. Item sets loaded sorted by zone and rarity, blue gear running five figures in yen for a single piece, legendary gear with no price at all, just auction estimates that made my stomach drop when I scrolled past them.
+I took my laptop off the kitchen counter, dropped onto the couch, and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason it was there. It wasn't. I'd had it open most mornings since the beta started, news feed, patch notes, the finale schedule, my thumb always ready to close it. I hated how much of it I knew.
 
-The sale had pulled a flood of veterans cashing out their avatars for Legacy Points before the lock, and the numbers told me what the ad had. There was real money moving through this game, and a new character with nothing could sit right at the edge of it. I scrolled until I found the floor a newcomer could stand on without paying to be there. Common gear cheap, uncommon attainable if you knew where to farm.
+The feed was still stuck on Saturday. **[Dosuke AI's group cut one step short of the final. Role award for the season.]** I read the headline twice. *"He deserved better than a Saturday exit."* Dosuke was the one player I'd actually sat and watched, the way he ran a fight made sense to me, and his build looked far too much like the one Eren and I used to draw on graph paper. I'd never said that to anybody. I scrolled past it before my jaw could set.
 
-The race table sat on the same page, six numbers down each row. Courage, Power, Wisdom, Speed, Fortune, Energy. I'd seen versions of that table in forums and in shared tablet notes, back when Eren and I argued over which build would break the game. I closed the tab before I got to the Elf row. *"That's Eren's build now. I'm not touching it."* Human, probably. Humans split the difference on everything, the safe pick for someone who didn't want to get locked into the wrong race.
+The market tab was thinner than I'd expected. No shelves of common gear, no flood of sellers. Closed-beta characters were frozen at the lock, everything they'd earned had turned into legacy items, and legacy items were unique. Players could still drop them and sell them, and that was about all that was for sale: single pieces nobody else would ever own a copy of, most of them off last night's fight, running into the hundreds of thousands of yen, a few with no price at all, just auction estimates that made my stomach drop when I scrolled past them.
 
-I shut the laptop and set it on the coffee table. *"I'm not trying to be good at this game. I'm trying to get paid by it."* Nothing on a page was going to tell me how that worked. I had to go in and find out.
+*"So that's where the money is."* There was real money moving through this game, and I needed some of it. Crownfall's ten million yen was the only pool big enough, and nobody got paid for showing up. You got paid for winning, or for getting close enough that people noticed. I couldn't walk in as a nobody with a random character. I needed a strong build, something balanced enough to be productive from the first hour.
+
+The race table sat on the same page, six numbers down each row. Courage, Power, Wisdom, Speed, Fortune, Energy. I opened the Elf row without really deciding to. Wisdom stacked high, Spellforger on top of it, control and burst, the build I'd spent months drawing out with Eren and had never once been able to play. *"Eren's running a copy. Let's see what the original does."* My pulse jumped, half excitement and half nerves. Dad's game, the world he said he helped create, and I was about to stand inside it with a build I actually believed in.
+
+I shut the laptop and set it on the coffee table. *"I've got the build. I've never played a minute of it."* My knee was bouncing, and I made it stop.
 
 My bank balance sat on my phone as a widget at the top of the screen.
 
@@ -38,13 +42,13 @@ I ignored it and opened Loop. My profile loaded, the follower count in the corne
 
 Nine people I didn't know, following an account I barely posted from. I closed it and pulled up the cafe booking app, filtering by ward, then by availability. Third-gen cafes across Shibuya came up first, waiting lists stretching into next year, every slot booked. The sale had driven demand past anything the cafes could handle.
 
-Second-gen pods weren't much better. The Tabuchi-backed cafes had openings, technically, but the earliest was March, three months out. *"Three months. Mom's bills don't wait three months."* My jaw was set by the time I scrolled past the last result I could afford, the clock on the sale ticking in the corner of the screen. I went deeper into the listings anyway, past the ones I'd already written off.
+Second-gen pods weren't much better. Those cafes ran pods built by developers the Tabuchis had put money into, off schematics that had been public record for years, and even they were booked, the earliest opening in March, three months out. *"Three months. Mom's bills don't wait three months."* My jaw was set by the time I scrolled past the last result I could afford, the clock on the sale ticking in the corner of the screen. I went deeper into the listings anyway, past the ones I'd already written off.
 
 A listing halfway down the third page stopped me. Sakura Arcade, a name I didn't know, with a small gray tag reading **[Legacy Hardware - First-Gen Pods Available]**. Walk-ins accepted, limited compatibility with newer titles, and a single line at the bottom.
 
 **[Free after 5 PM on weekdays.]**
 
-*"Free?"* Something small and stupid lifted in my chest, the first thing all afternoon that wasn't dread, and I shut it down before it could get comfortable. It was probably a typo. I clicked through anyway. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises moved on to the third-gen helmets. It shouldn't run HGO at all, not unless you knew what was underneath the casing, and I knew, or close enough. That was all I had to go on, but it was something.
+*"Free?"* Something small and stupid lifted in my chest, the first thing all afternoon that wasn't dread, and I shut it down before it could get comfortable. It was probably a typo. I clicked through anyway. One pod, first-generation Kazuhaya Tech, the same hardware my father built before Nexus Enterprises moved on to the third-gen helmets. First-gen pods were basically extinct, hardware that ran a couple of early VR games and not much else. There was no reason one should run HGO. Maybe it could, if Dad's manual got me lucky. Maybe I'd cross town and find a pod that did nothing but power on. It was a gamble, and it was the only one I could afford.
 
 I checked the time. 3:47 PM. My pulse picked up. The window opened in just over an hour, and I still had to pick up the drive from Nexus first, on an EB that hadn't held a charge since last night. I grabbed my jacket from the back of the couch and went down the hall to Dad's old work room, the smell of old solder and circuit boards hitting me at the door, the smell Momo had complained about for years.
 
@@ -132,7 +136,7 @@ The pod's access panel opened with a soft click on a mess of old connectors, not
 
 I opened the manual on the floor beside me. Dad's handwriting crowded the margins, notes from problems nobody else had bothered to solve, and I cross-referenced the diagrams against the panel with my hands already moving. The manual got me the bypass. It didn't get me everything. Whole sections of the harness were missing, pages he'd never written or someone had taken, and I wrote down the gaps in my head for later.
 
-The override wasn't elegant. It forced the pod to accept input it hadn't been built to handle, rerouting power through secondary channels that weren't made for the load. I worked quickly, my hands steady even though my shoulders were wound tight, the same motions I'd practiced on the EB when it needed repair.
+The override wasn't elegant. It forced the pod to accept input it hadn't been built to handle, rerouting power through secondary channels that weren't made for the load, and nothing in the manual promised it would work. The first try threw a red error and the display died. I sat back on my heels with my pulse in my ears, reread Dad's margin note, found the connection I'd crossed, and tried again, the same careful motions I'd used on the EB. *"Come on. It has to take."*
 
 *"If this fries the drive, I'm done. I can't afford another one."*
 
@@ -188,13 +192,7 @@ The bead bounced once, like the whole speech had been rehearsed for me alone.
 
 A wheel formed in front of me, spinning slowly, each segment marked with a race name and a small icon. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** The Goblin segment sat near the bottom, glowing a dull red next to the brighter colors, and even without reading the stats I could tell it was the lowest-tier option, the joke pick nobody took seriously.
 
-I wasn't attached to any of them. Human asked the least of me, so my hand moved toward it, ready to lock it in and get on to attribute allocation, and then I hesitated, my fingers hovering a few inches from the wheel.
-
-I looked down at the Goblin segment, that dull red glow, almost mocking next to everything else.
-
-*"Just wanna see what it says."*
-
-On impulse I couldn't have explained, I reached out and tapped it. A light touch, barely a press.
+I knew which one I wanted before I'd finished looking. The Elf segment sat near the top, bright and clean, the build I'd been carrying around for months. My hand was already moving, and I dragged my fingers across the wheel to spin it around, scanning past the others in a hurry, past Orc, past Beastfolk, and my fingertip skimmed the dull red Goblin segment without a second thought.
 
 The wheel lurched to a stop.
 
@@ -240,7 +238,7 @@ The line broke off mid-word, the letters fraying at the edge like a bad signal. 
 
 I stared at the words, my breath caught somewhere between my ribs and my throat.
 
-*"No. No no no. That's not what I picked. I was just looking."* I reached for the wheel, trying to go back, trying to undo whatever the power blip had locked in, but the interface didn't respond. The wheel was gone. Only the confirmation screen remained, and under it, one button glowing soft white.
+*"No. No no no. That's not what I picked. I wanted the Elf."* I reached for the wheel, trying to go back, trying to undo whatever the power blip had locked in, but the interface didn't respond. The wheel was gone. Only the confirmation screen remained, and under it, one button glowing soft white.
 
 ***[CONTINUE]***
 
