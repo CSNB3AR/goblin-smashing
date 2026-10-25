@@ -62,7 +62,9 @@ The door swung shut behind them with a soft chime, and the store went quiet agai
 
 I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place.
 
-*"Sure, send Eren. He's too dumb to even think to ask why."* As long as his father's money kept feeding the guild, he'd do whatever he was told. *"But why keep pushing us for the money? Chiyo isn't broke, she's just not paying while the lawyers fight it. It has to be bigger than that."* Every call circled back to Dad's paperwork. The question had been sitting in me since somewhere between the funeral and the third phone call, and I still didn't have an answer. I ran my thumb once along the edge of the counter before I reached for the lights.
+*"Sure, send Eren. He's too dumb to even think to ask why."* I raked a hand back through my locs, and a loose one slid across my face. As long as his father's money kept feeding the guild, he'd do whatever he was told.
+
+*"But why keep pushing us for the money? Chiyo isn't broke, she's just not paying while the lawyers fight it. It has to be bigger than that."* My thumb pressed into the edge of the counter until the laminate bit. Every call circled back to Dad's paperwork, and I still didn't have an answer. I let go of the counter and reached for the lights.
 
 I looked up at the screen. The bear was gone. In its place, the discount banner ran on a loop, gold numbers ticking down a countdown that had just crossed under seventy-two hours.
 
