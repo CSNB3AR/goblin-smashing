@@ -33,3 +33,5 @@ After the world maps release, guild fights over **nodes** (towns, resource sites
 - **National/City showcases**, country- or city-branded guilds backed by real sponsors and governments, top players can be drafted, traded or signed to multi-year contracts.
 
 See `codex/locations/singapore-championship-venue.md` for the host site and `codex/pro-scene/ranking-ladder.md` for individual player ranking.
+
+- **Finale ending (author-stated).** The zone is secured, the prince's soldiers enter and a quest line opens for the winning guild; the points are awarded after it settles. The broadcast uses floating in-game camera orbs and must not look staged.
