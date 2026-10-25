@@ -4,21 +4,27 @@ I woke up wrong, sluggish and heavy, and I knew it before I opened my eyes. Sunl
 
 My phone was still in my hand, the screen dark and cool against my palm. I thumbed it awake: **3:04 PM**.
 
-*"No. No, no, no."* I was off the couch before I was fully awake, the blanket sliding to the floor, my heart already going. The television was still paused on the soldiers marching through the gate. Momo's door stood open and her room was empty, the bed made in the quick, lopsided way she did it on her way out. Taji's side of the couch was cold.
+*"No. No, no, no."* I was off the couch before I was fully awake, the blanket sliding to the floor, my heart already going. *"The morning shift. I told Gato I'd cover the morning."* It wasn't my regular shift, which was the whole reason I'd promised it, and Gato had never once been late on me. *"Gato is going to kill me."*
 
-*"Chiyo is going to kill me. How did I sleep through the whole day?"* The sale clock had been running the entire time, a fifth of its seventy-two hours already gone, and I hadn't even picked up the drive. I stood in the middle of the living room with my phone in one hand, listening for anybody at all, and heard the fridge hum.
+I thumbed my phone open. A message from him sat at the top of the screen, sent before seven.
 
-A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting. I grabbed it too fast and had to read the first line twice.
+**[Opened up myself. Figured you'd be out cold after last night, and that scooter wasn't getting you here anyway. Don't sweat it, kid. Sleep. - Gato]**
+
+I read it twice. The panic drained out of me so fast my legs went soft, and I sat down hard on the arm of the couch. He wasn't mad. He'd called it before I could, and he'd opened the store himself on a shift that was never his to work. I owed him one, and he would never bring it up.
+
+The television was still paused on the soldiers marching through the gate. Momo's door stood open and her room was empty, the bed made in the quick, lopsided way she did it on her way out. Taji's side of the couch was cold. I stood in the middle of the living room, listening for anybody at all, and heard the fridge hum.
+
+A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting.
 
 **[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
-I set the note flat on the counter and smoothed the fold. *"The trip. Right. The trip."* It had been on the calendar stuck to the fridge for two weeks, and I'd still lost track of it. Nobody was waiting on me. Nobody was angry. The only thing I'd missed was sleep I clearly needed, and the rice balls line was pure Chiyo. I read it once more before I put it down. Six days with nobody home but me.
+I set the note flat on the counter and smoothed the fold. *"The trip. Right. The trip."* It had been on the calendar stuck to the fridge for two weeks, and I'd still lost track of it. Nobody was waiting on me. Nobody was angry. The rice balls line was pure Chiyo. I read it once more before I put it down. Six days with nobody home but me.
 
 My phone buzzed in my hand, then again. A text from an unknown number sat at the top of my notifications, sender marked **Nexus Enterprises**.
 
 **[Your HGO Access Drive order has been processed and is ready for pickup. Please collect within 24 hours of this notification. Pickup Code: 4472-KAZE]**
 
-That settled it. The dread from the morning finally had somewhere to go. *"Okay. I need to go pick this up. Today, before anything else goes wrong."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
+That settled it. The sale clock had a fifth of its seventy-two hours gone, the drive was sitting in a store across the city, and I still wasn't dressed. *"Okay. I need to go pick this up. Today, before anything else goes wrong."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
 I took my laptop off the kitchen counter, dropped onto the couch, and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason it was there. It wasn't. I'd had it open most mornings since the beta started, my thumb always ready to close it. I hated how much of it I knew.
 
