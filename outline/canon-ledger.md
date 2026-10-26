@@ -166,3 +166,4 @@ There are **two entirely separate accidents**. Never conflate them.
 - **Lumi.** An avatar, she does not warn him, and she names all five patrons (proposed names in `codex/lore/patrons-and-world-weapons.md`).
 - **Look.** Tatsuya's jersey is Urawa Red Diamonds (real J1 club), see `codex/characters/tatsuya-kazehaya.md`.
 - **OPEN:** the cause of the shutdown; the four patron names (proposals); chapters 7 and later still mention "the override" in a few places (to be softened in the chapter pass).
+- **Urawa Red Diamonds (author-stated).** The club Tatsuya wears is one his dad always followed, so the jersey ties him to Dad.

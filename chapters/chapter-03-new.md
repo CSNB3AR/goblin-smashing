@@ -26,9 +26,9 @@ My phone buzzed. A text from **Nexus Enterprises**.
 
 The sale clock had a fifth of its seventy-two hours gone. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
-I showered fast, wrung out my locs and tied them up high, a few strands left loose along my face, and pulled on my black and red Urawa Red Diamonds jersey, the club I'd always backed, with black joggers, my hoop in and the chain swinging, jacket over my arm.
+I showered fast, hot water on my neck until the smell of the store was gone, then wrung out my locs and tied them up high, a few strands left loose along my face. In my room I pulled on my black and red Urawa Red Diamonds jersey, the club Dad always followed, with black joggers, my hoop in and the chain swinging, jacket over my arm.
 
-I dropped onto the couch and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason. It wasn't. I hated how much of it I knew.
+Out in the living room I dropped onto the couch, hair still damp, and opened the HGO Companion App on my phone. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason. It wasn't. I hated how much of it I knew.
 
 The feed opened on a headline. **[Season Zero final: London Spire, Guild Leader Edmund Vane, 10,800. Aogiri, Guild Leader Lin Haoyu, 10,250. Stillwater, Guild Leader Dosuke AI, fourth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
 
