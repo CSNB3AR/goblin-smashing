@@ -169,7 +169,7 @@ There are **two entirely separate accidents**. Never conflate them.
 - **Urawa Red Diamonds (author-stated).** The club Tatsuya wears is one his dad always followed, so the jersey ties him to Dad.
 
 - **Haya EB electrical design (author-stated, qualitative).** The EB is fully electric: a large traction pack runs the motor. Like every Haya product (the Sedan was a hybrid), it also carries a small 12-volt auxiliary system for the dash, fingerprint lock and controller, so a mechanic with a jump pack and cables can wake it. A traction pack cannot be jumped; the 12-volt can. Dad's manual has the jump procedure and a note that the aux cell sags under load. In chapter 3 Tatsuya diagnoses it on the page (a battery issue), jumps it, swaps the weak cell and lets the EB's own charger top it up. No model numbers set.
-- **Hotel and storage (author-stated).** The family lives in Chiyo's hotel. Dad's old gear and parts are in the basement storage (Chiyo's key), moved there a few months ago so his room could be Tatsuya's again; Dad's own room is barely touched and Tatsuya wants to clean it and work there. Chiyo hired a temp to run the front desk for the six days; the temp is Arya (a joke, not revealed, Tatsuya does not know).
+- **Hotel and storage (author-stated).** The family lives in Chiyo's hotel. Dad's old gear and parts are in the basement storage (Chiyo's key), moved there a few months ago so his room could be Tatsuya's again; Dad's own room is barely touched and Tatsuya wants to clean it and work there. Chiyo hired a temp to run the front desk for the six days; the temp is Arya (Tatsuya does not know yet).
 - **Loop and HGO (notes only, not on the page).** The apps eventually partner and Tatsuya eventually partners with them.
 - **Knowledge rule applied.** He knows the EB died last night (he saw it), not why. The cause is found when he checks it.
 
@@ -185,3 +185,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - **VR entry feel.** As the pod seals he loses his real-world senses one at a time, then depth and a menu in space.
 - **Patron by race (names are proposals).** Seranis: goblins, beastfolk, drakekin. Khazren: dwarves and frostborn (a frostborn-dwarf kingdom). Sylthara: elves. Aurenor: humans. Morvaine: any evil entity. **Orc: OPEN.** See `codex/lore/patrons-and-world-weapons.md`.
 - **OPEN.** Which "Dad mention" the author wanted removed (unspecified); Orc's patron; exact core lifespan; the two overlapping fixes (Leon's hot fix of the building power and Tatsuya's hardwire of the pod) are both canon, one each.
+
+- **Arya at the hotel (author-stated, notes only, never on the page).** The temp Chiyo hired for the front desk is Arya. It is her second job. Tatsuya does not know her yet and does not see her until he is home again after the arcade. She has another job to get to, which is also why the desk gives them room to talk more about the game.

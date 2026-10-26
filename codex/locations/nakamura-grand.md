@@ -12,6 +12,8 @@ A green-covered modern building, several stories, warm-lit windows and entrance,
 - The family's apartment sits above/attached to the hotel building itself, ground floor is the hotel, upstairs is home.
 - Real-world geography: in Tokyo's Shibuya ward (Kanto region), a short Haya EB ride from WattsUp. See `codex/locations/real-world-geography.md`.
 
-- **Basement storage and the temp (author-stated).** The family lives in the hotel. The basement storage cage holds Daichi's old gear and parts, moved there a few months ago when Chiyo boxed it up so the room could be Tatsuya's again. Chiyo hired a temp to run the front desk during her six days away; the temp is Arya (a joke, not yet revealed).
+- **Basement storage and the temp (author-stated).** The family lives in the hotel. The basement storage cage holds Daichi's old gear and parts, moved there a few months ago when Chiyo boxed it up so the room could be Tatsuya's again. Chiyo hired a temp to run the front desk during her six days away; the temp is Arya (Tatsuya does not know yet).
 
 - **High-end and the storage level (author-stated).** The Nakamura Grand is a high-end hotel (stone floor, brass, flowers, quiet). Chiyo texts Tatsuya that she hired someone who will be in later and he should greet her (the temp is Arya, not revealed). The basement storage is a level below the lobby, reached by elevator with Chiyo's key.
+
+- **Arya at the hotel (author-stated, notes only, never on the page).** The temp Chiyo hired for the front desk is Arya. It is her second job. Tatsuya does not know her yet and does not see her until he is home again after the arcade. She has another job to get to, which is also why the desk gives them room to talk more about the game.
