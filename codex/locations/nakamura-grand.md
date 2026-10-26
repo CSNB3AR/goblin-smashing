@@ -12,4 +12,4 @@ A green-covered modern building, several stories, warm-lit windows and entrance,
 - The family's apartment sits above/attached to the hotel building itself, ground floor is the hotel, upstairs is home.
 - Real-world geography: in Tokyo's Shibuya ward (Kanto region), a short Haya EB ride from WattsUp. See `codex/locations/real-world-geography.md`.
 
-- **Basement storage and the temp (author-stated).** The family lives in the hotel. The basement storage cage holds Daichi's old gear and parts, moved there when Chiyo freed rooms for the twins' bedrooms. Chiyo hired a temp to run the front desk during her six days away; the temp is Arya (a joke, not yet revealed).
+- **Basement storage and the temp (author-stated).** The family lives in the hotel. The basement storage cage holds Daichi's old gear and parts, moved there a few months ago when Chiyo boxed it up so the room could be Tatsuya's again. Chiyo hired a temp to run the front desk during her six days away; the temp is Arya (a joke, not yet revealed).

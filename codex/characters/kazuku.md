@@ -18,3 +18,5 @@ Dad's letter (see `codex/characters/daichi-kazehaya.md`) points Tatsuya at the b
 ## Open
 
 - How Tatsuya gets the bear's attention: bring a Dad invention into HGO, rise as a top player and guild, reach Crownfall (plan only, no scene yet). Kazuku mentions a pro league in the Hearthfire ad as an option (see `codex/lore/hearthfire-expansion-and-seasons.md`).
+
+- **Forward plot (author-stated, not on the page).** See `outline/canon-ledger.md`, "Forward plot": Kazuku holds the Sedan's data report showing it was disrupted; the impound wreckage shows tampering; fingerprints lead to a criminal chain; the police may be paid off; Chiyo's yakuza-based family is a counterweight to the Tabuchis; Eren does not know the Tabuchi side.

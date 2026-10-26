@@ -41,3 +41,5 @@ The funeral itself was held and funded by the Tabuchis, which is how Kazuto got 
 - **The manual's contents (author-stated).** Three products: first-gen pod schematics, Haya Sedan schematics and parts, Haya EB values and needs. Blank pages follow, which Tatsuya fills with notes and two items of his own. The three companies are separate: Kazuhaya Tech (Daichi), Nexus Enterprises (built on patents from his schematics) and Tabuchi Enterprises. OPEN: the exact Kazuhaya Tech to Nexus relationship.
 
 - **Design habit (author-stated).** Every Haya product carries a 12-volt system so any mechanic with a jump pack and cables can wake it, which is why the EB, though fully electric, can be jump-started.
+
+- **Forward plot (author-stated, not on the page).** See `outline/canon-ledger.md`, "Forward plot": Kazuku holds the Sedan's data report showing it was disrupted; the impound wreckage shows tampering; fingerprints lead to a criminal chain; the police may be paid off; Chiyo's yakuza-based family is a counterweight to the Tabuchis; Eren does not know the Tabuchi side.

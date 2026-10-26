@@ -67,3 +67,5 @@ Late in the story, Tatsuya discovers his father's connection to Kazuku and the f
 
 - **Mom's surgery debt (author-stated).** The first surgery failed on a blood type mismatch after the family had already sold everything, so the next surgery has no money behind it and a six-month clock (see `codex/characters/ohema-kazehaya.md`). The bill is kept off the page until the hospital visit.
 - **Three businesses (author-stated).** Kazuhaya Tech (Daichi), Nexus Enterprises (built on patents from his schematics) and Tabuchi Enterprises are separate. OPEN: the exact relationship between Kazuhaya Tech and Nexus; Tatsuya has to form that connection.
+
+- **Forward plot (author-stated, not on the page).** See `outline/canon-ledger.md`, "Forward plot": Kazuku holds the Sedan's data report showing it was disrupted; the impound wreckage shows tampering; fingerprints lead to a criminal chain; the police may be paid off; Chiyo's yakuza-based family is a counterweight to the Tabuchis; Eren does not know the Tabuchi side.
