@@ -1,6 +1,6 @@
 # Chapter Three: Into the Game
 
-I woke up wrong, sluggish and heavy, and I knew it before I opened my eyes. Sunlight instead of the dim pre-dawn gray, warm on my eyelids in a way that said it was way past morning.
+I woke up wrong, sluggish and heavy. Traffic noise leaked up from the street, a scooter whining past, a shutter rattling somewhere, and under it the fridge humming in the kitchen. Sunlight instead of the dim pre-dawn gray, warm on my eyelids in a way that said it was way past morning.
 
 My phone was still in my hand, the screen dark and cool against my palm. I thumbed it awake: **3:04 PM**.
 
@@ -10,41 +10,35 @@ A message from him sat at the top of the screen, sent before seven.
 
 **[Opened up myself. Figured you'd be dead on your feet after the night shift. Don't sweat it, kid. Sleep. - Gato]**
 
-I read it twice. *"Damn. He ain't tripping."* The panic drained out of me and I dropped onto the arm of the couch.
+I read it twice. *"Damn. He ain't tripping."* The panic drained out of me and I dropped onto the arm of the couch. A day off, six days with Chiyo gone, and a game waiting. But I couldn't grind that and keep picking up shifts. Sooner or later I'd have to call Gato and step back.
 
-The television was still paused on the soldiers marching through the gate. Momo's door stood open, her room empty, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold. The fridge hummed.
+The television was still paused on the soldiers marching through the gate. Momo's door stood open, her room empty, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
 
 A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting.
 
 **[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
-I smoothed the fold. *"The trip. Right."* It had been on the fridge calendar for two weeks and I'd still lost track. Six days with nobody home but me.
+I smoothed the fold. *"The trip. Right."* It had been on the fridge calendar for two weeks and I'd still lost track. I opened the fridge, found the container of rice and grilled fish she'd left, and ate it standing at the counter, cold. Six days with nobody home but me.
 
 My phone buzzed. A text from **Nexus Enterprises**.
 
 **[Your HGO Access Drive order has been processed and is ready for pickup. Please collect within 24 hours of this notification. Pickup Code: 4472-KAZE]**
 
-The sale clock had a fifth of its seventy-two hours gone and I still wasn't dressed. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
+The sale clock had a fifth of its seventy-two hours gone. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
-I went straight for the shower, scrubbed the night shift off, wrung out my locs and tied them up, and came out in a worn J1 jersey and black joggers from one of those Japanese sportswear companies, my hoop in, the chain swinging, jacket over my arm and boots half laced.
+I showered fast, wrung out my locs and tied them up high, a few strands left loose along my face, and pulled on my black and red Urawa Red Diamonds jersey, the club I'd always backed, with black joggers, my hoop in and the chain swinging, jacket over my arm.
 
 I dropped onto the couch and opened the HGO Companion App. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason. It wasn't. I hated how much of it I knew.
 
-The feed opened on a headline. **[Season Zero final: London Spire, led by Edmund Vane, 10,800. Aogiri, led by Lin Haoyu, 10,250. Stillwater, led by Dosuke AI, fourth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
+The feed opened on a headline. **[Season Zero final: London Spire, Guild Leader Edmund Vane, 10,800. Aogiri, Guild Leader Lin Haoyu, 10,250. Stillwater, Guild Leader Dosuke AI, fourth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. I'd never said that to anybody. I scratched at my goatee, then tapped over to the market.
 
-The auction board was thin. No shelves of common gear, prices swinging between refreshes. Closed-beta characters were frozen at the lock, so everything they'd earned was now a legacy item, and legacy items were unique. Players could drop and sell them, and that was about all that was for sale: single pieces nobody else would ever own, most of them off last night's fight, some in the hundreds of thousands of yen, some with only an estimate and more zeroes than my whole bank balance.
+The auction board was packed. Unique legacy items from the closed beta sat at the top with millions on them, prices you read twice. Under them, new listings stacked up with every refresh, fresh gear and raw materials from players who'd started over a few hours ago, everybody back on the same line. A posting fee and a cut on every sale. *"That tax eats most of it before the seller sees a yen."*
 
-Then the cost. Every listing carried a posting fee up front and another cut when it sold. *"That tax eats most of it before the seller sees a yen."* I kept scrolling. I had nothing to sell yet. *"But the board's this empty and the game's still new. One lucky drop, one quest nobody's run, and I'd have something to wear and something to sell."*
-
-*"So that's where the money is."* Crownfall's ten million was the only pool big enough, and its page was short.
-
-**[CROWNFALL: GUILDS ONLY. 10 TO 20 PARTICIPANTS PER GUILD.]**
-
-The app's guild page wanted five names just to register one. *"Five to start. Ten to enter. Twenty slots."* London Spire's forty million had been split fifty ways, by contribution, and plenty of those names got a sliver. Ten million cut the same way wasn't going far unless I carried the guild. I needed a strong build, balanced enough to be productive from the first hour.
+*"Everything's new. Nobody's ahead."* The closed beta was over and the gates were open, and a whole wave of players was pouring in. I was part of that wave, not behind every single one of them. *"The earlier I'm in, the more I can pull out of it. Items, quests, anything that sells."* Crownfall's ten million was the only pool big enough, and it was guild-only, and a guild split everything. I needed a balanced build I could be productive with from the first hour.
 
 The race table sat on the same page. I opened the Elf row without really deciding to. Wisdom stacked high, Spellforger on top, the build I'd spent months drawing out with Eren and never once played. Eren had a copy now with his name on it, and Haruto had looked straight through it last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* Eren had the build. He didn't know how to run it.
 
-*"Let's see what the original does."* I caught myself grinning at the screen and checked the empty room to make sure nobody had seen. Half excitement, half nerves. Dad's game, the world he said he helped create, and I was about to stand inside it with a build I believed in.
+*"Let's see what the original does."* I caught myself grinning at the screen and checked the empty room to make sure nobody had seen. Half excitement, half nerves. Dad's game, the world he said he helped create, and I was about to stand inside it. *"If I run into that son of a bitch in there, I can't be the one who gets outmatched."* It wasn't revenge. It was a grudge, and Haruto's face crossed my mind with it.
 
 *"Six days."* Chiyo would be back by then, and I wanted something to show her. *"I've got the build. I've never played a minute of it."* I was perched on the edge of the cushion, and I made myself lean back.
 
@@ -54,19 +48,13 @@ My bank balance sat as a widget at the top of the screen.
 
 Every month I paid Chiyo what she asked, groceries and a small bill. It was never the real number, and we both knew it. It still felt good to put it in her hand.
 
-I opened Loop, the follower count a number that hadn't moved in six months.
+I opened Loop, the big social app where everything happened, gaming included, and where HGO kept saying the two apps would link up eventually. I followed the HGO account, followed Yuna, followed a few players I wanted news from. *"Start using this for real."*
 
-**[9 followers]**
+Then the cafe booking app. The sale and the open beta had every cafe in the city booked solid, third-gen waiting lists stretching into next year. Second-gen cafes ran pods built by developers the Tabuchis had put money into. The developers hadn't done anything to me, and I still wasn't putting a yen into anything the Tabuchis stood behind. The earliest opening was March anyway. *"Three months. Chiyo's not going to wait three months."* It was why I'd never gone deep into other VR. Every mainstream game ran on second-gen.
 
-Nine people I didn't know. I closed it and pulled up the cafe booking app. The sale and the open beta had every cafe in the city booked solid, third-gen waiting lists stretching into next year.
+I went down every list and every source. Nothing. Then, at the bottom of the third page, a gray tag: **[Legacy Hardware - First-Gen Pods Available]**. Sakura Arcade. Limited compatibility with newer titles. **[Free after 5 PM on weekdays.]**
 
-Second-gen cafes ran pods built by developers the Tabuchis had put money into. The developers hadn't done anything to me, and I still wasn't putting a yen into anything the Tabuchis stood behind. The earliest opening was March anyway. *"Three months. Chiyo's not going to wait three months."* It was why I'd never gone deep into other VR. Every mainstream game ran on second-gen, and the first-gen stuff was a few retro games I'd played back when I had the time. I rubbed two fingers along my goatee and went deeper into the listings.
-
-A listing halfway down the third page stopped me. Sakura Arcade, with a small gray tag: **[Legacy Hardware - First-Gen Pods Available]**. Walk-ins accepted, limited compatibility with newer titles, and one line at the bottom.
-
-**[Free after 5 PM on weekdays.]**
-
-*"Free?"* Something small and stupid lifted in my chest, the first thing all afternoon that wasn't dread, and I shut it down. Probably a typo. I clicked through. One pod, first-gen Kazuhaya Tech, the hardware my father built before Nexus moved on to the third-gen helmets. First-gen pods were basically extinct, good for a couple of early VR games and not much else. No reason one should run HGO. Maybe it could, if Dad's manual got me lucky. It was a gamble, and the only one I could afford.
+First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work out in the world. It could be an old place with a listing nobody had taken down, and the listing itself said it couldn't do much. But forum threads said people had already gotten in there. I rubbed two fingers along my goatee. *"It's my only option. I'm going to have to gamble on it."* Whether it would even work once I got there, I had no idea.
 
 3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB hadn't held a charge since last night. I laced my boots and went down the hall to my room, the corner my father had worked out of, the smell of old solder and cold circuit boards hitting me at the door.
 
@@ -116,7 +104,7 @@ Sakura Arcade sat on a side street between a closed ramen shop and a convenience
 
 *"This is it? Doesn't look like much."* I parked the EB around the side, hung the helmet on one handlebar, and went to the door with my backpack on.
 
-Inside, it smelled like old carpet and something floral. Themed gaming chairs lined the walls in neat rows, each facing a monitor, most of them dark. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
+Inside, warm lantern lamps hung over brick pillars and steel beams, desks and monitors down one wall, and two tall dark pods standing in the open floor with cable bundles running up their sides and a blue glow in the seams. Everything was clean, everything cared for. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
 
 Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, dark hair pulled back in a small knot, an unlit cigarette tucked behind one ear and a smear of grease across his thumb.
 
@@ -152,109 +140,63 @@ Leon nodded toward a back hallway. "Pods are through there, second door on the l
 
 • • •
 
-The pod sat in the corner of a small, dim room that smelled like dust and old plastic. One overhead light caught the curved shell where the casing had been scratched and resealed too many times, the faded Kazuhaya Tech logo near the base.
+The pod room was clean, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
-I wiped the dust off the shell with my sleeve, slowly, until the whole logo came clear. *"Dad built this."* It sat heavier in my chest than I wanted, pride and grief tangled together, and I wasn't going to look at it right now. *"Alright. Let's see if I can make it work."*
+I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I opened the manual on the floor. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* All of it in one book. *"No wonder they wanted it."*
 
-I dropped my bag beside the pod and pulled the sleeve out. The access drive slid free, smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. It felt expensive enough to make me nervous.
-
-The access panel opened with a soft click onto a mess of old connectors, nothing like the plug-and-play of the third-gen helmets, dust packed in the gaps. This was going to take a minute.
-
-I opened the manual on the floor and flipped through it first. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* All of it in one book. *"No wonder they wanted it."* I cross-referenced the diagrams against the panel with my hands already moving. The manual got me the bypass, not everything. Whole sections of the harness were missing, pages he'd never written or someone had taken.
-
-The override wasn't elegant. It forced the pod to accept input it hadn't been built to handle, and nothing in the manual promised it would work. The first try threw a red error and the display died. I sat back on my heels, reread Dad's margin note, found the connection I'd crossed, and tried again. *"Come on. It has to take."*
-
-*"If this fries the drive, I'm done. I can't afford another one."*
-
-The drive clicked into place with a sound that felt final, and the pod's internal display flickered on, text scrolling too fast to read, system checks running themselves. I snapped the panel shut and stood there with my hands tingling from the work. *"Moment of truth."*
-
-I climbed in, the padding worn and compressed from years of use, and lay back as the shell hissed shut above me. The heads-up display lit inside my visor, white text on black. I told myself to slow down my breathing and let the numbers settle.
+I seated the drive in the port beside the headrest and climbed in. The shell hissed shut, and the display came up white on black, a plain menu with nothing fancy on it. I went into the drive. Everything looked normal.
 
 ***[KAZUHAYA TECH FIRST-GENERATION VRPOD]***
 
-***[INITIALIZING...]***
-
 ***[DRIVE DETECTED: HGO ACCESS LICENSE]***
 
-***[WARNING: HARDWARE INCOMPATIBILITY DETECTED]***
-
-***[OVERRIDE ENABLED]***
-
-***[PROCEEDING...]***
+***[LOADING...]***
 
 The display went dark. Then the world did.
 
-Sound came first, a low hum building underneath everything, bass-heavy, loud enough that I felt it in my teeth. Then light, bright enough that my eyes watered before the system adjusted. I was standing in a white void, no walls, no floor I could see, just empty space in every direction, the kind of nothing that should have been disorienting and wasn't.
+Sound came first, a low hum building underneath everything. Then light, bright enough that my eyes watered before the system adjusted. I was standing in a white void, no walls, no floor I could see.
 
 *"Holy shit. It worked."* My shoulders dropped for the first time since I'd woken up, and the grin tried to happen before I caught it. I was actually in.
 
-Text floated at eye level, clean white letters with no shadows.
-
 ***[WELCOME TO ERYNDAL]***
 
-***[CHARACTER CREATION WILL NOW BEGIN]***
+A girl stepped out of the white, long white-silver hair falling to her waist, red eyes, a white dress with puffed sleeves, a small smile like she'd been waiting for me.
 
-A small bead of light drifted out of the white and settled in front of me, bobbing in place, and a bright, bubbly voice rang out of nowhere.
+***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it. Everything you earn stays with you, and nothing resets when you log off.]***
 
-***[Hi there! I'm Lumi, your guide to Eryndal! Let's find the perfect you!]***
+I knew all of it. Taji had recited it at the breakfast table like scripture, and I'd tuned out every word.
 
-*"Another mascot. Of course."* I huffed out something close to a laugh and kept my eyes on the bead.
+***[Eryndal is watched over by five patrons! Seranis, goddess of creation, watches over the demi-humans. Sylthara watches over the elves, Aurenor the humans, and Khazren the dwarves. And Morvaine? Their gifts come with a price, so most adventurers keep their distance! Choose your race, and the patron who favors it will bless you.]***
 
-The bead bobbed higher, plainly pleased with itself, and kept talking.
+*"Five gods, and one of them's bad news."*
 
-***[First, a little about where you're going! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it. Everything you earn stays with you, the people you meet remember what you do, and nothing resets when you log off.]***
+A wheel formed in front of me, each segment marked with a race name and a small icon. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** I went straight to the Elf and the stats opened beside it, Wisdom stacked high, exactly what I'd come for.
 
-I knew all of it. Taji had recited it at the breakfast table like scripture, and I'd tuned out every word. I shifted my weight on the nothing under my boots and let her keep going.
+***[Elf! Graceful, gifted, and born to the old magic!]***
 
-Lumi swirled in a lazy circle, trailing sparks, and her voice dropped like she was sharing a secret.
+*"That's the one."* But I wanted to see them all first, so I tapped through the others one by one, and each time Lumi said the name and started in on a line about the race. Human, balanced. Dwarf, sturdy. Orc, hard to put down. I read the numbers and let her talk, thumbing past Beastfolk, Frostborn, Drakekin, until Goblin was the last one left, the lowest numbers on the wheel.
 
-***[Eryndal is watched over by five patrons! Each one favors a people and gifts them something no one else gets. Seranis, goddess of creation, watches over the demi-humans. The others watch over the elves, the humans and the dwarves. And the fifth? Their gifts come with a price, so most adventurers keep their distance!]***
+A warmth had been creeping up the inside of the shell, and I hadn't noticed until a fan under the headrest whined up and cut out. I tapped Goblin.
 
-*"Five gods, and one of them's bad news. Eren would've had his pick memorized by now."* The old plastic of the pod squeaked against my jacket, and I decided I could care about it after I'd picked a face.
+***[Goblin! The cunning little—]***
 
-The bead bounced once, like the whole speech had been rehearsed for me alone.
-
-***[Choose your race, and the patron who favors it will bless you. Ready? Let's begin!]***
-
-A wheel formed in front of me, spinning slowly, each segment marked with a race name and a small icon. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** The Goblin segment sat near the bottom, glowing a dull red next to the brighter colors, and even without reading the stats I could tell it was the lowest-tier option, the joke pick nobody took seriously.
-
-I knew which one I wanted before I'd finished looking. The Elf segment sat near the top, bright and clean, the build I'd been carrying around for months. My hand was already moving, and I dragged my fingers across the wheel to spin it around, scanning past the others in a hurry, past Orc, past Beastfolk, and my fingertip skimmed the dull red Goblin segment without a second thought.
-
-The wheel lurched to a stop.
-
-***[Oh! W-wait, that segment isn't...]***
-
-Lumi's voice tripped over itself and stretched thin, and the bead shuddered at the edge of my vision.
-
-The lights flickered.
-
-Not just in the pod, everywhere. The hum cut off mid-note, and the white void dissolved into a weightless black that made my stomach drop. My hand shot out for something solid that wasn't there, my body hunting for an up or a down that didn't exist anymore.
+Her voice stretched thin and snapped. The hum cut off mid-note, the light went out, and the white void collapsed into a weightless black. My hand shot out for something solid that wasn't there.
 
 *"What the hell."*
 
-Sound crackled back in, warped and wrong, and Leon's voice cut through the dark from outside the pod, muffled but clear.
+Sound crackled back, warped and wrong, and Leon's voice came through the shell, muffled. "Hey, you alright in there?"
 
-"Hey, you alright in there?"
+"Yeah," I called back, voice tight. "I'm fine."
 
-I blinked hard, but there was nothing to see except the afterimage of the white void. "Yeah," I called back, voice tight. "I'm fine."
+"Power flickered on my end. These old pods run hot, so it could've been either." His boots scuffed away. "Let me know if it kicks again."
 
-"Backup generator just kicked in," Leon said, closer now, right outside the shell. "System should stabilize in a second. You running anything unusual in there?"
-
-*"Do I tell him? Does he even know about the override?"* The pod's external monitor had been dark when I walked in, a dead screen Leon had never bothered to fix because solo sessions went unmonitored, which meant he couldn't see anything that was happening in character creation. He didn't know, and he couldn't know unless I told him.
-
-"No," I said, as level as I could make it. "Just character creation. Standard stuff."
-
-"Alright." His boots scuffed away. "Let me know if it kicks again. Might be the age of the hardware, these things aren't built like they used to be."
-
-The lights stabilized, and the hum came back lower and steadier. The white void flickered into place around me, walls resolving out of nothing, and the character-creation wheel reappeared, but it wasn't spinning anymore. The bead of light was gone. Whatever Lumi had been about to say, she wasn't there to say it.
-
-The Goblin segment, the one that had been glowing dull red a moment ago, now burned bright green, pulsing faintly, locked in and waiting for me. Text appeared beneath it, clean and final.
+The pod coughed, the hum came back lower, and the light crept in. The drive in the port beside my head was lit, and it wasn't white anymore. It glowed green. The white void flickered into place around me, and the wheel was back, but it wasn't spinning. Lumi was gone. The Goblin segment burned the same green as the drive, locked in and waiting for me.
 
 ***[RACE SELECTED: GOBLIN]***
 
 ***[Now, which of the five will you ch—]***
 
-The line broke off mid-word, the letters fraying at the edge like a bad signal. I stared at the empty spot where Lumi's bead had hung.
+The line broke off mid-word, the letters fraying at the edge like a bad signal. I stared at the empty spot where she'd stood.
 
 ***[PATRON ASSIGNED BY DEFAULT: SERANIS, GODDESS OF THE DEMI-HUMANS]***
 
@@ -262,9 +204,7 @@ The line broke off mid-word, the letters fraying at the edge like a bad signal. 
 
 ***[PROCEEDING TO ATTRIBUTE ALLOCATION...]***
 
-I stared at the words, and they didn't change no matter how many times I read them.
-
-*"No. No no no. That's not what I picked. I wanted the Elf."* I reached for the wheel, trying to go back, trying to undo whatever the power blip had locked in, but the interface didn't respond. The wheel was gone. Only the confirmation screen remained, and under it, one button glowing soft white.
+*"No. No no no. That's not what I picked. I wanted the Elf."* I reached for the wheel, trying to go back, but the interface didn't respond. The wheel was gone. Only the confirmation screen remained, and under it, one button glowing soft white.
 
 ***[CONTINUE]***
 

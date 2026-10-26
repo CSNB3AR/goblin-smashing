@@ -53,3 +53,12 @@ When a beat lands, move on. Do not follow it with a sentence that restates what 
 ## A revision replaces, it does not add
 
 When a chapter is revised, new beats replace or fold into the lines already there. A revised chapter should not end up longer than its source unless the author asks. Add a beat only by cutting the sentence it makes redundant. Check with `python3 tools/chapter_check.py <new> --source <old>`.
+
+
+## Use what you bring up
+
+Do not mention a sensory detail or object you do not use. If the fridge hums, he goes to the fridge. If it is only noise, tie it to something he does (city sounds reach him on the couch before he gets up). Every detail either gets used or gets cut.
+
+## Do not overexplain; he learns on the page
+
+Do not explain systems or numbers up front. His advantage is his game knowledge, and he learns the troop system, the guild numbers and the rest by playing. Give the reader the same moment of discovery.

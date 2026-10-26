@@ -12,10 +12,10 @@ Forward canon. The patron system and the seven world weapons are set up here so 
 | Slot | Patron | Race group (working match to the eight races) | Trait that helps the group | Status |
 |---|---|---|---|---|
 | 1 | **Seranis** | Demi-humans: Goblin, Beastfolk, and Orc (Orc is a working match, OPEN) | OPEN (to be written with the other traits) | Written below |
-| 2 | OPEN, unnamed | Elf | OPEN | Waiting on the author |
-| 3 | OPEN, unnamed | Human | OPEN | Waiting on the author |
-| 4 | OPEN, unnamed | Dwarf (Frostborn shares Valefrost with the dwarves, whether they follow this patron is OPEN) | OPEN | Waiting on the author |
-| 5 | OPEN, unnamed, the evil one | The remaining races (Drakekin at least, and any of Orc or Frostborn not placed above, OPEN) | OPEN | Waiting on the author |
+| 2 | **Sylthara** (PROPOSED name, easy to rename) | Elf | OPEN | Name proposed, rest waits on the author |
+| 3 | **Aurenor** (PROPOSED name, easy to rename) | Human | OPEN | Name proposed, rest waits on the author |
+| 4 | **Khazren** (PROPOSED name, easy to rename) | Dwarf (Frostborn shares Valefrost with the dwarves, whether they follow this patron is OPEN) | OPEN | Name proposed, rest waits on the author |
+| 5 | **Morvaine** (PROPOSED name, easy to rename), the feared and evil one | The remaining races (Drakekin at least, and any of Orc or Frostborn not placed above, OPEN) | OPEN | Name proposed, rest waits on the author |
 
 The grouping above is a working match only, so every race has a patron to point at. The author decides the real groups.
 
@@ -79,3 +79,5 @@ The **one relic among Shiv's Warset items** (see `codex/characters/shiv.md`, `co
 - How the patron is applied to Tatsuya given the goblin glitch (Lumi's selection is interrupted), and when and how he obtains the staff.
 - Whether "one of the holders" at the Battle of Thrash Hill (user's note) means a holder of a world weapon among PK_Wraith's side. Not in Chapter 10 now.
 - How much of the Church of Seranis (Popes, doctrine, healer arts) appears in the story, and whether a player class or cleanse line is tied to it.
+
+**Names proposed (author asked that Lumi name all five patrons on the page).** Sylthara (elves), Aurenor (humans), Khazren (dwarves), Morvaine (the feared patron whose gifts come with a price), with Seranis for the demi-humans. These are placeholders so the character-creation scene reads right; the author renames freely. Domains, traits and flair stay OPEN.

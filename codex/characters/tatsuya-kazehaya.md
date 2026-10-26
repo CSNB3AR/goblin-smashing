@@ -103,3 +103,5 @@ Essentially never travels outside Shibuya ward. His day-to-day world (WattsUp, t
 - **Keeps up with HGO casually (author-stated).** Has the Companion App because WattsUp makes staff carry it, and uses that as cover for following the game; hates admitting it. Dosuke AI is one of his favorite players to watch. Goes into the game for money, which means a strong build for Crownfall: his first choice is the Elf Spellforger build he designed, until the glitch. Excited, a little naive, nervous.
 
 - **Dressed (author-stated).** Locs tied up, earrings in, soccer-oriented drip: J1 League jerseys and joggers from a Japanese sportswear company, no brand names on the page.
+
+- **Visual reference, updated (author's picture, `codex/characters/reference/tatsuya-urawa-jersey.png`).** Black and red Urawa Red Diamonds jersey, a real J1 League club he supports (the author asked for a named club). Locs tied up high with loose strands left framing his face, faded sides, thin goatee, brown eyes, a hoop earring. Dark brown skin.

@@ -250,7 +250,7 @@ The inspector packed up his gear, tablet and tools disappearing into a branded c
 
 Leon dropped into the chair at the operator's booth, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
 
-"Alright," Leon said, glancing over the readouts once, then back to me. "Since we overrode this thing, we're gonna need to take breaks. If we don't, it'll overheat, and that's not safe for you to be in if it does."
+"Alright," Leon said, glancing over the readouts once, then back to me. "Since this thing was never built for HGO, we're gonna need to take breaks. If we don't, it'll overheat, and that's not safe for you to be in if it does."
 
 *"Right. Makes sense."* I climbed into the pod, the padded interior cool against my back, and pulled up my account settings on the small HUD that flickered to life in my vision. Based on what I'd read in the forums, you needed to preset streaming before entering and loading the game, not after.
 
