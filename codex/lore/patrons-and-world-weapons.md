@@ -95,3 +95,18 @@ Lumi's patron line on the page lists Seranis, Sylthara, Aurenor, Khazren and Mor
 
 ## Default patrons and switching (author-stated)
 - **Patron rule (author-stated).** A race's patron is a **default**. Players can switch patrons and do not have to follow the default. Most NPCs follow their race's default patron, except a few who break from it, and a few who cannot switch because of a god's influence (exact reading OPEN). Defaults: Seranis for goblins, beastfolk and drakekin; Khazren for dwarves and frostborn; Sylthara for elves; Aurenor for humans; Morvaine for any evil entity. **Orc default: Morvaine (my reading of "default", flagged OPEN).** Orcs and Drakekin carry a "wicked by nature" reputation in the world's eyes, but individuals can be neutral or shaded; whether the label has a mechanical effect (affiliation or karma) is OPEN.
+
+
+## Core characteristics and blessings (author-requested; names and traits are PROPOSALS, easy to rename)
+
+Not every patron is "good" or "evil". People follow a patron for belief and temperament, the way alignment works in real faith: **who do you follow, and what do you believe**. Each patron gives a **blessing**, a small beneficial gift tied to that belief, not a pile of buffs. **Players decide whom to follow.** A race default is only a starting point, so following a patron says something about the person, not only the race. Blessing numbers are OPEN.
+
+| Patron | Belief | Temperament | Who follows, and why | Lean | Blessing (qualitative) |
+|---|---|---|---|---|---|
+| **Seranis** | Everyone deserves a second shape; creation and mending | Playful, unpredictable, chooses odd bearers | Outcasts, makers, survivors, the misjudged | Chaotic good | A favor of recovery |
+| **Sylthara** | Preserve what lasts; harmony with the old forests | Serene, proud, patient | Scholars, rangers, those who value order and lineage | Lawful neutral | A magical attunement |
+| **Aurenor** | What you build and promise defines you | Warm, restless, ambitious | Merchants, soldiers, builders, the driven | Neutral good | Versatility |
+| **Khazren** | Work and loyalty outlast everything | Stern, steady, stubborn | Smiths, miners, guards, anyone who respects a hard day's work | Lawful | Endurance and craft |
+| **Morvaine** | Power has a price, and the strong pay it | Patient, tempting, transactional | Not only the wicked but the desperate, the proud, and anyone who refuses to beg | Neutral to evil | Power now, cost later |
+
+Notes: Seranis builds on what is already written (creation, life, her sense of humor, odd chosen bearers). Morvaine matches Lumi's line that their gifts come with a price. The Orc default to Morvaine stays flagged OPEN.
