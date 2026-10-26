@@ -258,7 +258,7 @@ Full detail lives in `codex/pro-scene/tournaments-and-events.md` and `codex/lore
 - **Season Zero bracket background:** Kansai Black Lotus (Eren's guild) missed the top eight because Arya's small guild, Crimson Static, took the last spot by winning the Fire Festival guild event "The Second Dawn." Dosuke AI's guild fell on Saturday. None of this needs to land on the page in Chapter 1.
 
 ### Currency
-**Shillings** are the in-game currency. 10 shillings = 1 HGO Coin = 2 yen. Prices on the page stay in yen. See `codex/lore/hearthfire-expansion-and-seasons.md`.
+**Shillings** are the in-game currency. 10 shillings = 1 HGO Coin = 4 yen. Prices on the page stay in yen. See `codex/lore/hearthfire-expansion-and-seasons.md`.
 
 ### Timeline
 - HGO's closed beta (Season Zero) ran roughly eight to nine months, about 5,000 players from roughly 870,000 pre-orders (see `codex/lore/timeline-and-beta.md`).
