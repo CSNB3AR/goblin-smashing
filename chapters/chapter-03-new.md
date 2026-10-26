@@ -16,7 +16,7 @@ The television was still paused on the soldiers marching through the gate. Momo'
 
 A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting.
 
-**[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. A temp takes the front desk this afternoon. Please eat something real, not just convenience store rice balls. Chiyo]**
+**[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
 I smoothed the fold. *"The trip. Right."* It had been on the fridge calendar for two weeks and I'd still lost track. I opened the fridge, found the container of rice and grilled fish she'd left, and ate it standing at the counter, cold. Six days with nobody home but me.
 
@@ -60,7 +60,7 @@ First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work
 
 I wasn't leaving the manual on that shelf anymore. I pulled it down, the letter still hidden in the controller diagrams where I'd tucked it, and flipped to the electrical section until a note in his slanted handwriting stopped my thumb. **Aux cell sags under load. Jump at the marked terminals, then swap or recondition.** I put the manual, his toolbox and my laptop in my bag and took it all downstairs.
 
-The front desk was empty, the bell untouched, nobody in yet. The service door to the basement storage was behind it. I took Chiyo's key off the hook and unlocked the cage. Boxes lined the shelves, labeled in Dad's blocky hand. Chiyo had moved most of his old gear down here a few months back. I dug until I found one marked EB: a jump pack, cables, a spare 12-volt cell, a coil of wire, a handful of connectors. *"Everything he built could be fixed."*
+The lobby of the Nakamura Grand was all pale stone and brass, a flower arrangement on the round table, the front desk empty, the bell untouched. My phone buzzed. **[Chiyo: Hired someone to cover the desk. She'll be in later, so be nice and say hello.]** I took the key off the hook behind the desk and rode the service elevator down to the storage level. The cage was lined with boxes labeled in Dad's blocky hand. Chiyo had moved most of his old gear down here a few months back. I dug until I found one marked EB: a jump pack, cables, a spare 12-volt cell, a coil of wire, a handful of connectors. *"Everything he built could be fixed."*
 
 The EB sat where I'd left it around back, black paint still clean, dash dead. I propped it on its stand and plugged my laptop into the service port before I touched anything. The big pack read full. The 12-volt that ran the dash and the controller read six and a half and sagged the second I asked it for anything. *"That's why the dash died on me."* The EB was fully electric, the big pack ran the motor, but Dad never built anything without a 12-volt system, same as the Sedan, so any mechanic with a jump pack and cables could wake it. A traction pack can't be jumped. The 12-volt can. You didn't guess, you measured and let the machine show you where it hurt. It was the reason Tochi had let me in on merit, and the only part of that place I'd never had to defend. I clamped the jump pack to the marked terminals, red to red, and the dash flickered awake. I held it until the controller settled, swapped the sagging cell for the spare from the box, and let the EB's own charger top it up. Twenty minutes, and I didn't breathe easy until I pressed my thumb to the screen.
 
@@ -122,19 +122,13 @@ I wrote my name across the top line in the same clean block letters I'd used sin
 
 He read it as he took the clipboard back. "Kazehaya." He stopped. "Any relation?"
 
-"My dad was Daichi."
+I felt it land in my chest before I said anything. Nobody here knew me. I could have shrugged it off. "Yeah," I said. Then, slower, "The man who built those pods is my dad."
 
-He set the clipboard down carefully. "Daichi Kazehaya. Are you serious? You're not messing with me?"
-
-"I'm not."
-
-He took a second, one hand flat on the counter, and then he put himself back together. "Okay. Okay. What can I do for you? Anything."
-
-"Just the pod."
-
-"Nobody's heard a word about Kazehaya since everything got pulled off the market," he said. "That's why the second pod's a shell. I can't get anything for it. Nexus got big off his patents and nobody says his name." He held out a hand across the counter. "Leon. My sister and I run this place. I'm sorry for your loss."
+Leon went quiet. His eyebrows climbed and stayed there, and he set the clipboard down very carefully. "Huh," he said. "Okay." Then he shrugged, the way you do when something is bigger than the counter you're standing behind. "That explains the 'that's fine.'" He held out a hand. "Leon. My sister and I run this place. I'm sorry for your loss."
 
 I shook it, firm and brief, and let go before my throat could do anything I wasn't going to deal with right now. "Thanks."
+
+"The second pod's a shell," he said. "Second-gen runs off all-new parts, nobody touches third-gen hardware without a lawsuit, and first-gen parts dried up when Kazuhaya's stuff got pulled. I can't fix it."
 
 Leon nodded toward a back hallway. "Pods are through there, second door on the left. Take your time. No one else is using them tonight."
 
@@ -142,21 +136,13 @@ Leon nodded toward a back hallway. "Pods are through there, second door on the l
 
 The pod room was clean, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
-I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I opened the manual on the floor. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* All of it in one book. *"No wonder they wanted it."*
+I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* All of it in one book. *"No wonder they wanted it."*
 
-I seated the drive in the port beside the headrest and climbed in. The shell hissed shut, and the display came up white on black, a plain menu with nothing fancy on it. I went into the drive. Everything looked normal.
+The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I climbed in. The shell hissed shut.
 
-***[KAZUHAYA TECH FIRST-GENERATION VRPOD]***
+The arcade went first, Leon's voice at the counter and the hum of the monitors thinning out until they were gone. Then the smell of dust and plastic. Then the padding against my back, and the weight of my own arms, until I couldn't tell where my body stopped and the dark began. A drop, like missing a stair, and light came up all around me.
 
-***[DRIVE DETECTED: HGO ACCESS LICENSE]***
-
-***[LOADING...]***
-
-The display went dark. Then the world did.
-
-Sound came first, a low hum building underneath everything. Then light, bright enough that my eyes watered before the system adjusted. I was standing in a white void, no walls, no floor I could see.
-
-*"Holy shit. It worked."* My shoulders dropped for the first time since I'd woken up, and the grin tried to happen before I caught it. I was actually in.
+I was standing in a white void, and it had depth. A floor under my boots, distance I could judge, my own hands in front of me when I lifted them. *"Holy shit. It worked."* My shoulders dropped for the first time since I'd woken up, and the grin tried to happen before I caught it.
 
 ***[WELCOME TO ERYNDAL]***
 
@@ -166,31 +152,35 @@ A girl stepped out of the white, long white-silver hair falling to her waist, re
 
 I knew all of it. Taji had recited it at the breakfast table like scripture, and I'd tuned out every word.
 
-***[Eryndal is watched over by five patrons! Seranis, goddess of creation, watches over the demi-humans. Sylthara watches over the elves, Aurenor the humans, and Khazren the dwarves. And Morvaine? Their gifts come with a price, so most adventurers keep their distance! Choose your race, and the patron who favors it will bless you.]***
+***[Eryndal is watched over by five patrons! Seranis, goddess of creation, watches over the goblins, the beastfolk and the drakekin. Sylthara watches over the elves, Aurenor the humans, and Khazren the dwarves and the frostborn. And Morvaine watches over anything wicked, and their gifts come with a price, so most adventurers keep their distance! Choose your race, and the patron who favors it will bless you.]***
 
 *"Five gods, and one of them's bad news."*
 
-A wheel formed in front of me, each segment marked with a race name and a small icon. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** I went straight to the Elf and the stats opened beside it, Wisdom stacked high, exactly what I'd come for.
+A wheel opened around me, race names floating in the air at arm's length. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** I reached for the Elf first and the stats unfolded beside it, Wisdom stacked high, exactly what I'd come for.
 
 ***[Elf! Graceful, gifted, and born to the old magic!]***
 
-*"That's the one."* But I wanted to see them all first, so I tapped through the others one by one, and each time Lumi said the name and started in on a line about the race. Human, balanced. Dwarf, sturdy. Orc, hard to put down. I read the numbers and let her talk, thumbing past Beastfolk, Frostborn, Drakekin, until Goblin was the last one left, the lowest numbers on the wheel.
+*"That's the one."* But I wanted to see them all, so I reached through the others one at a time, and each time Lumi said the name and started in on a line about the race. Human, balanced. Dwarf, sturdy. Orc, hard to put down. I read the numbers and let her talk, past Beastfolk, Frostborn, Drakekin, until Goblin was the last one left, the lowest numbers on the wheel. I didn't notice the shell warming against my back. I hadn't noticed anything real in a long time.
 
-A warmth had been creeping up the inside of the shell, and I hadn't noticed until a fan under the headrest whined up and cut out. I tapped Goblin.
+I reached for Goblin.
 
 ***[Goblin! The cunning little—]***
 
-Her voice stretched thin and snapped. The hum cut off mid-note, the light went out, and the white void collapsed into a weightless black. My hand shot out for something solid that wasn't there.
+Her voice stretched thin and snapped. The light went out, and the floor was yanked out from under me.
 
-*"What the hell."*
+I came back into my body all at once. The weight of it, the heat of the shell, the stink of hot plastic, my stomach rolling. I rolled onto my side and dry-heaved against the padding until it passed. The display was dead. I hit the power button. Nothing. Through the shell I could hear that the whole shop had gone dark, a chair scraping, Leon swearing near the counter.
 
-Sound crackled back, warped and wrong, and Leon's voice came through the shell, muffled. "Hey, you alright in there?"
+"Hey," Leon called, closer, a flashlight beam crawling across the shell. "Whole place just lost power. You alright in there?"
 
-"Yeah," I called back, voice tight. "I'm fine."
+"Yeah," I called back, voice rough. "I'm gonna step out for a sec, hit the restroom. Be right back."
 
-"Power flickered on my end. These old pods run hot, so it could've been either." His boots scuffed away. "Let me know if it kicks again."
+"Take your time. I'll go flip the breaker."
 
-The pod coughed, the hum came back lower, and the light crept in. The drive in the port beside my head was lit, and it wasn't white anymore. It glowed green. The white void flickered into place around me, and the wheel was back, but it wasn't spinning. Lumi was gone. The Goblin segment burned the same green as the drive, locked in and waiting for me.
+I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. Three things. A processor core, basically a GPU the size of a brick, and the only place I knew with a rack of third-gen cores was Tochi's technology lab. A slot built for the new drives. And cores, easy to get, plus cheap wiring.
+
+I couldn't fix any of it tonight. But I could hardwire around it, same as the EB, and run the pod straight off the wall. It would burn what was left of the core a little each time. The second pod's core was already gone, and you can't charge a core that's dead. I stripped two leads, bridged the feed, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge off the wall for a few minutes, packed the tools into my bag, and climbed back in.
+
+The shell hissed shut and the world came back in the same order, in reverse. The wheel hung where I'd left it, but it wasn't spinning and Lumi wasn't there.
 
 ***[RACE SELECTED: GOBLIN]***
 

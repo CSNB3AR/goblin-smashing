@@ -81,3 +81,14 @@ The **one relic among Shiv's Warset items** (see `codex/characters/shiv.md`, `co
 - How much of the Church of Seranis (Popes, doctrine, healer arts) appears in the story, and whether a player class or cleanse line is tied to it.
 
 **Names proposed (author asked that Lumi name all five patrons on the page).** Sylthara (elves), Aurenor (humans), Khazren (dwarves), Morvaine (the feared patron whose gifts come with a price), with Seranis for the demi-humans. These are placeholders so the character-creation scene reads right; the author renames freely. Domains, traits and flair stay OPEN.
+
+## Race to patron grouping (author-stated, supersedes the working match above; names are proposals)
+
+- **Seranis:** goblins, beastfolk and drakekin (the demi-humans).
+- **Khazren:** dwarves and frostborn (a frostborn-dwarf kingdom).
+- **Sylthara:** elves.
+- **Aurenor:** humans.
+- **Morvaine:** any evil entity.
+- **Orc: OPEN.** The author did not place Orcs. Not decided; do not assign on the page yet.
+
+Lumi's patron line on the page lists Seranis, Sylthara, Aurenor, Khazren and Morvaine and leaves Orc unmentioned.

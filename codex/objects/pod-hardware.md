@@ -21,3 +21,13 @@
 Full sensation and real damage feedback across all hardware generations, magnified for drama but capped for safety. Taking enough damage in a fight causes a pass-out, which carries its own real-world penalty, a 24-hour lock-out by default (provisional).
 
 **Resolved** (see `codex/lore/external-monitor-and-full-dive-safety.md`): pass-out and the 72-hour death lock (`codex/lore/preserved-misc-mechanics.md`) are two distinct tiers, not the same mechanic described twice. Pass-out is a forced real-world extraction triggered by the external-monitor/failsafe system stepping in, a shorter safety-driven penalty. The 72-hour lock is the separate, harsher penalty for actual in-game character death.
+
+
+## First-gen pod faults and repair (author-stated)
+
+- **Overheating cause.** The first-gen pod at Sakura Arcade overheats because its **processor core** (like a GPU, a massive core) is at about 20 percent. Third-gen cores are expensive. Tochi's technology lab has them, which is a reason Tatsuya wants to go back.
+- **Drive slot.** The slot built for the new HGO drives is missing; the drive is forced into an old slot that does not fit.
+- **Other parts.** The cores are easy to get. Some wiring is needed and is cheap.
+- **Hardwire.** He can hardwire and power it directly, as with the EB, but that burns the core's remaining life. He can only run it that way for a limited time before the core dies and must be replaced. He has to charge it from the wall for a while first, or he drains the core.
+- **Second pod.** Dead because its core is already gone; a dead core cannot be charged.
+- **No numbers set** beyond the 20 percent; lifespan and part names stay qualitative.

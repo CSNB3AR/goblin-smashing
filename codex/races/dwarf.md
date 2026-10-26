@@ -27,3 +27,5 @@ Reduced Energy loss from sustained (non-burst) damage. Fits the race's Courage/P
 ## Cross-references
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
+
+- **Patron (author-stated, names are proposals).** Follows Khazren, shared with the frostborn (a frostborn-dwarf kingdom).
