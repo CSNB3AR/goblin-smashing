@@ -88,9 +88,9 @@ The pickup counter sat at the back, past a row of demo pods where kids waited th
 
 I rattled it off from memory, 4472-KAZE, and he disappeared into the back and came out with the same sleeve he'd handed everyone else.
 
-"Drive's pre-loaded with your license." He slid a printed waiver across the counter anyway. "One character, one account. Once you pick, that's it. No refunds, we've had people come back upset. Respec exists." He tapped the line at the bottom.
+"Drive's pre-loaded with your license." He slid a printed waiver across the counter anyway. "One character, one account. Once you pick, that's it. No refunds, we've had people come back upset. Respec exists, one time only." He tapped the line at the bottom.
 
-**[RESPEC FEE: ¥350,000]**
+**[RESPEC FEE: ¥500,000]**
 
 My eyebrows went up on their own. "Most people don't go that route," he said.
 

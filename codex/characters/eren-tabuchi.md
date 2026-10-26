@@ -47,3 +47,5 @@ See `codex/subplots/tabuchi-schematics-and-family-debt.md`.
 - **OPEN.** The exact order of Daichi's death versus the loan and the betrayal.
 
 - **Forward plot (author-stated, not on the page).** See `outline/canon-ledger.md`, "Forward plot": Kazuku holds the Sedan's data report showing it was disrupted; the impound wreckage shows tampering; fingerprints lead to a criminal chain; the police may be paid off; Chiyo's yakuza-based family is a counterweight to the Tabuchis; Eren does not know the Tabuchi side.
+
+- **Respec (author-stated, forward plot).** Eren eventually respecs off the stolen Spellforger build because he cannot use it; that makes him a better player, and he stops using the same build. One respec only. See `outline/canon-ledger.md`.

@@ -32,4 +32,6 @@ At the start of the game a player also **chooses a patron to follow**. There are
 
 ## One character per account (author-stated)
 
-A drive carries one character on one account. Once the character is chosen it is done, and there are no refunds, handled as a waiver because buyers came back upset. A respec exists but costs a great deal, and most players never use it. Proposal: 350,000 yen, OPEN.
+A drive carries one character on one account. Once the character is chosen it is done, and there are no refunds, handled as a waiver because buyers came back upset. A respec exists but costs a great deal, and most players never use it. Proposal: 500,000 yen, OPEN.
+
+- **Respec rule (author-stated).** The respec fee is ¥500,000 (the author preferred 500k; 300k was floated and left as acceptable, so 500k is used). It is high on purpose: a developer has to reset the account, and it is one way the company earns money back after selling the game. It is **one time only**: after a respec there are no more. Eren will eventually respec off the Spellforger build because he cannot use it, and that is what makes him a better player later; he will not keep the same build.
