@@ -39,3 +39,5 @@ The funeral itself was held and funded by the Tabuchis, which is how Kazuto got 
 - **Letter, newest wording (author-stated).** It opens "If you're reading this and I'm not there," says he could not explain everything, not to give the Tabuchis anything from the manual, and that they pressed him hard over his schematics. It says nothing about yakuza or an email, because someone could read the manual before Tatsuya does. He placed it in the manual where Tatsuya would eventually look. See the ledger.
 
 - **The manual's contents (author-stated).** Three products: first-gen pod schematics, Haya Sedan schematics and parts, Haya EB values and needs. Blank pages follow, which Tatsuya fills with notes and two items of his own. The three companies are separate: Kazuhaya Tech (Daichi), Nexus Enterprises (built on patents from his schematics) and Tabuchi Enterprises. OPEN: the exact Kazuhaya Tech to Nexus relationship.
+
+- **Design habit (author-stated).** Every Haya product carries a 12-volt system so any mechanic with a jump pack and cables can wake it, which is why the EB, though fully electric, can be jump-started.

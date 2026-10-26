@@ -167,3 +167,8 @@ There are **two entirely separate accidents**. Never conflate them.
 - **Look.** Tatsuya's jersey is Urawa Red Diamonds (real J1 club), see `codex/characters/tatsuya-kazehaya.md`.
 - **OPEN:** the cause of the shutdown; the four patron names (proposals); chapters 7 and later still mention "the override" in a few places (to be softened in the chapter pass).
 - **Urawa Red Diamonds (author-stated).** The club Tatsuya wears is one his dad always followed, so the jersey ties him to Dad.
+
+- **Haya EB electrical design (author-stated, qualitative).** The EB is fully electric: a large traction pack runs the motor. Like every Haya product (the Sedan was a hybrid), it also carries a small 12-volt auxiliary system for the dash, fingerprint lock and controller, so a mechanic with a jump pack and cables can wake it. A traction pack cannot be jumped; the 12-volt can. Dad's manual has the jump procedure and a note that the aux cell sags under load. In chapter 3 Tatsuya diagnoses it on the page (a battery issue), jumps it, swaps the weak cell and lets the EB's own charger top it up. No model numbers set.
+- **Hotel and storage (author-stated).** The family lives in Chiyo's hotel. Dad's old gear and parts are in the basement storage (Chiyo's key), moved there to free rooms for the twins' bedrooms; Dad's own room is barely touched and Tatsuya wants to clean it and work there. Chiyo hired a temp to run the front desk for the six days; the temp is Arya (a joke, not revealed, Tatsuya does not know).
+- **Loop and HGO (notes only, not on the page).** The apps eventually partner and Tatsuya eventually partners with them.
+- **Knowledge rule applied.** He knows the EB died last night (he saw it), not why. The cause is found when he checks it.
