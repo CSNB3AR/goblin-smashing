@@ -105,3 +105,5 @@ Essentially never travels outside Shibuya ward. His day-to-day world (WattsUp, t
 - **Dressed (author-stated).** Locs tied up, earrings in, soccer-oriented drip: J1 League jerseys and joggers from a Japanese sportswear company, no brand names on the page.
 
 - **Visual reference, updated (author's picture, `codex/characters/reference/tatsuya-urawa-jersey.png`).** Black and red Urawa Red Diamonds jersey, a real J1 League club he supports (the author asked for a named club). Locs tied up high with loose strands left framing his face, faded sides, thin goatee, brown eyes, a hoop earring. Dark brown skin.
+
+- **His technical edge (author-stated).** Tatsuya may be a noob in other departments, but he is technically smart, and that carries him into the game. Later he crafts and does basic engineering, studies blacksmiths and ancient tech, and works transmutations a lot. Chapter 3 sets this up by showing him run the EB repair like a pit stop: laptop boots, service cable, diagnostic readout, and he reads the weak cell from the curve instead of testing each one.
