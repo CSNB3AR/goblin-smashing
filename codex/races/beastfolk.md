@@ -37,3 +37,5 @@ Unlike the goblin clans sharing Myrrhwood's landmass (fractured, warring, no tru
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
 
 - **Patron (author-stated, names are proposals).** Follows Seranis (with the goblins and drakekin).
+
+- **Patron is a default (author-stated).** Players can switch patrons; most NPCs of this race follow the default, with a few exceptions.

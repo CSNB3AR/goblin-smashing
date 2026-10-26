@@ -29,3 +29,5 @@ Restricted, not hard-locked. Orcs default to Physical Arts (see `codex/combat/ph
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
 
 - **Patron (author-stated, names are proposals).** Patron OPEN. The author did not place Orcs. Working note: Morvaine takes any evil entity, so Orcs may fall there, but nothing is decided.
+
+- **Patron default and switching (author-stated).** Default patron Morvaine (author said 'default'; flagged OPEN). Players may switch; most Orc NPCs follow the default. Seen as wicked by nature, but individuals can be neutral or shaded.

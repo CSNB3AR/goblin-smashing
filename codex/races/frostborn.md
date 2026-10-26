@@ -29,3 +29,5 @@ Partial access, more elemental/rune-utility flavored than pure arcane, sits betw
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
 
 - **Patron (author-stated, names are proposals).** Follows Khazren with the dwarves (a frostborn-dwarf kingdom).
+
+- **Patron is a default (author-stated).** Players can switch patrons; most NPCs of this race follow the default, with a few exceptions.

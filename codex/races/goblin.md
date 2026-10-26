@@ -47,3 +47,5 @@ Racial ability/resistance table this file was split out of: `codex/lore/deck-bui
 At the start of the game each player chooses a patron to follow (five patrons, see `codex/lore/patrons-and-world-weapons.md`). Goblins follow **Seranis**, goddess of demigods and creation, who blesses the demi-humans. Seven world weapons are blessed by patrons, and Seranis holds one, the Staff of the Mist God (see `codex/objects/staff-of-the-mist-god.md`). On the page (chapter 2) the power blip cuts the patron step off and Seranis is assigned by default; the cause is not stated and is left open.
 
 - **Patron (author-stated, names are proposals).** Follows Seranis (with the beastfolk and drakekin).
+
+- **Patron is a default (author-stated).** Players can switch patrons; most NPCs of this race follow the default, with a few exceptions.

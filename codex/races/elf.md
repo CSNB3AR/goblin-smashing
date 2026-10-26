@@ -33,3 +33,5 @@ Racial ability/resistance table this file was split out of: `codex/lore/deck-bui
 **High Elf** is a rare Elf variant. In Lunarest, Elves receive special treatment under an **elven law**, while Beastfolk, goblins and dwarves carry bad infamy (see `codex/lore/lunarest-royal-court.md`). **High Magister Corvith Ostrane** is a High Elf banished from his own domain in the Azure Expanse and made a royal court mage in Lunarest. Spellforger-leaning elves such as Arya benefit from the standing, though Arya is not a High Elf.
 
 - **Patron (author-stated, names are proposals).** Follows Sylthara.
+
+- **Patron is a default (author-stated).** Players can switch patrons; most NPCs of this race follow the default, with a few exceptions.

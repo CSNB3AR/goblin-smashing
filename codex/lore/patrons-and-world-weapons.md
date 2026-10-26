@@ -92,3 +92,6 @@ The **one relic among Shiv's Warset items** (see `codex/characters/shiv.md`, `co
 - **Orc: OPEN.** The author did not place Orcs. Not decided; do not assign on the page yet.
 
 Lumi's patron line on the page lists Seranis, Sylthara, Aurenor, Khazren and Morvaine and leaves Orc unmentioned.
+
+## Default patrons and switching (author-stated)
+- **Patron rule (author-stated).** A race's patron is a **default**. Players can switch patrons and do not have to follow the default. Most NPCs follow their race's default patron, except a few who break from it, and a few who cannot switch because of a god's influence (exact reading OPEN). Defaults: Seranis for goblins, beastfolk and drakekin; Khazren for dwarves and frostborn; Sylthara for elves; Aurenor for humans; Morvaine for any evil entity. **Orc default: Morvaine (my reading of "default", flagged OPEN).** Orcs and Drakekin carry a "wicked by nature" reputation in the world's eyes, but individuals can be neutral or shaded; whether the label has a mechanical effect (affiliation or karma) is OPEN.
