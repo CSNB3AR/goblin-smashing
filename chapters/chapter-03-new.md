@@ -110,11 +110,11 @@ Inside, warm lantern lamps hung over brick pillars and steel beams, desks and mo
 
 Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, dark hair pulled back in a small knot, an unlit cigarette tucked behind one ear and a smear of grease across his thumb.
 
-"Can I help you?" He sat up straighter. "Walk-ins are fine. Please tell me you're a walk-in."
+"Can I help you?" He sat up a little straighter. "Walk-ins are fine."
 
 "I'm here for a pod," I said, stepping up. "First-gen, if you've got availability."
 
-"I do." The hope on his face got itself under control. "Before you get excited, they're first-gen Kazuhaya Tech. They don't play well with newer titles. I've turned away a dozen HGO hopefuls since the sale hit, and I'd hate for the free part to scare you off. If you test something newer on it and the pod dies, you're paying for the pod. It's the only moneymaker I've got."
+"I do." He said it evenly, like he'd said it before. "Before you get excited, they're first-gen Kazuhaya Tech. They don't play well with newer titles. I've turned away a dozen HGO hopefuls since the sale hit, and I'd hate for the free part to scare you off. If you test something newer on it and the pod dies, you're paying for the pod. It's the only moneymaker I've got."
 
 "I know," I said, level, not defensive. "That's fine."
 
@@ -138,7 +138,7 @@ Leon nodded toward a back hallway. "Pods are through there, second door on the l
 
 The pod room was clean, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
-I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* All of it in one book. *"No wonder they wanted it."*
+I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, which was the whole reason the third-gen helmets blew up with HGO. *"This makes sense. This is why they wanted it so much."*
 
 The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I climbed in. The shell hissed shut.
 
@@ -178,7 +178,7 @@ I came back into my body all at once. The weight of it, the heat of the shell, t
 
 "Take your time. I'll go flip the breaker."
 
-I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. Three things. A processor core, basically a GPU the size of a brick, and the only place I knew with a rack of third-gen cores was Tochi's technology lab. A slot built for the new drives. And cores, easy to get, plus cheap wiring.
+I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. Three things. A processor core, basically a GPU the size of a brick, and the only place that would know anything about that was Tochi. I'd walked out of that place, and I sat with that for a second, the heat coming off the casing against my face. A slot built for the new drives. And cores, easy to get, plus cheap wiring.
 
 I couldn't fix any of it tonight. But I could hardwire around it, same as the EB, and run the pod straight off the wall. It would burn what was left of the core a little each time. The second pod's core was already gone, and you can't charge a core that's dead. I stripped two leads, bridged the feed, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge off the wall for a few minutes, packed the tools into my bag, and climbed back in.
 
