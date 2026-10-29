@@ -162,8 +162,6 @@ A girl stepped out of the white, long white-silver hair falling to her waist, re
 
 ***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it.]***
 
-I knew all of it. Taji had recited it at the breakfast table like scripture, and I'd tuned out every word.
-
 ***[Eryndal is watched over by five patrons! Seranis, goddess of creation, watches over the goblins, the beastfolk and the drakekin. Sylthara watches over the elves, Aurenor the humans, and Khazren the dwarves and the frostborn. And Morvaine watches over anything wicked, and their gifts come with a price, so most adventurers keep their distance! Choose your race, and the patron who favors it will bless you.]***
 
 *"Five gods, and one of them's bad news."*
@@ -172,7 +170,7 @@ A wheel opened around me, race names floating in the air at arm's length. ***Hum
 
 ***[Elf! Graceful, gifted, and born to the old magic!]***
 
-*"That's the one."* But I wanted to see them all, so I reached through the others one at a time, and each time Lumi said the name and started in on a line about the race. Human, balanced. Dwarf, sturdy. Orc, hard to put down. I read the numbers and let her talk, past Beastfolk, Frostborn, Drakekin, until Goblin was the last one left, the lowest numbers on the wheel. I didn't notice the shell warming against my back. I hadn't noticed anything real in a long time.
+*"That's the one."* But I wanted to see them all, so I reached through the others one at a time, and each time Lumi said the name and started in on a line about the race.  I read the numbers and let her talk, past Beastfolk, Frostborn, Drakekin, until Goblin was the last one left, the lowest numbers on the wheel. I didn't notice the shell warming against my back. I hadn't noticed anything real in a long time.
 
 I reached for Goblin.
 
