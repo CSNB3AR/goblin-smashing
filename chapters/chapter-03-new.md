@@ -76,13 +76,17 @@ Nexus Enterprises' Ginza store sat between a watch dealer and a department store
 
 I pushed through into cold, clean air that smelled of new plastic and floor polish.
 
-I'd barely cleared the door when a voice carried across the showroom. A man at the counter had the same black case I'd come for gripped in one hand, shoppers staring. "I picked the wrong race, it was a thirty-second mistake. I want a refund."
+I'd barely cleared the door when a voice cracked across the showroom. A guy about my age was at the counter with the same black case I'd come for clutched in both hands, talking fast. "Come on, man. I clicked the wrong race, it was thirty seconds, I didn't even play. Is there any way you can just swap it?"
 
-"I'm sorry, sir. No refunds. Your only option is a respec, five hundred thousand yen, one time only."
+"I'm sorry, sir. There are no refunds. The only option is a respec, five hundred thousand yen, one time only."
 
-"Five hundred thousand? I'm not paying that."
+"Five hundred thousand? Come on, man, I don't have that kind of money." He raked a hand through his hair. "Just let me exchange it. Please. Just this once."
 
-Two guards in tailored dark suits had already drifted in on either side of him, hands loose, looking like they'd done this before. They walked him toward the door while he kept talking, and the attendant pressed two fingers to his eyes. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
+"Sir, as I stated, that's the only option we can offer."
+
+"That's not an option, that's a scam!" He slapped the case down hard enough to turn heads. "I want my refund. I want a manager. I want my money back!"
+
+Shoppers edged back. The attendant lifted two fingers toward the door, and two guards in tailored dark suits closed in on either side of him, hands loose, like they'd done this before. "Sir, you need to step outside." "Don't touch me, I'm going, I'm going!" He snatched up his case and let them walk him out, still yelling. The attendant pressed two fingers to his eyes. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
 
 Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
 
