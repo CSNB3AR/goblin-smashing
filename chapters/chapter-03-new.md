@@ -74,11 +74,13 @@ I clipped the manual into the rear case, pulled the helmet on, tucked my locs in
 
 Nexus Enterprises' Ginza store sat between a watch dealer and a department store, three floors of glass and brushed steel, one storefront among the luxury shops on the main street. I pushed through into cold, clean air that smelled of new plastic and floor polish.
 
-A man in a good coat was already at the counter, his voice carrying across the showroom. "Five hundred thousand yen to change a build? I picked the wrong race, it was a thirty-second mistake."
+A gamer was already at the counter, hoodie up, headset hanging around his neck, his voice carrying across the showroom while shoppers stared. "Five hundred thousand yen to change a build? I can't even afford that. It was a thirty-second mistake."
 
 "I'm sorry, sir, there's nothing we can do. The fee is the fee."
 
-Two guards walked him toward the door, still talking. The attendant watched him go and pressed two fingers to his eyes, and the line shuffled forward. Third-gen helmets sat on pedestals under warm spotlights. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
+Two guards in tailored dark suits had already drifted in on either side of him, hands loose, looking like they'd done this before. They walked him toward the door before he could say another word, and he kept talking the whole way out. The attendant pressed two fingers to his eyes, and the line shuffled forward.
+
+Third-gen helmets sat on pedestals under warm spotlights. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
 
 "...Thornwatch is London's, and London Spire takes Season Zero..."
 
