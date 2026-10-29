@@ -62,3 +62,8 @@ Do not mention a sensory detail or object you do not use. If the fridge hums, he
 ## Do not overexplain; he learns on the page
 
 Do not explain systems or numbers up front. His advantage is his game knowledge, and he learns the troop system, the guild numbers and the rest by playing. Give the reader the same moment of discovery.
+
+
+## He does not have all the answers
+
+In first person, Tatsuya's inner talk shows how he approaches things, not a finished answer. Where he lacks information (people's motives, Dad's death, the bear, whether something will work, what the game does) he guesses, hedges, worries or doubts, and he can be wrong. Use plain hedges sparingly ("probably", "I figured", "as far as I could tell", "maybe") and vary the feeling: curiosity, worry, doubt, hope. Where he is an expert (his tech work) he stays confident. Doubt always comes with a move: a guess, a test or a decision, so the scene keeps its pull. Do not turn author lore into his confident statements.
