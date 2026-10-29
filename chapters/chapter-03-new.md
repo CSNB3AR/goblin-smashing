@@ -26,7 +26,7 @@ My phone buzzed. A text from **Nexus Enterprises**.
 
 The sale clock had a fifth of its seventy-two hours gone. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
-I showered fast, hot water on my neck until the smell of the store was gone, then wrung out my locs and tied them up high, a few strands left loose along my face. In my room I pulled on my black and red Urawa Red Diamonds jersey, the club Dad always followed, with black joggers, my hoop in and the chain swinging, jacket over my arm.
+I showered fast, hot water on my neck until the smell of the store was gone, then wrung out my locs and tied them up high, a few strands left loose along my face. In my room I pulled on my black and red Urawa Red Diamonds jersey, the club Dad always followed, with black joggers, my hoop in and the chain swinging, a jacket on open over the jersey.
 
 Out in the living room I dropped onto the couch, hair still damp, and opened the HGO Companion App on my phone. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason. It wasn't. I hated how much of it I knew.
 
@@ -86,7 +86,7 @@ I'd barely cleared the door when a voice cracked across the showroom. A guy abou
 
 "That's not an option, that's a scam!" He slapped the case down hard enough to turn heads. "I want my refund. I want a manager. I want my money back!"
 
-Shoppers edged back. The attendant lifted two fingers toward the door, and two guards in tailored dark suits closed in on either side of him, hands loose, like they'd done this before. "Sir, you need to step outside." "Don't touch me, I'm going, I'm going!" He snatched up his case and let them walk him out, still yelling. The attendant pressed two fingers to his eyes. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
+Shoppers edged back. The attendant lifted two fingers toward the door, and two guards in tailored dark suits closed in on either side of him, hands loose, like they'd done this before. "Sir, you need to step outside." "Don't touch me, I'm going, I'm going!" He snatched up his case and let them walk him out, still yelling. The attendant, a young guy in round wire glasses with tousled brown hair, a white collared shirt with the sleeves rolled and a brown vest, pushed his glasses up and pinched the bridge of his nose. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
 
 Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
 
