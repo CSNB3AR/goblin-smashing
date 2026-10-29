@@ -86,15 +86,15 @@ Third-gen helmets sat on pedestals under warm spotlights. A wall-sized display l
 
 *"Of course they're playing that on repeat."* I kept my head down and kept moving.
 
-"Confirmation number," the attendant said when I reached the counter, not looking up from his tablet.
+"Confirmation code and ID," the attendant said when I reached the counter, not looking up.
 
-I rattled it off from memory, 4472-KAZE, and he disappeared into the back and came out with the same sleeve he'd handed everyone else.
+I held my phone up for the scanner, 4472-KAZE, and slid my ID card across. He checked the photo against my face, then disappeared into the back and came out with a small black case, the compass rose stamped in gold on the lid.
 
-"Drive's pre-loaded with your license." He slid a printed waiver across the counter. "One character, one account. No refunds. Respec exists, one time only, and before you ask, it's on the form. I've said it nine times today."
+"Drive's pre-loaded with your license." He turned a tablet around and held out the stylus. "Sign here. One character, one account. No refunds. Respec exists, one time only, and before you ask, it's on the screen. I've said it nine times today."
 
 **[RESPEC FEE: ¥500,000]**
 
-My eyebrows went up on their own. "Yeah," I said. "I can see why." I dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
+My eyebrows went up on their own. I signed. "Yeah," I said. "I can see why." I dropped the case into my backpack and turned for the door before he could pitch me a warranty extension.
 
 Outside, the light was going orange. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might be an abandoned storefront with a listing nobody had taken down. *"If it's a dead end, I just burned the whole afternoon."* I got on the EB before I could talk myself out of it.
 
@@ -140,7 +140,7 @@ Leon nodded toward a back hallway. "Pods are through there, second door on the l
 
 The pod room was clean, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
-I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
+I dropped my bag beside it and pulled the case out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
 
 The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I climbed in. The shell hissed shut.
 
