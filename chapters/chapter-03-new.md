@@ -50,7 +50,7 @@ Every month I paid Chiyo what she asked, groceries and a small bill. It was neve
 
 I opened Loop, the big social app where everything happened, gaming included. I followed the HGO account, Yuna, a few major accounts like Dosuke AI and a few guilds, to keep up with updates.
 
-Then the cafe booking app, to see if I could get in somewhere, since I didn't own a rig. Second-gen still meant full-body rigs. The third-gen helmets that came out with the beta ran HGO and the other VR games, full dive, a lot easier to keep at home, and they cost like a flagship phone, close to ninety thousand yen, which I didn't have. The sale and the open beta had every cafe in the city booked solid, third-gen waiting lists stretching into next year. Second-gen cafes ran pods built by developers the Tabuchis had put money into. The developers hadn't done anything to me, and I still wasn't putting a yen into anything the Tabuchis stood behind. The earliest opening was March anyway. *"Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."* It was why I'd never gone deep into other VR. Every mainstream game ran on second-gen.
+Then the cafe booking app, to see if I could get in somewhere, since I didn't own a rig. Second-gen still meant full-body rigs. The third-gen helmets that came out with the beta ran HGO and the other VR games, full dive, a lot easier to keep at home, and they cost like a flagship phone, close to ninety thousand yen, which I didn't have. The sale and the open beta had every cafe in the city booked solid, third-gen waiting lists stretching into next year. Second-gen cafes ran pods built by developers the Tabuchis had put money into. The developers hadn't done anything to me, and I still wasn't putting a yen into anything the Tabuchis stood behind. The earliest opening was March anyway. *"Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."*
 
 I went down every list and every source. Nothing. Then, at the bottom of the third page, a gray tag: **[Legacy Hardware - First-Gen Pods Available]**. Sakura Arcade. Limited compatibility with newer titles. **[Free after 5 PM on weekdays.]**
 
@@ -78,11 +78,7 @@ A man in a good coat was already at the counter, his voice carrying across the s
 
 "I'm sorry, sir, there's nothing we can do. The fee is the fee."
 
-"I want a manager."
-
-"The manager will tell you the same thing."
-
-Two guards walked him toward the door, still talking. The attendant watched him go and pressed two fingers to his eyes, and the line shuffled forward. Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
+Two guards walked him toward the door, still talking. The attendant watched him go and pressed two fingers to his eyes, and the line shuffled forward. Third-gen helmets sat on pedestals under warm spotlights. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
 
 "...Thornwatch is London's, and London Spire takes Season Zero..."
 
