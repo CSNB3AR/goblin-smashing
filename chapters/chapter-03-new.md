@@ -88,13 +88,13 @@ Third-gen helmets sat on pedestals under warm spotlights. A wall-sized display l
 
 "Confirmation code and ID," the attendant said when I reached the counter, not looking up.
 
-I held my phone up for the scanner, 4472-KAZE, and slid my ID card across. He checked the photo against my face, then disappeared into the back and came out with a small black case, the compass rose stamped in gold on the lid.
+I held my phone up for the scanner, 4472-KAZE, and slid my ID card across. He disappeared into the back and came out with a small black case, the compass rose stamped in gold on the lid.
 
 "Drive's pre-loaded with your license." He turned a tablet around and held out the stylus. "Sign here. One character, one account. No refunds. Respec exists, one time only, and before you ask, it's on the screen. I've said it nine times today."
 
 **[RESPEC FEE: ¥500,000]**
 
-My eyebrows went up on their own. I signed. "Yeah," I said. "I can see why." I dropped the case into my backpack and turned for the door before he could pitch me a warranty extension.
+I signed. "Yeah," I said. "I can see why." I dropped the case into my backpack and turned for the door.
 
 Outside, the light was going orange. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might be an abandoned storefront with a listing nobody had taken down. *"If it's a dead end, I just burned the whole afternoon."* I got on the EB before I could talk myself out of it.
 
