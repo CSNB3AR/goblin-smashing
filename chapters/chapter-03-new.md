@@ -42,13 +42,13 @@ I caught myself grinning at the screen. Half excitement, half nerves. Dad's game
 
 *"Six days."* Chiyo would be back by then, and I wanted something of value to show her. *"I've never played a minute of it, only watched."* I couldn't let how I used to feel about this game decide how I went in. Clear head. My goal was to start making a positive income, for Mom, the twins, Chiyo. I was doing it for them. I was perched on the edge of the cushion, and I made myself lean back.
 
-My bank balance sat as a widget at the top of the screen.
+My bank balance:
 
 **[¥47,320]**
 
 Every month I paid Chiyo what she asked, groceries and a small bill. It was never the real number. I was pretty sure she knew I knew. It still felt good to put it in her hand.
 
-I opened Loop, the big social app where everything happened, gaming included. I followed the HGO account, Yuna, a few major accounts like Dosuke AI and a few guilds, to keep up with updates. I couldn't stay dormant and keep up with the speed of this.
+I opened Loop, the big social app where everything happened, gaming included. I followed the HGO account, Yuna, a few major accounts like Dosuke AI and a few guilds, to keep up with updates.
 
 Then the cafe booking app, to see if I could get in somewhere, since I didn't own a rig. Second-gen still meant full-body rigs. The third-gen helmets that came out with the beta ran HGO and the other VR games, full dive, a lot easier to keep at home, and they cost like a flagship phone, close to ninety thousand yen, which I didn't have. The sale and the open beta had every cafe in the city booked solid, third-gen waiting lists stretching into next year. Second-gen cafes ran pods built by developers the Tabuchis had put money into. The developers hadn't done anything to me, and I still wasn't putting a yen into anything the Tabuchis stood behind. The earliest opening was March anyway. *"Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."* It was why I'd never gone deep into other VR. Every mainstream game ran on second-gen.
 
@@ -66,13 +66,13 @@ Around back the air was cold and damp, a low haze sitting over the lot, my breat
 
 The EB was fully electric, the big pack ran the motor, but Dad never built anything without a 12-volt system, same as the Sedan, so any mechanic with a jump pack and cables could wake the controller. You can't jump a traction pack. You can jump the aux. I clamped the pack to the marked terminals, red to red, and watched the voltage climb on the screen until the controller woke and the dash flickered. I pulled the weak cell and checked it against the spare from the box. It dropped like a stone under load, bad internal resistance. I swapped in the spare, let the onboard charger top the rail up, and ran the load test again. The line stayed flat. Dad could have done all of it in his sleep. I wasn't there yet, but I could do a lot of what he did at my age, and that was how I'd gotten into Tochi on merit. Twenty minutes, and I didn't breathe easy until I pressed my thumb to the screen.
 
-The dash took its half-second to read my print, then lit green, and the visor threw a route line across the street. *"Good. Good. We're good."* I let my forehead drop against the handlebar for one second. It ran better than it had in weeks, thanks to Dad's spares, but the box was a lot lighter than when I'd started. *"If I want to keep this thing alive past the winter, I'm going to need parts I can't pay for with forty-seven thousand yen."* Fixed enough for today.
+The dash took its half-second to read my print, then lit green, and the visor threw a route line across the street. *"Good. Good. We're good."* I let my forehead drop against the handlebar for one second. It ran better than it had in weeks, thanks to Dad's spares, but the box was a lot lighter than when I'd started. *"If I want to keep this thing alive past the winter, I'm going to need parts I can't pay for with forty-seven thousand yen."*
 
 I clipped the manual into the rear case, pulled the helmet on, tucked my locs in so I could drop the visor, and rode out toward Ginza with the route line leading the way, the cold wind cutting straight through my jersey.
 
 • • •
 
-Nexus Enterprises' flagship store took up half a block of glass and brushed steel. I'd been down here maybe twice in my life, both times as a kid, and both times Dad had held my hand through the doors.
+Nexus Enterprises' flagship store took up half a block of glass and brushed steel.
 
 I pushed through into cold, clean air that smelled of new plastic and floor polish.
 
@@ -98,17 +98,15 @@ My eyebrows went up on their own. "Most people don't go that route," he said.
 
 Outside, the light was going orange. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might be an abandoned storefront with a listing nobody had taken down. *"If it's a dead end, I just burned the whole afternoon."* I got on the EB before I could talk myself out of it.
 
-The visor clicked into place, the EB caught on the first try, the hum climbing through my palms, and downtown thinned out into streets I actually knew.
-
 • • •
 
 Sakura Arcade sat on a side street between a closed ramen shop and a convenience store hanging on by a thread. The building was older than the blocks around it, brick and wood paneling, warm pendant lights glowing through the front windows.
 
 *"This is it? Doesn't look like much."* I parked the EB around the side, hung the helmet on one handlebar, and went to the door with my backpack on.
 
-Inside, warm lantern lamps hung over brick pillars and steel beams, desks and monitors down one wall, and two tall dark pods standing in the open floor with cable bundles running up their sides and a blue glow in the seams. Everything was clean, everything cared for. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
+Inside, warm lantern lamps hung over brick pillars and steel beams, desks and monitors down one wall, and two tall dark pods standing in the open floor with cable bundles running up their sides and a blue glow in the seams. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
 
-Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, dark hair pulled back in a small knot, an unlit cigarette tucked behind one ear and a smear of grease across his thumb.
+Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, dark hair pulled back in a small knot, an unlit cigarette tucked behind one ear and a smear of grease across his thumb, a faint smell of smoke and solder coming off him.
 
 "Can I help you?" He sat up a little straighter. "Walk-ins are fine."
 
@@ -122,11 +120,15 @@ He studied me a second, then shrugged and slid a clipboard across with a pen. "S
 
 I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya.
 
-He read it as he took the clipboard back. "Kazehaya." He stopped. "Any relation?"
+He read it as he took the clipboard back. "Kazehaya." He tapped the name with his pen. "That mean anything to you?"
 
-I felt it land in my chest before I said anything. Nobody here knew me. I could have shrugged it off. "Yeah," I said. Then, slower, "The man who built those pods is my dad."
+Every time I'd said Dad's name, it had gotten me somewhere, and never anywhere good. His company had been dragged all over the news after the accident, every product pulled, his name stuck to the wreckage. *"Should I even say it?"* But this was a half-empty arcade and a man who looked like he'd heard worse. "Would you believe me," I said slowly, "if I said the man who made those pods was my dad?"
 
-Leon went quiet. His eyebrows climbed and stayed there, and he set the clipboard down very carefully. "Huh," he said. "Okay." Then he shrugged, the way you do when something is bigger than the counter you're standing behind. "That explains the 'that's fine.'" He held out a hand. "Leon. My sister and I run this place. I'm sorry for your loss."
+Leon stepped back from the counter. He looked at the name, then at me, then at the name again. "Damn. That would explain it." He waited. "Is that true?"
+
+I nodded.
+
+He nodded back, once, slow. "My days. I'm sorry, man." Then, dry, "Guess I didn't need to give you the speech about the pods." He held out a hand across the counter. "Leon. My sister and I run this place."
 
 I shook it, firm and brief, and let go before my throat could do anything I wasn't going to deal with right now. "Thanks."
 
@@ -142,15 +144,15 @@ I dropped my bag beside it and pulled the sleeve out. The drive was smaller than
 
 The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I climbed in. The shell hissed shut.
 
-The arcade went first, Leon's voice at the counter and the hum of the monitors thinning out until they were gone. Then the smell of dust and plastic. Then the padding against my back, and the weight of my own arms, until I couldn't tell where my body stopped and the dark began. A drop, like missing a stair, and light came up all around me.
+The arcade went first, Leon's voice at the counter and the hum of the monitors thinning out until they were gone. Then the smell of cigarette smoke and dust and plastic. Then the padding against my back, the weight of my arms, the dry taste in my mouth, until I couldn't tell where my body stopped and the dark began. A drop, like missing a stair, and everything came back at once, cleaner than it had ever been.
 
-I was standing in a white void, and it had depth. A floor under my boots, distance I could judge, my own hands in front of me when I lifted them. *"Holy shit. It worked."* My shoulders dropped for the first time since I'd woken up, and the grin tried to happen before I caught it.
+Air first, cool and faintly sweet, tasting of rain. A breeze moved across my face from nowhere and lifted the loose strands of my locs. Under my boots was a floor I could feel, smooth and cold through the soles, and past it the white went on with a depth I could judge, near and far. I turned my hands over in front of me and every line in my palms was there. I could hear my own breathing, and under it a low, steady hum. *"Holy shit. It worked."* This wasn't a screen. I was standing in it. My shoulders dropped for the first time since I'd woken up, and the grin tried to happen before I caught it.
 
 ***[WELCOME TO ERYNDAL]***
 
 A girl stepped out of the white, long white-silver hair falling to her waist, red eyes, a white dress with puffed sleeves, a small smile.
 
-***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it. Everything you earn stays with you, and nothing resets when you log off.]***
+***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it.]***
 
 I knew all of it. Taji had recited it at the breakfast table like scripture, and I'd tuned out every word.
 
@@ -178,9 +180,9 @@ I came back into my body all at once. The weight of it, the heat of the shell, t
 
 "Take your time. I'll go flip the breaker."
 
-I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. Three things. A processor core, basically a GPU the size of a brick, and the only place that would know anything about that was Tochi. I'd walked out of that place, and I sat with that for a second, the heat coming off the casing against my face. A slot built for the new drives. And cores, easy to get, plus cheap wiring.
+I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I pulled up a third-gen core on my phone. **[PROCESSOR CORE, GEN 3: ¥420,000]** *"Damn."* The only place I knew that might have anything close was Tochi. I had no idea what it would take to get in the door, and I wasn't walking back into that school with my tail between my legs. But if Dad had left any kind of name there, maybe that was my best shot. I sat with that for a second, the heat off the casing against my face.
 
-I couldn't fix any of it tonight. But I could hardwire around it, same as the EB, and run the pod straight off the wall. It would burn what was left of the core a little each time. The second pod's core was probably already gone, and you can't charge a core that's dead. I stripped two leads, bridged the feed, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge off the wall for a few minutes, packed the tools into my bag, and climbed back in.
+I couldn't fix any of it tonight. But the core still had a little energy in it, and that was enough. It was like jumping an old car. I could keep sparking it for as long as it held a charge, and when it finally died I'd have to replace it. The second pod was probably exactly that, a core already dead. I hardwired around the slot, stripped two leads, bridged the feed to the wall, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge for a few minutes, packed the tools back into the toolbox, and climbed in.
 
 The shell hissed shut and the world came back in the same order, in reverse. The wheel hung where I'd left it, but it wasn't spinning and Lumi wasn't there.
 
