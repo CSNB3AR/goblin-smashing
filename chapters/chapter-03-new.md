@@ -76,11 +76,13 @@ Nexus Enterprises' Ginza store sat between a watch dealer and a department store
 
 I pushed through into cold, clean air that smelled of new plastic and floor polish.
 
-I'd barely cleared the door when a gamer's voice carried across the showroom. He was at the counter, hoodie up, headset hanging around his neck, shoppers staring. "Five hundred thousand yen to change a build? I can't even afford that. It was a thirty-second mistake."
+I'd barely cleared the door when a voice carried across the showroom. A man at the counter had the same black case I'd come for gripped in one hand, shoppers staring. "I picked the wrong race, it was a thirty-second mistake. I want a refund."
 
-"I'm sorry, sir, there's nothing we can do. The fee is the fee."
+"I'm sorry, sir. No refunds. Your only option is a respec, five hundred thousand yen, one time only."
 
-Two guards in tailored dark suits had already drifted in on either side of him, hands loose, looking like they'd done this before. They walked him toward the door before he could say another word, and he kept talking the whole way out. The attendant pressed two fingers to his eyes.
+"Five hundred thousand? I'm not paying that."
+
+Two guards in tailored dark suits had already drifted in on either side of him, hands loose, looking like they'd done this before. They walked him toward the door while he kept talking, and the attendant pressed two fingers to his eyes. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
 
 Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
 
@@ -94,13 +96,9 @@ The pickup counter sat at the back, past a row of demo pods where kids waited th
 
 I rattled it off from memory, 4472-KAZE, and he disappeared into the back and came out with the same sleeve he'd handed everyone else.
 
-"Drive's pre-loaded with your license." He slid a printed waiver across the counter anyway. "One character, one account. Once you pick, that's it. No refunds, we've had people come back upset. Respec exists, one time only." He tapped the line at the bottom.
+"Drive's pre-loaded with your license." He slid a printed waiver across the counter. "Same terms as everyone. One character, one account."
 
-**[RESPEC FEE: ¥500,000]**
-
-My eyebrows went up on their own. "Most people don't go that route," he said.
-
-"Yeah," I said. "I can see why." I dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
+I signed without arguing, dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
 
 Outside, the light was going orange. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might be an abandoned storefront with a listing nobody had taken down. *"If it's a dead end, I just burned the whole afternoon."* I got on the EB before I could talk myself out of it.
 
