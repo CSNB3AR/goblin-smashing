@@ -72,29 +72,31 @@ I clipped the manual into the rear case, pulled the helmet on, tucked my locs in
 
 • • •
 
-Nexus Enterprises' flagship store took up half a block of glass and brushed steel.
+Nexus Enterprises' Ginza store sat between a watch dealer and a department store, three floors of glass and brushed steel, one storefront among the luxury shops on the main street. I pushed through into cold, clean air that smelled of new plastic and floor polish.
 
-I pushed through into cold, clean air that smelled of new plastic and floor polish.
+A man in a good coat was already at the counter, his voice carrying across the showroom. "Five hundred thousand yen to change a build? I picked the wrong race, it was a thirty-second mistake."
 
-Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
+"I'm sorry, sir, there's nothing we can do. The fee is the fee."
+
+"I want a manager."
+
+"The manager will tell you the same thing."
+
+Two guards walked him toward the door, still talking. The attendant watched him go and pressed two fingers to his eyes, and the line shuffled forward. Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
 
 "...Thornwatch is London's, and London Spire takes Season Zero..."
 
 *"Of course they're playing that on repeat."* I kept my head down and kept moving.
 
-The pickup counter sat at the back, past a row of demo pods where kids waited their turn at five free minutes. The line moved slower than the clock on my phone could spare.
-
-"Confirmation number," the attendant said, not looking up from his tablet.
+"Confirmation number," the attendant said when I reached the counter, not looking up from his tablet.
 
 I rattled it off from memory, 4472-KAZE, and he disappeared into the back and came out with the same sleeve he'd handed everyone else.
 
-"Drive's pre-loaded with your license." He slid a printed waiver across the counter anyway. "One character, one account. Once you pick, that's it. No refunds, we've had people come back upset. Respec exists, one time only." He tapped the line at the bottom.
+"Drive's pre-loaded with your license." He slid a printed waiver across the counter. "One character, one account. No refunds. Respec exists, one time only, and before you ask, it's on the form. I've said it nine times today."
 
 **[RESPEC FEE: ¥500,000]**
 
-My eyebrows went up on their own. "Most people don't go that route," he said.
-
-"Yeah," I said. "I can see why." I dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
+My eyebrows went up on their own. "Yeah," I said. "I can see why." I dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
 
 Outside, the light was going orange. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might be an abandoned storefront with a listing nobody had taken down. *"If it's a dead end, I just burned the whole afternoon."* I got on the EB before I could talk myself out of it.
 
