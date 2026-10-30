@@ -12,7 +12,7 @@ A message from him sat at the top of the screen, sent before seven.
 
 I read it twice. *"Damn. He ain't tripping."* The panic drained out of me and I dropped onto the arm of the couch. A day off and a game waiting. *"I can't grind that and keep picking up shifts. Sooner or later I have to call Gato and step back."*
 
-The television was still paused on the soldiers marching through the gate. Momo's door stood open, her room empty, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
+The television was still paused on the soldiers marching through the gate. Momo's door stood open, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
 
 A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting.
 
@@ -28,7 +28,7 @@ The sale clock had a fifth of its seventy-two hours gone. *"Okay. I need to go p
 
 I showered fast, hot water on my neck until the smell of the store was gone, then wrung out my locs and tied them up high, a few strands left loose along my face. In my room I pulled on my black and red Urawa Red Diamonds jersey, the club Dad always followed, with black joggers, my hoop in and the chain swinging, a jacket on open over the jersey.
 
-Out in the living room I dropped onto the couch, hair still damp, and opened the HGO Companion App on my phone. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason. It wasn't. I hated how much of it I knew.
+Out in the living room I dropped onto the couch, hair still damp, and opened the HGO Companion App on my phone. WattsUp made every one of us carry it in case a customer asked about the game. *"That's the only reason it's on here."* It wasn't, and I hated how much of it I knew.
 
 The feed opened on a headline. **[Season Zero final: London Spire, Guild Leader Edmund Vane, 10,800. Aogiri, Guild Leader Lin Haoyu, 10,250. Stillwater, Guild Leader Dosuke AI, fourth. Kansai Black Lotus, ninth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. *"Eren's guild got ninth. Bastard. Probably carried by Haruto."* *"If I'm going to make anything in there, I have to be bigger than that. And it's going to be harder with every new player pouring in."* I scratched at my goatee and tapped over to the market.
 
@@ -36,7 +36,7 @@ The auction board was packed. Unique legacy items from the closed beta sat at th
 
 *"Everything's new. Nobody's ahead."* The closed beta was over and the gates were open, and a whole wave of players was pouring in. I was part of that wave. *"I need to ride the new-game momentum. Get in early, get lucky, land something I can sell."* *"Crownfall's ten million is the only official prize pool, but the way this game's set up, maybe you can make money anywhere. It can't only be players coming in. With a market like that, businesses have to be too."* I pulled up the wallet tab. **[HGO Coins: 1 = ¥4]** **[Withdraw / Deposit]** *"That doesn't look like play money."* *"I need a balanced build, one that scales across everything the game has, not just the first hour."*
 
-The race table sat on the same page. I opened the Elf row without really deciding to. Spellforger, Wisdom stacked high, the build I'd spent months drawing out with Eren and never once played. Dosuke ran a Spellforger of his own, a unique one. Eren's had hidden mechanics, mist and a few others, that you had to unlock and that, as far as I could tell, he never touched. Haruto had looked straight through him last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* Eren had the build. I was pretty sure he didn't know how to run it. *"It's a closed-beta build. After a balance pass it might not even be playable. Treat all of it as experimental. New game: more players, new stuff, probably a new race, fixes."*
+The race table sat on the same page. I opened the Elf row without really deciding to. Spellforger, Wisdom stacked high, the build I'd spent months drawing out with Eren and never once played. Dosuke ran a Spellforger of his own, a unique one. Eren's had hidden mechanics, mist and a few others, that you had to unlock and that, as far as I could tell, he never touched. Haruto had looked straight through him last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* *"It's a closed-beta build. After a balance pass it might not even be playable. Treat all of it as experimental. New game: more players, new stuff, probably a new race, fixes."*
 
 I caught myself grinning at the screen. Half excitement, half nerves. Dad's game, the world he said he helped create, and at least I had an idea what I'd build instead of walking in blind. *"If I run into that son of a bitch in there, I can't be the one who gets outmatched."* *"It isn't revenge. I just can't hand Eren any kind of recognition."* Haruto's face crossed my mind with it.
 
@@ -46,35 +46,35 @@ My bank balance:
 
 **[¥47,320]**
 
-Every month I paid Chiyo what she asked, groceries and a small bill. It was never the real number. I was pretty sure she knew I knew. It still felt good to put it in her hand.
+*"Every month I hand Chiyo what she asks for. Groceries, a small bill. It's never the real number, and she knows I know."* It still felt good to put it in her hand.
 
 I opened Loop, the big social app where everything happened, gaming included. I followed the HGO account, Yuna, a few major accounts like Dosuke AI and a few guilds, to keep up with updates.
 
-Then the cafe booking app, to see if I could get in somewhere, since I didn't own a rig. Second-gen still meant full-body rigs. The third-gen helmets that came out with the beta ran HGO and the other VR games, full dive, a lot easier to keep at home, and they cost like a flagship phone, close to ninety thousand yen, which I didn't have. The sale and the open beta had every cafe in the city booked solid, third-gen waiting lists stretching into next year. Second-gen cafes ran pods built by developers the Tabuchis had put money into. The developers hadn't done anything to me, and I still wasn't putting a yen into anything the Tabuchis stood behind. The earliest opening was March anyway. *"Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."*
+Then the cafe booking app, since I didn't own a rig. Every cafe in the city was booked solid, the sale and the open beta both, and a truck idled outside the window, rattling the glass. *"Second-gen is still full-body rigs. Third-gen helmets are full dive too and easy to keep at home, but ninety thousand yen? I've got forty-seven."* The second-gen cafes ran pods from developers the Tabuchis had put money into. *"Not a yen of mine goes anywhere near the Tabuchis. And the earliest opening is March. Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."*
 
 I went down every list and every source. Nothing. Then, at the bottom of the third page, a gray tag: **[Legacy Hardware - First-Gen Pods Available]**. Sakura Arcade. Limited compatibility with newer titles. **[Free after 5 PM on weekdays.]**
 
 First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work out in the world. It could be an old place with a listing nobody had taken down, and the listing itself said it couldn't do much. *"This might not work at all."* But had anyone even tried? It was a gamble, and it was my only lead. *"I'd blow the whole thing up trying before I sat around for three months."* I rubbed two fingers along my goatee while the worry settled in.
 
-3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I laced my boots and went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, the quiet room, and the part of it that had never sat right with me. I shook it off and kept moving.
+3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in. Afternoon light slanted through the blinds across the desk, dust hanging in it, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, the quiet room, and the part of it that had never sat right with me. I shook it off and kept moving.
 
-I wasn't leaving the manual on that shelf anymore. I pulled it down, the letter still hidden in the controller diagrams where I'd tucked it, and flipped to the electrical section until a note in his slanted handwriting stopped my thumb. **Aux cell sags under load. Jump at the marked terminals, then swap or recondition.** I put the manual and my laptop in my backpack, got it over both shoulders, picked up his toolbox by the handle, and rode the elevator down from the third floor.
+I wasn't leaving the manual on that shelf anymore. I pulled it down, the letter still hidden in the controller diagrams where I'd tucked it, and flipped to the electrical section until a note in his slanted handwriting stopped my thumb. **Aux cell sags under load. Jump at the marked terminals, then swap or recondition.** I put the manual and my laptop in my backpack, picked up his toolbox by the handle, and rode the elevator down from the third floor.
 
-The lobby of the Nakamura Grand was all pale stone and brass, a flower arrangement on the round table, the front desk empty, the bell untouched. There used to be a doorman and two clerks on a day like this. My phone buzzed. **[Chiyo: Hired someone to cover the desk. She'll be in later, so be nice and say hello.]** I got the storage key out of the drawer in her office desk and took the elevator down again, past the lobby to the basement level. The storage cage was lined with boxes labeled in Dad's blocky hand. I dug until I found one marked EB: a jump pack, cables, a spare 12-volt cell, a coil of wire, a handful of connectors. *"Everything he built could be fixed."*
+The lobby of the Nakamura Grand was all pale stone and brass, a flower arrangement on the round table, the front desk empty, the bell untouched. There used to be a doorman and two clerks on a day like this. My phone buzzed. **[Chiyo: Hired someone to cover the desk. She'll be in later, so be nice and say hello.]** I got the storage key out of the drawer in her office desk and took the elevator down again, past the lobby to the basement level. The air down there was cool and smelled of concrete and cardboard, a pipe ticking overhead. The storage cage was lined with boxes labeled in Dad's blocky hand. I dug until I found one marked EB: a jump pack, cables, a spare 12-volt cell, a coil of wire, a handful of connectors. *"Everything he built could be fixed."*
 
-Around back the air was cold and damp, a low haze sitting over the lot, my breath showing. The EB sat where I'd left it, black paint beaded with mist, dash dead. *"Please be the aux. If it's the big pack, I'm done."* I set up like a pit stop. A rag down on the concrete, Dad's toolbox open on the concrete with the trays fanned out in the order I'd reach for them, the meter in my left hand, the laptop on the seat with the lid up. It booted while I pulled the service cable and clicked it into the port, and the diagnostic window filled with cell voltages in a column. Traction pack, full. The 12-volt aux rail that fed the dash, the lock and the controller read six and a half volts, and when I put a load on it the whole column sagged. One cell fell faster than the rest, its curve bending early while the others held. I didn't need to test them one by one. *"That one."*
+Around back the air was cold and damp, a low haze sitting over the lot, my breath showing. The EB sat where I'd left it, black paint beaded with mist, dash dead. *"Please be the aux. If it's the big pack, I'm done."* I set up like a pit stop. A rag down for my knees, the concrete cold through my joggers, Dad's toolbox open with the trays fanned out in the order I'd reach for them, the meter in my left hand, the laptop on the seat with the lid up. It booted while I pulled the service cable and clicked it into the port, and the diagnostic window filled with cell voltages in a column. Traction pack, full. The 12-volt aux rail that fed the dash, the lock and the controller read six and a half volts, and when I put a load on it the whole column sagged. One cell fell faster than the rest, its curve bending early. I didn't need to test them one by one. *"That one."*
 
-The EB was fully electric, the big pack ran the motor, but Dad never built anything without a 12-volt system, same as the Sedan, so any mechanic with a jump pack and cables could wake the controller. You can't jump a traction pack. You can jump the aux. I clamped the pack to the marked terminals, red to red, and watched the voltage climb on the screen until the controller woke and the dash flickered. I pulled the weak cell and checked it against the spare from the box. It dropped like a stone under load, bad internal resistance. I swapped in the spare, let the onboard charger top the rail up, and ran the load test again. The line stayed flat. Dad could have done all of it in his sleep. I wasn't there yet, but I could do a lot of what he did at my age, and that was how I'd gotten into Tochi on merit. Twenty minutes, and I didn't breathe easy until I pressed my thumb to the screen.
+The EB was fully electric, the big pack ran the motor, but Dad never built anything without a 12-volt system, same as the Sedan, so any mechanic with a jump pack and cables could wake the controller. You can't jump a traction pack. You can jump the aux. I clamped the pack to the marked terminals, red to red, and watched the voltage climb on the screen until the controller woke and the dash flickered. I pulled the weak cell and checked it against the spare from the box. It dropped like a stone under load, bad internal resistance. I swapped in the spare, let the onboard charger top the rail up, and ran the load test again. The line stayed flat. Dad could have done it in his sleep. I wasn't there yet, but I could do a lot of what he did at my age, and that was how I'd gotten into Tochi on merit. I didn't breathe easy until I pressed my thumb to the screen.
 
 The dash took its half-second to read my print, then lit green, and the visor threw a route line across the street. *"Good. Good. We're good."* I let my forehead drop against the handlebar for one second. It ran better than it had in weeks, thanks to Dad's spares, but the box was a lot lighter than when I'd started. *"If I want to keep this thing alive past the winter, I'm going to need parts I can't pay for with forty-seven thousand yen."*
 
-I clipped the manual into the rear case, pulled the helmet on, tucked my locs in so I could drop the visor, and rode out toward Ginza with the route line leading the way, the cold wind cutting straight through my jersey.
+I clipped the manual into the rear case, pulled the helmet on and tucked my locs in so I could drop the visor. Brake lights stacked up at every intersection, horns going, the route line threading me around them toward Ginza, the cold wind cutting straight through my jersey.
 
 • • •
 
 Nexus Enterprises' Ginza store sat between a watch dealer and a department store, glass and brushed steel.
 
-I pushed through into cold, clean air that smelled of new plastic and floor polish.
+I pushed through into cold, clean air that smelled of new plastic and floor polish, a low roar of voices under the music.
 
 I'd barely cleared the door when a voice cracked across the showroom. A guy about my age was at the counter with the same black case I'd come for clutched in both hands, talking fast. "Come on, man. I clicked the wrong race, it was thirty seconds, I didn't even play. Is there any way you can just swap it?"
 
@@ -104,29 +104,33 @@ I rattled it off from memory, 4472-KAZE, and he disappeared into the back and ca
 
 I signed without arguing, dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
 
-Outside, the light was going orange. 4:51 PM. Sakura Arcade's window opened in nine minutes, I still had to get across town, and the place might be an abandoned storefront with a listing nobody had taken down. *"If it's a dead end, I just burned the whole afternoon."* I got on the EB before I could talk myself out of it.
+Outside, the sun had dropped low and orange, flaring off the department store glass, and the cold hit my face as the door swung shut. 4:51 PM. Sakura Arcade's window opened in nine minutes and I still had to get across town. *"Hopefully I'm not riding all the way over here for a dead end. I already woke up late."* I got on the EB before I could talk myself out of it.
 
 • • •
 
-Sakura Arcade sat on a side street between a closed ramen shop and a convenience store hanging on by a thread. The building was older than the blocks around it, brick and wood paneling, warm pendant lights glowing through the front windows.
+Sakura Arcade sat on a side street between a closed ramen shop, its shutter dented, and a convenience store hanging on by a thread, its sign buzzing in the dusk. The building was older than the blocks around it, brick and wood paneling, warm pendant lights glowing through the front windows.
 
-*"This is it? Doesn't look like much."* I parked the EB around the side, hung the helmet on one handlebar, and went to the door with my backpack on.
+*"This is it? Doesn't look like much."* I parked the EB around the side, hung the helmet on a handlebar and went to the door.
 
-Inside, warm lantern lamps hung over brick pillars and steel beams, desks and monitors down one wall, and two tall dark pods standing in the open floor with cable bundles running up their sides and a blue glow in the seams. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
+A bell jingled over the door. Inside, warm lantern lamps hung over brick pillars and steel beams, desks and monitors down one wall, and two tall dark pods standing in the open floor with cable bundles running up their sides and a blue glow in the seams. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
 
 Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, dark hair pulled back in a small knot, an unlit cigarette tucked behind one ear and a smear of grease across his thumb, a faint smell of smoke and solder coming off him.
 
-"Can I help you?" He sat up a little straighter. "Walk-ins are fine."
+"Can I help you?" He glanced at the clock over the door, then back at me. "Walk-ins are fine."
 
 "I'm here for a pod," I said, stepping up. "First-gen, if you've got availability."
 
-"I do." He said it evenly, like he'd said it before. "Before you get excited, they're first-gen Kazuhaya Tech. They don't play well with newer titles. I've turned away a dozen HGO hopefuls since the sale hit, and I'd hate for the free part to scare you off. If you test something newer on it and the pod dies, you're paying for the pod. It's the only moneymaker I've got."
+"The free one, after five." He nodded slowly. His shoulders settled and he leaned back in the chair, the tablet going face down on the counter.
+
+*"He was hoping for a paying customer."*
+
+"It's available," he said, "but it only plays retro games. I know a little about those pods. If you push something newer through it and the pod dies, that's on you. It's the only moneymaker I've got."
 
 "You don't have to worry about it," I said, level. "There's one thing I know about those pods in particular."
 
 "What do you mean?" He frowned. "Kazehaya Tech hasn't been on the market in a while, and you don't look old enough to know much about it. What's the connection?"
 
-I didn't answer yet. He shrugged and slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself. Only one pod's actually functional, the other one's a shell."
+I didn't answer yet. He shrugged and slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself."
 
 I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya. I slid the clipboard back and looked down at the counter.
 
@@ -142,15 +146,15 @@ He nodded back, once, slow. "My days. I'm sorry, man." Then, dry, "Guess I didn'
 
 I shook it, firm and brief, and let go before my throat could do anything I wasn't going to deal with right now. "Thanks."
 
-"The second pod's a shell," he said. "Second-gen runs off all-new parts, nobody touches third-gen hardware without a lawsuit, and first-gen parts dried up when Kazuhaya's stuff got pulled. I can't fix it."
+"Only one of the pods works, the other's a shell," he said. "Second-gen runs off all-new parts, nobody touches third-gen hardware without a lawsuit, and first-gen parts dried up when Kazuhaya's stuff got pulled. I can't fix it."
 
 Leon nodded toward a back hallway. "Pods are through there, second door on the left. Take your time. No one else is using them tonight."
 
 • • •
 
-The pod room was clean, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
+The pod room was quiet and a few degrees cooler than the front, the overhead tube humming, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
-I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB, every schematic and part number he'd ever pinned down. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
+I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
 
 The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I climbed in. The shell hissed shut.
 
