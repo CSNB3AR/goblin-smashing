@@ -10,7 +10,7 @@ A message from him sat at the top of the screen, sent before seven.
 
 **[Opened up myself. Figured you'd be dead on your feet after the night shift. Don't sweat it, kid. Sleep. - Gato]**
 
-I read it twice. *"Damn. He ain't tripping."* The panic drained out of me and I dropped onto the arm of the couch. A day off and a game waiting, but I couldn't grind that and keep picking up shifts. Sooner or later I'd have to call Gato and step back.
+I read it twice. *"Damn. He ain't tripping."* The panic drained out of me and I dropped onto the arm of the couch. A day off and a game waiting. *"I can't grind that and keep picking up shifts. Sooner or later I have to call Gato and step back."*
 
 The television was still paused on the soldiers marching through the gate. Momo's door stood open, her room empty, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
 
@@ -30,17 +30,17 @@ I showered fast, hot water on my neck until the smell of the store was gone, the
 
 Out in the living room I dropped onto the couch, hair still damp, and opened the HGO Companion App on my phone. WattsUp made every one of us put it on our phones in case a customer asked about the game, and I'd told myself that was the only reason. It wasn't. I hated how much of it I knew.
 
-The feed opened on a headline. **[Season Zero final: London Spire, Guild Leader Edmund Vane, 10,800. Aogiri, Guild Leader Lin Haoyu, 10,250. Stillwater, Guild Leader Dosuke AI, fourth. Kansai Black Lotus, ninth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. *"Eren's guild got ninth. Bastard. Probably carried by Haruto."* If I was going to make anything in there, I'd have to be bigger than that, and it was going to be harder with every new player pouring in. I scratched at my goatee and tapped over to the market.
+The feed opened on a headline. **[Season Zero final: London Spire, Guild Leader Edmund Vane, 10,800. Aogiri, Guild Leader Lin Haoyu, 10,250. Stillwater, Guild Leader Dosuke AI, fourth. Kansai Black Lotus, ninth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. *"Eren's guild got ninth. Bastard. Probably carried by Haruto."* *"If I'm going to make anything in there, I have to be bigger than that. And it's going to be harder with every new player pouring in."* I scratched at my goatee and tapped over to the market.
 
 The auction board was packed. Unique legacy items from the closed beta sat at the top with millions on them, prices you read twice. Under them, new listings stacked up with every refresh, fresh gear and raw materials from players who'd started over a few hours ago, everybody back on the same line. A posting fee and a cut on every sale. *"That tax has to eat most of it before the seller sees a yen."*
 
-*"Everything's new. Nobody's ahead."* The closed beta was over and the gates were open, and a whole wave of players was pouring in. I was part of that wave. *"I need to ride the new-game momentum. Get in early, get lucky, land something I can sell."* Crownfall's ten million was the only official prize pool, but the way this game was set up, maybe you could make money anywhere. It couldn't only be players coming in, either. With a market like that, businesses had to be too. I pulled up the wallet tab. **[HGO Coins: 1 = ¥4]** **[Withdraw / Deposit]** *"That doesn't look like play money."* I needed a balanced build, one that could scale across everything the game had, not just the first hour.
+*"Everything's new. Nobody's ahead."* The closed beta was over and the gates were open, and a whole wave of players was pouring in. I was part of that wave. *"I need to ride the new-game momentum. Get in early, get lucky, land something I can sell."* *"Crownfall's ten million is the only official prize pool, but the way this game's set up, maybe you can make money anywhere. It can't only be players coming in. With a market like that, businesses have to be too."* I pulled up the wallet tab. **[HGO Coins: 1 = ¥4]** **[Withdraw / Deposit]** *"That doesn't look like play money."* *"I need a balanced build, one that scales across everything the game has, not just the first hour."*
 
-The race table sat on the same page. I opened the Elf row without really deciding to. Spellforger, Wisdom stacked high, the build I'd spent months drawing out with Eren and never once played. Dosuke ran a Spellforger of his own, a unique one. Eren's had hidden mechanics, mist and a few others, that you had to unlock and that, as far as I could tell, he never touched. Haruto had looked straight through him last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* Eren had the build. I was pretty sure he didn't know how to run it. And it was a closed-beta build. After a balance pass it might not even be playable, so I'd treat all of it as experimental, a new game: more players, new stuff, probably a new race, fixes.
+The race table sat on the same page. I opened the Elf row without really deciding to. Spellforger, Wisdom stacked high, the build I'd spent months drawing out with Eren and never once played. Dosuke ran a Spellforger of his own, a unique one. Eren's had hidden mechanics, mist and a few others, that you had to unlock and that, as far as I could tell, he never touched. Haruto had looked straight through him last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* Eren had the build. I was pretty sure he didn't know how to run it. *"It's a closed-beta build. After a balance pass it might not even be playable. Treat all of it as experimental. New game: more players, new stuff, probably a new race, fixes."*
 
-I caught myself grinning at the screen. Half excitement, half nerves. Dad's game, the world he said he helped create, and at least I had an idea what I'd build instead of walking in blind. *"If I run into that son of a bitch in there, I can't be the one who gets outmatched."* It wasn't revenge. The last thing I wanted was to hand Eren any kind of recognition. Haruto's face crossed my mind with it.
+I caught myself grinning at the screen. Half excitement, half nerves. Dad's game, the world he said he helped create, and at least I had an idea what I'd build instead of walking in blind. *"If I run into that son of a bitch in there, I can't be the one who gets outmatched."* *"It isn't revenge. I just can't hand Eren any kind of recognition."* Haruto's face crossed my mind with it.
 
-*"Six days."* Chiyo would be back by then, and I wanted something of value to show her. *"I've never played a minute of it, only watched."* I couldn't let how I used to feel about this game decide how I went in. Clear head. My goal was to start making a positive income, for Mom, the twins, Chiyo. I was doing it for them. I was perched on the edge of the cushion, and I made myself lean back.
+*"Six days."* Chiyo would be back by then, and I wanted something of value to show her. *"I've never played a minute of it, only watched."* *"I can't let how I used to feel about this game decide how I go in. Clear head. Positive income. For Mom, the twins, Chiyo."* I was perched on the edge of the cushion, and I made myself lean back.
 
 My bank balance:
 
@@ -54,7 +54,7 @@ Then the cafe booking app, to see if I could get in somewhere, since I didn't ow
 
 I went down every list and every source. Nothing. Then, at the bottom of the third page, a gray tag: **[Legacy Hardware - First-Gen Pods Available]**. Sakura Arcade. Limited compatibility with newer titles. **[Free after 5 PM on weekdays.]**
 
-First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work out in the world. It could be an old place with a listing nobody had taken down, and the listing itself said it couldn't do much. *"This might not work at all."* But had anyone even tried? It was a gamble, and it was my only lead. I'd blow the whole thing up trying before I sat around for three months. I rubbed two fingers along my goatee while the worry settled in.
+First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work out in the world. It could be an old place with a listing nobody had taken down, and the listing itself said it couldn't do much. *"This might not work at all."* But had anyone even tried? It was a gamble, and it was my only lead. *"I'd blow the whole thing up trying before I sat around for three months."* I rubbed two fingers along my goatee while the worry settled in.
 
 3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I laced my boots and went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, the quiet room, and the part of it that had never sat right with me. I shook it off and kept moving.
 
@@ -162,9 +162,9 @@ A girl stepped out of the white, long white-silver hair falling to her waist, re
 
 ***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it.]***
 
-***[Eryndal is watched over by five patrons! Seranis, goddess of creation, watches over the goblins, the beastfolk and the drakekin. Sylthara watches over the elves, Aurenor the humans, and Khazren the dwarves and the frostborn. And Morvaine watches over anything wicked, and their gifts come with a price, so most adventurers keep their distance! Choose your race, and the patron who favors it will bless you.]***
+***[Eryndal is watched over by five patrons, and each has its own beliefs! Seranis, goddess of creation, favors the mended and the misjudged. Sylthara honors patience and old magic, Aurenor the ambitious, Khazren the steadfast, and Morvaine the bold, for a price. Live by their ways and one may grant you its blessing. The god of your people tends to notice first.]***
 
-*"Five gods, and one of them's bad news."*
+*"So the gods pick you. You don't pick them."*
 
 A wheel opened around me, race names floating in the air at arm's length. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** I reached for the Elf first and the stats unfolded beside it, Wisdom stacked high, exactly what I'd come for.
 
@@ -186,21 +186,17 @@ I came back into my body all at once. The weight of it, the heat of the shell, t
 
 "Take your time. I'll go flip the breaker."
 
-I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I pulled up a third-gen core on my phone. **[PROCESSOR CORE, GEN 3: ¥420,000]** *"Damn."* The only place I knew that might have anything close was Tochi. I had no idea what it would take to get in the door, and I wasn't walking back into that school with my tail between my legs. But if Dad had left any kind of name there, maybe that was my best shot. I sat with that for a second, the heat off the casing against my face.
+I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I pulled up a third-gen core on my phone. **[PROCESSOR CORE, GEN 3: ¥420,000]** *"Damn."* *"The only place that might have anything close is Tochi. I have no idea what it'd take to get in the door."* I sat with that for a second, the heat off the casing against my face. *"But if Dad left any kind of name there, maybe that's my best shot."*
 
-I couldn't fix any of it tonight. But the core still had a little energy in it, and that was enough. It was like jumping an old car. I could keep sparking it for as long as it held a charge, and when it finally died I'd have to replace it. The second pod was probably exactly that, a core already dead. I hardwired around the slot, stripped two leads, bridged the feed to the wall, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge for a few minutes, packed the tools back into the toolbox, and climbed in.
+*"I can't fix any of this tonight. But the core's still got a little charge in it. It's like jumping an old car. As long as it holds energy I can keep sparking it, and when it finally dies I replace it."* The second pod was probably exactly that, a core already dead. I hardwired around the slot, stripped two leads, bridged the feed to the wall, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge for a few minutes, packed the tools back into the toolbox, and climbed in.
 
 The shell hissed shut and the world came back in the same order, in reverse. The wheel hung where I'd left it, but it wasn't spinning and Lumi wasn't there.
 
 ***[RACE SELECTED: GOBLIN]***
 
-***[Now, which of the five will you ch—]***
+***[RACIAL AFFINITY: SERANIS | BLESSING NOT YET GRANTED]***
 
-The line broke off mid-word, the letters fraying at the edge like a bad signal. I stared at the empty spot where she'd stood.
-
-***[PATRON ASSIGNED BY DEFAULT: SERANIS, GODDESS OF THE DEMI-HUMANS]***
-
-*"I didn't pick a goddess either. Apparently the game picked one for me."*
+I stared at the empty spot where Lumi had stood. *"Not granted yet. So the gods really do watch who you are first."*
 
 ***[PROCEEDING TO ATTRIBUTE ALLOCATION...]***
 
@@ -212,6 +208,12 @@ The line broke off mid-word, the letters fraying at the edge like a bad signal. 
 
 I pressed **[CONTINUE]**, not because I wanted to, but because there was nothing else to press, no back button, no cancel, just forward into whatever this was about to become.
 
-The screen dissolved, and a new set of numbers began to form in front of me, floating at eye level, waiting to tell me exactly how bad this was.
+The screen dissolved, and a new set of numbers began to form in front of me, floating at eye level. Wisdom, two.
+
+Then a second line slid in underneath, soft gold, nothing I'd seen in any menu.
+
+***[PATRON INTEREST DETECTED: SYLTHARA, PATRON OF THE ELVES]***
+
+*"The elf god? Looking at a goblin?"*
 
 **[END CHAPTER THREE]**

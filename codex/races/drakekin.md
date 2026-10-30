@@ -30,4 +30,4 @@ Racial ability/resistance table this file was split out of: `codex/lore/deck-bui
 
 - **Patron (author-stated, names are proposals).** Follows Seranis (with the goblins and beastfolk).
 
-- **Patron default and switching (author-stated).** Default patron Seranis. Players may switch; most Drakekin NPCs follow the default. Seen as wicked by nature in the world's eyes, but individuals can be neutral or shaded (mechanical effect of the label OPEN).
+- **Patron: race affinity only (author-stated, supersedes the earlier default-and-switch line).** Players do not start with a blessing; a god grants it by how they act and live, along an alignment tree. The race's god may notice them faster. One blessing only, changeable only by respec (500,000 yen, one time only). See `codex/lore/patrons-and-world-weapons.md`.

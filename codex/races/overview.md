@@ -28,4 +28,4 @@ See `codex/magic/overview.md` for the tier-1 Wisdom-18 threshold itself and how 
 
 ## Patrons
 
-Five patrons, one per race group, each giving its group a different trait (`codex/lore/patrons-and-world-weapons.md`). Seranis is the patron of the demi-humans, goblins included. The race-to-patron matches for the other races are working placeholders until the author supplies them.
+Five patrons, each with its own personality, beliefs, culture and religion. A blessing is earned by how a player acts and lives, not assigned by race; the race's god may notice a player faster (`codex/lore/patrons-and-world-weapons.md`).

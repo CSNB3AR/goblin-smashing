@@ -28,6 +28,6 @@ Restricted, not hard-locked. Orcs default to Physical Arts (see `codex/combat/ph
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
 
-- **Patron (author-stated, names are proposals).** Patron OPEN. The author did not place Orcs. Working note: Morvaine takes any evil entity, so Orcs may fall there, but nothing is decided.
+- **Patron affinity (author-stated, names are proposals).** Not assigned by the author, and nothing is assigned by race now. The old working note that Orcs default to Morvaine is dropped. Orcs and Drakekin carry a wicked-by-reputation label in the world's eyes, but individuals can be neutral or shaded.
 
-- **Patron default and switching (author-stated).** Default patron Morvaine (author said 'default'; flagged OPEN). Players may switch; most Orc NPCs follow the default. Seen as wicked by nature, but individuals can be neutral or shaded.
+- **Patron: race affinity only (author-stated, supersedes the earlier default-and-switch line).** Players do not start with a blessing; a god grants it by how they act and live, along an alignment tree. The race's god may notice them faster. One blessing only, changeable only by respec (500,000 yen, one time only). See `codex/lore/patrons-and-world-weapons.md`.

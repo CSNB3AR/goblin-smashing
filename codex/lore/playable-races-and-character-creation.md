@@ -26,9 +26,9 @@ See `codex/objects/hgo-access-drive.md` for the resulting drive-color mechanic.
 
 **Lumi** is the cute system guide who walks players through character creation. She glitches when the goblin glitch hits Tatsuya (see `codex/lore/timeline-and-beta.md`). **Appearance (author's picture, `codex/characters/reference/lumi.jpg`):** an avatar, not a floating dot. Long white-silver hair, red eyes, a small smile, a white puff-sleeve dress. **Behavior (author-stated):** a short welcome (a sandbox world), she names all five patrons, and when a player clicks a race she says the race name and then explains it. She does **not** warn anyone about the Goblin and does not call it a rare class. In Tatsuya's session she is cut off mid-name, "Gob-", when the pod shuts off (see the ledger block 'Chapter 3 corrections, round three'). Open-beta characters created after the Hearthfire announcement are permanent, and during Season Zero every race starts in Lunarest (see `codex/lore/hearthfire-expansion-and-seasons.md`).
 
-## Choosing a patron
+## Patrons at creation (current, author-stated)
 
-At the start of the game a player also **chooses a patron to follow**. There are five patrons and each race leans toward one (dwarves follow a patron, goblins follow a patron). **Seranis** blesses demi-humans and is the goblins' patron (see `codex/lore/patrons-and-world-weapons.md`). In Tatsuya's case (Chapter 2) Lumi first explains what Hero's Glory Online is (a second world, nothing resets) and the five patrons (only Seranis is named; the evil fifth is hinted at) and says the race you choose decides which patron blesses you. Her walkthrough is cut off by the power blip only after that, at the patron step, and the patron is assigned by default as Seranis, goddess of the demi-humans; the cause of the default is OPEN.
+Players **do not choose or receive a patron at creation.** Lumi introduces the five gods by temperament (Seranis, Sylthara, Aurenor, Khazren, Morvaine), and a god grants its blessing later, based on how the player acts and treats NPCs, along an alignment tree. A race's god may notice a player faster. One blessing only, changeable by respec (500,000 yen, one time only). Wording about a patron being assigned or chosen at creation elsewhere in this file is SUPERSEDED. See `codex/lore/patrons-and-world-weapons.md`.
 
 ## One character per account (author-stated)
 

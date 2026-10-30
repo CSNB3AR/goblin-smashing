@@ -4,8 +4,18 @@ Forward canon. The patron system and the seven world weapons are set up here so 
 
 ## Patrons
 
-- There are exactly **five patrons**. At the start of the game a player **chooses a patron to follow**, the way a race has a home zone. Each patron is tied to a **race group** and gives that group a **different trait** that helps it. One of the five is **really evil**.
+- There are exactly **five patrons**. **SUPERSEDED in part:** the first line of the original said players choose a patron at the start and that each patron is tied to a race group; see "How patrons work (current)" below. One of the five is the feared, wicked one, but the others are not simply "good".
 - Where it shows up: the character-creation walkthrough (Lumi, see `codex/lore/playable-races-and-character-creation.md`) and later the character sheet.
+
+## How patrons work (current, author-stated; supersedes the race-grouping and default-and-switch text below)
+
+- Each of the five gods has its own **personality, beliefs, culture and religion**. Gods go by **character trait**, not good versus evil. A god can have traits that look wicked (the human god too), and each has its own motive. The names are PROPOSALS, easy to rename.
+- **Players do not start with a blessing.** A god grants its blessing based on **player actions**, how a player treats and talks to NPCs, and how they live in the world, along an **alignment tree** (lawful good, good, chaotic good, down through neutral to the wicked). The god tied to your race tends to **notice you faster**, but nothing is locked to race.
+- A PKing player can earn the **wicked patron's blessing** and its buff. A player can be **offered two** (for example a PKing dwarf deeply tied to dwarf religion could be offered the wicked patron and the dwarf patron) but takes **only one**.
+- Once a blessing is accepted it **cannot be changed except by respec** (500,000 yen, one time only).
+- Some patrons are **rare**, with **hidden ways to unlock** them. You cannot simply pick a god for its benefits; you have to fit its alignment. It must not feel **gatekept**: followers are drawn by belief, not by race.
+- **Tatsuya:** Seranis is his race affinity, but **Sylthara** (the elf patron) will try to bless him because he does magic. He has that option, which is huge, and he cannot take both. **Forward hook:** the Sylthara interest notice at the end of Chapter 3 (wording is a proposal).
+- Orc race affinity is **not assigned** (the old "Orc default to Morvaine" flag is dropped, since nothing is assigned by race now).
 
 ### The five slots
 
@@ -17,7 +27,7 @@ Forward canon. The patron system and the seven world weapons are set up here so 
 | 4 | **Khazren** (PROPOSED name, easy to rename) | Dwarf (Frostborn shares Valefrost with the dwarves, whether they follow this patron is OPEN) | OPEN | Name proposed, rest waits on the author |
 | 5 | **Morvaine** (PROPOSED name, easy to rename), the feared and evil one | The remaining races (Drakekin at least, and any of Orc or Frostborn not placed above, OPEN) | OPEN | Name proposed, rest waits on the author |
 
-The grouping above is a working match only, so every race has a patron to point at. The author decides the real groups.
+**SUPERSEDED.** The race-group column is only a working match for which god may notice a race first; nothing is locked to race (see "How patrons work (current)"). The grouping above is a working match only, so every race has a patron to point at. The author decides the real groups.
 
 ### Seranis
 
@@ -76,13 +86,15 @@ The **one relic among Shiv's Warset items** (see `codex/characters/shiv.md`, `co
 - **The two additional world weapons**, and which patrons hold them.
 - The Staff's final enchanted name, its minuses, and sword versus great axe.
 - Resurrection cadence: the dictation said once a day, every 24 hours and every seven days. Seven days used, flagged.
-- How the patron is applied to Tatsuya given the goblin glitch (Lumi's selection is interrupted), and when and how he obtains the staff.
+- How Tatsuya earns a blessing (Seranis affinity, Sylthara's interest at the end of Chapter 3), and when and how he obtains the staff. OPEN: what conditions each patron checks, and which patrons are rare.
 - Whether "one of the holders" at the Battle of Thrash Hill (user's note) means a holder of a world weapon among PK_Wraith's side. Not in Chapter 10 now.
 - How much of the Church of Seranis (Popes, doctrine, healer arts) appears in the story, and whether a player class or cleanse line is tied to it.
 
 **Names proposed (author asked that Lumi name all five patrons on the page).** Sylthara (elves), Aurenor (humans), Khazren (dwarves), Morvaine (the feared patron whose gifts come with a price), with Seranis for the demi-humans. These are placeholders so the character-creation scene reads right; the author renames freely. Domains, traits and flair stay OPEN.
 
 ## Race to patron grouping (author-stated, supersedes the working match above; names are proposals)
+
+**SUPERSEDED as a hard grouping.** Read this as race affinity only: the god that tends to notice that race faster.
 
 - **Seranis:** goblins, beastfolk and drakekin (the demi-humans).
 - **Khazren:** dwarves and frostborn (a frostborn-dwarf kingdom).
@@ -93,7 +105,7 @@ The **one relic among Shiv's Warset items** (see `codex/characters/shiv.md`, `co
 
 Lumi's patron line on the page lists Seranis, Sylthara, Aurenor, Khazren and Morvaine and leaves Orc unmentioned.
 
-## Default patrons and switching (author-stated)
+## Default patrons and switching (author-stated) - SUPERSEDED by "How patrons work (current)"
 - **Patron rule (author-stated).** A race's patron is a **default**. Players can switch patrons and do not have to follow the default. Most NPCs follow their race's default patron, except a few who break from it, and a few who cannot switch because of a god's influence (exact reading OPEN). Defaults: Seranis for goblins, beastfolk and drakekin; Khazren for dwarves and frostborn; Sylthara for elves; Aurenor for humans; Morvaine for any evil entity. **Orc default: Morvaine (my reading of "default", flagged OPEN).** Orcs and Drakekin carry a "wicked by nature" reputation in the world's eyes, but individuals can be neutral or shaded; whether the label has a mechanical effect (affiliation or karma) is OPEN.
 
 
@@ -101,7 +113,7 @@ Lumi's patron line on the page lists Seranis, Sylthara, Aurenor, Khazren and Mor
 
 Not every patron is "good" or "evil". People follow a patron for belief and temperament, the way alignment works in real faith: **who do you follow, and what do you believe**. Each patron gives a **blessing**, a small beneficial gift tied to that belief, not a pile of buffs. **Players decide whom to follow.** A race default is only a starting point, so following a patron says something about the person, not only the race. Blessing numbers are OPEN.
 
-| Patron | Belief | Temperament | Who follows, and why | Lean | Blessing (qualitative) |
+| Patron | Belief | Temperament | Who follows, and why | Alignment favored | Blessing (qualitative, earned) |
 |---|---|---|---|---|---|
 | **Seranis** | Everyone deserves a second shape; creation and mending | Playful, unpredictable, chooses odd bearers | Outcasts, makers, survivors, the misjudged | Chaotic good | A favor of recovery |
 | **Sylthara** | Preserve what lasts; harmony with the old forests | Serene, proud, patient | Scholars, rangers, those who value order and lineage | Lawful neutral | A magical attunement |
@@ -109,4 +121,4 @@ Not every patron is "good" or "evil". People follow a patron for belief and temp
 | **Khazren** | Work and loyalty outlast everything | Stern, steady, stubborn | Smiths, miners, guards, anyone who respects a hard day's work | Lawful | Endurance and craft |
 | **Morvaine** | Power has a price, and the strong pay it | Patient, tempting, transactional | Not only the wicked but the desperate, the proud, and anyone who refuses to beg | Neutral to evil | Power now, cost later |
 
-Notes: Seranis builds on what is already written (creation, life, her sense of humor, odd chosen bearers). Morvaine matches Lumi's line that their gifts come with a price. The Orc default to Morvaine stays flagged OPEN.
+Notes: Seranis builds on what is already written (creation, life, her sense of humor, odd chosen bearers). Morvaine matches Lumi's line that their gifts come with a price. Followers are drawn by belief and alignment, not race, and a blessing is earned by how you live. The old Orc-default-to-Morvaine flag is dropped.

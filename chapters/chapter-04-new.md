@@ -14,13 +14,13 @@ The attribute allocation screen hung in front of me, six glowing numbers waiting
 
 **[Energy: 4]**
 
-Two Wisdom. Almost everyone else started higher, and the build I'd walked in for ran on that exact number. The excitement I'd carried through the whole pod session went flat, and what was left felt like an insult.
+The gold line from the last screen still hung at the edge of my vision, Sylthara's name. *"The elf god. Because I came in wanting the Elf? Or because I wanted to cast?"* Whatever it wanted, it couldn't do much for a goblin with two Wisdom. Almost everyone else started higher, and the build I'd walked in for ran on that exact number. The excitement I'd carried through the whole pod session went flat, and what was left felt like an insult.
 
 I reached for the race selection, trying to go back, but the interface was locked. The wheel was gone. Only the allocation screen remained, and at the top, in clean white text:
 
 **[RACE LOCKED: GOBLIN]**
 
-**[PATRON: SERANIS]**
+**[PATRON: NONE YET | AFFINITY: SERANIS | INTEREST: SYLTHARA]**
 
 **[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
 
