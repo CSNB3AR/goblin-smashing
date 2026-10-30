@@ -74,3 +74,8 @@ In first person, Tatsuya's inner talk shows how he approaches things, not a fini
 - A new location gets its tone set once, for him, through the senses that matter there (sight, sound, smell, touch, temperature). Keep it short and immersive, not an inventory.
 - After that, bring the environment back only when something changes (a blackout, an attack, a building damaged) or when he is about to leave. Do not repeat it for its own sake.
 - Immersion is the goal. Cap the extra detail so travel does not drag.
+
+## Other characters react on the page (author-stated)
+
+- When someone else reacts, show it as a visible beat the narrator notices (arms fold, an eyebrow goes up, a breath out, a hand down the face), then let a thought read it if needed. Do not summarize the reaction.
+- Never stack two bare "he" subjects for two people. Name the other person, or use "the guy" until we know the name, and keep "I" for Tatsuya.

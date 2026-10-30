@@ -1,6 +1,6 @@
 # Chapter Three: Into the Game
 
-I woke up wrong, sluggish and heavy, on the couch where I'd slept most nights since the funeral. Traffic noise leaked up from the street, a scooter whining past, a shutter rattling somewhere, and under it the fridge humming in the kitchen. Sunlight instead of the dim pre-dawn gray, warm on my eyelids in a way that said it was way past morning.
+I woke up wrong, sluggish and heavy, on the couch where I'd slept most nights since the funeral. Traffic noise leaked up from the street, a scooter whining past, and under it the fridge humming in the kitchen. Sunlight instead of the dim pre-dawn gray, warm on my eyelids in a way that said it was way past morning.
 
 My phone was still in my hand, the screen dark and cool against my palm. I thumbed it awake: **3:04 PM**.
 
@@ -40,8 +40,7 @@ The race table sat on the same page. I opened the Elf row without really decidin
 
 I caught myself grinning at the screen. Half excitement, half nerves. Dad's game, the world he said he helped create, and at least I had an idea what I'd build instead of walking in blind. *"If I run into that son of a bitch in there, I can't be the one who gets outmatched."* *"It isn't revenge. I just can't hand Eren any kind of recognition."* Haruto's face crossed my mind with it.
 
-*"Six days."* Chiyo would be back by then, and I wanted something of value to show her. *"I've never played a minute of it, only watched."* *"I can't let how I used to feel about this game decide how I go in. Clear head. Positive income. For Mom, the twins, Chiyo."* I was perched on the edge of the cushion, and I made myself lean back.
-
+*"Six days."* Chiyo would be back by then, and I wanted something of value to show her. *"I've never played a minute of it, only watched."* *"I can't let how I used to feel about this game decide how I go in. Clear head. Positive income. For Mom, the twins, Chiyo."*
 My bank balance:
 
 **[¥47,320]**
@@ -56,7 +55,7 @@ I went down every list and every source. Nothing. Then, at the bottom of the thi
 
 First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work out in the world. It could be an old place with a listing nobody had taken down, and the listing itself said it couldn't do much. *"This might not work at all."* But had anyone even tried? It was a gamble, and it was my only lead. *"I'd blow the whole thing up trying before I sat around for three months."* I rubbed two fingers along my goatee while the worry settled in.
 
-3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in. Afternoon light slanted through the blinds, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, the quiet room, and the part of it that had never sat right with me. I shook it off and kept moving.
+3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in. Afternoon light slanted through the blinds, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, and the part of it that had never sat right with me. I shook it off and kept moving.
 
 I wasn't leaving the manual on that shelf anymore. I pulled it down, the letter still hidden in the controller diagrams where I'd tucked it, and flipped to the electrical section until a note in his slanted handwriting stopped my thumb. **Aux cell sags under load. Jump at the marked terminals, then swap or recondition.** I put the manual and my laptop in my backpack, picked up his toolbox by the handle, and rode the elevator down from the third floor.
 
@@ -84,15 +83,15 @@ I'd barely cleared the door when a voice cracked across the showroom. A guy abou
 
 "That's not an option, that's a scam!" He slapped the case down hard enough to turn heads. "I want my refund. I want a manager. I want my money back!"
 
-Shoppers edged back. The attendant lifted two fingers toward the door, and two guards in tailored dark suits closed in on either side of him, hands loose, like they'd done this before. "Sir, you need to step outside." "Don't touch me, I'm going, I'm going!" He snatched up his case and let them walk him out, still yelling. The attendant, a young guy in round wire glasses with tousled brown hair, a white collared shirt with the sleeves rolled and a brown vest, pushed his glasses up and pinched the bridge of his nose. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
+The attendant lifted two fingers toward the door, and two guards in tailored dark suits closed in on either side of him, hands loose, like they'd done this before. "Sir, you need to step outside." "Don't touch me, I'm going, I'm going!" He snatched up his case and let them walk him out, still yelling. The attendant, a young guy in round wire glasses with tousled brown hair, a white collared shirt with the sleeves rolled and a brown vest, pushed his glasses up and pinched the bridge of his nose. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
 
-Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room every time the reel restarted.
+Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room on every loop.
 
 "...Thornwatch is London's, and London Spire takes Season Zero..."
 
 *"Of course they're playing that on repeat."* I kept my head down and kept moving.
 
-The pickup counter sat at the back, past a row of demo pods where kids waited their turn at five free minutes. The line moved slower than the clock on my phone could spare.
+The pickup counter sat at the back, past a row of demo pods.
 
 "Confirmation number," the attendant said, not looking up from his tablet.
 
@@ -126,21 +125,23 @@ Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses s
 
 "You don't have to worry about it," I said, level. "There's one thing I know about those pods in particular."
 
-"What do you mean?" He frowned. "Kazehaya Tech hasn't been on the market in a while, and you don't look old enough to know much about it. What's the connection?"
+The guy's eyebrow went up. He folded his arms across his chest, the unlit cigarette dipping behind his ear as he tilted his head. *"He thinks I'm wasting his time."*
 
-I didn't answer yet. He shrugged and slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself."
+"What do you mean? Kazehaya Tech hasn't been on the market in a while, and you don't look old enough to know much about it. What's the connection?"
 
-I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya. I slid the clipboard back and looked down at the counter.
+I kept quiet. His fingers tapped once against his sleeve, then his arms came down and he slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself."
 
-He read it. "Kazehaya." He tapped the name with his pen and looked up at me. "So that's the connection."
+I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya. I slid the clipboard back and looked down at the counter, waiting.
 
-Every time I'd said Dad's name, it had gotten me somewhere, and never anywhere good. His company had been dragged all over the news after the accident, every product pulled, his name stuck to the wreckage. *"Should I even say it?"* But this was a half-empty arcade and a man who looked like he'd heard worse. "Would you believe me," I said slowly, "if I said the man who made those pods was my dad?"
+The guy pulled it toward him, glanced at the name and stopped, the pen hanging over the page. "Kazehaya." The pen tapped the name once, and his eyes came up to mine. "So that's the connection."
 
-Leon stepped back from the counter. He looked at the name, then at me, then at the name again. "Damn. That would explain it." He waited. "Is that true?"
+His company had been dragged through the news after the accident, every product pulled. *"Should I even say it?"* But this was a half-empty arcade and a man who looked like he'd heard worse. "Would you believe me," I said slowly, "if I said the man who made those pods was my dad?"
+
+The guy stepped back from the counter, his eyes going from the name to me and back to the name. "Damn. That would explain it." He waited. "Is that true?"
 
 I nodded.
 
-He nodded back, once, slow. "My days. I'm sorry, man." Then, dry, "Guess I didn't need to give you the speech about the pods." He held out a hand across the counter. "Leon. My sister and I run this place."
+He let out a breath through his nose and dragged a hand down his face. "My days. I'm sorry, man." Then, dry, "Guess I didn't need to give you the speech about the pods." He held out a hand across the counter. "Leon. My sister and I run this place."
 
 I shook it, firm and brief, and let go before my throat could do anything I wasn't going to deal with right now. "Thanks."
 
@@ -188,7 +189,7 @@ I came back into my body all at once. The weight of it, the heat of the shell, t
 
 "Take your time. I'll go flip the breaker."
 
-I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I pulled up a third-gen core on my phone. **[PROCESSOR CORE, GEN 3: ¥420,000]** *"Damn."* *"The only place that might have anything close is Tochi. I have no idea what it'd take to get in the door."* I sat with that for a second, the heat off the casing against my face. *"But if Dad left any kind of name there, maybe that's my best shot."*
+I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I pulled up a third-gen core on my phone. **[PROCESSOR CORE, GEN 3: ¥420,000]** *"Damn."* *"The only place that might have anything close is Tochi. I have no idea what it'd take to get in the door."* I sat with that, the heat off the casing against my face. *"But if Dad left any kind of name there, maybe that's my best shot."*
 
 *"I can't fix any of this tonight. But the core's still got a little charge in it. It's like jumping an old car. As long as it holds energy I can keep sparking it, and when it finally dies I replace it."* The second pod was probably exactly that, a core already dead. I hardwired around the slot, stripped two leads, bridged the feed to the wall, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge for a few minutes, packed the tools back into the toolbox, and climbed in.
 
