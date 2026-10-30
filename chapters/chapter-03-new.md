@@ -122,13 +122,15 @@ Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses s
 
 "I do." He said it evenly, like he'd said it before. "Before you get excited, they're first-gen Kazuhaya Tech. They don't play well with newer titles. I've turned away a dozen HGO hopefuls since the sale hit, and I'd hate for the free part to scare you off. If you test something newer on it and the pod dies, you're paying for the pod. It's the only moneymaker I've got."
 
-"I know," I said, level, not defensive. "That's fine."
+"You don't have to worry about it," I said, level. "There's one thing I know about those pods in particular."
 
-He studied me a second, then shrugged and slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself. Only one pod's actually functional, the other one's a shell."
+"What do you mean?" He frowned. "Kazehaya Tech hasn't been on the market in a while, and you don't look old enough to know much about it. What's the connection?"
 
-I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya.
+I didn't answer yet. He shrugged and slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself. Only one pod's actually functional, the other one's a shell."
 
-He read it as he took the clipboard back. "Kazehaya." He tapped the name with his pen. "That mean anything to you?"
+I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya. I slid the clipboard back and looked down at the counter.
+
+He read it. "Kazehaya." He tapped the name with his pen and looked up at me. "So that's the connection."
 
 Every time I'd said Dad's name, it had gotten me somewhere, and never anywhere good. His company had been dragged all over the news after the accident, every product pulled, his name stuck to the wreckage. *"Should I even say it?"* But this was a half-empty arcade and a man who looked like he'd heard worse. "Would you believe me," I said slowly, "if I said the man who made those pods was my dad?"
 
