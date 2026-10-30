@@ -226,3 +226,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Tatsuya: Seranis is his race affinity, but Sylthara will try to bless him because he does magic; he has that option, it is huge, and he cannot take both. Forward hook: the Sylthara interest notice at the end of Chapter 3 (wording is a proposal).
 - Orc affinity is not assigned; the Orc-default-to-Morvaine flag is dropped.
 - OPEN: what each patron checks for, which patrons are rare, and the hidden unlock conditions.
+
+- **No patron lore dump on the page (author-stated).** The patron system lives in `codex/lore/patrons-and-world-weapons.md`; much of it is learned in the game. Chapter 3 carries only one line from Lumi that five patrons watch over Eryndal and one may bless you, plus the Sylthara interest notice as the hook.

@@ -162,9 +162,7 @@ A girl stepped out of the white, long white-silver hair falling to her waist, re
 
 ***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it.]***
 
-***[Eryndal is watched over by five patrons, and each has its own beliefs! Seranis, goddess of creation, favors the mended and the misjudged. Sylthara honors patience and old magic, Aurenor the ambitious, Khazren the steadfast, and Morvaine the bold, for a price. Live by their ways and one may grant you its blessing. The god of your people tends to notice first.]***
-
-*"So the gods pick you. You don't pick them."*
+***[Five patrons watch over Eryndal, and one may bless you if you live by its ways!]***
 
 A wheel opened around me, race names floating in the air at arm's length. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** I reached for the Elf first and the stats unfolded beside it, Wisdom stacked high, exactly what I'd come for.
 
@@ -194,9 +192,7 @@ The shell hissed shut and the world came back in the same order, in reverse. The
 
 ***[RACE SELECTED: GOBLIN]***
 
-***[RACIAL AFFINITY: SERANIS | BLESSING NOT YET GRANTED]***
-
-I stared at the empty spot where Lumi had stood. *"Not granted yet. So the gods really do watch who you are first."*
+I stared at the empty spot where Lumi had stood.
 
 ***[PROCEEDING TO ATTRIBUTE ALLOCATION...]***
 
