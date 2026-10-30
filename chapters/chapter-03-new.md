@@ -18,7 +18,7 @@ A note sat on the kitchen counter, folded once, my name across the front in Chiy
 
 **[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
-I smoothed the fold. *"The trip. Right."* It had been on the fridge calendar for two weeks and I'd still lost track. I opened the fridge, found the container of rice and grilled fish she'd left, and ate it standing at the counter, cold. Six days with nobody home but me.
+I smoothed the fold. *"The trip. Right."* I opened the fridge, found the container of rice and grilled fish she'd left, and ate it standing at the counter, cold. Six days with nobody home but me.
 
 My phone buzzed. A text from **Nexus Enterprises**.
 
@@ -50,13 +50,13 @@ My bank balance:
 
 I opened Loop, the big social app where everything happened, gaming included. I followed the HGO account, Yuna, a few major accounts like Dosuke AI and a few guilds, to keep up with updates.
 
-Then the cafe booking app, since I didn't own a rig. Every cafe in the city was booked solid, the sale and the open beta both, and a truck idled outside the window, rattling the glass. *"Second-gen is still full-body rigs. Third-gen helmets are full dive too and easy to keep at home, but ninety thousand yen? I've got forty-seven."* The second-gen cafes ran pods from developers the Tabuchis had put money into. *"Not a yen of mine goes anywhere near the Tabuchis. And the earliest opening is March. Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."*
+Then the cafe booking app, since I didn't own a rig. Every cafe in the city was booked solid, the sale and the open beta both, and a truck idled outside. *"Second-gen is still full-body rigs. Third-gen helmets are full dive too and easy to keep at home, but ninety thousand yen? I've got forty-seven."* The second-gen cafes ran pods from developers the Tabuchis had put money into. *"Not a yen of mine goes anywhere near the Tabuchis. And the earliest opening is March. Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."*
 
 I went down every list and every source. Nothing. Then, at the bottom of the third page, a gray tag: **[Legacy Hardware - First-Gen Pods Available]**. Sakura Arcade. Limited compatibility with newer titles. **[Free after 5 PM on weekdays.]**
 
 First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work out in the world. It could be an old place with a listing nobody had taken down, and the listing itself said it couldn't do much. *"This might not work at all."* But had anyone even tried? It was a gamble, and it was my only lead. *"I'd blow the whole thing up trying before I sat around for three months."* I rubbed two fingers along my goatee while the worry settled in.
 
-3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in. Afternoon light slanted through the blinds across the desk, dust hanging in it, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, the quiet room, and the part of it that had never sat right with me. I shook it off and kept moving.
+3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in. Afternoon light slanted through the blinds, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, the quiet room, and the part of it that had never sat right with me. I shook it off and kept moving.
 
 I wasn't leaving the manual on that shelf anymore. I pulled it down, the letter still hidden in the controller diagrams where I'd tucked it, and flipped to the electrical section until a note in his slanted handwriting stopped my thumb. **Aux cell sags under load. Jump at the marked terminals, then swap or recondition.** I put the manual and my laptop in my backpack, picked up his toolbox by the handle, and rode the elevator down from the third floor.
 
@@ -72,9 +72,7 @@ I clipped the manual into the rear case, pulled the helmet on and tucked my locs
 
 • • •
 
-Nexus Enterprises' Ginza store sat between a watch dealer and a department store, glass and brushed steel.
-
-I pushed through into cold, clean air that smelled of new plastic and floor polish, a low roar of voices under the music.
+Nexus Enterprises' Ginza store sat between a watch dealer and a department store, glass and brushed steel. I locked the EB to a rack out front, my fingers stiff from the wind, and pushed through into cold, clean air that smelled of new plastic and floor polish, a low roar of voices under the music.
 
 I'd barely cleared the door when a voice cracked across the showroom. A guy about my age was at the counter with the same black case I'd come for clutched in both hands, talking fast. "Come on, man. I clicked the wrong race, it was thirty seconds, I didn't even play. Is there any way you can just swap it?"
 
@@ -104,11 +102,11 @@ I rattled it off from memory, 4472-KAZE, and he disappeared into the back and ca
 
 I signed without arguing, dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
 
-Outside, the sun had dropped low and orange, flaring off the department store glass, and the cold hit my face as the door swung shut. 4:51 PM. Sakura Arcade's window opened in nine minutes and I still had to get across town. *"Hopefully I'm not riding all the way over here for a dead end. I already woke up late."* I got on the EB before I could talk myself out of it.
+Outside, the sun had dropped low and orange, flaring off the department store glass, and the cold hit my face as the door swung shut. 4:51 PM. Sakura Arcade's window opened in nine minutes and I still had to get across town. *"Hopefully I'm not riding all the way over here for a dead end. I already woke up late."* I got on the EB before I could talk myself out of it. The streets went from gold to gray as I cut across town, streetlights flickering on one block at a time.
 
 • • •
 
-Sakura Arcade sat on a side street between a closed ramen shop, its shutter dented, and a convenience store hanging on by a thread, its sign buzzing in the dusk. The building was older than the blocks around it, brick and wood paneling, warm pendant lights glowing through the front windows.
+Sakura Arcade sat on a side street between a closed ramen shop and a convenience store hanging on by a thread, its sign buzzing in the dusk. The building was older than the blocks around it, brick and wood paneling, warm pendant lights glowing through the front windows.
 
 *"This is it? Doesn't look like much."* I parked the EB around the side, hung the helmet on a handlebar and went to the door.
 
@@ -150,9 +148,9 @@ I shook it, firm and brief, and let go before my throat could do anything I wasn
 
 Leon nodded toward a back hallway. "Pods are through there, second door on the left. Take your time. No one else is using them tonight."
 
-• • •
+The hallway ran past dark rooms and humming racks, the floorboards creaking under my boots, the air cooling with every step.
 
-The pod room was quiet and a few degrees cooler than the front, the overhead tube humming, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
+The pod room was clean, the overhead tube humming, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
 I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
 

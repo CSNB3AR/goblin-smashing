@@ -67,3 +67,10 @@ Do not explain systems or numbers up front. His advantage is his game knowledge,
 ## He does not have all the answers
 
 In first person, Tatsuya's inner talk shows how he approaches things, not a finished answer. Where he lacks information (people's motives, Dad's death, the bear, whether something will work, what the game does) he guesses, hedges, worries or doubts, and he can be wrong. Use plain hedges sparingly ("probably", "I figured", "as far as I could tell", "maybe") and vary the feeling: curiosity, worry, doubt, hope. Where he is an expert (his tech work) he stays confident. Doubt always comes with a move: a guess, a test or a decision, so the scene keeps its pull. Do not turn author lore into his confident statements.
+
+## Moving through the world (author-stated)
+
+- No teleporting. Every move to a new place gets a short transitional beat: he travels, and the world moves around him. One line is enough, not a paragraph of scenery.
+- A new location gets its tone set once, for him, through the senses that matter there (sight, sound, smell, touch, temperature). Keep it short and immersive, not an inventory.
+- After that, bring the environment back only when something changes (a blackout, an attack, a building damaged) or when he is about to leave. Do not repeat it for its own sake.
+- Immersion is the goal. Cap the extra detail so travel does not drag.
