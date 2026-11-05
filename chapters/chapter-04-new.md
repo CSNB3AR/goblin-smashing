@@ -16,7 +16,7 @@ The attribute allocation screen hung in front of me, six glowing numbers waiting
 
 The gold line from the last screen still hung at the edge of my vision, Sylthara's name. *"The elf god. Because I came in wanting the Elf? Or because I wanted to cast?"* Whatever it wanted, it couldn't do much for a goblin with two Wisdom. Almost everyone else started higher, and the build I'd walked in for ran on that exact number. The excitement I'd carried through the whole pod session went flat, and what was left felt like an insult.
 
-I reached for the race selection, trying to go back, but the interface was locked. The wheel was gone. Only the allocation screen remained, and at the top, in clean white text:
+At the top of the screen, in clean white text:
 
 **[RACE LOCKED: GOBLIN]**
 
@@ -24,7 +24,7 @@ I reached for the race selection, trying to go back, but the interface was locke
 
 **[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
 
-My hand froze mid-reach in the empty air of the pod. *"Wait. Gambler's Gambit?"*
+*"Wait. Gambler's Gambit?"*
 
 I pulled up the description, thumb moving through the motion without thinking about it anymore.
 
@@ -34,7 +34,7 @@ I pulled up the description, thumb moving through the motion without thinking ab
 
 **[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
 
-I read it again, slower this time, squinting as the white letters sharpened against the black of the visor. Once per day I could roll for rare gear. At level one. For the first time since the wheel stopped, I wasn't only angry.
+I read it again, slower this time, squinting as the white letters sharpened against the black. Once per day I could roll for rare gear. At level one. For the first time since the wheel stopped, I wasn't only angry.
 
 I pulled up the character menu, looking for the reset option I knew was supposed to be there.
 
@@ -112,7 +112,7 @@ I thought about equipping it the same way I'd navigated the menu a minute ago, a
 
 **[Fortune: 12]**
 
-Twelve Fortune at level one. I touched the earring with one clawed finger and felt it shift under my touch. *"Nobody starts with numbers like this."* I needed to actually test it and see if it was as good as it read.
+Twelve Fortune at level one. I touched the earring with one clawed finger and felt it shift under my touch. *"Nobody starts with numbers like this. I need to test it and see if it's as good as it reads."*
 
 I was still taking it in when raised voices cut through the camp noise, sharp enough to pull my attention. One of them was pitched too high to be casual, cracking on the top end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught me before I'd consciously registered why.
 
@@ -130,7 +130,7 @@ My eyes swept the camp. Goblins nearby kept working, sharpening blades, tending 
 
 I tapped two claws against my thigh, working through whether this was actually my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
 
-I needed combat experience anyway. Might as well find out what breaks before it actually matters.
+*"I need combat experience anyway. Might as well find out what breaks before it matters."*
 
 The two enforcers stepped closer to the kid, one reaching for him.
 
@@ -309,5 +309,7 @@ A gold-bordered notification bloomed beneath the item description, brighter than
 There it was. Something in my chest loosened for the first time since I'd watched the word Goblin lock into place.
 
 I let the thought sit there, the two vials still warm in my hands from lying near the bodies. *"This might actually work. The goblin lock, the World Quest, all of it. Maybe this isn't the disaster I thought it was."*
+
+Then the laughing died. I looked up and the whole camp had gone still, every goblin turned my way, and from somewhere behind me came the slow, heavy tread of boots.
 
 **[END CHAPTER FOUR]**
