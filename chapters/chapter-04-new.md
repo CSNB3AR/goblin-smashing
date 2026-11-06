@@ -118,7 +118,7 @@ Something small clicked against my right ear. I touched it and found a single br
 
 **[Fortune: 12]**
 
-*"After combat. So I still have to farm to get anything out of it."* But if a roll landed something that paid well, I could start putting a dent in what I owed Chiyo, and I was going to need more than I'd figured. I'd already pushed that pod past what it was built for. If it died, it was on me, and Leon had made clear what that meant. I wasn't letting something Dad built die on my watch, and I didn't know the first thing about putting together a third-gen pod. The only place I'd seen that tech was Tochi. It sat in the back of my head, and I didn't push it away.
+*"After combat. So I still have to farm to get anything out of it."* But if a roll landed something that paid well, I could start chipping at what Dad owed the Tabuchis. Chiyo said she was handling it, but if that balance hit zero they'd have nothing left to come after us with, and maybe they'd finally leave us alone. I was going to need more money than I'd figured. I'd already pushed that pod past what it was built for. If it died, it was on me, and Leon had made clear what that meant. I wasn't letting something Dad built die on my watch, and I didn't know the first thing about putting together a third-gen pod. The only place I'd seen that tech was Tochi. It sat in the back of my head, and I didn't push it away.
 
 Then there was the quest. I didn't know what this one was, but I knew what a world quest was. A world quest was what had ended the season, what sent a prince's soldiers marching through that gate. I knew how big those got. *"As an Elf I wouldn't have gotten either of these."*
 
