@@ -2,7 +2,7 @@
 
 Dirt, cold and gritty against my cheek.
 
-I lay there with my face in it, too heavy to lift. Ash and woodsmoke filled my nose, and under it something wet and mossy. A fire popped and settled somewhere close, its heat lying along my left side like a hand, and past it came the steady hiss of water falling a long way. The ground under my ribs was packed hard and slightly damp.
+I lay there with my face in it, too heavy to lift. Ash and woodsmoke filled my nose, and under it something wet and mossy. A fire popped and settled somewhere close, its heat lying along my left side, and past it came the hiss of water falling a long way.
 
 The noise sorted itself out slowly. Voices in a mixed Japanese I couldn't make out, half the words bent into something that wasn't quite the language, and under it the smell of smoke and half-burned meat.
 
@@ -34,11 +34,11 @@ That was it, then. No refund, no respec, no door back. I stayed there a second l
 
 *"Alright. It is what it is. Adjust."*
 
-I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore. A little over six feet had turned into maybe four, my eyes level with the chests of the goblins by the fire, my chest narrow, my ribs countable through the rags.
+I got my feet under me and my balance was completely wrong. Everything sat too low, the hem of the rags dragging past knees that weren't the right height for it anymore. A little over six feet had turned into maybe four, my eyes level with the chests of the goblins by the fire, my ribs countable through the rags.
 
 A goblin by the fire had been staring at me, a strip of meat halfway to his mouth. I gave him a short nod like I did this every night. He held the look a second, shrugged, and went back to chewing.
 
-I needed to see it for myself. The water barrel sat at the edge of the firelight, and I walked over in the wrong stride, short and quick, and leaned over it. The surface rocked, then settled, and the face that came up out of it was green. Short dark green hair standing up in spikes, a narrow face, red eyes that blinked when I blinked, small fangs showing when I let my mouth hang, pointed ears I could feel against the sides of my head when I turned. No locs, no goatee. Nothing of me in it but the stare. I made a face at it and it made one right back.
+I needed to see it for myself. The water barrel sat at the edge of the firelight, and I walked over in the wrong stride, short and quick, and leaned over it. The surface rocked, then settled, and the face that came up out of it was green. Short dark green hair standing up in spikes, a narrow face, red eyes that blinked when I blinked, small fangs, pointed ears I could feel against the sides of my head. No locs, no goatee. Nothing of me in it but the stare. I made a face at it and it made one right back.
 
 I tried to grab for a menu the way the streamers did, a flick of two fingers in the air. Nothing. I swiped the other way and felt like an idiot, then thought *menu* as hard as I could. A pale panel bloomed in front of me, a hologram of my body turning slowly in the middle of it, rags and all, with the numbers stacked down one side.
 
@@ -54,7 +54,7 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I was going to have to do some digging to turn that around. I swiped the panel shut harder than I needed to, and the hologram folded away.
 
-I started walking, short quick steps, learning the body as I went. The wind came down off the rock cold and damp, and the ground was dewy and soft. My legs ached, my ribs ached, and under it all my heart was pounding, hard enough that I could feel it in my throat and my wrists. A heartbeat, in a game. This was what full dive actually was.
+I started walking, short quick steps, learning the body as I went. The wind came down off the rock cold and damp. My legs ached, my ribs ached, and under it all my heart was pounding, hard enough that I could feel it in my throat. A heartbeat, in a game. This was what full dive actually was.
 
 Every goblin I could see had a marker floating over their head. I dug back through every stream I'd watched. White was usually NPCs, friendly. Gold meant somebody important, and I didn't see any gold. Blue was other players. I checked my own tag and it was blue, and everybody else's was white.
 
@@ -76,11 +76,13 @@ I knew that box. It was the welcome gift HGO handed every new player, a way to h
 
 I sat with where I was. No way out, tied to a world quest in the open beta, and nobody to tell me what it wanted. Somewhere in there I realized I wasn't as upset as I should've been. I was more curious than anything.
 
-*"Alright. Open it now, figure out the quest after."* I opened it.
+*"Alright. Open it now, figure out the quest after."* I tapped the box and it popped into my hands, a small gold chest, warm and lighter than it looked, with a latch on the front. I thumbed it open.
 
-The lid flashed gold, then brighter.
+A wheel spun up out of the lid, a roulette of glowing icons whipping past, a sword, a scroll, a ring, a flask, each one landing with a click like a slot machine. Weapon. Skill line. Item. Passive. I caught myself leaning in, muttering *"come on, come on."* It slowed. Past the common slots, past blue, past gold, clicking over one notch at a time, until it crept onto a slot that burned white-hot and stopped.
 
-**[UNIQUE]**
+A voice rang out of nowhere, big and bright, like an arena announcer.
+
+**[UNIQUE ITEM! GAMBLER'S GAMBIT!]**
 
 **[PASSIVE ACQUIRED: GAMBLER'S GAMBIT]**
 
@@ -206,7 +208,7 @@ I triggered the ability with a thought.
 
 Pressure built low in my gut, sudden and mortifying even mid-sprint, and then gas vented out behind me in a thick green cloud, from exactly the place nobody wants a cloud to come from.
 
-*"Oh, hell no. That's where it comes from? That's foul."* I covered my own nose with one hand, the smell reaching me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
+*"Oh, hell no. That's where it comes from? That's foul."* I covered my nose with one hand and kept moving. The two enforcers ran straight into the cloud half a second later, unable to stop in time.
 
 Coughing erupted behind me, harsh and wet. One of them doubled over retching.
 
@@ -254,9 +256,9 @@ I reached into a pocket on my rags and an item materialized in my hand. The tool
 
 **[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Distress use only.]**
 
-*"A signal flare."* My claws tightened around it, the casing rough against my palm. I looked at the two enforcers still folded over in the lingering gas, both coughing hard enough that one was spitting into the dirt. But Gas said "can be ignited." And this thing was literally on fire once I lit it. I'd see what happened.
+*"A signal flare."* The casing was rough against my palm. I looked at the two enforcers still folded over in the gas, one spitting into the dirt. But Gas said "can be ignited," and this thing was on fire once I lit it. I'd see what happened.
 
-I struck the flare against the rough edge of a nearby crate and it caught immediately, a bright orange hiss of sparks. Then I threw it low, not up into the sky where it was supposed to go, straight into the green cloud still hanging thick between the two enforcers.
+I struck the flare on the edge of a crate and it caught, a bright orange hiss of sparks. Then I threw it low, not up into the sky, straight into the green cloud hanging between the two enforcers.
 
 The gas caught the instant the flare touched it.
 
