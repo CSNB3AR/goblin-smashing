@@ -60,7 +60,7 @@ Every goblin I could see had a marker floating over their head. I dug back throu
 
 Two goblins were arm-wrestling by a crate with a crowd shouting them on. A pot boiled in the middle of camp, a goblin stirring it with a long spoon. And the biggest tent sat in the center, wide and tall, the kind of place whoever ran this camp would be. Okay. Now I knew where things were.
 
-None of them moved like scripted characters. The one at the pot tasted the stew, made a face, and added something. The arm-wrestlers cheated with their free hands. Even the goblin with the meat had shrugged me off like I was just another guy walking by. *"Damn. If I ever saw a real goblin, I guess this is what it'd feel like."* I scratched my head and shrugged it off.
+None of them moved like scripted characters. The one at the pot tasted the stew, made a face, and added something. The arm-wrestlers cheated with their free hands. Even the goblin with the meat had shrugged me off like I was just another guy walking by. *"Damn. Incredible."* The grin got out before I could stop it. I scratched my head and shrugged the rest off.
 
 I flicked the panel back up to double-check logout. It still didn't answer. The same gray line slid in over it.
 
