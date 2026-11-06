@@ -10,11 +10,11 @@ I pushed up onto my forearms and the arms were wrong. Green skin where my own da
 
 *"Shit."*
 
-My chest was going before the thought finished. I stayed on my forearms and didn't move. *"Don't. I've been in worse than this. Way worse. Nothing is on fire."*
+My chest was going before the thought finished. I stayed on my forearms and didn't move. *"Chill. Don't trip. I've been through way worse than this."*
 
-*"Okay. Fix it. Go back to Nexus and plead my case. Tell them the power cut hit mid-creation, get Leon to back me up that the pod went down."*
+*"Okay, can I fix it? Go back to Nexus, tell them the power cut hit mid-creation, get Leon to back me up."*
 
-*"And the first thing they ask is what I was running on it. A first-gen pod, and a game it was never built for. That's on me. No refund, no respec, and Leon's only moneymaker gets dragged in with me."*
+*"Then they ask what I was running it on. A first-gen pod, playing a game it was never built for. That's on me. No refund, no respec, and Leon takes the heat."*
 
 There was no version of that conversation that ended well. I stayed there until my breathing sorted itself out. It was a goblin. The Elf was gone, and nothing about that was going to change by lying in the dirt.
 
@@ -150,7 +150,7 @@ Both tags flipped red.
 
 **[THRASH CLAN ENFORCER HAS INITIATED COMBAT]**
 
-*"There it is. Natural provoke. Didn't even need a skill for that."*
+*"There it is. Didn't even need a skill for that."*
 
 Then there wasn't time to think.
 
