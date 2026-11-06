@@ -20,9 +20,9 @@ Dropping out of Tochi. The funeral. A goblin wasn't the worst thing that had hap
 
 *"Okay, can I fix it? Go back to Nexus, tell them the power cut hit mid-creation, get Leon to back me up."*
 
-I lay there with it. The counter, the attendant with the round glasses, Leon vouching for me with that unlit cigarette behind his ear. It almost sounded like it could work.
+I lay there with it and pictured the counter. Me in front of the attendant with the round glasses, telling him about the power cut, Leon's name on the call to back me up. It almost sounded like it could work.
 
-Almost. Then I heard the next question coming out of the attendant's mouth.
+Almost. In my head the attendant pushed his glasses up and asked the next question.
 
 *"So what was it running on?"*
 
