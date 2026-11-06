@@ -30,4 +30,4 @@ The hillside above Bloodhurst is the site of the **Battle of Thrash Hill** (chap
 
 ## Camp layout and headcount (author-stated, from the camp image)
 
-The camp sits in a cliff-walled valley with a waterfall and stream at the back and **one dirt path in and out**, running off past sharpened stakes. Anyone who goes down that path has no other way out, which is what makes the camp a trap in the later fight. About **30 to 40 goblins** live there. OPEN: the older notes above say 25 to 30 at Chapter 5 and about 50 by Chapter 8, and the author's figure of 30 to 40 is not yet reconciled with them.
+The camp sits in a cliff-walled valley with a waterfall and stream at the back and **one dirt path in and out**, running off past sharpened stakes. Anyone who goes down that path has no other way out, which is what makes the camp a trap in the later fight. About **30 to 40 goblins** live there (Tatsuya does not know the count until the attack and the mission give it to him). OPEN: the older notes above say 25 to 30 at Chapter 5 and about 50 by Chapter 8, and the author's figure of 30 to 40 is not yet reconciled with them.

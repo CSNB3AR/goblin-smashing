@@ -79,3 +79,8 @@ In first person, Tatsuya's inner talk shows how he approaches things, not a fini
 
 - When someone else reacts, show it as a visible beat the narrator notices (arms fold, an eyebrow goes up, a breath out, a hand down the face), then let a thought read it if needed. Do not summarize the reaction.
 - Never stack two bare "he" subjects for two people. Name the other person, or use "the guy" until we know the name, and keep "I" for Tatsuya.
+
+## What Tatsuya can know (author-stated)
+
+- Nothing superhuman. Any information he gets has to be logical, earned and sometimes hard to get. He does not know headcounts, layouts beyond what he can see, or an NPC's plans until something on the page gives them to him (an attack, a mission, a conversation).
+- From the ground he sees what a short, new goblin with low Wisdom can see. Estimates are rough ("more than I could count"), not exact numbers.
