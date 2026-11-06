@@ -28,7 +28,7 @@ Almost. In my head the attendant pushed his glasses up and asked the next questi
 
 A first-gen pod, and a game it was never built for. Leon's pod, and Leon had no idea what I'd done to it.
 
-*"Damn, that won't work. To get him to back me up I'd have to tell him about the hardwire, and I'd lose him right there."*
+I shook my head slowly and went to scratch my goatee. My claw found smooth skin, and I let the hand drop. *"Damn, that won't work. To get him to back me up I'd have to tell him about the hardwire, and I'd lose him right there."*
 
 The attendant I could handle. Leon I'd already lied to, and I'd be burning my only open door.
 
@@ -82,7 +82,7 @@ I pulled the panel up a third time and went for the skills tab, looking for anyt
 
 **[SKILL POINTS: 1]**
 
-*"Gambler's Gambit."* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. *"Once a day, a roll at rare loot. Okay. That doesn't sound so bad."*
+*"Gambler's Gambit."* I tapped a claw against my thigh. *"Once a day, a roll at rare loot. Okay. That doesn't sound so bad."*
 
 I was still sore about the Elf, but I needed quick cash, and this was cash. Six days. *"I hate dumping points into something I know nothing about. But I gotta test it."* One point. If it was trash, I'd lose one point.
 
