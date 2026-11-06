@@ -50,7 +50,7 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 **[UNSPENT POINTS: 2]**
 
-*"Two Wisdom. Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two Wisdom. Damn, they really got me sitting here dumb as hell. Man can barely read the menu, let alone cast a spell."*
+*"Two Wisdom. Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two Wisdom. Damn, they really got me sitting here dumb as hell."*
 
 The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I was going to have to do some digging to turn that around. I swiped the panel shut harder than I needed to, and the hologram folded away.
 
