@@ -4,7 +4,7 @@ Dirt, cold and gritty against my cheek.
 
 I lay there with my face in it, too heavy to lift. Ash and woodsmoke filled my nose, and under it something wet and mossy. A fire popped and settled somewhere close, its heat lying along my left side like a hand, and past it came the steady hiss of water falling a long way. The ground under my ribs was packed hard and slightly damp.
 
-The noise sorted itself out slowly, a layer at a time. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal, fire eating through green wood with a wet crackling snap. Then smell, gamey meat half-burned over a flame, and under it the sharp smell of bodies packed too close in leather that hadn't seen water in way too long.
+The noise sorted itself out slowly. Voices in a mixed Japanese I couldn't make out, half the words bent into something that wasn't quite the language, and under it the smell of smoke and half-burned meat.
 
 I got my eyes open and the world swam. Black and orange, a smear of firelight with nothing sharp in it, and at the edges pale rectangles flickering in and out like a screen trying to boot. I squeezed my eyes shut and opened them again until the smear started to hold.
 
@@ -60,7 +60,7 @@ I started walking, short quick steps, learning the body as I went. Every goblin 
 
 *"White. Friendly. To each other, at least."*
 
-None of it looked staged. A cluster near the smaller fire sat sharpening blades on whetstones, the scrape of metal on stone landing in a rhythm that kept going whether I was watching or not. Two goblins arm-wrestled for coin near a crate, a small crowd shouting encouragement in a dialect that only half-resolved into Japanese. Someone sang off-key by the big fire, catching thrown scraps of food and laughing when they hit him in the face. An older goblin sat outside a tent mending a torn shirt, needle moving with the patient, practiced motion of someone who'd done this repair a thousand times before. A smaller goblin shot past my legs at a full sprint, cackling, waving a stolen boot over its head.
+None of it looked staged. A cluster near the small fire sharpened blades on whetstones. Two goblins arm-wrestled for coin while a crowd shouted them on. A smaller goblin shot past my legs at a full sprint, cackling, a stolen boot over its head.
 
 *"Yo. I'm actually in this game."* For about two seconds I forgot to be mad. Then I remembered what I was in it as.
 
