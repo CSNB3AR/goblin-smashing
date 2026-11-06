@@ -1,68 +1,22 @@
 # Chapter Four: Into Bloodhurst I
 
-The attribute allocation screen hung in front of me, six glowing numbers waiting for my input. Courage, Power, Wisdom, Speed, Fortune, Energy. Two points to spend, the standard per-level allotment, and beneath them, my base stats as a goblin stared back at me.
+The numbers hung in front of me at eye level, six of them, and only one mattered.
 
-**[Courage: 4]**
+**[Courage: 4 | Power: 4 | Wisdom: 2 | Speed: 7 | Fortune: 9 | Energy: 4]**
 
-**[Power: 4]**
+*"Two. I walked in here for a Spellforger and I got a goblin."* The ride across town, the cold, the hardwire, all of it for the Elf, and a power cut had decided for me. I wanted out. I wanted to find a menu, any menu, that put that wheel back in front of me.
 
-**[Wisdom: 2]**
+*"No refunds. A respec is five hundred thousand, one time only, and I've got forty-seven."* I'd watched that guy get walked out of Nexus for pushing on exactly this. There was no door to go back through. I stood in the white and sat with it, frustrated and flustered, with nowhere to put either.
 
-**[Speed: 7]**
+Two points sat waiting to be spent. I put one in Wisdom and one in Speed. Not optimal for anything, but Speed kept you alive and three Wisdom beat two.
 
-**[Fortune: 9]**
-
-**[Energy: 4]**
-
-The gold line from the last screen still hung at the edge of my vision, Sylthara's name. *"The elf god. Because I came in wanting the Elf? Or because I wanted to cast?"* Whatever it wanted, it couldn't do much for a goblin with two Wisdom. Almost everyone else started higher, and the build I'd walked in for ran on that exact number. The excitement I'd carried through the whole pod session went flat, and what was left felt like an insult.
-
-At the top of the screen, in clean white text:
-
-**[RACE LOCKED: GOBLIN]**
-
-**[PATRON: NONE YET | AFFINITY: SERANIS | INTEREST: SYLTHARA]**
-
-**[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
-
-*"Wait. Gambler's Gambit?"*
-
-I pulled up the description, thumb moving through the motion without thinking about it anymore.
-
-**[GAMBLER'S GAMBIT - RARE RACIAL ABILITY]**
-
-**[PASSIVE: +3 Fortune (applied via Gambler's Earring, equip required)]**
-
-**[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
-
-I read it again, slower this time, squinting as the white letters sharpened against the black. Once per day I could roll for rare gear. At level one. For the first time since the wheel stopped, I wasn't only angry.
-
-*"No refunds. A respec is five hundred thousand, one time only, and I've got forty-seven."* I'd watched that guy get walked out of Nexus for pushing on exactly this. There was no door to go back through, just the character I had. I stood there in the rags and sat with it, frustrated, a little flustered, and nowhere to put either.
-
-My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
-
-**[WORLD QUEST DETECTED IN PROXIMITY]**
-
-**[CALL OF THE BONES - STAGE 1]**
-
-**[AVAILABILITY: GOBLIN RACE ONLY]**
-
-**[ESTIMATED VALUE: WORLD-TIER REWARD]**
-
-The race I'd brushed past by accident had handed me a World Quest. *"What am I supposed to do with that?"* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
-
-Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math.
-
-I put one point in Wisdom and one in Speed. Not optimal for anything, but Speed kept you alive and three Wisdom was still better than two.
-
-**[Wisdom: 3]**
-
-**[Speed: 8]**
+**[Wisdom: 3 | Speed: 8]**
 
 The allocation screen dissolved.
 
 For a second there was nothing. No sound, no weight, the hum of the pod fading out from under me. Then it built back the other way, faint at first, wind, something crackling, voices layering in one at a time until the silence was gone completely and I was standing somewhere else.
 
-Full-dive. I was actually in. Even through the disorientation, a real grin was trying to happen on my face.
+Full-dive. Even through the disorientation, a grin tried to happen on my face, and I hated that it did.
 
 Sound came first, too many layers at once. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap that I could actually hear landing in rhythm. Then smell, woodsmoke thick enough to taste in the back of my throat, something cooking that leaned gamey and half-burned, and under it the sharp smell of bodies packed too close together in leather that hadn't seen water in way too long.
 
@@ -92,7 +46,37 @@ Two fires burned in the open ground between the tents, one small and crackling, 
 
 None of it looked staged. A cluster near the smaller fire sat sharpening blades on whetstones, the scrape of metal on stone landing in a rhythm that kept going whether I was watching or not. Two goblins arm-wrestled for coin near a crate, a small crowd shouting encouragement in a dialect that only half-resolved into Japanese. Someone sang off-key by the big fire, catching thrown scraps of food and laughing when they hit him in the face. An older goblin sat outside a tent mending a torn shirt, needle moving with the patient, practiced motion of someone who'd done this repair a thousand times before. A smaller goblin shot past my legs at a full sprint, cackling, waving a stolen boot over its head.
 
-A second notification sat quiet beneath the first, gold-bordered and easy to miss against everything else demanding my attention.
+A notice slid in at the edge of my vision.
+
+**[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
+
+*"Wait. Gambler's Gambit?"*
+
+I pulled up the description, thumb moving through the motion without thinking about it anymore.
+
+**[GAMBLER'S GAMBIT - RARE RACIAL ABILITY]**
+
+**[PASSIVE: +3 Fortune (applied via Gambler's Earring, equip required)]**
+
+**[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
+
+I read it again, slower this time. Once per day I could roll for rare gear. At level one. For the first time since the wheel stopped, I wasn't only angry.
+
+Still, I was a goblin in rags with two Wisdom, and I needed a minute away from the smoke to think. My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
+
+**[WORLD QUEST DETECTED IN PROXIMITY]**
+
+**[CALL OF THE BONES - STAGE 1]**
+
+**[AVAILABILITY: GOBLIN RACE ONLY]**
+
+**[ESTIMATED VALUE: WORLD-TIER REWARD]**
+
+The race I'd brushed past by accident had handed me a World Quest. *"What am I supposed to do with that?"* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
+
+Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math, and took my finger off the logout command.
+
+Another notification sat quiet beneath it, gold-bordered and easy to miss against everything else demanding my attention.
 
 **[GAMBLER'S GAMBIT ITEM AVAILABLE: GAMBLER'S EARRING]**
 

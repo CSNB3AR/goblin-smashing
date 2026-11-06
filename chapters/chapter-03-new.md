@@ -1,6 +1,6 @@
 # Chapter Three: Into the Game
 
-I woke up wrong, sluggish and heavy, on the couch where I'd slept most nights since the funeral. Traffic noise leaked up from the street, a scooter whining past, and under it the fridge humming in the kitchen. Sunlight instead of the dim pre-dawn gray, warm on my eyelids in a way that said it was way past morning.
+I woke up wrong, sluggish and heavy, on the couch where I'd slept most nights since the funeral. Traffic noise leaked up from the street, a scooter whining past, and under it the fridge humming in the kitchen. Sunlight, warm on my eyelids, way past morning.
 
 My phone was still in my hand, the screen dark and cool against my palm. I thumbed it awake: **3:04 PM**.
 
@@ -10,7 +10,7 @@ A message from him sat at the top of the screen, sent before seven.
 
 **[Opened up myself. Figured you'd be dead on your feet after the night shift. Don't sweat it, kid. Sleep. - Gato]**
 
-I read it twice. *"Damn. He ain't tripping."* The panic drained out of me and I dropped onto the arm of the couch. A day off and a game waiting. *"I can't grind that and keep picking up shifts. Sooner or later I have to call Gato and step back."*
+I read it twice. *"Damn. He ain't tripping."* The panic drained out and I dropped onto the arm of the couch. A day off and a game waiting. *"I can't grind that and keep picking up shifts. Sooner or later I have to call Gato and step back."*
 
 The television was still paused on the soldiers marching through the gate. Momo's door stood open, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
 
@@ -61,7 +61,7 @@ I wasn't leaving the manual on that shelf anymore. I pulled it down, the letter 
 
 The lobby of the Nakamura Grand was all pale stone and brass, a flower arrangement on the round table, the front desk empty, the bell untouched. There used to be a doorman and two clerks on a day like this. My phone buzzed. **[Chiyo: Hired someone to cover the desk. She'll be in later, so be nice and say hello.]** I got the storage key out of the drawer in her office desk and took the elevator down again, past the lobby to the basement level. The air down there was cool and smelled of concrete and cardboard, a pipe ticking overhead. The storage cage was lined with boxes labeled in Dad's blocky hand. I dug until I found one marked EB: a jump pack, cables, a spare 12-volt cell, a coil of wire, a handful of connectors. *"Everything he built could be fixed."*
 
-Around back the air was cold and damp, a low haze sitting over the lot, my breath showing. The EB sat where I'd left it, black paint beaded with mist, dash dead. *"Please be the aux. If it's the big pack, I'm done."* I set up like a pit stop. A rag down for my knees, the concrete cold through my joggers, Dad's toolbox open with the trays fanned out in the order I'd reach for them, the meter in my left hand, the laptop on the seat with the lid up. It booted while I pulled the service cable and clicked it into the port, and the diagnostic window filled with cell voltages in a column. Traction pack, full. The 12-volt aux rail that fed the dash, the lock and the controller read six and a half volts, and when I put a load on it the whole column sagged. One cell fell faster than the rest, its curve bending early. I didn't need to test them one by one. *"That one."*
+Around back the air was cold and damp, a low haze sitting over the lot, my breath showing. The EB sat where I'd left it, black paint beaded with mist, dash dead. *"Please be the aux. If it's the big pack, I'm done."* I set up like a pit stop. A rag down for my knees, the concrete cold through my joggers, Dad's toolbox open with the trays fanned out, the laptop on the seat with the lid up. It booted while I pulled the service cable and clicked it into the port, and the diagnostic window filled with cell voltages in a column. Traction pack, full. The 12-volt aux rail that fed the dash, the lock and the controller read six and a half volts, and when I put a load on it the whole column sagged. One cell fell faster than the rest, its curve bending early. I didn't need to test them one by one. *"That one."*
 
 The EB was fully electric, the big pack ran the motor, but Dad never built anything without a 12-volt system, same as the Sedan, so any mechanic with a jump pack and cables could wake the controller. You can't jump a traction pack. You can jump the aux. I clamped the pack to the marked terminals, red to red, and watched the voltage climb on the screen until the controller woke and the dash flickered. I pulled the weak cell and checked it against the spare from the box. It dropped like a stone under load, bad internal resistance. I swapped in the spare, let the onboard charger top the rail up, and ran the load test again. The line stayed flat. Dad could have done it in his sleep. I wasn't there yet, but I could do a lot of what he did at my age, and that was how I'd gotten into Tochi on merit. I didn't breathe easy until I pressed my thumb to the screen.
 
@@ -153,9 +153,9 @@ The hallway ran past dark rooms and humming racks, the floorboards creaking unde
 
 The pod room was clean, the overhead tube humming, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
-I dropped my bag beside it and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
+I dropped my bag and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
 
-The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I climbed in. The shell hissed shut.
+The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I stepped up onto the platform and ducked under the lip of the shell, my locs brushing the headrest, a little over six feet of me in a cradle built for a shorter man. Back against the padded spine, boots on the foot plates, arms into the cuffs. The shell hissed shut.
 
 The arcade went first, Leon's voice at the counter and the hum of the monitors thinning out until they were gone. Then the smell of cigarette smoke and dust and plastic. Then the padding against my back, the weight of my arms, the dry taste in my mouth, until I couldn't tell where my body stopped and the dark began. A drop, like missing a stair, and everything came back at once, cleaner than it had ever been.
 
@@ -166,8 +166,6 @@ Air first, cool and faintly sweet, tasting of rain. A breeze moved across my fac
 A girl stepped out of the white, long white-silver hair falling to her waist, red eyes, a white dress with puffed sleeves, a small smile.
 
 ***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it.]***
-
-***[Five patrons watch over Eryndal, and one may bless you if you live by its ways!]***
 
 A wheel opened around me, race names floating in the air at arm's length. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** I reached for the Elf first and the stats unfolded beside it, Wisdom stacked high, exactly what I'd come for.
 
@@ -181,7 +179,7 @@ I reached for Goblin.
 
 Her voice stretched thin and snapped. The light went out, and the floor was yanked out from under me.
 
-I came back into my body all at once. The weight of it, the heat of the shell, the stink of hot plastic, my stomach rolling. I rolled onto my side and dry-heaved against the padding until it passed. The display was dead. I hit the power button. Nothing. Through the shell I could hear that the whole shop had gone dark, a chair scraping, Leon swearing near the counter.
+The weight came back all at once. My own body, heavy and wrong, hanging in the cuffs, the shell dark and hot against my back, the stink of scorched plastic in my nose. My legs shook. The room kept turning a half-beat after I stopped, and my stomach rolled the way it does stepping off a boat. I swallowed hard until it passed. The display was dead. I hit the power button. Nothing. Through the shell I could hear that the whole shop had gone dark, a chair scraping, Leon swearing near the counter.
 
 "Hey," Leon called, closer, a flashlight beam crawling across the shell. "Whole place just lost power. You alright in there?"
 
@@ -189,11 +187,11 @@ I came back into my body all at once. The weight of it, the heat of the shell, t
 
 "Take your time. I'll go flip the breaker."
 
-I waited until his footsteps faded toward the front before I popped the shell and climbed out. Heat rolled off the casing. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I pulled up a third-gen core on my phone. **[PROCESSOR CORE, GEN 3: ¥420,000]** *"Damn."* *"The only place that might have anything close is Tochi. I have no idea what it'd take to get in the door."* I sat with that, the heat off the casing against my face. *"But if Dad left any kind of name there, maybe that's my best shot."*
+I waited until his footsteps faded toward the front before I popped the cuffs and the shell and stepped down, legs still unsteady, one hand on the casing. The room was black except for my phone. Heat rolled off the pod. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I pulled up a third-gen core on my phone. **[PROCESSOR CORE, GEN 3: ¥420,000]** *"Damn."* *"The only place that might have anything close is Tochi. I have no idea what it'd take to get in the door."* I sat with that, the heat off the casing against my face. *"But if Dad left any kind of name there, maybe that's my best shot."*
 
-*"I can't fix any of this tonight. But the core's still got a little charge in it. It's like jumping an old car. As long as it holds energy I can keep sparking it, and when it finally dies I replace it."* The second pod was probably exactly that, a core already dead. I hardwired around the slot, stripped two leads, bridged the feed to the wall, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge for a few minutes, packed the tools back into the toolbox, and climbed in.
+*"I can't fix any of this tonight. But the core's still got a little charge in it. It's like jumping an old car. As long as it holds energy I can keep sparking it, and when it finally dies I replace it."* The second pod was probably exactly that, a core already dead. I hardwired around the slot, stripped two leads, bridged the feed to the wall, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge a few minutes, packed the toolbox, and stepped back in, ducking under the lip, settling into the cuffs.
 
-The shell hissed shut and the world came back in the same order, in reverse. The wheel hung where I'd left it, but it wasn't spinning and Lumi wasn't there.
+The shell hissed shut and the senses went again in the same order. The drop was smoother this time, but my knees still wanted to buckle on a floor that wasn't there until my legs found it. The wheel hung where I'd left it, but it wasn't spinning and Lumi wasn't there.
 
 ***[RACE SELECTED: GOBLIN]***
 
@@ -211,10 +209,6 @@ I pressed **[CONTINUE]**, not because I wanted to, but because there was nothing
 
 The screen dissolved, and a new set of numbers began to form in front of me, floating at eye level. Wisdom, two.
 
-Then a second line slid in underneath, soft gold, nothing I'd seen in any menu.
-
-***[PATRON INTEREST DETECTED: SYLTHARA, PATRON OF THE ELVES]***
-
-*"The elf god? Looking at a goblin?"*
+*"Two."* Everything I'd come in for ran on that number, and it couldn't have cast a spark.
 
 **[END CHAPTER THREE]**

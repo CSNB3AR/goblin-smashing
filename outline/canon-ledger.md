@@ -228,3 +228,10 @@ There are **two entirely separate accidents**. Never conflate them.
 - OPEN: what each patron checks for, which patrons are rare, and the hidden unlock conditions.
 
 - **No patron lore dump on the page (author-stated).** The patron system lives in `codex/lore/patrons-and-world-weapons.md`; much of it is learned in the game. Chapter 3 carries only one line from Lumi that five patrons watch over Eryndal and one may bless you, plus the Sylthara interest notice as the hook.
+
+## Chapter 3 and 4 correction: no patron on the page, goblin is new (author-stated)
+
+- No patron or god appears on the page until the author asks. The Sylthara notice, Lumi's patron line and the patron line on the stat sheet are removed from chapters 3 and 4. The patron docs stay as lore notes only.
+- The full-dive pod is a standing pod: he steps up, ducks under the shell (a little over six feet), back on the padded spine, boots on foot plates, arms in cuffs. Blackouts and returns to the body hit hard: weight, heat, dizziness, nausea, lights out, like stepping off a boat or a helicopter.
+- Nobody played Goblin in the closed beta because of the base stats, so nobody knows its world quest or Shiv. Open beta makes the goblin and the quest line new to everyone. Lunarest's goblin raids were read by closed-beta players as a monthly event with no story behind it. Not on the page yet.
+- Chapter 4 opens on his frustration, then the camp, not on the stat sheet. He cannot respec (no money, one time only) and sits with it. The world quest notice stops him from logging out.
