@@ -1,32 +1,18 @@
 # Chapter Four: Into Bloodhurst I
 
-The numbers hung in front of me at eye level, six of them, and only one mattered.
+For a second there was nothing. No weight, no pod around me, no air. Then the world built back in the wrong order, wind first, then something crackling, then voices layering in one at a time until the silence was gone and I was flat on my back in packed dirt, staring up at a gray sky.
 
-**[Courage: 4 | Power: 4 | Wisdom: 2 | Speed: 7 | Fortune: 9 | Energy: 4]**
+*"No. No, no. I didn't hit continue."*
 
-*"Two. I walked in here for a Spellforger and I got a goblin."* The ride across town, the cold, the hardwire, all of it for the Elf, and a power cut had decided for me. I wanted out. I wanted to find a menu, any menu, that put that wheel back in front of me.
+Sound filled in, too many layers at once. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap that I could actually hear landing in rhythm. Then smell, woodsmoke thick enough to taste in the back of my throat, something cooking that leaned gamey and half-burned, and under it the sharp smell of bodies packed too close together in leather that hadn't seen water in way too long.
 
-*"No refunds. A respec is five hundred thousand, one time only, and I've got forty-seven."* I'd watched that guy get walked out of Nexus for pushing on exactly this. There was no door to go back through. I stood in the white and sat with it, frustrated and flustered, with nowhere to put either.
-
-Two points sat waiting to be spent. I put one in Wisdom and one in Speed. Not optimal for anything, but Speed kept you alive and three Wisdom beat two.
-
-**[Wisdom: 3 | Speed: 8]**
-
-The allocation screen dissolved.
-
-For a second there was nothing. No sound, no weight, the hum of the pod fading out from under me. Then it built back the other way, faint at first, wind, something crackling, voices layering in one at a time until the silence was gone completely and I was standing somewhere else.
-
-Full-dive. Even through the disorientation, a grin tried to happen on my face, and I hated that it did.
-
-Sound came first, too many layers at once. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap that I could actually hear landing in rhythm. Then smell, woodsmoke thick enough to taste in the back of my throat, something cooking that leaned gamey and half-burned, and under it the sharp smell of bodies packed too close together in leather that hadn't seen water in way too long.
-
-I took a step forward and my balance was completely wrong. My stride was too short, my center of gravity sitting somewhere it had never sat before, and when I looked down I found green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of my smaller frame. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven, the hem dragging past knees that weren't the right height for it anymore.
-
-*"Alright. Time to adjust."*
+I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, and when I looked down I found green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of my smaller frame. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven, the hem dragging past knees that weren't the right height for it anymore.
 
 A water barrel sat nearby, its surface still enough to throw back a reflection. I stepped closer and the face looking up at me was sharp-featured and green, yellow eyes blinking when I blinked, pointed ears I could actually feel against the sides of my head when I turned. No locs, no goatee, nothing of me in it but the stare.
 
-A notification blinked into existence at the edge of my vision and I flinched hard enough that a nearby goblin turned to stare at me, one eyebrow raised.
+That was me. *"Lowest numbers on the wheel. I walked in here for a Spellforger and I got a goblin."* I wanted out. No refunds, a respec was five hundred thousand, one time only, and I had forty-seven. I'd watched that guy get walked out of Nexus for pushing on exactly this. There was no door back, just this body. I stood there frustrated and flustered, with nowhere to put either.
+
+I tried to grab for a menu the way the streamers did, a flick of two fingers in the air. Nothing. I swiped the other way and felt like an idiot, then thought *menu* as hard as I could. A pale panel bloomed in front of me and I flinched hard enough that a nearby goblin turned to stare, one eyebrow raised.
 
 ***[WELCOME TO ERYNDAL, LUNAREST OUTSKIRTS]***
 
@@ -60,7 +46,7 @@ I pulled up the description, thumb moving through the motion without thinking ab
 
 **[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
 
-I read it again, slower this time. Once per day I could roll for rare gear. At level one. For the first time since the wheel stopped, I wasn't only angry.
+I read it again, slower this time. Once per day I could roll for rare gear. At level one. I had no idea how to trigger it, but for the first time since the wheel stopped, I wasn't only angry.
 
 Still, I was a goblin in rags with two Wisdom, and I needed a minute away from the smoke to think. My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
 
@@ -72,9 +58,11 @@ Still, I was a goblin in rags with two Wisdom, and I needed a minute away from t
 
 **[ESTIMATED VALUE: WORLD-TIER REWARD]**
 
+**[LOGOUT UNAVAILABLE: WORLD QUEST ACTIVE]**
+
 The race I'd brushed past by accident had handed me a World Quest. *"What am I supposed to do with that?"* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
 
-Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math, and took my finger off the logout command.
+Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math. I tapped logout again anyway. Gray. *"Fine. Let's see where this goes."* The gamble was already made, and the only way out was through.
 
 Another notification sat quiet beneath it, gold-bordered and easy to miss against everything else demanding my attention.
 
@@ -246,7 +234,7 @@ A concentrated burst of flame erupted outward from the point of impact, bright a
 
 **[LEVEL UP: 2]**
 
-**[ATTRIBUTE POINTS AVAILABLE: 2]**
+**[ATTRIBUTE POINTS AVAILABLE: 4]**
 
 **[HEALTH: 50/50] [STAMINA: 20/25] [MANA: 25/25]**
 
@@ -256,7 +244,7 @@ I stood there with my ears ringing, staring at two bodies sprawled in the dirt t
 
 I hadn't meant to. I'd been testing whether the tooltip meant what it said, not trying to end anyone, and the quiet where the shouting had been sat wrong with me.
 
-I dropped both attribute points into Wisdom and Speed without thinking twice, the allocation happening almost on autopilot.
+*"Four. Two from the screen I never got to use."* I dropped them into Wisdom and Speed without thinking twice, the allocation happening almost on autopilot.
 
 **[Speed: 9]**
 

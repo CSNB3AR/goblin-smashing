@@ -203,12 +203,12 @@ I stared at the empty spot where Lumi had stood.
 
 ***[CONTINUE]***
 
-*"This can't be real."* Even as I thought it, I knew it was.
+*"What am I supposed to do? There's no back button. No cancel."* My hand hung over it. I couldn't stand in the open white forever, and I couldn't make myself press it.
 
-I pressed **[CONTINUE]**, not because I wanted to, but because there was nothing else to press, no back button, no cancel, just forward into whatever this was about to become.
+I didn't have to. The button flickered, and the screen answered for me.
 
-The screen dissolved, and a new set of numbers began to form in front of me, floating at eye level. Wisdom, two.
+***[NO SELECTION MADE. CONTINUING...]***
 
-*"Two."* Everything I'd come in for ran on that number, and it couldn't have cast a spark.
+*"Wait. Wait, I didn't..."* The white tilted. Something hooked behind my ribs and pulled, hard, like being dragged off the floor by the collar, and the whole world streaked past in light and noise. I grabbed for something and had nothing to grab with. Then I hit something solid, and I was inside a body that wasn't mine.
 
 **[END CHAPTER THREE]**
