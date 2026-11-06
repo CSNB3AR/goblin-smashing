@@ -47,3 +47,7 @@ The warm but iron-fisted matriarch. Looks like a sweet grandma until the old coa
 ## Company inheritance (author-stated, off the page)
 
 Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya does not know yet. It connects to the "bring your business here" thread later.
+
+## Guardian, not a secret-keeper (author-stated)
+
+Chiyo is protecting a 16-year-old grandson she raised from diapers. She will not hand him a legal fight and a yakuza fight, so she keeps the real bills and his mother's condition from him. She pushed him back toward school because she knew Daichi's company would pass to him and she wanted him motivated and able to run it, and because she knew the WattsUp job was a dead end even though she is fond of Gato. Later, when Tatsuya finds the real bills in her papers (see `outline/canon-ledger.md`), he is hurt that she never told him his mother is dying, but he understands why and cannot be angry with her.
