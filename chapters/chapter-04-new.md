@@ -50,7 +50,9 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 **[UNSPENT POINTS: 2]**
 
-*"Two Wisdom. Man, come on. I built that class. I know exactly what magic needs, and two ain't it."* I swiped the panel shut harder than I needed to, and the hologram folded away.
+*"Two Wisdom. Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two. That's not a stat, that's a typo."*
+
+The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I was going to have to do some digging to turn that around. I swiped the panel shut harder than I needed to, and the hologram folded away.
 
 Past the barrel the camp came up out of the dark. A stone-ringed fire pit with a thin line of smoke climbing off it. Hide-covered tents on heavy timber frames, their roofs gone gray with smoke. And behind them the rock going up wet and black, with a long pale thread of water coming down it.
 
