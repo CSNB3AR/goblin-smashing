@@ -70,9 +70,19 @@ I flicked the panel back up and went for logout at the bottom. It didn't answer.
 
 *"Finish the scenario? I just got here."* I tapped it again. Same gray. *"Is that the pod? Did I cook something with that hardwire?"* There was nothing I could do about it from in here, so I pushed the thought down with the rest.
 
-I pulled the panel up a third time and went for the skills tab, looking for anything that told me what I could even do. Two icons, and at the bottom a third entry glowing faint gold.
+I pulled the panel up a third time and went through the inventory, looking for anything that told me what I could even do. One slot held a single item, a small chest glowing faint gold.
 
-**[NEW ABILITY ACQUIRED: GAMBLER'S GAMBIT - RARE RACIAL PASSIVE]**
+**[NEWCOMER MYSTERY BOX - UNOPENED]**
+
+I knew that box. Every new character got one, because nobody had picked a role yet. Closed-beta players had opened theirs on stream all the time, and it could give you a weapon, a skill line, a passive, an item, whatever the roll felt like. *"Well, I got Fortune. Might as well see what kind of luck it gets me."* I opened it.
+
+The lid flashed gold, then brighter.
+
+**[RARE]**
+
+**[PASSIVE ACQUIRED: GAMBLER'S GAMBIT]**
+
+*"Rare? Off a starter box? That's early for a rare."* I couldn't tell if that was the Fortune or just a lucky roll. One box wasn't enough to know anything.
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
@@ -82,7 +92,7 @@ I pulled the panel up a third time and went for the skills tab, looking for anyt
 
 **[SKILL POINTS: 1]**
 
-*"Gambler's Gambit."* I tapped a claw against my thigh. *"Once a day, a roll at rare loot. Okay. That doesn't sound so bad."*
+*"Once a day, a roll at rare loot. Okay. That doesn't sound so bad."* I tapped a claw against my thigh.
 
 I was still sore about the Elf, but I needed quick cash, and this was cash. Six days. *"I hate dumping points into something I know nothing about. But I gotta test it."* One point. If it was trash, I'd lose one point.
 
@@ -168,13 +178,13 @@ Goblins nearby stopped to watch. Not many, but enough that I could feel the eyes
 
 I couldn't die here. The 72-hour death lock surfaced in my mind, something I'd skimmed in the license screen before I pressed accept. *"One mistake and I'm done."*
 
-I brought up my skills menu with a thought, a small translucent window flickering into existence at the edge of my vision, two icons sitting there waiting.
+I brought up my skills menu with a thought, two icons waiting.
 
 **[GOBLIN GAS]**
 
 **[GOBLIN FLARE]**
 
-I focused on Goblin Gas mid-stride and the description expanded, text appearing in clean white letters.
+I focused on Goblin Gas mid-stride and the description expanded.
 
 **[GOBLIN GAS - RADIUS EFFECT]**
 
@@ -216,7 +226,7 @@ The cooldown hit zero, the number disappearing from my vision.
 
 I cut around a supply crate, put six feet of clean ground behind me in two quick strides, and triggered Goblin Gas again without hesitation.
 
-Same pressure building low, same mortifying release, same thick green cloud venting out in a radius around where I'd just been standing. This time both enforcers were close enough behind me to catch the worst of it before they could pull up or change direction, both of them running straight into the cloud at full speed.
+Same pressure low in my gut, same mortifying release, same thick green cloud. This time both enforcers were close enough behind me to catch the worst of it, running straight into it at full speed.
 
 **[POISON DEBUFF x2]**
 
@@ -230,7 +240,7 @@ Both folded over in the green mist, one retching with his hands on his knees, th
 
 *"Four stacks. Now for the counter."*
 
-I reached into the small leather pocket on my rags, my fingers closing around an item that was materializing in my hand. I read the tooltip that appeared beneath it, text clean and white against the chaos of the camp around me.
+I reached into a pocket on my rags and an item materialized in my hand. The tooltip came up beneath it.
 
 **[GOBLIN FLARE - EMERGENCY SIGNAL]**
 
@@ -258,7 +268,7 @@ A concentrated burst of flame erupted outward from the point of impact, bright a
 
 **[HEALTH: 50/50] [STAMINA: 20/25] [MANA: 25/25]**
 
-I stood there with my ears ringing, staring at two bodies sprawled in the dirt that weren't moving anymore, smoke still rising off them in thin trails.
+I stood there with my ears ringing, staring at two bodies that weren't moving anymore, smoke rising off them in thin trails.
 
 *"Holy shit. That actually worked."* My hands trembled slightly when I looked down at them.
 
