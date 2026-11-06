@@ -14,11 +14,11 @@ My chest was going before the thought finished. I stayed on my forearms and didn
 
 *"Okay, can I fix it? Go back to Nexus, tell them the power cut hit mid-creation, get Leon to back me up."*
 
-*"Then they ask what I was running it on. A first-gen pod, playing a game it was never built for. That's on me. No refund, no respec, and Leon takes the heat."*
+*"Then they ask what I was running it on. A first-gen pod, playing a game it was never built for. That's on me. I'd be getting walked out right behind that dude, and Leon takes the heat."*
 
 There was no version of that conversation that ended well. I stayed there until my breathing sorted itself out. It was a goblin. The Elf was gone, and nothing about that was going to change by lying in the dirt.
 
-*"Alright. Time to adjust."*
+*"Alright. It is what it is. Adjust."*
 
 I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore.
 
@@ -36,7 +36,7 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 **[UNSPENT POINTS: 2]**
 
-*"Two."* I closed the panel. The points could wait until I knew what I was spending them on.
+*"Two Wisdom. Man, come on."* I closed the panel. The points could wait until I knew what I was spending them on.
 
 Heat off the nearest fire reached my skin and made me step back from it, and the smell of whatever was cooking behind me made my mouth water even though I hadn't been hungry a second ago. I flexed a clawed hand and watched it move, each finger answering with a sharpness my real hand had never had.
 
@@ -76,9 +76,9 @@ Still, I was a goblin in rags with two Wisdom, and I needed a minute away from t
 
 **[LOGOUT UNAVAILABLE: WORLD QUEST ACTIVE]**
 
-The race I'd brushed past by accident had handed me a World Quest. *"What am I supposed to do with that?"* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
+The race I'd brushed past by accident had handed me a World Quest. *"A world quest? On the weakest race in the game? Come on."* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
 
-Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math. I tapped logout again anyway. Gray. *"Fine. Let's see where this goes."* The gamble was already made, and the only way out was through.
+Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math. I tapped logout again anyway. Gray. *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."* I'd watched people grind this game for a year. Time to find out if I could. The gamble was already made, and the only way out was through.
 
 Another notification sat quiet beneath it, gold-bordered and easy to miss against everything else demanding my attention.
 
@@ -94,7 +94,7 @@ I thought about equipping it the same way I'd navigated the menu a minute ago, a
 
 **[Fortune: 12]**
 
-Twelve Fortune at level one. I touched the earring with one clawed finger and felt it shift under my touch. *"Nobody starts with numbers like this. I need to test it and see if it's as good as it reads."*
+Twelve Fortune at level one. I touched the earring with one clawed finger and felt it shift under my touch. *"Twelve Fortune on day one? Okay, now we're talking. Gotta test it and see if it's really that good."*
 
 I was still taking it in when raised voices cut through the camp noise, sharp enough to pull my attention. One of them was pitched too high to be casual, cracking on the top end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught me before I'd consciously registered why.
 
@@ -108,11 +108,11 @@ Another goblin stepped up beside the first, arms crossed. "You heard him. Move."
 
 My eyes swept the camp. Goblins nearby kept working, sharpening blades, tending fires, a few glancing over but nobody moving to step in. The kind of scene people noticed and decided wasn't their problem.
 
-*"Two on one over a campfire spot. That's weak."*
+*"Two on one over a fire spot? That's weak."*
 
 I tapped two claws against my thigh, working through whether this was actually my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
 
-*"I need combat experience anyway. Might as well find out what breaks before it matters."*
+*"I need the reps anyway. Better to find out what breaks now."*
 
 The two enforcers stepped closer to the kid, one reaching for him.
 
@@ -184,7 +184,7 @@ I triggered the ability with a thought.
 
 Pressure built low in my gut, sudden and mortifying even mid-sprint, and then gas vented out behind me in a thick green cloud, from exactly the place nobody wants a cloud to come from.
 
-*"Oh. That's where it comes from. Damn, that's foul."* I covered my own nose with one hand, the smell reaching me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
+*"Oh, hell no. That's where it comes from? That's foul."* I covered my own nose with one hand, the smell reaching me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
 
 Coughing erupted behind me, harsh and wet. One of them doubled over, the sound of retching clear even over the noise of the camp.
 
@@ -206,7 +206,7 @@ Somewhere off to my left, a tent flap snapped open with a sharp crack of canvas 
 
 She didn't move to stop anything that was happening. A couple of the watching goblins picked up on that fast, started calling out to each other, half cheer and half joke, the kind of noise a crowd makes once it's decided nobody's in actual danger and this is just entertainment now.
 
-*"Good to know they think this is funny."*
+*"Oh, y'all think this is funny. Cool."*
 
 The cooldown hit zero, the number disappearing from my vision.
 
@@ -290,7 +290,7 @@ A gold-bordered notification bloomed beneath the item description, brighter than
 
 There it was. Something in my chest loosened for the first time since I'd watched the word Goblin lock into place.
 
-I let the thought sit there, the two vials still warm in my hands from lying near the bodies. *"This might actually work. The goblin lock, the World Quest, all of it. Maybe this isn't the disaster I thought it was."*
+I let the thought sit there, the two vials still warm in my hands from lying near the bodies. *"This might actually work. The goblin lock, the World Quest, all of it. Maybe this ain't the disaster I thought it was."*
 
 Then the laughing died. I looked up and the whole camp had gone still, every goblin turned my way, and from somewhere behind me came the slow, heavy tread of boots.
 

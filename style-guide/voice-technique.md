@@ -59,3 +59,5 @@ Nothing here overrides `style-guide/craft-rules.md` (no em dashes, one speaker/t
 - **Cue variety and figures that make sense (author-stated).** Any cue may be used, nothing is banned, but do not run the same ones. Be creative and experiment with different reactions, objects, sounds, light and the room. Similes and metaphors must make sense to a common 2026 reader and fit Tatsuya's own world; drop any figure that is confusing or pulls the character out of his world.
 
 > Cue rules live in `style-guide/cue-bank.md`, which overrides any older cue list in this file.
+
+- **Tatsuya's voice in practice (author-stated).** Plain, blunt and honest, Bernie Mac flavor: teasing, self-deprecating, says what he thinks ("come on", "that's foul", "bet"), never cute or dramatic phrasing. Competitive-gamer heart shows once he is locked into the goblin and the world quest and decides to push himself. Narration describes what he senses; inner dialogue stays in quoted italics, and both come from him. No stating the obvious.
