@@ -1,16 +1,28 @@
 # Chapter Four: Into Bloodhurst I
 
-For a second there was nothing. No weight, no pod around me, no air. Then the world built back in the wrong order, wind first, then something crackling, then voices layering in one at a time until the silence was gone and I was flat on my back in packed dirt, staring up at a gray sky.
+Dirt, cold and gritty against my cheek.
 
-*"No. No, no. I didn't hit continue."*
+I lay there with my face in it, too heavy to lift. Ash and woodsmoke filled my nose. A fire popped and settled somewhere close, and its heat lay along my left side like a hand. The ground under my ribs was packed hard and slightly damp, and it was the first thing in a long while that felt entirely real.
 
 Sound filled in, too many layers at once. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap that I could actually hear landing in rhythm. Then smell, woodsmoke thick enough to taste in the back of my throat, something cooking that leaned gamey and half-burned, and under it the sharp smell of bodies packed too close together in leather that hadn't seen water in way too long.
 
-I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, and when I looked down I found green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of my smaller frame. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven, the hem dragging past knees that weren't the right height for it anymore.
+I pushed up onto my forearms and the arms were wrong. Green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of me. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven.
+
+*"Shit."*
+
+My chest was going before the thought finished. I stayed on my forearms and didn't move. *"Don't. I've been in worse than this. Way worse. Nothing is on fire."*
+
+*"Okay. Fix it. Go back to Nexus and plead my case. Tell them the power cut hit mid-creation, get Leon to back me up that the pod went down."*
+
+*"And the first thing they ask is what I was running on it. A first-gen pod, and a game it was never built for. That's on me. No refund, no respec, and Leon's only moneymaker gets dragged in with me."*
+
+There was no version of that conversation that ended well. I stayed there until my breathing sorted itself out. It was a goblin. The Elf was gone, and nothing about that was going to change by lying in the dirt.
+
+*"Alright. Time to adjust."*
+
+I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore.
 
 A water barrel sat nearby, its surface still enough to throw back a reflection. I stepped closer and the face looking up at me was sharp-featured and green, yellow eyes blinking when I blinked, pointed ears I could actually feel against the sides of my head when I turned. No locs, no goatee, nothing of me in it but the stare.
-
-That was me. *"Lowest numbers on the wheel. I walked in here for a Spellforger and I got a goblin."* I wanted out. No refunds, a respec was five hundred thousand, one time only, and I had forty-seven. I'd watched that guy get walked out of Nexus for pushing on exactly this. There was no door back, just this body. I stood there frustrated and flustered, with nowhere to put either.
 
 I tried to grab for a menu the way the streamers did, a flick of two fingers in the air. Nothing. I swiped the other way and felt like an idiot, then thought *menu* as hard as I could. A pale panel bloomed in front of me and I flinched hard enough that a nearby goblin turned to stare, one eyebrow raised.
 
@@ -20,9 +32,13 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 ***[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]***
 
-I dismissed it with a thought. Everything was too immediate, too real. Heat off the nearest fire actually reached my skin and made me want to step back from it, and the smell of whatever was cooking behind me made my mouth water even though I hadn't been hungry a second ago. I flexed a clawed hand and watched it move, each finger responding with a sharpness my real hand had never had.
+**[Courage: 4 | Power: 4 | Wisdom: 2 | Speed: 7 | Fortune: 9 | Energy: 4]**
 
-I'd watched every clip of this game I could stand to watch, and not one of them had come close to what it was like to stand in it.
+**[UNSPENT POINTS: 2]**
+
+*"Two."* I closed the panel. The points could wait until I knew what I was spending them on.
+
+Heat off the nearest fire reached my skin and made me step back from it, and the smell of whatever was cooking behind me made my mouth water even though I hadn't been hungry a second ago. I flexed a clawed hand and watched it move, each finger answering with a sharpness my real hand had never had.
 
 Fog sat low over the hillside, the light flat and gray. Past the last tents, bare trunks stood along the treeline, and behind them one dark plume of smoke rose that didn't look like a cooking fire. The camp spread up the slope in a loose scatter of patched tents, canvas gone gray with weather and smoke stains, salvaged crates and pots stacked haphazardly against guy-lines that creaked in the wind.
 
