@@ -54,13 +54,15 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I was going to have to do some digging to turn that around. I swiped the panel shut harder than I needed to, and the hologram folded away.
 
-I started walking, short quick steps, learning the body as I went. Every goblin I could see carried a white marker over their head, faint unless I looked right at it.
+I started walking, short quick steps, learning the body as I went. The wind came down off the rock cold and damp, and the ground was dewy and soft. My legs ached, my ribs ached, and under it all my heart was pounding, hard enough that I could feel it in my throat and my wrists. A heartbeat, in a game. This was what full dive actually was.
 
-*"White. Friendly. To each other, at least."*
+Every goblin I could see had a marker floating over their head. I dug back through every stream I'd watched. White was usually NPCs, friendly. Gold meant somebody important, and I didn't see any gold. Blue was other players. I checked my own tag and it was blue, and everybody else's was white.
 
-None of it looked staged. A cluster near the small fire sharpened blades on whetstones. Two goblins arm-wrestled for coin while a crowd shouted them on. A smaller goblin shot past my legs at a full sprint, cackling, a stolen boot over its head.
+Two goblins were arm-wrestling by a crate with a crowd shouting them on. A pot boiled in the middle of camp, a goblin stirring it with a long spoon. And the biggest tent sat in the center, wide and tall, the kind of place whoever ran this camp would be. Okay. Now I knew where things were.
 
-*"Yo. I'm actually in this game."* For about two seconds I forgot to be mad. Then I remembered what I was in it as.
+None of them moved like scripted characters. The one at the pot tasted the stew, made a face, and added something. The arm-wrestlers cheated with their free hands. *"Damn. That's high-tech AI."* I'd always figured NPCs were set dressing, and nobody here was acting like set dressing. I decided I wasn't going to talk to any of them like they were.
+
+For a minute I forgot to be mad about the Elf. Then I remembered I was stuck as a goblin, and I wanted out.
 
 I flicked the panel back up and went for logout at the bottom. It didn't answer. A line of gray text slid in over it.
 
@@ -162,7 +164,7 @@ My legs moved wrong, too short, the stride narrow and choppy, but lighter now, s
 
 I cut between two tents at an angle they'd have to widen out to follow, wind whipping at my ears as I used the canvas shadows to break line of sight, boots kicking up small clouds of dust where the ground was packed hard.
 
-Goblins nearby stopped what they were doing to watch, a few of them standing up from their fires or setting down whatever they'd been working on. Not many, the camp wasn't packed, but enough that I could feel the eyes tracking me.
+Goblins nearby stopped to watch. Not many, but enough that I could feel the eyes tracking me.
 
 I couldn't die here. The 72-hour death lock surfaced in my mind, something I'd skimmed in the license screen before I pressed accept. *"One mistake and I'm done."*
 
@@ -188,7 +190,7 @@ Pressure built low in my gut, sudden and mortifying even mid-sprint, and then ga
 
 *"Oh, hell no. That's where it comes from? That's foul."* I covered my own nose with one hand, the smell reaching me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
 
-Coughing erupted behind me, harsh and wet. One of them doubled over, the sound of retching clear even over the noise of the camp.
+Coughing erupted behind me, harsh and wet. One of them doubled over retching.
 
 **[POISON DEBUFF: STACK 1]**
 
@@ -198,9 +200,9 @@ Then the gap closed again. I glanced back over my shoulder and caught one enforc
 
 *"They're not just chasing anymore. They're trying to box me in. Smart."*
 
-I threaded a gap between two tents barely wide enough for my shoulders, my smaller frame making it easier than it would have been at my real height, canvas brushing both arms as I squeezed through. I came out on the other side past the big stew pot, the goblin tending it stepping back out of my way without a word, wooden spoon still in hand, eyes tracking me the whole time with an expression that read more curious than alarmed.
+I threaded a gap between two tents barely wide enough for my shoulders, canvas brushing both arms, and came out past the big stew pot, the goblin tending it stepping back out of my way, spoon still in hand, more curious than alarmed.
 
-The cooldown on Goblin Gas ticked at the edge of my vision, numbers counting down in steady increments. **[COOLDOWN: 30 SECONDS. 25. 20.]**
+**[COOLDOWN: 30 SECONDS. 25. 20.]**
 
 Somewhere off to my left, a tent flap snapped open with a sharp crack of canvas on wood. A goblin stepped out into the open air, wild green hair catching the firelight, copper rings hanging from her ears and glinting, arms loose at her sides instead of reaching for any kind of weapon. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, tracking my movement without any visible concern.
 
@@ -224,7 +226,7 @@ Same pressure building low, same mortifying release, same thick green cloud vent
 
 **[NAUSEOUS]**
 
-Both of them folded over in the green mist almost immediately, one retching outright with his hands on his knees, the other dropping to one hand flat on the ground, his whole body heaving with the effort of not throwing up.
+Both folded over in the green mist, one retching with his hands on his knees, the other down on one hand.
 
 *"Four stacks. Now for the counter."*
 
@@ -240,7 +242,7 @@ I struck the flare against the rough edge of a nearby crate and it caught immedi
 
 The gas caught the instant the flare touched it.
 
-A concentrated burst of flame erupted outward from the point of impact, bright and hot and loud enough that I felt the concussive wave of it hit my chest from fifteen feet away. The explosion lit up the entire camp for half a second, throwing long shadows across the tents and the watching goblins, heat washing back at me hard enough that I raised one arm to shield my face.
+A concentrated burst of flame erupted outward from the point of impact, bright and hot and loud enough that I felt the concussive wave hit my chest from fifteen feet away. The explosion lit the whole camp for half a second, heat washing back hard enough that I raised an arm to shield my face.
 
 **[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
 
@@ -274,7 +276,7 @@ A leather belt sat in the dirt where the smaller of the two bodies had fallen, h
 
 **[ABILITIES: SMOKE BOMB, GAS BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]**
 
-I turned the belt over in my hands, feeling the weight of it, the rough leather warm from sitting in the dirt near the fire. Fine. Still something. Better than nothing.
+I turned the belt over in my hands, the rough leather still warm from the fire. Fine. Better than nothing.
 
 I looped it around my waist and felt it settle, the pouches hanging against my hip where I could reach them easily. Then I picked up the two vials, small and delicate in my clawed hands, a number stamped faint beneath the green glass on each one.
 
