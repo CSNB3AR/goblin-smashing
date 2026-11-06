@@ -24,7 +24,11 @@ Almost. Then I heard the next question coming out of the attendant's mouth.
 
 *"So what was it running on?"*
 
-A first-gen pod, and a game it was never built for. *"That's on me. They'd walk me out right behind that dude, and Leon takes the heat."*
+A first-gen pod, and a game it was never built for. Leon's pod, and Leon had no idea what I'd done to it.
+
+*"Damn, that won't work. To get him to back me up I'd have to tell him about the hardwire, and I'd lose him right there."*
+
+The attendant I could handle. Leon was the one I'd already lied to, and I'd be burning the only door I had open before I even got started.
 
 I stayed down until the picture stopped playing. There was no version of that conversation that ended well. It was a goblin. The Elf was gone, and lying in the dirt wasn't going to change it.
 
