@@ -72,7 +72,7 @@ I scrolled back to my stats, then through every menu I could remember the stream
 
 **[NEWCOMER MYSTERY BOX - UNOPENED]**
 
-I knew that box. Every new character got one because nobody had picked a role yet, and closed-beta players had opened theirs on stream all the time. It could give a weapon, a skill line, a passive, an item, whatever the roll felt like.
+I knew that box. It was the welcome gift HGO handed every new player, a way to help them get started. Most boxes gave something useful, a weapon, a skill line, a passive, an item, and the odds on anything big were low. I'd watched a few players get lucky and pull a rare or even a legendary on stream.
 
 I sat with where I was. No way out, tied to a world quest in the open beta, and nobody to tell me what it wanted. Somewhere in there I realized I wasn't as upset as I should've been. I was more curious than anything.
 
@@ -80,11 +80,11 @@ I sat with where I was. No way out, tied to a world quest in the open beta, and 
 
 The lid flashed gold, then brighter.
 
-**[RARE]**
+**[UNIQUE]**
 
 **[PASSIVE ACQUIRED: GAMBLER'S GAMBIT]**
 
-*"Huh."*
+*"Unique? Huh."*
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
@@ -102,7 +102,7 @@ I pressed equip.
 
 Something small clicked against my right ear. I touched it and found a single bronze die on a short hook, the pips worn smooth, a little weight I could feel every time I turned my head.
 
-**[GAMBLER'S EARRING - RARE]**
+**[GAMBLER'S EARRING - UNIQUE]**
 
 **[+3 FORTUNE]**
 
