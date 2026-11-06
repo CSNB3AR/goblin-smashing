@@ -43,3 +43,7 @@ The funeral itself was held and funded by the Tabuchis, which is how Kazuto got 
 - **Design habit (author-stated).** Every Haya product carries a 12-volt system so any mechanic with a jump pack and cables can wake it, which is why the EB, though fully electric, can be jump-started.
 
 - **Forward plot (author-stated, not on the page).** See `outline/canon-ledger.md`, "Forward plot": Kazuku holds the Sedan's data report showing it was disrupted; the impound wreckage shows tampering; fingerprints lead to a criminal chain; the police may be paid off; Chiyo's yakuza-based family is a counterweight to the Tabuchis; Eren does not know the Tabuchi side.
+
+## Company inheritance (author-stated, off the page)
+
+Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya does not know yet. It connects to the "bring your business here" thread later.

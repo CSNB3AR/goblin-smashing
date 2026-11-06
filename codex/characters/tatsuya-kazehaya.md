@@ -107,3 +107,7 @@ Essentially never travels outside Shibuya ward. His day-to-day world (WattsUp, t
 - **Visual reference, updated (author's picture, `codex/characters/reference/tatsuya-urawa-jersey.png`).** Black and red Urawa Red Diamonds jersey, a real J1 League club he supports (the author asked for a named club). Locs tied up high with loose strands left framing his face, faded sides, thin goatee, brown eyes, a hoop earring. Dark brown skin.
 
 - **His technical edge (author-stated).** Tatsuya may be a noob in other departments, but he is technically smart, and that carries him into the game. Later he crafts and does basic engineering, studies blacksmiths and ancient tech, and works transmutations a lot. Chapter 3 sets this up by showing him run the EB repair like a pit stop: laptop boots, service cable, diagnostic readout, and he reads the weak cell from the curve instead of testing each one.
+
+## Company inheritance (author-stated, off the page)
+
+Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya does not know yet. It connects to the "bring your business here" thread later.

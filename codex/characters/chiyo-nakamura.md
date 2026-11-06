@@ -43,3 +43,7 @@ The warm but iron-fisted matriarch. Looks like a sweet grandma until the old coa
 - **Tochi, later (author-stated).** In chapter 2 Tatsuya has no intention of going back to Tochi; he wants to show Chiyo he can make real money, and if he cannot, she will send him there. His later reason: at Sakura Arcade he finds first-gen pods, the manual lacks the details to fix them, he cannot find a pod to play on, and on the Kyoto trip he decides Tochi is his best bet. Also: he starts to suspect someone is behind the Tabuchis (maybe at Tochi) and questions Daichi's closed casket.
 
 - **Forward plot (author-stated, not on the page).** See `outline/canon-ledger.md`, "Forward plot": Kazuku holds the Sedan's data report showing it was disrupted; the impound wreckage shows tampering; fingerprints lead to a criminal chain; the police may be paid off; Chiyo's yakuza-based family is a counterweight to the Tabuchis; Eren does not know the Tabuchi side.
+
+## Company inheritance (author-stated, off the page)
+
+Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya does not know yet. It connects to the "bring your business here" thread later.
