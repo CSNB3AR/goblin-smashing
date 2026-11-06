@@ -118,7 +118,7 @@ Something small clicked against my right ear. I touched it and found a single br
 
 **[Fortune: 12]**
 
-*"So the earring runs off my Fortune stat. Interesting."* Coincidence or not, if this really rolled off Fortune, it could be how I made money, and I could use it a lot more than I thought. For the first time since the wheel stopped, I felt optimistic. *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."*
+For the first time since the wheel stopped, I felt optimistic. If this thing really paid out, it could be how I made money, and I could use it a lot more than I thought. *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."*
 
 I was still taking it in when raised voices cut through the camp noise, one of them pitched too high, cracking on the top end.
 
