@@ -36,13 +36,13 @@ I pulled up the description, thumb moving through the motion without thinking ab
 
 I read it again, slower this time, squinting as the white letters sharpened against the black. Once per day I could roll for rare gear. At level one. For the first time since the wheel stopped, I wasn't only angry.
 
-I pulled up the character menu, looking for the reset option I knew was supposed to be there.
+I pulled up the character menu and went straight for the respec I'd watched that guy get quoted at Nexus. Five hundred thousand yen, which I didn't have.
 
-Nothing. Just a gray notice at the bottom:
+The option wasn't even there. Just a gray notice at the bottom:
 
 **[CHARACTER RESET NOT AVAILABLE FOR THIS DRIVE]**
 
-*"Of course not."* I could contact support, but that was days I didn't have. I hissed through my teeth.
+*"Of course not."* Support would take days I didn't have. I hissed through my teeth.
 
 My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
 
@@ -90,7 +90,7 @@ I dismissed it with a thought. Everything was too immediate, too real. Heat off 
 
 I'd watched every clip of this game I could stand to watch, and not one of them had come close to what it was like to stand in it.
 
-The camp spread up a hillside in a loose scatter of patched tents, canvas gone gray with weather and smoke stains, salvaged crates and pots stacked haphazardly against guy-lines that creaked in the wind.
+Fog sat low over the hillside, the light flat and gray. Past the last tents, bare trunks stood along the treeline, and behind them one dark plume of smoke rose that didn't look like a cooking fire. The camp spread up the slope in a loose scatter of patched tents, canvas gone gray with weather and smoke stains, salvaged crates and pots stacked haphazardly against guy-lines that creaked in the wind.
 
 Two fires burned in the open ground between the tents, one small and crackling, one built up big enough to roast something the size of a pig. Every goblin I could see carried a white marker floating over their head, faint and easy to miss unless I looked directly at it.
 
@@ -176,7 +176,7 @@ I turned and ran.
 
 My legs moved wrong, too short, the stride narrow and choppy, but lighter now, springier with every step, my reduced weight making each push off the ground feel almost effortless next to my real body. *"Speed's doing work. Okay, that's actually clean."*
 
-I cut between two tents at an angle they'd have to widen out to follow, wind whipping through my hair as I used the canvas shadows to break line of sight, boots kicking up small clouds of dust where the ground was packed hard.
+I cut between two tents at an angle they'd have to widen out to follow, wind whipping at my ears as I used the canvas shadows to break line of sight, boots kicking up small clouds of dust where the ground was packed hard.
 
 Goblins nearby stopped what they were doing to watch, a few of them standing up from their fires or setting down whatever they'd been working on. Not many, the camp wasn't packed, but enough that I could feel the eyes tracking me.
 
@@ -200,7 +200,7 @@ I focused on Goblin Gas mid-stride and the description expanded, text appearing 
 
 I triggered the ability with a thought.
 
-Pressure built low in my gut, sudden and mortifying even mid-sprint, and then gas vented out behind me in a thick green cloud that erupted from exactly where I'd been afraid it would.
+Pressure built low in my gut, sudden and mortifying even mid-sprint, and then gas vented out behind me in a thick green cloud, from exactly the place nobody wants a cloud to come from.
 
 *"Oh. That's where it comes from. Damn, that's foul."* I covered my own nose with one hand, the smell reaching me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
 
@@ -218,9 +218,9 @@ I threaded a gap between two tents barely wide enough for my shoulders, my small
 
 The cooldown on Goblin Gas ticked at the edge of my vision, numbers counting down in steady increments. **[COOLDOWN: 30 SECONDS. 25. 20.]**
 
-Somewhere off to my left, a tent flap snapped open with a sharp crack of canvas on wood. A goblin stepped out into the open air, wild green hair catching the firelight, copper rings hanging from her ears and glinting, arms loose at her sides instead of reaching for any kind of weapon. Her eyes found me immediately, tracking my movement without any visible concern.
+Somewhere off to my left, a tent flap snapped open with a sharp crack of canvas on wood. A goblin stepped out into the open air, wild green hair catching the firelight, copper rings hanging from her ears and glinting, arms loose at her sides instead of reaching for any kind of weapon. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, tracking my movement without any visible concern.
 
-*"Someone important. And she's not stepping in."*
+*"Gold. Someone important. And she's not stepping in."*
 
 She didn't move to stop anything that was happening. A couple of the watching goblins picked up on that fast, started calling out to each other, half cheer and half joke, the kind of noise a crowd makes once it's decided nobody's in actual danger and this is just entertainment now.
 
