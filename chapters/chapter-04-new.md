@@ -6,7 +6,9 @@ I lay there with my face in it, too heavy to lift. Ash and woodsmoke filled my n
 
 The noise sorted itself out slowly. Voices in a mixed Japanese I couldn't make out, half the words bent into something that wasn't quite the language, and under it the smell of smoke and half-burned meat.
 
-I got my eyes open and the world swam. Black and orange, a smear of firelight with nothing sharp in it, and at the edges pale rectangles flickering in and out like a screen trying to boot. I squeezed my eyes shut and opened them again until the smear started to hold.
+I got my eyes open and the world swam, black and orange, with pale rectangles flickering at the edges like a screen trying to boot. I squeezed my eyes shut and opened them again until it held.
+
+The camp climbed away from me up a slope, lit orange by the fires. A ring of stones around a fire pit sat right in front of my face with a thin line of smoke rising off it, and past it hide-covered tents leaned on timber frames, one huge one in the middle with a cart of hay bales parked beside it. Sharpened stakes ran along the edge of the clearing, two blue banners hung limp on their poles, and at the back a waterfall poured down the rock into a stream.
 
 I pushed up onto my forearms and the arms were wrong. Green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of me. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven.
 
@@ -53,8 +55,6 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 *"Two Wisdom. Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two. That's not a stat, that's a typo."*
 
 The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I was going to have to do some digging to turn that around. I swiped the panel shut harder than I needed to, and the hologram folded away.
-
-Past the barrel the camp came up out of the dark. A stone-ringed fire pit with a thin line of smoke climbing off it. Hide-covered tents on heavy timber frames, their roofs gone gray with smoke. And behind them the rock going up wet and black, with a long pale thread of water coming down it.
 
 I started walking, short quick steps, learning the body as I went. Every goblin I could see carried a white marker over their head, faint unless I looked right at it.
 
