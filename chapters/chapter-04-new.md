@@ -84,7 +84,9 @@ The lid flashed gold, then brighter.
 
 **[PASSIVE ACQUIRED: GAMBLER'S GAMBIT]**
 
-*"Unique? Huh."*
+*"Unique?"* I read it twice. Rare, legendary, sure, I'd watched people pull those. Nobody I'd seen had ever pulled a unique out of one of these boxes. I let out a low whistle and tried to play it cool, and didn't do a good job.
+
+*"Was that the Fortune? Or am I just lucky?"* I wasn't going to figure it out standing here, but now I wanted to test it.
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
@@ -110,7 +112,7 @@ Something small clicked against my right ear. I touched it and found a single br
 
 **[Fortune: 12]**
 
-*"Twelve Fortune on day one. I wonder how I can use this. Whatever I knew about it could've been patched, so I gotta test it."* Then, quieter: *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."* I'd watched people grind this game for a year. Time to find out if I could.
+*"Twelve Fortune on day one. Whatever I knew could've been patched, so I gotta test it."* Then, quieter: *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."* I'd watched people grind this game for a year. Time to find out if I could.
 
 I was still taking it in when raised voices cut through the camp noise, sharp enough to pull my attention. One of them was pitched too high to be casual, cracking on the top end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught me before I'd consciously registered why.
 
@@ -172,9 +174,9 @@ Then there wasn't time to think.
 
 I turned and ran.
 
-My legs moved wrong, too short, the stride narrow and choppy, but lighter now, springier with every step, my reduced weight making each push off the ground feel almost effortless next to my real body. *"Speed's doing work. Okay, that's actually clean."*
+My legs moved wrong, too short and choppy, but lighter now, each push off the ground almost effortless next to my real body. *"Speed's doing work. Okay, that's actually clean."*
 
-I cut between two tents at an angle they'd have to widen out to follow, wind whipping at my ears as I used the canvas shadows to break line of sight, boots kicking up small clouds of dust where the ground was packed hard.
+I cut between two tents at an angle they'd have to widen out to follow, using the canvas shadows to break line of sight.
 
 Goblins nearby stopped to watch. Not many, but enough that I could feel the eyes tracking me.
 
