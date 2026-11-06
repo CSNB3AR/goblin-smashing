@@ -60,7 +60,7 @@ Every goblin I could see had a marker floating over their head. I dug back throu
 
 Two goblins were arm-wrestling by a crate with a crowd shouting them on. A pot boiled in the middle of camp, a goblin stirring it with a long spoon. And the biggest tent sat in the center, wide and tall, the kind of place whoever ran this camp would be. Okay. Now I knew where things were.
 
-None of them moved like scripted characters. The one at the pot tasted the stew, made a face, and added something. The arm-wrestlers cheated with their free hands. *"Damn. That's high-tech AI."* I'd always figured NPCs were set dressing, and nobody here was acting like set dressing. I decided I wasn't going to talk to any of them like they were.
+None of them moved like scripted characters. The one at the pot tasted the stew, made a face, and added something. The arm-wrestlers cheated with their free hands. Even the goblin with the meat had shrugged me off like I was just another guy walking by. *"Damn. If I ever saw a real goblin, I guess this is what it'd feel like. Shit feels authentic."* I'd always expected NPCs to talk like a regular RPG, the same lines on a loop. This wasn't that. *"Gotta treat this game with some respect."*
 
 For a minute I forgot to be mad about the Elf. Then I remembered I was stuck as a goblin, and I wanted out.
 
