@@ -8,7 +8,7 @@ The noise sorted itself out slowly. Voices in a mixed Japanese I couldn't make o
 
 I got my eyes open and the world swam, black and orange, with pale rectangles flickering at the edges like a screen trying to boot. I squeezed my eyes shut and opened them again until it held.
 
-The camp climbed away from me up a slope, lit orange by the fires. A ring of stones around a fire pit sat right in front of my face with a thin line of smoke rising off it, and past it hide-covered tents leaned on timber frames, one huge one in the middle with a cart of hay bales parked beside it. Sharpened stakes ran along the edge of the clearing, two blue banners hung limp on their poles, and at the back a waterfall poured down the rock into a stream.
+The camp climbed away from me up a slope, lit orange by the fires. A ring of stones around a fire pit sat right in front of my face with a thin line of smoke rising off it, and past it hide-covered tents leaned on timber frames, one huge one in the middle with a cart of hay bales parked beside it. Sharpened stakes ran along the edge of the clearing, two blue banners hung limp on their poles, and at the back a waterfall poured down the rock into a stream. The only way out I could see was one dirt track curving off to the right between the stakes. Everything else was cliff and water. Thirty, maybe forty goblins moved between the tents.
 
 I pushed up onto my forearms and the arms were wrong. Green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of me. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven.
 

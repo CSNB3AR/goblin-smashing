@@ -243,3 +243,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Goblin height (author-stated): as a normal goblin Tatsuya is very short (about four feet), a shorter version of the reference image, with similar facial expressions. The taller look in the image is the Shiv goblin, reached when Shiv blesses him.
 
 - OPEN: Tatsuya believes you need at least 6 Wisdom to cast anything (author-stated, based on what he knew in the closed beta, possibly outdated). The codex says the tier-1 casting threshold is Wisdom 18 (`codex/magic/overview.md`). Not reconciled; the page only states his belief.
+
+- Bloodhurst (author-stated): one path in and out, cliffs and waterfall behind, about 30 to 40 goblins. The single path is the trap in the later fight. Headcount vs the earlier 25-30 and 50 figures is OPEN.
