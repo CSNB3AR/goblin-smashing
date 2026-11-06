@@ -14,19 +14,23 @@ I pushed up onto my forearms and the arms were wrong. Green skin where my own da
 
 *"Shit."*
 
-My chest was going before the thought finished. I stayed on my forearms and didn't move. *"Chill. Don't trip. I've been through way worse than this."*
+Green, clawed, too long for a body this small. There was no other way to read it. I was a goblin. *"Damn it. No way I'm getting the Elf now."*
+
+My chest was going, and I stayed on my forearms and didn't move. *"Chill. Don't trip. I've been through way worse than this."*
 
 Dropping out of Tochi. The funeral. A goblin wasn't the worst thing that had happened to me this year. I let my breathing slow, and the first practical thought came in, and I held on to it because it was a way out.
 
 *"Okay, can I fix it? Go back to Nexus, tell them the power cut hit mid-creation, get Leon to back me up."*
 
-I lay there and imagined how it would play out. Me at the counter in front of the attendant with the round glasses, the power cut, Leon on the line. It almost sounded like it could work. Then the first question would come, what I'd been running it on. A first-gen pod, and a game it was never built for.
+I lay there and let it play out. Me at the counter telling the story, Leon on the line saying the power really did go. The more I ran it, the better it sounded, and the thought started to settle in.
+
+Then the hole in it showed up on its own. Whoever was behind that counter would ask what I'd been running the game on. A first-gen pod, and a game it was never built for. That was the question I'd ask, and it was the one I'd get stuck on.
 
 I shook the thoughts away and went to scratch my goatee. My claw found smooth skin, and I let the hand drop. *"Damn, that won't work."*
 
 Getting Leon to back me up meant telling him the truth about the hardwire, and until I had some way to fix what I'd done to his pod, I couldn't do that. Not yet.
 
-I stayed down a while longer. It was a goblin. The Elf was gone, and lying in the dirt wasn't going to change it.
+That was it, then. No refund, no respec, no door back. I stayed there a second longer with it.
 
 *"Alright. It is what it is. Adjust."*
 
