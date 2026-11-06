@@ -20,19 +20,13 @@ Dropping out of Tochi. The funeral. A goblin wasn't the worst thing that had hap
 
 *"Okay, can I fix it? Go back to Nexus, tell them the power cut hit mid-creation, get Leon to back me up."*
 
-I lay there with it and pictured the counter. Me in front of the attendant with the round glasses, telling him about the power cut, Leon's name on the call to back me up. It almost sounded like it could work.
+I lay there and imagined how it would play out. Me at the counter in front of the attendant with the round glasses, the power cut, Leon on the line. It almost sounded like it could work. Then the first question would come, what I'd been running it on. A first-gen pod, and a game it was never built for.
 
-Almost. In my head the attendant pushed his glasses up and asked the next question.
+I shook the thoughts away and went to scratch my goatee. My claw found smooth skin, and I let the hand drop. *"Damn, that won't work."*
 
-*"So what was it running on?"*
+Getting Leon to back me up meant telling him the truth about the hardwire, and until I had some way to fix what I'd done to his pod, I couldn't do that. Not yet.
 
-A first-gen pod, and a game it was never built for. Leon's pod, and Leon had no idea what I'd done to it.
-
-I shook my head slowly and went to scratch my goatee. My claw found smooth skin, and I let the hand drop. *"Damn, that won't work. To get him to back me up I'd have to tell him about the hardwire, and I'd lose him right there."*
-
-The attendant I could handle. Leon I'd already lied to, and I'd be burning my only open door.
-
-I stayed down until the picture stopped playing. It was a goblin. The Elf was gone, and lying in the dirt wasn't going to change it.
+I stayed down a while longer. It was a goblin. The Elf was gone, and lying in the dirt wasn't going to change it.
 
 *"Alright. It is what it is. Adjust."*
 

@@ -245,3 +245,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - OPEN: Tatsuya believes you need at least 6 Wisdom to cast anything (author-stated, based on what he knew in the closed beta, possibly outdated). The codex says the tier-1 casting threshold is Wisdom 18 (`codex/magic/overview.md`). Not reconciled; the page only states his belief.
 
 - Bloodhurst (author-stated): one path in and out, cliffs and waterfall behind, about 30 to 40 goblins. The single path is the trap in the later fight. Headcount vs the earlier 25-30 and 50 figures is OPEN.
+
+- Gen 3 cores (author-stated, supersedes the price proposal): third-gen cores cannot be looked up or priced because they run through a different channel. Tatsuya only knows the company is tied to Kazuku and that he saw the core logo on equipment in Tochi's tech lab, so Tochi may be his only lead. He always knew he could get back into Tochi (Chiyo, and he is smart), but now he has a reason: having overridden the pod he has to fix it or it dies soon. The 420,000 yen figure is dropped.
