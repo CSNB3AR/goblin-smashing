@@ -60,21 +60,23 @@ Every goblin I could see had a marker floating over their head. I dug back throu
 
 Two goblins were arm-wrestling by a crate with a crowd shouting them on. A pot boiled in the middle of camp, a goblin stirring it with a long spoon. And the biggest tent sat in the center, wide and tall, the kind of place whoever ran this camp would be. Okay. Now I knew where things were.
 
-None of them moved like scripted characters. The one at the pot tasted the stew, made a face, and added something. The arm-wrestlers cheated with their free hands. Even the goblin with the meat had shrugged me off like I was just another guy walking by. *"Damn. If I ever saw a real goblin, I guess this is what it'd feel like. Shit feels authentic."* I'd always expected NPCs to talk like a regular RPG, the same lines on a loop. This wasn't that. *"Gotta treat this game with some respect."*
+None of them moved like scripted characters. The one at the pot tasted the stew, made a face, and added something. The arm-wrestlers cheated with their free hands. Even the goblin with the meat had shrugged me off like I was just another guy walking by. *"Damn. If I ever saw a real goblin, I guess this is what it'd feel like."* I scratched my head and shrugged it off.
 
-For a minute I forgot to be mad about the Elf. Then I remembered I was stuck as a goblin, and I wanted out.
-
-I flicked the panel back up and went for logout at the bottom. It didn't answer. A line of gray text slid in over it.
+I flicked the panel back up to double-check logout. It still didn't answer. The same gray line slid in over it.
 
 **[WORLD QUEST IN PROGRESS. PLEASE FINISH THE CURRENT SCENARIO BEFORE LOGGING OUT.]**
 
-*"Finish the scenario? I just got here."* I tapped it again. Same gray. *"Is that the pod? Did I cook something with that hardwire?"* There was nothing I could do about it from in here, so I pushed the thought down with the rest.
+*"A world quest? How did I trigger something like that here?"*
 
-I pulled the panel up a third time and went through the inventory, looking for anything that told me what I could even do. One slot held a single item, a small chest glowing faint gold.
+I scrolled back to my stats, then through every menu I could remember the streamers using, hunting for anything on the quest. Quest log, map, notes. Nothing. I checked the inventory in case the quest had handed me an item, and there was only one thing in it, a small chest glowing faint gold.
 
 **[NEWCOMER MYSTERY BOX - UNOPENED]**
 
-I knew that box. Every new character got one, because nobody had picked a role yet. Closed-beta players had opened theirs on stream all the time, and it could give you a weapon, a skill line, a passive, an item, whatever the roll felt like. *"Well, I got Fortune. Might as well see what kind of luck it gets me."* I opened it.
+I knew that box. Every new character got one because nobody had picked a role yet, and closed-beta players had opened theirs on stream all the time. It could give a weapon, a skill line, a passive, an item, whatever the roll felt like.
+
+I sat with where I was. No way out, tied to a world quest in the open beta, and nobody to tell me what it wanted. Somewhere in there I realized I wasn't as upset as I should've been. I was more curious than anything.
+
+*"Maybe if I open this, my Fortune plays a part."* I opened it.
 
 The lid flashed gold, then brighter.
 
@@ -82,7 +84,7 @@ The lid flashed gold, then brighter.
 
 **[PASSIVE ACQUIRED: GAMBLER'S GAMBIT]**
 
-*"Huh."* On the streams, rares out of those boxes had been hard to come by. Maybe that was the Fortune. Maybe I just got lucky. I'd have to dig into the drop rates later to know.
+*"Huh."*
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
