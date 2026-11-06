@@ -2,9 +2,11 @@
 
 Dirt, cold and gritty against my cheek.
 
-I lay there with my face in it, too heavy to lift. Ash and woodsmoke filled my nose. A fire popped and settled somewhere close, and its heat lay along my left side like a hand. The ground under my ribs was packed hard and slightly damp, and it was the first thing in a long while that felt entirely real.
+I lay there with my face in it, too heavy to lift. Ash and woodsmoke filled my nose, and under it something wet and mossy. A fire popped and settled somewhere close, its heat lying along my left side like a hand, and past it came the steady hiss of water falling a long way. The ground under my ribs was packed hard and slightly damp.
 
-Sound filled in, too many layers at once. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap that I could actually hear landing in rhythm. Then smell, woodsmoke thick enough to taste in the back of my throat, something cooking that leaned gamey and half-burned, and under it the sharp smell of bodies packed too close together in leather that hadn't seen water in way too long.
+The noise sorted itself out slowly, a layer at a time. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal, fire eating through green wood with a wet crackling snap. Then smell, gamey meat half-burned over a flame, and under it the sharp smell of bodies packed too close in leather that hadn't seen water in way too long.
+
+I got my eyes open and the world swam. Black and orange, a smear of firelight with nothing sharp in it, and at the edges pale rectangles flickering in and out like a screen trying to boot. I squeezed my eyes shut and opened them again until the smear started to hold.
 
 I pushed up onto my forearms and the arms were wrong. Green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of me. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven.
 
@@ -12,17 +14,25 @@ I pushed up onto my forearms and the arms were wrong. Green skin where my own da
 
 My chest was going before the thought finished. I stayed on my forearms and didn't move. *"Chill. Don't trip. I've been through way worse than this."*
 
+Dropping out of Tochi. The funeral. A goblin wasn't the worst thing that had happened to me this year. I let my breathing slow, and the first practical thought came in, and I held on to it because it was a way out.
+
 *"Okay, can I fix it? Go back to Nexus, tell them the power cut hit mid-creation, get Leon to back me up."*
 
-*"Then they ask what I was running it on. A first-gen pod, playing a game it was never built for. That's on me. I'd be getting walked out right behind that dude, and Leon takes the heat."*
+I lay there with it. The counter, the attendant with the round glasses, Leon vouching for me with that unlit cigarette behind his ear. It almost sounded like it could work.
 
-There was no version of that conversation that ended well. I stayed there until my breathing sorted itself out. It was a goblin. The Elf was gone, and nothing about that was going to change by lying in the dirt.
+Almost. Then I heard the next question coming out of the attendant's mouth.
+
+*"So what was it running on?"*
+
+A first-gen pod, and a game it was never built for. *"That's on me. They'd walk me out right behind that dude, and Leon takes the heat."*
+
+I stayed down until the picture stopped playing. There was no version of that conversation that ended well. It was a goblin. The Elf was gone, and lying in the dirt wasn't going to change it.
 
 *"Alright. It is what it is. Adjust."*
 
-I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore.
+I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore. A little over six feet had turned into maybe five, my eyes level with the shoulders of the goblins by the fire, my chest narrow, my ribs countable through the rags.
 
-A water barrel sat nearby, its surface still enough to throw back a reflection. I stepped closer and the face looking up at me was sharp-featured and green, yellow eyes blinking when I blinked, pointed ears I could actually feel against the sides of my head when I turned. No locs, no goatee, nothing of me in it but the stare.
+A water barrel sat nearby with the firelight rocking on its surface. I stepped closer and the face looking up at me was sharp-featured and green, yellow eyes blinking when I blinked, pointed ears I could feel against the sides of my head when I turned. No locs, no goatee, nothing of me in it but the stare.
 
 I tried to grab for a menu the way the streamers did, a flick of two fingers in the air. Nothing. I swiped the other way and felt like an idiot, then thought *menu* as hard as I could. A pale panel bloomed in front of me and I flinched hard enough that a nearby goblin turned to stare, one eyebrow raised.
 
@@ -40,9 +50,9 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 Heat off the nearest fire reached my skin and made me step back from it, and the smell of whatever was cooking behind me made my mouth water even though I hadn't been hungry a second ago. I flexed a clawed hand and watched it move, each finger answering with a sharpness my real hand had never had.
 
-Fog sat low over the hillside, the light flat and gray. Past the last tents, bare trunks stood along the treeline, and behind them one dark plume of smoke rose that didn't look like a cooking fire. The camp spread up the slope in a loose scatter of patched tents, canvas gone gray with weather and smoke stains, salvaged crates and pots stacked haphazardly against guy-lines that creaked in the wind.
+With my eyes clear, the camp came up out of the dark in pieces. Hide-covered tents leaned on heavy timber frames, their roofs gone gray with smoke, and the dirt between them was worn into paths by a lot of boots. A stone-ringed fire pit sat nearest me with a thin line of smoke climbing off it, and further in a bigger fire, built up enough to roast something the size of a pig, lit a cart stacked with hay bales and a ragged line of sharpened stakes along the edge of the clearing. Two blue banners hung limp on their poles. Behind the tents the hillside went up into wet black rock with pines standing against it, and somewhere up there the water I'd heard came down in a long pale thread and ran off into a stream.
 
-Two fires burned in the open ground between the tents, one small and crackling, one built up big enough to roast something the size of a pig. Every goblin I could see carried a white marker floating over their head, faint and easy to miss unless I looked directly at it.
+Every goblin I could see carried a white marker floating over their head, faint and easy to miss unless I looked directly at it.
 
 *"White tags. Friendly. To each other, at least."*
 

@@ -6,6 +6,10 @@
 
 Foggy, muted color palette, overcast light. Patched canvas tents in irregular clusters, worn and weathered, scattered pottery and salvaged goods piled around them. Two visible campfires, one large and central. A dark plume of smoke rising in the background, distinct from the cooking fires, worth keeping ambient and unexplained rather than narrated outright. Bare, stripped tree trunks in the background treeline. Reads scrappy, lived-in, faintly bleak rather than cozy, consistent with a camp that's been surviving repeated raids without a real win in years.
 
+## Visual reference, camp image (author-sent, latest wins)
+
+See `codex/locations/reference/bloodhurst-camp.jpg`. Hide-covered A-frame tents on heavy timber frames, worn dirt paths, a stone-ringed fire pit in front with smoke rising, a cart with hay bales, sharpened stakes along the clearing edge, blue banners on poles, pines, mossy rock walls, and a waterfall feeding a stream behind the camp. Chapter 4 shows it at night, lit by the fires. Where this differs from the fog, bare trunks and dark plume description above, the image wins for the camp itself; the fog and plume stay optional atmosphere (OPEN).
+
 ## Facts
 
 - A defensible hillside/cliffside position, a single narrow path down being the only real way in or out. This is deliberate: the camp has survived repeated raids from a PK player faction hunting them for easy farm kills (see `codex/characters/old-draft-minor-references.md`, PK_Wraith), and the terrain is the reason they've held on.
