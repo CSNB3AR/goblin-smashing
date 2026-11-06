@@ -76,7 +76,7 @@ I knew that box. It was the welcome gift HGO handed every new player, a way to h
 
 I sat with where I was. No way out, tied to a world quest in the open beta, and nobody to tell me what it wanted. Somewhere in there I realized I wasn't as upset as I should've been. I was more curious than anything.
 
-*"Maybe if I open this, my Fortune plays a part."* I opened it.
+*"Alright. Open it now, figure out the quest after."* I opened it.
 
 The lid flashed gold, then brighter.
 
@@ -86,7 +86,13 @@ The lid flashed gold, then brighter.
 
 *"Unique?"* I read it twice. Rare, legendary, sure, I'd watched people pull those. Nobody I'd seen had ever pulled a unique out of one of these boxes. I let out a low whistle and tried to play it cool, and didn't do a good job.
 
-*"Was that the Fortune? Or am I just lucky?"* I wasn't going to figure it out standing here, but now I wanted to test it.
+*"How's that even possible?"* I flicked back to my stats and stared at the Fortune line. *"Is it the Fortune?"*
+
+The menus had a beginner's guide tucked into a corner, a little manual that explained the game's words. I thought at it and a blue screen floated up in front of me, quicker than the first time. I was getting the hang of making the menus come when I called.
+
+**[FORTUNE: Luck. Raises the odds of rare drops and favorable rolls.]**
+
+*"So it pulls from luck."* I wasn't going to settle it standing here, but I wanted to test it.
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
@@ -96,9 +102,7 @@ The lid flashed gold, then brighter.
 
 **[SKILL POINTS: 1]**
 
-*"Once a day, a roll at rare loot. Okay. That doesn't sound so bad."* I tapped a claw against my thigh.
-
-I was still sore about the Elf, but I needed quick cash, and this was cash. Six days. *"I hate dumping points into something I know nothing about. But I gotta test it."* One point. If it was trash, I'd lose one point.
+*"Once a day, a roll at rare loot."* I tapped a claw against my thigh. *"I hate dumping points into something I know nothing about. But I gotta test it."* One point. If it was trash, I'd lose one point.
 
 I pressed equip.
 
@@ -112,9 +116,9 @@ Something small clicked against my right ear. I touched it and found a single br
 
 **[Fortune: 12]**
 
-*"Twelve Fortune on day one. Whatever I knew could've been patched, so I gotta test it."* Then, quieter: *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."* I'd watched people grind this game for a year. Time to find out if I could.
+*"So the earring runs off my Fortune stat. Interesting."* Coincidence or not, if this really rolled off Fortune, it could be how I made money, and I could use it a lot more than I thought. For the first time since the wheel stopped, I felt optimistic. *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."*
 
-I was still taking it in when raised voices cut through the camp noise, sharp enough to pull my attention. One of them was pitched too high to be casual, cracking on the top end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught me before I'd consciously registered why.
+I was still taking it in when raised voices cut through the camp noise, one of them pitched too high, cracking on the top end.
 
 Two goblins had a smaller one backed against a supply crate near the central fire, close enough the kid had nowhere to go. One of them shoved a claw into the kid's chest hard enough to knock him back, shoulders hitting wood with a dull thud.
 
@@ -218,11 +222,11 @@ I threaded a gap between two tents barely wide enough for my shoulders, canvas b
 
 **[COOLDOWN: 30 SECONDS. 25. 20.]**
 
-Somewhere off to my left, a tent flap snapped open with a sharp crack of canvas on wood. A goblin stepped out into the open air, wild green hair catching the firelight, copper rings hanging from her ears and glinting, arms loose at her sides instead of reaching for any kind of weapon. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, tracking my movement without any visible concern.
+Somewhere off to my left a tent flap snapped open and a goblin stepped out, wild green hair catching the firelight, copper rings glinting in her ears, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, without any visible concern.
 
 *"Gold. Someone important. And she's not stepping in."*
 
-She didn't move to stop anything that was happening. A couple of the watching goblins picked up on that fast, started calling out to each other, half cheer and half joke, the kind of noise a crowd makes once it's decided nobody's in actual danger and this is just entertainment now.
+She didn't move to stop anything. A couple of the watching goblins picked up on that fast and started calling out to each other, half cheer, half joke, the noise a crowd makes once it's decided nobody's in real danger.
 
 *"Oh, y'all think this is funny. Cool."*
 
@@ -284,7 +288,7 @@ I hadn't meant to. I'd been testing whether the tooltip meant what it said, not 
 
 **[Wisdom: 4]**
 
-A leather belt sat in the dirt where the smaller of the two bodies had fallen, half-buried in the dust beside two small glass vials that caught the firelight with a faint green glow. I crossed over to them, boots crunching on the packed earth, and crouched down. I touched the belt first, and it lit up faintly in my hand, a soft pulse of light running along its length before the notification appeared in front of me.
+A leather belt sat in the dirt where the smaller of the two bodies had fallen, half-buried beside two small glass vials with a faint green glow. I crossed over and crouched. The belt lit up faintly in my hand, a soft pulse running along its length before the notification appeared.
 
 **[ITEM CLAIMED: GOBLIN GADGET BELT - COMMON]**
 
