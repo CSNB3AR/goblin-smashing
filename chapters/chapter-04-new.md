@@ -36,13 +36,7 @@ I pulled up the description, thumb moving through the motion without thinking ab
 
 I read it again, slower this time, squinting as the white letters sharpened against the black. Once per day I could roll for rare gear. At level one. For the first time since the wheel stopped, I wasn't only angry.
 
-I pulled up the character menu and went straight for the respec I'd watched that guy get quoted at Nexus. Five hundred thousand yen, which I didn't have.
-
-The option wasn't even there. Just a gray notice at the bottom:
-
-**[CHARACTER RESET NOT AVAILABLE FOR THIS DRIVE]**
-
-*"Of course not."* Support would take days I didn't have. I hissed through my teeth.
+*"No refunds. A respec is five hundred thousand, one time only, and I've got forty-seven."* I'd watched that guy get walked out of Nexus for pushing on exactly this. There was no door to go back through, just the character I had. I stood there in the rags and sat with it, frustrated, a little flustered, and nowhere to put either.
 
 My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
 
