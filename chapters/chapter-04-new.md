@@ -94,7 +94,7 @@ I thought about equipping it the same way I'd navigated the menu a minute ago, a
 
 **[Fortune: 12]**
 
-Twelve Fortune at level one. I touched the earring with one clawed finger and felt it shift under my touch. *"Twelve Fortune on day one? Okay, now we're talking. Gotta test it and see if it's really that good."*
+Twelve Fortune at level one. I touched the earring with one clawed finger and felt it shift under my touch. *"Twelve Fortune on day one. I wonder how I can use this. Whatever I knew about it could've been patched, so I gotta test it."*
 
 I was still taking it in when raised voices cut through the camp noise, sharp enough to pull my attention. One of them was pitched too high to be casual, cracking on the top end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught me before I'd consciously registered why.
 
@@ -136,7 +136,7 @@ Both nameplates flickered from white to yellow.
 
 **[THRASH CLAN ENFORCER - LEVEL 3]**
 
-*"Yellow tags. Neutral. They can still flip."*
+*"Yellow. Neutral, I think. Might still flip."*
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
@@ -260,7 +260,7 @@ I stood there with my ears ringing, staring at two bodies sprawled in the dirt t
 
 I hadn't meant to. I'd been testing whether the tooltip meant what it said, not trying to end anyone, and the quiet where the shouting had been sat wrong with me.
 
-*"Four. Two from the screen I never got to use."* I dropped them into Wisdom and Speed without thinking twice, the allocation happening almost on autopilot.
+*"Four. Two from the screen I never got to use."* I dropped them into Wisdom and Speed. More of a guess than a plan. I'd find out what they did.
 
 **[Speed: 9]**
 
