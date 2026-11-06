@@ -49,3 +49,7 @@ Goblins are tied by race affinity to **Seranis**, goddess of demigods and creati
 - **Patron (author-stated, names are proposals).** Follows Seranis (with the beastfolk and drakekin).
 
 - **Patron: race affinity only (author-stated, supersedes the earlier default-and-switch line).** Players do not start with a blessing; a god grants it by how they act and live, along an alignment tree. The race's god may notice them faster. One blessing only, changeable only by respec (500,000 yen, one time only). See `codex/lore/patrons-and-world-weapons.md`.
+
+## Visual reference: Tatsuya as a goblin (author-sent)
+
+See `codex/races/reference/goblin-tatsuya.jpg`. Green skin, short dark green hair standing up, narrow sharp face, red eyes, small fangs, pointed ears, slim small frame. The image also shows a version with a pale lock swept through the hair, read as the later Shiv goblin look (OPEN: the author's sentence on what differs was cut off). Spawn gear on the page is patched rags, not the tunic in the image.

@@ -36,69 +36,57 @@ I stayed down until the picture stopped playing. It was a goblin. The Elf was go
 
 I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore. A little over six feet had turned into maybe five, my eyes level with the shoulders of the goblins by the fire, my chest narrow, my ribs countable through the rags.
 
-A water barrel sat nearby with the firelight rocking on its surface. I stepped closer and the face looking up at me was sharp-featured and green, yellow eyes blinking when I blinked, pointed ears I could feel against the sides of my head when I turned. No locs, no goatee, nothing of me in it but the stare.
+A goblin by the fire had been staring at me, a strip of meat halfway to his mouth. I gave him a short nod like I did this every night. He held the look a second, shrugged, and went back to chewing.
 
-I tried to grab for a menu the way the streamers did, a flick of two fingers in the air. Nothing. I swiped the other way and felt like an idiot, then thought *menu* as hard as I could. A pale panel bloomed in front of me and I flinched hard enough that a nearby goblin turned to stare, one eyebrow raised.
+I needed to see it for myself. The water barrel sat at the edge of the firelight, and I walked over in the wrong stride, short and quick, and leaned over it. The surface rocked, then settled, and the face that came up out of it was green. Short dark green hair standing up in spikes, a narrow face, red eyes that blinked when I blinked, small fangs showing when I let my mouth hang, pointed ears I could feel against the sides of my head when I turned. No locs, no goatee. Nothing of me in it but the stare. I made a face at it and it made one right back.
 
-***[WELCOME TO ERYNDAL, LUNAREST OUTSKIRTS]***
+I tried to grab for a menu the way the streamers did, a flick of two fingers in the air. Nothing. I swiped the other way and felt like an idiot, then thought *menu* as hard as I could. A pale panel bloomed in front of me, a hologram of my body turning slowly in the middle of it, rags and all, with the numbers stacked down one side.
 
-***[CURRENT LOCATION: BLOODHURST, THRASH CLAN TERRITORY]***
+**[GOBLIN | LEVEL 1]**
 
-***[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]***
+**[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
 
 **[Courage: 4 | Power: 4 | Wisdom: 2 | Speed: 7 | Fortune: 9 | Energy: 4]**
 
 **[UNSPENT POINTS: 2]**
 
-*"Two Wisdom. Man, come on."* I closed the panel. The points could wait until I knew what I was spending them on.
+*"Two Wisdom. Man, come on. I built that class. I know exactly what magic needs, and two ain't it."* I swiped the panel shut harder than I needed to, and the hologram folded away.
 
-Heat off the nearest fire reached my skin and made me step back from it, and the smell of whatever was cooking behind me made my mouth water even though I hadn't been hungry a second ago. I flexed a clawed hand and watched it move, each finger answering with a sharpness my real hand had never had.
+Past the barrel the camp came up out of the dark. A stone-ringed fire pit with a thin line of smoke climbing off it. Hide-covered tents on heavy timber frames, their roofs gone gray with smoke. And behind them the rock going up wet and black, with a long pale thread of water coming down it.
 
-With my eyes clear, the camp came up out of the dark in pieces. Hide-covered tents leaned on heavy timber frames, their roofs gone gray with smoke, and the dirt between them was worn into paths by a lot of boots. A stone-ringed fire pit sat nearest me with a thin line of smoke climbing off it, and further in a bigger fire, built up enough to roast something the size of a pig, lit a cart stacked with hay bales and a ragged line of sharpened stakes along the edge of the clearing. Two blue banners hung limp on their poles. Behind the tents the hillside went up into wet black rock with pines standing against it, and somewhere up there the water I'd heard came down in a long pale thread and ran off into a stream.
+I started walking, short quick steps, learning the body as I went. Every goblin I could see carried a white marker over their head, faint unless I looked right at it.
 
-Every goblin I could see carried a white marker floating over their head, faint and easy to miss unless I looked directly at it.
-
-*"White tags. Friendly. To each other, at least."*
+*"White. Friendly. To each other, at least."*
 
 None of it looked staged. A cluster near the smaller fire sat sharpening blades on whetstones, the scrape of metal on stone landing in a rhythm that kept going whether I was watching or not. Two goblins arm-wrestled for coin near a crate, a small crowd shouting encouragement in a dialect that only half-resolved into Japanese. Someone sang off-key by the big fire, catching thrown scraps of food and laughing when they hit him in the face. An older goblin sat outside a tent mending a torn shirt, needle moving with the patient, practiced motion of someone who'd done this repair a thousand times before. A smaller goblin shot past my legs at a full sprint, cackling, waving a stolen boot over its head.
 
-A notice slid in at the edge of my vision.
+*"Yo. I'm actually in this game."* For about two seconds I forgot to be mad. Then I remembered what I was in it as.
 
-**[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
+I flicked the panel back up and went for logout at the bottom. It didn't answer. A line of gray text slid in over it.
 
-*"Wait. Gambler's Gambit?"*
+**[WORLD QUEST IN PROGRESS. PLEASE FINISH THE CURRENT SCENARIO BEFORE LOGGING OUT.]**
 
-I pulled up the description, thumb moving through the motion without thinking about it anymore.
+*"Finish the scenario? I just got here."* I tapped it again. Same gray. *"Is that the pod? Did I cook something with that hardwire?"* There was nothing I could do about it from in here, so I pushed the thought down with the rest.
 
-**[GAMBLER'S GAMBIT - RARE RACIAL ABILITY]**
+I pulled the panel up a third time and went for the skills tab, looking for anything that told me what I could even do. Two icons, and at the bottom a third entry glowing faint gold.
 
-**[PASSIVE: +3 Fortune (applied via Gambler's Earring, equip required)]**
+**[NEW ABILITY ACQUIRED: GAMBLER'S GAMBIT - RARE RACIAL PASSIVE]**
+
+**[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
 **[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
 
-I read it again, slower this time. Once per day I could roll for rare gear. At level one. I had no idea how to trigger it, but for the first time since the wheel stopped, I wasn't only angry.
+**[EQUIP PASSIVE? COST: 1 SKILL POINT. PERMANENT.]**
 
-Still, I was a goblin in rags with two Wisdom, and I needed a minute away from the smoke to think. My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
+**[SKILL POINTS: 1]**
 
-**[WORLD QUEST DETECTED IN PROXIMITY]**
+*"Gambler's Gambit."* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. *"Once a day, a roll at rare loot. Okay. That doesn't sound so bad."*
 
-**[CALL OF THE BONES - STAGE 1]**
+I was still sore about the Elf, but I needed quick cash, and this was cash. Six days. *"I hate dumping points into something I know nothing about. But I gotta test it."* One point. If it was trash, I'd lose one point.
 
-**[AVAILABILITY: GOBLIN RACE ONLY]**
+I pressed equip.
 
-**[ESTIMATED VALUE: WORLD-TIER REWARD]**
-
-**[LOGOUT UNAVAILABLE: WORLD QUEST ACTIVE]**
-
-The race I'd brushed past by accident had handed me a World Quest. *"A world quest? On the weakest race in the game? Come on."* I reached up to scratch my goatee and my claw found smooth skin, and the miss pulled a short, ugly laugh out of me. I didn't love any of this. A world quest was still a world quest.
-
-Six days to show Chiyo something real, and Crownfall's ten million yen still a couple of weeks off, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math. I tapped logout again anyway. Gray. *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."* I'd watched people grind this game for a year. Time to find out if I could. The gamble was already made, and the only way out was through.
-
-Another notification sat quiet beneath it, gold-bordered and easy to miss against everything else demanding my attention.
-
-**[GAMBLER'S GAMBIT ITEM AVAILABLE: GAMBLER'S EARRING]**
-
-I thought about equipping it the same way I'd navigated the menu a minute ago, and a small bronze earring materialized against my right ear, dice carved into its curve in fine detail, a new weight I could actually feel there when I turned my head.
+Something small clicked against my right ear. I touched it and found a single bronze die on a short hook, the pips worn smooth, a little weight I could feel every time I turned my head.
 
 **[GAMBLER'S EARRING - RARE]**
 
@@ -108,7 +96,7 @@ I thought about equipping it the same way I'd navigated the menu a minute ago, a
 
 **[Fortune: 12]**
 
-Twelve Fortune at level one. I touched the earring with one clawed finger and felt it shift under my touch. *"Twelve Fortune on day one. I wonder how I can use this. Whatever I knew about it could've been patched, so I gotta test it."*
+*"Twelve Fortune on day one. I wonder how I can use this. Whatever I knew about it could've been patched, so I gotta test it."* Then, quieter: *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."* I'd watched people grind this game for a year. Time to find out if I could.
 
 I was still taking it in when raised voices cut through the camp noise, sharp enough to pull my attention. One of them was pitched too high to be casual, cracking on the top end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught me before I'd consciously registered why.
 
@@ -305,6 +293,10 @@ A gold-bordered notification bloomed beneath the item description, brighter than
 There it was. Something in my chest loosened for the first time since I'd watched the word Goblin lock into place.
 
 I let the thought sit there, the two vials still warm in my hands from lying near the bodies. *"This might actually work. The goblin lock, the World Quest, all of it. Maybe this ain't the disaster I thought it was."*
+
+A purple line unfolded under the loot.
+
+**[WORLD QUEST: CALL OF THE BONES - STAGE 1]**
 
 Then the laughing died. I looked up and the whole camp had gone still, every goblin turned my way, and from somewhere behind me came the slow, heavy tread of boots.
 
