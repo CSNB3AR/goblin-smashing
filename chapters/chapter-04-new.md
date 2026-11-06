@@ -82,7 +82,7 @@ The lid flashed gold, then brighter.
 
 **[PASSIVE ACQUIRED: GAMBLER'S GAMBIT]**
 
-*"Huh."* On the streams, rares out of those boxes had been hard to come by. Maybe that was the Fortune. Maybe I just got lucky. I'd have to dig into the drop rates later to know, and one box wasn't enough to tell me anything.
+*"Huh."* On the streams, rares out of those boxes had been hard to come by. Maybe that was the Fortune. Maybe I just got lucky. I'd have to dig into the drop rates later to know.
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
@@ -286,7 +286,7 @@ A leather belt sat in the dirt where the smaller of the two bodies had fallen, h
 
 **[ABILITIES: SMOKE BOMB, GAS BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]**
 
-I turned the belt over in my hands, the rough leather still warm from the fire. Fine. Better than nothing.
+I turned the belt over in my hands, the rough leather still warm from the fire.
 
 I looped it around my waist and felt it settle, the pouches hanging against my hip where I could reach them easily. Then I picked up the two vials, small and delicate in my clawed hands, a number stamped faint beneath the green glass on each one.
 
