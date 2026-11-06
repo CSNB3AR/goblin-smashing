@@ -34,7 +34,7 @@ I stayed down until the picture stopped playing. It was a goblin. The Elf was go
 
 *"Alright. It is what it is. Adjust."*
 
-I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore. A little over six feet had turned into maybe five, my eyes level with the shoulders of the goblins by the fire, my chest narrow, my ribs countable through the rags.
+I got my feet under me and my balance was completely wrong. Everything sat too low, my center of gravity somewhere it had never sat before, the hem of the rags dragging past knees that weren't the right height for it anymore. A little over six feet had turned into maybe four, my eyes level with the chests of the goblins by the fire, my chest narrow, my ribs countable through the rags.
 
 A goblin by the fire had been staring at me, a strip of meat halfway to his mouth. I gave him a short nod like I did this every night. He held the look a second, shrugged, and went back to chewing.
 

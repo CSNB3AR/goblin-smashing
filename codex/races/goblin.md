@@ -52,4 +52,4 @@ Goblins are tied by race affinity to **Seranis**, goddess of demigods and creati
 
 ## Visual reference: Tatsuya as a goblin (author-sent)
 
-See `codex/races/reference/goblin-tatsuya.jpg`. Green skin, short dark green hair standing up, narrow sharp face, red eyes, small fangs, pointed ears, slim small frame. The image also shows a version with a pale lock swept through the hair, read as the later Shiv goblin look (OPEN: the author's sentence on what differs was cut off). Spawn gear on the page is patched rags, not the tunic in the image.
+See `codex/races/reference/goblin-tatsuya.jpg`. This image is the **Shiv goblin** form he reaches after Shiv blesses him: taller, green skin, dark green hair with a pale lock swept through it, narrow sharp face, red eyes, small fangs, pointed ears. Before the blessing he is a **much shorter** version of this (about four feet), same face and expressions, green hair with no pale lock, patched spawn rags instead of the tunic. He grows in height once Shiv blesses him (author-stated).
