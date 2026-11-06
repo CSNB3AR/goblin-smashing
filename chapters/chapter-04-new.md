@@ -8,7 +8,7 @@ The noise sorted itself out slowly. Voices in a mixed Japanese I couldn't make o
 
 I got my eyes open and the world swam, black and orange, with pale rectangles flickering at the edges like a screen trying to boot. I squeezed my eyes shut and opened them again until it held.
 
-The camp climbed away from me up a slope, lit orange by the fires. A ring of stones around a fire pit sat right in front of my face with a thin line of smoke rising off it, and past it hide-covered tents leaned on timber frames, one huge one in the middle with a cart of hay bales parked beside it. Sharpened stakes ran along the edge of the clearing, two blue banners hung limp on their poles, and at the back a waterfall poured down the rock into a stream. The only way out I could see was one dirt track curving off to the right between the stakes. Everything else I could see was cliff and water. Goblins moved between the tents, more than I could count from the ground.
+The camp climbed away from me up a slope, lit orange by the fires. A ring of stones around a fire pit sat right in front of my face with a thin line of smoke rising off it, and past it hide-covered tents leaned on timber frames, one huge one in the middle with a cart of hay bales beside it. Sharpened stakes ran along the edge of the clearing, two blue banners hung limp on their poles, and at the back a waterfall poured down the rock into a stream. The only way out I could see was one dirt track curving off to the right between the stakes. Everything else was cliff and water. Goblins moved between the tents, more than I could count from the ground.
 
 I pushed up onto my forearms and the arms were wrong. Green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of me. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven.
 
@@ -52,11 +52,11 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 *"Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two Wisdom. Damn, they really got me sitting here dumb as hell."*
 
-The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I was going to have to do some digging to turn that around. I swiped the panel shut harder than I needed to, and the hologram folded away.
+The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I swiped the panel shut harder than I needed to, and the hologram folded away.
 
 I started walking, short quick steps, learning the body as I went. The wind came down off the rock cold and damp. My legs ached, my ribs ached, and under it all my heart was pounding, hard enough that I could feel it in my throat. A heartbeat, in a game. This was what full dive actually was.
 
-Every goblin I could see had a marker floating over their head. I dug back through every stream I'd watched. White was usually NPCs, friendly. Gold meant somebody important, and I didn't see any gold. Blue was other players. I checked my own tag and it was blue, and everybody else's was white.
+Every goblin I could see had a marker floating over their head. I dug back through every stream I'd watched. White was usually NPCs, friendly. Gold meant somebody important, and I saw none. Blue was other players. My own tag was blue, and everybody else's was white.
 
 Two goblins were arm-wrestling by a crate with a crowd shouting them on. A pot boiled in the middle of camp, a goblin stirring it with a long spoon. And the biggest tent sat in the center, wide and tall, the kind of place whoever ran this camp would be. Okay. Now I knew where things were.
 
@@ -68,7 +68,7 @@ I flicked the panel back up to double-check logout. It still didn't answer. The 
 
 *"A world quest? How did I trigger something like that here?"*
 
-I scrolled back to my stats, then through every menu I could remember the streamers using, hunting for anything on the quest. Quest log, map, notes. Nothing. I checked the inventory in case the quest had handed me an item, and there was only one thing in it, a small chest glowing faint gold.
+I scrolled back to my stats, then through every menu I could remember the streamers using, hunting for anything on the quest. Quest log, map, notes. Nothing. The inventory held one thing, a small chest glowing faint gold.
 
 **[NEWCOMER MYSTERY BOX - UNOPENED]**
 
@@ -118,7 +118,11 @@ Something small clicked against my right ear. I touched it and found a single br
 
 **[Fortune: 12]**
 
-For the first time since the wheel stopped, I felt optimistic. If this thing really paid out, it could be how I made money, and I could use it a lot more than I thought. *"Alright, bet. If I'm stuck here, I'm not about to be the worst goblin in this camp."*
+*"After combat. So I still have to farm to get anything out of it."* But if a roll landed something that paid well, I could start putting a dent in what I owed Chiyo, and I was going to need more than I'd figured. I'd already pushed that pod past what it was built for. If it died, it was on me, and Leon had made clear what that meant. I wasn't letting something Dad built die on my watch, and I didn't know the first thing about putting together a third-gen pod. The only place I'd seen that tech was Tochi. It sat in the back of my head, and I didn't push it away.
+
+Then there was the quest. I didn't know what this one was, but I knew what a world quest was. A world quest was what had ended the season, what sent a prince's soldiers marching through that gate. I knew how big those got. *"As an Elf I wouldn't have gotten either of these."*
+
+It still stung about the build, and I let it. Then I set it down. I couldn't keep staring at what I'd lost, not with a unique passive and a world quest in my lap. *"Alright, bet. Let's see what I can build with this."*
 
 I was still taking it in when raised voices cut through the camp noise, one of them pitched too high, cracking on the top end.
 
@@ -202,7 +206,7 @@ I focused on Goblin Gas mid-stride and the description expanded.
 
 **[COOLDOWN: 45 SECONDS]**
 
-*"Useful. But how do I actually trigger it?"* Boots pounded closer behind me, two sets of feet getting louder, a bead of sweat running into my left eye and stinging. There was no time to figure it out gently. Just use it.
+*"Useful. But how do I actually trigger it?"* Boots pounded closer behind me, a bead of sweat stinging my left eye. No time to figure it out gently. Just use it.
 
 I triggered the ability with a thought.
 
@@ -214,13 +218,13 @@ Coughing erupted behind me, harsh and wet. One of them doubled over retching.
 
 **[POISON DEBUFF: STACK 1]**
 
-I didn't slow down to watch, cutting left around another tent, and the gap between me and them widened for the first time since this whole thing started, my shorter legs eating up ground faster than they should have been able to.
+I didn't slow down to watch, cutting left around another tent, and the gap widened for the first time, my shorter legs eating up ground faster than they should have.
 
 Then the gap closed again. I glanced back over my shoulder and caught one enforcer peeling off down a side lane between tents instead of chasing straight, angling to cut me off.
 
 *"They're not just chasing anymore. They're trying to box me in. Smart."*
 
-I threaded a gap between two tents barely wide enough for my shoulders, canvas brushing both arms, and came out past the big stew pot, the goblin tending it stepping back out of my way, spoon still in hand, more curious than alarmed.
+I threaded a gap between two tents barely wide enough for my shoulders and came out past the big stew pot, the goblin tending it stepping aside, spoon still in hand, more curious than alarmed.
 
 **[COOLDOWN: 30 SECONDS. 25. 20.]**
 
@@ -228,7 +232,7 @@ Somewhere off to my left a tent flap snapped open and a goblin stepped out, wild
 
 *"Gold. Someone important. And she's not stepping in."*
 
-She didn't move to stop anything. A couple of the watching goblins picked up on that fast and started calling out to each other, half cheer, half joke, the noise a crowd makes once it's decided nobody's in real danger.
+She didn't move to stop anything. A couple of the watching goblins picked up on that and started calling out to each other, half cheer, half joke, the noise a crowd makes once it decides nobody's in real danger.
 
 *"Oh, y'all think this is funny. Cool."*
 
@@ -256,13 +260,13 @@ I reached into a pocket on my rags and an item materialized in my hand. The tool
 
 **[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Distress use only.]**
 
-*"A signal flare."* The casing was rough against my palm. I looked at the two enforcers still folded over in the gas, one spitting into the dirt. But Gas said "can be ignited," and this thing was on fire once I lit it. I'd see what happened.
+*"A signal flare."* The casing was rough in my palm. I looked at the two enforcers folded over in the gas. Gas said "can be ignited," and this thing was on fire once I lit it. I'd see what happened.
 
 I struck the flare on the edge of a crate and it caught, a bright orange hiss of sparks. Then I threw it low, not up into the sky, straight into the green cloud hanging between the two enforcers.
 
 The gas caught the instant the flare touched it.
 
-A concentrated burst of flame erupted outward from the point of impact, bright and hot and loud enough that I felt the concussive wave hit my chest from fifteen feet away. The explosion lit the whole camp for half a second, heat washing back hard enough that I raised an arm to shield my face.
+A burst of flame erupted from the point of impact, loud enough that I felt the concussive wave hit my chest from fifteen feet away. The explosion lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
 
 **[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
 
@@ -298,7 +302,7 @@ A leather belt sat in the dirt where the smaller of the two bodies had fallen, h
 
 I turned the belt over in my hands, the rough leather still warm from the fire.
 
-I looped it around my waist and felt it settle, the pouches hanging against my hip where I could reach them easily. Then I picked up the two vials, small and delicate in my clawed hands, a number stamped faint beneath the green glass on each one.
+I looped it around my waist and felt it settle. Then I picked up the two vials, small and delicate in my clawed hands, a number stamped faint beneath the green glass on each one.
 
 **[ITEM CLAIMED: MINOR ELIXIR x2 - UNCOMMON]**
 
@@ -314,7 +318,7 @@ A gold-bordered notification bloomed beneath the item description, brighter than
 
 There it was. Something in my chest loosened for the first time since I'd watched the word Goblin lock into place.
 
-I let the thought sit there, the two vials still warm in my hands from lying near the bodies. *"This might actually work. The goblin lock, the World Quest, all of it. Maybe this ain't the disaster I thought it was."*
+I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
 A purple line unfolded under the loot.
 
