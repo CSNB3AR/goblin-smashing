@@ -82,7 +82,7 @@ The lid flashed gold, then brighter.
 
 **[PASSIVE ACQUIRED: GAMBLER'S GAMBIT]**
 
-*"Rare? Off a starter box? That's early for a rare."* I couldn't tell if that was the Fortune or just a lucky roll. One box wasn't enough to know anything.
+*"Huh."* On the streams, rares out of those boxes had been hard to come by. Maybe that was the Fortune. Maybe I just got lucky. I'd have to dig into the drop rates later to know, and one box wasn't enough to tell me anything.
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
