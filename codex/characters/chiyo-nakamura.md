@@ -1,6 +1,6 @@
 # Chiyo Nakamura
 
-**Role:** Landlord, guardian figure, the twins' and Tatsuya's real grandmother in every way that matters.
+**Role:** Landlord, guardian figure, the real grandmother of Tatsuya and the twins, who are full siblings.
 
 ## Appearance
 
