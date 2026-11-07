@@ -124,35 +124,27 @@ Then there was the quest. I didn't know what this one was, but I knew what a wor
 
 It still stung about the build, and I let it. Then I set it down. I couldn't keep staring at what I'd lost, not with a unique passive and a world quest in my lap. *"Alright, bet. Let's see what I can build with this."*
 
-I was still taking it in when raised voices cut through the camp noise, one of them pitched too high, cracking on the top end.
+A voice cut through the camp noise, louder than everything else going on.
 
-Two goblins had a smaller one backed against a supply crate near the central fire, close enough the kid had nowhere to go. One of them shoved a claw into the kid's chest hard enough to knock him back, shoulders hitting wood with a dull thud.
+"You're in my spot, runt. Move."
 
-"You're in my spot, runt," the bigger one said, voice carrying across the camp. "Move."
+Out of every conversation in that camp, that was the one that carried. I turned my head. Two goblins had a smaller one backed against a supply crate near the central fire, and one of them shoved a claw into the kid's chest hard enough that his shoulders hit the wood.
 
-Another goblin stepped up beside the first, arms crossed. "You heard him. Move."
+"You heard him," the other said, arms crossed. "Move."
 
-"I was here first," the kid said, voice cracking, hands coming up defensively but not actually pushing back.
+"I was here first," the kid said, voice cracking, hands up but not pushing back.
 
-My eyes swept the camp. Goblins nearby kept working, sharpening blades, tending fires, a few glancing over but nobody moving to step in. The kind of scene people noticed and decided wasn't their problem.
+Goblins nearby kept working, a few glancing over, nobody stepping in. I tapped two claws against my thigh, working out whether this was my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
 
-*"Two on one over a fire spot? That's weak."*
+*"Probably none of my business."* But a camp this size, a world quest hanging over my head, and nobody around me talking about it. *"Somebody here knows something. If this turns into a scene, I want to hear it."*
 
-I tapped two claws against my thigh, working through whether this was actually my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
+I didn't rush in. I drifted toward the stew pot like I was after a bowl, a few steps at a time, close enough to catch the words.
 
-*"I need the reps anyway. Better to find out what breaks now."*
+The enforcers pushed in on the kid, one reaching for his collar, and the kid went quiet in a way I recognized. It had stopped being an argument.
 
-The two enforcers stepped closer to the kid, one reaching for him.
+*"Alright. Two on one, and he's not even fighting back."*
 
-*"Alright, fuck it. Let's see what this build can do."*
-
-I was moving before I'd finished the thought, boots hitting soft dirt as I crossed the open ground, not rushing, just deliberate, committed once I'd started.
-
-The two goblins clocked me coming, turning to look, more curious than concerned.
-
-I stepped between them and the kid, close enough they had to adjust their stance, my weight balanced and my hands loose at my sides.
-
-"Yo, we good here?" I said, my voice coming out higher and rougher than my own. "Don't really need two grown-ass goblins pressed up on a kid over a fire spot."
+"Hey, nah." I stepped between them and the kid, weight balanced, hands loose at my sides. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
 
 The nearer goblin looked me up and down, taking in the rags, no visible weapons, the way I was standing as if I knew exactly how much space I was taking up. "Mind your business, new blood."
 
