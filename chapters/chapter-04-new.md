@@ -136,6 +136,8 @@ Out of every conversation in that camp, that was the one that carried. I turned 
 
 Goblins nearby kept working, a few glancing over, nobody stepping in. I tapped two claws against my thigh, working out whether this was my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
 
+All three had the same white bone mark painted on their arms. *"Same clan. Why are they going at each other?"* That kept my eyes on them.
+
 *"Probably none of my business."* But a camp this size, a world quest hanging over my head, and nobody around me talking about it. *"Somebody here knows something. If this turns into a scene, I want to hear it."*
 
 I didn't rush in. I drifted toward the stew pot like I was after a bowl, a few steps at a time, close enough to catch the words.
