@@ -88,14 +88,6 @@ A voice rang out of nowhere, big and bright, like an arena announcer.
 
 *"Unique?"* I read it twice. Rare, legendary, sure, I'd watched people pull those. Nobody I'd seen had ever pulled a unique out of one of these boxes. I let out a low whistle and tried to play it cool, and didn't do a good job.
 
-*"How's that even possible?"* I flicked back to my stats and stared at the Fortune line. *"Is it the Fortune?"*
-
-The menus had a beginner's guide tucked into a corner, a little manual that explained the game's words. I thought at it and a blue screen floated up in front of me, quicker than the first time. I was getting the hang of making the menus come when I called.
-
-**[FORTUNE: Luck and probability. Affects critical hits, loot quality, random events and how risky gambles land, including chance encounters with NPCs.]**
-
-*"So it's not just loot."* I wasn't going to settle it standing here, but I wanted to test it.
-
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
 **[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
@@ -104,11 +96,9 @@ The menus had a beginner's guide tucked into a corner, a little manual that expl
 
 **[SKILL POINTS: 1]**
 
-*"Once a day, a roll at rare loot."* I tapped a claw against my thigh. *"I hate dumping points into something I know nothing about. But I gotta test it."* One point. If it was trash, I'd lose one point.
+*"I hate dumping points into something I know nothing about. But I gotta test it."* One point. If it was trash, I'd lose one point. I pressed equip.
 
-I pressed equip.
-
-Something small clicked against my right ear. I touched it and found a single bronze die on a short hook, the pips worn smooth, a little weight I could feel every time I turned my head.
+Something small clicked against my right ear. I touched it and found a single bronze die on a short hook, the pips worn smooth. It was warmer than my skin, and a faint hum ran through it that I felt more than heard, like a coin spinning on a table that never quite fell. My Fortune number ticked up, and the hum steadied, as if something had woken up.
 
 **[GAMBLER'S EARRING - UNIQUE]**
 
@@ -118,39 +108,37 @@ Something small clicked against my right ear. I touched it and found a single br
 
 **[Fortune: 12]**
 
-*"After combat. So I still have to farm to get anything out of it."* But if a roll landed something that paid well, I could start chipping at what Dad owed the Tabuchis. Chiyo said she was handling it, but if that balance hit zero they'd have nothing left to come after us with, and maybe they'd finally leave us alone. I was going to need more money than I'd figured. I'd already pushed that pod past what it was built for. If it died, it was on me, and Leon had made clear what that meant. I wasn't letting something Dad built die on my watch, and I didn't know the first thing about putting together a third-gen pod. The only place I'd seen that tech was Tochi. It sat in the back of my head, and I didn't push it away.
+The roll only fired after combat, so I'd still have to farm to get anything out of it. But if it landed something that paid, I could start chipping at what Dad owed the Tabuchis, and I'd need money for that pod too. I'd pushed it past what it was built for, and if it died it was on me, like Leon said. I wasn't letting something Dad built die on my watch. I didn't know the first thing about building a third-gen pod, and the only place I'd seen that tech was Tochi. I didn't push the thought away.
 
-Then there was the quest. I didn't know what this one was, but I knew what a world quest was. A world quest was what had ended the season, what sent a prince's soldiers marching through that gate. I knew how big those got. *"As an Elf I wouldn't have gotten either of these."*
+A world quest was what had ended the season, what sent a prince's soldiers marching through that gate. I knew how big those got. *"As an Elf I wouldn't have gotten either of these."* It still stung about the build, and I let it. Then I set it down. *"Alright, bet. Let's see what I can build with this."*
 
-It still stung about the build, and I let it. Then I set it down. I couldn't keep staring at what I'd lost, not with a unique passive and a world quest in my lap. *"Alright, bet. Let's see what I can build with this."*
+I stood a few steps from the fire pit I'd landed beside, the big tent off to my left, steam rolling off the stew pot. The night had gone cold. Smoke hung low over the camp, and the water behind the tents kept up its steady hiss.
 
 A voice cut through the camp noise, louder than everything else going on.
 
-"You're in my spot, runt. Move."
+"Where's my food, runt?"
 
-Out of every conversation in that camp, that was the one that carried. I turned my head. Two goblins had a smaller one backed against a supply crate near the central fire, and one of them shoved a claw into the kid's chest hard enough that his shoulders hit the wood.
+Out of every conversation in that camp, that was the one that carried. I turned my head. Two goblins had a smaller one backed against a supply crate near the central fire, the kid holding a wooden bowl against his chest.
 
-"You heard him," the other said, arms crossed. "Move."
+"I didn't take it," the kid said, voice cracking. "I got my own."
 
-"I was here first," the kid said, voice cracking, hands up but not pushing back.
+"Then give it here."
 
-Goblins nearby kept working, a few glancing over, nobody stepping in. I knew that look. I'd been on the wrong end of it at Tochi, with a whole courtyard watching and nobody stepping up. I tapped two claws against my thigh, working out whether this was my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
+Above each head, over the word Goblin, the same line: Thrash Clan. All three. *"Same clan. Why are they going at each other?"*
 
-Above each head, over the word Goblin, the same line: Thrash Clan. All three. *"Same clan. Why are they going at each other?"* That kept my eyes on them.
+The big ones had already scraped their own bowls clean. The goblin at the stew pot ladled the last of it into somebody else's bowl and turned back to his pot like he hadn't heard a thing. Nobody stepped in. Nobody called it fair, nobody told them to quit. A few watched with their food held close and then looked away. That sat wrong with me. I knew that feeling from when I was younger, being picked on, and nobody stepping up for me either.
 
-*"Probably none of my business."* But a camp this size, a world quest hanging over my head, and nobody around me talking about it. *"Somebody here knows something. If this turns into a scene, I want to hear it."*
+I started walking toward them, slow, no hurry, close enough to hear.
 
-I didn't rush in. I drifted toward the stew pot like I was after a bowl, a few steps at a time, close enough to catch the words.
-
-The enforcers pushed in on the kid, one reaching for his collar, and the kid went quiet in a way I recognized. It had stopped being an argument.
-
-My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
+One of them shoved a claw into the kid's chest, hard enough that his shoulders hit the wood, and the other reached for the bowl. My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
 
 "Hey, nah." I stepped between them and the kid, weight balanced, hands loose at my sides. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
 
 The nearer goblin looked me up and down, taking in the rags, no visible weapons, the way I was standing as if I knew exactly how much space I was taking up. "Mind your business, new blood."
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
+
+They started closing in on me, and I closed the gap right back.
 
 Both nameplates flickered from white to yellow.
 
