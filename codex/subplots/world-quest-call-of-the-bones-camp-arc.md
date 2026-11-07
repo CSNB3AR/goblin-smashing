@@ -60,3 +60,7 @@ The necklace bond, Shiv Goblin evolution, and Ru's founding blessing land in Cha
 - The Thrash Clan's return to Myrrhwood lines up with the king's death near the start of Season One. Sevish and Wyx leave Bloodhurst while Lunarest is still ordinary, and the king falls after (see `codex/lore/lunarest-royal-court.md` for his age and failing elixirs).
 - The royal funeral is a royal event: a truce, with no battling in the royal lands while it runs. After it, the princes move against each other and the map starts moving (see `outline/arc-one-open-beta-to-crownfall.md`).
 - **Open:** funeral scope (Lunarest only or wider) and length; whether Thrash's boat departure falls before, during or after the funeral.
+
+## Trigger (author-stated)
+
+The quest starts because two Thrash goblins fight each other, a cardinal sin for the clan that first rejected feral ways, and Tatsuya steps in. The infighting shows Shiv's influence slipping among his deepest loyalists. Letting them fight would have been broken up without triggering the same effects. His intervention, even by coincidence, mirrors what Shiv once did in an uneven fight. Off the page for now.
