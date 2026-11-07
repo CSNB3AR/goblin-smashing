@@ -134,7 +134,7 @@ Out of every conversation in that camp, that was the one that carried. I turned 
 
 "I was here first," the kid said, voice cracking, hands up but not pushing back.
 
-Goblins nearby kept working, a few glancing over, nobody stepping in. I tapped two claws against my thigh, working out whether this was my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
+Goblins nearby kept working, a few glancing over, nobody stepping in. I knew that look. I'd been on the wrong end of it at Tochi, with a whole courtyard watching and nobody stepping up. I tapped two claws against my thigh, working out whether this was my problem or just felt like it. It had felt like mine for a while now, in a lot of places that weren't this camp.
 
 Above each head, over the word Goblin, the same line: Thrash Clan. All three. *"Same clan. Why are they going at each other?"* That kept my eyes on them.
 
@@ -144,7 +144,7 @@ I didn't rush in. I drifted toward the stew pot like I was after a bowl, a few s
 
 The enforcers pushed in on the kid, one reaching for his collar, and the kid went quiet in a way I recognized. It had stopped being an argument.
 
-*"Alright. Two on one, and he's not even fighting back."*
+My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
 
 "Hey, nah." I stepped between them and the kid, weight balanced, hands loose at my sides. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
 
