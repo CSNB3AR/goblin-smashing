@@ -92,9 +92,9 @@ A voice rang out of nowhere, big and bright, like an arena announcer.
 
 The menus had a beginner's guide tucked into a corner, a little manual that explained the game's words. I thought at it and a blue screen floated up in front of me, quicker than the first time. I was getting the hang of making the menus come when I called.
 
-**[FORTUNE: Luck. Raises the odds of rare drops and favorable rolls.]**
+**[FORTUNE: Luck and probability. Affects critical hits, loot quality, random events and how risky gambles land, including chance encounters with NPCs.]**
 
-*"So it pulls from luck."* I wasn't going to settle it standing here, but I wanted to test it.
+*"So it's not just loot."* I wasn't going to settle it standing here, but I wanted to test it.
 
 **[PASSIVE: +3 Fortune (applied via Gambler's Earring)]**
 
