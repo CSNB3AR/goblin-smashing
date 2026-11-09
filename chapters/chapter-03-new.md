@@ -12,7 +12,7 @@ A message from him sat at the top of the screen, sent before seven.
 
 I read it twice. *"Damn. He ain't tripping."* The panic drained out and I dropped onto the arm of the couch. A day off and a game waiting. *"I can't grind that and keep picking up shifts. Sooner or later I have to call Gato and step back."*
 
-The television was still paused on the soldiers marching through the gate. Momo's door stood open, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
+The television was still paused on London's flag going up over the ruins. Momo's door stood open, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
 
 A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting.
 

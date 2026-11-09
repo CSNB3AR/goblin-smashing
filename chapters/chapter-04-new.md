@@ -110,7 +110,7 @@ Something small clicked against my right ear. I touched it and found a single br
 
 The roll only fired after combat, so I'd still have to farm to get anything out of it. But if it landed something that paid, I could start chipping at what Dad owed the Tabuchis, and I'd need money for that pod too. I'd pushed it past what it was built for, and if it died it was on me, like Leon said. I wasn't letting something Dad built die on my watch. I didn't know the first thing about building a third-gen pod, and the only place I'd seen that tech was Tochi. I didn't push the thought away.
 
-A world quest was what had ended the season, what sent a prince's soldiers marching through that gate. I knew how big those got. *"As an Elf I wouldn't have gotten either of these."* It still stung about the build, and I let it. Then I set it down. *"Alright, bet. Let's see what I can build with this."*
+A world quest was what had ended the season, what put London Spire's flag in those ruins. I knew how big those got. *"As an Elf I wouldn't have gotten either of these."* It still stung about the build, and I let it. Then I set it down. *"Alright, bet. Let's see what I can build with this."*
 
 I stood a few steps from the fire pit I'd landed beside, the big tent off to my left, steam rolling off the stew pot. The night had gone cold. Smoke hung low over the camp, and the water behind the tents kept up its steady hiss.
 
