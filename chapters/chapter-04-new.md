@@ -130,6 +130,8 @@ The big ones had already scraped their own bowls clean. The goblin at the stew p
 
 I started walking toward them, slow, no hurry, taking the camp with me as I went. The fire pit behind me. The stew pot on my right. Supply crates stacked beside the big tent, and a narrow lane between two tents on my left that ran back toward the track out. I counted the gaps between tents the way I'd count exits in the store, places I could cut through if this went bad. Close enough to hear.
 
+I was nervous. I'd never thrown a punch at anyone, let alone in a body I'd had for ten minutes. But under the nerves something else was lighting up, the same jittery buzz I used to get right before a match, and it was making me want to move.
+
 One of them shoved a claw into the kid's chest, hard enough that his shoulders hit the wood, and the other reached for the bowl. My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
 
 "Hey, nah." I got between them, planted a palm on the reaching goblin's chest and pushed him back a step, then pulled the bowl out of his claws and put it in the kid's hands. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
@@ -138,7 +140,7 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
 
-They started closing in on me, and I closed the gap right back. Both nameplates flickered from white to yellow.
+They started closing in on me, and I closed the gap right back. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear. Both nameplates flickered from white to yellow.
 
 **[THRASH CLAN ENFORCER - LEVEL 3]**
 
@@ -148,7 +150,7 @@ They started closing in on me, and I closed the gap right back. Both nameplates 
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
-"Only mistake I made was not plugging my nose before I came over here," I said, letting a grin pull at the corner of my mouth. "Y'all smell like absolute dog shit."
+"Only mistake I made was not plugging my nose before I came over here," I said, letting a grin pull at the corner of my mouth. The adrenaline was talking, and I let it. "Y'all smell like absolute dog shit."
 
 Somebody in the crowd snorted. Then another one laughed out loud. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
 
