@@ -236,7 +236,7 @@ They stopped dead, grabbed their knees, and started throwing up. And they didn't
 
 **[POISON DEBUFF: STACK 4 - CRITICAL HIT - STUNNED]**
 
-*"The stun doesn't wear off. They're stuck in the cloud, so it keeps rolling."* Every stack was another chance, and every chance had landed. I couldn't count on that. Nobody could count on crits. But these were weak mobs, trapped in the gas, and I had twelve Fortune, and it had all lined up this once. They'd be heaving for almost eight seconds, one with his hands on his knees, the other down on one hand.
+*"Damn. What is happening right now?"* They were throwing up the stew they'd just eaten, steaming on the cold ground, and they couldn't stop. This game wasn't pulling any punches. Every tick of poison caught them again, and the stun kept rolling. Weak mobs, stuck in the cloud, and I couldn't count on it ever lining up like this again. Almost eight seconds of it.
 
 *"This is my chance."*
 
@@ -276,7 +276,7 @@ I stood there with my ears ringing, staring at two bodies that weren't moving an
 
 I hadn't meant to kill anybody. I'd only wanted to hurt them before the stun wore off, and the quiet where the laughing had been sat wrong with me.
 
-But I'd learned something. Gas in a confined space, with a stun that kept re-rolling, was a lock for as long as they stayed in it, and with Fortune like mine the crits were what made it work. *"A crit build."* It wasn't the Spellforger. But it was something to build on.
+But I'd learned something. Gas, a closed space, a stun that kept rolling, and Fortune on top of it. *"A crit build."* Not the Spellforger. But something to build on.
 
 *"Four. Two from the screen I never got to use."* I dropped them into Wisdom and Speed. More of a guess than a plan. I'd find out what they did.
 
