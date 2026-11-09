@@ -130,7 +130,7 @@ The big ones had already scraped their own bowls clean. The goblin at the stew p
 
 I started walking toward them, slow, no hurry, taking the camp with me as I went. The fire pit behind me. The stew pot on my right. Supply crates stacked beside the big tent, and a narrow lane between two tents on my left that ran back toward the track out. I counted the gaps between tents the way I'd count exits in the store, places I could cut through if this went bad. Close enough to hear.
 
-I was nervous. I'd never thrown a punch at anyone, let alone in a body I'd had for ten minutes. But under the nerves something else was lighting up, the same jittery buzz I used to get right before a match, and it was making me want to move.
+I was nervous. I'd never thrown a punch at anyone, let alone in a body I'd had for ten minutes. But under the nerves something else was lighting up, the same anticipation I used to get watching Dosuke set up a play, right before it landed, and it was making me want to move.
 
 One of them shoved a claw into the kid's chest, hard enough that his shoulders hit the wood, and the other reached for the bowl. My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
 
