@@ -1,5 +1,8 @@
 # Companion / Troop System
 
+> **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
+
+
 **Status:** New mechanic. First lands on the page in Chapter 7 ("The First Disciple"), when the young goblin (see `codex/characters/young-goblin-companion-candidate.md`) is recruited via Whispers of Shiv (below) after the necklace bond, and is already with Tatsuya when he logs back into camp.
 
 ## The mechanic

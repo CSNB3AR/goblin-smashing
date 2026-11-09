@@ -1,10 +1,13 @@
 # Crownfall, the Siege Pro League, and Tatsuya's Long-Term Arc
 
+> **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
+
+
 Forward material, long-horizon. Locks how Crownfall introduces the Siege format and how the Siege Pro League sits beside the open-world path, without turning the story into an esports story. The file name is kept for links. The old "esports timeline" framing is retired: **HGO is not an esports title. Siege is a battle-royale format introduced at Crownfall, and the Siege Pro League is an option active from the start of Season One that Kazuku mentions. Tatsuya is on the open-world path.**
 
 ## Where things actually stand
 
-- HGO's closed beta (Season Zero) ran roughly eight to nine months (see `codex/lore/timeline-and-beta.md`). It ended with the Battle of Thornwatch, an open-world fortress city fight streamed as spectacle for the closed-beta crowd (see `codex/lore/hearthfire-expansion-and-seasons.md`).
+- HGO's closed beta (Season Zero) ran roughly eight to nine months (see `codex/lore/timeline-and-beta.md`). It ended with the Battle of Thornwatch, an open-world fight in an old ruined fortress, streamed as spectacle for the closed-beta crowd (see `codex/lore/hearthfire-expansion-and-seasons.md`).
 - Kazuku announces **Crownfall**, the Season One opener for seasonal points and the first Siege (a guild-only battle royale in a neutral zone), with a ten million yen prize pool, alongside open beta and a 72-hour 50 percent discount on drives and the helmet rig (see `codex/pro-scene/crownfall-siege-event.md`). He also mentions a **pro league** as an option for players who do not want the open-world route. Crownfall is a taste of the larger Node Wars that follow.
 - Small companies, the WattsUp Corporation among them, buy sponsorship exposure on HGO because the game's stock is high. That is why the beta finale plays on the screen in Gato's store. It is a sponsor relationship, not a sign of an esports scene.
 - Haya Storm's end-of-Act-Two status is locked as "positioned for Season One" (see `codex/pro-scene/haya-storm.md`).

@@ -1,5 +1,8 @@
 # Haya Storm
 
+> **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
+
+
 **Status:** Name locked. A small guild that Tatsuya founds so it can enter Crownfall, the guild-only Season One opener and first Siege (see `codex/pro-scene/crownfall-siege-event.md`), and that grows across Act Two. Previously described as a three-player team; it is now a guild that fills its 20-player Siege side with garrison troops.
 
 ## The name

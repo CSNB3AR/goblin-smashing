@@ -1,5 +1,8 @@
 # HGO Game System — The Glory Codex
 
+> **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
+
+
 This is the mechanical backbone of Hero's Glory Online: stats, leveling, the goblin signature mechanic, and the deck-building layer. It merges the "Voyage Codex" brainstorm (originally drafted under a placeholder title, "Heroes' Voyage Online") into confirmed HGO/Eryndal canon, and folds in the mechanics flagged as worth preserving from `bible/old-draft-chapter-bible.md`. Everything here is Eryndal-branded; no "Voyage Site," "Heroes' Voyage," or other placeholder terminology survives past this document.
 
 For character facts, world facts, and craft rules, defer to `bible/writing-bible.md`. This document is mechanics only.

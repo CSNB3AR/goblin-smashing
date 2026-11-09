@@ -1,5 +1,8 @@
 # The Arena — Overview
 
+> **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
+
+
 A standing, year-round PvP hub, distinct from the one-off tournament venues (see `codex/locations/singapore-championship-venue.md`) and from open-world PvP. Functions as HGO's neutral home for queued competitive play: the 1v1 Open Ladder and randomized-team matches both play out of here (see `codex/pro-scene/tournaments-and-events.md` for the formats themselves). Loosely centered on the Wraith Isles region (already flagged as "ranked arena and tournament zone" in `codex/locations/eryndal-world-overview.md`), though the arena hub itself is reachable from anywhere via teleport, not something a player has to physically travel to.
 
 ## Level-5 queue gate

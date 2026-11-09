@@ -12,9 +12,9 @@
 
 **Racial standing differs by continent.** In Lunarest, elves receive special treatment under an elven law, while Beastfolk, goblins and dwarves carry bad infamy. Other continents differ.
 
-## Thornwatch, the border fortress city (Season Zero finale site)
+## Thornwatch, the old fortress in the northern forest (Season Zero finale site)
 
-A walled fortress city on the border, on the outskirts of the snowy plains and outside the Kingdom of Lunarest, with a city hall, small houses and bunkers inside the walls. It is a new zone added at the very end of the closed beta and it leads on to a new city beyond it, a port-city type place. The fortress is named Thornwatch (proposed name, OPEN to swap). The only pass between Lunarest and the fortress runs into it, and the plains have deep caverns that offer an unused flank. It is where the Battle of Thornwatch is fought in-world (see `codex/lore/hearthfire-expansion-and-seasons.md`).
+An abandoned, broken-down fortress the king once held, now rubble and old stone, with no gate: the way in is a breach in a broken wall. It sits at the edge of the huge **Thornwatch Forest**, which covers the north of the Kingdom of Lunarest (Alaska-sized in feel) and is one of the only unclaimed territories in the kingdom. No prince has claimed it, and the king marked it dangerous after his own expeditions failed. Rebuilt, the fortress is a strategic position behind walls beside the forest. The forest is a high-level farming zone: mythical beasts and unique monsters spawn there, and elixirs drop from it as a rare drop that players already know about. It is not a newbie area, and crossing it solo burns resources. Behind the fort lies the dungeon entrance and the way into the elves' domain (reached through a wisp quest, wisps being quick, low-HP and drawn to elves and high-mana users). It is the first place guilds can own, and where the Battle of Thornwatch is fought in-world (see `codex/lore/hearthfire-expansion-and-seasons.md`). The fortress name is Thornwatch (proposed, OPEN to swap).
 
 ## Places by region (forward material)
 
