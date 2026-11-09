@@ -298,3 +298,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter 4 fight rules (author-stated, latest): every ability activation shows its skill name on the page. Any debuff proc on Goblin Gas is a chance to stun, so four stacks are four stun chances; with Fortune 12 all four crit and stun, which Tatsuya notices cannot be normal, and the weak enforcers are stun-locked vomiting for almost eight seconds. He knows the flare does only 2 damage but is fire, and deliberately tries to ignite the gas; only the size of the explosion surprises him. Nameplates are not repeated on the page; a single "Thrash Clan Enforcers have initiated combat" line is enough.
 
 - Build hint (author-stated): after the fight Tatsuya realizes Goblin Gas can stun-lock enemies in a confined space, and with high Fortune this points toward a crit build. A hint, not a plan.
+
+- Provoke (author-stated): when the enforcers turn hostile a provoke symbol shows over their heads and Tatsuya reads it as a taunt he caused with his words. He learns later that provoked enemies can get tunnel vision and lock onto one target, which makes the taunting target a punching bag for everything else.

@@ -160,7 +160,11 @@ Both tags flipped red.
 
 **[THRASH CLAN ENFORCERS HAVE INITIATED COMBAT]**
 
-I let out a short chuckle, a smirk tugging at my mouth. *"So me bagging on them pissed them off, huh? Good to know."*
+A small red symbol flared over each of their heads, a flame inside a circle.
+
+**[PROVOKED]**
+
+*"What's that one?"* I let out a short chuckle, a smirk tugging at my mouth. *"Oh. That's because I pissed them off. A taunt. I provoked them, huh? Good to know."*
 
 Then there wasn't time to think.
 
