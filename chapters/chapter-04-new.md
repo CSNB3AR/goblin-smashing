@@ -156,13 +156,9 @@ A snort went through the ring behind them. Then a real laugh, then another. The 
 
 Both tags flipped red.
 
-**[THRASH CLAN ENFORCER - LEVEL 3]**
-
-**[THRASH CLAN ENFORCER - LEVEL 3]**
-
 **[HOSTILE]**
 
-**[THRASH CLAN ENFORCER HAS INITIATED COMBAT]**
+**[THRASH CLAN ENFORCERS HAVE INITIATED COMBAT]**
 
 I let out a short chuckle, a smirk tugging at my mouth. *"So me bagging on them pissed them off, huh? Good to know."*
 
@@ -192,7 +188,11 @@ I focused on Goblin Gas mid-stride and the description expanded.
 
 *"Useful. But how do I trigger it?"* In the streams, archers pulled an arrow and named the skill, swordsmen swung and called it. You needed a trigger, some way to channel it. I had no weapon and no idea. No time to figure it out gently, either.
 
-I cut back around the tent into the middle of the camp, and I tried. I shoved at the ability with my head, then with my gut, and pressure built low, sudden and mortifying, and the gas leaked out late and in the wrong place, a thin green puff hanging behind where they'd been a half-second ago.
+I cut back around the tent into the middle of the camp, and I tried. I shoved at the ability with my head, then with my gut, and the name lit up in my vision.
+
+**[GOBLIN GAS]**
+
+Pressure built low, sudden and mortifying, and the gas leaked out late and in the wrong place, a thin green puff hanging behind where they'd been a half-second ago.
 
 The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The ring of goblins laughed with them. My goblin ears went hot.
 
@@ -202,7 +202,7 @@ The enforcers split around it without slowing down, and then they started laughi
 
 **[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Damage: 2.]**
 
-*"Two damage. That's the only thing I can cast."* First I had to get them to run into it.
+*"Two damage. That's all it does. But it's fire, and the gas says it can be ignited."* If I could get them to run into it and stay there, maybe I could light it.
 
 **[COOLDOWN: 45 SECONDS]**
 
@@ -222,27 +222,35 @@ I zigzagged the other way, making them follow the long diagonal of the Z, across
 
 The fires sank lower and the camp went darker, the cold wind raking the sweat on my neck. I let them close in behind me, close enough that I felt their breath on it. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
 
+**[GOBLIN GAS]**
+
 Pressure, mortification, and a thick green cloud erupting right across their path. Both enforcers ran straight into it at full speed.
 
-**[CRITICAL HIT]**
+**[POISON DEBUFF: STACK 1 - CRITICAL HIT - STUNNED]**
 
-**[POISON DEBUFF x2]**
+They stopped dead, grabbed their knees, and started throwing up. A stun on the first stack, which meant a stun on every stack after it, and they kept stacking.
 
-**[POISON DEBUFF x3]**
+**[POISON DEBUFF: STACK 2 - CRITICAL HIT - STUNNED]**
 
-**[POISON DEBUFF x4]**
+**[POISON DEBUFF: STACK 3 - CRITICAL HIT - STUNNED]**
 
-**[STUNNED: NAUSEOUS]**
+**[POISON DEBUFF: STACK 4 - CRITICAL HIT - STUNNED]**
 
-Both folded over in the green mist, heaving, one with his hands on his knees, the other down on one hand, throwing up while the poison stacked on them.
+*"Four crits. Back to back. That can't be normal."* Twelve Fortune. These were weak mobs, and they were stun-locked for almost eight seconds, heaving in the green mist, one with his hands on his knees, the other down on one hand.
+
+*"This is my chance."*
 
 **[STAMINA: 5/25]**
 
-My stamina bar was almost empty. Two gases had eaten most of it, and the flare would take the rest. I didn't have a plan. I just needed to hurt them before the stun wore off.
+My stamina bar was almost empty. Two gases had eaten most of it, and the flare would take the rest. I had one shot at this.
 
-The gas stung my eyes and smoke rolled across the ground. I reached into a pocket on my rags and the flare materialized in my hand, the casing rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks. Then I threw it low and fast, flicking my hand like I was pulling a trigger.
+The gas stung my eyes and smoke rolled across the ground. I reached into a pocket on my rags and the flare materialized in my hand, the casing rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks.
 
-The flare never reached them. The gas caught the instant it touched the cloud.
+**[GOBLIN FLARE]**
+
+I threw it low and fast, flicking my hand like I was pulling a trigger.
+
+The flare never reached them. The gas caught the instant it touched the cloud, and the blast came out bigger than I'd bet on.
 
 A burst of flame erupted, loud enough that I felt the concussive wave hit my chest from fifteen feet away. The explosion lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
 
