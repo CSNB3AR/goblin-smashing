@@ -140,7 +140,7 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
 
-The kid caught the edge of my rags. "Man, you don't have to do this," he whispered. "They can have it." It was too late for that, and I think he knew it.
+The kid caught the edge of my rags. "M-man, you don't have to d-do this," he whispered. "They c-can have it." It was too late for that, and I think he knew it.
 
 They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
 
