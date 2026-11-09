@@ -140,7 +140,11 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
 
-They started closing in on me, and I closed the gap right back. A loose ring of goblins had drifted in around us, drawn by the commotion, watching. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear. Both nameplates flickered from white to yellow.
+They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
+
+*"I don't want a fight."* But I'd already walked in, and there wasn't another door now. And I'd never once been able to stand a bully, not even when it was a bad idea. *"Alright. If it's gonna happen, it's gonna happen on my terms."*
+
+I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear. Both nameplates flickered from white to yellow.
 
 **[THRASH CLAN ENFORCER - LEVEL 3]**
 
@@ -162,7 +166,7 @@ Both tags flipped red.
 
 I let out a short chuckle, a smirk tugging at my mouth. *"So me bagging on them pissed them off, huh? Good to know."*
 
-That was a provoke, the taunt a tank uses to drag mobs onto himself, except I'd done it with my mouth instead of a skill. They'd reacted the way any person would, embarrassed first and then furious, and a second ago I'd been just another goblin in their camp. Nothing about that was scripted. That was high-tech AI.
+That was a provoke, the taunt a tank uses to pull mobs onto himself, except I'd done it with my mouth. They'd reacted like any person would, embarrassed and then furious, and a second ago I'd been just another goblin in their camp. That wasn't scripted. That was high-tech AI.
 
 Then there wasn't time to think.
 
@@ -171,8 +175,6 @@ I turned and ran.
 My legs moved wrong, too short and choppy, but lighter now, each push off the ground almost effortless next to my real body. *"Speed's doing work. Okay, that's actually clean."*
 
 I cut between two tents at an angle they'd have to widen out to follow, using the canvas shadows to break line of sight.
-
-Goblins nearby stopped to watch. Not many, but enough that I could feel the eyes tracking me.
 
 I couldn't die here. The 72-hour death lock surfaced in my mind, something I'd skimmed in the license screen before I pressed accept. *"One mistake and I'm done."*
 
@@ -202,13 +204,11 @@ Coughing erupted behind me, harsh and wet. One of them doubled over retching.
 
 **[POISON DEBUFF: STACK 1]**
 
-I didn't slow down to watch, cutting left around another tent, and the gap widened for the first time, my shorter legs eating up ground faster than they should have.
-
-Then the gap closed again. I glanced back over my shoulder and caught one enforcer peeling off down a side lane between tents instead of chasing straight, angling to cut me off.
+I didn't slow down to watch, cutting left around another tent, and the gap widened, my shorter legs eating ground faster than they should have. Then it closed again. One enforcer peeled off down a side lane between tents, angling to cut me off.
 
 *"They're not just chasing anymore. They're trying to box me in. Smart."*
 
-I threaded a gap between two tents barely wide enough for my shoulders and came out past the big stew pot, the goblin tending it stepping aside, spoon still in hand, more curious than alarmed.
+I threaded a gap between two tents barely wide enough for my shoulders and came out past the big stew pot, the goblin tending it stepping aside, spoon still in hand.
 
 **[COOLDOWN: 30 SECONDS. 25. 20.]**
 
@@ -216,7 +216,7 @@ Somewhere off to my left a tent flap snapped open and a goblin stepped out, wild
 
 *"Gold. Someone important. And she's not stepping in."*
 
-She didn't move to stop anything. A couple of the watching goblins picked up on that and started calling out to each other, half cheer, half joke, the noise a crowd makes once it decides nobody's in real danger.
+She didn't move to stop anything. The watching goblins started calling out to each other, half cheer, half joke, the noise a crowd makes once it decides nobody's in real danger.
 
 *"Oh, y'all think this is funny. Cool."*
 
@@ -224,7 +224,7 @@ The cooldown hit zero, the number disappearing from my vision.
 
 I cut around a supply crate, put six feet of clean ground behind me in two quick strides, and triggered Goblin Gas again without hesitation.
 
-Same pressure low in my gut, same mortifying release, same thick green cloud. This time both enforcers were close enough behind me to catch the worst of it, running straight into it at full speed.
+Same pressure, same mortifying release, same thick green cloud, and this time both enforcers ran straight into it at full speed.
 
 **[POISON DEBUFF x2]**
 
@@ -278,15 +278,13 @@ I hadn't meant to. I'd been testing whether the tooltip meant what it said, not 
 
 **[Wisdom: 4]**
 
-A leather belt sat in the dirt where the smaller of the two bodies had fallen, half-buried beside two small glass vials with a faint green glow. I crossed over and crouched. The belt lit up faintly in my hand, a soft pulse running along its length before the notification appeared.
+A leather belt lay in the dirt beside two small glass vials with a faint green glow. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
 
 **[ITEM CLAIMED: GOBLIN GADGET BELT - COMMON]**
 
 **[ABILITIES: SMOKE BOMB, GAS BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]**
 
-I turned the belt over in my hands, the rough leather still warm from the fire.
-
-I looped it around my waist and felt it settle. Then I picked up the two vials, small and delicate in my clawed hands, a number stamped faint beneath the green glass on each one.
+I looped it around my waist and felt it settle, then picked up the vials, a number stamped faint under the green glass on each one.
 
 **[ITEM CLAIMED: MINOR ELIXIR x2 - UNCOMMON]**
 
@@ -299,8 +297,6 @@ I looped it around my waist and felt it settle. Then I picked up the two vials, 
 A gold-bordered notification bloomed beneath the item description, brighter than the white text around it.
 
 **[GAMBLER'S GAMBIT PROC: FORTUNE CHECK PASSED]**
-
-There it was. Something in my chest loosened for the first time since I'd watched the word Goblin lock into place.
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
