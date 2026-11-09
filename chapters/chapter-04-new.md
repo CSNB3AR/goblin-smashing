@@ -160,9 +160,9 @@ Both tags flipped red.
 
 **[THRASH CLAN ENFORCER HAS INITIATED COMBAT]**
 
-*"Damn. So my mouth is a provoke. Good to know."*
+I let out a short chuckle, a smirk tugging at my mouth. *"So me bagging on them pissed them off, huh? Good to know."*
 
-Provoke was a taunt, the skill a tank used to drag mobs onto himself, and I'd just done it with my mouth. They'd reacted the way any person would, embarrassed and then furious, and a second ago I'd been just another goblin in their camp. *"That is some high-tech AI."*
+That was a provoke, the taunt a tank uses to drag mobs onto himself, except I'd done it with my mouth instead of a skill. They'd reacted the way any person would, embarrassed first and then furious, and a second ago I'd been just another goblin in their camp. Nothing about that was scripted. That was high-tech AI.
 
 Then there wasn't time to think.
 
