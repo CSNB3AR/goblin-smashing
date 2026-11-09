@@ -276,6 +276,8 @@ I stood there with my ears ringing, staring at two bodies that weren't moving an
 
 I hadn't meant to kill anybody. I'd only wanted to hurt them before the stun wore off, and the quiet where the laughing had been sat wrong with me.
 
+But I'd learned something. Gas in a confined space, with a stun that kept re-rolling, was a lock for as long as they stayed in it, and with Fortune like mine the crits were what made it work. *"A crit build."* It wasn't the Spellforger. But it was something to build on.
+
 *"Four. Two from the screen I never got to use."* I dropped them into Wisdom and Speed. More of a guess than a plan. I'd find out what they did.
 
 **[Speed: 9]**
