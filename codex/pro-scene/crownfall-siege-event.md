@@ -11,6 +11,7 @@ Crownfall is the **Season One opener for seasonal points** and the **introductio
 
 - Crownfall is a **guild-only raid** against an **open-world boss** that roams the Thornwatch Forest. Only guilds can enter, and only a limited number of players can be in the zone at once, so an unorganized guild gets killed and put on a death timer. The zone is PvP and **full loot**: players drop items on death, so it is high risk and high reward, and the boss can kill players too. Guilds fight each other as well as the boss.
 - The raid is worth millions (the announced ten million yen pool) and arrives with an expansion of the map. The announcement in chapter 1 is the raid, not a Siege.
+- The boss is a **world-level boss** like the big named world bosses in other MMOs: overpowered, a massive health pool, and it takes multiple kills or a sustained effort by many players. Guilds may get greedy or ally with each other to lock other guilds out of the rewards, so alliances, betrayals and blockades are part of the raid.
 - Thornwatch Forest is a **high-level zone with high-level materials**, including the ones blacksmiths and other crafters use, and rare high-level items. The elixir is the biggest drop, but it is not the only one.
 
 ## What kind of event it is
