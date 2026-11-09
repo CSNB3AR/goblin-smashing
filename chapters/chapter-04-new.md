@@ -228,7 +228,7 @@ Pressure, mortification, and a thick green cloud erupting right across their pat
 
 **[POISON DEBUFF: STACK 1 - CRITICAL HIT - STUNNED]**
 
-They stopped dead, grabbed their knees, and started throwing up. A stun on the first stack, which meant a stun on every stack after it, and they kept stacking.
+They stopped dead, grabbed their knees, and started throwing up. And they didn't get back up. Every time the poison ticked, it caught them again.
 
 **[POISON DEBUFF: STACK 2 - CRITICAL HIT - STUNNED]**
 
@@ -236,7 +236,7 @@ They stopped dead, grabbed their knees, and started throwing up. A stun on the f
 
 **[POISON DEBUFF: STACK 4 - CRITICAL HIT - STUNNED]**
 
-*"Four crits. Back to back. That can't be normal."* Twelve Fortune. These were weak mobs, and they were stun-locked for almost eight seconds, heaving in the green mist, one with his hands on his knees, the other down on one hand.
+*"The stun doesn't wear off. They're stuck in the cloud, so it keeps rolling."* Every stack was another chance, and every chance had landed. I couldn't count on that. Nobody could count on crits. But these were weak mobs, trapped in the gas, and I had twelve Fortune, and it had all lined up this once. They'd be heaving for almost eight seconds, one with his hands on his knees, the other down on one hand.
 
 *"This is my chance."*
 
