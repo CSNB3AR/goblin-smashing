@@ -140,6 +140,8 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
 
+The kid caught the edge of my rags. "Man, you don't have to do this," he whispered. "They can have it." It was too late for that, and I think he knew it.
+
 They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
 
 *"I don't want a fight."* But I'd already walked in, and there wasn't another door now. And I'd never once been able to stand a bully, not even when it was a bad idea. *"Alright. If it's gonna happen, it's gonna happen on my terms."*
@@ -170,7 +172,7 @@ Then there wasn't time to think.
 
 I turned and ran from the middle of camp, short choppy strides, but lighter than I had any right to be, each push off the ground almost effortless next to my real body. *"Speed's doing work. Okay, that's actually clean."*
 
-I cut left between two tents at an angle they'd have to widen out to follow, the canvas swallowing the firelight. Boots pounded right behind me, both of them on my heels.
+I cut left between two tents at an angle they'd have to widen out to follow. The wind had picked up, snapping the canvas and pushing the fires low, and the dark between the tents swallowed the glow. Boots pounded right behind me, both of them on my heels.
 
 I couldn't die here. The 72-hour death lock surfaced in my mind, something I'd skimmed in the license screen before I pressed accept. *"One mistake and I'm done."*
 
@@ -204,7 +206,7 @@ The enforcers split around it without slowing down, and then they started laughi
 
 **[COOLDOWN: 45 SECONDS]**
 
-I broke left behind the biggest tent in the camp, then back around the stew pot, the goblin tending it stepping aside, spoon still in hand. The enforcers followed, calling me names, dumb with confidence. That was what I wanted. They'd stay right behind me as long as they thought I was scared.
+I broke left behind the biggest tent in the camp and pressed into its shadow for half a breath, listening to their boots hit the dirt, timing the gaps between the steps. Then back around the stew pot, the goblin tending it stepping aside, spoon still in hand. The enforcers followed, calling me names, dumb with confidence. That was what I wanted. They'd stay right behind me as long as they thought I was scared.
 
 Somewhere off to my left a tent flap snapped open and a goblin stepped out, wild green hair catching the firelight, copper rings glinting in her ears, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, without any visible concern.
 
@@ -218,7 +220,7 @@ She didn't move to stop anything. The watching goblins started calling out to ea
 
 I zigzagged the other way, making them follow the long diagonal of the Z, across the open ground toward the middle of the camp again. The number in my vision hit zero.
 
-I let them close in behind me, close enough that I felt their breath on my neck. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
+The fires sank lower and the camp went darker, the cold wind raking the sweat on my neck. I let them close in behind me, close enough that I felt their breath on it. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
 
 Pressure, mortification, and a thick green cloud erupting right across their path. Both enforcers ran straight into it at full speed.
 
@@ -238,7 +240,7 @@ Both folded over in the green mist, heaving, one with his hands on his knees, th
 
 My stamina bar was almost empty. Two gases had eaten most of it, and the flare would take the rest. I didn't have a plan. I just needed to hurt them before the stun wore off.
 
-I reached into a pocket on my rags and the flare materialized in my hand, the casing rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks. Then I threw it low and fast, flicking my hand like I was pulling a trigger.
+The gas stung my eyes and smoke rolled across the ground. I reached into a pocket on my rags and the flare materialized in my hand, the casing rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks. Then I threw it low and fast, flicking my hand like I was pulling a trigger.
 
 The flare never reached them. The gas caught the instant it touched the cloud.
 
