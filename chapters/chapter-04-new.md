@@ -140,7 +140,7 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
 
-They started closing in on me, and I closed the gap right back. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear. Both nameplates flickered from white to yellow.
+They started closing in on me, and I closed the gap right back. A loose ring of goblins had drifted in around us, drawn by the commotion, watching. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear. Both nameplates flickered from white to yellow.
 
 **[THRASH CLAN ENFORCER - LEVEL 3]**
 
@@ -150,9 +150,9 @@ They started closing in on me, and I closed the gap right back. My hands tingled
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
-"Only mistake I made was not plugging my nose before I came over here," I said, letting a grin pull at the corner of my mouth. The adrenaline was talking, and I let it. "Y'all smell like absolute dog shit."
+"Only mistake I made was not plugging my nose before I came over here," I said, waving a hand in front of my face like somebody had just let one go, a grin pulling at the corner of my mouth. The adrenaline was talking, and I let it. "Y'all smell like absolute dog shit."
 
-Somebody in the crowd snorted. Then another one laughed out loud. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
+A snort went through the ring behind them. Then a real laugh, then another. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
 
 Both tags flipped red.
 
@@ -160,7 +160,9 @@ Both tags flipped red.
 
 **[THRASH CLAN ENFORCER HAS INITIATED COMBAT]**
 
-*"There it is. Didn't even need a skill for that."*
+*"Damn. So my mouth is a provoke. Good to know."*
+
+Provoke was a taunt, the skill a tank used to drag mobs onto himself, and I'd just done it with my mouth. They'd reacted the way any person would, embarrassed and then furious, and a second ago I'd been just another goblin in their camp. *"That is some high-tech AI."*
 
 Then there wasn't time to think.
 
