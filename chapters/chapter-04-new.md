@@ -162,13 +162,9 @@ Both tags flipped red.
 
 I let out a short chuckle, a smirk tugging at my mouth. *"So me bagging on them pissed them off, huh? Good to know."*
 
-That was a provoke, the taunt a tank uses to pull mobs onto himself, except I'd done it with my mouth. They'd reacted like any person would, embarrassed and then furious, and a second ago I'd been just another goblin in their camp. That wasn't scripted. That was high-tech AI.
-
 Then there wasn't time to think.
 
-I turned and ran from the middle of camp, short choppy strides, but lighter than I had any right to be, each push off the ground almost effortless next to my real body. *"Speed's doing work. Okay, that's actually clean."*
-
-I cut left between two tents at an angle they'd have to widen out to follow. The wind had picked up, snapping the canvas and pushing the fires low, and the dark between the tents swallowed the glow. Boots pounded right behind me, both of them on my heels.
+I turned and ran from the middle of camp, short choppy strides, but lighter than I had any right to be. *"Speed's doing work. Okay, that's actually clean."* I ducked under a guy-line that cleared my head by a foot and caught them across the chest, then cut left between two tents at an angle they'd have to widen out to follow. The wind had picked up, snapping the canvas and pushing the fires low, and the dark between the tents swallowed the glow. Boots pounded right behind me.
 
 I couldn't die here. The 72-hour death lock surfaced in my mind, something I'd skimmed in the license screen before I pressed accept. *"One mistake and I'm done."*
 
@@ -186,49 +182,49 @@ I focused on Goblin Gas mid-stride and the description expanded.
 
 **[COOLDOWN: 45 SECONDS]**
 
-*"Useful. But how do I trigger it?"* In the streams, archers pulled an arrow and named the skill, swordsmen swung and called it. You needed a trigger, some way to channel it. I had no weapon and no idea. No time to figure it out gently, either.
+*"Useful. But how do I trigger it?"* No weapon, no arrow to draw, nothing to channel it through. No time to figure it out gently, either.
 
-I cut back around the tent into the middle of the camp, and I tried. I shoved at the ability with my head, then with my gut, and the name lit up in my vision.
+I cut back around the tent into the middle of the camp and tried. I shoved at the ability with my head, then my gut, and the name lit up in my vision.
 
 **[GOBLIN GAS]**
 
 Pressure built low, sudden and mortifying, and the gas leaked out late and in the wrong place, a thin green puff hanging behind where they'd been a half-second ago.
 
-The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The ring of goblins laughed with them. My goblin ears went hot.
+The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The ring of goblins laughed with them. Behind a crate, the kid clutched his bowl and stared at me like I'd lost my mind. My goblin ears went hot.
 
-*"Alright. Laugh."* I looked at the tooltip again. Poison stacked four times. A chance to stun. *"So if I stack it, what happens?"* Then Goblin Flare.
+*"Alright. Laugh."* Poison stacked four times, with a chance to stun. I opened the other skill.
 
 **[GOBLIN FLARE - EMERGENCY SIGNAL]**
 
 **[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Damage: 2.]**
 
-*"Two damage. That's all it does. But it's fire, and the gas says it can be ignited."* If I could get them to run into it and stay there, maybe I could light it.
+*"Two damage. But it's fire, and the gas says it can be ignited."*
 
 **[COOLDOWN: 45 SECONDS]**
 
-I broke left behind the biggest tent in the camp and pressed into its shadow for half a breath, listening to their boots hit the dirt, timing the gaps between the steps. Then back around the stew pot, the goblin tending it stepping aside, spoon still in hand. The enforcers followed, calling me names, dumb with confidence. That was what I wanted. They'd stay right behind me as long as they thought I was scared.
+I broke left behind the biggest tent in the camp and pressed into its shadow for half a breath, listening to their boots hit the dirt, timing the gaps between steps. Then back around the stew pot, the goblin tending it stepping aside, spoon still in hand. The enforcers followed, calling me names, dumb with confidence.
 
 Somewhere off to my left a tent flap snapped open and a goblin stepped out, wild green hair catching the firelight, copper rings glinting in her ears, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, without any visible concern.
 
 *"Gold. Someone important. And she's not stepping in."*
 
-She didn't move to stop anything. The watching goblins started calling out to each other, half cheer, half joke, the noise a crowd makes once it decides nobody's in real danger.
+The watching goblins started calling out to each other, half cheer, half joke.
 
 *"Oh, y'all think this is funny. Cool."*
 
 **[COOLDOWN: 30 SECONDS. 25. 20.]**
 
-I zigzagged the other way, making them follow the long diagonal of the Z, across the open ground toward the middle of the camp again. The number in my vision hit zero.
+I zigzagged back across the open ground toward the middle of the camp, the long diagonal of the Z. The number in my vision hit zero.
 
 The fires sank lower and the camp went darker, the cold wind raking the sweat on my neck. I let them close in behind me, close enough that I felt their breath on it. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
 
 **[GOBLIN GAS]**
 
-Pressure, mortification, and a thick green cloud erupting right across their path. Both enforcers ran straight into it at full speed.
+Pressure, mortification, and a thick green cloud erupting across their path. Both enforcers ran straight into it at full speed.
 
 **[POISON DEBUFF: STACK 1 - CRITICAL HIT - STUNNED]**
 
-They stopped dead, grabbed their knees, and started throwing up. And they didn't get back up. Every time the poison ticked, it caught them again.
+A green skull bloomed over each of their heads, a sick little swirl beside it, and their health bars started sliding down in small, steady ticks. They stopped dead, grabbed their knees, and the stew they'd just eaten came up in chunks onto the dirt. Behind the crate, the kid made a strangled noise.
 
 **[POISON DEBUFF: STACK 2 - CRITICAL HIT - STUNNED]**
 
@@ -236,23 +232,19 @@ They stopped dead, grabbed their knees, and started throwing up. And they didn't
 
 **[POISON DEBUFF: STACK 4 - CRITICAL HIT - STUNNED]**
 
-*"Damn. What is happening right now?"* They were throwing up the stew they'd just eaten, steaming on the cold ground, and they couldn't stop. This game wasn't pulling any punches. Every tick of poison caught them again, and the stun kept rolling. Weak mobs, stuck in the cloud, and I couldn't count on it ever lining up like this again. Almost eight seconds of it.
-
-*"This is my chance."*
+The sick icons stayed lit. Every tick of poison caught them again, and they stayed bent over, heaving, for almost eight seconds. *"Damn. What is happening right now?"* Then, *"This is my chance."*
 
 **[STAMINA: 5/25]**
 
-My stamina bar was almost empty. Two gases had eaten most of it, and the flare would take the rest. I had one shot at this.
+My stamina bar was almost empty. Two gases had eaten most of it, and the flare would take the rest.
 
-The gas stung my eyes and smoke rolled across the ground. I reached into a pocket on my rags and the flare materialized in my hand, the casing rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks.
+Smoke rolled across the ground and stung my eyes. I reached into a pocket on my rags and the flare materialized in my hand, rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks.
 
 **[GOBLIN FLARE]**
 
 I threw it low and fast, flicking my hand like I was pulling a trigger.
 
-The flare never reached them. The gas caught the instant it touched the cloud, and the blast came out bigger than I'd bet on.
-
-A burst of flame erupted, loud enough that I felt the concussive wave hit my chest from fifteen feet away. The explosion lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
+The flare never reached them. The gas caught the instant it touched the cloud, and the blast came out bigger than I'd bet on. It hit my chest from fifteen feet away and lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
 
 **[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
 
@@ -270,13 +262,9 @@ A burst of flame erupted, loud enough that I felt the concussive wave hit my che
 
 Nobody was laughing anymore.
 
-I stood there with my ears ringing, staring at two bodies that weren't moving anymore, smoke rising off them in thin trails.
+I stood there with my ears ringing, staring at two bodies that weren't moving, smoke rising off them in thin trails. The kid stood frozen by the crate with the bowl still against his chest. *"Holy shit. That actually worked."* My hands trembled when I looked down at them.
 
-*"Holy shit. That actually worked."* My hands trembled slightly when I looked down at them.
-
-I hadn't meant to kill anybody. I'd only wanted to hurt them before the stun wore off, and the quiet where the laughing had been sat wrong with me.
-
-But I'd learned something. Gas, a closed space, a stun that kept rolling, and Fortune on top of it. *"A crit build."* Not the Spellforger. But something to build on.
+I hadn't meant to kill anybody. The quiet where the laughing had been sat wrong with me. Gas, a closed space, a stun that kept rolling, and Fortune on top of it. *"A crit build."* Not the Spellforger. But something to build on.
 
 *"Four. Two from the screen I never got to use."* I dropped them into Wisdom and Speed. More of a guess than a plan. I'd find out what they did.
 
