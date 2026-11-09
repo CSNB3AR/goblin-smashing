@@ -128,19 +128,17 @@ Above each head, over the word Goblin, the same line: Thrash Clan. All three. *"
 
 The big ones had already scraped their own bowls clean. The goblin at the stew pot ladled the last of it into somebody else's bowl and turned back to his pot like he hadn't heard a thing. Nobody stepped in. Nobody called it fair, nobody told them to quit. A few watched with their food held close and then looked away. That sat wrong with me. I knew that feeling from when I was younger, being picked on, and nobody stepping up for me either.
 
-I started walking toward them, slow, no hurry, close enough to hear.
+I started walking toward them, slow, no hurry, taking the camp with me as I went. The fire pit behind me. The stew pot on my right. Supply crates stacked beside the big tent, and a narrow lane between two tents on my left that ran back toward the track out. I counted the gaps between tents the way I'd count exits in the store, places I could cut through if this went bad. Close enough to hear.
 
 One of them shoved a claw into the kid's chest, hard enough that his shoulders hit the wood, and the other reached for the bowl. My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
 
-"Hey, nah." I stepped between them and the kid, weight balanced, hands loose at my sides. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
+"Hey, nah." I got between them, planted a palm on the reaching goblin's chest and pushed him back a step, then pulled the bowl out of his claws and put it in the kid's hands. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
 
 The nearer goblin looked me up and down, taking in the rags, no visible weapons, the way I was standing as if I knew exactly how much space I was taking up. "Mind your business, new blood."
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
 
-They started closing in on me, and I closed the gap right back.
-
-Both nameplates flickered from white to yellow.
+They started closing in on me, and I closed the gap right back. Both nameplates flickered from white to yellow.
 
 **[THRASH CLAN ENFORCER - LEVEL 3]**
 
@@ -150,9 +148,9 @@ Both nameplates flickered from white to yellow.
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
-"Only mistake I see is you two not bathing," I said, letting a grin pull at the corner of my mouth. "Damn, y'all really stink. That's crazy."
+"Only mistake I made was not plugging my nose before I came over here," I said, letting a grin pull at the corner of my mouth. "Y'all smell like absolute dog shit."
 
-The second enforcer barked a laugh, short and mean.
+Somebody in the crowd snorted. Then another one laughed out loud. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
 
 Both tags flipped red.
 
