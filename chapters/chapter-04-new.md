@@ -144,13 +144,7 @@ They didn't back off. The nearer one stepped in until his chest was an arm's len
 
 *"I don't want a fight."* But I'd already walked in, and there wasn't another door now. And I'd never once been able to stand a bully, not even when it was a bad idea. *"Alright. If it's gonna happen, it's gonna happen on my terms."*
 
-I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear. Both nameplates flickered from white to yellow.
-
-**[THRASH CLAN ENFORCER - LEVEL 3]**
-
-**[THRASH CLAN ENFORCER - LEVEL 3]**
-
-*"Yellow. Neutral, I think. Might still flip."*
+I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear.
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
@@ -159,6 +153,10 @@ I closed the gap and shoved the nearer one in the chest, short and hard. He stum
 A snort went through the ring behind them. Then a real laugh, then another. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
 
 Both tags flipped red.
+
+**[THRASH CLAN ENFORCER - LEVEL 3]**
+
+**[THRASH CLAN ENFORCER - LEVEL 3]**
 
 **[HOSTILE]**
 
