@@ -7,6 +7,12 @@
 
 Crownfall is the **Season One opener for seasonal points** and the **introduction of the Siege format**, a guild-only open-beta event hosted by HGO in the weeks between the Hearthfire announcement and the launch. It is the gateway event Tatsuya's early arc runs toward. It prepares everyone for the larger-scale conflict that follows: the war the story is about is Node Wars (see `codex/lore/hearthfire-expansion-and-seasons.md`). The event takes place in a **neutral zone** that may tie back to a legendary world quest (a rumor and a hint only, undecided). The standing competitive option built on the same format is the Siege Pro League, active from the start of Season One (see the Hearthfire doc, "Siege and the Siege Pro League").
 
+## Crownfall as a raid and the Thornwatch zone (author-stated)
+
+- Crownfall is a **guild-only raid** against an **open-world boss** that roams the Thornwatch Forest. Only guilds can enter, and only a limited number of players can be in the zone at once, so an unorganized guild gets killed and put on a death timer. The zone is PvP and **full loot**: players drop items on death, so it is high risk and high reward, and the boss can kill players too. Guilds fight each other as well as the boss.
+- The raid is worth millions (the announced ten million yen pool) and arrives with an expansion of the map. The announcement in chapter 1 is the raid, not a Siege.
+- Thornwatch Forest is a **high-level zone with high-level materials**, including the ones blacksmiths and other crafters use, and rare high-level items. The elixir is the biggest drop, but it is not the only one.
+
 ## What kind of event it is
 
 - A **Siege battle royale**: 5 guilds per session, 20 players per guild. Each guild starts at an outskirts-like camp at spawn, gathers resources to upgrade it to level 3, and it becomes a fort. Each guild has a guild flag and 60 total lives (3 waves). A session lasts 3 hours. Guilds fight for resources and survive, building creative forts with items and magic. Winners earn shillings and Ember cores. Format details: `codex/lore/hearthfire-expansion-and-seasons.md`.
