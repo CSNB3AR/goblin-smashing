@@ -142,7 +142,7 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 The kid caught the edge of my rags. "M-man, you don't have to d-do this," he whispered. "They c-can have it."
 
-Short, broken words, a stutter for anything longer. The enforcers talked in full sentences, clan recruits with a few more brain cells behind their eyes, and the kid sounded like what a true runt really was. Two Wisdom on a sheet, same as mine, except I still had my whole head behind it.
+Short, broken words, a stutter for anything longer. The enforcers talked in full sentences, clan recruits with a few more brain cells behind their eyes, and the kid sounded like what a true runt really was.
 
 "Nah," I said, not taking my eyes off them. "You don't get it. If you don't stick up for yourself now, guys like this never go away."
 
