@@ -4,7 +4,7 @@
 
 ## Appearance
 
-Visual reference locked. Broad, hulking build, bigger and heavier than a standard goblin, matches his "massive presence" characterization. Red-orange toned skin, prominent lower tusks, a rune marking etched into his brow. Thick dark hair worn in two heavy braids over his shoulders. Wears a red ceremonial wrap/robe with tan geometric tribal patterning, battle-worn rather than pristine, consistent with a chieftain who leads from the front, not a court figure.
+Visual reference locked (author-sent image, latest wins over the earlier red-orange description). Broad, heavily muscled and much bigger than a standard goblin, with the massive presence of a chieftain. Muted green skin, a short black beard and mustache, long black windblown hair in two thick braids over his chest tied off with red ribbon bows, amber eyes under a heavy scowl, a pointed ear with ring earrings. A burgundy vest hanging open over a white shirt with the collar open and one sleeve rolled, a dark sash and brown belt with a large brass buckle, a small tooth or horn pendant on a cord, and swirling dark markings up his forearm. Pirate-captain bearing, battle-worn. Carries a two-handed battle axe.
 
 ## Facts
 

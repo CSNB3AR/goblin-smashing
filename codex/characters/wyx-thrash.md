@@ -4,7 +4,7 @@
 
 ## Appearance
 
-Visual reference locked, updating the earlier placeholder description. Wild green hair, worn loose and high, green eyes, a sharp, toothy grin. Ranger/archer-coded gear: a fitted green top, brown leather harness and arm wraps, a quiver of arrows across her back, daggers and pouches slung on her belt. Reads agile and sharp rather than heavily armored, matching her "sharp and quick to challenge" characterization.
+Visual reference locked (author-sent image, latest wins over the earlier green-hair description). Dark brown skin, long black hair worn loose and high with a curved bone clasp, amber eyes, small tusks at the corners of her mouth, pointed ears with several hoops and hanging bone-tooth earrings. Dark red geometric markings across her forehead, cheek, shoulders, arms, stomach and thigh. A necklace of large fangs and claws, a gray cloth top tied at the front, a spiked bone pauldron and leather wraps on her arms, fur trim, a torn cloak, a belt with a beast skull hanging at her hip and a ragged dark skirt. Reads strong, athletic and sharp, a fighter and not a ranger.
 
 ## Facts
 
