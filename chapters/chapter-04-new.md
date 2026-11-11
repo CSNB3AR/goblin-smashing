@@ -340,9 +340,9 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 A die dropped into my hands, bronze, the pips worn smooth like the one in my ear, only so big I needed both hands to hold it. I tossed it up, and it swelled as it tumbled through the air, and gold light poured off it and washed over me, rolling out across the dirt. The watching goblins flinched. Somebody muttered. The kid stared, and Wyx's head tilted a fraction. *"They can see that? Okay. Not subtle."* The die hit the dirt with a heavy thud, rolled once, and settled.
 
-**[ROLL: 5]**
+**[ROLL: 3]**
 
-*"Five!"* The grin got out before I could stop it. *"Out of six, I'm guessing. Is five good? What does a five even do?"*
+*"Three."* I tilted my head. *"Out of six, I'm guessing. Right in the middle. Is that good? What does a three even do?"*
 
 **[GAMBLER'S GAMBIT: FORTUNE CHECK PASSED]**
 
@@ -364,7 +364,7 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"So that's the roll. Five, and the loot drops."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
+*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"So that's the roll. A three, and this is what drops."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
