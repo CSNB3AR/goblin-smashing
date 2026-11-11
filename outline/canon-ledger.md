@@ -300,3 +300,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Build hint (author-stated): after the fight Tatsuya realizes Goblin Gas can stun-lock enemies in a confined space, and with high Fortune this points toward a crit build. A hint, not a plan.
 
 - Provoke (author-stated): when the enforcers turn hostile a provoke symbol shows over their heads and Tatsuya reads it as a taunt he caused with his words. He learns later that provoked enemies can get tunnel vision and lock onto one target, which makes the taunting target a punching bag for everything else.
+
+- The kid and Taji (author-stated): when the kid begs him to let it go, Tatsuya answers with what he would have told his little brother Taji, that if you do not stick up for yourself now, guys like this never go away, and for a moment it feels like talking to Taji. That is what commits him, and it is what the kid registers, which is how the kid becomes his first mate. His reluctance is practical: attacking in a camp he just woke up in could make him an enemy of the whole camp and risk his life, but he provoked this himself, cannot back down, and sees it as a chance to test things.

@@ -140,11 +140,15 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 "Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
 
-The kid caught the edge of my rags. "M-man, you don't have to d-do this," he whispered. "They c-can have it." It was too late for that, and I think he knew it.
+The kid caught the edge of my rags. "M-man, you don't have to d-do this," he whispered. "They c-can have it."
+
+"Nah," I said, not taking my eyes off them. "You don't get it. If you don't stick up for yourself now, guys like this never go away."
+
+It was exactly what I'd have told Taji. I don't know why, but for a second it felt like I was talking to my little brother, and that settled it for me.
 
 They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
 
-*"I don't want a fight."* But I'd already walked in, and there wasn't another door now. And I'd never once been able to stand a bully, not even when it was a bad idea. *"Alright. If it's gonna happen, it's gonna happen on my terms."*
+*"I don't want a fight."* Starting something in a camp I'd just woken up in could turn the whole place on me, and dying here wasn't in the plan. But I'd said what I said knowing exactly what it would stir up. I'd started this, and I couldn't back down off it now. If they wanted to start something with me and nobody stepped in, then fine. *"Alright. This could be good. Might as well test some things out."*
 
 I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear.
 
