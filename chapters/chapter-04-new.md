@@ -10,11 +10,11 @@ I got my eyes open and the world swam, black and orange, with pale rectangles fl
 
 The camp climbed away from me up a slope, lit orange by the fires. A ring of stones around a fire pit sat right in front of my face with a thin line of smoke rising off it, and past it hide-covered tents leaned on timber frames, one huge one in the middle with a cart of hay bales beside it. Sharpened stakes ran along the edge of the clearing, two blue banners hung limp on their poles, and at the back a waterfall poured down the rock into a stream. The only way out I could see was one dirt track curving off to the right between the stakes. Everything else was cliff and water. Goblins moved between the tents, more than I could count from the ground.
 
-I pushed up onto my forearms and the arms were wrong. Green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of me. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven.
+I pushed up onto my forearms and the arms were wrong. Green skin where my own dark brown should have been, thin fingers with long, ridged nails at the ends of arms that read too long for the rest of me. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven.
 
 *"Shit."*
 
-Green, clawed, too long for a body this small. There was no other way to read it. I was a goblin. *"Damn it. No way I'm getting the Elf now."*
+Green, knobby-knuckled, too long for a body this small. There was no other way to read it. I was a goblin. *"Damn it. No way I'm getting the Elf now."*
 
 My chest was going, and I stayed on my forearms and didn't move. *"Chill. Don't trip. I've been through way worse than this."*
 
@@ -26,7 +26,7 @@ I lay there and let it play out. Me at the counter telling the story, Leon on th
 
 Then the hole in it showed up on its own. Whoever was behind that counter would ask what I'd been running the game on. A first-gen pod, and a game it was never built for. That was the question I'd ask, and it was the one I'd get stuck on.
 
-I shook the thoughts away and went to scratch my goatee. My claw found smooth skin, and I let the hand drop. *"Damn, that won't work."*
+I shook the thoughts away and went to scratch my goatee. My fingertip found smooth skin, and I let the hand drop. *"Damn, that won't work."*
 
 Getting Leon to back me up meant telling him the truth about the hardwire, and until I had some way to fix what I'd done to his pod, I couldn't do that. Not yet.
 
@@ -132,9 +132,9 @@ I started walking toward them, slow, no hurry, taking the camp with me as I went
 
 I was nervous. I'd never thrown a punch at anyone, let alone in a body I'd had for ten minutes. But under the nerves something else was lighting up, the same anticipation I used to get watching Dosuke set up a play, right before it landed, and it was making me want to move.
 
-One of them shoved a claw into the kid's chest, hard enough that his shoulders hit the wood, and the other reached for the bowl. My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
+One of them shoved a thick-knuckled hand into the kid's chest, hard enough that his shoulders hit the wood, and the other reached for the bowl. My body was moving before my head caught up, the part of me that said this was a bad idea a few steps behind.
 
-"Hey, nah." I got between them, planted a palm on the reaching goblin's chest and pushed him back a step, then pulled the bowl out of his claws and put it in the kid's hands. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
+"Hey, nah." I got between them, planted a palm on the reaching goblin's chest and pushed him back a step, then pulled the bowl out of his fingers and put it in the kid's hands. My voice came out higher and rougher than my own. "I'm not gonna let y'all just do that. If y'all are gonna go two on one, I'll even the odds."
 
 The nearer goblin looked me up and down, taking in the rags, no visible weapons, the way I was standing as if I knew exactly how much space I was taking up. "Mind your business, new blood."
 
@@ -156,7 +156,7 @@ They didn't back off. The nearer one stepped in until his chest was an arm's len
 
 *"Too late to back out now."* I'd put my hands on one of them and talked my way into this, so there was no walking it back. But I wasn't about to be dumb enough to pull the whole camp in with them. Just these two. *"Alright. Might as well test some things out."*
 
-I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear.
+I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, fingers flexing at my sides, my mouth dry and my head strangely clear.
 
 **[WORLD QUEST: CALL OF THE BONES - STAGE 1]**
 
@@ -166,7 +166,7 @@ I closed the gap and shoved the nearer one in the chest, short and hard. He stum
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
-His voice pulled me out of my head and back to the standoff. I crossed my arms, claws tucked against my ribs, and looked up at him. Looking up at people still didn't sit right. But I was getting a feel for the body, where the weight sat, how it wanted to stand.
+His voice pulled me out of my head and back to the standoff. I crossed my arms, fingers tucked against my ribs, and looked up at him. Looking up at people still didn't sit right. But I was getting a feel for the body, where the weight sat, how it wanted to stand.
 
 "Only mistake I made was not plugging my nose before I came over here," I said, uncrossing an arm to wave a hand in front of my face like somebody had just let one go, a grin pulling at the corner of my mouth. The adrenaline was talking, and I let it. "Y'all smell like absolute dog shit."
 

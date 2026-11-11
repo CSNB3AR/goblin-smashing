@@ -38,7 +38,7 @@ The kid looked up the second my presence fully resolved, scrambling to his feet 
 
 "Yeah," I said, testing my balance in the shorter goblin frame. "Head's kinda dizzy though."
 
-I rubbed the back of my neck with one clawed hand, the motion automatic even though the proportions were wrong.
+I rubbed the back of my neck with one green hand, the motion automatic even though the proportions were wrong.
 
 "May I ask, when did you get placed in here?" I said, my eyes redirecting over to the kid.
 
@@ -82,7 +82,7 @@ Three notifications stacked on top of each other in rapid succession, each one f
 
 **[CAUSE: PROXIMITY TO HIGH-LEVEL PRESENCE]**
 
-The floor came up and hit me before I'd registered falling, my knees buckling hard, one clawed hand slapping flat against packed dirt to keep my face out of it. The impact jarred up through my wrist, sharp and immediate, and I tried to push myself back up but my body wasn't answering right, everything dragging at a fraction of its normal speed.
+The floor came up and hit me before I'd registered falling, my knees buckling hard, one long-fingered hand slapping flat against packed dirt to keep my face out of it. The impact jarred up through my wrist, sharp and immediate, and I tried to push myself back up but my body wasn't answering right, everything dragging at a fraction of its normal speed.
 
 *"What the hell."*
 
@@ -134,7 +134,7 @@ Then, a breath later, **[VIEWERS: 11 → 24]**.
 
 The Call of the Bones tag never left my HUD. I filed it away and stayed on my knee, eyes on Shiv.
 
-"What do you even want from me?" I asked, pushing myself back up onto one knee, my clawed hand braced flat against the dirt for balance.
+"What do you even want from me?" I asked, pushing myself back up onto one knee, my palm braced flat against the dirt for balance.
 
 "I don't have much time to talk," Shiv said, his tone shifting slightly, becoming more measured. "So I'll get to it. You should know what you're actually about to carry."
 
@@ -142,7 +142,7 @@ The Call of the Bones tag never left my HUD. I filed it away and stayed on my kn
 
 "I wasn't always this," Shiv said, and something almost like a dry laugh moved through the ash. "I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest's own court, back when that meant something."
 
-The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I flexed my clawed fingers into the dirt to steady it.
+The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I dug my long fingers into the dirt to steady it.
 
 *"Okay. This has to be a quest hook."*
 
@@ -158,7 +158,7 @@ He paused.
 
 He was waiting for me to say something.
 
-I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the split seam of my sleeve with one claw, an idle fidget I only noticed once I'd started it.
+I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the split seam of my sleeve with one fingernail, an idle fidget I only noticed once I'd started it.
 
 "Understand," Shiv said, his voice dropping slightly. "The court that cast me out wasn't righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I'm not interested in playing the villain of that story just to sound humble."
 
@@ -210,7 +210,7 @@ His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
 
 I looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness.
 
-*"If I say yes, this kid's in it too. I can't just click through this."* I rubbed my thumb along the side of one claw, a nervous motion I'd never had in my human hands.
+*"If I say yes, this kid's in it too. I can't just click through this."* I rubbed my thumb along the edge of one long nail, a nervous motion I'd never had in my human hands.
 
 I turned back to Shiv, met those burning green eyes, and made the call.
 
@@ -232,7 +232,7 @@ My leg had started to cramp from kneeling, and I shifted onto the other knee wit
 
 "Then take it," Shiv said.
 
-I reached out, slow, my clawed hand moving through the dragging resistance of the slowed air, and my fingers closed around the necklace.
+I reached out, slow, my arm moving through the dragging resistance of the slowed air, and my fingers closed around the necklace.
 
 The second my skin touched the bones, the world tilted.
 
@@ -250,7 +250,7 @@ My hair had gone white. Not gray, not silver, pure white. My skin had shifted to
 
 **[THE FIRST DESCENDANT OF SHIV]**
 
-*"First. That means nobody else has this."* I raked my fingers back through the white hair and felt the odd new weight of it, lighter than my old locs and strangely cool against my claws.
+*"First. That means nobody else has this."* I raked my fingers back through the white hair and felt the odd new weight of it, lighter than my old locs and strangely cool against my fingers.
 
 Notifications came fast, stacking on top of each other in my vision.
 
@@ -318,7 +318,7 @@ Ru didn't answer, couldn't seem to find the capacity for it.
 
 The change hit fast.
 
-Ru's frame cracked outward, the sound of bone snapping and reforming audible even over the muffled silence pressing down on the camp outside. His small clawed hands widened, fingers lengthening, shoulders squaring off and broadening, his spine stretching upward until he wasn't a kid anymore, wasn't small anymore, standing taller than me now, by a full head.
+Ru's frame cracked outward, the sound of bone snapping and reforming audible even over the muffled silence pressing down on the camp outside. His small hands widened, fingers lengthening, shoulders squaring off and broadening, his spine stretching upward until he wasn't a kid anymore, wasn't small anymore, standing taller than me now, by a full head.
 
 Notifications came for Ru too, visible in my peripheral vision.
 
@@ -418,7 +418,7 @@ The line went quiet.
 
 **[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
 
-I barely registered it. The ash chill was still riding my skin, and I rubbed my arms once, claws scraping the rough fabric.
+I barely registered it. The ash chill was still riding my skin, and I rubbed my arms once, nails scraping the rough fabric.
 
 I followed Sevish and Wyx through the open ground, Ru close at my shoulder, goblins parting around us as we moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
 

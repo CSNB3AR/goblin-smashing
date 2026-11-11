@@ -66,13 +66,13 @@ I shifted my weight onto the other foot, the cold of the packed dirt coming up t
 
 "Tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "Doesn't work, but what you did back there, moving through instead of fighting head-on, using terrain, that's not something anyone here can do. Could be what we need."
 
-My clawed fingers curled against my thighs, the tips pressing small dents into the rag over my knees.
+My long fingers curled against my thighs, the nails pressing small dents into the rag over my knees.
 
 "The library," I repeated, making sure I understood correctly. "You want me to get into the Grand Library of Lunarest."
 
 "The restricted floors, specifically," Sevish clarified, uncrossing his arms and letting one hand drift up to the haft of the battle axe slung across his back, a casual motion that still carried weight. "Public floors won't have what we're looking for. You find anything on Shiv up there, records, journals, anything that tells us what he knew or where he went, you bring it back here."
 
-My claw went up to scratch my chin the way it did when I was weighing something, hunting for a goatee this face didn't have, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
+My hand went up to scratch my chin the way it did when I was weighing something, hunting for a goatee this face didn't have, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
 
 "You complete this, you're under Thrash protection. You're ours, and we're yours. Anyone comes for you, they're coming for the clan."
 
@@ -146,7 +146,7 @@ This was where I'd be staying until I gave them an answer. *"Three days. I asked
 
 Outside the canvas walls, the camp kept moving around me, life going on whether I was part of it or not. Footsteps passed close to my tent, boots scuffing on the packed earth. Farther out, past the immediate camp sounds, a dog barked once and went quiet, answered a moment later by another bark from a different direction. Wind moved through the tree line beyond the camp boundary, branches creaking, and underneath that came the distant sound of something larger moving through the underbrush, probably some kind of wildlife I couldn't see from here.
 
-I pulled the two green vials out of the pouch at my belt and turned them over in my clawed hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
+I pulled the two green vials out of the pouch at my belt and turned them over in my green hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
 
 Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll so they wouldn't roll away. *"Not a bad first login."* I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and grinned at nothing for a second.
 

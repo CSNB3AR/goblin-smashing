@@ -8,7 +8,7 @@ A notification flickered at the edge of my vision before I could stop myself fro
 
 Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it. I shoved it out of view without opening it. Chat could wait.
 
-Kesh hadn't moved from the spot he'd skidded to a stop in, one hand still braced hard against his knee, claws gone pale at the tips, his breath coming in short, ragged pulls that hadn't evened out at all.
+Kesh hadn't moved from the spot he'd skidded to a stop in, one hand still braced hard against his knee, knuckles gone pale, his breath coming in short, ragged pulls that hadn't evened out at all.
 
 *"Someone should tell his lungs the danger's already over."* The corner of my mouth twitched toward a grin I had no business wearing right now, and I flattened it out again before it could fully surface.
 
@@ -22,7 +22,7 @@ Every word cost him something. My weight shifted forward without me deciding to,
 
 Sevish's stance squared, his scarred hand tightening on the axe shaft. "That's not a for-sure number, Kesh." His tone carried an edge now, the kind that said he was running out of patience. "I take it as four for a safe number, and you're telling me four men gave you all this trouble?"
 
-Kesh scratched at the back of his head again, his claws catching in matted hair, his eyes dropping to the dirt. "They attacked us. Random. They have caster."
+Kesh scratched at the back of his head again, his fingers catching in matted hair, his eyes dropping to the dirt. "They attacked us. Random. They have caster."
 
 *"The wisdom of goblins really shone in a crisis, didn't it."* A laugh threatened behind my teeth, and I let it die there instead of on my face, not with Sevish standing right there working through an actual threat.
 
@@ -36,7 +36,7 @@ Sevish's eyes tracked to me for half a second, something passing behind them, th
 
 Wyx's head turned sharp at that, her green eyes narrowing with something close to interest. "You've seen it."
 
-"Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's claws still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
+"Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's fingers still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
 
 **[AFFILIATION: THRASH CLAN 10% → 12%]**
 
