@@ -50,6 +50,8 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 **[UNSPENT POINTS: 2]**
 
+**[RACIAL PASSIVE: SCAVENGER'S EYE]**
+
 *"Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two Wisdom. Damn, they really got me sitting here dumb as hell."*
 
 The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I swiped the panel shut harder than I needed to, and the hologram folded away.
@@ -288,7 +290,7 @@ I hadn't meant to kill anybody. The quiet where the laughing had been sat wrong 
 
 **[SCAVENGER'S EYE: ITEMS OF VALUE NEARBY]**
 
-A faint outline picked out a leather belt lying in the dirt beside two small glass vials with a faint green glow. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
+Every race had a racial passive, and that was the goblin's. A faint outline picked out a leather belt lying in the dirt beside two small glass vials with a faint green glow. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
 
 **[ITEM CLAIMED: GOBLIN GADGET BELT - COMMON]**
 
