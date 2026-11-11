@@ -1,4 +1,4 @@
-# Chapter Five: Into Bloodhurst II
+# Chapter Five
 
 Heavy footsteps behind me. Multiple sets, moving with purpose. I turned fast, weight already shifting back into a ready stance before I'd thought about it, my body answering on its own.
 

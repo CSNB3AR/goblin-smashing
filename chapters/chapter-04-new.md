@@ -1,4 +1,4 @@
-# Chapter Four: Into Bloodhurst I
+# Chapter Four: Wrong Skin
 
 Dirt, cold and gritty against my cheek.
 
