@@ -154,7 +154,7 @@ I couldn't tell what the kid made of it, if he made anything. I felt his stare o
 
 **[SERVER TIME: 21:14]**
 
-They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
+They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Five or six goblins had drifted over, drawn by the commotion, and stood off to the side watching.
 
 *"Too late to back out now."* I'd put my hands on one of them and talked my way into this, so there was no walking it back. But I wasn't about to be dumb enough to pull the whole camp in with them. Just these two. *"Alright. Might as well test some things out."*
 
@@ -168,11 +168,11 @@ I closed the gap and shoved the nearer one in the chest, short and hard. He stum
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
-His voice pulled me out of my head and back into the circle. I crossed my arms, claws tucked against my ribs, and looked up at him. Looking up at people still didn't sit right. But I was getting a feel for the body, where the weight sat, how it wanted to stand.
+His voice pulled me out of my head and back to the standoff. I crossed my arms, claws tucked against my ribs, and looked up at him. Looking up at people still didn't sit right. But I was getting a feel for the body, where the weight sat, how it wanted to stand.
 
 "Only mistake I made was not plugging my nose before I came over here," I said, uncrossing an arm to wave a hand in front of my face like somebody had just let one go, a grin pulling at the corner of my mouth. The adrenaline was talking, and I let it. "Y'all smell like absolute dog shit."
 
-A snort went through the ring behind them. Then a real laugh, then another. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
+A snort went through the goblins watching. Then a real laugh, then another. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
 
 Both tags flipped red.
 
@@ -194,7 +194,7 @@ I focused on it and a panel opened beside the bigger one's head.
 
 *"Guess I pissed them off."* I gave them a small sarcastic smirk. Behind them the fire pit popped and threw a few sparks at the dark.
 
-Every other tag in the ring stayed white. *"Nobody else is hostile. Good. Just these two."*
+Every other tag in sight stayed white. *"Nobody else is hostile. Good. Just these two."*
 
 I turned and ran from the middle of camp, short choppy strides, but lighter than I had any right to be. *"Speed's doing work. Okay, that's actually clean."* I ducked under a guy-line that cleared my head by a foot and caught them across the chest, then cut left between two tents at an angle they'd have to widen out to follow. The wind had picked up, snapping the canvas and pushing the fires low, and the dark between the tents swallowed the glow. Boots pounded right behind me.
 
@@ -222,7 +222,7 @@ I cut back around the tent into the middle of the camp and tried. I shoved at th
 
 Pressure built low, sudden and mortifying, and the gas leaked out late and in the wrong place, a thin green puff hanging behind where they'd been a half-second ago.
 
-The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The ring of goblins laughed with them. Behind a crate, the kid clutched his bowl and stared at me like I'd lost my mind. My goblin ears went hot.
+The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The goblins watching laughed with them. Behind a crate, the kid clutched his bowl and stared at me like I'd lost my mind. My goblin ears went hot.
 
 *"Alright. Laugh."* Poison stacked four times, with a chance to stun. I opened the other skill.
 
