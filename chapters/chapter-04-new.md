@@ -364,16 +364,24 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
-More goblins had gathered at the edge of the firelight, and the kid still hadn't moved from the crate. Then a voice came from the big tent, low and flat, and the whole camp went quiet around it.
+More goblins had gathered at the edge of the firelight, and the kid still hadn't moved from the crate. Then a voice came from the big tent, low and flat.
 
-"Who did this?"
+"Nobody move."
 
-The flap beside Wyx lifted. A goblin ducked out, broad through the shoulders, a battle axe hanging loose from one hand, a gold tag hanging over his head.
+Something heavy came down over the camp, sudden and total, and my body locked. The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
+
+**[SKILL: CHIEFTAIN'S COMMAND]**
+
+**[DEBUFF: STUNNED]**
+
+*"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my claws. *"Two of his people are dead, and I can't even run."*
+
+Only Wyx was still moving, her head turning, copper rings catching the firelight. The flap beside her lifted, and a goblin ducked out, broad through the shoulders, a battle axe hanging loose from one hand, a gold tag hanging over his head.
 
 **[SEVISH THRASH]**
 
-He didn't look at the bodies. He looked at me, and Wyx's eyes came around to me half a second after his.
+He didn't look at the bodies. He looked at me.
 
-The vials were still warm in my hands. I didn't move.
+The vials were still warm in my hands, and I couldn't have dropped them if I tried.
 
 **[END CHAPTER FOUR]**
