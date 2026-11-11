@@ -1,10 +1,12 @@
 # Chapter Six
 
-The roar had hit before I'd had a chance to enjoy the money I'd just made, and now I was locked in a crouch with only my head free to move. A status icon had popped into the top of my vision, and I had to look up to read it.
+The roar had hit before I'd had a chance to enjoy the money I'd just made. Now my chest was tight and the air itself seemed to be pressing down, squeezing me into a crouch, and no matter how hard I told my body to move, it wouldn't. Only my head would turn. A status icon had popped into the top of my vision, and I had to look up to read it.
 
 **[STATUS EFFECT: IMMOBILIZED - 6s]**
 
-*"Immobilize, not a root. A root only pins your feet. This took all of me, and it came in through my ears."* The icon ticked to five. Beside the crate, the icon over the kid's head read twelve, double mine. *"Weaker body, longer lock? Or NPCs just get hit harder? No way to tell."* I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same. *"Too far under their level to read either of them."*
+*"HGO's got a dozen ways to lock somebody down. Roots, quicksand, worse. I watched them all on streams, and no clip said it would feel like this."* It was the first time the game had flat out overruled my own body. It was weird, and it wasn't a screen effect I could shrug off. My body believed it.
+
+The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
 The icon ticked to three. *"One way in, one way out, straight through two gold tags and twenty goblins. I'm outmatched, and the smart move is probably not getting my ass sent back to the Cathedral. Only three of those in Lunarest outside the capital."* The lock that came after was the real cost. *"Seventy-two hours with ¥16,800 of vials I can't put on the board. The Gambit works, so I know I can make money this way, and I'm not dying before I prove it to Chiyo. Think."*
 
