@@ -8,7 +8,7 @@ The roar had hit before I'd had a chance to enjoy the money I'd just made. Now m
 
 The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
-The icon ticked to three. *"One way in, one way out, straight through two gold tags and twenty goblins. I'm outmatched, and the smart move is probably not getting my ass sent back to the Cathedral. Only three of those in Lunarest outside the capital."* The lock that came after was the real cost. *"Seventy-two hours with ¥16,800 of vials I can't put on the board. The Gambit works, so I know I can make money this way, and I'm not dying before I prove it to Chiyo. Think."*
+The icon ticked to three. *"One way in, one way out, straight through two gold tags and twenty goblins. I'm outmatched, and the smart move is probably not getting my ass sent back to the Cathedral."* The lock that came after was the real cost. *"Seventy-two hours with ¥16,800 of vials I can't put on the board. The Gambit works, so I know I can make money this way, and I'm not dying before I prove it to Chiyo. Think."*
 
 **[STATUS EFFECT EXPIRED: IMMOBILIZED]**
 
