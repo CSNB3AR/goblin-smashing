@@ -84,3 +84,8 @@ In first person, Tatsuya's inner talk shows how he approaches things, not a fini
 
 - Nothing superhuman. Any information he gets has to be logical, earned and sometimes hard to get. He does not know headcounts, layouts beyond what he can see, or an NPC's plans until something on the page gives them to him (an attack, a mission, a conversation).
 - From the ground he sees what a short, new goblin with low Wisdom can see. Estimates are rough ("more than I could count"), not exact numbers.
+
+## First-person perception and body cues (author-stated)
+
+- First person is not third person. Do not give extreme, omniscient detail. Ask what he can actually pick up with his five senses from where he stands, and let each detail have a cause and an effect.
+- A body or micro cue (folding his arms, nerves, anxiety, an emotion) belongs roughly every two or three major actions, when the moment needs it. Not every paragraph and not every sentence. Do not sprinkle cues just to have them; each must make sense.
