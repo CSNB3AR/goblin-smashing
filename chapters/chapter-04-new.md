@@ -156,7 +156,7 @@ I couldn't tell what the kid made of it, if he made anything. I felt his stare o
 
 They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
 
-*"I don't want a fight."* Starting something in a camp I'd just woken up in could turn the whole place on me, and dying here wasn't in the plan. But I'd said what I said knowing exactly what it would stir up. I'd started this, and I couldn't back down off it now. If they wanted to start something with me and nobody stepped in, then fine. *"Alright. This could be good. Might as well test some things out."*
+*"Too late to back out now."* I'd put my hands on one of them and talked my way into this, so there was no walking it back. But I wasn't about to be dumb enough to pull the whole camp in with them. Just these two. *"Alright. Might as well test some things out."*
 
 I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear.
 
