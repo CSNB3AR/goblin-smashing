@@ -2,27 +2,25 @@
 
 The stun held me in a crouch, every muscle pinned flat, and the vials had already vanished into my inventory the second I'd claimed them, so my fists closed on nothing. Only my head would move. The force of it kept pressing straight down on me, and the icon in the corner of my vision ticked toward its end, six seconds from the first roar to the last.
 
-*"Six seconds, and I can't lift a finger. If I run, they cut me down before I clear the camp."* The last of the timer drained while I turned it over. *"So running's out. I need a reason, a good one, and I need it the second this lets go."*
+*"Six seconds, and I can't lift a finger. Cliffs and a waterfall behind the camp, one narrow track down the hill, and between me and it two gold tags and twenty goblins, easy. I'd never make it out alive."* The last of the timer drained while I turned it over. *"So running's out. I need a reason, a good one, and I need it the second this lets go."*
 
 **[DEBUFF EXPIRED: STUNNED]**
 
 The weight left all at once and my legs shook as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish.
 
-"Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I gave them what they were asking for."
+"Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it."
 
-Sevish said nothing, the axe loose in his fist, and I kept going before the quiet could set. "What I don't get is why anybody would start a fight inside this camp. We're all on the same side here." I spread my hands a little. "Yeah, I've got a sharp tongue. But it was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched."
+Sevish said nothing, the axe loose in his fist, and I kept going before the quiet could set. "Yeah, I've got a sharp tongue. But it was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched. Some allies." I spread my hands a little. "We're all on the same side here, right? Then why are we throwing punches over stew? Don't we have bigger fish to fry?"
 
 Sevish went completely still. Both gold tags flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. *"What now? Did I say something wrong?"*
 
 "Is that so?" Sevish said. He turned his head and let his eyes travel over the watchers one at a time. Nobody met them, and nobody spoke up to say otherwise, and that was an answer.
 
-"You killed two of my enforcers," he said, voice low and even. "Thrash has one rule above the rest. No fighting among our own. If it happened the way you say, that they picked on that kid and nobody stepped up but you, then you only held to the clan's own rule. They broke it first."
+"You killed two of my enforcers," he said, voice low and even. "Thrash has one rule above the rest. No fighting among our own. If it happened the way you say, they broke it first, and you only held to it." He let that stand a moment. "But two of my men are dead by your hand, and that leaves you owing me."
 
-He let that stand a moment. "But I can't excuse two dead men. I think it could have been settled without that."
+*"Owing. Great."* I kept my mouth shut and my hands where he could see them, since arguing wouldn't have helped.
 
-I kept my mouth shut and my hands where he could see them. Arguing wouldn't have helped, and I didn't have an argument that would.
-
-"And there's something else that's been troubling me," Sevish went on, his eyes flicking to Wyx and back. "A job. I think someone like you could handle it."
+"Anyone who can put down two enforcers, I can find a use for," Sevish went on, his eyes flicking to Wyx and back. "There's a job I've been turning over. I think you could handle it."
 
 A purple notification bloomed at the edge of my vision, the color pulling my eye at once.
 
