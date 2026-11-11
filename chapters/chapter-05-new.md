@@ -10,13 +10,13 @@ The icon ticked to three. *"One way in, one way out, straight through two gold t
 
 **[STATUS EFFECT EXPIRED: IMMOBILIZED]**
 
-The weight left all at once and my legs shook as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. She'd watched the whole thing. One wrong detail from me and she'd correct it, or someone would. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish.
+The weight left all at once and my legs shook and prickled as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. She'd watched the whole thing. One wrong detail from me and she'd correct it, or someone would. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish. Up close he was a wall, and I had to look up to hold his eyes.
 
 "Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it."
 
-Sevish said nothing, the axe loose in his fist, and I kept going before the quiet could set. "It was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
+Sevish said nothing, the axe loose in his fist. The immobilize was still prickling out of my arms, so I planted my feet wide in the cold mud and kept going before the quiet could set, the stew pot sour on the night air and the crickets ticking on somewhere past the tents, the only things in camp not holding their breath. "It was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
 
-A murmur ran through the watchers and died. One goblin took a step back. Another stared at me like I'd walked up and slapped the chieftain, and beside the crate the kid made a thin, scared sound, his pointed ears pinned flat, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it, and when the wind shifted the smoke and lifted her black hair off one shoulder, that small curve of a smile was the only thing I could see.
+A murmur ran through the watchers and died, and it wasn't the idle camp noise from before. It had an edge on it that made my palms sweat. One goblin took a step back. Another stared at me like I'd walked up and slapped the chieftain, and beside the crate the kid made a thin, scared sound, his pointed ears pinned flat, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it, and when the wind shifted the smoke and lifted her black hair off one shoulder, that small curve of a smile was the only thing I could see.
 
 "He has a quick tongue on him," she said, pitched low, just loud enough to carry. "I like him."
 
@@ -24,9 +24,9 @@ Sevish went completely still. Both gold tags flickered at the edges, not turning
 
 The grin thinned. "If it happened as you say, we have no quarrel. Thrash keeps one law above the rest. No goblin lifts a hand against his own. But why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. Who saw it?"
 
-Nobody answered. The kid's mouth worked, but all that came out was a thin breath, his shoulders shaking, the bowl rattling against his chest. The watchers only muttered, low and shapeless, none of it aimed at Sevish. *"Damn it. The kid's the one who'd speak up for me, and he can barely stand. Nobody else is going to say a word."*
+Nobody answered, and even the crickets had gone quiet. The kid's mouth worked, but all that came out was a thin breath, his shoulders shaking, the bowl rattling against his chest. The watchers only muttered, low and shapeless, none of it aimed at Sevish. *"Damn it. The kid's the one who'd speak up for me, and he can barely stand. Nobody else is going to say a word."*
 
-The seconds crawled. *"They don't get back up, and he wants a reason to trust me. I don't have one. I'm going to die right here."*
+The seconds crawled, and a cold drop of sweat slid down my spine. *"They don't get back up, and he wants a reason to trust me. I don't have one. I'm going to die right here."*
 
 Then Wyx stepped forward, calm and unhurried, the firelight sliding along the red markings on her arm, one hand resting on the skull at her hip. "Brother," she said, "I saw all of it."
 
@@ -58,9 +58,9 @@ Three goblins in real armor stepped out of the dark, not the rags everyone else 
 
 "You come with us," one of them said, voice flat and professional. Another peeled off toward the crate. "And you, runt."
 
-They didn't bind either of us or even touch us, just fell in on either side and started walking, a flanking position that made it obvious running wasn't an option. Goblins throughout the camp stopped what they were doing to watch us pass, some whispering to each other, a few pointing, and every step on the packed dirt reminded my bare soles what the sprint had cost them. Wyx fell in a few paces behind us. My mouth had gone dry before we'd gone ten steps, and I kept my eyes forward and my stride even.
+They didn't bind either of us or even touch us, just fell in on either side and started walking, a flanking position that made it obvious running wasn't an option. Goblins throughout the camp stopped what they were doing to watch us pass, some whispering to each other, a few pointing, and every step on the packed dirt reminded my bare soles what the sprint had cost them. The wind off the waterfall had turned damp, with rain in it. Wyx fell in a few paces behind us. My mouth had gone dry before we'd gone ten steps, and I kept my eyes forward and my stride even.
 
-We stopped in front of the big tent, wide enough to fit a dozen people inside if they packed in tight. Bone totems were carved into the posts on either side of the entrance flap, intricate patterns that caught the firelight and threw strange shadows across the canvas. One of the guards pulled the flap open and gestured for us to go inside.
+We stopped at the big tent. Bone totems were carved into the posts on either side of the flap, their patterns throwing strange shadows across the canvas in the firelight. One of the guards pulled the flap open and gestured us inside.
 
 I ducked through, the kid right behind me, and the temperature dropped immediately. The air inside was cooler, darker, lit only by a single oil lamp hanging from the center pole that threw uneven, flickering light up the canvas walls. Sevish dropped into the chair behind a crude table made from stacked crates and a plank of wood, the two-handed battle axe leaning against its side within easy reach, and when Wyx stepped in behind us and took up a position at his shoulder, the air shifted and the tent got more formal.
 
