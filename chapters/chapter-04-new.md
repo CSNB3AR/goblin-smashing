@@ -148,7 +148,7 @@ Short, broken words, a stutter for anything longer. The enforcers talked in full
 
 It was exactly what I'd have told Taji. I don't know why, but for a second it felt like I was talking to my little brother, and that settled it for me.
 
-Behind me, the kid's eyes were on the back of my head, wide, like he'd just learned something. I didn't turn around. I kept my eyes on the two in front of me and let the stares of the whole camp pile up against the side of my face. The wind came through dead and damp, stirring the short hair on my head, and the smell of the camp, smoke and stew and swamp, finally settled in my nose. The amber of the firelight flickered as the sky sank into night, and I flicked a glance up to the server clock at the top of my vision.
+Behind me, the kid's eyes were on the back of my head, wide, like he'd just learned something. I didn't turn around. I kept my eyes on the two in front of me and let the stares of the whole camp pile up against the side of my face. The wind came through dead and damp, stirring the short hair on my head, and the smell of the camp finally settled in my nose: woodsmoke and boiled stew, wet hides and old leather, pine resin off the trees, cold wet stone, the muddy bank where the stream below the waterfall pooled and went stagnant, and under it all the sour reek of unwashed bodies. The amber of the firelight flickered as the sky sank into night, and I flicked a glance up to the server clock at the top of my vision.
 
 **[SERVER TIME: 21:14]**
 
