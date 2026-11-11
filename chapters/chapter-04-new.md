@@ -182,9 +182,17 @@ Both tags flipped red.
 
 A small red symbol flared over each of their heads, a flame inside a circle.
 
-**[PROVOKED]**
+*"What's that?"*
 
-*"What's that one?"* I let out a short chuckle, a smirk tugging at my mouth. *"Oh. That's because I pissed them off. A taunt. I provoked them, huh? Good to know."*
+I focused on it and a panel opened beside the bigger one's head.
+
+**[THRASH CLAN ENFORCER: LV 3]**
+
+**[HEALTH: 48/48] [POWER: 5] [SPEED: 3]**
+
+**[DEBUFF: PROVOKED]**
+
+*"Guess I pissed them off."* I let out a short chuckle.
 
 The goblins around us had shifted in closer, and every tag in the ring was still white. The only ones that had flipped were theirs. As long as I looked like the one in the right, nobody else would count me as hostile, and if two Thrash goblins swung first at somebody who hadn't thrown a punch, I figured that was on them.
 
