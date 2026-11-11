@@ -24,3 +24,5 @@ Every NPC, regardless of tag color, runs an individualized reactive response to 
 ## Restricted zones and the frozen court (Hearthfire canon)
 
 After Season Zero the main story is frozen except for hidden quests, and the three princes are held off-screen in **restricted zones** (see `codex/lore/lunarest-royal-court.md`). Access to a restricted zone is an NPC-tag-level privilege, not a travel option: Yuna Yunaile has restricted-area access but is still in Lunarest, and no player holds a sigil, so no player can use waypoints (see `codex/lore/hearthfire-expansion-and-seasons.md`). NPCs treat the world as real, so gamer slang does not land as meaningful input.
+
+**NPC death is permanent (author-stated).** NPCs do not respawn. When an NPC dies, they stay dead, which is why a major NPC takes a killing seriously. There are ways of bringing people back (for example the Staff of the Mist God), but a dead NPC is otherwise gone.
