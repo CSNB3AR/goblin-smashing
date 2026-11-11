@@ -142,6 +142,8 @@ The nearer goblin looked me up and down, taking in the rags, no visible weapons,
 
 The kid caught the edge of my rags. "M-man, you don't have to d-do this," he whispered. "They c-can have it."
 
+Short, broken words, a stutter for anything longer. The enforcers talked in full sentences, clan recruits with a few more brain cells behind their eyes, and the kid sounded like what a true runt really was. Two Wisdom on a sheet, same as mine, except I still had my whole head behind it.
+
 "Nah," I said, not taking my eyes off them. "You don't get it. If you don't stick up for yourself now, guys like this never go away."
 
 It was exactly what I'd have told Taji. I don't know why, but for a second it felt like I was talking to my little brother, and that settled it for me.
