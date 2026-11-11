@@ -170,7 +170,7 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-The number hadn't even finished registering when a chill swept through me, scalp to claws, and my body went numb. A war roar erupted out of the big tent, loud enough to make the fires flinch. I got my head turned toward it. That was all that would move.
+The number hadn't even finished registering when a chill swept through me, scalp to fingertips, and my body went numb. A war roar erupted out of the big tent, loud enough to make the fires flinch. I got my head turned toward it. That was all that would move.
 
 **[SKILL: CHALLENGING HOWL]**
 
@@ -178,7 +178,7 @@ The number hadn't even finished registering when a chill swept through me, scalp
 
 The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
 
-*"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my claws.
+*"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my fingers.
 
 The flap tore aside and a goblin stepped out into the firelight. The enforcers had been big. He made them look like children, a head taller and broad enough to fill the tent mouth, red-orange skin, a rune etched into his brow, tusks jutting from his lower jaw, two heavy braids over the shoulders of a red wrap, a battle axe hanging from one scarred fist like it weighed nothing. No goblin I'd seen in this camp was built like that. Wyx stood off to one side, tall and lean, arms loose, green eyes on me, untouched by the howl. She hadn't needed to come out. She'd already seen all of it. Two gold tags blazed in the dark.
 
