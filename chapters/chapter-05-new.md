@@ -1,40 +1,36 @@
-# Chapter Five
+# Chapter Six
 
-Heavy footsteps behind me. Multiple sets, moving with purpose. I turned fast, weight already shifting back into a ready stance before I'd thought about it, my body answering on its own.
+"They had the kid backed against that crate," I said, and my voice came out steadier than I was. "Two on one, over a bowl of stew. I got between them and told them to back off. They came at me anyway."
 
-Three goblins in real armor stepped into view, not the rags everyone else was wearing but fitted leather and metal plates, weapons drawn but not raised yet. White tags floated above their heads, bright and clear. *"Real gear. These aren't like the two I just dropped."*
+Sevish said nothing. The weight he'd laid over the camp kept pressing on every word, so I kept talking, since my mouth was the only part of me still working. "Nobody else's tag turned. Just theirs. Ask whoever was standing there."
 
-"You're coming with us," one of them said, voice flat and professional.
+"Nobody needs to ask," Wyx said, dry and unhurried, one hand still resting on the skull at her hip. "I came out in time to see two of ours hunting a stranger through camp with a blade half drawn." Her amber eyes slid to Sevish. "Thrash doesn't draw on Thrash. Your enforcers broke that long before he did anything."
 
-Another one peeled off toward the supply crate where the smaller goblin was still pressed against the wood, eyes wide. "You too, kid."
+"And now two of them are dead," Sevish said, taking his time with each word.
 
-They didn't bind either of us or even touch us, just fell in on either side and started walking, a flanking position that made it obvious running wasn't an option. Goblins throughout the camp stopped what they were doing to watch as we passed, some whispering to each other, a few pointing. The woman with the wild green hair and copper rings fell a few steps behind us. My mouth had gone dry before we'd gone ten steps, and I kept my eyes forward and my stride even.
+"I did what I had to do to still be standing." I kept my voice level and my eyes on his face, since I couldn't have done anything else with them.
 
-We stopped in front of a tent bigger than all the rest, wide enough to fit a dozen people inside if they packed in tight. Bone totems were carved into the posts on either side of the entrance flap, intricate patterns that caught the firelight and threw strange shadows across the canvas. One of the guards pulled the flap open and gestured for us to go inside.
+Sevish studied me for a long moment, and something that might have been approval crossed his scarred face. "Not bad." The weight let go all at once. My legs buckled half a step before I caught myself, and behind me the watchers shifted and started murmuring again as the camp got moving.
 
-I ducked through, the kid right behind me, and the temperature dropped immediately. The air inside was cooler, darker, lit only by a single oil lamp hanging from the center pole that threw uneven, flickering light up the canvas walls. A scarred goblin sat behind a crude table made from stacked crates and a plank of wood, a two-handed battle axe leaning against the side of his chair within easy reach. His eyes were sharp, taking in both of us in one sweep, and when the woman with the copper rings stepped in behind us and took up a position at his shoulder, the air shifted and the tent got more formal.
+**[DEBUFF EXPIRED: STUNNED]**
 
-**[SEVISH THRASH - CHIEFTAIN - LEVEL 80]**
+"Inside," Sevish said. He jerked his chin at the crate where the kid still stood stiff against the wood. "Both of you."
 
-The woman's nameplate appeared a second later when my eyes tracked to her.
+Three goblins in real armor stepped out of the dark, not the rags everyone else wore but fitted leather and metal plates, weapons drawn and not yet raised. White tags floated above their heads, bright and clear. *"Real gear. These aren't like the two I just dropped."*
 
-**[WYX THRASH - LEVEL 25]**
+"You're coming with us," one of them said, voice flat and professional. Another peeled off toward the crate. "You too, kid."
 
-*"Eighty and twenty-five. I'm level three. One wrong word and I'm dead."*
+They didn't bind either of us or even touch us, just fell in on either side and started walking, a flanking position that made it obvious running wasn't an option. Goblins throughout the camp stopped what they were doing to watch us pass, some whispering to each other, a few pointing, and every step on the packed dirt reminded my bare soles what the sprint had cost them. Wyx fell in a few paces behind us. My mouth had gone dry before we'd gone ten steps, and I kept my eyes forward and my stride even.
+
+We stopped in front of the big tent, wide enough to fit a dozen people inside if they packed in tight. Bone totems were carved into the posts on either side of the entrance flap, intricate patterns that caught the firelight and threw strange shadows across the canvas. One of the guards pulled the flap open and gestured for us to go inside.
+
+I ducked through, the kid right behind me, and the temperature dropped immediately. The air inside was cooler, darker, lit only by a single oil lamp hanging from the center pole that threw uneven, flickering light up the canvas walls. Sevish dropped into the chair behind a crude table made from stacked crates and a plank of wood, the two-handed battle axe leaning against its side within easy reach, and when Wyx stepped in behind us and took up a position at his shoulder, the air shifted and the tent got more formal.
 
 Sevish's eyes went from me to the kid and back, taking his time before he spoke. The silence stretched, broken only by the crackle of the oil lamp and the distant sounds of camp life continuing outside.
 
-"So," Sevish finally said, voice deep and rough, a voice that carried without getting loud. "You two causing trouble in my camp."
+"Why step in?" he said, voice deep and rough, a voice that carried without getting loud. "A runt, two of my enforcers, and none of it yours."
 
-The kid opened his mouth, about to speak, but I cut in before he could get a word out. "They came at him first. Two on one over a fire spot, so I stepped in."
-
-"And killed two of my men while doing that," Sevish said, leaning forward slightly, elbows resting on the makeshift table.
-
-"They came at me after I got involved," I said, keeping my hands open and visible on my thighs. "I did what I had to do to still be standing."
-
-Sevish leaned back, the wood of his chair creaking under his weight, and something that might have been approval crossed his scarred face, eyes still locked on mine. "Not bad."
-
-I kept my breathing steady and my posture as non-threatening as I could manage while still ready to move if this went sideways. "Would've been peaceful if they'd let it. But I'm not about to watch goblins waste time on each other when there's clearly bigger shit to deal with."
+The kid made a small sound beside me, about to answer for himself, but I cut in before he could get a word out. I kept my hands open and visible on my thighs, my posture as non-threatening as I could manage while still ready to move if this went sideways. "Would've been peaceful if they'd let it. But I'm not about to watch goblins waste time on each other when there's clearly bigger shit to deal with."
 
 The moment the words left my mouth, Sevish went completely still. Beside him, Wyx's sharp eyes locked onto my face with an intensity that hadn't been there a second ago, her whole body gone alert. Both of their gold tags flickered at the edges, not changing to yellow or red, just flickering like a notification trying to fire and being held back.
 
@@ -44,11 +40,11 @@ Sevish let out a short laugh, genuine and a little surprised. "Bigger problems t
 
 A purple notification bloomed at the edge of my vision, the color pulling my eye at once.
 
-**[WORLD QUEST DETECTED]**
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
 
-**[CALL OF THE BONES – STAGE 1 ACTIVATED]**
+**[STAGE 1 OBJECTIVE COMPLETE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
 
-*"The world quest's back? Did I really just advance it?"*
+*"Stage one's done. Did I really just advance it?"*
 
 Sevish stood up from his chair, slow and deliberate, the battle axe sliding into the sling across his back, and walked around the table with heavy steps that made the packed dirt floor creak. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
@@ -58,7 +54,7 @@ He laid it out plain and rough, no sugarcoating, just the facts.
 
 "Myrrhwood is hell right now. Gets worse every year. Shiv's been gone for nearly half a century and the clans have never found their footing again without his leadership. That's the real reason Wyx and I gathered people and came all the way out here to find what Shiv was hiding before he disappeared, and maybe bring that knowledge back to our people so we can actually survive what's coming."
 
-I shifted my weight onto the other foot, the cold of the packed dirt coming up through my thin boots, and kept my eyes on his face.
+I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on his face.
 
 "We've tried the rally three times now," Sevish continued, his tone matter-of-fact, not defensive. "Failed all three times. Couldn't get past the city guard and their allies."
 
@@ -122,9 +118,9 @@ Two guards stepped forward from where they'd been standing just inside the tent 
 
 **[DURATION: UNTIL RELEASED BY CHIEFTAIN SEVISH]**
 
-**[WORLD QUEST ACTIVATION: CALL OF THE BONES]**
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
 
-**[STAGE 1 UNLOCKED]**
+**[STAGE 2 UNLOCKED]**
 
 **[OBJECTIVE: INFILTRATE THE GRAND LIBRARY OF LUNAREST – RESTRICTED FLOORS]**
 
@@ -134,19 +130,19 @@ Two guards stepped forward from where they'd been standing just inside the tent 
 
 I squinted at the wall of text like narrowing my eyes would make it read any better, the glow of it sitting hot behind my forehead.
 
-The guards walked me back out of the tent and through the camp, past the arm-wrestling match that had fully broken up now, people dispersing back to their fires and their own business, past the older goblin who'd gone back to mending that same torn shirt by the light of a small lamp, needle moving in the same patient rhythm. The stew pot was down to nothing but coals now, one last goblin scraping the very bottom of it with a wooden spoon, the sound of wood on metal carrying across the quieter parts of camp.
+The guards walked me back out of the tent and through the camp, past the black scorch mark where the enforcers had gone down, a few goblins already scuffing dirt over it, past the arm-wrestling match that had fully broken up now, people dispersing back to their fires and their own business, past the older goblin who'd gone back to mending that same torn shirt by the light of a small lamp, needle moving in the same patient rhythm. The stew pot was down to nothing but coals now, one last goblin scraping the very bottom of it with a wooden spoon, the sound of wood on metal carrying across the quieter parts of camp.
 
 They stopped at a tent near the eastern edge of the camp, away from the central fires but close enough that I could hear the low murmur of conversation and the occasional burst of laughter from goblins still awake. One of the guards pulled the tent flap open, canvas rustling. "Inside."
 
 I ducked through the entrance, my shorter frame making it easier than it would have been in my real body, and the noise from outside dropped off almost at once, muffled by the thick canvas. The tent was small, barely tall enough for me to sit upright in without my head brushing the peaked ceiling, lit by a single oil lamp hanging from the center pole that threw uneven shadows up the walls every time the flame guttered. A bedroll took up most of the floor, thin and patched in multiple places but relatively clean, and a wooden bowl sat beside it filled with water that smelled faintly metallic when I leaned closer.
 
-I sat down on the bedroll and the straw stuffing crackled loudly under my weight, sharp in the sudden quiet. The fabric under my hands was rough, woven from something coarser than cotton, and the tent wall, when I reached out to touch it, was thick and heavy, oiled or waxed against rain and wind. The ground under the bedroll was hard-packed dirt, uneven in places, and the cold seeped up through the thin padding, through my boots and the rags I was wearing.
+I sat down on the bedroll and the straw stuffing crackled loudly under my weight, sharp in the sudden quiet. I pulled one foot up and found the sole raw and gritty with dirt. *"Shoes. First thing I buy."* The fabric under my hands was rough, woven from something coarser than cotton, and the tent wall, when I reached out to touch it, was thick and heavy, oiled or waxed against rain and wind. The ground under the bedroll was hard-packed dirt, uneven in places, and the cold seeped up through the thin padding, through my bare feet and the rags I was wearing.
 
 This was where I'd be staying until I gave them an answer. *"Three days. I asked for them."*
 
 Outside the canvas walls, the camp kept moving around me, life going on whether I was part of it or not. Footsteps passed close to my tent, boots scuffing on the packed earth. Farther out, past the immediate camp sounds, a dog barked once and went quiet, answered a moment later by another bark from a different direction. Wind moved through the tree line beyond the camp boundary, branches creaking, and underneath that came the distant sound of something larger moving through the underbrush, probably some kind of wildlife I couldn't see from here.
 
-I pulled the two green vials out of the pouch at my belt and turned them over in my green hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
+I pulled the two green vials out of a slot on the gadget belt and turned them over in my green hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
 
 Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll so they wouldn't roll away. *"Not a bad first login."* I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and grinned at nothing for a second.
 
@@ -162,4 +158,4 @@ My eyes shot up to the chat window and I watched it erupt. Messages flooded in s
 
 *"Damn. That's not good."* I reached for the logout button and my vision of the world went dark.
 
-**[END CHAPTER FIVE]**
+**[END CHAPTER SIX]**
