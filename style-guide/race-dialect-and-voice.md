@@ -35,3 +35,9 @@ Light notes for when these races actually get dialogue, not exhaustive:
 - `codex/lore/npc-tag-system.md` — the reactive-NPC-AI system this ties into.
 - `codex/lore/affiliation-and-reputation-system.md` — the meter this register requirement actually moves.
 - `style-guide/craft-rules.md` — the dialogue-cue and no-naive-surprise rules this file assumes.
+
+## NPC register: medieval fantasy, in their own world (author-stated, latest)
+
+NPCs speak in a medieval, fantasy-world register, the way D&D-style characters would, and not in modern speech. Keep each character's established personality and blunt or clipped pattern, but swap out modern idioms and slang ("easy", "scare off", "simple as that", "worth something" as a modern turn, "hell of a fight") for phrasing that fits their world ("I cannot", "we have no quarrel", "a fierce fight", "that is all", "gently, brother"). Do not alter their personality, only their diction. NPCs reason with their own world's logic and game knowledge: they understand spells, oaths, clans and gods, and do not use or understand real-world comparisons or similes from outside their world. Tatsuya keeps his modern voice.
+
+**What Tatsuya can know (author-stated).** Nothing reaches Tatsuya without a source: a system panel or notice, what he sees and hears, something an NPC tells him, or information he pulls up himself (a post, a stream, a clip, Leon in his ear). He does not metagame. Where he only has a guess, he hedges it ("if this is the goblin spawn..."), and Leon's voice is the main source for game-side facts later on.
