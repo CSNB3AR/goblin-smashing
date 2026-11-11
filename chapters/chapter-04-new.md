@@ -334,7 +334,7 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 *"Yes."*
 
-A bronze die dropped into my hands, the pips worn smooth like the one in my ear, so big I needed both hands to hold it. I tossed it up and it swelled as it tumbled, gold light pouring off it and washing over me. The die hit the dirt with a heavy thud, rolled once, and settled.
+A bronze die dropped into my hands, the pips worn smooth like the one in my ear, so big I needed both hands to hold it. I tossed it up and it swelled as it tumbled, gold light pouring off it and washing over me. The watchers flinched back from the glow. The kid stared, and Wyx's head tilted. *"They can see that?"* The die hit the dirt with a heavy thud, rolled once, and settled.
 
 **[ROLL: 3]**
 
