@@ -154,11 +154,17 @@ I couldn't tell what the kid made of it, if he made anything. I felt his stare o
 
 **[SERVER TIME: 21:14]**
 
-They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
+They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around behind me.
 
-*"I don't want a fight."* Starting something in a camp I'd just woken up in could turn the whole place on me, and dying here wasn't in the plan. But I'd said what I said knowing exactly what it would stir up. I'd started this, and I couldn't back down off it now. If they wanted to start something with me and nobody stepped in, then fine. *"Alright. This could be good. Might as well test some things out."*
+*"Oh, no, no, no. Okay. I know where I'm at."* My eyes went to the route I'd mapped, the lane back toward the crates. I was outmatched in a straight fight, and I had to be careful how this lined up. If I set the whole camp off and ate a 72-hour lock, that was three days I didn't have, with Chiyo coming back soon. So not the whole camp. If I was going to test anything, I only had to provoke these two. And I had every reason to step in. Breaking up a beating wasn't starting anything.
 
 I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear.
+
+**[WORLD QUEST: CALL OF THE BONES - STAGE 1]**
+
+**[OBJECTIVE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
+
+*"There it is."* That was the sequence I'd been trapped in. The logout lock, the quest I couldn't find, all of it had been waiting on this. Defending the kid was the scenario, and at least now I knew what I was in.
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
@@ -313,10 +319,6 @@ A gold-bordered notification bloomed beneath the item description, brighter than
 **[GAMBLER'S GAMBIT PROC: FORTUNE CHECK PASSED]**
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
-
-A purple line unfolded under the loot.
-
-**[WORLD QUEST: CALL OF THE BONES - STAGE 1]**
 
 Then the laughing died. I looked up and the whole camp had gone still, every goblin turned my way, and from somewhere behind me came the slow, heavy tread of boots.
 
