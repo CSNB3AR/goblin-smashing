@@ -32,7 +32,7 @@ My inventory sat above that.
 
 **[GOBLIN GADGET BELT - COMMON (LOCKED)]**
 
-**[GAMBLER'S EARRING - RARE (BOUND, CANNOT BE SOLD)]**
+**[GAMBLER'S EARRING - UNIQUE (BOUND, CANNOT BE SOLD)]**
 
 **[MINOR ELIXIR x2 - UNCOMMON]**
 
@@ -64,7 +64,7 @@ I pocketed the phone, pulled it back out almost immediately, and opened Loop on 
 
 *"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
 
-*"Wild."* *"Not my problem. I'm already starting at level one."* I killed the screen.
+*"Wild."* *"Not my problem. I'm already starting from the bottom."* I killed the screen.
 
 Leon was at the counter when I stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
 

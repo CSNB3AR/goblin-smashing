@@ -117,7 +117,7 @@ One of my pointed ears twitched at the rapid clatter of keys, a habit this body 
 The UI minimized, Leon's name staying visible in the corner of the HUD. I turned to the party screen without deciding to.
 
 **[PARTY MEMBERS: 2/5]**
-**[T_DRAG - LEVEL 7 - SHIV GOBLIN]**
+**[T_DRAG - LEVEL 8 - SHIV GOBLIN]**
 **[RU - LEVEL 5 - HOBGOBLIN] [MOBILE]**
 
 The MOBILE tag sat in small gray text beside Ru's name. I read it twice to be sure I was reading it right. *"Alive."* Relief hit hard enough that I almost laughed out loud in an empty tent.
@@ -158,7 +158,7 @@ I pushed the flap aside and stepped through.
 
 The interior was dim, a single lamp hanging from the center pole throwing uneven light across the space. Sevish stood near the back with one hand resting on the haft of his battle axe, the blade planted butt-first in the packed dirt floor. Fresh soot smeared dark across one forearm. His mouth was set in a line.
 
-Wyx stood beside him, arms crossed over her chest, her green eyes moving between me and her brother. Ru leaned against the far wall near the entrance, his frame taking up more space than the angle of the room wanted to allow for. His right arm was pressed against his ribs at an angle that said something had gotten in there and hadn't been fully handled. Rott and Nab sat near the entrance, still, watching.
+Wyx stood beside him, arms crossed over her chest, her amber eyes moving between me and her brother. Ru leaned against the far wall near the entrance, his frame taking up more space than the angle of the room wanted to allow for. His right arm was pressed against his ribs at an angle that said something had gotten in there and hadn't been fully handled. Rott and Nab sat near the entrance, still, watching.
 
 *"Careful. Sevish has authority over everyone under Thrash, Ru included, until I outrank him. That's not a wall I can afford to knock down before I understand it."* I kept my weight settled evenly on both feet and my breathing even.
 

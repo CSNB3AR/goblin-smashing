@@ -270,7 +270,7 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[RACE EVOLVED: GOBLIN → SHIV GOBLIN]**
 
-**[LEVEL 2 → LEVEL 7]**
+**[LEVEL 3 → LEVEL 8]**
 
 **[+10 DISCIPLINE POINTS AVAILABLE]**
 
@@ -382,7 +382,7 @@ My thoughts raced for the two minutes it took before Sevish and Wyx came through
 
 "Just now," I said, cutting the confused Sevish off while stepping toward them, Ru following. "He came to me and explained the situation, the clans at Myrrhwood."
 
-Wyx's sharp green eyes went from the necklace to my hair, to Ru's new towering frame, and back again.
+Wyx's sharp amber eyes went from the necklace to my hair, to Ru's new towering frame, and back again.
 
 "Interesting. Very interesting," Wyx said, her voice pitched higher than usual. "You're both marked. That's not a small deal." She looked at Ru, who stumbled at the glance.
 

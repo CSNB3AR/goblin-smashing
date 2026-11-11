@@ -34,7 +34,7 @@ Sevish's eyes tracked to me for half a second, something passing behind them, th
 
 "They're using our own rally point against us," I said, half to myself.
 
-Wyx's head turned sharp at that, her green eyes narrowing with something close to interest. "You've seen it."
+Wyx's head turned sharp at that, her amber eyes narrowing with something close to interest. "You've seen it."
 
 "Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's fingers still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
 
