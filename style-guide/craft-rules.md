@@ -89,3 +89,7 @@ In first person, Tatsuya's inner talk shows how he approaches things, not a fini
 
 - First person is not third person. Do not give extreme, omniscient detail. Ask what he can actually pick up with his five senses from where he stands, and let each detail have a cause and an effect.
 - A body or micro cue (folding his arms, nerves, anxiety, an emotion) belongs roughly every two or three major actions, when the moment needs it. Not every paragraph and not every sentence. Do not sprinkle cues just to have them; each must make sense.
+
+## One or two things at a time (author-stated, latest)
+
+Because the story is first person, Tatsuya can only pick up one or two things in any given moment. When adding body cues or environment, give a beat one or two perceptions (for example a sound and a body sensation), never a stacked list of sights, smells, sounds and textures in one sentence. Spread them across the scene instead.
