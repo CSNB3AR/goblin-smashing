@@ -4,13 +4,13 @@
 
 ## The setup
 
-Chiyo needs an answer soon on whether Tatsuya reapplies to Tochi Academy (application window opens back up January 4th). If he doesn't decide, she's prepared to decide for him, framed as love and protection, not control. See `codex/characters/chiyo-nakamura.md`.
+Chiyo needs an answer soon on whether Tatsuya reapplies to Tochi Academy (the submission window closes December 23rd and the entrance exams are January 4th). If he doesn't decide, she's prepared to decide for him, framed as love and protection, not control. See `codex/characters/chiyo-nakamura.md`.
 
 ## Why it matters
 
 Tochi has the resources and curriculum required to maintain the first-gen pods long-term (ties to `codex/subplots/technical-arc-leon-and-sakura-arcade.md`), and it's also the one place in Japan the Tabuchis have no institutional reach, due to Tochi's real, enforced zero-tolerance policy on family-influence targeting. See `codex/locations/tochi-academy.md`.
 
-**New, concrete pressure, Chapter 8-9:** a real parts lead for Leon's degrading monitor rig (see `codex/lore/external-monitor-and-full-dive-safety.md`) turns out to need knowledge Tatsuya doesn't have. Tochi's tech program is the realistic way to actually learn it, faster and cheaper than a university route he can't afford in either time or money, a genuine, felt reason pulling him back toward the decision rather than pure obligation to Chiyo.
+**New, concrete pressure, Chapter 8-9:** a real parts lead for Leon's overheating pod (see `codex/lore/external-monitor-and-full-dive-safety.md`) turns out to need knowledge Tatsuya doesn't have. Tochi's tech program is the realistic way to actually learn it, faster and cheaper than a university route he can't afford in either time or money, a genuine, felt reason pulling him back toward the decision rather than pure obligation to Chiyo.
 
 ## Resolved facts
 

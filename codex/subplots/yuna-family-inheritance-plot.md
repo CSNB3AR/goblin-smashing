@@ -16,7 +16,7 @@ Kazuto Tabuchi ends up at the same hospital as Kaito (see `codex/characters/kazu
 
 ## Why it matters to the main plot
 
-Yuna's family wasn't paying attention to the esports side of HGO until Kazuku began treating in-game economic infrastructure as a serious real-world business play. Once that shift became impossible to ignore, the family scrambled to get positioned inside it, and suddenly Yuna, previously in the way, became valuable, especially once she's visibly connected to Tatsuya. Her parents don't yet know how deeply she's actually embedded in HGO as its public face.
+Yuna's family wasn't paying attention to HGO until Kazuku began treating in-game economic infrastructure as a serious real-world business play. Once that shift became impossible to ignore, the family scrambled to get positioned inside it, and suddenly Yuna, previously in the way, became valuable, especially once she's visibly connected to Tatsuya. Her parents don't yet know how deeply she's actually embedded in HGO as its public face.
 
 ## Act Two pacing note
 

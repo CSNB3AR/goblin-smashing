@@ -14,6 +14,10 @@ Leans Power/Speed with a real Wisdom penalty.
 
 Bonus initiative and a passive read on the nearest real threat in a room. Matches the race's Speed/Power lean.
 
+## Racial ability: Enrage
+
+A second Beastfolk racial. Below 40% HP, a damage multiplier stacks up to **x12** while the Beastfolk loses HP and defenses in exchange. It rewards a tank who can survive on the edge, which is why wards, heals and enchantments matter so much to a Beastfolk brawler such as Pac_Pac (see `codex/characters/pac-pac.md`). Beastfolk carry bad infamy in Lunarest (see `codex/lore/lunarest-royal-court.md`).
+
 ## Resistances
 
 | Notable resistance | Notable weakness |
@@ -31,3 +35,7 @@ Unlike the goblin clans sharing Myrrhwood's landmass (fractured, warring, no tru
 ## Cross-references
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
+
+- **Patron (author-stated, names are proposals).** Follows Seranis (with the goblins and drakekin).
+
+- **Patron: race affinity only (author-stated, supersedes the earlier default-and-switch line).** Players do not start with a blessing; a god grants it by how they act and live, along an alignment tree. The race's god may notice them faster. One blessing only, changeable only by respec (500,000 yen, one time only). See `codex/lore/patrons-and-world-weapons.md`.

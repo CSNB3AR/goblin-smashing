@@ -1,5 +1,8 @@
 # HGO Game System — The Glory Codex
 
+> **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
+
+
 This is the mechanical backbone of Hero's Glory Online: stats, leveling, the goblin signature mechanic, and the deck-building layer. It merges the "Voyage Codex" brainstorm (originally drafted under a placeholder title, "Heroes' Voyage Online") into confirmed HGO/Eryndal canon, and folds in the mechanics flagged as worth preserving from `bible/old-draft-chapter-bible.md`. Everything here is Eryndal-branded; no "Voyage Site," "Heroes' Voyage," or other placeholder terminology survives past this document.
 
 For character facts, world facts, and craft rules, defer to `bible/writing-bible.md`. This document is mechanics only.
@@ -62,7 +65,7 @@ An HGO access drive is a neutral silver/clear color before a character is create
 
 ## 4. The Goblin Signature Mechanic: The Call of the Bones Necklace
 
-Shiv's Warset stays a 7-piece legendary set (see `bible/old-draft-chapter-bible.md`); the necklace remains piece 1 of 7.
+Shiv's Warset is a set of unique items, not seven pieces. The Call of the Bones necklace is one of them and is not a relic. One Warset item, the Staff of the Mist God (Seranis), is a relic and is one of the seven world weapons (see `codex/lore/patrons-and-world-weapons.md`). Both the Warset and the seven weapons exist.
 
 **Two separate Fortune/gambling-themed abilities exist, not one, and they must not be conflated:**
 
@@ -104,21 +107,21 @@ In VR, the card is not the object. The item is real: worn, held, used physically
 - **Creature/Hero cards** (narrative shorthand, not literally shown to the reader as cards for every NPC): name, race/class/path, the six Discipline+Energy stats, abilities (innate/activated/triggered), rarity from the ladder above.
 - **Battlegear / items:** equipped gear (the Call of the Bones Necklace, later Warset pieces, other earned items) grants stat bonuses and unlocks abilities. Limited equip slots keep loadouts meaningful.
 - **Skills:** played for damage, buffs, direct effects, or to trigger a Gamble. Some require winning a Discipline or Fortune Challenge to land.
-- Competitive matches (see Writing Bible §7 for the 3v3/5v5 ruleset) are where the deck-building layer is most visible on the page: players bring their earned kit in alongside their base class, and world-level items are nerfed for balance but still matter.
+- Competitive matches (see Writing Bible §7 for the Crownfall structure) are where the deck-building layer is most visible on the page: players bring their earned kit in alongside their base class, and world-level items are nerfed for balance but still matter.
 
 ## 6. World & Economy
 
 ### Player-owned territory
-Inspired internally by Albion Online / Black Desert Online, not named on the page. The Crystal League expansion's five continents are carved into territories and zones under the single supercontinent's kingdom structure (see Writing Bible §7, World structure). Players and guilds can build, own, and tax craft houses, shops, and event venues, and pay leases/upkeep to keep them running. Alliances and kingdoms form naturally, new or casual players who don't know better yet default to whatever's already established and public rather than shopping around, which is exactly what makes early player-owned infrastructure genuinely profitable. Owning territory is passive income: shops, rental stalls, training dojos, all buildable and upgradeable for profit. Real-world tie-in: top teams/guilds/soloists sign sponsorships and ad space, server-firsts make headlines and lead to scholarships, brand deals, and national-team invitations.
+Inspired internally by Albion Online / Black Desert Online, not named on the page. The Hearthfire expansion's five continents are carved into territories and zones under each continent's kingdom structure (see Writing Bible §7, World structure). Node Wars over those territories are the main war content after Hearthfire. Players and guilds can build, own, and tax craft houses, shops, and event venues, and pay leases/upkeep to keep them running. Alliances and kingdoms form naturally, new or casual players who don't know better yet default to whatever's already established and public rather than shopping around, which is exactly what makes early player-owned infrastructure genuinely profitable. Owning territory is passive income: shops, rental stalls, training dojos, all buildable and upgradeable for profit. Real-world tie-in: top teams/guilds/soloists sign sponsorships and ad space, server-firsts make headlines and lead to scholarships, brand deals, and national-team invitations.
 
 ### Living-world NPCs, a real mechanic
 NPCs are AI-driven and read as genuinely alive on the page, not scripted set dressing. A simple on-screen tag/nameplate lets a player tell an NPC from another player at a glance, that doesn't make NPCs trivial to deal with. Their favor is earned, not given, and their anger has real consequences: mistreat a region's people, act like a dictator toward them, and the world's own people can turn on a player for real, organizing, attacking, pushing them out. This extends the Karma/Alignment system below (currently player-kill-triggered only) to cover NPC relations too. There are still-unexplored areas of the supercontinent even this deep into the game's life, and being first to reach or clear one, a "server first," is a real, ongoing path to gear and deck-building items, the same prestige loop as World Boss Raids. NPCs also generate real economic activity of their own: they buy from player-owned shops too, not just other players, which is what makes the player-driven economy read as self-sustaining rather than a closed loop between players alone.
 
 ### Tournament & competition structure
-Beyond the World Championship and Winter Bash (Writing Bible §7, Esports structure) and the 1v1 Open Ladder (Writing Bible §7, Competitive PvP format): **GvG (Guild vs. Guild) Wars**, seasonal, guild-scale fights for city/territory control, winning guilds can tax and set rules for their zones. **World Boss Raids / Server Firsts**, PvE guilds race to clear new content, first clear earns a cash prize, exclusive loot, and a permanent mark on server history. **Streamer/Influencer events**, sponsored "all-star" or meme-build exhibition weeks, PR-driven. **National/City Championships**, country- or city-branded teams backed by real sponsors and governments, think an eWorld-Cup-meets-metaverse-Olympics framing, top players can be drafted, traded, or signed to multi-year contracts.
+Beyond the Season Zero finale, Crownfall (the Season One opener and first Siege) and the Siege Pro League (a 5-guild, 60-life, three-hour battle royale, Writing Bible §7, Competitive structure), and the 1v1 Open Ladder: **Node Wars**, seasonal, guild-scale fights for node, city and territory control across the five continents, winning guilds can tax and set rules for their zones. **World Boss Raids / Server Firsts**, PvE guilds race to clear new content, first clear earns a cash prize, exclusive loot, and a permanent mark on server history. **Streamer/Influencer events**, sponsored "all-star" or meme-build exhibition weeks, PR-driven. **National/City showcases**, country- or city-branded guilds backed by real sponsors and governments, top players can be drafted, traded, or signed to multi-year contracts.
 
 ### Pro teams and guilds (background roster, for future-chapter use)
-Full roster with per-team/per-guild identity now lives in `codex/lore/tournament-ecosystem-and-guilds.md`, single source of truth, don't duplicate the list here. Includes Kansai Black Lotus and London Spire (both already on the page) plus the rest of the regional pro scene, and the guild roster including Arya's own guild, Crimson Static.
+Full roster with per-guild identity now lives in `codex/lore/tournament-ecosystem-and-guilds.md`, single source of truth, don't duplicate the list here. Includes Kansai Black Lotus and London Spire (both already on the page) plus the rest of the regional guild roster, and the guild roster including Arya's own guild, Crimson Static.
 
 ## 7. Preserved Mechanics From the Old Draft
 
@@ -126,7 +129,7 @@ These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged t
 
 - **Skill combo system** — Goblin Gas + fire = Goblin Flare; toxin effects boost Ancient Bone Flame Barrage's damage/radius. Reusable and mechanically satisfying, fits the deck-building pillar.
 - **Karma/Alignment system** — killing players outside sanctioned PvP shifts alignment and visibly flips the nameplate from white to red ("Blood Tinted"). A strong, visible consequence system for open-world PvP, and per §6 above, this now extends to mistreating NPCs and a region's people too, not player-kills alone.
-- **Seven-day death lock** — dying carries a real week-long penalty, not just a respawn timer.
+- **72-hour death lock**: dying carries a real three-day penalty, not just a respawn timer (flat 72 hours everywhere except Siege sessions, which use the 60-life rule, pass-out lock 24 hours provisional).
 - **Physical Arts** — a distinct skill category from spells (Drosh's Veil-Pierce Gaze, Silent Three Fang), giving goblins/hobgoblins a combat identity separate from caster classes.
 - **Tactical Cartographer title** — earned for drawing up a battle plan, not just fighting. Rewards the brains-over-brawn playstyle the story leads with.
 - **In-game time dilation** — time moves faster inside HGO than in the real world. Flagged as needing pacing care: any quest timer stated in-game (e.g., a three-day ultimatum) needs to be checked against how it lands against Tatsuya's real-world schedule before it's used in a chapter.
@@ -134,9 +137,9 @@ These carry forward unchanged from `bible/old-draft-chapter-bible.md`, flagged t
 
 ## 8. Prestige & Ranking Ladder (resolved)
 
-Replaces the old numeric MMR placeholders (Platinum 40K, Diamond 75K, Master 120K+) entirely. Named tiers: **Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster**, then a regional **Top 500** cap above that, not everyone can reach it, the game is global with millions of players across many countries.
+Replaces the old numeric MMR placeholders (Platinum 40K, Diamond 75K, Master 120K+) entirely. Named tiers: **Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster**, then a **Top 500** cap above that, not everyone can reach it (nameplate icon, tiers 500/100/50/5, role and race boards).
 
-**Ladder rank and pro/tournament status are related but distinct tracks.** A player can be Grandmaster without being Top 500, and can still carry a pro marker on their profile from actually qualifying into real tournaments, ladder rank alone doesn't confer that marker. Contenders-tier players (the development league below the Pro League) generally sit around Masters. Haruto Murayama (see Writing Bible §6) is the clean illustration: an early Grandmaster, not Top 500, but carries a pro marker from real tournament qualification.
+**Ladder rank and pro/tournament status are related but distinct tracks.** A player can be Grandmaster without being Top 500, and can still carry a pro marker on their profile from actually qualifying into real tournaments, ladder rank alone doesn't confer that marker. Contenders-tier players (a development tier between the ladder and any later circuit) generally sit around Masters. Haruto Murayama (see Writing Bible §6) is the clean illustration: an early Grandmaster, not Top 500, but carries a pro marker from real tournament qualification.
 
 ## 9. Open Flags
 

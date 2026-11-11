@@ -28,6 +28,7 @@ Reframes what used to be called "affinities" as named schools, same underlying m
 - `codex/magic/book-of-frost.md` (Frost)
 - `codex/magic/book-of-tempest.md` (Storm)
 - `codex/magic/book-of-stone.md` (Earth)
+- `codex/magic/book-of-tides.md` (Water)
 - `codex/magic/book-of-radiance.md` (Light)
 - `codex/magic/book-of-the-veil.md` (Dark, includes Tatsuya's own Shaman's Veil path as a unique variant)
 - `codex/magic/book-of-the-arcane.md` (Arcane-neutral, no elemental lean)
@@ -40,6 +41,14 @@ Not a hard racial lock, no race is pre-assigned a school. It comes from backgrou
 
 - **Amplify magic** — a caster can spend extra MP to push a known spell's effect temporarily above the tier they've actually unlocked, at real cost and real risk (see `codex/lore/hp-sp-mp-resource-pools.md`), a genuine gamble, not a safe stat purchase. Bone Surge's own Amplify mode (`codex/objects/call-of-the-bones-necklace.md`) is a once-a-day, free, Fortune-scaled version of this same general concept, specific to Tatsuya and the necklace, the two aren't the same system but read as the same family of idea.
 - **Dual-casting** — maintaining two spells' effects active at the same time, a real Wisdom-gated difficulty spike rather than something any caster can do casually.
+
+## School map (settled)
+
+HGO's books cover the elements as follows: Embers = fire, Frost = cold and control, Tempest = wind and lightning (storm), Stone = earth, Tides = water (new), Radiance = light and healing, Veil = dark, Arcane = neutral. Eight books in all.
+
+**Open**
+- Optional in-world names: an alternate set of school names (Ascentio fire, Ventara wind, Fulgara lightning, Terrava earth, Umbrava dark, Aquara water, Lumenara light) could serve as the tier-1 entry spell names in each book. Nothing is renamed, and whether to use them at all is undecided.
+- Whether Tempest stays one book or splits into wind and lightning later.
 
 ## Cross-references
 

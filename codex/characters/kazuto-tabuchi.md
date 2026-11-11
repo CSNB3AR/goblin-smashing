@@ -7,7 +7,7 @@
 - Cold, controlling, ruthless.
 - Approached Tatsuya personally at Daichi's funeral (which the Tabuchis held and funded) about the old schematics/computer files, framed as an offer to help. Tatsuya refused and cut off contact, partly because Eren had already betrayed him by then. See `codex/characters/daichi-kazehaya.md` for the full detail, this is Tatsuya's private knowledge, not Chiyo's.
 - Chiyo's own instinct to keep Tatsuya away from the Tabuchis is separate and simpler, they're the family collecting on a dead man's debt, reason enough on its own. She doesn't know about the funeral conversation or the files.
-- Because there has been no contact since the funeral, the debt pressure has escalated in its place over the last couple of years, Eren showing up to lean on Tatsuya is the visible edge of that.
+- Because there has been no contact since the funeral, the debt pressure has escalated in its place over the last year, Eren showing up to lean on Tatsuya is the visible edge of that.
 - The real target has always been Daichi's old schematics and paperwork (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). Tatsuya doesn't consciously connect this to third-gen pod tech, he just knows the demands keep circling back to his father's old paperwork specifically, never fully squaring with "just pay us." This should read on the page as something he half-notices doesn't add up, never explained outright.
 
 ## Mutual-grievance angle (background, later chapters)
@@ -16,6 +16,10 @@ The Tabuchis see Eren's betrayal of Tatsuya as having cost them a shot at the sc
 
 The Tabuchi family's second-generation pod business was originally bankrolled by yakuza money, laundered in through the family. Part of why they're under real financial pressure themselves and part of why the pressure on Tatsuya hasn't let up.
 
+## Author-side truth (not on the page)
+
+About a year ago, months before HGO and the third-gen pods released, the Tabuchis hired yakuza to sabotage Daichi's vehicle by pulling the plug-ins on his Haya Sedan (a hybrid that still ran on gas). It broke down and caused the **accident that killed him**, and the failure looked like his own product failing. This is separate from the childhood crash years ago that paralyzed Daichi. They expected it to bankrupt the family while Ohema was in the hospital. They then used it to attack the business: retailers pulled back, **every Haya product was pulled from the market, the EB included**, and his income collapsed. The Tabuchis, who build second-gen pods cheaply and have yakuza ties, had already offered to take the first-gen schematics as collateral against the debt, and Daichi refused. Chiyo returning was not in their plans, since she began paying the fees. Kazuto hoped to take the family to court to win the business and the first-gen schematics, and it has not worked because Chiyo has her own money and has hired lawyers. On the page this stays suspicion only, reaching the reader through Tatsuya's own inference (see `codex/subplots/tabuchi-schematics-and-family-debt.md`). Eren is blind to all of it and acts only as Kazuto's messenger.
+
 ## Old-draft reference, superseded characterization
 
-The old draft (see `bible/old-draft-chapter-bible.md`) had Kazuto explicitly hint at deeper complicity in Daichi's death (not just debt pressure) in an Eren-POV chapter that's since been cut for breaking the locked third-person-on-Tatsuya rule. If any of that darker implication is wanted going forward, it needs to reach the reader through Tatsuya's own observation or secondhand knowledge, never a direct scene with Eren and Kazuto.
+The old draft (see `bible/old-draft-chapter-bible.md`) had Kazuto explicitly hint at deeper complicity in Daichi's death (not just debt pressure) in an Eren-POV chapter that's since been cut for breaking the locked first-person-on-Tatsuya rule. If any of that darker implication is wanted going forward, it needs to reach the reader through Tatsuya's own observation or secondhand knowledge, never a direct scene with Eren and Kazuto.

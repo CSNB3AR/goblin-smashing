@@ -1,6 +1,6 @@
 # Call of the Bones Necklace
 
-**Type:** Object, in-game. Piece 1 of 7 in Shiv's Warset. Tatsuya's signature goblin item.
+**Type:** Object, in-game. The first piece of Shiv's Warset, a unique item and **not a relic**. Tatsuya's signature goblin item. The one relic in the Warset is the Staff of the Mist God (`codex/objects/staff-of-the-mist-god.md`, `codex/lore/patrons-and-world-weapons.md`).
 
 ## Facts
 

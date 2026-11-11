@@ -1,6 +1,6 @@
 # Ryo Tachibana
 
-**Role:** Former Kansai Black Lotus-era teammate of Eren and Haruto Murayama. Live candidate for one of Haya Storm's two Act Two 5v5 roster slots. Name easy to rename.
+**Role:** Former Kansai Black Lotus-era teammate of Eren and Haruto Murayama. Live candidate for one of Haya Storm's two Act Two roster slots. Name easy to rename.
 
 ## Facts
 

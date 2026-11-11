@@ -2,7 +2,7 @@
 
 **Status:** Chapter fully drafted, see `chapters/chapter-08.md`, author's own hand-authored draft, adopted with house-style fixes applied. Ends on a hook right as Arya's voice catches Tatsuya in the Sakura Arcade hallway, and the chapter itself now includes him turning to see her, one beat later than an earlier split point used briefly this session. `chapters/chapter-09.md` ("Silence and Fire") picks up directly at her first line of dialogue, no re-introduction. This file is a beat-by-beat reference, useful for checking any future resync against.
 
-**House-style note:** inner monologue is plain quotation marks, no italics, per the current, twice-reconfirmed rule in `style-guide/craft-rules.md`. Every bracketed notification while still in-dive is bold; every real-world phone/banking/text notification in the Sakura Arcade bathroom scene is plain.
+**House-style note:** the story is first person, past tense, and inner thoughts are plain unquoted narration (see `style-guide/craft-rules.md` and `style-guide/first-person-voice.md`). Every bracketed notification while still in-dive is bold; every real-world phone/banking/text notification in the Sakura Arcade bathroom scene is plain.
 
 ## Opening — direct continuation from Chapter 7, no restaged entrance
 
@@ -10,7 +10,7 @@ Chapter 7 ends with the group ten paces from the war tent, its flap already open
 
 ## Sevish's reaction and the affiliation tick
 
-Sevish, now given a signature two-handed battle axe (new visual detail this pass), presses Kesh for a clean count and gets pushback consistent with a scout who's still shaken and low-Wisdom-coded. Tatsuya reads the geography trap (Bloodhurst's own hillside/road chokepoint) through dialogue with Wyx, same as before. `**[AFFILIATION: THRASH CLAN 10% → 12%]**` lands after Tatsuya's read on the situation, a smaller tick than the previous draft's 10%→14%, still upward movement, not a jump. Both of Tatsuya's humor lines in this stretch were sharpened for real comedic voice this pass ("Someone should tell his lungs the danger's already over," reacting to Kesh's ragged breathing; "The wisdom of goblins really shines in a crisis, doesn't it," reacting to Kesh's "They have caster" non-answer), each now paired with an actual physical tell of Tatsuya suppressing his own amusement (a twitch at the corner of his mouth, a laugh caught in his throat) rather than a flat clinical observation, since Sevish and Wyx are right there mid-crisis and the humor has to read as private and restrained, not broadcast.
+Sevish, who carries his two-handed battle axe (he always carried an axe), presses Kesh for a clean count and gets pushback consistent with a scout who's still shaken and low-Wisdom-coded. Tatsuya reads the geography trap (Bloodhurst's own hillside/road chokepoint) through dialogue with Wyx, same as before. `**[AFFILIATION: THRASH CLAN 10% → 12%]**` lands after Tatsuya's read on the situation, a smaller tick than the previous draft's 10%→14%, still upward movement, not a jump. Both of Tatsuya's humor lines in this stretch were sharpened for real comedic voice this pass ("Someone should tell his lungs the danger's already over," reacting to Kesh's ragged breathing; "The wisdom of goblins really shines in a crisis, doesn't it," reacting to Kesh's "They have caster" non-answer), each now paired with an actual physical tell of Tatsuya suppressing his own amusement (a twitch at the corner of his mouth, a laugh caught in his throat) rather than a flat clinical observation, since Sevish and Wyx are right there mid-crisis and the humor has to read as private and restrained, not broadcast.
 
 ## New: the Breach Quest invasion notification
 
@@ -26,7 +26,7 @@ Same beats as before: the stream connection drops, Leon's warning escalates to "
 
 ## Real-world interlude, Sakura Arcade
 
-Same locked beats as before (Loop virality, affiliate realism, the Tochi notification, the money transfer, the Gato text, the arena-unlock realization, the Haruto/Kansai Black Lotus/Dosuke AI beat), tightened and reordered slightly, all still present and accurate to already-locked canon. New beat: a real, dangling worry, "How do I even enter the esports scene with this build?", left unanswered rather than resolved, a piece of real texture rather than a plot thread that needs closing here.
+Same locked beats as before (Loop virality, affiliate realism, the Tochi notification, the money transfer, the Gato text, the arena-unlock realization, the Haruto/Kansai Black Lotus departure beat, played as guild drama in the beta with Eren's stolen build in the subtext), tightened and reordered slightly, all still present and accurate to already-locked canon. First person. The only real stakes in the closing beats are the 72-hour lock, the fifteen days to Crownfall and no team locked in yet.
 
 ## Ending hook
 
@@ -34,6 +34,6 @@ Arya's voice cuts through the noise, "Hey, T-Drag." Tatsuya turns to see her lea
 
 ## Craft notes for any future resync
 
-- Structural pattern specific to this draft: a monologue-quote first, then a body-cue narration sentence right after (e.g. "Every word costs him something." Tatsuya's weight shifted forward...). This is a deliberate, consistent choice, don't restructure it to put the cue before the quote.
+- Structural pattern specific to this draft: a thought or line first, then a body-cue narration sentence right after (e.g. "Every word cost him something. My weight shifted forward..."). This is a deliberate, consistent choice, don't restructure it to put the cue before the thought.
 - Banned physical beats (jaw clenching/setting, arms crossing, a hand going flat against a thigh) were swept out of this draft during adoption, replaced with varied cues. Watch for these specific tics reappearing in any future resync, they've shown up three separate times this session across different sources.
 - All named minor characters (Kesh, Rott, Nab) stay named consistently once introduced. Kesh specifically carries his name in from Chapter 7, no in-chapter nameplate reveal for him here, only Rott and Nab (mentioned, not yet on-page) and the `**[WAR TENT – ELDER T-DRAG]**` nameplate later in the chapter still use that device.

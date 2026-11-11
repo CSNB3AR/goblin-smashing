@@ -25,3 +25,7 @@ Full, unrestricted magic access, no Wisdom gate beyond the standard tier-1 thres
 ## Cross-references
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
+
+- **Patron (author-stated, names are proposals).** Follows Aurenor.
+
+- **Patron: race affinity only (author-stated, supersedes the earlier default-and-switch line).** Players do not start with a blessing; a god grants it by how they act and live, along an alignment tree. The race's god may notice them faster. One blessing only, changeable only by respec (500,000 yen, one time only). See `codex/lore/patrons-and-world-weapons.md`.

@@ -16,6 +16,10 @@ Weakest overall base line in the game, why the race sits dull-red on the selecti
 
 Passively identifies which nearby loot is actually worth picking up before it's touched. The race's baseline economic edge, distinct from Tatsuya's own personal rare-variant roll below, every goblin gets this, not just him.
 
+## Racial ability: Nimble Hands
+
+A second goblin racial. Lets a goblin pick pockets through doors and other barriers, and grants a proficiency with arcane tech (gadgets, runework tools) that other races lack. It carries **karma and Affiliation costs** when used on NPCs and players, and there is **no player pickpocketing in green zones**. Together with Scavenger's Eye it is the race's economic and gadget identity, and it supports Tatsuya's Arcane Bomber path (see `codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`). Goblins also start **infamous** under the fame system (see `codex/lore/affiliation-and-reputation-system.md`).
+
 ## Resistances
 
 None, deliberately flat/unspecialized across the board, consistent with the race's low-floor, no-hard-walls identity.
@@ -37,3 +41,15 @@ See `codex/lore/playable-races-and-character-creation.md` and `codex/objects/cal
 ## Cross-references
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`.
+
+## Patron: Seranis
+
+Goblins are tied by race affinity to **Seranis**, goddess of demigods and creation, who may notice them faster (five patrons, see `codex/lore/patrons-and-world-weapons.md`). A blessing is earned by how a player acts and lives, not granted at creation.
+
+- **Patron (author-stated, names are proposals).** Follows Seranis (with the beastfolk and drakekin).
+
+- **Patron: race affinity only (author-stated, supersedes the earlier default-and-switch line).** Players do not start with a blessing; a god grants it by how they act and live, along an alignment tree. The race's god may notice them faster. One blessing only, changeable only by respec (500,000 yen, one time only). See `codex/lore/patrons-and-world-weapons.md`.
+
+## Visual reference: Tatsuya as a goblin (author-sent)
+
+See `codex/races/reference/goblin-tatsuya.jpg`. This image is the **Shiv goblin** form he reaches after Shiv blesses him: taller, green skin, dark green hair with a pale lock swept through it, narrow sharp face, red eyes, small fangs, pointed ears. Before the blessing he is a **much shorter** version of this (about four feet), same face and expressions, green hair with no pale lock, patched spawn rags instead of the tunic. He grows in height once Shiv blesses him (author-stated).

@@ -1,5 +1,8 @@
 # Companion / Troop System
 
+> **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
+
+
 **Status:** New mechanic. First lands on the page in Chapter 7 ("The First Disciple"), when the young goblin (see `codex/characters/young-goblin-companion-candidate.md`) is recruited via Whispers of Shiv (below) after the necklace bond, and is already with Tatsuya when he logs back into camp.
 
 ## The mechanic
@@ -20,6 +23,12 @@ Recruiting a companion isn't a static NPC assignment. A recruited companion gain
 
 Ru (see `codex/characters/young-goblin-companion-candidate.md`) does not follow the standard path above. In the same scene as the necklace bond, Shiv personally and directly grants Ru an instant Goblin to Hobgoblin evolution (level 1 to level 5), an evolved Goblin Gas → Toxic Breath, and the "First Disciple of Shiv" title on the spot, explicitly marked in dialogue as Shiv's own one-time act, not the Whispers of Shiv recruitment flow described above. (Call of Command, Shiv-Touched Flare, and Rune Priming, originally slated for Ru here, ended up on Tatsuya's own kit instead, see `codex/objects/call-of-the-bones-necklace.md`.) **This does not reopen or loosen the general rule.** Every other companion, including any future Whispers of Shiv recruits and the eventual named squad (Grukk, Tikka, Muzzle, Drosh), still levels up and earns rank-ups and titles gradually, the normal way. Ru's blessing is a one-time founding exception tied to his being Shiv's literal first disciple, not evidence the system works this way in general.
 
+## Siege sides, troop credit and troop enchants
+
+In a Siege session (Crownfall and the Siege Pro League, see `codex/lore/hearthfire-expansion-and-seasons.md`), a guild fields 20, and **garrison troops fill empty slots**, so a guild with a small active core can still field a full side. Garrison cap still scales as above, so a small guild's real ceiling is its players' levels. **Crownfall allows a large garrison.** The Siege Pro League caps troops hard, about one or two per player (adapted for the battle-royale format, not confirmed).
+
+**Tatsuya is the first to fill guild slots with NPC troops** because he does not have enough people. **Enchantments multiply on troops and last longer on them than on players**, because troops do not follow the player system, so he can turn them into super soldiers. Even so, the gain is longer and stacked enchants, not unlimited power, and credit for troop kills still routes to him. Kills and objective points a troop earns **credit to the member who commands it**. Tatsuya's Whispers of Shiv garrison therefore adds to his totals during Crownfall without him realizing it at first, and leaderboard watchers (Leon, Arya) notice the climb before he does.
+
 ## Old-draft precedent
 
 The old draft has Tatsuya opening a system/status screen mid-fight, with a small goblin trio fighting alongside him against PK_Wraith's men (see `codex/characters/pk-wraith.md`), worth preserving as an early precedent for companions actually fighting and growing alongside him rather than sitting passively in camp. Not a beat-for-beat template, just the earliest seed of this mechanic already existing in the material.
@@ -28,3 +37,5 @@ The old draft has Tatsuya opening a system/status screen mid-fight, with a small
 
 - `codex/characters/young-goblin-companion-candidate.md` — first companion recruited this way.
 - `codex/characters/goblin-squad-companions.md` — Drosh's existing Hobgoblin rank is the target tier this system's rank-up leads toward.
+
+- **Non-troops do not level (author-stated).** NPCs who are not under the troop system (for example Sevish and his sister Wyx) cannot gain levels and stay at the level they are held at until they become troops of the player and receive the troop experience buff. Developer updates may adjust this later.

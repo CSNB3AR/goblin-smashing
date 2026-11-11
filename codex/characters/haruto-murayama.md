@@ -1,6 +1,6 @@
 # Haruto Murayama
 
-**Role:** Eren's teammate on Kansai Black Lotus. Present in Chapter 1 as a real character, not a background customer.
+**Role:** Eren's guildmate on Kansai Black Lotus. Present in Chapter 1 as a real character, not a background customer.
 
 ## Appearance
 
@@ -8,9 +8,9 @@
 
 ## Facts
 
-- Kansai Black Lotus's star player and Rookie of the Year.
-- Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see `codex/pro-scene/ranking-ladder.md`), but carries a real pro marker on his profile from actually qualifying into tournaments, a clean example of how ladder rank and pro status are related but distinct.
-- Frustrated with Eren over Kansai Black Lotus's early bump-out this cycle. Will end up leaving the team around the Winter Bash timing, especially with the format shift.
+- Kansai Black Lotus's star player and **Breakout Player of the Season** (Season Zero's award).
+- Attends Tochi Academy. Ranked top-10 in Japan, an early Grandmaster on the ladder rather than Top 500 (see `codex/pro-scene/ranking-ladder.md`), with a visible marker from the Season Zero finale week, a clean example of how ladder rank and standing are related but distinct.
+- Frustrated with Eren over Kansai Black Lotus missing the Season Zero top eight. Will end up leaving the guild around the Crownfall timing.
 - Has heard Eren needle Tatsuya before, more than once, enough that he's started to suspect the team's famous build wasn't really Eren's idea. Watches quietly, a flicker of dawning respect rather than anything stated outright.
 
 ## Forward plot
@@ -24,3 +24,8 @@ The old draft (`bible/old-draft-chapter-bible.md`) gave him a much bigger early 
 ## Personality
 
 The silent, expressionless powerhouse. Barely talks or reacts, looks almost bored until he casually deletes entire teams with raw firepower. Ignores complex tactics, forces his way through with pure, unblockable damage. When truly challenged, becomes intensely stubborn, refuses to look away. A complete game hog with his preferred high-damage role, only listens to one trusted support player. Completely blind to chat and compliments, only a direct rival insult makes him try even harder.
+
+- **Voice (author-stated).** A jock: easygoing and careless about other people, a bit neglectful, different in tone from Eren.
+- **Sees Tatsuya as the brain behind the build (author-stated).** Haruto is a professional-level player and speaks very little. In chapter 2 he tells Tatsuya he'd like to see who the brain behind that build looks like in this game. He hints, without saying it, that he will not stay with Kansai Black Lotus long (Tatsuya notices it).
+- **Eventually Tatsuya's teammate (author-stated).** Haruto did nothing wrong in chapter 2; Tatsuya respects him and does not mock him.
+- **Haruto knows who made the build (author-stated).** Haruto knows Tatsuya is the brain behind the build, a secret that was only ever between Tatsuya and Eren and never said out loud. Tatsuya realizes it in chapter 2. Haruto worked it out himself: he has good eyes and can tell when someone does not know how to use their own build (Eren). Eren does not know Haruto caught on.

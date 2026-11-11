@@ -18,3 +18,4 @@ Tatsuya's full biological sibling, along with twin brother Taji, all three shari
 ## Personality
 
 Bubbly, manicured, completely unbothered. While her twin lives in sweaty competitive hell, she lives in the glittering world of idols and rhythm games, a terrifying prodigy at them. Finds her brother's intense rants hilarious, loves teasing him or photobombing his streams. Despite the cute exterior, acts as the mature household manager, dragging him away from the PC to eat, shower, or help with real-life tasks.
+- **Visual reference (author's picture, see `codex/characters/reference/`).** Golden-blond locs piled up, reddish eyes, a green scarf and red jacket, a bandage on her cheek; warm brown skin, lighter than Tatsuya's. Pictured stern, not upset. Picture: `twins-momo-taji.jpg`. She and Taji share only the locs with Tatsuya, a Ghanaian family trait from their mother's side.

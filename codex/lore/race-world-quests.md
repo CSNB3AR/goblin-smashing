@@ -14,7 +14,7 @@ Humans and Goblins are the two activated races, and both share the same practica
 
 The Thrash clan didn't start at Bloodhurst. They sailed there from Myrrhwood, real ship time (see `codex/lore/hgo-timeline-and-real-world-stakes.md`'s no-fast-travel note), specifically because they have an elder, the qualifying condition their own attempt at the goblin race World Quest needed. Myrrhwood itself has never been player-accessible (see `codex/locations/eryndal-world-overview.md`), so the clan's only route to actually attempting the quest was leaving their own homeland and making camp near Lunarest, the one place the quest could actually be attempted at all.
 
-That's what Bloodhurst's hillside camp has actually been for the better part of two years: staging ground for repeated attempts at pushing up toward Lunarest's walls to trigger the quest properly, and repeated defeats at the hands of actual players who read the recurring pattern as nothing more than an easy, predictable farm spot, not a real questline in motion. **This is also the real, grounded reason PK_Wraith's crew treats Bloodhurst as reliable, low-effort prey** (see `codex/locations/bloodhurst.md`): a known fixture that's been losing the same fight in the same spot for two years reads as exactly that, not as a clan on the verge of finally succeeding, which is precisely what Tatsuya's arrival changes.
+That's what Bloodhurst's hillside camp has actually been for the better part of two years: staging ground for repeated attempts at pushing up toward Lunarest's walls to trigger the quest properly, and repeated defeats at the hands of actual players who read the recurring pattern as nothing more than an easy, predictable farm spot, not a real questline in motion. **This is also the real, grounded reason PK_Wraith's crew treats Bloodhurst as reliable, low-effort prey** (see `codex/locations/bloodhurst.md`): a known fixture that's been losing the same fight in the same spot for the whole beta reads as exactly that, not as a clan on the verge of finally succeeding, which is precisely what Tatsuya's arrival changes.
 
 ## Cross-references
 
@@ -22,3 +22,7 @@ That's what Bloodhurst's hillside camp has actually been for the better part of 
 - `codex/locations/eryndal-world-overview.md` — the region structure and Myrrhwood's inaccessibility.
 - `codex/locations/bloodhurst.md` — the camp itself, and PK_Wraith's history hunting it.
 - `codex/subplots/world-quest-call-of-the-bones-camp-arc.md` — the full narrative arc "Call of the Bones" activating sets in motion.
+
+## Hearthfire note
+
+The race world quests are tied to home continents, and the continents release with Hearthfire (see `codex/lore/hearthfire-expansion-and-seasons.md`). Until then Season Zero is played on Lunarest alone, and Myrrhwood is reachable only by ship.

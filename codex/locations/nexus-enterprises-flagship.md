@@ -9,3 +9,5 @@ Kazuku's own company (see `codex/characters/kazuku.md`), presenting itself less 
 ## Geography note
 
 Downtown, a real departure for Tatsuya, who otherwise has essentially never left Shibuya ward (see `codex/characters/tatsuya-kazehaya.md` and `codex/locations/real-world-geography.md`). This is one of maybe two times in his life he's been down here, both as a kid, on some Chiyo errand.
+
+- **Pickup attendant (author's picture).** Young, tousled brown hair, round wire-rimmed glasses, white collared shirt with the sleeves rolled, a brown button vest. Worn down by launch-night customers; pushes his glasses up and pinches his nose bridge. Picture: `codex/characters/reference/nexus-attendant.jpg`.

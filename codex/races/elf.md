@@ -27,3 +27,11 @@ Full, unrestricted magic access, no Wisdom gate beyond the standard tier-1 thres
 ## Cross-references
 
 Racial ability/resistance table this file was split out of: `codex/lore/deck-building-rarity-and-classes.md`. Rare-variant creation roll: `codex/lore/playable-races-and-character-creation.md`.
+
+## High Elf and Lunarest's elven law
+
+**High Elf** is a rare Elf variant. In Lunarest, Elves receive special treatment under an **elven law**, while Beastfolk, goblins and dwarves carry bad infamy (see `codex/lore/lunarest-royal-court.md`). **High Magister Corvith Ostrane** is a High Elf banished from his own domain in the Azure Expanse and made a royal court mage in Lunarest. Spellforger-leaning elves such as Arya benefit from the standing, though Arya is not a High Elf.
+
+- **Patron (author-stated, names are proposals).** Follows Sylthara.
+
+- **Patron: race affinity only (author-stated, supersedes the earlier default-and-switch line).** Players do not start with a blessing; a god grants it by how they act and live, along an alignment tree. The race's god may notice them faster. One blessing only, changeable only by respec (500,000 yen, one time only). See `codex/lore/patrons-and-world-weapons.md`.
