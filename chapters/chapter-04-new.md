@@ -334,7 +334,7 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 **[ROLL GAMBLER'S GAMBIT? YES / NO]**
 
-This was what I'd spent the point on, and I'd never seen it work. I caught myself leaning toward the prompt, same as I had with the box. *"Roll for what, though? Loot? Quality? Okay. First roll. Let's find out."*
+*"Let's see what this skill does. Or if I wasted a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"Roll for what, though? Loot? Quality? Only one way to find out."*
 
 *"Yes."*
 
