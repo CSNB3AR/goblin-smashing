@@ -202,7 +202,7 @@ The glow thinned out the farther I got from the fires, and my eyes took a second
 
 I looked down at my rags, and at the bare feet under them. The adrenaline had been covering for me, and now that I'd stopped the soles stung, raw from the dirt and gravel. *"I need shoes. I can't run barefoot much longer."*
 
-It all felt real, the sting in my feet, the cold air in my lungs. I'd bet on this game without a word to Gato about stepping back from WattsUp, I'd hardwired a pod behind Leon's back to get in, and I was still having the time of my life. *"But I can't forget why I'm here. Time to get serious."* One mistake and the death lock, the 72 hours I'd skimmed in the license screen, would put me out.
+It all felt real, the sting in my feet, the cold air in my lungs. I'd bet on this game without a word to Gato about stepping back from WattsUp, I'd hardwired a pod behind Leon's back to get in, and I was still having the time of my life. *"But I can't forget why I'm here. Time to get serious."* The death lock was something I'd skimmed in the license screen before I pressed accept. *"I can't die here. 72 hours out isn't time I can waste. I have to show something by the time Chiyo gets back, or all of this blows up in my face."*
 
 Voices murmured somewhere past the tents, the watchers passing it along. I strained after it and caught nothing, not one word. The only thing that came through clear was boots landing in the mud, closing in again.
 
