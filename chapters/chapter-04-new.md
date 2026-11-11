@@ -148,13 +148,13 @@ Short, broken words, a stutter for anything longer. The enforcers talked in full
 
 It was exactly what I'd have told Taji. I don't know why, but for a second it felt like I was talking to my little brother, and that settled it for me.
 
+Behind me, the kid's eyes were on the back of my head, wide, like he'd just learned something. I didn't turn around. I kept my eyes on the two in front of me and let the stares of the whole camp pile up against the side of my face. The wind came through dead and damp, stirring the short hair on my head, and the smell of the camp, smoke and stew and swamp, finally settled in my nose. The amber of the firelight flickered as the sky sank into night, and I flicked a glance up to the server clock at the top of my vision.
+
+**[SERVER TIME: 21:14]**
+
 They didn't back off. The nearer one stepped in until his chest was an arm's length from mine, and I could smell the stew on his breath. The other slid around to my left. Behind them the goblins who'd drifted in around us, drawn by the commotion, tightened up and cut off the way back toward the crates.
 
 *"I don't want a fight."* Starting something in a camp I'd just woken up in could turn the whole place on me, and dying here wasn't in the plan. But I'd said what I said knowing exactly what it would stir up. I'd started this, and I couldn't back down off it now. If they wanted to start something with me and nobody stepped in, then fine. *"Alright. This could be good. Might as well test some things out."*
-
-I felt the stares of the whole ring piercing the side of my face. The wind moved through the camp, dead and damp, and the smell of the swamp finally settled in my nose. The amber of the firelight flickered as the sky sank into night, and I glanced up to the top of my vision where the server clock sat.
-
-**[SERVER TIME: 21:14]**
 
 I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear.
 
