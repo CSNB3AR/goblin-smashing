@@ -1,4 +1,4 @@
-# Chapter Four: Wrong Skin
+# Chapter Four: The Runt's Bowl
 
 Dirt, cold and gritty against my cheek.
 
