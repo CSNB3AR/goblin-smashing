@@ -362,11 +362,7 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-*"¥8,400 each."* I turned one vial over carefully. That was ¥16,800 total, the first real money this game had handed me. *"So that's a three. Nothing rare, but it's something."*
-
-I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
-
-Before I could so much as stand, a roar tore out of the big tent, so loud the fires flinched, and my body locked. I got my head turned toward it. That was all that would move.
+The number hadn't even finished registering when a chill swept through me, scalp to claws, and my body went numb. A war roar erupted out of the big tent, loud enough to make the fires flinch. I got my head turned toward it. That was all that would move.
 
 **[SKILL: CHALLENGING HOWL]**
 
@@ -376,16 +372,20 @@ The watching goblins froze mid-step. The kid went rigid against the crate, the b
 
 *"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my claws.
 
-The flap ripped aside, and a goblin stepped out into the firelight, broad through the shoulders, a battle axe hanging loose from one hand. Wyx moved up beside him, the only other thing in camp that was moving at all. Two gold tags blazed in the dark.
+The flap tore aside and Sevish stepped out into the firelight. The enforcers had been big. He made them look like children, a head taller than either of them and broad enough to fill the tent mouth, a battle axe hanging from one fist like it weighed nothing. No goblin I'd seen in this camp was built like that. Wyx stood off to one side where she'd watched the whole fight, tall and lean, arms loose, untouched by the howl. She hadn't needed to come out. She'd already seen all of it. Two gold tags blazed in the dark.
 
 **[SEVISH THRASH: LV 80]**
 
 **[WYX THRASH: LV 75]**
 
-*"Eighty. Seventy-five. I'm level two."* I'd just killed two of their people in the middle of their camp. *"I'm dead. I'm so dead. If they put me down here, that's 72 hours I can't spare."*
+*"Eighty. Seventy-five. I'm level two."*
 
-Sevish didn't look at the bodies. His eyes found me, and Wyx's came around half a second after his.
+"Who did all this?" Sevish's voice wasn't loud. After the roar, it didn't need to be.
 
-The vials were still warm in my hands, and I couldn't have dropped them if I tried.
+Nobody answered. His gaze crossed the two bodies, then the watchers, and stopped on me, the only one in camp with his hands full of their loot.
+
+*"No. No, no. Don't look at me."* I'd killed two of their people in the middle of their own camp, and I couldn't even run. *"If they put me down here, that's 72 hours I can't spare."* My mind screamed at my legs, and they didn't answer.
+
+Sevish started toward me, the axe swinging low at his side, each step slow and unhurried.
 
 **[END CHAPTER FOUR]**
