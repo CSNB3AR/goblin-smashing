@@ -1,24 +1,38 @@
 # Chapter Six
 
-The stun had me locked in a crouch with a vial in each fist, and my head was the only thing that would move. I dragged it up the length of him until I was looking Sevish in the eye. He didn't blink. The axe in his fist shifted a finger's width, and the silence pressed harder than the stun did.
+The stun held me in a crouch, every muscle pinned flat, and the vials had already vanished into my inventory the second I'd claimed them, so my fists closed on nothing. Only my head would move. The force of it kept pressing straight down on me, and the icon in the corner of my vision ticked toward its end, six seconds from the first roar to the last.
 
-My mouth still worked. I ran my tongue over my sharp little teeth and went with the only move I had left.
-
-"Your enforcers picked on a kid, and I picked a fight with them," I said. "I'd do it again."
-
-The words were out before I'd decided whether they were smart, so I kept going before anyone could answer. "Two on one, over a bowl of stew. I got between them and told them to back off, and they came at me anyway. Nobody else's tag turned. Just theirs. Ask whoever was standing there."
-
-"Nobody needs to ask," Wyx said, dry and unhurried, one hand still resting on the skull at her hip. "I came out in time to see two of ours hunting a stranger through camp with a blade half drawn." Her amber eyes slid to Sevish. "Thrash doesn't draw on Thrash. Your enforcers broke that long before he did anything."
-
-"And now two of them are dead," Sevish said, taking his time with each word.
-
-"I did what I had to do to still be standing." I kept my voice level and my eyes on his face, since I couldn't have done anything else with them.
-
-Sevish studied me for a long moment, and something that might have been approval crossed his scarred face. "Not bad." The weight let go all at once. My legs buckled half a step before I caught myself, and behind me the watchers shifted and started murmuring again as the camp got moving.
+*"Six seconds, and I can't lift a finger. If I run, they cut me down before I clear the camp."* The last of the timer drained while I turned it over. *"So running's out. I need a reason, a good one, and I need it the second this lets go."*
 
 **[DEBUFF EXPIRED: STUNNED]**
 
-"Inside," Sevish said. He jerked his chin at the crate where the kid still stood stiff against the wood. "Both of you."
+The weight left all at once and my legs shook as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish.
+
+"Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I gave them what they were asking for."
+
+Sevish said nothing, the axe loose in his fist, and I kept going before the quiet could set. "What I don't get is why anybody would start a fight inside this camp. We're all on the same side here." I spread my hands a little. "Yeah, I've got a sharp tongue. But it was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched."
+
+Sevish went completely still. Both gold tags flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. *"What now? Did I say something wrong?"*
+
+"Is that so?" Sevish said. He turned his head and let his eyes travel over the watchers one at a time. Nobody met them, and nobody spoke up to say otherwise, and that was an answer.
+
+"You killed two of my enforcers," he said, voice low and even. "Thrash has one rule above the rest. No fighting among our own. If it happened the way you say, that they picked on that kid and nobody stepped up but you, then you only held to the clan's own rule. They broke it first."
+
+He let that stand a moment. "But I can't excuse two dead men. I think it could have been settled without that."
+
+I kept my mouth shut and my hands where he could see them. Arguing wouldn't have helped, and I didn't have an argument that would.
+
+"And there's something else that's been troubling me," Sevish went on, his eyes flicking to Wyx and back. "A job. I think someone like you could handle it."
+
+A purple notification bloomed at the edge of my vision, the color pulling my eye at once.
+
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
+
+**[STAGE 1 OBJECTIVE COMPLETE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
+
+*"Stage one's done. Did I really just advance it?"*
+
+"Not here," Sevish said. He jerked his chin at the crate where the kid still stood stiff against the wood. "Inside. Both of you."
 
 Three goblins in real armor stepped out of the dark, not the rags everyone else wore but fitted leather and metal plates, weapons drawn and not yet raised. White tags floated above their heads, bright and clear. *"Real gear. These aren't like the two I just dropped."*
 
@@ -32,27 +46,9 @@ I ducked through, the kid right behind me, and the temperature dropped immediate
 
 Sevish's eyes went from me to the kid and back, taking his time before he spoke. The silence stretched, broken only by the crackle of the oil lamp and the distant sounds of camp life continuing outside.
 
-"Why step in?" he said, voice deep and rough, a voice that carried without getting loud. "A runt, two of my enforcers, and none of it yours."
-
-The kid made a small sound beside me, about to answer for himself, but I cut in before he could get a word out. I kept my hands open and visible on my thighs, my posture as non-threatening as I could manage while still ready to move if this went sideways. "Would've been peaceful if they'd let it. But I'm not about to watch goblins waste time on each other when there's clearly bigger shit to deal with."
-
-The moment the words left my mouth, Sevish went completely still. Beside him, Wyx's sharp eyes locked onto my face with an intensity that hadn't been there a second ago, her whole body gone alert. Both of their gold tags flickered at the edges, not changing to yellow or red, just flickering like a notification trying to fire and being held back.
-
-*"What now? Did I say something wrong?"*
-
-Sevish let out a short laugh, genuine and a little surprised. "Bigger problems than fighting each other." He glanced at Wyx, and something passed between them in that look that I couldn't read. When Sevish looked back at me, his expression had gone more serious, more considering. "That's the kind of thinking we've been missing around here."
-
-A purple notification bloomed at the edge of my vision, the color pulling my eye at once.
-
-**[WORLD QUEST UPDATED: CALL OF THE BONES]**
-
-**[STAGE 1 OBJECTIVE COMPLETE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
-
-*"Stage one's done. Did I really just advance it?"*
-
 Sevish stood up from his chair, slow and deliberate, the battle axe sliding into the sling across his back, and walked around the table with heavy steps that made the packed dirt floor creak. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
-"You killed two of my men," Sevish said, voice carrying absolute certainty. "Justified or not, that makes you a threat. I can't just let you walk out of here without knowing more." He paused, letting that sink in, then continued. "You have shown more in one fight than most of this camp has shown in weeks. Outside my sister." A nod toward Wyx, who was still watching me with that sharp, evaluating gaze. "So here's what I'm offering you."
+"I can't just let you walk out of here without knowing more," Sevish said, voice carrying absolute certainty. He paused, letting that sink in, then continued. "You have shown more in one fight than most of this camp has shown in weeks. Outside my sister." A nod toward Wyx, who was still watching me with that sharp, evaluating gaze. "So here's what I'm offering you."
 
 He laid it out plain and rough, no sugarcoating, just the facts.
 
@@ -146,7 +142,7 @@ This was where I'd be staying until I gave them an answer. *"Three days. I asked
 
 Outside the canvas walls, the camp kept moving around me, life going on whether I was part of it or not. Footsteps passed close to my tent, boots scuffing on the packed earth. Farther out, past the immediate camp sounds, a dog barked once and went quiet, answered a moment later by another bark from a different direction. Wind moved through the tree line beyond the camp boundary, branches creaking, and underneath that came the distant sound of something larger moving through the underbrush, probably some kind of wildlife I couldn't see from here.
 
-I pulled the two green vials out of a slot on the gadget belt and turned them over in my green hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
+I pulled the two green vials out of my inventory, and they materialized in my palm, and I turned them over in my green hands, watching the lamplight catch in the glass and make the liquid glow faintly. The number stamped beneath each one was clear and easy to read: ¥8,400.
 
 Plus whatever else I could farm with Gambler's Gambit once per day. I set the vials down carefully on the ground beside the bedroll so they wouldn't roll away. *"Not a bad first login."* I scrubbed a hand over the back of my neck, the skin there rougher than I was used to, and grinned at nothing for a second.
 
