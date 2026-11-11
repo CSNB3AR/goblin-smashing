@@ -80,13 +80,19 @@ Sevish stood up from his chair, slow and deliberate, the battle axe sliding into
 
 He laid it out plain and rough, no sugarcoating, just the facts.
 
-"Myrrhwood is hell right now. Gets worse every year. Shiv's been gone for nearly half a century and the clans have never found their footing again without his leadership. That's the real reason Wyx and I gathered people and came all the way out here to find what Shiv was hiding before he disappeared, and maybe bring that knowledge back to our people so we can actually survive what's coming."
+"Myrrhwood is hell right now. Gets worse every year. Shiv's been gone for nearly half a century and the clans have never found their footing again without his leadership. That's the real reason Wyx and I gathered people and came all the way out here to find what Shiv was hiding before he disappeared, and maybe bring that knowledge back to our people so we can actually survive what's coming. Thrash gave its land to another clan to make this trip. Every goblin in this camp left something behind. Bring the clans together the way they were, and nobody pushes us around again."
+
+"Shiv held every clan under one roof once," Wyx said, and her voice softened the way it did whenever she said his name. "I mean to see it again."
+
+*"Shiv. Never heard of him. Whoever he was, these two have bled for him."*
 
 I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on his face.
 
 "We've tried the rally three times now," Sevish continued, his tone matter-of-fact, not defensive. "Failed all three times. Couldn't get past the city guard and their allies."
 
-*"Three times. He says it like the number matters."*
+"Three that I can count," Wyx said quietly, her eyes on the map. "It feels like more." Sevish's mouth flattened, and he let it go.
+
+*"Three times. Three that she can count. They both say it like the number matters."*
 
 "Tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "Doesn't work, but what you did back there, moving through instead of fighting head-on, using terrain, that's not something anyone here can do. Could be what we need."
 
@@ -112,7 +118,7 @@ Sevish's gold tag flickered again, and so did Wyx's.
 
 The small sharp teeth of this new mouth caught against my lip. *"So I don't really get to say no. I only get to pick when."*
 
-Wyx spoke for the first time since we'd entered the tent, her voice dry and carrying a hint of warmth that didn't quite match the sharpness in her eyes. "He was entertaining, at least. That's worth something."
+Wyx spoke for the first time since we'd entered the tent, her voice dry and carrying a hint of warmth that didn't quite match the sharpness in her eyes. "Easy, brother. You'll scare off the first thing we've found in months that works." She turned her amber eyes on me. "He stood up for a runt over a bowl of stew. A goblin like that comes back." A beat. "And he's entertaining, at least. That's worth something."
 
 Before I could answer, the clock in the corner of my vision caught me, small and quiet and impossible to ignore once I'd looked.
 
