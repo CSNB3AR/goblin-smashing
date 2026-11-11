@@ -1,10 +1,12 @@
 # Chapter Six
 
+The stun had me locked in a crouch with a vial in each fist, and my head was the only thing that would move. I dragged it up the length of him until I was looking Sevish in the eye. He didn't blink. The axe in his fist shifted a finger's width, and the silence pressed harder than the stun did.
+
+My mouth still worked. I ran my tongue over my sharp little teeth and went with the only move I had left.
+
 "Your enforcers picked on a kid, and I picked a fight with them," I said. "I'd do it again."
 
-The words were out before I'd decided whether they were smart. The axe in Sevish's fist shifted a finger's width, and the silence that followed pressed harder than the stun did.
-
-I kept talking, since my mouth was the only part of me still working. "Two on one, over a bowl of stew. I got between them and told them to back off, and they came at me anyway. Nobody else's tag turned. Just theirs. Ask whoever was standing there."
+The words were out before I'd decided whether they were smart, so I kept going before anyone could answer. "Two on one, over a bowl of stew. I got between them and told them to back off, and they came at me anyway. Nobody else's tag turned. Just theirs. Ask whoever was standing there."
 
 "Nobody needs to ask," Wyx said, dry and unhurried, one hand still resting on the skull at her hip. "I came out in time to see two of ours hunting a stranger through camp with a blade half drawn." Her amber eyes slid to Sevish. "Thrash doesn't draw on Thrash. Your enforcers broke that long before he did anything."
 
