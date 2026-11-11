@@ -194,7 +194,7 @@ A small notification flickered at the edge of my vision, there one second before
 
 Below it, smaller and quieter, a second one:
 
-**[AFFILIATION: WYX THRASH - 0% → 4%]**
+**[AFFILIATION: WYX THRASH - 4% → 8%]**
 
 I caught the second one. Wyx's eyes had settled on me the moment I'd said Shiv's name, and they hadn't fully left since. I filed it away and kept my eyes on Sevish.
 

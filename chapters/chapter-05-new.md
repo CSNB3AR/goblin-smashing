@@ -44,6 +44,20 @@ I ducked through, the kid right behind me, and the temperature dropped immediate
 
 Sevish's eyes went from me to the kid and back, taking his time before he spoke. The silence stretched, broken only by the crackle of the oil lamp and the distant sounds of camp life continuing outside.
 
+"Name," Sevish said, voice deep and rough, a voice that carried without getting loud. "I know every goblin who has walked through this camp, and I have never seen your face. Where did you come from?" He tipped his head. "Are you new here?"
+
+*"New here. This is the goblin spawn, and nobody played goblin in the beta because the stats were garbage. I'm the first stranger this camp has ever had."* I weighed what he could actually follow. Pods and character creation were out, and the true answer in his terms was short.
+
+"T-Drag," I said. "I woke up by your fire pit tonight. I don't know how I got there."
+
+"Woke up," Sevish repeated, turning the words over. "T-Drag." He glanced at Wyx.
+
+She said nothing. Her amber eyes hadn't left me since the stew, and the corner of her mouth moved, not quite a smile. A small notification flickered at the edge of my vision and faded.
+
+**[AFFILIATION: WYX THRASH - 0% → 4%]**
+
+*"Affiliation, on a first meeting? That's not supposed to move this fast."*
+
 Sevish stood up from his chair, slow and deliberate, the battle axe sliding into the sling across his back, and walked around the table with heavy steps that made the packed dirt floor creak. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
 "I can't just let you walk out of here without knowing more," Sevish said, voice carrying absolute certainty. He paused, letting that sink in, then continued. "You have shown more in one fight than most of this camp has shown in weeks. Outside my sister." A nod toward Wyx, who was still watching me with that sharp, evaluating gaze. "So here's what I'm offering you."
@@ -104,9 +118,15 @@ Sevish and Wyx were both looking at me strangely now, their expressions sliding 
 
 *"Right. They can't hear Leon. All they see is me talking to empty air. Great first impression, the new guy talks to himself."*
 
+"Who are you speaking to?" Wyx asked, her head tilting a degree.
+
+"A voice. It comes and goes." It was close enough to true.
+
+"Spirits do that," she said, and let it go, though her eyes stayed on me a beat longer than the answer needed.
+
 "I need a few days," I said out loud, aiming the words at Sevish this time. "Three days to think about this and figure out my next move."
 
-"You can have them," Sevish said, and his tone made it clear that wasn't a negotiation, it was a decision he'd already made. "But you're staying in camp while you think."
+"You can have them, T-Drag," Sevish said, and his tone made it clear that wasn't a negotiation, it was a decision he'd already made. "But you're staying in camp while you think."
 
 Two guards stepped forward from where they'd been standing just inside the tent entrance, moving into flanking positions on either side of me without being told to, their movements smooth and practiced.
 

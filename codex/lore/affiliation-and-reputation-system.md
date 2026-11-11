@@ -1,6 +1,6 @@
 # Affiliation & Reputation System
 
-**Status:** New mechanic, distinct from and layered on top of the already-locked Karma/Alignment axis (see `codex/lore/preserved-misc-mechanics.md`). First lands on the page in Chapter 8.
+**Status:** New mechanic, distinct from and layered on top of the already-locked Karma/Alignment axis (see `codex/lore/preserved-misc-mechanics.md`). The clan meter first lands on the page in Chapter 8, but an individual NPC's meter shows up much earlier: Wyx's ticks 0% to 4% in Chapter 6, because she finds him interesting from the first meeting (author-stated).
 
 ## Two separate axes, do not conflate them
 
