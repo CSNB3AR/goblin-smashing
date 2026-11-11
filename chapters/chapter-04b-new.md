@@ -1,6 +1,8 @@
 # Chapter Five: Who Did All This?
 
-Short, choppy strides, my short legs stretching out with every burst, each push shooting up through my thighs, the wind raking my hair back. I cut between the big tent and a smaller pale one, and the firelight strobed across the canvas as I passed. I'd never felt this quick running in real life. *"I could get used to this."* The Speed points weren't just a number on the sheet.
+The blade split the air an inch behind my ear.
+
+I didn't look back. Short, choppy strides, my short legs stretching out with every burst, each push shooting up through my thighs, the wind raking my hair back. I cut between the big tent and a smaller pale one, and the firelight strobed across the canvas as I passed. I'd never felt this quick running in real life. *"I could get used to this."* The Speed points weren't just a number on the sheet.
 
 The glow thinned out the farther I got from the fires, and my eyes took a second to catch up with the dark. Behind me there were only two silhouettes, thrown long by the firelight and still coming. Cover in a camp was whatever was lying around: barrels, crates, four tents huddled around the big one. I ducked in beside a stack of barrels and waited. The boots had fallen behind. I'd put real distance on two enforcers at a full sprint.
 

@@ -194,8 +194,10 @@ I focused on it and a panel opened beside the bigger one's head.
 
 Every other tag in sight stayed white. *"Nobody else is hostile. Good. Just these two."*
 
-The bigger enforcer's blade slid out of its sheath. I had two skills I'd never used, no idea how either one worked, and nowhere to hide.
+The bigger enforcer's blade slid out of its sheath. I had two skills I'd never used and no idea how either one worked.
 
-I turned and ran.
+*"Run."*
+
+I bolted, and boots hammered the dirt right behind me as I darted past the first tent. One wrong step and that blade would put me on the ground, dead on my first night, locked out of the game before I'd earned a single yen.
 
 **[END CHAPTER FOUR]**
