@@ -334,7 +334,7 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 **[ROLL GAMBLER'S GAMBIT? YES / NO]**
 
-*"Here it is."* This was what I'd spent the point on, and I'd never seen it work. I caught myself leaning toward the prompt, same as I had with the box. *"Roll for what, though? Loot? Quality? Okay. First roll. Let's find out."*
+This was what I'd spent the point on, and I'd never seen it work. I caught myself leaning toward the prompt, same as I had with the box. *"Roll for what, though? Loot? Quality? Okay. First roll. Let's find out."*
 
 *"Yes."*
 
