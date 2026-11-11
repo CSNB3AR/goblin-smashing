@@ -218,27 +218,33 @@ I brought up my skills menu with a thought, to see what I had.
 
 **[Releases a cloud of noxious gas around the user. Poison damage over time, stacks up to 4x. Reduces visibility. Can be ignited for increased effect. Chance to stun. WARNING: User is not immune.]**
 
-**[COOLDOWN: 45 SECONDS]**
+**[STAMINA COST: 10]**
 
-*"Useful. But how do I trigger it?"* I'd watched players fire off skills a hundred times, but this game was real. No weapon, no arrow to draw, nothing to channel it through. No time to figure it out gently, either.
+**[COOLDOWN: 30 SECONDS]**
+
+*"Useful. But how do I trigger it? And a 30 second cooldown, that's brutal."* I'd watched players fire off skills a hundred times, but this game was real. No weapon, no arrow to draw, nothing to channel it through. No time to figure it out gently, either.
 
 I cut back around the tent into the middle of the camp and tried. I shoved at the ability with my head, then my gut, and the name lit up in my vision.
 
 **[GOBLIN GAS]**
 
+**[COOLDOWN: 30 SECONDS]**
+
 Pressure built low, sudden and mortifying, and the gas leaked out late and in the wrong place, a thin green puff hanging behind where they'd been a half-second ago.
 
 The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The goblins watching laughed with them. Behind a crate, the kid clutched his bowl and stared at me like I'd lost my mind. My goblin ears went hot.
 
-*"Alright. Laugh."* Poison stacked four times, with a chance to stun. I opened the other skill.
+*"Alright. Laugh. Land that cloud on them and it's four poison stacks, with a stun chance on every one."* I opened the other skill.
 
 **[GOBLIN FLARE - EMERGENCY SIGNAL]**
 
 **[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Damage: 2.]**
 
-*"Two damage. But it's fire, and the gas says it can be ignited."*
+**[STAMINA COST: 5]**
 
-**[COOLDOWN: 45 SECONDS]**
+**[COOLDOWN: 30 SECONDS]**
+
+*"Two damage. But it's fire, and the gas says it can be ignited."*
 
 I broke left behind the biggest tent and pressed into its shadow for half a breath, timing the gaps between their steps. Then I cut around a smaller tent and wrapped back toward the big one. The enforcers followed, calling me names, dumb with confidence.
 
@@ -250,7 +256,7 @@ The watching goblins started calling out to each other, half cheer, half joke.
 
 *"Oh, y'all think this is funny. Cool."*
 
-**[COOLDOWN: 30 SECONDS. 25. 20.]**
+**[COOLDOWN: 14 SECONDS. 13. 12.]**
 
 I dashed for the big tent where she stood, the long diagonal of the Z. One enforcer stayed on my heels. The other cut across to head me off and planted himself in my way. "You're not going anywhere, you little runt." The number in my vision hit zero.
 
@@ -280,13 +286,15 @@ Smoke rolled across the ground and stung my eyes. I reached into a pocket on my 
 
 **[GOBLIN FLARE]**
 
-I threw it low and fast, flicking my hand like I was pulling a trigger.
+I threw it underhand onto the cloud, and it dropped into the gas.
 
-The flare never reached them. The gas caught the instant it touched the cloud, and the blast came out bigger than I'd bet on. It hit my chest from fifteen feet away and lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
+The gas caught the instant the flame touched it, and the blast came out bigger than I'd bet on. It hit my chest from fifteen feet away and lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
 
 **[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
 
 **[CRITICAL HIT]**
+
+Two red numbers burst over their heads, **[96]** and **[94]**, and their health bars were empty before the numbers finished rising.
 
 **[COMBAT KILL: THRASH CLAN ENFORCER x2]**
 
@@ -300,15 +308,41 @@ The flare never reached them. The gas caught the instant it touched the cloud, a
 
 Nobody was laughing anymore.
 
-I stood there with my ears ringing, staring at two bodies that weren't moving, smoke rising off them in thin trails. The kid stood frozen by the crate with the bowl still against his chest. *"Holy shit. That actually worked."* My hands trembled when I looked down at them.
+Smoke rose off the two bodies in thin trails and my ears rang. The five or six goblins who'd been watching had gone dead silent. The kid stood frozen by the crate with the bowl clutched to his chest, his mouth hanging open. At the big tent, Wyx hadn't moved, arms still loose at her sides, but her eyes had gone sharp, and they were on me, not the bodies.
 
-I hadn't meant to kill anybody. The quiet where the laughing had been sat wrong with me. Gas, a closed space, a stun that kept rolling, and Fortune on top of it. *"A crit build."* Not the Spellforger. But something to build on.
+*"Holy shit! That actually worked!"* A laugh burst out of me, and I looked down at my hands, shaking, my whole body buzzing.
 
-*"Four. Two from the screen I never got to use."* I dropped them into Wisdom and Speed. More of a guess than a plan. I'd find out what they did.
+"Y-you b-blew them up," the kid whispered.
+
+"Yeah. I kinda did." I was grinning. I couldn't stop.
+
+Then the buzz settled, and one thing kept snagging. *"Four crits. Back to back to back to back. That's not normal."* I pulled up my sheet and found Fortune.
+
+**[FORTUNE: 12]**
+
+**[Luck and probability. Affects critical hit chance, loot quality, random-event success, and how gambles land.]**
+
+*"Crit chance. I didn't know it did that."* Every stat had a combat side, and I hadn't been reading them that way. Gas that stuns, Fortune on the crits. Not the Spellforger, but something to build on.
+
+*"Four points. Two from the screen I never got to use."* I didn't have long, and I thought it through fast. *"Wisdom. Two of it isn't casting anything, and I'm not giving up on magic. Speed, too. Bulky isn't happening in this body. Hard to catch is the whole plan, and the way I just moved felt right."* Two into each.
 
 **[Speed: 9]**
 
 **[Wisdom: 4]**
+
+*"Four. Still short of six, but closer."*
+
+Something hummed against my ear, and a prompt opened in front of me.
+
+**[ROLL GAMBLER'S GAMBIT? YES / NO]**
+
+*"Yes."*
+
+A die dropped into my hands, bronze, the pips worn smooth like the one in my ear, only so big I needed both hands to hold it. I tossed it up, and it swelled as it tumbled through the air, pips glowing, until it hit the dirt with a heavy thud, rolled once, and settled.
+
+**[ROLL: 5]**
+
+**[GAMBLER'S GAMBIT: FORTUNE CHECK PASSED]**
 
 **[SCAVENGER'S EYE: ITEMS OF VALUE NEARBY]**
 
@@ -328,12 +362,8 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 *"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me.
 
-A gold-bordered notification bloomed beneath the item description, brighter than the white text around it.
-
-**[GAMBLER'S GAMBIT PROC: FORTUNE CHECK PASSED]**
-
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
-Then the laughing died. I looked up and the whole camp had gone still, every goblin turned my way, and from somewhere behind me came the slow, heavy tread of boots.
+More goblins had gathered at the edge of the firelight, Wyx still at the big tent, and from somewhere behind me came the slow, heavy tread of boots.
 
 **[END CHAPTER FOUR]**
