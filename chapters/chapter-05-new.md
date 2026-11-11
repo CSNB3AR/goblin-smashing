@@ -14,7 +14,9 @@ Sevish said nothing, the axe loose in his fist, and I kept going before the quie
 
 A murmur ran through the watchers and died. One goblin took a step back. Another stared at me like I'd walked up and slapped the chieftain, and beside the crate the kid made a thin, scared sound, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it.
 
-Sevish went completely still. Both gold tags flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, and he planted the butt of the axe in the dirt. "Hah. This one has a mouth." His grin showed teeth. "I like it."
+"He has a smart tongue on him," she said, pitched low, just loud enough to carry. "I like him."
+
+Sevish went completely still. Both gold tags flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, and he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
 The grin thinned. "If it happened how you say, we've got no problem. Thrash has one rule above the rest. No fighting among our own. But who says I can trust you? Who says it went the way you tell it? All I know is I came out and saw an explosion and two of my men dead by your hand." His eyes went over the watchers, then to the crate. "Those two don't get back up. Dead is dead. Any witnesses?"
 
