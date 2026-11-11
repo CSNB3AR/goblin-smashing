@@ -20,7 +20,7 @@ The woman's nameplate appeared a second later when my eyes tracked to her.
 
 **[WYX THRASH - LEVEL 25]**
 
-*"Eighty and twenty-five. I'm level two. One wrong word and I'm dead."*
+*"Eighty and twenty-five. I'm level three. One wrong word and I'm dead."*
 
 Sevish's eyes went from me to the kid and back, taking his time before he spoke. The silence stretched, broken only by the crackle of the oil lamp and the distant sounds of camp life continuing outside.
 
