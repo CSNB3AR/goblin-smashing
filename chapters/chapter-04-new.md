@@ -196,17 +196,23 @@ I focused on it and a panel opened beside the bigger one's head.
 
 Every other tag in sight stayed white. *"Nobody else is hostile. Good. Just these two."*
 
-I turned and ran from the middle of camp, short choppy strides, but lighter than I had any right to be. *"Speed's doing work. Okay, that's actually clean."* I ducked under a guy-line that cleared my head by a foot and caught them across the chest, then cut left between two tents at an angle they'd have to widen out to follow. The wind had picked up, snapping the canvas and pushing the fires low, and the dark between the tents swallowed the glow. Boots pounded right behind me.
+I turned and ran from the middle of camp. Short, choppy strides, my short legs stretching out with every burst, each push shooting up through my thighs, the wind raking my hair back. I cut between the big tent and a smaller pale one, and the firelight strobed across the canvas as I passed. I'd never felt this quick running in real life. *"I could get used to this."* The Speed points weren't just a number on the sheet.
 
-I couldn't die here. The 72-hour death lock surfaced in my mind, something I'd skimmed in the license screen before I pressed accept. *"One mistake and I'm done."*
+The glow thinned out the farther I got from the fires, and my eyes took a second to catch up with the dark. Behind me there were only two silhouettes, thrown long by the firelight and still coming. Cover in a camp was whatever was lying around: barrels, crates, four tents huddled around the big one. I ducked in beside a stack of barrels and waited. The boots had fallen behind. I'd put real distance on two enforcers at a full sprint.
 
-I brought up my skills menu with a thought, two icons waiting.
+I looked down at my rags, and at the bare feet under them. The adrenaline had been covering for me, and now that I'd stopped the soles stung, raw from the dirt and gravel. *"I need shoes. I can't run barefoot much longer."*
+
+It all felt real, the sting in my feet, the cold air in my lungs. I'd bet on this game without a word to Gato about stepping back from WattsUp, I'd hardwired a pod behind Leon's back to get in, and I was still having the time of my life. *"But I can't forget why I'm here. Time to get serious."* One mistake and the death lock, the 72 hours I'd skimmed in the license screen, would put me out.
+
+Voices murmured somewhere past the tents, the watchers passing it along. I strained after it and caught nothing, not one word. The only thing that came through clear was boots landing in the mud, closing in again.
+
+I brought up my skills menu with a thought, to see what I had.
 
 **[GOBLIN GAS]**
 
 **[GOBLIN FLARE]**
 
-I focused on Goblin Gas mid-stride and the description expanded.
+*"Goblin Gas sounds useful."* I focused on it and the description expanded.
 
 **[GOBLIN GAS - RADIUS EFFECT]**
 
@@ -214,7 +220,7 @@ I focused on Goblin Gas mid-stride and the description expanded.
 
 **[COOLDOWN: 45 SECONDS]**
 
-*"Useful. But how do I trigger it?"* No weapon, no arrow to draw, nothing to channel it through. No time to figure it out gently, either.
+*"Useful. But how do I trigger it?"* I'd watched players fire off skills a hundred times, but this game was real. No weapon, no arrow to draw, nothing to channel it through. No time to figure it out gently, either.
 
 I cut back around the tent into the middle of the camp and tried. I shoved at the ability with my head, then my gut, and the name lit up in my vision.
 
@@ -234,7 +240,7 @@ The enforcers split around it without slowing down, and then they started laughi
 
 **[COOLDOWN: 45 SECONDS]**
 
-I broke left behind the biggest tent in the camp and pressed into its shadow for half a breath, listening to their boots hit the dirt, timing the gaps between steps. Then back around the stew pot, the goblin tending it stepping aside, spoon still in hand. The enforcers followed, calling me names, dumb with confidence.
+I broke left behind the biggest tent and pressed into its shadow for half a breath, timing the gaps between their steps. Then I cut around a smaller tent and wrapped back toward the big one. The enforcers followed, calling me names, dumb with confidence.
 
 Somewhere off to my left a tent flap snapped open and a goblin stepped out, wild green hair catching the firelight, copper rings glinting in her ears, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, without any visible concern.
 
@@ -246,9 +252,9 @@ The watching goblins started calling out to each other, half cheer, half joke.
 
 **[COOLDOWN: 30 SECONDS. 25. 20.]**
 
-I zigzagged back across the open ground toward the middle of the camp, the long diagonal of the Z. The number in my vision hit zero.
+I dashed for the big tent where she stood, the long diagonal of the Z. One enforcer stayed on my heels. The other cut across to head me off and planted himself in my way. "You're not going anywhere, you little runt." The number in my vision hit zero.
 
-The fires sank lower and the camp went darker, the cold wind raking the sweat on my neck. I let them close in behind me, close enough that I felt their breath on it. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
+I dropped and slid between his legs, dirt scraping up my back, and came up behind him with both of them turning, bunched together a stride away. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
 
 **[GOBLIN GAS]**
 
