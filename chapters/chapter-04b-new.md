@@ -178,7 +178,7 @@ The number hadn't even finished registering when a chill swept through me, scalp
 
 The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
 
-*"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my claws.
+I tried my legs, then my arms, then my claws. Nothing answered. *"So that's what a stun feels like from the other side."*
 
 The flap tore aside and a goblin stepped out into the firelight. The enforcers had been big. He made them look like children, a head taller and broad enough to fill the tent mouth, red-orange skin, a rune etched into his brow, tusks jutting from his lower jaw, two heavy braids over the shoulders of a red wrap, a battle axe hanging from one scarred fist like it weighed nothing. No goblin I'd seen in this camp was built like that. Wyx stood off to one side, tall and lean, arms loose, green eyes on me, untouched by the howl. She hadn't needed to come out. She'd already seen all of it. Two gold tags blazed in the dark.
 
