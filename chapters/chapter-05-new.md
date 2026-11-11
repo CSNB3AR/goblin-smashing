@@ -1,10 +1,14 @@
 # Chapter Six
 
-The stun held me in a crouch, every muscle pinned flat, and the vials had already vanished into my inventory the second I'd claimed them, so my fists closed on nothing. Only my head would move. The force of it kept pressing straight down on me, and the icon in the corner of my vision ticked toward its end, six seconds from the first roar to the last.
+The roar had hit before I'd had a chance to enjoy the money I'd just made, and now I was locked in a crouch with only my head free to move. A status icon had popped into the top of my vision, and I had to look up to read it.
 
-*"Six seconds, and I can't lift a finger. Cliffs and a waterfall behind the camp, one narrow track down the hill, and between me and it two gold tags and twenty goblins, easy. I'd never make it out alive."* The last of the timer drained while I turned it over. *"So running's out. Too many witnesses to lie, and a lie wouldn't buy me anything anyway. I tell it straight and hope that's enough."*
+**[STATUS EFFECT: IMMOBILIZED - 6s]**
 
-**[DEBUFF EXPIRED: STUNNED]**
+*"Immobilize, not a root. A root only pins your feet. This took all of me, and it came in through my ears."* The icon ticked to five. Beside the crate, the icon over the kid's head read twelve, double mine. *"Weaker body, longer lock? Or NPCs just get hit harder? No way to tell."* I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same. *"Too far under their level to read either of them."*
+
+The icon ticked to three. *"One way in, one way out, and I already mapped it. It runs straight through two gold tags and twenty goblins. Run, and I get cut down and sent back to a Cathedral, the respawn point in any major town. Only three of them in Lunarest outside the capital."* The lock that came after was the real cost. *"Seventy-two hours with ¥16,800 of vials I can't put on the board. The Gambit works, so I know I can make money this way, and I'm not dying before I prove it to Chiyo. Think."*
+
+**[STATUS EFFECT EXPIRED: IMMOBILIZED]**
 
 The weight left all at once and my legs shook as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. She'd watched the whole thing. One wrong detail from me and she'd correct it, or someone would. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish.
 

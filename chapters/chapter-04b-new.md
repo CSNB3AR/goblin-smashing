@@ -174,7 +174,7 @@ The number hadn't even finished registering when a chill swept through me, scalp
 
 **[SKILL: CHALLENGING HOWL]**
 
-**[DEBUFF: STUNNED]**
+**[STATUS EFFECT: IMMOBILIZED]**
 
 The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
 
