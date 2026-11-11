@@ -320,7 +320,7 @@ Then the buzz settled, and one thing kept snagging. *"Four crits. Back to back t
 
 **[Luck and probability. Affects critical hit chance, loot quality, and the odds on random events.]**
 
-*"Crit chance. I didn't know it did that."* Every stat had a combat side, and I hadn't been reading them that way. Gas that stuns, Fortune on the crits. Not the Spellforger, but something to build on.
+*"Crit chance. I didn't know it did that."* Gas that stuns, Fortune on the crits. Not the Spellforger, but something to build on.
 
 *"Four points to spend."* I didn't have long, so I thought it through fast. *"Speed first. Bulky isn't happening in this body, and hard to catch is the whole plan. The way I just moved felt right, and I want more of it. Then Wisdom. Two of it isn't casting anything, and I'm not giving up on magic."* Two into each.
 
