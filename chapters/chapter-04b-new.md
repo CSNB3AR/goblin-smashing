@@ -54,7 +54,7 @@ The enforcers split around it without slowing down, and then they started laughi
 
 I broke left behind the biggest tent and pressed into its shadow for half a breath, timing the gaps between their steps. Then I cut around a smaller tent and wrapped back toward the big one. The enforcers followed, calling me names, dumb with confidence.
 
-Somewhere off to my left a tent flap snapped open and a goblin stepped out, black hair pulled high and wild around a bone clasp, red markings running down her face and arms, a necklace of fangs, a skull swinging from her belt, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her amber eyes found me immediately, without any visible concern.
+Somewhere off to my left a tent flap snapped open and a goblin stepped out, dark brown skin lit orange by the fires, black hair piled high and wild around a curved bone clasp, the rest falling past her shoulders. Red markings ran down her face from a diamond glyph on her forehead, and along her arms and stomach in the same blocky lines. A necklace of fangs lay against her chest over a gray top knotted at the front, a skull swung from her belt, and her arms hung loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her amber eyes found me immediately, without any visible concern.
 
 *"Gold. Someone important. And she's not stepping in."*
 
@@ -180,7 +180,9 @@ The watching goblins froze mid-step. The kid went rigid against the crate, the b
 
 *"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my fingers.
 
-The flap tore aside and a goblin stepped out into the firelight. The enforcers had been big. He made them look like children, a head taller and broad enough to fill the tent mouth, green skin, a short black beard, long black hair falling in two heavy braids tied off with red ribbon, a burgundy vest hanging open over a white shirt, swirling dark markings up one forearm, a battle axe hanging from one fist like it weighed nothing. No goblin I'd seen in this camp was built like that. Wyx stood off to one side, tall and lean, arms loose, amber eyes on me, untouched by the howl. She hadn't needed to come out. She'd already seen all of it. Two gold tags blazed in the dark.
+The flap tore aside and a goblin stepped out into the firelight. The enforcers had been big. He made them look like children, a head taller and broad enough to fill the tent mouth, his chest and shoulders packed with muscle under a burgundy vest that hung open over a white shirt, the collar loose, one sleeve rolled back past the elbow. His skin was a deep, muted green, and swirling dark markings wound up the bare forearm. A short black beard and mustache framed a mouth set hard, and under heavy brows his amber eyes didn't blink. Black hair fell past his shoulders in two thick braids tied off with red ribbon, the rest hanging loose behind him. A ring and a bead glinted in one pointed ear, a small tooth hung on a cord at his throat, and a brass-buckled belt cinched a dark sash at his waist. A battle axe hung from one fist like it weighed nothing. No goblin I'd seen in this camp was built like that.
+
+Wyx stood off to one side where she'd watched the whole fight, tall and strong, one hand resting on the skull at her hip, untouched by the howl. Small tusks showed at the corners of her closed mouth, and rings and hanging teeth lined her pointed ears. A spiked bone guard wrapped one shoulder and arm, leather bands bound the other, fur trimmed her belt, and a torn cloak hung off her back. Her amber eyes were on me, half-lidded, in no hurry at all. She hadn't needed to come out. She'd already seen all of it. Two gold tags blazed in the dark.
 
 **[SEVISH THRASH: LV 80]**
 
