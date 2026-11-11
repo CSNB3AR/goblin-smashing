@@ -48,6 +48,8 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 **[Courage: 4 | Power: 4 | Wisdom: 2 | Speed: 7 | Fortune: 9 | Energy: 4]**
 
+**[UNSPENT POINTS: 2]**
+
 *"Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two Wisdom. Damn, they really got me sitting here dumb as hell."*
 
 The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I swiped the panel shut harder than I needed to, and the hologram folded away.
