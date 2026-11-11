@@ -1,8 +1,10 @@
 # Chapter Six
 
-"They had the kid backed against that crate," I said, and my voice came out steadier than I was. "Two on one, over a bowl of stew. I got between them and told them to back off. They came at me anyway."
+"Your enforcers picked on a kid, and I picked a fight with them," I said. "I'd do it again."
 
-Sevish said nothing. The weight he'd laid over the camp kept pressing on every word, so I kept talking, since my mouth was the only part of me still working. "Nobody else's tag turned. Just theirs. Ask whoever was standing there."
+The words were out before I'd decided whether they were smart. The axe in Sevish's fist shifted a finger's width, and the silence that followed pressed harder than the stun did.
+
+I kept talking, since my mouth was the only part of me still working. "Two on one, over a bowl of stew. I got between them and told them to back off, and they came at me anyway. Nobody else's tag turned. Just theirs. Ask whoever was standing there."
 
 "Nobody needs to ask," Wyx said, dry and unhurried, one hand still resting on the skull at her hip. "I came out in time to see two of ours hunting a stranger through camp with a blade half drawn." Her amber eyes slid to Sevish. "Thrash doesn't draw on Thrash. Your enforcers broke that long before he did anything."
 
