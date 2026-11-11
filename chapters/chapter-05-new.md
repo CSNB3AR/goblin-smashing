@@ -4,7 +4,7 @@ The roar had hit before I'd had a chance to enjoy the money I'd just made. Now m
 
 **[STATUS EFFECT: IMMOBILIZED - 6s]**
 
-*"HGO's got a dozen ways to lock somebody down. Roots, quicksand, worse. I watched them all on streams, and no clip said it would feel like this."* It was the first time the game had flat out overruled my own body. It was weird, and it wasn't a screen effect I could shrug off. My body believed it.
+Every MMORPG I'd ever followed had roots and things like that, but nothing in the guides said any of it would feel like this. It was the first time the game had flat out overruled my own body. It was weird, and it wasn't a screen effect I could shrug off. My body believed it. I guess that was probably why HGO ranked among the best games out, even in the closed beta.
 
 The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
