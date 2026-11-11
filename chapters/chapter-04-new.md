@@ -334,7 +334,7 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 **[ROLL GAMBLER'S GAMBIT? YES / NO]**
 
-*"Let's see what this skill does. Or if I wasted a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"A shot at Rare loot. Only one way to find out."*
+*"Let's see what this skill does. Or if I wasted a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"A loot roll. Only one way to find out."*
 
 *"Yes."*
 
@@ -360,13 +360,11 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[ITEM CLAIMED: MINOR ELIXIR x2 - UNCOMMON]**
 
-**[GAMBLER'S GAMBIT: LOOT QUALITY RAISED]**
-
 **[RESTORES 30 MANA]**
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"Wait. Quality raised. So that's what a five does. It bumps the drop."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
+*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"So that's the roll. Five, and the loot drops."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
