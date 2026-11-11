@@ -108,9 +108,11 @@ Two red numbers burst over their heads, **[96]** and **[94]**, and their health 
 
 **[LEVEL UP: 2]**
 
+**[LEVEL UP: 3]**
+
 **[ATTRIBUTE POINTS AVAILABLE: 4]**
 
-**[HEALTH: 50/50] [STAMINA: 0/25] [MANA: 25/25]**
+**[HEALTH: 53/53] [STAMINA: 0/25] [MANA: 25/25]**
 
 Smoke rose off the two bodies in thin trails and my ears rang. The five or six goblins who'd been watching had gone dead silent. The kid stood frozen by the crate with the bowl clutched to his chest, his mouth hanging open. At the big tent, Wyx hadn't moved, arms still loose at her sides, but her eyes had gone sharp, and they were on me, not the bodies.
 
@@ -186,14 +188,18 @@ The flap tore aside and a goblin stepped out into the firelight. The enforcers h
 
 **[WYX THRASH: LV 25]**
 
-*"Eighty. Twenty-five. I'm level two."*
+*"Eighty and twenty-five. I'm level three."*
 
 "Who did all this?" Sevish's voice wasn't loud. After the roar, it didn't need to be.
 
 Nobody answered. His gaze crossed the scorched ground and what was left of the two enforcers, then the watchers, and stopped on me.
 
-*"No. No, no. Don't look at me."* I'd killed two of their people in their own camp, and I couldn't even run. *"If they put me down here, that's 72 hours I can't spare."* My mind screamed at my legs, and they didn't answer.
+*"Okay. This is bad."* I'd just wiped out two of his people in the middle of his camp, and I couldn't move a claw. But they'd shoved a kid around first, two on one, over a bowl of stew, and I hadn't done anything I couldn't explain. *"I'm not in the wrong here. I can explain this."* My mouth still worked, even if nothing else did. The worry sat in anyway. If he decided I was the problem, I'd die on my first night, and the death lock would take 72 hours I didn't have.
 
-Sevish started toward me, the axe swinging low at his side, each step slow and unhurried.
+Sevish stopped an arm's length from me, the axe's shadow lying across the dirt at my feet.
+
+"Speak," he said. "And choose your words carefully."
+
+*"One shot. Make it count."* I opened my mouth.
 
 **[END CHAPTER FIVE]**
