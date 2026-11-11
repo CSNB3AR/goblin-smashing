@@ -168,7 +168,9 @@ I closed the gap and shoved the nearer one in the chest, short and hard. He stum
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
-"Only mistake I made was not plugging my nose before I came over here," I said, waving a hand in front of my face like somebody had just let one go, a grin pulling at the corner of my mouth. The adrenaline was talking, and I let it. "Y'all smell like absolute dog shit."
+His voice pulled me out of my head and back into the circle. I crossed my arms, claws tucked against my ribs, and looked up at him. Looking up at people still didn't sit right. But I was getting a feel for the body, where the weight sat, how it wanted to stand.
+
+"Only mistake I made was not plugging my nose before I came over here," I said, uncrossing an arm to wave a hand in front of my face like somebody had just let one go, a grin pulling at the corner of my mouth. The adrenaline was talking, and I let it. "Y'all smell like absolute dog shit."
 
 A snort went through the ring behind them. Then a real laugh, then another. The bigger goblin's face went dark, the second one's ears flushed red in the firelight, and he barked a short, mean laugh with nothing funny in it.
 
