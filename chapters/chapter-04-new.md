@@ -246,7 +246,7 @@ The enforcers split around it and started laughing. "Look at this one!" "The run
 
 I broke left behind the biggest tent, then cut around a smaller one and wrapped back toward the big one. The enforcers followed, calling me names, dumb with confidence.
 
-Off to my left a tent flap snapped open and a goblin stepped out, wild green hair catching the firelight, copper rings glinting in her ears, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, without any visible concern.
+Off to my left a tent flap snapped open and a goblin stepped out, wild green hair catching the firelight, copper rings glinting in her ears, a quiver across her back, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, without any visible concern.
 
 *"Gold. Someone important. And she's not stepping in."*
 
@@ -370,13 +370,13 @@ The watchers froze mid-step. The kid went rigid against the crate.
 
 *"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my claws.
 
-The flap tore aside and Sevish stepped out into the firelight. The enforcers had been big. He made them look like children, a head taller and broad enough to fill the tent mouth, a battle axe hanging from one fist like it weighed nothing. No goblin I'd seen in this camp was built like that. Wyx stood off to one side, tall and lean, untouched by the howl. She'd watched the whole fight and hadn't needed to come out. Two gold tags blazed in the dark.
+The flap tore aside and a goblin stepped out into the firelight. The enforcers had been big. He made them look like children, a head taller and broad enough to fill the tent mouth, red-orange skin, a rune etched into his brow, tusks jutting from his lower jaw, two heavy braids over the shoulders of a red wrap, a battle axe hanging from one scarred fist like it weighed nothing. No goblin I'd seen in this camp was built like that. Wyx stood off to one side, green eyes on me, untouched by the howl. She'd watched the whole fight and hadn't needed to come out. Two gold tags blazed in the dark.
 
 **[SEVISH THRASH: LV 80]**
 
-**[WYX THRASH: LV 75]**
+**[WYX THRASH: LV 25]**
 
-*"Eighty. Seventy-five. I'm level two."*
+*"Eighty. Twenty-five. I'm level two."*
 
 "Who did all this?" Sevish's voice wasn't loud. After the roar, it didn't need to be.
 
