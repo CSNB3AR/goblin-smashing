@@ -234,7 +234,7 @@ Pressure built low, sudden and mortifying, and the gas leaked out late and in th
 
 The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The goblins watching laughed with them. Behind a crate, the kid clutched his bowl and stared at me like I'd lost my mind. My goblin ears went hot.
 
-*"Alright. Laugh. Land that cloud on them and it's four poison stacks, with a stun chance on every one."* I opened the other skill.
+*"Okay. That's an unfortunate skill. But I think I know how to use it now."* Sweat ran down my face, the run and the stamina that gas had burned both catching up with me, and I scowled at the empty spot where the cloud had hung, more annoyed at the skill than at them. I opened the other skill.
 
 **[GOBLIN FLARE - EMERGENCY SIGNAL]**
 
