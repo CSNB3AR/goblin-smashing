@@ -186,13 +186,13 @@ The flap tore aside and a goblin stepped out into the firelight. The enforcers h
 
 **[WYX THRASH: LV 25]**
 
-*"Eighty and twenty-five. I'm level three."*
+*"Eighty and twenty-five. I'm level three."* Fighting him wasn't an option. Neither was running, even if my legs had worked. *"Okay. Talking, then."*
 
 "Who did all this?" Sevish's voice wasn't loud. After the roar, it didn't need to be.
 
 Nobody answered. His gaze crossed the scorched ground and what was left of the two enforcers, then the watchers, and stopped on me.
 
-*"Okay. This is bad."* I'd just wiped out two of his people in the middle of his camp, and I couldn't move a claw. But they'd shoved a kid around first, two on one, over a bowl of stew, and I hadn't done anything I couldn't explain. *"I'm not in the wrong here. I can explain this."* My mouth still worked, even if nothing else did. The worry sat in anyway. If he decided I was the problem, I'd die on my first night, and the death lock would take 72 hours I didn't have.
+*"This is bad. Don't make it worse."* I made myself slow down and go through it. I'd wiped out two of his people in the middle of his camp, but they'd shoved a kid around first, two on one, over a bowl of stew. Every tag but theirs had stayed white. Wyx had watched the whole thing, and the kid was standing right there. *"I'm not in the wrong here. I can explain this."* My mouth still worked, even if nothing else did. The worry sat in anyway. If he decided I was the problem, I'd die on my first night, and the death lock would take 72 hours I didn't have.
 
 Sevish stopped an arm's length from me, the axe's shadow lying across the dirt at my feet.
 
