@@ -194,9 +194,7 @@ I focused on it and a panel opened beside the bigger one's head.
 
 *"Guess I pissed them off."* I gave them a small sarcastic smirk. Behind them the fire pit popped and threw a few sparks at the dark.
 
-The goblins around us had shifted in closer, and every tag in the ring was still white. The only ones that had flipped were theirs. As long as I looked like the one in the right, nobody else would count me as hostile, and if two Thrash goblins swung first at somebody who hadn't thrown a punch, I figured that was on them.
-
-Then there wasn't time to think.
+Every other tag in the ring stayed white. *"Nobody else is hostile. Good. Just these two."*
 
 I turned and ran from the middle of camp, short choppy strides, but lighter than I had any right to be. *"Speed's doing work. Okay, that's actually clean."* I ducked under a guy-line that cleared my head by a foot and caught them across the chest, then cut left between two tents at an angle they'd have to widen out to follow. The wind had picked up, snapping the canvas and pushing the fires low, and the dark between the tents swallowed the glow. Boots pounded right behind me.
 
