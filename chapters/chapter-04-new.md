@@ -150,7 +150,7 @@ Short, broken words, a stutter for anything longer. The enforcers talked in full
 
 It was exactly what I'd have told Taji. I don't know why, but for a second it felt like I was talking to my little brother, and that settled it for me.
 
-I couldn't tell what the kid made of it, if he made anything. I felt his stare on the back of my head, the same stare Taji and Momo used to give me when I told them something they hadn't heard before, and I didn't turn around. I kept my eyes on the two in front of me and let the camp's attention build, because this had gotten a lot bigger for me. The wind came through dead and damp, stirring my short spiky hair, and the stench of the camp finally settled in my nose: woodsmoke and boiled stew, wet hides, the stagnant mud where the stream pooled below the waterfall, and under it all the sour reek of too many unwashed bodies. The body was settling in, and I looked down at what I had to work with. A patched shirt, ragged trousers, a rope for a belt, nothing that counted as armor. The only thing in any slot was the die in my ear. The amber of the firelight flickered as the sky sank into night, and I glanced up at the server clock at the top of my vision.
+I couldn't tell what the kid made of it, if he made anything. I felt his stare on the back of my head, the same stare Taji and Momo used to give me when I told them something they hadn't heard before, and I didn't turn around. I kept my eyes on the two in front of me. The wind came through dead and damp, stirring my short spiky hair, and the stench of the camp finally settled in my nose: woodsmoke and boiled stew, wet hides, the stagnant mud where the stream pooled below the waterfall, and under it all the sour reek of too many unwashed bodies. The body was settling in, and I looked down at what I had to work with. A patched shirt, ragged trousers, a rope for a belt, nothing that counted as armor. The only thing in any slot was the die in my ear. The amber of the firelight flickered as the sky sank into night, and I glanced up at the server clock at the top of my vision.
 
 **[SERVER TIME: 21:14]**
 
@@ -177,6 +177,8 @@ A small red symbol flared over each of their heads, a flame inside a circle.
 **[PROVOKED]**
 
 *"What's that one?"* I let out a short chuckle, a smirk tugging at my mouth. *"Oh. That's because I pissed them off. A taunt. I provoked them, huh? Good to know."*
+
+The goblins around us had shifted in closer, and every tag in the ring was still white. The only ones that had flipped were theirs. As long as I looked like the one in the right, nobody else would count me as hostile, and if two Thrash goblins swung first at somebody who hadn't thrown a punch, I figured that was on them.
 
 Then there wasn't time to think.
 
