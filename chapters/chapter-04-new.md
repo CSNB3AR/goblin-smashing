@@ -192,7 +192,7 @@ I focused on it and a panel opened beside the bigger one's head.
 
 **[DEBUFF: PROVOKED]**
 
-*"Guess I pissed them off."* I let out a short chuckle.
+*"Guess I pissed them off."* I gave them a small sarcastic smirk. Behind them the fire pit popped and threw a few sparks at the dark.
 
 The goblins around us had shifted in closer, and every tag in the ring was still white. The only ones that had flipped were theirs. As long as I looked like the one in the right, nobody else would count me as hostile, and if two Thrash goblins swung first at somebody who hadn't thrown a punch, I figured that was on them.
 
