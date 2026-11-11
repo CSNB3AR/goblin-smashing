@@ -1,5 +1,103 @@
 # Chapter Five: Who Did All This?
 
+Short, choppy strides, my short legs stretching out with every burst, each push shooting up through my thighs, the wind raking my hair back. I cut between the big tent and a smaller pale one, and the firelight strobed across the canvas as I passed. I'd never felt this quick running in real life. *"I could get used to this."* The Speed points weren't just a number on the sheet.
+
+The glow thinned out the farther I got from the fires, and my eyes took a second to catch up with the dark. Behind me there were only two silhouettes, thrown long by the firelight and still coming. Cover in a camp was whatever was lying around: barrels, crates, four tents huddled around the big one. I ducked in beside a stack of barrels and waited. The boots had fallen behind. I'd put real distance on two enforcers at a full sprint.
+
+I looked down at my rags, and at the bare feet under them. The adrenaline had been covering for me, and now that I'd stopped the soles stung, raw from the dirt and gravel. *"I need shoes. I can't run barefoot much longer."*
+
+It all felt real, the sting in my feet, the cold air in my lungs. I'd bet on this game without a word to Gato about stepping back from WattsUp, I'd hardwired a pod behind Leon's back to get in, and I was still having the time of my life. *"But I can't forget why I'm here. Time to get serious."* The death lock was something I'd skimmed in the license screen before I pressed accept. *"I can't die here. 72 hours out isn't time I can waste. I have to show something by the time Chiyo gets back, or all of this blows up in my face."*
+
+Voices murmured somewhere past the tents, the watchers passing it along. I strained after it and caught nothing, not one word. The only thing that came through clear was boots landing in the mud, closing in again.
+
+I brought up my skills menu with a thought, to see what I had.
+
+**[GOBLIN GAS]**
+
+**[GOBLIN FLARE]**
+
+*"Goblin Gas sounds useful."* I focused on it and the description expanded.
+
+**[GOBLIN GAS - RADIUS EFFECT]**
+
+**[Releases a cloud of noxious gas around the user. Poison damage over time, stacks up to 4x. Reduces visibility. Can be ignited for increased effect. Chance to stun. WARNING: User is not immune.]**
+
+**[STAMINA COST: 10]**
+
+**[COOLDOWN: 30 SECONDS]**
+
+*"Useful. But how do I trigger it? And a 30 second cooldown, that's brutal."* I'd watched players fire off skills a hundred times, but this game was real. No weapon, no arrow to draw, nothing to channel it through. No time to figure it out gently, either.
+
+I cut back around the tent into the middle of the camp and tried. I shoved at the ability with my head, then my gut, and the name lit up in my vision.
+
+**[GOBLIN GAS]**
+
+**[COOLDOWN: 30 SECONDS]**
+
+Pressure built low, sudden and mortifying, and the gas leaked out late and in the wrong place, a thin green puff hanging behind where they'd been a half-second ago.
+
+The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The goblins watching laughed with them. Behind a crate, the kid clutched his bowl and stared at me like I'd lost my mind. My goblin ears went hot.
+
+*"Okay. That's an unfortunate skill. But I think I know how to use it now."* Sweat ran down my face, the run and the stamina that gas had burned both catching up with me, and I scowled at the empty spot where the cloud had hung, more annoyed at the skill than at them. I opened the other skill.
+
+**[GOBLIN FLARE - EMERGENCY SIGNAL]**
+
+**[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Damage: 2.]**
+
+**[STAMINA COST: 5]**
+
+**[COOLDOWN: 30 SECONDS]**
+
+*"Two damage. But it's fire, and the gas says it can be ignited."*
+
+I broke left behind the biggest tent and pressed into its shadow for half a breath, timing the gaps between their steps. Then I cut around a smaller tent and wrapped back toward the big one. The enforcers followed, calling me names, dumb with confidence.
+
+Somewhere off to my left a tent flap snapped open and a goblin stepped out, wild green hair catching the firelight, copper rings glinting in her ears, a quiver across her back, arms loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her eyes found me immediately, without any visible concern.
+
+*"Gold. Someone important. And she's not stepping in."*
+
+The watching goblins started calling out to each other, half cheer, half joke.
+
+*"Oh, y'all think this is funny. Cool."*
+
+**[COOLDOWN: 14 SECONDS. 13. 12.]**
+
+I dashed for the big tent where she stood, the long diagonal of the Z. One enforcer stayed on my heels. The other cut across to head me off and planted himself in my way. "You're not going anywhere, you little runt." The number in my vision hit zero.
+
+I dropped and slid between his legs, dirt scraping up my back, and came up behind him with both of them turning, bunched together a stride away. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
+
+**[GOBLIN GAS]**
+
+Pressure, mortification, and a thick green cloud erupting across their path. Both enforcers ran straight into it at full speed.
+
+**[POISON DEBUFF: STACK 1 - CRITICAL HIT - STUNNED]**
+
+A green skull bloomed over each of their heads, a sick little swirl beside it, and their health bars started sliding down in small, steady ticks. They stopped dead, grabbed their knees, and the stew they'd just eaten came up in chunks onto the dirt. Behind the crate, the kid made a strangled noise.
+
+**[POISON DEBUFF: STACK 2 - CRITICAL HIT - STUNNED]**
+
+**[POISON DEBUFF: STACK 3 - CRITICAL HIT - STUNNED]**
+
+**[POISON DEBUFF: STACK 4 - CRITICAL HIT - STUNNED]**
+
+The sick icons stayed lit. Every tick of poison caught them again, and they stayed bent over, heaving, for almost eight seconds. *"Damn. What is happening right now?"* Then, *"This is my chance."*
+
+**[STAMINA: 5/25]**
+
+My stamina bar was almost empty. Two gases had eaten most of it, and the flare would take the rest.
+
+Smoke rolled across the ground and stung my eyes. I reached into a pocket on my rags and the flare materialized in my hand, rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks.
+
+**[GOBLIN FLARE]**
+
+I threw it underhand onto the cloud, and it dropped into the gas.
+
+The gas caught the instant the flame touched it, and the blast came out bigger than I'd bet on. It hit my chest from fifteen feet away and lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
+
+**[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
+
+**[CRITICAL HIT]**
+
 Two red numbers burst over their heads, **[96]** and **[94]**, and their health bars were empty before the numbers finished rising.
 
 **[COMBAT KILL: THRASH CLAN ENFORCER x2]**
