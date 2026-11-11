@@ -322,23 +322,27 @@ Then the buzz settled, and one thing kept snagging. *"Four crits. Back to back t
 
 *"Crit chance. I didn't know it did that."* Every stat had a combat side, and I hadn't been reading them that way. Gas that stuns, Fortune on the crits. Not the Spellforger, but something to build on.
 
-*"Four points to spend."* I didn't have long, so I thought it through fast. *"Wisdom. Two of it isn't casting anything, and I'm not giving up on magic. Speed, too. Bulky isn't happening in this body. Hard to catch is the whole plan, and the way I just moved felt right."* Two into each.
+*"Four points to spend."* I didn't have long, so I thought it through fast. *"Speed first. Bulky isn't happening in this body, and hard to catch is the whole plan. The way I just moved felt right, and I want more of it. Then Wisdom. Two of it isn't casting anything, and I'm not giving up on magic."* Two into each.
 
 **[Speed: 9]**
 
 **[Wisdom: 4]**
 
-*"Four. Still short of six, but closer."*
+*"Wisdom at four. Still short of six, but closer."*
 
-Something hummed against my ear, and a prompt opened in front of me.
+The die at my ear went warm, and the hum I'd felt since I equipped it climbed until I couldn't ignore it. It had been waiting for this. First fight, first kill, and it finally had something to do.
 
 **[ROLL GAMBLER'S GAMBIT? YES / NO]**
+
+*"Here it is."* This was what I'd spent the point on, and I'd never seen it work. I caught myself leaning toward the prompt, same as I had with the box. *"Okay. First roll. Come on."*
 
 *"Yes."*
 
 A die dropped into my hands, bronze, the pips worn smooth like the one in my ear, only so big I needed both hands to hold it. I tossed it up, and it swelled as it tumbled through the air, pips glowing, until it hit the dirt with a heavy thud, rolled once, and settled.
 
 **[ROLL: 5]**
+
+*"Five!"* The grin got out before I could stop it. *"Five out of six. That's gotta be good."*
 
 **[GAMBLER'S GAMBIT: FORTUNE CHECK PASSED]**
 
