@@ -318,7 +318,7 @@ Then the buzz settled, and one thing kept snagging. *"Four crits. Back to back t
 
 **[FORTUNE: 12]**
 
-**[Luck and probability. Affects critical hit chance, loot quality, random-event success, and how gambles land.]**
+**[Luck and probability. Affects critical hit chance, loot quality, and the odds on random events.]**
 
 *"Crit chance. I didn't know it did that."* Every stat had a combat side, and I hadn't been reading them that way. Gas that stuns, Fortune on the crits. Not the Spellforger, but something to build on.
 
