@@ -364,6 +364,16 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
-More goblins had gathered at the edge of the firelight, Wyx still at the big tent, and from somewhere behind me came the slow, heavy tread of boots.
+More goblins had gathered at the edge of the firelight, and the kid still hadn't moved from the crate. Then a voice came from the big tent, low and flat, and the whole camp went quiet around it.
+
+"Who did this?"
+
+The flap beside Wyx lifted. A goblin ducked out, broad through the shoulders, a battle axe hanging loose from one hand, a gold tag hanging over his head.
+
+**[SEVISH THRASH]**
+
+He didn't look at the bodies. He looked at me, and Wyx's eyes came around to me half a second after his.
+
+The vials were still warm in my hands. I didn't move.
 
 **[END CHAPTER FOUR]**
