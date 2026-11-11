@@ -370,7 +370,7 @@ More goblins had gathered at the edge of the firelight, and the kid still hadn't
 
 Something heavy came down over the camp, sudden and total, and my body locked. The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
 
-**[SKILL: CHIEFTAIN'S COMMAND]**
+**[SKILL: CHALLENGING HOWL]**
 
 **[DEBUFF: STUNNED]**
 
