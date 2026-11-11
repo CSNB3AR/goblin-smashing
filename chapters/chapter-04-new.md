@@ -50,8 +50,6 @@ I tried to grab for a menu the way the streamers did, a flick of two fingers in 
 
 **[UNSPENT POINTS: 2]**
 
-**[RACIAL PASSIVE: SCAVENGER'S EYE]**
-
 *"Perfect. So much for the class I had in mind."* From what I'd read, you needed at least six just to cast anything, and that was before any patch. *"Two Wisdom. Damn, they really got me sitting here dumb as hell."*
 
 The joke helped a little. It was still a huge climb, and unless something changed I wasn't casting a thing. I swiped the panel shut harder than I needed to, and the hologram folded away.
@@ -332,9 +330,9 @@ Then the buzz settled, and one thing kept snagging. *"Four crits. Back to back t
 
 The die at my ear went warm, and the hum I'd felt since I equipped it climbed until I couldn't ignore it. It had been waiting for this. First fight, first kill, and it finally had something to do.
 
-**[ROLL GAMBLER'S GAMBIT? YES / NO]**
+**[ROLL GAMBLER'S GAMBIT TO INCREASE DROP CHANCE? YES / NO]**
 
-*"Let's see what this skill does. Or if I wasted a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"A loot roll. Only one way to find out."*
+*"So it boosts the drop chance. Let's see if that was worth a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"Only one way to find out."*
 
 *"Yes."*
 
@@ -342,15 +340,15 @@ A die dropped into my hands, bronze, the pips worn smooth like the one in my ear
 
 **[ROLL: 3]**
 
-*"Three."* I tilted my head. *"Out of six, I'm guessing. Right in the middle. Is that good? What does a three even do?"*
+*"Three."* I tilted my head. *"Out of six, I'm guessing. Right in the middle. Does a higher roll mean a better drop?"*
 
-**[GAMBLER'S GAMBIT: FORTUNE CHECK PASSED]**
+**[DROP CHANCE INCREASED]**
 
 The gold light drained back into the die at my ear.
 
-**[SCAVENGER'S EYE: ITEMS OF VALUE NEARBY]**
+**[LOOT DROPPED]**
 
-Every race had a racial passive, and that was the goblin's. A faint outline picked out a leather belt lying in the dirt beside two small glass vials with a faint green glow. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
+Light flickered over the two bodies, and a leather belt and two small glass vials with a faint green glow settled into the dirt where they'd fallen. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
 
 **[ITEM CLAIMED: GOBLIN GADGET BELT - COMMON]**
 
