@@ -334,7 +334,7 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 *"Yes."*
 
-A bronze die dropped into my hands, the pips worn smooth like the one in my ear, so big I needed both hands to hold it. I tossed it up and it swelled as it tumbled, gold light pouring off it and washing over me. The watchers flinched. The kid stared, and Wyx's head tilted. *"They can see that? Not subtle."* The die hit the dirt with a heavy thud, rolled once, and settled.
+A bronze die dropped into my hands, the pips worn smooth like the one in my ear, so big I needed both hands to hold it. I tossed it up and it swelled as it tumbled, gold light pouring off it and washing over me. The die hit the dirt with a heavy thud, rolled once, and settled.
 
 **[ROLL: 3]**
 
@@ -380,7 +380,7 @@ The flap tore aside and a goblin stepped out into the firelight. The enforcers h
 
 "Who did all this?" Sevish's voice wasn't loud. After the roar, it didn't need to be.
 
-Nobody answered. His gaze crossed the two bodies, then the watchers, and stopped on me, the only one in camp with his hands full of their loot.
+Nobody answered. His gaze crossed the scorched ground and what was left of the two enforcers, then the watchers, and stopped on me.
 
 *"No. No, no. Don't look at me."* I'd killed two of their people in their own camp, and I couldn't even run. *"If they put me down here, that's 72 hours I can't spare."* My mind screamed at my legs. Nothing.
 
