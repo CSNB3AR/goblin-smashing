@@ -334,17 +334,19 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 **[ROLL GAMBLER'S GAMBIT? YES / NO]**
 
-*"Here it is."* This was what I'd spent the point on, and I'd never seen it work. I caught myself leaning toward the prompt, same as I had with the box. *"Okay. First roll. Come on."*
+*"Here it is."* This was what I'd spent the point on, and I'd never seen it work. I caught myself leaning toward the prompt, same as I had with the box. *"Roll for what, though? Loot? Quality? Okay. First roll. Let's find out."*
 
 *"Yes."*
 
-A die dropped into my hands, bronze, the pips worn smooth like the one in my ear, only so big I needed both hands to hold it. I tossed it up, and it swelled as it tumbled through the air, pips glowing, until it hit the dirt with a heavy thud, rolled once, and settled.
+A die dropped into my hands, bronze, the pips worn smooth like the one in my ear, only so big I needed both hands to hold it. I tossed it up, and it swelled as it tumbled through the air, and gold light poured off it and washed over me, rolling out across the dirt. The watching goblins flinched. Somebody muttered. The kid stared, and Wyx's head tilted a fraction. *"They can see that? Okay. Not subtle."* The die hit the dirt with a heavy thud, rolled once, and settled.
 
 **[ROLL: 5]**
 
-*"Five!"* The grin got out before I could stop it. *"Five out of six. That's gotta be good."*
+*"Five!"* The grin got out before I could stop it. *"Out of six, I'm guessing. Is five good? What does it even do?"*
 
 **[GAMBLER'S GAMBIT: FORTUNE CHECK PASSED]**
+
+The gold light drained back into the die at my ear.
 
 **[SCAVENGER'S EYE: ITEMS OF VALUE NEARBY]**
 
@@ -358,11 +360,13 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[ITEM CLAIMED: MINOR ELIXIR x2 - UNCOMMON]**
 
+**[GAMBLER'S GAMBIT: LOOT QUALITY RAISED]**
+
 **[RESTORES 30 MANA]**
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me.
+*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"Wait. Quality raised. So that's what the roll does. It bumps the drop."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
