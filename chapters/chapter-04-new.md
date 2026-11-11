@@ -164,7 +164,7 @@ I closed the gap and shoved the nearer one in the chest, short and hard. He stum
 
 **[OBJECTIVE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
 
-*"There it is."* That was the sequence I'd been trapped in.
+*"A world quest? Hold on."* The logout warning came back to me, the one telling me to finish the current scenario. *"Is this the scenario?"*
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
 
