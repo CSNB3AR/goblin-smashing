@@ -1,4 +1,4 @@
-# Chapter Four: The Runt's Bowl, Part One
+# Chapter Four: The Runt's Bowl
 
 Dirt, cold and gritty against my cheek.
 
@@ -292,4 +292,4 @@ The gas caught the instant the flame touched it, and the blast came out bigger t
 
 **[CRITICAL HIT]**
 
-**[END CHAPTER FOUR, PART ONE]**
+**[END CHAPTER FOUR]**

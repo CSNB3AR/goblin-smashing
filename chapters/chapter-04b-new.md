@@ -1,4 +1,4 @@
-# Chapter Four: The Runt's Bowl, Part Two
+# Chapter Five: Who Did All This?
 
 Two red numbers burst over their heads, **[96]** and **[94]**, and their health bars were empty before the numbers finished rising.
 
@@ -96,4 +96,4 @@ Nobody answered. His gaze crossed the scorched ground and what was left of the t
 
 Sevish started toward me, the axe swinging low at his side, each step slow and unhurried.
 
-**[END CHAPTER FOUR, PART TWO]**
+**[END CHAPTER FIVE]**
