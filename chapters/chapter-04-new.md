@@ -334,7 +334,7 @@ The die at my ear went warm, and the hum I'd felt since I equipped it climbed un
 
 **[ROLL GAMBLER'S GAMBIT? YES / NO]**
 
-*"Let's see what this skill does. Or if I wasted a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"Roll for what, though? Loot? Quality? Only one way to find out."*
+*"Let's see what this skill does. Or if I wasted a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"A shot at Rare loot. Only one way to find out."*
 
 *"Yes."*
 
@@ -342,7 +342,7 @@ A die dropped into my hands, bronze, the pips worn smooth like the one in my ear
 
 **[ROLL: 5]**
 
-*"Five!"* The grin got out before I could stop it. *"Out of six, I'm guessing. Is five good? What does it even do?"*
+*"Five!"* The grin got out before I could stop it. *"Out of six, I'm guessing. Is five good? What does a five even do?"*
 
 **[GAMBLER'S GAMBIT: FORTUNE CHECK PASSED]**
 
@@ -366,7 +366,7 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"Wait. Quality raised. So that's what the roll does. It bumps the drop."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
+*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"Wait. Quality raised. So that's what a five does. It bumps the drop."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
