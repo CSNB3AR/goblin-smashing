@@ -322,7 +322,7 @@ Then the buzz settled, and one thing kept snagging. *"Four crits. Back to back t
 
 *"Crit chance. I didn't know it did that."* Every stat had a combat side, and I hadn't been reading them that way. Gas that stuns, Fortune on the crits. Not the Spellforger, but something to build on.
 
-*"Four points. Two from the screen I never got to use."* I didn't have long, and I thought it through fast. *"Wisdom. Two of it isn't casting anything, and I'm not giving up on magic. Speed, too. Bulky isn't happening in this body. Hard to catch is the whole plan, and the way I just moved felt right."* Two into each.
+*"Four points to spend."* I didn't have long, so I thought it through fast. *"Wisdom. Two of it isn't casting anything, and I'm not giving up on magic. Speed, too. Bulky isn't happening in this body. Hard to catch is the whole plan, and the way I just moved felt right."* Two into each.
 
 **[Speed: 9]**
 
