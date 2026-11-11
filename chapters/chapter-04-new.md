@@ -182,7 +182,7 @@ A small red symbol flared over each of their heads, a flame inside a circle.
 
 I focused on it and a panel opened beside the bigger one's head.
 
-**[THRASH CLAN ENFORCER: LV 2]**
+**[THRASH CLAN ENFORCER: LV 3]**
 
 **[HEALTH: 48/48] [POWER: 5] [SPEED: 3]**
 
