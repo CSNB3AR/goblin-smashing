@@ -148,7 +148,7 @@ Short, broken words, a stutter for anything longer. The enforcers talked in full
 
 It was exactly what I'd have told Taji. I don't know why, but for a second it felt like I was talking to my little brother, and that settled it for me.
 
-Behind me, the kid's eyes were on the back of my head, wide, like he'd just learned something. I didn't turn around. I kept my eyes on the two in front of me and let the stares of the whole camp pile up against the side of my face. The wind came through dead and damp, stirring the short hair on my head, and the smell of the camp finally settled in my nose: woodsmoke and boiled stew, wet hides and old leather, pine resin off the trees, cold wet stone, the muddy bank where the stream below the waterfall pooled and went stagnant, and under it all the sour reek of unwashed bodies. The amber of the firelight flickered as the sky sank into night, and I flicked a glance up to the server clock at the top of my vision.
+I couldn't tell what the kid made of it, if he made anything. I felt his stare on the back of my head, the same stare Taji and Momo used to give me when I told them something they hadn't heard before, and I didn't turn around. I kept my eyes on the two in front of me and let the stares of the camp pile up against the side of my face. The wind came through dead and damp, stirring my short spiky hair, and the stench of the camp finally settled in my nose: woodsmoke and boiled stew, wet hides and old leather, pine resin, cold wet stone, the stagnant mud where the stream pooled below the waterfall, and under it all the sour reek of unwashed bodies. The body was settling in, and I looked down at what I had to work with. A patched shirt, ragged trousers, a rope for a belt, nothing that counted as armor. The only thing in any slot was the die in my ear. The amber of the firelight flickered as the sky sank into night, and I glanced up at the server clock at the top of my vision.
 
 **[SERVER TIME: 21:14]**
 
@@ -286,7 +286,9 @@ I hadn't meant to kill anybody. The quiet where the laughing had been sat wrong 
 
 **[Wisdom: 4]**
 
-A leather belt lay in the dirt beside two small glass vials with a faint green glow. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
+**[SCAVENGER'S EYE: ITEMS OF VALUE NEARBY]**
+
+A faint outline picked out a leather belt lying in the dirt beside two small glass vials with a faint green glow. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
 
 **[ITEM CLAIMED: GOBLIN GADGET BELT - COMMON]**
 
