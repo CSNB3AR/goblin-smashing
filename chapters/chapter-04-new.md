@@ -196,7 +196,7 @@ Every other tag in sight stayed white. *"Nobody else is hostile. Good. Just thes
 
 The bigger enforcer's blade slid out of its sheath. I had two skills I'd never used and no idea how either one worked.
 
-*"Run."*
+*"Okay, Speed. Don't let me down."*
 
 I bolted, and boots hammered the dirt right behind me as I darted past the first tent. One wrong step and that blade would put me on the ground, dead on my first night, locked out of the game before I'd earned a single yen.
 
