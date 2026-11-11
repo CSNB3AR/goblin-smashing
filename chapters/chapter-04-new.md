@@ -306,8 +306,6 @@ Two red numbers burst over their heads, **[96]** and **[94]**, and their health 
 
 **[HEALTH: 50/50] [STAMINA: 0/25] [MANA: 25/25]**
 
-Nobody was laughing anymore.
-
 Smoke rose off the two bodies in thin trails and my ears rang. The five or six goblins who'd been watching had gone dead silent. The kid stood frozen by the crate with the bowl clutched to his chest, his mouth hanging open. At the big tent, Wyx hadn't moved, arms still loose at her sides, but her eyes had gone sharp, and they were on me, not the bodies.
 
 *"Holy shit! That actually worked!"* A laugh burst out of me, and I looked down at my hands, shaking, my whole body buzzing.
