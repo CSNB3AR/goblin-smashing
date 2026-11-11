@@ -152,6 +152,10 @@ They didn't back off. The nearer one stepped in until his chest was an arm's len
 
 *"I don't want a fight."* Starting something in a camp I'd just woken up in could turn the whole place on me, and dying here wasn't in the plan. But I'd said what I said knowing exactly what it would stir up. I'd started this, and I couldn't back down off it now. If they wanted to start something with me and nobody stepped in, then fine. *"Alright. This could be good. Might as well test some things out."*
 
+I felt the stares of the whole ring piercing the side of my face. The wind moved through the camp, dead and damp, and the smell of the swamp finally settled in my nose. The amber of the firelight flickered as the sky sank into night, and I glanced up to the top of my vision where the server clock sat.
+
+**[SERVER TIME: 21:14]**
+
 I closed the gap and shoved the nearer one in the chest, short and hard. He stumbled back a step and came right back at me, angrier than before. My hands tingled, claws flexing at my sides, my mouth dry and my head strangely clear.
 
 "You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.

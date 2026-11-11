@@ -306,3 +306,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Goblin speech and intelligence (author-stated): goblin speech shows rank and intelligence. Thrash Clan enforcers, who are recruits, speak in full sentences. Ru, a true runt goblin mob, uses short broken words and a stutter. Tatsuya has Wisdom 2 on the sheet but is a player with a full head and does not act dumb, which he notes. Use speech patterns as quiet world-building.
 
 - Inspect (author-stated): Tatsuya cannot know any creature's stats or intelligence without inspecting it, as a veteran MMO player would. Inspect may be a basic ability everyone has that he has not unlocked or used yet. He can inspect the enforcers in a later fight, and the kid when he becomes his first mate. Until then the page shows only what he can see and hear (speech patterns, tags, behavior), never numbers.
+
+- Server clock (author-stated): the game shows the server time at the top of the player's vision, and Tatsuya glances at it to place the time of day. Chapter 4 shows 21:14 as a proposal (OPEN), with the game sky sinking into night.
