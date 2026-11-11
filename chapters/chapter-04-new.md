@@ -366,23 +366,25 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
-More goblins had gathered at the edge of the firelight, and the kid still hadn't moved from the crate. Then a voice came from the big tent, low and flat.
-
-"Nobody move."
-
-Something heavy came down over the camp, sudden and total, and my body locked. The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
+Before I could so much as stand, a roar tore out of the big tent, so loud the fires flinched, and my body locked. I got my head turned toward it. That was all that would move.
 
 **[SKILL: CHALLENGING HOWL]**
 
 **[DEBUFF: STUNNED]**
 
-*"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my claws. *"Two of his people are dead, and I can't even run."*
+The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
 
-Only Wyx was still moving, her head turning, copper rings catching the firelight. The flap beside her lifted, and a goblin ducked out, broad through the shoulders, a battle axe hanging loose from one hand, a gold tag hanging over his head.
+*"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my claws.
 
-**[SEVISH THRASH]**
+The flap ripped aside, and a goblin stepped out into the firelight, broad through the shoulders, a battle axe hanging loose from one hand. Wyx moved up beside him, the only other thing in camp that was moving at all. Two gold tags blazed in the dark.
 
-He didn't look at the bodies. He looked at me.
+**[SEVISH THRASH: LV 80]**
+
+**[WYX THRASH: LV 75]**
+
+*"Eighty. Seventy-five. I'm level two."* I'd just killed two of their people in the middle of their camp. *"I'm dead. I'm so dead. If they put me down here, that's 72 hours I can't spare."*
+
+Sevish didn't look at the bodies. His eyes found me, and Wyx's came around half a second after his.
 
 The vials were still warm in my hands, and I couldn't have dropped them if I tried.
 
