@@ -18,4 +18,4 @@ Natural dignity and quiet authority. A confident, responsible leader who treats 
 
 - **Levels (author-stated).** Like her brother Sevish, Wyx is not under the troop system, so she cannot level and stays at her current level until she becomes a true recruit and troop of Tatsuya and gains the troop experience buff.
 
-**Early affiliation (author-stated).** Wyx finds Tatsuya very interesting from the first meeting and develops a very strong emotional feeling toward him. It shows on the page as an early individual affiliation tick (0% to 4% in Chapter 6, then 4% to 8% in Chapter 11), which also shows that affiliation and relationships can grow early and that NPCs develop based on what players do.
+**Early affiliation (author-stated).** Wyx finds Tatsuya very interesting from the first meeting and develops a very strong emotional feeling toward him. It shows on the page as an early individual affiliation tick (45% to 52% in Chapter 6, then 52% to 56% in Chapter 11), which also shows that affiliation and relationships can grow early and that NPCs develop based on what players do.

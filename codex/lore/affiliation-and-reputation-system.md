@@ -1,6 +1,6 @@
 # Affiliation & Reputation System
 
-**Status:** New mechanic, distinct from and layered on top of the already-locked Karma/Alignment axis (see `codex/lore/preserved-misc-mechanics.md`). The clan meter first lands on the page in Chapter 8, but an individual NPC's meter shows up much earlier: Wyx's ticks 0% to 4% in Chapter 6, because she finds him interesting from the first meeting (author-stated).
+**Status:** New mechanic, distinct from and layered on top of the already-locked Karma/Alignment axis (see `codex/lore/preserved-misc-mechanics.md`). The clan meter first lands on the page in Chapter 8, but an individual NPC's meter shows up much earlier: Wyx's ticks 45% to 52% in Chapter 6, because she finds him interesting from the first meeting (author-stated).
 
 ## Two separate axes, do not conflate them
 
@@ -17,13 +17,20 @@
 | Trusted | 50-79 | Genuine standing, real requests get taken seriously, some restricted access opens. |
 | Allied | 80-100 | Full standing, the faction treats the player as one of their own. |
 
+## Starting values and the floor (author-stated)
+
+- **Nobody starts below 20%.** The lowest a starting affiliation can be is about 20%, because anything under 20% starts hitting into the negative pools, and once it reaches 0 and goes below, people start to hate you. Going negative takes real wrongdoing: a character builds negative influence in towns and cities through their own actions.
+- **Goblins among their own start high.** A goblin who spawns into a goblin camp typically starts with the goblin NPCs at about 40 to 50%, and their actions can spike it from there. Right now Tatsuya sits at about 40 to 50% with Sevish and the Thrash clan, and how he talks to them and how valuable he proves is what builds it.
+- **Goblins among humans do not start better.** A goblin dealing with a human in Lunarest starts low, around the 20% floor, and that includes shopkeepers, who give worse deals when affiliation is bad.
+- Low affiliation is felt in prices and access, not just attitude. The bands below describe where a meter can go, and the floor above is where it starts.
+
 ## Racial starting modifiers
 
 A character's race sets a real, felt starting offset with certain factions before they've done anything at all, distinct from anything they earn. Goblins in particular start with a visible penalty in human-dominated regions like Lunarest, a mechanical expression of the already-locked feral stigma (see `codex/lore/goblin-clan-culture-and-feral-stigma.md`), a low but non-hostile read, not an arrest trigger, just a visibly suspicious one. The same goblin starts at a real, positive baseline with Myrrhwood's own goblin clans instead, before any individual reputation is built at all.
 
 ## Landing on the page, Chapter 8: Thrash clan
 
-Tatsuya's own standing with the Thrash clan specifically starts around **10%**, low Wary-Neutral, consistent with "ally of Thrash" (granted Chapter 3) being real but early and unconsolidated, a status handed to him for one act, not yet a settled relationship. It moves through in-character behavior, choosing his words the way an actual outsider earning trust would, not through simply being tactically correct. A visible tick up (never a jump straight to Allied in one scene) is the mechanical payoff for Chapter 8's assault and the diplomacy that gets him the room to attempt it in the first place.
+Tatsuya's own standing with the Thrash clan specifically starts around **45%** (the normal 40 to 50% a goblin has with a goblin camp), consistent with "ally of Thrash" being real and already warm but not yet earned or settled, a status handed to him for one act. It moves through in-character behavior, choosing his words the way an actual outsider earning trust would, not through simply being tactically correct. A visible tick up (never a jump straight to Allied in one scene) is the mechanical payoff for Chapter 8's assault and the diplomacy that gets him the room to attempt it in the first place.
 
 ## How this actually moves: the reactive NPC layer underneath it
 

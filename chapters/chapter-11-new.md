@@ -190,11 +190,11 @@ I watched the shift happen. Wyx's shoulders dropped half an inch, the tension in
 
 A small notification flickered at the edge of my vision, there one second before fading.
 
-**[AFFILIATION: THRASH CLAN - 12% → 15%]**
+**[AFFILIATION: THRASH CLAN - 47% → 50%]**
 
 Below it, smaller and quieter, a second one:
 
-**[AFFILIATION: WYX THRASH - 4% → 8%]**
+**[AFFILIATION: WYX THRASH - 52% → 56%]**
 
 I caught the second one. Wyx's eyes had settled on me the moment I'd said Shiv's name, and they hadn't fully left since. I filed it away and kept my eyes on Sevish.
 

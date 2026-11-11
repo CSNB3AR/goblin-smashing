@@ -54,9 +54,9 @@ Sevish's eyes went from me to the kid and back, taking his time before he spoke.
 
 She said nothing. Her amber eyes hadn't left me since the stew, and the corner of her mouth moved, not quite a smile. A small notification flickered at the edge of my vision and faded.
 
-**[AFFILIATION: WYX THRASH - 0% → 4%]**
+**[AFFILIATION: WYX THRASH - 45% → 52%]**
 
-*"Affiliation, on a first meeting? That's not supposed to move this fast."*
+*"Forty-five to start, since I'm a goblin in a goblin camp. And it just jumped seven on a first meeting. That's not supposed to move this fast."*
 
 Sevish stood up from his chair, slow and deliberate, the battle axe sliding into the sling across his back, and walked around the table with heavy steps that made the packed dirt floor creak. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 

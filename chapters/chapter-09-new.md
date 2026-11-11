@@ -38,7 +38,7 @@ Wyx's head turned sharp at that, her amber eyes narrowing with something close t
 
 "Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's fingers still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
 
-**[AFFILIATION: THRASH CLAN 10% → 12%]**
+**[AFFILIATION: THRASH CLAN 45% → 47%]**
 
 I wondered what that meant. I kept my expression flat, my eyes on Sevish, not letting the notification distract me.
 
