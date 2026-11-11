@@ -18,7 +18,7 @@ A murmur ran through the watchers and died. One goblin took a step back. Another
 
 Sevish went completely still. Both gold tags flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, and he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
-The grin thinned. "If it happened how you say, we've got no problem. Thrash has one rule above the rest. No fighting among our own. But who says I can trust you? Who says it went the way you tell it? All I know is I came out and saw an explosion and two of my men dead by your hand." His eyes went over the watchers, then to the crate. "Those two don't get back up. Dead is dead. Any witnesses?"
+The grin thinned. "If it happened how you say, we've got no problem. Thrash has one rule above the rest. No fighting among our own. But who says I can trust you? Who says it went the way you tell it? All I know is I came out and saw an explosion and two of my men dead by your hand. From the look of that ground, it was a hell of a fight." His eyes went over the watchers, then to the crate. "Those two don't get back up. Dead is dead. Any witnesses?"
 
 Nobody answered. The kid's mouth worked, but all that came out was a thin breath, his shoulders shaking, the bowl rattling against his chest. The watchers only muttered, low and shapeless, none of it aimed at Sevish. *"Damn it. The kid's the one who'd speak up for me, and he can barely stand. Nobody else is going to say a word."*
 
@@ -28,15 +28,17 @@ Then Wyx stepped forward, calm and unhurried, one hand resting on the skull at h
 
 *"She was there. Of course she was. I never figured she'd say anything."*
 
-"Is that so?" Sevish turned to her, half amused. "You're telling me he put down two of ours that easily?"
+"Is that so?" Sevish turned to her, and the amusement went out of his face and left attention behind. I figured whatever she said next would carry more weight than anything I could. "You're telling me he put down two of ours that easily?"
 
 "If they were dumb enough to run headlong into his gas and choke on it," Wyx said, dry warmth in her voice, "then what use were they to us anyway, brother?" A snort went through the watchers, and the kid's shaking eased a little.
 
 She let it settle, and her voice warmed the way it did when she spoke of Shiv. "And if we're serious about his cause, ask yourself whether a goblin who talks like that could be useful to it. He might help us with the problem we've been stuck on."
 
-*"They actually argue. They weigh me, they weigh each other, they care who's telling the truth. Nobody here is reading from a script."* My hands tightened at my sides, the only part of me I trusted to move.
+*"They weigh me, they weigh each other, they care who's telling the truth. Nobody here is reading from a script."* My hands tightened at my sides, the only part of me I trusted to move.
 
-"The problem." Sevish chewed on it, and the grin came back slow. "Hah. Maybe so." He pointed the axe at me. "You killed two of my men, and that leaves you owing me. Anyone who can put down two enforcers, I can find a use for. There's a job I've been turning over."
+Sevish looked at his sister for a long moment and didn't argue. From how still he held, I figured he rarely did.
+
+"The problem." He chewed on it, and the grin came back slow. "Hah. Maybe so." He pointed the axe at me. "You killed two of my men, and that leaves you owing me. Anyone who can put down two enforcers has power, and power I understand. I can find a use for that. There's a job I've been turning over."
 
 A purple notification bloomed at the edge of my vision, the color pulling my eye at once.
 
@@ -119,6 +121,8 @@ Sevish's gold tag flickered again, and so did Wyx's.
 The small sharp teeth of this new mouth caught against my lip. *"So I don't really get to say no. I only get to pick when."*
 
 Wyx spoke for the first time since we'd entered the tent, her voice dry and carrying a hint of warmth that didn't quite match the sharpness in her eyes. "Easy, brother. You'll scare off the first thing we've found in months that works." She turned her amber eyes on me. "He stood up for a runt over a bowl of stew. A goblin like that comes back." A beat. "And he's entertaining, at least. That's worth something."
+
+Sevish grunted, weighed it, and gave a short nod. "She's usually right," he said to me, flat and plain. "Don't make her wrong."
 
 Before I could answer, the clock in the corner of my vision caught me, small and quiet and impossible to ignore once I'd looked.
 

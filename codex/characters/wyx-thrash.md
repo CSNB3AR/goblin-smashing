@@ -21,3 +21,5 @@ Natural dignity and quiet authority. A confident, responsible leader who treats 
 **Early affiliation (author-stated).** Wyx finds Tatsuya very interesting from the first meeting and develops a very strong emotional feeling toward him. It shows on the page as an early individual affiliation tick (45% to 52% in Chapter 6, then 52% to 56% in Chapter 11), which also shows that affiliation and relationships can grow early and that NPCs develop based on what players do.
 
 **Character model (author-stated).** Wyx is built on Rias Gremory from High School DxD: poised, warm and dignified, a caring leader who protects her people like family, proud and self-assured, composed with a sharper side, deeply affectionate, and a firm believer in Shiv's cause that she will not go against. She calls Sevish "brother", backs the truth with calm authority, and delivers dry, smart remarks without raising her voice. The author is unsure of the exact alignment but reads her as chaotic good.
+
+**The brains (author-stated).** Wyx has always shown unusual intelligence for a hobgoblin and is the voice of reason Sevish trusts, even as a devoted believer in Shiv.
