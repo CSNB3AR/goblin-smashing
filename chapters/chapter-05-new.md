@@ -2,19 +2,19 @@
 
 The stun held me in a crouch, every muscle pinned flat, and the vials had already vanished into my inventory the second I'd claimed them, so my fists closed on nothing. Only my head would move. The force of it kept pressing straight down on me, and the icon in the corner of my vision ticked toward its end, six seconds from the first roar to the last.
 
-*"Six seconds, and I can't lift a finger. Cliffs and a waterfall behind the camp, one narrow track down the hill, and between me and it two gold tags and twenty goblins, easy. I'd never make it out alive."* The last of the timer drained while I turned it over. *"So running's out. I need a reason, a good one, and I need it the second this lets go."*
+*"Six seconds, and I can't lift a finger. Cliffs and a waterfall behind the camp, one narrow track down the hill, and between me and it two gold tags and twenty goblins, easy. I'd never make it out alive."* The last of the timer drained while I turned it over. *"So running's out. Too many witnesses to lie, and a lie wouldn't buy me anything anyway. I tell it straight and hope that's enough."*
 
 **[DEBUFF EXPIRED: STUNNED]**
 
-The weight left all at once and my legs shook as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish.
+The weight left all at once and my legs shook as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. She'd watched the whole thing. One wrong detail from me and she'd correct it, or someone would. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish.
 
 "Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it."
 
-Sevish said nothing, the axe loose in his fist, and I kept going before the quiet could set. "Yeah, I've got a sharp tongue. But it was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
+Sevish said nothing, the axe loose in his fist, and I kept going before the quiet could set. "It was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
 
-A murmur ran through the watchers and died. One goblin took a step back. Another stared at me like I'd walked up and slapped the chieftain, and beside the crate the kid made a thin, scared sound, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it. *"Okay. Not many people talk to him like that."*
+A murmur ran through the watchers and died. One goblin took a step back. Another stared at me like I'd walked up and slapped the chieftain, and beside the crate the kid made a thin, scared sound, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it.
 
-Sevish went completely still. Both gold tags flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, and he planted the butt of the axe in the dirt. "Hah. You've got a mouth on you. Nobody says that to my face."
+Sevish went completely still. Both gold tags flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, and he planted the butt of the axe in the dirt. "Hah. This one has a mouth." His grin showed teeth. "I like it."
 
 The grin thinned. "If it happened how you say, we've got no problem. Thrash has one rule above the rest. No fighting among our own. But who says I can trust you? Who says it went the way you tell it? All I know is I came out and saw an explosion and two of my men dead by your hand." His eyes went over the watchers, then to the crate. "Those two don't get back up. Dead is dead. Any witnesses?"
 
