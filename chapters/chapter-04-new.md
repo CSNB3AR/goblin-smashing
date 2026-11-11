@@ -364,7 +364,7 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[AUCTION PRICE: ¥8,400 EACH]**
 
-*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me. *"So that's the roll. A three, and this is what drops."* I turned the vial over again, grinning. *"Okay. I like that. A lot."*
+*"Eight thousand four hundred yen each."* I turned one vial over carefully. That was sixteen thousand eight hundred total, the first real money this game had handed me. *"So that's a three. Nothing rare, but it's something."*
 
 I let the thought sit there, the two vials warm in my hands. *"Maybe this ain't the disaster I thought it was."*
 
