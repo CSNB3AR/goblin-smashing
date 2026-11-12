@@ -48,7 +48,7 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 *"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd heard it at work and filed it as marketing. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
 
-"Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Even so, two of my men are dead, and this camp has already lost too many. I cannot let that go unnoticed."
+Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Then you saw him kill two of mine," he said. "This camp has buried too many already, sister. I will not let two more go unanswered."
 
 He pulled the axe out of the dirt, easy, one-handed. Behind him boots scraped, and goblins at the edge of the firelight started drifting closer. Three enforcers I hadn't seen before stepped out of the dark, hands on their weapons.
 
