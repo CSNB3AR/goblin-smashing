@@ -82,3 +82,12 @@ Nothing in this file is unlocked or referenced on the page yet. It exists so fut
 - **Troop enchants.** Tatsuya is the first to fill guild slots with NPC troops. Enchants multiply on them and last longer than on players, since troops do not follow the player system, so he can build super-soldiers (see `codex/lore/companion-troop-system.md`, owned by another agent). Crownfall does not cap troops.
 
 **Open:** the staff's name and minuses.
+
+## Build direction, author-stated (voice note; a general tree, not a rewrite of anything above)
+
+- **Gadget arcane mage.** A goblin's mana pool is very small, so he cannot cast several spells back to back. Gadgets, crafting and small constructs (mini golems, bombs, traps) supplement the magic and let him skip casting in between. Elves keep the big mana pools and carry a passive that makes spells cost less mana (the elf passive is the differential; do not give it to goblins).
+- **Gas and flame combos.** Caustic-style gas bombs for control and escape, plus flame magic, poison and bomb barrages that combine with the gas (Gas Bomb and Flare already point this way). Gadgets also help him escape, not only deal damage.
+- **A root or curse ability** (chains) to hold targets for the combos.
+- **Gambling amplifier staff (working idea).** A staff that ticks like a timepiece when he casts, in the spirit of the Time Wizard from Yu-Gi-Oh, amplifying gamble-based abilities. Reference only: no copied card, name or wording.
+- **Crafting and his own auction.** Techie, builds his own gear and eventually sells it, which feeds the income thread.
+- **Every gamble has a punishment.** Reaffirmed: a critical fail on Gambler's Gambit carries a real penalty (see `codex/objects/gamblers-earring.md`, where the punishment is still OPEN). Luck cannot be his only income; there must be a fall-off for the bad rolls.
