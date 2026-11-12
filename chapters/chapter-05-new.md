@@ -88,9 +88,17 @@ He turned and walked, the watchers parting for him, Wyx falling in at his should
 
 Bone totems capped the poles on either side of the big tent's flap, carved with the same blocky lines I'd seen on Wyx's arms. Sevish held the flap for his sister and let it fall behind us.
 
-Inside, everything was in order. A lantern hung from the center pole over pale canvas, a chest sat against one wall, barrels and a bucket stood in a tidy row along the other, and a patterned rug covered the packed dirt. The goblins out there lived on whatever worked. The hobgoblins ran on a system. A round war table stood at the center, a map of the continents spread across it and marked with red, candles burning in brass holders, a quill and a knife laid square beside it.
+Inside, a lantern hung from the center pole, and a chest and a few barrels sat tidy against the canvas. A round war table stood at the center with a map of the continents spread across it, marked in red and ringed with candles.
 
 Sevish crossed first, walked behind the war table and sat, the axe leaning within reach. Wyx took a stand beside him. I stopped on the open side of the table, beside two stools nobody offered me, and the kid pressed up against my side. He reminded me of Taji a little. I didn't know if I'd picked up a companion or if he was just part of the mission. Either way, I stood there waiting on my fate.
+
+"Completely different from out there," I said, dry as I could keep it.
+
+"No slight to the others," Wyx said. "Leadership keeps what we carried over, and not all of it. We came out here with material to raid on."
+
+"Maybe I thought less of goblins." I let my weight settle onto one foot. "That's probably on me."
+
+"On you, yes." The corner of her mouth curved. "What did you expect us to bring, farm tools?"
 
 "What is your name?" Sevish asked, voice deep and rough, a voice that carried without getting loud.
 
