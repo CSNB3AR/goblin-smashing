@@ -60,7 +60,7 @@ My head snapped toward her, and I made myself keep my eyes on her face. Walls. S
 
 Sevish let out a short breath through his nose, and the grin came back slow. "Since he has taken two of mine," he said, "he owes me a favor after all."
 
-My hands loosened. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
+My hands loosened. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was standing in front of a world quest. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
 Sevish looked at his sister for a long moment and didn't argue.
 

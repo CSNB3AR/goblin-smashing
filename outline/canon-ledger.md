@@ -476,3 +476,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Six, why the watchers move (author-stated, latest): they step in because they did nothing when the enforcers went after the kid and now feel they have to be seen doing something. Shown only through what Tatsuya saw (none of them lifted a hand earlier; they edge in after the one who stared at him), not by reading their minds.
 
 - Chapter Six, the watchers are wary, not charging (author-stated, latest, read as "they wouldn't come at Tatsu like that"): they just saw him blow up two enforcers, so they creep in behind the one who stared, wide of the scorch marks, eyes on the black patch and on him, not closing on him.
+
+- Chapter Six, composure line fixed (author-stated, latest): "two people who weighed every one of mine" was removed because it did not make sense. The line is now "A couple hours ago I'd been planning on an elf, and now I was standing in front of a world quest."
