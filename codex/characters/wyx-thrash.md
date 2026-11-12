@@ -23,3 +23,5 @@ Natural dignity and quiet authority. A confident, responsible leader who treats 
 **Character model (author-stated).** Wyx is built on Rias Gremory from High School DxD: poised, warm and dignified, a caring leader who protects her people like family, proud and self-assured, composed with a sharper side, deeply affectionate, and a firm believer in Shiv's cause that she will not go against. She calls Sevish "brother", backs the truth with calm authority, and delivers dry, smart remarks without raising her voice. The author is unsure of the exact alignment but reads her as chaotic good.
 
 **The brains (author-stated).** Wyx has always shown unusual intelligence for a hobgoblin and is the voice of reason Sevish trusts, even as a devoted believer in Shiv.
+
+- **Does not use Goblin Gas (author-stated).** She has Toxic Breath but never uses it because she thinks it is not ladylike; she keeps herself presentable. She fights with advanced physical arts and rarely used Thrash clan techniques. She does not understand why Tatsuya's gas-and-flare combination works, she only saw it done.
