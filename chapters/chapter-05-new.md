@@ -30,7 +30,7 @@ My eyes slid past him to the gap between two tents and the dark behind the crate
 
 "It happened the way I told it," I said, and made myself hold his stare. "Believe me or don't. That's what occurred."
 
-Nobody answered. The kid's mouth worked, but all that came out was a thin breath, and the watchers only muttered, low and shapeless, none of it aimed at Sevish. *"The kid's the only one who'd speak up for me, and he can barely stand."* One thing I hadn't said sat at the back of my throat, that I'd baited those two on purpose with Provoke. *"Hopefully nobody brings that up."*
+Nobody answered. The kid's mouth worked, but all that came out was a thin breath, and the watchers only muttered, low and shapeless, none of it aimed at Sevish. *"The kid's the only one who'd speak up for me, and he can barely stand."* Every word I'd told him was true. What I'd left out sat at the back of my throat, that the fight probably never happens if I hadn't said what I said to those two. *"If that comes out, who knows what he does with it. Hopefully nobody brings it up."*
 
 The quiet pulled tight as a bowstring. My ears flicked at every shift of the crowd, and a cold drop of sweat slid down my spine. Whatever happened next in this camp was going to happen fast.
 
