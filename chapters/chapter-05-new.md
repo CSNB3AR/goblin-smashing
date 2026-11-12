@@ -98,7 +98,7 @@ I rolled my shoulders, easing into the room, and glanced down. The kid looked up
 
 "What did you expect us to come out here with, farm tools?" Wyx said, the corner of her mouth curving. "We still give our people the tools to succeed, but there are ranks in this clan. You earn them. Nothing is handed over." Her gaze flicked over me. "You are new blood, so you may not know it, but few goblins live long enough to become hobgoblins."
 
-I let my weight settle onto one foot. *"Maybe I thought less of goblins. That's on me."* She'd caught the jab and thrown it right back, quick and easy, and a grin tugged at my mouth. For a second I forgot to watch the interface at all.
+"Understood," I said, and nodded. *"Maybe I just expected less from goblins."* I hadn't expected her to answer my crack at all, never mind that fast, and a grin tugged at my mouth. For a second I forgot to watch the interface.
 
 "What is your name?" Sevish asked, voice deep and rough, a voice that carried without getting loud.
 
@@ -114,19 +114,19 @@ I almost laughed. *"Oh. So this is why they held my name back at the start. Mayb
 
 "Before you go any further, you should hear the true situation," he said. "You said you agree, but you have not heard the full terms. I do not say it to threaten you. I say it because I need to know you are truly with us, and this is not something we take lightly. My sister will lay it out."
 
-Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. Shiv has been gone near half a century, and the clans have never found their footing since. My brother and I gathered our people and came this far to find what Shiv hid before he vanished and carry it home. Thrash gave its land to another clan to make the journey. Every goblin in this camp left something behind." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan answered to Shiv once. My grandfather's generation knew it. I mean to see it with my own eyes."
+Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. Shiv has been gone near half a century, and the clans have never found their footing since. My brother and I gathered our people and came this far to find any word of him, so we may carry it home and survive what is coming. He was born in Lunarest, a human, before the curse took him, and whatever remains of him is there. That is why we marched on its walls. Thrash gave its land to another clan to make the journey. Every goblin in this camp left something behind." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan answered to Shiv once. My grandfather's generation knew it. I mean to see it with my own eyes."
 
 *"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
-"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls. What we seek lies somewhere inside, in the Grand Library of Lunarest, or so the whispers say. None of us has seen it."
+"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls."
 
 "You slipped past two enforcers where the rest of us would have met them head-on," Wyx said, tapping the map, "and you answered with a blast no goblin here could make. Everything we have tried has failed. This is the first thing that is different."
 
 My long fingers curled against my thighs.
 
-"The library," I repeated, making sure I understood correctly. "You want me to get into the Grand Library of Lunarest."
+"So I'm hunting for anything on Shiv," I said, making sure I understood correctly. "Inside Lunarest."
 
-"The restricted floors, specifically," Wyx said. "The public floors hold nothing we seek. Find anything on Shiv up there, records, journals, anything that tells us what he knew or where he went, and bring it back here."
+"Anything," Wyx said. "A lead on where he went, where he rests, even a page of his teachings. Bring back whatever you can find."
 
 I reached for my chin again, the same habit whenever I was weighing something, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
 
