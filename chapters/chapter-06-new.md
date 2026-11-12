@@ -24,7 +24,7 @@ My account loaded, the goblin face of my avatar staring back at me from a small 
 
 **[USERNAME NOT SET. TAP TO CREATE ONE.]**
 
-*"Later. When I can think of one."* I swiped it away and kept scrolling.
+*"Later. I already have a name for it."* I swiped it away and kept scrolling.
 
 Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
 
