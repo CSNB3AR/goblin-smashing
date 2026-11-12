@@ -206,7 +206,7 @@ It left me with more questions than answers. I touched the dice at my ear. *"Wha
 
 *"Chiyo's going to ask where I'm spending my days."* I picked at a loose thread in the bedroll. If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
 
-I went back over the whole night. Stepping in for the kid had opened a world quest nobody else had touched, and keeping Sevish and Wyx on my side was how it stayed open. They could be worth a lot to me if I kept earning it. My jaw set. Whatever I learned stayed with me. Nobody could know about this until I'd worked it out, and I needed to get as far along as I could before other players caught up and figured out what was going on.
+I slid the vials back into my inventory. First things first: get offline, cash these in, and start digging. Whatever I found stayed with me until I knew what I was holding.
 
 In the corner of my vision the chat window I hadn't looked at since spawning suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
 
