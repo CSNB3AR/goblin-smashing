@@ -118,7 +118,7 @@ Wyx stepped up beside him. "You caused quite a commotion in our camp," she said,
 
 She drew a battered notebook from her belt, the leather cracked and dark with handling, and held it against her chest instead of setting it down. "All we know comes from these notes, carried down in our clan for years. They say Shiv had a connection to someone in Lunarest. That is all. With home as it is, we gambled and came here, to see whether anything he left behind can hold our people together."
 
-*"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
+*"So they're gambling too. We've got more in common than I figured, even if neither of us planned it."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
 "We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls."
 
