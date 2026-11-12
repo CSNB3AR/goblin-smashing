@@ -48,7 +48,7 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 *"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd heard it at work and filed it as marketing. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
 
-"Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "You tell me this one, in rags, with no armor and no blade, felled two of my enforcers? What gear did he fight with?"
+"Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "You tell me this one, in rags, with no armor and no blade, flat out killed two of my men? What gear did he fight with?"
 
 "He needed no gear," Wyx said, dry warmth in her voice. "He led them into his fumes and let them choke on them. I have not seen it done that way before. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
 
@@ -56,7 +56,7 @@ My hands loosened at my sides. I was nervous, but under it something bright kept
 
 Sevish looked at his sister for a long moment and didn't argue.
 
-"The matter." He chewed on it, and the grin came back slow. "Hah. Perhaps so." He pointed the axe at me. "You killed two of my men. This camp has already lost too many, and I cannot overlook that. It leaves you in my debt. But a goblin who can fell two enforcers has power, and power I understand. I may find a use for you. There is a task I have been turning over."
+"The matter." He chewed on it, and the grin came back slow. "Hah. Perhaps so." He pointed the axe at me. "You killed two of my men. This camp has already lost too many, and I cannot overlook that. It leaves you in my debt. But a goblin who can kill two enforcers has power, and power I understand. I may find a use for you. There is a task I have been turning over."
 
 A purple notification bloomed at the edge of my vision.
 
@@ -130,7 +130,7 @@ I reached for my chin again, the same habit whenever I was weighing something, a
 
 Sevish's tag flickered again, and so did Wyx's.
 
-"Then you stay here," Sevish said, and there was no heat in his voice, no threat, just a plain statement of fact. "I do not let one who can fell two of my enforcers walk off into the world before I know which side he stands on. And understand this. If you take the task and do not return, we leave. If we cross paths after that, you are an enemy. That is all."
+"Then you stay here," Sevish said, and there was no heat in his voice, no threat, just a plain statement of fact. "I do not let one who can kill two of my men walk off into the world before I know which side he stands on. And understand this. If you take the task and do not return, we leave. If we cross paths after that, you are an enemy. That is all."
 
 The small sharp teeth of this new mouth caught against my lip. *"So I don't really get to say no. I only get to pick when."*
 
