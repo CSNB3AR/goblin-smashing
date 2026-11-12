@@ -52,7 +52,7 @@ Sevish turned to her, the amusement still sitting in the corner of his mouth. He
 
 Boots scraped by the stew pot. The goblin who'd stared at me like I'd slapped the chieftain took a slow step forward, one hand on the club at his belt, and slowed, his eyes on the scorch marks and then on me. Not one of them had lifted a hand when the enforcers went after the kid, and now they crept in behind him, wide of the black patch, like they needed to be seen doing something. Sevish raised a hand without turning around, and every one of them froze. The camp held its breath. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
 
-I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, running is the only option. Fighting through that isn't happening."* My eyes slid into the corners of my vision without moving my head, counting the gaps between the tents. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
+I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, running is the only option. Fighting through that isn't happening."* My eyes slid into the corners of my vision without moving my head,. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
 
 Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder. "He is what we have been missing, brother," she said, dry warmth in her voice. "He slipped round two enforcers faster than most of us can turn, then set the ground alight under them. One hell of an explosion, I say. Think what that would do to a wall. And if we are thinking of Shiv, he held to Shiv's law and kept the peace among our own, which is more than those two did. We have failed at our task more than once, and we did not come all this way for nothing. We gave up a great deal leaving Myrrhwood."
 
@@ -84,13 +84,13 @@ The gray line that had blocked my logout since I'd spawned was gone. I filed tha
 
 "Let's get to it," Sevish said. "We talk inside." He jerked his chin at the big tent, then at the kid pressed against my side. "Both of you."
 
-He turned and walked, the watchers parting for him, Wyx falling in at his shoulder. I followed with the kid at my heel. Goblins stopped to watch us pass, my bare soles aching on the packed dirt.
+He turned and walked, Wyx falling in at his shoulder. I followed with the kid at my heel, my bare soles aching on the packed dirt.
 
-Bone totems capped the poles on either side of the big tent's flap, carved with the same blocky lines I'd seen on Wyx's arms. Sevish held the flap for his sister and let it fall behind us.
+Bone totems capped the poles on either side of the big tent's flap, carved with the same blocky lines as Wyx's arms.
 
 Inside, a lantern hung from the center pole, and a chest and a few barrels sat tidy against the canvas. A round war table stood at the center with a map of the continents spread across it, marked in red and ringed with candles.
 
-Sevish crossed first, walked behind the war table and sat, the axe leaning within reach. Wyx took a stand beside him. I stopped on the open side of the table, beside two stools nobody offered me, and the kid pressed up against my side. He reminded me of Taji a little. I didn't know if I'd picked up a companion or if he was just part of the mission. Either way, I stood there waiting on my fate.
+Sevish crossed first, walked behind the war table and sat, the axe leaning within reach. Wyx took a stand beside him. I stopped on the open side of the table, beside two stools nobody offered me, and the kid pressed up against my side. He reminded me of Taji a little. I didn't know if I'd picked up a companion or if he was just part of the mission.
 
 I rolled my shoulders, easing into the room, and glanced down. The kid looked up at me, ears twitching, checking I was still there. I gave him a small nod. *"Okay. They have structure."*
 
@@ -98,11 +98,11 @@ I rolled my shoulders, easing into the room, and glanced down. The kid looked up
 
 "What did you expect us to come out here with, farm tools?" Wyx said, the corner of her mouth curving. "We still give our people the tools to succeed, but there are ranks in this clan. You earn them. Nothing is handed over." Her gaze flicked over me. "You are new blood, so you may not know it, but few goblins live long enough to become hobgoblins."
 
-"Understood," I said, and nodded. *"Maybe I just expected less from goblins."* I hadn't expected her to answer my crack at all, never mind that fast, and a grin tugged at my mouth. For a second I forgot to watch the interface.
+"Understood," I said, and nodded. *"Maybe I just expected less from goblins."* I hadn't expected her to answer my crack at all, never mind that fast, and a grin tugged at my mouth as the excitement kept building.
 
-"What is your name?" Sevish asked, voice deep and rough, a voice that carried without getting loud.
+"What is your name?" Sevish asked, his voice cutting through my distraction and pulling me back.
 
-A panel unfolded in the middle of my vision.
+I blinked, and a panel unfolded in the middle of my vision.
 
 **[ENTER YOUR NAME]**
 
@@ -114,35 +114,33 @@ A panel unfolded in the middle of my vision.
 
 "Before you go any further, you should hear the true situation," he said. "You said you agree, but you have not heard the full terms. I do not say it to threaten you. I say it because I need to know you are truly with us, and this is not something we take lightly. My sister will lay it out."
 
-Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. The clans fight among themselves while the beastfolk on our border could destroy us all. Shiv has been gone near half a century, and the clans have never found their footing since. Thrash gave its land to another clan so my brother and I could bring our people this far. Every goblin in this camp left something behind." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan answered to Shiv once. My grandfather's generation knew it. I mean to see it with my own eyes."
+Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. The clans fight among themselves while the beastfolk on our border could destroy us all. Shiv has been gone near half a century, and the clans have never found their footing since. Thrash gave up land and power to make this trip." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan stood as one once. My grandfather's generation saw it. I hope to see it with my own eyes. We could be a force if we stopped fighting among ourselves."
 
-She drew a battered notebook from her belt, the leather cracked and dark with handling, and held it against her chest instead of setting it down. "All we know comes from these notes, carried down in our clan for years. They say Shiv had a connection to someone in Lunarest. That is all. With home as it is, we gambled and came here, to see whether anything he left behind can hold our people together."
+She drew a battered notebook from her belt, the leather cracked and dark with handling, and held it against her chest instead of setting it down. "All we know comes from these notes, carried down in our clan for years. They say Shiv had a connection to something or someone in Lunarest. So we gambled and came here, to find any information, any lead he left behind, that can hold our people together."
 
 *"So they're gambling too. We've got more in common than I figured, even if neither of us planned it."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
-"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls."
+"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls. But with your help, that could change drastically, especially after what I saw tonight."
 
-"You slipped past two enforcers where the rest of us would have met them head-on," Wyx said, tapping the map, "and you answered with a blast no goblin here could make. Everything we have tried has failed. This is the first thing that is different."
+"So you want me to go to the kingdom of Lunarest for information on Shiv," I said, making sure I understood correctly. "Did I hear that right?"
 
-My long fingers curled against my thighs.
+"Yes," Wyx said. "Bring back any information, even if it is barely anything. It gives us something, and then we can go home. Our camp has grown restless, and the sooner we are back in Myrrhwood to hold things down, the better. We have been gone too long."
 
-"So I'm hunting for anything on Shiv," I said, making sure I understood correctly. "Inside Lunarest."
+My hand drifted into my wild, greenish hair as I looked down at the kid and back up at the two of them. I had nothing else to lose, and turning down a world-level quest would be stupid. This could pay out more than I thought. I just needed time to research first. I couldn't keep going in blind.
 
-"Anything he left," Wyx said. "His war set, if the tales are true. A lead on where he went, even a page of his teachings. Bring back whatever you can find."
+"All right, sounds simple enough," I said. "And if I accept your offer, what does that mean for me?"
 
-I reached for my chin again, the same habit whenever I was weighing something, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
+"By our law, anyone who brings back word of Shiv stands as an ally of Thrash," Sevish said. "Whoever comes for you comes for the clan. Take the quest and do not return, and we will take it as a dismissal and a betrayal. We will leave, and if we cross paths again, we will be enemies." He held my stare. "I would rather you never became one."
 
-"Finish this, and you stand under Thrash's protection. You are ours, and we are yours. Whoever comes for you comes for the clan. Take the task and do not return, and we leave. If we cross paths after that, you are an enemy. That is all."
+*"Real, long-term backup. That's not nothing."* A bead of sweat rolled down my temple. *"If I work with them, I've got backing. If I walk out, I'll run into them again as a goblin, probably in Myrrhwood, and there won't be any talking. Simple enough."*
 
-*"Real, long-term backup. That's not nothing."* A bead of sweat rolled down my temple.
+"I hear you," I said, and held Sevish's stare. "I don't take this lightly. I told you outside I'm in, and I didn't change my mind that quickly."
 
-"I hear you," I said, and held Sevish's stare. "I don't take this lightly either. I'm in, and I mean it."
-
-Wyx's chin dipped a fraction, and a small notification flickered at the edge of my vision.
+Wyx's chin dipped, a small smile on her face, and a notification flickered at the edge of my vision.
 
 **[AFFILIATION: WYX THRASH - 48% → 52%]**
 
-Sevish grunted and gave a short nod.
+Sevish let out a loud, rolling chuckle.
 
 Before I could answer, the clock in the corner of my vision caught me.
 
@@ -150,9 +148,11 @@ Before I could answer, the clock in the corner of my vision caught me.
 
 I winced. *"Damn."*
 
-Leon's voice crackled through the pod's external speaker a second later, distant and tinny, cutting in from somewhere outside the world I was standing in. "Hey, heads-up, we're closing in about thirty minutes. Just wanted to give you a warning."
+A channel opened in my ear, and a pop-up slid across the top of my interface.
 
-I blinked, the tent on one side and Leon's voice on the other.
+**[DIRECTOR IN BOOTH: VOICE CHANNEL]**
+
+Leon's voice came through, distant and tinny, from somewhere outside the world I was standing in. "Hey, heads-up, we're closing in about thirty minutes. Just wanted to give you a warning." A pause. "Also, my monitor's dead, so I can't see what you're in. If you're playing long sessions, we need to talk after. I'll have to put somebody in the booth next time."
 
 "I'll be off shortly," I said out loud, the words aimed at Leon.
 
@@ -210,9 +210,9 @@ This was where I'd be staying until I gave them an answer. *"A bit of time. I as
 
 I pulled the two green vials out of my inventory. They materialized in my palm, and I turned them over in my green hands. The number stamped beneath each one was easy to read: ¥8,400.
 
-Sixteen thousand eight hundred yen from one roll, in my first hour, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin I couldn't have wiped off if I'd tried. *"Not a bad first login."*
+Sixteen thousand eight hundred yen from one roll, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin I couldn't have wiped off if I'd tried. *"Not a bad first login."*
 
-It left me with more questions than answers. I touched the dice at my ear. *"Fortune feeds crits and drops, I know that much. What does this die do as it climbs?"* I knew this game cold, down to the Spellforger build I'd drawn up with Eren. A goblin body I'd never planned for was the blank, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
+It left me with more questions than answers. I touched the dice at my ear. *"Fortune feeds crits and drops, I know that much. What does this die do as it climbs?"* I knew this game cold, down to the Spellforger build I'd drawn up with Eren. A goblin body I'd never planned for was the blank, and I hadn't had one minute to look anything up.
 
 *"Chiyo's going to ask where I'm spending my days."* I picked at a loose thread in the bedroll. If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
 

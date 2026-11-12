@@ -34,3 +34,7 @@ When a diver disconnects mid-session (a real-world break, a forced monitor shutd
 - `codex/lore/vrsa.md` — the regulatory body that mandates this, and the Inspector role that certifies it.
 - `codex/objects/pod-hardware.md` — hardware generations, the pass-out mechanic this file resolves.
 - `codex/subplots/technical-arc-leon-and-sakura-arcade.md` — Leon acting as the operator for Tatsuya's Chapter 6 session, seeding an early coach/sponsor dynamic.
+
+## The booth voice channel (author-stated, latest)
+
+The director's booth has an internal monitor setup where the director puts on a headset and speaks directly to the player in-game, like a game chat, whatever game it is. On the page it appears as a pop-up at the top of Tatsuya's interface (`[DIRECTOR IN BOOTH: VOICE CHANNEL]`). Leon's monitor is broken, so he cannot see what game Tatsuya is in; he only has the voice channel. Leon has had few long sessions in that pod because it only runs first-generation games, so he assumed Tatsuya would have left. If Tatsuya plays long sessions with no monitor, Leon will need someone sitting in the booth next time, which eventually means Tatsuya has to tell Leon the real situation. That conversation is in the upcoming chapters and is not written yet.
