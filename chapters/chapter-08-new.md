@@ -14,7 +14,7 @@ The readout sat fixed at the top edge of my vision, clean white numbers I couldn
 
 The blue UI screen disappeared the second I thought about dismissing it, responsive in a way I hadn't gotten used to, reading my intent before I'd fully formed it.
 
-The war tent came back into focus around me slowly, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. My head was resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
+The holding tent came back into focus around me slowly, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. My head was resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
 
 A notification blinked into existence, soft green text.
 

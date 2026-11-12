@@ -232,7 +232,7 @@ A notification caught the edge of my vision before I could move.
 
 **[THRASH CLAN DEFENDERS: 15/50]**
 
-Fifteen out of fifty. The count barely had time to register. There was one person I needed to know was still alive.
+Fifteen out of twenty-five. The count barely had time to register. There was one person I needed to know was still alive.
 
 "Ru!"
 

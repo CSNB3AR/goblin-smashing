@@ -2,7 +2,7 @@
 
 The pod hissed open and the real world came back wrong.
 
-Sound first, the low hum of Sakura Arcade's overhead lights where there'd been fire and wind and thirty goblins doing whatever goblins did at midnight. Then weight, my body settling into the padded interior with legs that were suddenly too long and hands that were suddenly too big. Then smell, old electronics and carpet cleaner instead of woodsmoke and whatever that stew had been.
+Sound first, the low hum of Sakura Arcade's overhead lights where there'd been fire and wind and twenty goblins doing whatever goblins did at night. Then weight, my body settling into the padded interior with legs that were suddenly too long and hands that were suddenly too big. Then smell, old electronics and carpet cleaner instead of woodsmoke and whatever that stew had been.
 
 I lay there a second longer than I needed to, staring at the curved shell of the pod above me.
 

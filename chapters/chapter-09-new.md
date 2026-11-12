@@ -46,7 +46,7 @@ Wyx was already moving before Sevish said another word, her voice pitched to car
 
 A notification bloomed at the edge of my vision, gold-bordered, bigger than anything else that had come through tonight.
 
-**[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 50/50]** **[INVASION TIMER: 00:04:37]**
+**[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 25/25]** **[INVASION TIMER: 00:04:37]**
 
 I dismissed the notification and pulled up my own character sheet instead, the blue UI screen resolving clean in my vision.
 
