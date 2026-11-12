@@ -46,11 +46,11 @@ Then Wyx came forward from the tent mouth, calm and unhurried, one hand resting 
 
 My eyes followed her. She was the only one in the whole camp who'd stepped out for me.
 
-*"She stepped up. Good. I didn't expect it, but she'd seen all of it. Is that the quest, or just her? The log hasn't moved, so I can't tell."*
+*"She's siding with me."*
 
 "Is that so?" Sevish turned to her, and the amusement went out of his face and left attention behind. I figured whatever she said next would carry more weight than anything I could. "You tell me he felled two of ours that easily?"
 
-"If they were fool enough to run headlong into his fumes and choke on them," Wyx said, dry warmth in her voice, "what use were they to us, brother?" My head snapped toward her. *"She even caught the gas. They're paying attention."* A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
+"If they were fool enough to run headlong into his fumes and choke on them," Wyx said, dry warmth in her voice, "what use were they to us, brother?" My head snapped toward her. *"She even caught the gas."* A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
 
 She let it settle, her voice warming, her gaze lifting past the firelight. "And if we are in earnest about Shiv's cause, ask yourself whether a goblin who speaks so might serve it. He may help us with the matter that has stopped us."
 
@@ -86,7 +86,7 @@ Sevish's eyes went from me to the kid and back, taking his time. The kid pressed
 
 "Name," Sevish said, voice deep and rough, a voice that carried without getting loud. "I know every goblin who has walked through this camp, and I have never seen your face. Where do you hail from?" He tipped his head. "Are you new to these parts?"
 
-*"New here. If this is the goblin spawn, and nobody ran goblin in the beta, then I'm the first stranger this camp has ever had."* I weighed what he could actually follow. Pods and character creation were out, and the true answer in his terms was short.
+*"New here. I'm probably the first stranger this camp has ever had."* I weighed what he could actually follow. Pods and character creation were out, and the true answer in his terms was short.
 
 "T-Drag," I said, keeping my hands where he could see them. "I woke up by your fire pit tonight. I don't know how I got there."
 
@@ -96,7 +96,7 @@ She said nothing. Her amber eyes hadn't left me since the stew, and the corner o
 
 **[AFFILIATION: WYX THRASH - 48% → 52%]**
 
-*"Up again. I keep talking to them like people instead of quest givers, and it's working. That's probably how Yuna gets into places nobody else can."*
+*"Up again. Talking to them like people is working. Maybe that's how Yuna gets into places nobody else can."*
 
 Sevish stood from his chair, slow and deliberate, the axe sliding into the sling across his back, and walked around the table. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
