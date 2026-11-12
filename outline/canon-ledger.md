@@ -474,3 +474,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Six, the goblins who come in are not random (author-stated, latest): they are the five or six watchers already standing by the stew pot, led by the one who stared at Tatsuya earlier (club at his belt); no one appears out of the dark. Sevish raises a hand without turning and they freeze. Keep every added character tied to the established positions.
 
 - Chapter Six, why the watchers move (author-stated, latest): they step in because they did nothing when the enforcers went after the kid and now feel they have to be seen doing something. Shown only through what Tatsuya saw (none of them lifted a hand earlier; they edge in after the one who stared at him), not by reading their minds.
+
+- Chapter Six, the watchers are wary, not charging (author-stated, latest, read as "they wouldn't come at Tatsu like that"): they just saw him blow up two enforcers, so they creep in behind the one who stared, wide of the scorch marks, eyes on the black patch and on him, not closing on him.
