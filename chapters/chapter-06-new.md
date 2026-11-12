@@ -1,6 +1,6 @@
 # Chapter Seven: Consequences in Silence
 
-The shell hissed open, and the last thing I'd thought came out with me. *"That bell went to the whole server. Everyone knows a world quest just went live, and I'm sitting in the middle of it."*
+The shell hissed open, and the bell was still ringing in my head. *"That wasn't just for me. That was a public announcement. The whole server just heard a world quest go live."*
 
 Then the real world hit. Weight first, my whole body hanging in the cuffs, too heavy and too tall after the goblin, legs that were suddenly too long and hands that were suddenly too big. Then the smell, dust and warm plastic and solder where there'd been woodsmoke. Last came the low hum of Sakura Arcade's pendant lights and the monitors out front, where a second ago there'd been a lamp guttering in a canvas tent and a bell only I could hear. My stomach rolled like I'd stepped off a boat, and the pod room swam at the edges, a half-beat behind my eyes.
 
@@ -24,7 +24,13 @@ My account loaded, the goblin face of my avatar staring back at me from a small 
 
 **[NYKRI - LEVEL 3 - GOBLIN]**
 
-*"Nykri. Still strange, seeing it written down."* I swiped on.
+*"Nykri. Still strange, seeing it written down."*
+
+A banner sat across the top of the home screen before I could swipe on.
+
+**[WORLD QUEST ACTIVE: CALL OF THE BONES | REGION: LUNAREST OUTSKIRTS]**
+
+It had a region and no name. *"They told everyone where. They didn't say who."* I swiped past it, and my thumb wasn't quite steady.
 
 Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
 
@@ -62,7 +68,9 @@ I pocketed the phone, pulled it back out almost immediately, and opened Loop on 
 
 **[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
 
-*"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
+*"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. Every thread said it the same way. The announcement had gone to the whole server, nobody knew who'd triggered it, and people were already comparing screenshots of the bell and trying to narrow down where in the outskirts it had started.
+
+*"They've got the region. They don't have the camp."* My hands had gone cold, and then, slowly, steadier. A camp with one path in and out wasn't something anyone stumbled onto on the first night. I had a few days. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
 
 *"Wild."* *"Not my problem. I'm already starting from the bottom."* I wanted to stay and dig, but the lantern lamps out front were going dark one bank at a time, and Leon was waiting. I killed the screen.
 
