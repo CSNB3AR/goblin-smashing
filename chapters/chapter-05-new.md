@@ -92,13 +92,15 @@ Inside, a lantern hung from the center pole, and a chest and a few barrels sat t
 
 Sevish crossed first, walked behind the war table and sat, the axe leaning within reach. Wyx took a stand beside him. I stopped on the open side of the table, beside two stools nobody offered me, and the kid pressed up against my side. He reminded me of Taji a little. I didn't know if I'd picked up a companion or if he was just part of the mission. Either way, I stood there waiting on my fate.
 
+I rolled my shoulders, easing into the room, and glanced down. The kid looked up at me, ears twitching, checking I was still there. I gave him a small nod. *"Okay. They have structure."*
+
 "Well, it's completely different in here," I said, dry as I could keep it. "You guys got it all nice."
 
 "What did you expect us to come out here with, farm tools?" Wyx said, the corner of her mouth curving. "We still give our people the tools to succeed, but there are ranks in this clan. You earn them. Nothing is handed over." Her gaze flicked over me. "You are new blood, so you may not know it, but few goblins live long enough to become hobgoblins."
 
-I let my weight settle onto one foot. *"Maybe I thought less of goblins. That's on me."*
+I let my weight settle onto one foot. *"Maybe I thought less of goblins. That's on me."* She'd caught the jab and thrown it right back, quick and easy, and a grin tugged at my mouth. For a second I forgot to watch the interface at all.
 
-"What is your name?" Sevish asked, voice deep and rough, a voice that carried without getting loud.
+"Enough, the both of you," Sevish said, voice deep and rough, a voice that carried without getting loud. "What is your name?"
 
 A panel unfolded in the middle of my vision.
 
