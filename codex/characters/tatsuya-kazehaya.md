@@ -2,10 +2,10 @@
 
 **Role:** Protagonist / POV character (locked first-person past tense inside his head, always, see `style-guide/first-person-voice.md`)
 **Age:** 16 to 17 (no chapter states it, see `codex/lore/timeline-and-beta.md`). Returns to Tochi as a first-year.
-**In-game username:** TDRAG (see origin note below)
+**In-game username:** NYKRI (see origin note below)
 **In-game character:** Goblin (see `codex/lore/playable-races-and-character-creation.md` for how)
 
-**TDRAG origin, Chapter 5:** because of the goblin-lock glitch, his account never had a username assigned. He creates it on the spot, mid-collision with Yunaile outside the hospital, while the HGO Companion App is actively prompting him to set one, not a name he'd already picked ahead of time.
+**NYKRI origin, Chapter 5:** because of the goblin-lock glitch, his account never had a username assigned. He creates it on the spot, mid-collision with Yunaile outside the hospital, while the HGO Companion App is actively prompting him to set one, not a name he'd already picked ahead of time.
 
 ## Appearance
 
@@ -115,3 +115,7 @@ Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in h
 ## Game knowledge: curious, not oblivious (author-stated, latest)
 
 He is not a newcomer to the game. He has studied HGO for about six and a half months: the clips running on the screen over the WattsUp register all day, Dosuke AI's streams, and his little brother Taji constantly having it on at home. He had a full Spellforger build and understood the mechanics well enough that Eren, who used the build, pushed with it without understanding how it worked. What he does not know is the goblin class and his new body. Writing balance: curiosity about the class and the body, knowledge of the game. In his first fight he learns he likes Speed and sees what Fortune does, but he will not keep hitting crits. Do not write him as dumb about the game itself.
+
+## Name: Nykri (author-stated, latest)
+
+His in-game name and username is **Nykri**. The author does not want "T-Drag" anymore, so every use was renamed (61 spots across the active chapters, codex, outlines and the bible). He types the name at the clan lead's tent in Chapter Six, matches his Loop handle to it in Chapter Seven, and is called Nykri by Sevish, Shiv (who shortens it to "Nyk"), Ru and the stream. The old superseded drafts and the third-person copies still say T-Drag and were left alone on purpose.

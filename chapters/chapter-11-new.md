@@ -15,7 +15,7 @@ I rolled one shoulder, testing the fit. All three items together carried real we
 
 The blue UI materialized without being called, expanding outward from a point in the tent's dim air. A 3D model of my character rendered fully in place, lit from the inside out, turning the canvas around me a dim electric blue. The title rendered gold where the rest of the display ran blue-white, set apart from everything else. I hadn't known it would do that.
 
-**[CHARACTER: TDRAG]**
+**[CHARACTER: NYKRI]**
 **[RACE: SHIV GOBLIN]**
 **[LEVEL: 7]**
 **[TITLE: THE FIRST DESCENDANT OF SHIV]**
@@ -117,7 +117,7 @@ One of my pointed ears twitched at the rapid clatter of keys, a habit this body 
 The UI minimized, Leon's name staying visible in the corner of the HUD. I turned to the party screen without deciding to.
 
 **[PARTY MEMBERS: 2/5]**
-**[T_DRAG - LEVEL 8 - SHIV GOBLIN]**
+**[NYKRI - LEVEL 8 - SHIV GOBLIN]**
 **[RU - LEVEL 5 - HOBGOBLIN] [MOBILE]**
 
 The MOBILE tag sat in small gray text beside Ru's name. I read it twice to be sure I was reading it right. *"Alive."* Relief hit hard enough that I almost laughed out loud in an empty tent.
@@ -150,7 +150,7 @@ A younger goblin near the supply line reached out like he wanted to touch my sle
 
 Sevish's tent sat near the center of camp, larger than the others, canvas reinforced at the corners with stakes driven deep. I reached the flap and stopped outside it, hearing voices inside before I said anything.
 
-"It's T-Drag." I kept my voice even. "Coming in."
+"It's Nykri." I kept my voice even. "Coming in."
 
 The voices stopped. Silence held for a second, then Sevish's voice came back, rough and controlled. "Enter."
 
@@ -301,13 +301,13 @@ I tapped accept without hesitating. The channel header shifted to a single combi
 
 Something in me settled when her name sat beside mine on the party list, and I didn't examine why. I opened the text window while the channel was still settling.
 
-[T_Drag: eastern edge. treeline, your left side. thirty minutes out?]
+[Nykri: eastern edge. treeline, your left side. thirty minutes out?]
 
 [AriSky: give or take. already moving]
 
 [AriSky: heads up. i was watching the guild feeds from j-link while you were offline. two of tokyo's biggest guilds have leadership already talking about moving on your location]
 
-[T_Drag: how urgent]
+[Nykri: how urgent]
 
 [AriSky: not immediately. most guilds aren't moving til morning, people have jobs. ganking crews do overnight runs but this doesn't read like that from the message structure]
 
@@ -333,7 +333,7 @@ A younger goblin near the last supply row reached out like he wanted to touch my
 
 "Two times now," I said, low enough that only Ru would catch it. "Same kid, same motion."
 
-Ru's tusks shifted. "Camp talks," he said. "When T-Drag walks out of Sevish's tent alive and unhurried, camp talks."
+Ru's tusks shifted. "Camp talks," he said. "When Nykri walks out of Sevish's tent alive and unhurried, camp talks."
 
 "Great. No pressure."
 
@@ -517,8 +517,8 @@ The explosion resolved into a battle report across my HUD, every ability that ha
 **[HUSHVEIL (SILENCE): ARYA, TIER 3: SILENCE, BLIND, 12-SECOND DURATION]**
 **[GOBLIN GAS x2, TOXIC BREATH x1: ROTT, NAB, RU: STACKED APPLICATION]**
 **[POISON STACK: 4x, ACCELERATED: DAMAGE OVER TIME ACTIVE]**
-**[RUNE PRIMING x3: T_DRAG: STRATEGIC PLACEMENT]**
-**[ANCIENT BONE FLAME BARRAGE: T_DRAG: TIER 5]**
+**[RUNE PRIMING x3: NYKRI: STRATEGIC PLACEMENT]**
+**[ANCIENT BONE FLAME BARRAGE: NYKRI: TIER 5]**
 **[BASE DAMAGE: 840] [CRITICAL MODIFIER: x2.19] [TOTAL DAMAGE: 1,840]**
 
 Four nameplates flickered and died in rapid succession, the kill notifications stacking faster than I could read them.
@@ -527,7 +527,7 @@ Four nameplates flickered and died in rapid succession, the kill notifications s
 **[TALO: DEFEATED]**
 **[JOSS: DEFEATED]**
 **[SPELLWEAVER_LYN: DEFEATED]**
-**[KILL CREDIT: T_DRAG, 4]**
+**[KILL CREDIT: NYKRI, 4]**
 **[PARTY CONTRIBUTION: ARYA, HUSHVEIL (SILENCE), ASSIST CREDITED]**
 
 *"Almost all my mana in one shot. Worth every point."* I swayed on my feet, the afterimage of the blast still burned across my eyes, and I waited for it to fade.
@@ -540,7 +540,7 @@ The fog started to thin as Hushveil's duration ran out, cold air rushing back in
 
 [Eren_TB: ...]
 
-[PK_Wraith: who the fuck is T_Drag]
+[PK_Wraith: who the fuck is Nykri]
 
 [Haruto_M: that combo was clean, no cap]
 

@@ -50,7 +50,7 @@ A notification bloomed at the edge of my vision, gold-bordered, bigger than anyt
 
 I dismissed the notification and pulled up my own character sheet instead, the blue UI screen resolving clean in my vision.
 
-**[CHARACTER: TDRAG]**
+**[CHARACTER: NYKRI]**
 **[RACE: SHIV GOBLIN]**
 **[LEVEL: 7]**
 **[TITLE: THE FIRST DESCENDANT OF SHIV]**
@@ -124,7 +124,7 @@ Two goblins fell in on either side of me without being told to, one of them the 
 
 They stopped at a tent near the far edge of camp, smaller than Sevish's but still standing on its own, a crude nameplate carved into the post beside the flap.
 
-**[WAR TENT – ELDER T-DRAG]**
+**[WAR TENT – ELDER NYKRI]**
 
 I pushed through the flap and let it fall shut behind me.
 
@@ -164,7 +164,7 @@ My phone had a dozen notifications stacked on the lock screen, more than I'd eve
 
 *"I'm not a no-name anymore. I have to move smarter, with people watching my moves now."* I stared at the number, water still dripping off my chin, and it didn't feel real.
 
-I thumbed it open and the feed loaded slow, clip after clip of the same green-skinned figure kneeling in ash and smoke. A handle I didn't recognize had stitched together every notification bracket from the Shiv scene into a single clip captioned "did anyone else catch this live." Another had zoomed in on the necklace, freeze-framed, circled in red, captioned "world tier confirmed, somebody check the wiki." My own name, T-Drag, sat tagged in reply after reply. I scrolled until my thumb cramped and made myself stop, setting the phone on the edge of the sink.
+I thumbed it open and the feed loaded slow, clip after clip of the same green-skinned figure kneeling in ash and smoke. A handle I didn't recognize had stitched together every notification bracket from the Shiv scene into a single clip captioned "did anyone else catch this live." Another had zoomed in on the necklace, freeze-framed, circled in red, captioned "world tier confirmed, somebody check the wiki." My own name, Nykri, sat tagged in reply after reply. I scrolled until my thumb cramped and made myself stop, setting the phone on the edge of the sink.
 
 I pulled up my HGO account next, and there it was, a button that hadn't existed the last time I'd checked this screen.
 
@@ -232,7 +232,7 @@ Everything Eren built was starting to come apart. I pushed off the wall and head
 
 I was already down the hallway, thumb still hovering over my phone, when a voice cut through the noise behind me.
 
-"Hey, T-Drag."
+"Hey, Nykri."
 
 My whole body froze for half a second before my brain caught up to whose voice that actually was. Not Leon's. Different pitch, different rhythm, and it took me a second longer to place exactly why that mattered.
 

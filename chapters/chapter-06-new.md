@@ -204,17 +204,17 @@ I crouched across from her and started helping stack pages. Her eyes caught on t
 
 "You play?" she asked, tilting her head, a real question.
 
-"Just started." I turned the phone slightly without meaning to. "Haven't even got a name yet."
+"Just started." I turned the phone slightly without meaning to. "Haven't even set a username for the app."
 
 Something flickered across her face, amused, like I'd said the funniest thing she'd heard all week. "Well, let's change that. What did you have in mind?" She reached over and tapped the screen before I could stop her, the prompt still sitting there patiently.
 
-My thumb hovered a second, then I just typed it, letters and a number, done before I talked myself out of it.
+My thumb hovered a second, then I just typed it, done before I talked myself out of it.
 
-**[USERNAME SET: TDRAG]**
+**[USERNAME SET: NYKRI]**
 
 "There," I said, and held the screen up.
 
-"TDRAG." She said it slow, testing how it sat. "I like it."
+"Nykri." She said it slow, testing how it sat. "I like it."
 
 We finished stacking the last of the pages in a silence that had stopped being awkward somewhere in the last thirty seconds. I was close enough now to see the seam where her glasses didn't quite sit right on her face, like they weren't originally hers.
 

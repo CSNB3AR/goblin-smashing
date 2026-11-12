@@ -13,7 +13,7 @@ Tatsuya's full biological sibling, along with twin brother Taji, all three shari
 
 **Visual reference (locked):** locs like Tatsuya, a real family trait, not a coincidence. Red hoodie, expressive, easily annoyed, wears her moods openly the way Tatsuya's learned not to.
 
-**Flagged forward-plot, not yet detailed:** once Tatsuya's actually making real money, she and Taji end up discovering his HGO/T-Drag identity. A real, coming beat, not worked out further here.
+**Flagged forward-plot, not yet detailed:** once Tatsuya's actually making real money, she and Taji end up discovering his HGO/Nykri identity. A real, coming beat, not worked out further here.
 
 ## Personality
 

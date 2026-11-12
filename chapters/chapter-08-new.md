@@ -114,7 +114,7 @@ I tried to push myself up again, my arm shaking with the effort, and managed to 
 
 The figure stepped even closer, ash trailing behind him, and the temperature in the tent dropped noticeably. Cold seeped through the canvas walls, sharp enough that I felt it prickle across my skin.
 
-"Calm yourself," the voice said, quieter now, almost amused. "Calm yourself, T-Drag. Or can I call you T? Seems easier on my tongue. If I meant to kill you, you'd already be dead. This is just what standing near me costs, for now."
+"Calm yourself," the voice said, quieter now, almost amused. "Calm yourself, Nykri. Or can I call you Nyk? Seems easier on my tongue. If I meant to kill you, you'd already be dead. This is just what standing near me costs, for now."
 
 *"He knows my username. And he just shortened it."* Forums said quest NPCs responded to keywords, but this felt different. Either way, world-tier meant gear, which meant money.
 

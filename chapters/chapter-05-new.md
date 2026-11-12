@@ -100,9 +100,9 @@ A panel unfolded in the middle of my vision.
 
 I almost laughed. *"The screen I never got. So that's why. The game wanted me to meet my clan leader first and name myself there, and I ran into a world quest before I ever reached his tent."* I thought for half a second, then typed.
 
-"T-Drag," I said.
+"Nykri," I said.
 
-"T-Drag." Sevish turned the name over and glanced at Wyx.
+"Nykri." Sevish turned the name over and glanced at Wyx.
 
 She said nothing. Her amber eyes hadn't left me since the stew, and the corner of her mouth moved, not quite a smile. A small notification flickered at the edge of my vision and faded.
 
@@ -168,7 +168,7 @@ The logout icon still sat white where the quest update had cleared it. I could l
 
 "I need a few days," I said out loud, squaring my shoulders at Sevish this time. "Three days to think about this and figure out my next move."
 
-"You may have them, T-Drag," Sevish said, and his tone made it clear that wasn't a negotiation, it was a decision he'd already made. "But you stay in camp while you think."
+"You may have them, Nykri," Sevish said, and his tone made it clear that wasn't a negotiation, it was a decision he'd already made. "But you stay in camp while you think."
 
 Two guards stepped forward from just inside the entrance and flanked me without being told to, smooth and practiced.
 

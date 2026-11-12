@@ -31,9 +31,9 @@ The text below was written for single-elimination 20v20 sieges and **is to be re
 
 ## Physical-attendance requirement
 
-Once a guild reaches the world stage, its core players must attend a regional HGO stadium for the remainder, Tokyo for APAC. This is the mechanism behind two reveals landing in the same stretch: Tatsuya's first public appearance as T-Drag outside a stream overlay, and Eren's first in-person discovery that T-Drag is Tatsuya. Neither gets advance warning, the draw does it.
+Once a guild reaches the world stage, its core players must attend a regional HGO stadium for the remainder, Tokyo for APAC. This is the mechanism behind two reveals landing in the same stretch: Tatsuya's first public appearance as Nykri outside a stream overlay, and Eren's first in-person discovery that Nykri is Tatsuya. Neither gets advance warning, the draw does it.
 
-**Eren's side includes PK_Wraith** (see `codex/characters/pk-wraith.md`). Haruto's public exit from Kansai Black Lotus (Chapter 8) leaves Eren without anyone strong willing to team with him, and PK_Wraith takes the open slot, his vendetta against T-Drag already real since Chapter 10. When the draw puts them in a session with Haya Storm, it lands the identity-reveal beat and PK_Wraith's revenge beat together, coincidence and not anyone's plan.
+**Eren's side includes PK_Wraith** (see `codex/characters/pk-wraith.md`). Haruto's public exit from Kansai Black Lotus (Chapter 8) leaves Eren without anyone strong willing to team with him, and PK_Wraith takes the open slot, his vendetta against Nykri already real since Chapter 10. When the draw puts them in a session with Haya Storm, it lands the identity-reveal beat and PK_Wraith's revenge beat together, coincidence and not anyone's plan.
 
 ## Haya Storm's run
 

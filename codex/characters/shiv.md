@@ -8,7 +8,7 @@ Ash-and-smoke form, wide-brimmed hat, burning green eyes.
 
 ## Facts
 
-Strong character from the old draft, well-written voice, worth preserving almost entirely as-is. Grants Tatsuya (in-game name TDRAG) a legendary bound item, the first piece of "Shiv's Warset" (a set of unique items; it is not the seven world weapons): the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`), which negates the goblin Wisdom penalty and unlocks the Shaman's Veil spirit magic path, plus Gambler's Gambit.
+Strong character from the old draft, well-written voice, worth preserving almost entirely as-is. Grants Tatsuya (in-game name NYKRI) a legendary bound item, the first piece of "Shiv's Warset" (a set of unique items; it is not the seven world weapons): the Call of the Bones Necklace (see `codex/objects/call-of-the-bones-necklace.md`), which negates the goblin Wisdom penalty and unlocks the Shaman's Veil spirit magic path, plus Gambler's Gambit.
 
 Worldbuilding tied to Shiv: goblins are historically barred from the capital; there's a hidden "Astralum Archive" beneath the palace that Shiv wants Tatsuya to eventually reach (see `codex/locations/astralum-archive.md`).
 

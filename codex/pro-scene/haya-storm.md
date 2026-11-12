@@ -12,7 +12,7 @@
 ## Roster
 
 **Core three, formed around Crownfall, stays together:**
-- **Tatsuya (T-Drag)**: Arcane Bomber, an amplifier who roots, stacks debuffs and ignites (see `codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`), explicitly not a tank and not a hard-CC caster, his only root is short and resistible.
+- **Tatsuya (Nykri)**: Arcane Bomber, an amplifier who roots, stacks debuffs and ignites (see `codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`), explicitly not a tank and not a hard-CC caster, his only root is short and resistible.
 - **Arya**: highly skilled Spellforger, fog/silence control via Book of Tempest's Hushveil (see `codex/magic/book-of-tempest.md`, `codex/characters/arya.md`), an information broker who asks to join his adventure, then his guild later. In the party engine she is the detonator.
 - **Pac_Pac**: Beastfolk brawler/tank with the Enrage racial (see `codex/characters/pac-pac.md`). How he enters the group is open now that the random-teammate mechanic is gone.
 
@@ -22,7 +22,7 @@
 
 **Roster-composition rule, resolves how Tochi's representation actually works.** Tochi's representation rules require a majority of a 5-player representing squad to be actively enrolled at the school. Tatsuya only needs the squad's still-unnamed final two additions to be Tochi students, Arya and Pac_Pac never have to be. This is what actually makes winning the Tochi representative qualifier (see `codex/pro-scene/tochi-representative-qualifier.md`) mechanically possible without changing who's already on the team.
 
-**End of Act Two, where the team stands:** a real, popular breakout team, T-Drag and Pac_Pac's own public profiles doing real work for its visibility, one tournament win (Tochi's representative slot) plus a strong Crownfall showing, a few real sponsors, positioned for Season One, not full pro status yet.
+**End of Act Two, where the team stands:** a real, popular breakout team, Nykri and Pac_Pac's own public profiles doing real work for its visibility, one tournament win (Tochi's representative slot) plus a strong Crownfall showing, a few real sponsors, positioned for Season One, not full pro status yet.
 
 ## Cross-references
 

@@ -102,7 +102,7 @@ I backed out and pulled up my character sheet, skill list on the left, thumb scr
 
 Everyone out there already knew it was live. That was a target on me whether I wanted one or not. I pulled the hoodie sleeves down over my knuckles.
 
-I switched to Loop, set my handle to TDRAG to match the game, and set a goblin icon as my profile image instead, something pulled straight off my own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to me.
+I switched to Loop, set my handle to NYKRI to match the game, and set a goblin icon as my profile image instead, something pulled straight off my own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to me.
 
 After swiping through Loop for a bit I pulled up the Companion App next. Streams stacked down the front page, viewer counts running six figures on some of them, chat scrolling too fast to read on the biggest ones.
 
@@ -256,7 +256,7 @@ Leon dropped into the chair at the operator's booth, the monitor already syncing
 
 I flipped it so I could go live as soon as I got back in HGO.
 
-**[STREAM STARTING IN 60 SECONDS – TDRAG]**
+**[STREAM STARTING IN 60 SECONDS – NYKRI]**
 
 No names blinked into the chat window yet. Just me and an empty feed, and I couldn't tell if that was a relief or the opposite.
 
