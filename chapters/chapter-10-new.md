@@ -230,7 +230,7 @@ I looked toward the tent flap. Less movement outside.
 
 A notification caught the edge of my vision before I could move.
 
-**[THRASH CLAN DEFENDERS: 15/50]**
+**[THRASH CLAN DEFENDERS: 15/25]**
 
 Fifteen out of twenty-five. The count barely had time to register. There was one person I needed to know was still alive.
 
