@@ -23,7 +23,7 @@ All three tags are simultaneously true. It doesn't graduate out of being a World
 
 ## Chapter 8's invasion notification is a Breach Quest, not part of the Call of the Bones chain
 
-The Bloodhurst invasion notification (`**[BREACH QUEST: DOMAIN DEFENSE]**`, `[INTRUDERS INVADING BLOODHURST]`, `[THRASH CLAN DEFENDERS: 50/50]`, a live countdown timer) is a separate category from Call of the Bones. It's real, in-fiction confirmation of the already-locked ~50-goblin warband scale (see `codex/locations/bloodhurst.md`), concrete stakes texture for the tent-ambush resolution in Chapter 9, not a World Quest scope change and not a stage of the Call of the Bones chain itself.
+The Bloodhurst invasion notification (`**[BREACH QUEST: DOMAIN DEFENSE]**`, `[INTRUDERS INVADING BLOODHURST]`, `[THRASH CLAN DEFENDERS: 25/25]`, a live countdown timer) is a separate category from Call of the Bones. It's real, in-fiction confirmation of the already-locked ~50-goblin warband scale (see `codex/locations/bloodhurst.md`), concrete stakes texture for the tent-ambush resolution in Chapter 9, not a World Quest scope change and not a stage of the Call of the Bones chain itself.
 
 ## Cross-references
 

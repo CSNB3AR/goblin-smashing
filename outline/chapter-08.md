@@ -14,7 +14,7 @@ Sevish, who carries his two-handed battle axe (he always carried an axe), presse
 
 ## New: the Breach Quest invasion notification
 
-A gold-bordered system notification fires: `**[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 50/50]** **[INVASION TIMER: 00:04:37]**`. Retagged from an earlier "WORLD QUEST UPDATED: CALL OF THE BONES" framing, a real category error, this invasion is a Breach Quest (territory/settlement under attack), a separate category from the Call of the Bones chain (see `codex/lore/quest-types-and-categories.md`). Concrete, in-fiction confirmation of the already-locked ~50-goblin warband scale (see `codex/locations/bloodhurst.md`). This is stakes texture, not a scope change, the actual on-page resolution stays the small tent ambush in Chapter 9, not a camp-wide battle.
+A gold-bordered system notification fires: `**[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 25/25]** **[INVASION TIMER: 00:04:37]**`. Retagged from an earlier "WORLD QUEST UPDATED: CALL OF THE BONES" framing, a real category error, this invasion is a Breach Quest (territory/settlement under attack), a separate category from the Call of the Bones chain (see `codex/lore/quest-types-and-categories.md`). Concrete, in-fiction confirmation of the already-locked ~50-goblin warband scale (see `codex/locations/bloodhurst.md`). This is stakes texture, not a scope change, the actual on-page resolution stays the small tent ambush in Chapter 9, not a camp-wide battle.
 
 ## New: the full character-sheet readout
 
