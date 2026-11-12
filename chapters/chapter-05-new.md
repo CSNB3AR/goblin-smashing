@@ -48,15 +48,19 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 *"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd heard it at work and filed it as marketing. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
 
-"Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "I caught only the end of it. You tell me this one made that blast and killed two of my men, flat out?"
+"Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Even so, two of my men are dead, and this camp has already lost too many. I cannot let that go unnoticed."
 
-Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder like she knew exactly who was looking. "He is a crafty one," she said, dry warmth in her voice. "He drew them into his own fumes and set the ground alight. One hell of an explosion, I say. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her, and I made myself keep my eyes on her face. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
+He pulled the axe out of the dirt, easy, one-handed. Behind him boots scraped, and goblins at the edge of the firelight started drifting closer. Three enforcers I hadn't seen before stepped out of the dark, hands on their weapons.
+
+*"Damn it."* I kept my face still while my pulse slammed. *"Looks like I fight my way out of this, or I run. Me against him is a flea against a level eighty, and if he uses that stun again I'm done. Is there any way out?"* My eyes slid to the edges of my vision without moving my head, counting the gaps between the tents and how close the nearest goblins stood. Close enough that a cloud of gas right now would buy me a few steps.
+
+Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder like she knew exactly who was looking. "Brother," she said again. "I am witness to it. Whatever came after, those two started the fight, and this one is the only goblin in our camp who held to the clan's rule. He is a crafty one, too. He drew them into his own fumes and set the ground alight. One hell of an explosion, I say. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her, and I made myself keep my eyes on her face. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
 
 My hands loosened at my sides. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
 Sevish looked at his sister for a long moment and didn't argue.
 
-"The matter." He chewed on it, and the grin came back slow. "Hah. Perhaps so." He pointed the axe at me. "You killed two of my men. This camp has already lost too many, and I cannot overlook that. It leaves you in my debt. But a goblin who can kill two enforcers has power, and power I understand. I may find a use for you. There is a task I have been turning over."
+"Our task." He chewed on it, and the grin came back slow. "Hah. Perhaps so." He pointed the axe at me. "You killed two of my men, and that leaves you in my debt. A goblin who can kill two enforcers has power, and power I understand. I may find a use for you. There is a task I have been turning over."
 
 A purple notification bloomed at the edge of my vision.
 
