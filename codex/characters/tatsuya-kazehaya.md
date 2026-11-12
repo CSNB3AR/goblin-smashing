@@ -118,4 +118,4 @@ He is not a newcomer to the game. He has studied HGO for about six and a half mo
 
 ## Name: Nykri (author-stated, latest)
 
-His in-game name and username is **Nykri**. The author does not want "T-Drag" anymore, so every use was renamed (61 spots across the active chapters, codex, outlines and the bible). He types the name at the clan lead's tent in Chapter Six, matches his Loop handle to it in Chapter Seven, and is called Nykri by Sevish, Shiv (who shortens it to "Nyk"), Ru and the stream. The old superseded drafts and the third-person copies still say T-Drag and were left alone on purpose.
+His in-game name and username is **Nykri**. The author does not want "T-Drag" anymore, so every use was renamed (61 spots across the active chapters, codex, outlines and the bible). He types the name at the clan lead's tent in Chapter Six, types it as his app username in Consequences in Silence and matches his Loop handle to it in VRSA Inspection, and is called Nykri by Sevish, Shiv (who shortens it to "Nyk"), Ru and the stream. The old superseded drafts and the third-person copies still say T-Drag and were left alone on purpose.
