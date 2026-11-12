@@ -176,7 +176,7 @@ The logout icon still sat white where the quest update had cleared it. I could l
 
 "Of course," Sevish said, and it came out as a decision he'd already made.
 
-"I'll need time to prepare, too," I said. "A plan, before I go anywhere near that library."
+"I'll need time to prepare, too," I said. "A plan, before I go anywhere near Lunarest."
 
 "Then prepare, Nykri. But you stay in camp while you do."
 
