@@ -22,12 +22,12 @@
 ### Leon returns, then the log-in
 
 - Leon comes back, Arya leaves for J-Link ("met a new friend"), and he tells her "Your sister is different." Leon offers to be on comms more and warns the stream can run about an hour before he cuts it. The arcade closes at nine but he can play it out.
-- In-dive log-in: smoke that smells wrong, a quiet camp, the oil lamp low. `**[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**`, `**[THRASH CLAN DEFENDERS: 15/50]**`, and "Ru!" (`**[END CHAPTER NINE, PART TWO]**`).
+- In-dive log-in: smoke that smells wrong, a quiet camp, the oil lamp low. `**[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**`, `**[THRASH CLAN DEFENDERS: 15/25]**`, and "Ru!" (`**[END CHAPTER NINE, PART TWO]**`).
 
 ## Chapter 10, Part One ("Silence and Fire")
 
 - Dark tent, gear back on (Gambler's Earring, Call of the Bones necklace, Goblin Leather Chest Plate). The sheet now shows secondary stats and Leon explains them over comms. The squishy build has a magic ceiling and no floor.
-- Camp damage, the party screen showing Ru as MOBILE (alive). Burn marks along the northern line, fifteen goblins where fifty stood.
+- Camp damage, the party screen showing Ru as MOBILE (alive). Burn marks along the northern line, fifteen goblins where twenty-five stood.
 - Sevish's tent: the confrontation ("Whose fault is that, though"), Wyx asks about Shiv, Affiliation ticks (Thrash Clan, Wyx), Field Command with three Thrash auxiliaries, the scouting report (four raiders in a red tent, Kesh counted), recovery-timer math, Leon confirms.
 - Leon on the friend code: Arya told him she was done playing; Tatsuya shares his mother's six-month window and the debt. Arya joins the party (Spellforger) and merges channels; her texts: two of Tokyo's biggest guilds are talking about moving on his location.
 - The red tent below the camp: nameplates Rian, Talo, Joss and Spellweaver_Lyn, `**[GUILD: ANSWERS TO PK_WRAITH]**`. The plan: three walls, three goblins, Arya on the fourth, Hushveil over the whole tent. Arya warns that PK_Wraith's handle has been running a thread across the guild chats tracking this World Quest.
