@@ -8,17 +8,7 @@ Every MMORPG I'd ever played or watched had roots and stuns, depending on the cl
 
 The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
-A purple notification slid in beside the status icon.
-
-**[WORLD QUEST UPDATED: CALL OF THE BONES]**
-
-**[STAGE 1 OBJECTIVE COMPLETE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
-
-**[NEW OBJECTIVE: CONVINCE SEVISH AND WYX THAT YOU ARE AN ALLY]**
-
-My jaw tightened, the only thing I could still clench. *"Ally. I can't force that, I have to earn it. It's the only way this quest keeps moving, and if I blow it I'm stuck, and the best shot I've ever had at growing into this class goes with it."*
-
-The icon ticked to three. *"One way in, one way out, straight through two I can't even inspect and twenty goblins. I'm outmatched, and the smart move is probably not getting my ass sent back to the Cathedral."* The lock that came after was the real cost. *"Seventy-two hours is a long wait. The Gambit got me lucky early money, but luck runs out. Three days stuck with ¥16,800 of vials I can't put on the board sends me crawling back to Gato, and costs me the quest and the levels. I need to show Chiyo this pays before she's back. Think."*
+The icon ticked to three. *"One way in, one way out, straight through two I can't even inspect and twenty goblins. I'm outmatched, and the smart move is probably not getting my ass sent back to the Cathedral."* The lock that came after was the real cost. *"Seventy-two hours is a long wait. The Gambit got me lucky early money, but luck runs out, and three days locked out sends me crawling back to Gato with nothing to show Chiyo. Think."*
 
 **[STATUS EFFECT EXPIRED: IMMOBILIZED]**
 
@@ -27,6 +17,16 @@ The weight left all at once and my legs shook and prickled as I came up out of t
 "Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it." I folded my arms and held his stare.
 
 Sevish said nothing, the axe loose in his fist. The immobilize was still prickling out of my arms, and somewhere past the tents the crickets ticked on, the only thing in camp not holding its breath. I kept going before the quiet could set. "It was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I unfolded my arms and spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
+
+A purple notification slid in at the edge of my vision.
+
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
+
+**[STAGE 1 OBJECTIVE COMPLETE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
+
+**[NEW OBJECTIVE: CONVINCE SEVISH AND WYX THAT YOU ARE AN ALLY]**
+
+*"Ally. It wants what I was already angling for. I can't force it, I have to earn it, and if I blow this the quest stalls with me stuck in it."* I kept my hands loose and my eyes on Sevish.
 
 A murmur ran through the five or six goblins hanging back by the stew pot and died, and it wasn't the idle camp noise from before. It had an edge on it that made my palms sweat. I let my eyes drift over them. One goblin took a step back. The one nearest the pot stared at me like I'd walked up and slapped the chieftain. Beside the crate the kid made a thin, scared sound, his pointed ears pinned flat, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it, a small curve of a smile in the drifting smoke.
 
@@ -210,7 +210,7 @@ Sixteen thousand eight hundred yen from one roll, in my first hour, and the Gamb
 
 It left me with more questions than answers. *"What does that die do when my Fortune climbs? Bigger drops, bigger crits, something I haven't even seen yet?"* I'd walked in with a Spellforger build drawn up with Eren and ended up in a goblin body I'd never planned for, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
 
-I'd take his mission. A clan at my back and a quest nobody else had was a start, and it only worked if I could keep playing. *"Chiyo's going to ask where I'm spending my days."* She already thought quitting school for a gas station counter would wreck my future, which was why she kept pushing Tochi, and a bed on campus, safe from the Tabuchis. To make her hear me out, I needed real money in my hands by the time she got back, and a job at Leon's she could check with Leon. If Leon paid less than Gato for the same hours, she'd skip the argument and send me straight to Tochi. That meant Eren down the hall and off-campus leave only on weekends, and weekends alone would kill the plan. The game was new, drops and world firsts were up for grabs, and the beta guilds already sat on legacy gear worth millions. Every day I couldn't log in, they pulled further ahead. And Mom's surgery still needed money I didn't have.
+I'd take his mission. A clan at my back and a quest nobody else had was a start. *"Chiyo's going to ask where I'm spending my days."* If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
 
 In the corner of my vision the chat window I hadn't looked at since spawning suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
 
