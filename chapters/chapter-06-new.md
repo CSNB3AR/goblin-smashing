@@ -1,18 +1,18 @@
 # Chapter Seven: Consequences in Silence
 
-The pod hissed open and the real world came back wrong.
+The shell hissed open and the real world came back wrong.
 
-Sound first, the low hum of Sakura Arcade's overhead lights where there'd been fire and wind and twenty goblins doing whatever goblins did at night. Then weight, my body settling into the padded interior with legs that were suddenly too long and hands that were suddenly too big. Then smell, old electronics and carpet cleaner instead of woodsmoke and whatever that stew had been.
+Weight first, my whole body hanging in the cuffs, too heavy and too tall after the goblin, legs that were suddenly too long and hands that were suddenly too big. Then the smell, dust and warm plastic and solder where there'd been woodsmoke and whatever that stew had been. Last came the low hum of Sakura Arcade's pendant lights and the monitors out front, where a minute ago there'd been fire and wind and twenty goblins doing whatever goblins did at night. My stomach rolled like I'd stepped off a boat, and the pod room swam at the edges, a half-beat behind my eyes.
 
-I lay there a second longer than I needed to, staring at the curved shell of the pod above me.
+*"Damn. If it hits like this every time I log out, that's going to get old."*
 
-*"Okay. That's going to happen every single time I log out."*
+I hung there until the room stopped turning. *"Okay. That's going to happen every single time I log out."*
 
-I sat up slow, pulled the visor off, and set it on the rim. I popped the access panel and eased the drive out of its port. Dad's manual still lay open on the floor where I'd left it, pages marked in his handwriting. I closed it carefully, my thumb running along the worn spine before I tucked it into my bag with the letter still inside. Some habits didn't need a reason.
+I popped the cuffs and stepped down off the platform, my knees stiff from standing locked in there so long. I rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
-I stood, and my knees cracked loud in the small room. *"I'm stretching before I get in that thing next time. For real."*
+Dad's manual still lay open on top of my bag where I'd left it. I eased the drive out of the slot beside the headrest, closed the manual carefully, and ran my thumb along the worn spine before I tucked it into the bag with the letter still inside. Some habits didn't need a reason.
 
-I pulled my phone out on the walk back to the main room, opened the HGO Companion App, and held the drive against the back of it.
+I pulled my phone out on the walk down the hallway, past the dark rooms and humming racks, opened the HGO Companion App, and held the drive against the back of it.
 
 **[SCANNING...]**
 
@@ -22,9 +22,9 @@ I pulled my phone out on the walk back to the main room, opened the HGO Companio
 
 My account loaded, the goblin face of my avatar staring back at me from a small circle at the top of the screen. *"That's not the face I picked. Not that I picked it."*
 
-**[USERNAME NOT SET. TAP TO CREATE ONE.]**
+**[NYKRI - LEVEL 3 - GOBLIN]**
 
-*"Later. I already have a name for it."* I swiped it away and kept scrolling.
+*"Nykri. Still strange, seeing it written down."* I swiped on.
 
 Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
 
@@ -32,7 +32,7 @@ My inventory sat above that.
 
 **[GOBLIN GADGET BELT - COMMON (LOCKED)]**
 
-**[GAMBLER'S EARRING - UNIQUE (BOUND, CANNOT BE SOLD)]**
+**[GAMBLER'S EARRING - UNIQUE (EQUIPPED)]**
 
 **[MINOR ELIXIR x2 - UNCOMMON]**
 
@@ -64,21 +64,21 @@ I pocketed the phone, pulled it back out almost immediately, and opened Loop on 
 
 *"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
 
-*"Wild."* *"Not my problem. I'm already starting from the bottom."* I killed the screen.
+*"Wild."* *"Not my problem. I'm already starting from the bottom."* I wanted to stay and dig, but the lantern lamps out front were going dark one bank at a time, and Leon was waiting. I killed the screen.
 
-Leon was at the counter when I stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
+The warm lantern lamps over the brick pillars were half dimmed for closing, and Leon was at the counter with a couple of chairs already up on the desks behind him, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
 
-"How'd it go?"
+"You look like you got hit by a truck." He almost smiled. "Sorry again about the booth thing. How'd it go?"
 
-"Pod held," I said. "No crashes. Ran longer than I thought it would."
+"Pod held," I said. My legs still weren't all the way mine, and I leaned on the counter. "No crashes. Ran longer than I thought it would."
 
-"Good." Leon nodded, easy, nothing behind it. He glanced toward the dark hallway where the second pod sat, then back. "Listen. I want to be straight with you before you start getting comfortable coming back here. Business is slow right now, and I don't want you thinking that open access is a permanent thing if it turns into a habit for both of us."
+"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "Like I said in there, I can't see what you're in on that monitor, and nobody runs long sessions on those pods. If something went wrong, I wouldn't know until you didn't come out." He glanced toward the dark hallway where the second pod sat, then back. "So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I don't want you thinking open access is a permanent thing if it turns into a habit for both of us."
 
 I did the math fast before speaking. "How slow are we talking?"
 
 Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
 
-"So you're getting cooked on every front." My thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should probably hear too."
+"So you're getting cooked on every front." My thumb found the edge of the counter. Leon was being straight with me, and I was standing there on a pod I'd bent the rules on. "Alright. Since we're being real, I've got something you should hear too."
 
 Leon's eyebrows went up. "Go ahead."
 
@@ -200,21 +200,13 @@ Neither of us said anything for a second that ran a beat too long to be nothing.
 
 "It's fine," she said, too fast, like she needed to get ahead of the silence. "I wasn't watching either."
 
-I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, screen still lit, the blank username field still open and waiting.
+I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, screen still lit, the goblin avatar and my new name glowing in the corner.
 
 "You play?" she asked, tilting her head, a real question.
 
-"Just started." I turned the phone slightly without meaning to. "Haven't even set a username for the app."
+"Just started." I turned the phone slightly without meaning to.
 
-Something flickered across her face, amused, like I'd said the funniest thing she'd heard all week. "Well, let's change that. What did you have in mind?" She reached over and tapped the screen before I could stop her, the prompt still sitting there patiently.
-
-My thumb hovered a second, then I just typed it, done before I talked myself out of it.
-
-**[USERNAME SET: NYKRI]**
-
-"There," I said, and held the screen up.
-
-"Nykri." She said it slow, testing how it sat. "I like it."
+"Nykri." She read it slow, testing how it sat. Something flickered across her face, amused, like I'd handed her the funniest thing she'd heard all week. "I like it."
 
 We finished stacking the last of the pages in a silence that had stopped being awkward somewhere in the last thirty seconds. I was close enough now to see the seam where her glasses didn't quite sit right on her face, like they weren't originally hers.
 

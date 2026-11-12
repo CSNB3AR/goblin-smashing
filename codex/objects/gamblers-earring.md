@@ -24,3 +24,7 @@ Unique items level with their user; the earring's dice has its own level. Around
 - **Design rule: every gamble has a risk.** If there is no chance of a failure there is no point, so there is always a cutoff.
 - OPEN: whether the roll number is the enhancement level; what the punishment on a 1 is; the ability's name; exact trigger level; whether it affects only his own next ability or the party's by default.
 - Tatsuya does not know the dice scales or that a second ability exists; he finds out when it levels.
+
+## Sellable (author-stated, latest)
+
+The earring is NOT bound or unsellable: he got it from a roll, so he can sell it. The app shows it as `UNIQUE (EQUIPPED)` with no "cannot be sold" tag. (It still has the death-penalty drop exemption noted above, and he is not going to sell it.)
