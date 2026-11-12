@@ -26,7 +26,7 @@ I blinked, my head tilting a degree. *"Huh. That's not how NPCs talk in the clip
 
 **[AFFILIATION: WYX THRASH - 45% → 48%]**
 
-*"So the game has an affiliation system of some kind. Good to know. I'm curious how that builds over time."*
+*"So the game has an affiliation system of some kind. Good to know. I'm curious how that builds over time."* My eyes lingered on the number.
 
 Sevish's eyes went from Wyx to me and back, and he rolled one shoulder, shifting his weight like a leader reading the room before he spoke into it. His tag flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, his heavy brows lifting and his whole chest shaking with it as he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
@@ -38,7 +38,7 @@ I looked back over the watchers, hunting for one face that would meet mine, anyo
 
 The silence stretched, and I cut into it before it could set. "If you don't believe me, that's on you," I said, and made myself hold his stare. "But it happened how I said it did."
 
-Every word I'd told him was true. What I'd left out sat at the back of my throat, that the fight probably never happens if I hadn't said what I said to those two. *"If that comes out, who knows what he does with it. Hopefully nobody brings it up."*
+Every word I'd told him was true. What I'd left out sat at the back of my throat, that the fight probably never happens if I hadn't said what I said to those two. *"If that comes out, who knows what he does with it. Hopefully nobody brings it up."* My thumb pressed into my palm.
 
 The quiet pulled tight as a bowstring. My ears flicked at every shift of the crowd, and a cold drop of sweat slid down my spine.
 
@@ -50,7 +50,7 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 "Is that so?" Sevish turned to her, and the amusement went out of his face and left attention behind. I figured whatever she said next would carry more weight than anything I could. "You tell me he felled two of ours that easily?"
 
-"If they were fool enough to run headlong into his fumes and choke on them," Wyx said, dry warmth in her voice, "what use were they to us, brother?" My head snapped toward her. *"She even caught the gas."* A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
+"If they were fool enough to run headlong into his fumes and choke on them," Wyx said, dry warmth in her voice, "what use were they to us, brother?" My head snapped toward her. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
 
 She let it settle, her voice warming, her gaze lifting past the firelight. "And if we are in earnest about Shiv's cause, ask yourself whether a goblin who speaks so might serve it. He may help us with the matter that has stopped us."
 
@@ -72,7 +72,7 @@ My pulse kicked. As far as I knew nobody else had touched this quest, and if wor
 
 "Not here," Sevish said. He jerked his chin at the crate where the kid still stood stiff against the wood. "Inside, the both of you."
 
-Three goblins in real armor stepped out of the dark, fitted leather and metal plates, weapons drawn and not yet raised. White tags floated above their heads. *"Real gear. These aren't like the two I just dropped."*
+Three goblins in real armor stepped out of the dark, fitted leather and metal plates, weapons drawn and not yet raised. White tags floated above their heads, and my eyes went to the plate and buckles. *"Real gear. These aren't like the two I just dropped."*
 
 "You come with us," one of them said, voice flat and professional. Another peeled off toward the crate. "And you, runt."
 
@@ -86,7 +86,7 @@ Sevish's eyes went from me to the kid and back, taking his time. The kid pressed
 
 "Name," Sevish said, voice deep and rough, a voice that carried without getting loud. "I know every goblin who has walked through this camp, and I have never seen your face. Where do you hail from?" He tipped his head. "Are you new to these parts?"
 
-*"New here. I'm probably the first stranger this camp has ever had."* I weighed what he could actually follow. Pods and character creation were out, and the true answer in his terms was short.
+I took a breath and weighed what he could actually follow. Pods and character creation were out, and the true answer in his terms was short.
 
 "T-Drag," I said, keeping my hands where he could see them. "I woke up by your fire pit tonight. I don't know how I got there."
 
@@ -95,8 +95,6 @@ Sevish's eyes went from me to the kid and back, taking his time. The kid pressed
 She said nothing. Her amber eyes hadn't left me since the stew, and the corner of her mouth moved, not quite a smile. A small notification flickered at the edge of my vision and faded.
 
 **[AFFILIATION: WYX THRASH - 48% → 52%]**
-
-*"Up again. Talking to them like people is working. Maybe that's how Yuna gets into places nobody else can."*
 
 Sevish stood from his chair, slow and deliberate, the axe sliding into the sling across his back, and walked around the table. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
@@ -114,7 +112,7 @@ I shifted my weight onto the other foot, the cold of the packed dirt coming up t
 
 "Three that I can count," Wyx said quietly, her eyes on the map. "It feels like more." Sevish's mouth flattened, and he let it go.
 
-*"Three times. Three that she can count. They both say it like the number matters."*
+My eyes flicked between them. *"Three times. Three that she can count. They both say it like the number matters."*
 
 "We tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "It does not work. But what you did back there, slipping through instead of meeting them head-on, using the ground, that is not something anyone here can do. It may be what we need."
 
@@ -146,7 +144,7 @@ Before I could answer, the clock in the corner of my vision caught me.
 
 9:41 PM.
 
-*"Damn."*
+I winced. *"Damn."*
 
 Leon's voice crackled through the pod's external speaker a second later, distant and tinny, cutting in from somewhere outside the world I was standing in. "Hey, heads-up, we're closing in about thirty minutes. Just wanted to give you a warning."
 
@@ -158,7 +156,7 @@ I blinked, a goblin chieftain's tent on one side and Leon's voice reaching in fr
 
 "Nah, it's been good," I said, keeping my voice casual while my heart hammered from everything happening inside the game.
 
-Sevish and Wyx were both looking at me strangely now.
+Sevish and Wyx were both looking at me strangely now, and my ears went hot.
 
 *"Right. They can't hear Leon. All they see is me talking to empty air. Great first impression, the new guy talks to himself."*
 
@@ -198,15 +196,15 @@ I ducked through the entrance, my shorter frame making it easier than it would h
 
 I sat and the straw stuffing crackled under me. I pulled one foot up and found the sole raw and gritty. *"Shoes. First thing I buy."*
 
-This was where I'd be staying until I gave them an answer. *"Three days. I asked for them."*
+This was where I'd be staying until I gave them an answer. *"Three days. I asked for them."* I let out a slow breath.
 
 I pulled the two green vials out of my inventory. They materialized in my palm, and I turned them over in my green hands. The number stamped beneath each one was easy to read: ¥8,400.
 
 Sixteen thousand eight hundred yen from one roll, in my first hour, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin I couldn't have wiped off if I'd tried. *"Not a bad first login."*
 
-It left me with more questions than answers. *"What does that die do when my Fortune climbs? Bigger drops, bigger crits, something I haven't even seen yet?"* I'd walked in with a Spellforger build drawn up with Eren and ended up in a goblin body I'd never planned for, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
+It left me with more questions than answers. I touched the dice at my ear. *"What does that die do when my Fortune climbs? Bigger drops, bigger crits, something I haven't even seen yet?"* I'd walked in with a Spellforger build drawn up with Eren and ended up in a goblin body I'd never planned for, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
 
-I'd take his mission. A clan at my back and a quest nobody else had was a start. *"Chiyo's going to ask where I'm spending my days."* If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
+I went back over the whole night. I'd stepped in for the kid, answered when they came at me, and held my ground when it counted, and the quest had moved because of it. If I wanted it to keep moving, I had to keep building something solid with this group. I couldn't tell yet how it would turn out, but nobody else had touched this quest, and that kept pulling the corners of my mouth up. *"Chiyo's going to ask where I'm spending my days."* I picked at a loose thread in the bedroll. If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
 
 In the corner of my vision the chat window I hadn't looked at since spawning suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
 
