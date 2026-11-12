@@ -52,7 +52,7 @@ Sevish turned to her, the amusement still sitting in the corner of his mouth. He
 
 Boots scraped by the stew pot. The goblin who'd stared at me like I'd slapped the chieftain took a slow step forward, one hand on the club at his belt, and slowed, his eyes on the scorch marks and then on me. Not one of them had lifted a hand when the enforcers went after the kid, and now they crept in behind him, wide of the black patch, like they needed to be seen doing something. Sevish raised a hand without turning around, and every one of them froze. The camp held its breath. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
 
-I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, I fight my way out or I run."* My eyes slid into the corners of my vision without moving my head, counting the gaps between the tents. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
+I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, running is the only option. Fighting through that isn't happening."* My eyes slid into the corners of my vision without moving my head, counting the gaps between the tents. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
 
 Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder. "He is what we have been missing, brother," she said, dry warmth in her voice. "He slipped round two enforcers faster than most of us can turn, then set the ground alight under them. One hell of an explosion, I say. Think what that would do to a wall. And if we are thinking of Shiv, he held to Shiv's law and kept the peace among our own, which is more than those two did. We have failed at our task more than once, and we did not come all this way for nothing. We gave up a great deal leaving Myrrhwood."
 
@@ -64,7 +64,11 @@ My hands loosened. I was nervous, but under it something bright kept fizzing in 
 
 Sevish looked at his sister for a long moment and didn't argue.
 
-"Hah. Perhaps so." He pointed the axe at me. "A goblin who can kill two enforcers has power, and power I understand. I may find a use for you. There is a task I have been turning over."
+He pointed the axe at me. "A goblin who can kill two enforcers has power, and power I understand. There is a task I have been turning over. Help us with it, and you stand with Thrash. Refuse, and you are an enemy of this clan."
+
+Clearly nobody had touched this quest. That made it extremely rare, in a game this new, and I had a way to make real money off it. Things were looking up, for the time being. I kept my face still and held his stare.
+
+"I'm in," I said. "Tell me what you need."
 
 A purple notification bloomed at the edge of my vision.
 
@@ -74,29 +78,31 @@ A purple notification bloomed at the edge of my vision.
 
 **[NEW OBJECTIVE: GATHER INFORMATION ON SHIV]**
 
-My pulse kicked. As far as I knew nobody else had touched this quest, and if word got out, this camp would be a farming zone overnight.
+**[LOGOUT AVAILABLE]**
 
-"Not here," Sevish said. He jerked his chin at the crate where the kid still stood stiff against the wood. "Inside, the both of you."
+The gray line that had blocked my logout since I'd spawned was gone. I filed that away.
 
-Three goblins in real armor stepped out of the dark, fitted leather and metal plates, weapons drawn and not yet raised. White tags floated above their heads, and my eyes went to the plate and buckles. *"Real gear. These aren't like the two I just dropped."*
+"We should talk inside," Sevish said. He jerked his chin at the big tent, then at the kid pressed against my side. "Both of you."
 
-"You come with us," one of them said, voice flat and professional. Another peeled off toward the crate. "And you, runt."
+He turned and walked, the watchers parting for him, Wyx falling in at his shoulder. I followed with the kid at my heel. Goblins stopped to watch us pass, my bare soles aching on the packed dirt.
 
-They didn't bind or touch us, just fell in on either side and started walking, close enough that running wasn't an option. Goblins stopped to watch us pass, my bare soles aching on the packed dirt. Wyx fell in a few paces behind. I kept my eyes forward and my stride even.
-
-We stopped at the big tent, bone totems carved into the posts on either side of the flap. A guard pulled it open and gestured us inside.
+Bone totems were carved into the posts on either side of the big tent's flap. Sevish held it for his sister and let it fall behind us.
 
 I ducked through, the kid right behind me, into cooler air and the light of a single oil lamp hanging from the center pole. Sevish dropped into the chair behind a crude table of stacked crates, the axe leaning within reach, and when Wyx took up a position at his shoulder, the tent got more formal.
 
 Sevish's eyes went from me to the kid and back, taking his time. The kid pressed so close to my side I could feel him shaking.
 
-"Name," Sevish said, voice deep and rough, a voice that carried without getting loud. "I know every goblin who has walked through this camp, and I have never seen your face. Where do you hail from?" He tipped his head. "Are you new to these parts?"
+"Your name," Sevish said, voice deep and rough, a voice that carried without getting loud.
 
-I took a breath and weighed what he could actually follow. Pods and character creation were out, and the true answer in his terms was short.
+A panel unfolded in the middle of my vision.
 
-"T-Drag," I said, keeping my hands where he could see them. "I woke up by your fire pit tonight. I don't know how I got there."
+**[ENTER YOUR NAME]**
 
-"Woke up," Sevish repeated, turning the words over. "T-Drag." He glanced at Wyx.
+I almost laughed. *"The screen I never got. So that's why. The game wanted me to meet my clan leader first and name myself there, and I ran into a world quest before I ever reached his tent."* I thought for half a second, then typed.
+
+"T-Drag," I said.
+
+"T-Drag." Sevish turned the name over and glanced at Wyx.
 
 She said nothing. Her amber eyes hadn't left me since the stew, and the corner of her mouth moved, not quite a smile. A small notification flickered at the edge of my vision and faded.
 
@@ -104,21 +110,15 @@ She said nothing. Her amber eyes hadn't left me since the stew, and the corner o
 
 Sevish stood from his chair, slow and deliberate, the axe sliding into the sling across his back, and walked around the table. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
-"I cannot let you walk out of here without knowing more," Sevish said, voice carrying absolute certainty. He paused, letting that sink in, then continued. "You have shown more in one fight than most of this camp has shown in weeks. Only my sister has shown as much." A nod toward Wyx, who was still watching me with that sharp, evaluating gaze. "So here is what I offer."
+"You have shown more in one fight than most of this camp has shown in weeks," Sevish said. "Only my sister has shown as much." A nod toward Wyx. "She will tell you what we are about."
 
-"Myrrhwood is a bleak place, and worse each year. Shiv has been gone near half a century, and the clans have never found their footing since. That is why Wyx and I gathered our people and came this far, to find what Shiv hid before he vanished and carry it home, so we may survive what is coming. Thrash gave its land to another clan to make the journey. Every goblin in this camp left something behind. Bring the clans together as they once were, and no other race shoves us about again."
+"Myrrhwood is a bleak place, and worse each year," Wyx said, and the dry warmth went out of her voice. "Shiv has been gone near half a century, and the clans have never found their footing since. My brother and I gathered our people and came this far to find what Shiv hid before he vanished and carry it home, so we may survive what is coming. Thrash gave its land to another clan to make the journey. Every goblin in this camp left something behind. Bring the clans together as they once were, and no other race shoves us about again." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan answered to Shiv once. My grandfather's generation knew it. I mean to see it with my own eyes."
 
-"The old tales say every clan answered to Shiv once," Wyx said, her voice softening, her eyes going somewhere far past the canvas wall. "My grandfather's generation knew it. I mean to see it with my own eyes."
+*"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
-*"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."*
+"We have tried the rally three times," Wyx went on, her eyes on the map. "Three that I can count. It feels like more. We could not get past the city guard and the adventurers who rally to them." Sevish's mouth flattened, and he let it go.
 
-I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on his face.
-
-"We have tried the rally three times," Sevish continued, his tone matter-of-fact, not defensive. "Three times we failed. We could not get past the city guard and the adventurers who rally to them."
-
-"Three that I can count," Wyx said quietly, her eyes on the map. "It feels like more." Sevish's mouth flattened, and he let it go.
-
-My eyes flicked between them. *"Three times. Three that she can count. They both say it like the number matters."*
+My eyes flicked between them. *"Three that she can count. She says it like the number matters, and he lets it slide."*
 
 "We tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "It does not work. But what you did back there, slipping through instead of meeting them head-on, using the ground, that is not something anyone here can do. It may be what we need."
 
@@ -130,19 +130,11 @@ My long fingers curled against my thighs.
 
 I reached for my chin again, the same habit whenever I was weighing something, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
 
-"Finish this, and you stand under Thrash's protection. You are ours, and we are yours. Whoever comes for you comes for the clan."
+"Finish this, and you stand under Thrash's protection. You are ours, and we are yours. Whoever comes for you comes for the clan. Take the task and do not return, and we leave. If we cross paths after that, you are an enemy. That is all."
 
 *"Real, long-term backup. That's not nothing."* A bead of sweat rolled down my temple.
 
-"And if I don't?" I asked, needing to hear the other side spelled out just as clearly.
-
-Sevish's tag flickered again, and so did Wyx's.
-
-"Then you stay here," Sevish said, and there was no heat in his voice, no threat, just a plain statement of fact. "I do not let one who can kill two of my men walk off into the world before I know which side he stands on. And understand this. If you take the task and do not return, we leave. If we cross paths after that, you are an enemy. That is all."
-
-The small sharp teeth of this new mouth caught against my lip. *"So I don't really get to say no. I only get to pick when."*
-
-Wyx spoke for the first time since we'd entered the tent, her voice dry and carrying a hint of warmth that didn't quite match the sharpness in her eyes. "Gently, brother. You will frighten off the first promising thing we have found in months." She laid two fingers on his forearm, light as a touch could be, and I watched the tension in that thick arm ease a degree. She turned her amber eyes on me. "He stood up for a runt over a bowl of stew. A goblin like that returns." A beat. "And he amuses me, at least. That is worth something."
+Wyx laid two fingers on her brother's forearm, light as a touch could be, and I watched the tension in that thick arm ease a degree. She turned her amber eyes on me. "He stood up for a runt over a bowl of stew. A goblin like that returns." A beat. "And he amuses me, at least. That is worth something."
 
 Sevish grunted, weighed it, and gave a short nod. "She is usually right," he said to me, flat and plain. "Do not make her wrong."
 
@@ -171,6 +163,8 @@ Sevish and Wyx were both looking at me strangely now, and my ears went hot.
 "A voice." I shrugged. "It comes and goes." It was close enough to true.
 
 "Spirits do that," she said, and let it go, though her eyes stayed on me a beat longer than the answer needed.
+
+The logout icon still sat white where the quest update had cleared it. I could leave whenever I wanted, but I wasn't going to vanish on them.
 
 "I need a few days," I said out loud, squaring my shoulders at Sevish this time. "Three days to think about this and figure out my next move."
 
