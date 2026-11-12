@@ -2,17 +2,27 @@
 
 The shell hissed open, and the bell was still ringing in my head. *"That wasn't just for me. That was a public announcement. The whole server just heard a world quest go live."*
 
-Then the pod room settled around me. The overhead tube hummed above the polished shell, the cable bundles tied off down its sides, Kazuhaya Tech stamped small near the base. I hung in the cuffs in a cradle built for a shorter man, too heavy and too tall after the goblin, my legs suddenly too long and my hands suddenly too big. The air smelled of warm plastic and solder where there'd been woodsmoke. My stomach rolled like I'd stepped off a boat, and the room swam at the edges, a half-beat behind my eyes.
+Then the pod room came back around me one piece at a time. The overhead tube humming. The polished shell and the cable bundles tied off down its sides, Kazuhaya Tech stamped small near the base. The smell of cigarette smoke and dust and plastic, the same as when I'd gone under, with something hotter threaded through it.
 
-*"Damn. That's going to happen every single time I log out."*
+My vision was blurry. Not dark, just smeared, the room dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop, and I swallowed twice and let it pass. *"Okay. Rough, but I can work with rough."*
+
+Then my own size hit me. After the goblin I felt enormous. A little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, knees nudging the front of the shell, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
 I hung there until the room stopped turning, the chat still scrolling behind my eyes and my pulse not coming down with the rest of me.
 
-I popped the cuffs and stepped down off the platform, my knees stiff from standing locked in there so long. I rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
+Heat was coming off the shell. I could feel it through the padding, and the cooling fan was dragging in its housing with a whine I hadn't heard going in.
 
-Dad's manual still lay open on top of my bag where I'd left it. I eased the drive out of the slot beside the headrest, closed the manual carefully, and ran my thumb along the worn spine before I tucked it into the bag with the letter still inside. Some habits didn't need a reason.
+I popped the cuffs and stepped down off the platform, knees stiff from standing locked in there so long, and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
-I pulled my phone out on the walk down the back hallway, past the dark rooms and humming racks, floorboards creaking under my boots, opened the HGO Companion App, and held the drive against the back of it.
+The laptop was still plugged into the service port where I'd left it, the toolbox packed and waiting by the door. I woke the screen with my thumb. The core temperature had climbed in a ragged red line the whole session and never once flattened. It had held, but only just. *"That core was never built to carry this. I'm running a bypass on a prayer."* A third-gen core wouldn't have broken a sweat on HGO, and I only knew one place that kept them on a shelf. Tochi's technology lab.
+
+I unplugged the laptop and slid it into my bag. Then I eased the drive out of the slot beside the headrest, closed Dad's manual, and ran my thumb along the worn spine before I tucked it in beside the laptop with the letter still inside. Some habits didn't need a reason.
+
+I took the bag on one shoulder and the toolbox in my free hand, and pulled my phone out on the walk down the back hallway, past the dark rooms and humming racks, floorboards creaking under my boots.
+
+9:43 PM. Leon had said twenty minutes to closing, which left me seventeen. Nothing new from Chiyo on the lock screen. Just the thread I'd left on a thumbs-up.
+
+I opened the HGO Companion App, pinned the toolbox under my arm, and held the drive against the back of the phone.
 
 **[SCANNING...]**
 
@@ -28,9 +38,9 @@ My account loaded, the goblin face of my avatar staring back at me from a small 
 
 A banner sat across the top of the home screen before I could swipe on.
 
-**[WORLD QUEST ACTIVE: CALL OF THE BONES | REGION: LUNAREST OUTSKIRTS]**
+**[WORLD QUEST ACTIVE: CALL OF THE BONES]**
 
-It had a region and no name. *"They told everyone where. They didn't say who."* I swiped past it, and my thumb wasn't quite steady.
+That was all it said. No zone, no name. *"They told everyone it started. They didn't say where, or who."* I swiped past it, and my thumb wasn't quite steady.
 
 Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
 
@@ -42,45 +52,73 @@ My inventory sat above that.
 
 **[MINOR ELIXIR x2 - UNCOMMON]**
 
-I tapped the elixirs. The app flagged me before I could do anything.
+I tapped the elixirs, and the listing opened.
 
-**[BANK ACCOUNT REQUIRED TO COMPLETE SALE]**
+**[MINOR ELIXIR | VALUE: 21,000 SHILLINGS EACH]**
+
+Twenty-one thousand. Shillings, not yen. For a mana potion. I'd read enough forum threads to know a minor elixir was bread and butter, and this wasn't bread and butter money. Another line sat under it.
+
+**[MARKET REFRESH: OPEN BETA | STANDING BUY ORDERS ACTIVE]**
+
+*"That's why."* Open beta had just wiped every shop and stash on the server back to the starting line, and every guild that had been sitting on a wish list since closed beta had buy orders stacked on the market, desperate for anything that got their mages ready early. Mana restoratives sat at the top of every list. Next week the prices would settle. Tonight, somebody would pay almost anything.
+
+I confirmed the listing, already bracing to wait. The vials vanished almost immediately.
+
+**[BUY ORDER MATCHED: 2 ITEMS]**
+
+**[SOLD: 42,000 SHILLINGS]**
+
+That was stage one, and it only counted inside the game. Shillings were the money Eryndal ran on, and they didn't leave it. A second prompt rose over the first.
+
+**[EXCHANGE SHILLINGS FOR HGO COINS?]**
+
+**[10 SHILLINGS = 1 HGO COIN]**
+
+I confirmed that too.
+
+**[4,200 HGO COINS RECEIVED]**
+
+Stage two. The coins were the bridge, the one thing the game would let out of its own walls. One more prompt, and it was the one that mattered.
+
+**[CASH OUT HGO COINS?]**
+
+**[1 HGO COIN = ¥4]**
+
+**[BANK ACCOUNT REQUIRED TO COMPLETE CASH OUT]**
 
 I linked the account my WattsUp paychecks already hit, a few taps and a code texted to my phone, and the warning cleared.
 
-**[MARKET VALUE: ¥8,400 EACH]**
-
-**[LIST FOR SALE?]**
-
-I confirmed it, already bracing to wait on a listing. Instead the vials vanished from my inventory almost immediately, replaced by a single gold-bordered line.
-
-**[SALE COMPLETE: ¥16,800 DEPOSITED]**
+**[CASH OUT COMPLETE: ¥16,800 DEPOSITED]**
 
 **[BANK BALANCE: ¥64,120]**
 
-*"That fast?"* I read it again. No fee, no cut, nothing taken off the top. I tilted the screen away from the hallway light, half expecting it to take the money back.
+Shillings to coins to yen. Three steps, and nothing taken off the top at any of them. I read the number again and tilted the screen away from the hallway light, half expecting it to take the money back.
 
-My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
+It didn't. I stood in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
 
-I pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put. Then I backed out to the feed, and the feed was already loud.
+I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
-**[@PK_Wraith: World Quest just popped at Lunarest. First one in months. Y'all better believe we're getting a piece of that.]**
+*"If I ever stream this, the name and the face have to already be there."* The Companion App had a Go Live toggle three taps from my character sheet, and the people at the top of the front page hadn't gotten there on gameplay alone. They'd gotten found. A name people could search, a face they'd remember, and somewhere for a sponsor to send an email. It wasn't a plan yet. It was a door I'd just stopped leaving locked.
+
+Then I backed out to the feed, and the feed was already loud.
+
+**[@PK_Wraith: World Quest just went live. First one in months. Y'all better believe we're getting a piece of that.]**
 
 **[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
 
-*"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. Every thread said it the same way. The announcement had gone to the whole server, nobody knew who'd triggered it, and people were already comparing screenshots of the bell and trying to narrow down where in the outskirts it had started.
+*"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. Every thread said it the same way. The announcement had gone out to the whole server and said nothing else, no zone and no name. People were comparing screenshots of the bell and arguing over who it could have been.
 
-*"They've got the region. They don't have the camp."* My hands had gone cold, and then, slowly, steadier. A camp with one path in and out wasn't something anyone stumbled onto on the first night. I had a few days. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
+*"They don't know where. They don't know who."* My hands had gone cold, and then, slowly, steadier. That wouldn't last forever, but it bought me a few days. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
 
-*"Wild."* *"Not my problem. I'm already starting from the bottom."* I wanted to stay and dig, but Leon was waiting up front, and I'd already kept him late. I killed the screen.
+*"Wild."* *"Not my problem. I'm already starting from the bottom."* I wanted to stay and dig, but the clock at the top of the screen said 9:49 PM, Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
-Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
+Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. The chairs were already up on the desks along the wall. He set the tablet down when he saw me cross the floor.
 
 "You look like you got hit by a truck." He almost smiled. "Sorry again about the booth thing. How'd it go?"
 
-"Pod held," I said. My legs still weren't all the way mine, and I leaned on the counter. "No crashes. Ran longer than I thought it would."
+"Pod held," I said. My legs still weren't all the way mine, and I set the toolbox down and leaned on the counter. "No crashes. Ran longer than I thought it would."
 
-"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "Like I said in there, I can't see what you're in on that monitor, and nobody runs long sessions on those pods. If something went wrong, I wouldn't know until you didn't come out." He glanced toward the dark hallway where the second pod sat, then back. "So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I don't want you thinking open access is a permanent thing if it turns into a habit for both of us."
+"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "Like I said in there, I can't see what you're in on that monitor, and nobody runs long sessions on those pods. If something went wrong, I wouldn't know until you didn't come out." He glanced toward the dark hallway where the second pod sat, then back. "So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I can't keep handing out open access if it turns into a habit for both of us."
 
 I did the math fast before speaking. "How slow are we talking?"
 
@@ -94,9 +132,9 @@ Leon's eyebrows went up. "Go ahead."
 
 Leon went very still. "Is the machine okay?"
 
-"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. Your second pod is a shell right now, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
+"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. The core in that pod is nearly dead. The bypass is holding it up, and I watched it run hot the entire time I was in there. Your second pod is a shell, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
 
-I shifted my weight off the counter, my legs still not quite trusting the floor after the pod.
+I shifted my weight off the counter, my legs still not quite trusting the floor.
 
 Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
 
@@ -104,7 +142,7 @@ Leon studied me, something shifting behind his glasses. "You're actually telling
 
 Leon started to say something, stopped, and shook his head slow instead.
 
-"The second pod's the harder problem," I said. "Getting it running is one thing. Doing it right, keeping it running, that needs parts that don't exist on any shelf anymore." I paused a moment. "I know where to find what I actually need, though."
+"Here's the problem," I said. "A bypass only keeps it alive for so long. Doing it right needs third-gen cores, and those don't exist on any shelf you or I can walk up to. I know where to find them, though."
 
 "Where?"
 
@@ -112,19 +150,23 @@ Leon started to say something, stopped, and shook his head slow instead.
 
 Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy."
 
-"Yeah."
+"Yeah. Their technology lab has them. They've got the coursework to certify the work, too."
 
 "That explains a lot, actually."
 
 "Wasn't trying to hide it," I said. "Just wasn't relevant until now."
 
-Leon leaned back against the counter, arms loose. "Okay. Here's what I want to do. I'll get a tech in here tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
+"So the way you fix my pods is by going back to school."
+
+"Or I stay out, take a job here, and keep patching it by hand until the core finally dies. Which won't take long." I made myself say the rest. "Tochi means a bed on campus and the game on weekends. I'd lose most of my time in the pod."
+
+Leon leaned back against the counter, arms loose, and I watched him put it together. "Okay. Here's what I want to do. I'll get a tech in here tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
 
 "I can do that."
 
-"And if this actually comes together," Leon said, "one of those pods is yours. Permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. Just keep it quiet until we're actually ready. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." He ticked it off on his fingers. "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you get the parts from Tochi when the time comes. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
-*"Sponsored."* I turned the word over once. *"Yeah. Okay. I can work with that."* A muscle in my cheek twitched as I tried to keep a grin off my face.
+*"A pod, a job I can point at, and the parts."* I turned it over once. *"He gets two working machines. I get a seat I don't have to beg for. Yeah. That's a deal."* A muscle in my cheek twitched as I tried to keep a grin off my face.
 
 "One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
 
@@ -134,11 +176,15 @@ I meant it more than the two words let on. Patching a pod with a bypass and Dad'
 
 I scratched along my goatee. The thought had felt like a loss a week ago. It didn't feel that way anymore.
 
-"I believe you," Leon said.
+"I believe you," Leon said, and flipped the sign on the door.
 
-Outside, my breath misted in the cold. I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the half-second scan until the dash lit green and the visor threw the route line across the street. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
+Outside, my breath misted in the cold. I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message sat near the top, the one about Tochi, with my thumbs-up under it that hadn't answered anything. I typed, deleted it, typed again.
 
-Two things before I went home. The hospital, then the thread with Chiyo I'd left on a thumbs-up.
+**[Thinking about going back to Tochi.]**
+
+I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the half-second scan until the dash lit green and the visor threw the route line across the street. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
+
+One thing before I went home. The hospital.
 
 I pulled out into the street.
 
@@ -160,7 +206,7 @@ The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying 
 
 I leaned back and pushed the loose loc behind my ear where it kept falling.
 
-"But I made some money already. Sixteen thousand eight hundred yen off two elixirs I got from a kill."
+"But I made some money already. Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
 
 The words came easier here than they did anywhere else.
 
@@ -208,7 +254,7 @@ Neither of us said anything for a second that ran a beat too long to be nothing.
 
 "It's fine," she said, too fast, like she needed to get ahead of the silence. "I wasn't watching either."
 
-I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, screen still lit, the goblin avatar and my new name glowing in the corner.
+I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, still lit on my HGO profile where I'd been fidgeting with it, the goblin face and my new name glowing in the corner.
 
 "You play?" she asked, tilting her head, a real question.
 
@@ -240,7 +286,7 @@ I pocketed the note and looked down the empty hall where she'd gone, and the qui
 
 I pulled out my phone.
 
-Chiyo's last message sat at the top of the thread, the one about Tochi I'd answered with a thumbs-up because a thumbs-up cost me nothing.
+My thread with Chiyo was still open from outside the arcade. My own message sat at the bottom, *Thinking about going back to Tochi*, still unread on her end, and above it her last one about Tochi with my thumbs-up underneath.
 
 She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
 

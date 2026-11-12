@@ -168,7 +168,7 @@ I looped it around my waist and felt it settle, then picked up the vials, a numb
 
 **[RESTORES 30 MANA]**
 
-**[AUCTION PRICE: ¥8,400 EACH]**
+**[AUCTION PRICE: 21,000 SHILLINGS EACH]**
 
 The number hadn't even finished registering when a chill swept through me, scalp to fingertips, and my body went numb. A war roar erupted out of the big tent, loud enough to make the fires flinch. I got my head turned toward it. That was all that would move.
 

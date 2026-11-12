@@ -204,9 +204,9 @@ I sat and the straw stuffing crackled under me. I pulled one foot up and found t
 
 This was where I'd be staying until I gave them an answer. *"A bit of time. I asked for it."*
 
-I pulled the two green vials out of my inventory and turned them over in my green hands. ¥8,400 each.
+I pulled the two green vials out of my inventory and turned them over in my green hands. Twenty-one thousand shillings each.
 
-Sixteen thousand eight hundred yen from one roll, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin. *"Not a bad first login."*
+Run through the exchange, that came out to sixteen thousand eight hundred yen from one roll, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin. *"Not a bad first login."*
 
 It left me with more questions than answers. I touched the dice at my ear. *"Fortune feeds crits and drops, I know that much. What does this die do as it climbs?"* I knew this game cold, down to the Spellforger build I'd drawn up with Eren. A goblin body I'd never planned for was the blank.
 

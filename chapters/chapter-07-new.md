@@ -18,13 +18,13 @@ The thought didn't make me less angry. It just made the anger sit somewhere diff
 
 I shut the water off, dried off fast, and pulled on a pair of sweats. On my way through the front room I swung by the kitchen counter, scooped the phone up without breaking stride, and carried it back to my room before dropping onto the bed. Only then did I actually look at what she'd sent.
 
-Two texts, both short, both hours old.
+Two texts, both short, sent a minute apart.
 
 **[Chiyo: You doing okay? Haven't heard from you in a bit.]**
 
 **[Chiyo: Let me know when you get home safe.]**
 
-Nothing about Tochi in either one, same as the note she'd left on the counter that morning, already gone before I'd even gotten up. First real contact between us all day.
+Nothing about the Tochi message I'd sent her outside the arcade, same as the note she'd left on the counter that morning, already gone before I'd even gotten up. She either hadn't seen it yet or wasn't ready to answer it.
 
 I typed a reply, cut it down twice, and sent the shortest version.
 
