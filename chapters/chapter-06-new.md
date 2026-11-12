@@ -56,7 +56,7 @@ I confirmed it, already bracing to wait on a listing. Instead the vials vanished
 
 My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
 
-I pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. My own profile loaded first, follower count still embarrassingly low in the corner. I typed out a real bio this time, not the blank field I'd left sitting there for a year, something short and dry about a goblin who didn't plan on being one, and cut it down twice before I let it post. Then I backed out to the feed, and the feed was already loud.
+I pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put. Then I backed out to the feed, and the feed was already loud.
 
 **[@PK_Wraith: World Quest just popped at Lunarest. First one in months. Y'all better believe we're getting a piece of that.]**
 
