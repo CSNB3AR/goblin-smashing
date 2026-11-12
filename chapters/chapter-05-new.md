@@ -32,7 +32,7 @@ Sevish's eyes went from Wyx to me and back, and he rolled one shoulder, shifting
 
 The grin thinned. "If it happened as you say, we have no quarrel. The clan's rule is that we do not fight each other. But why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. If any of you saw it, speak."
 
-He'd read the fight off the scorched ground. I glanced at the black patch, then back to him.
+Sevish's gaze dropped to the black scorch marks. I looked at them too, then back at him.
 
 I looked back over the watchers, hunting for one face that would meet mine, anyone who'd been near the stew pot when it started. Nobody answered. The kid's mouth worked, but all that came out was a thin breath, and the watchers only muttered, low and shapeless, none of it aimed at Sevish. The dice on my earring ticked against my jaw when I swallowed.
 
@@ -54,7 +54,7 @@ He pulled the axe out of the dirt, easy, one-handed. Behind him boots scraped, a
 
 *"Damn it."* I kept my face still while my pulse slammed. *"Looks like I fight my way out of this, or I run. Me against him is a flea against a level eighty, and if he uses that stun again I'm done. Is there any way out?"* My eyes slid to the edges of my vision without moving my head, counting the gaps between the tents and how close the nearest goblins stood. Close enough that a cloud of gas right now would buy me a few steps.
 
-Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder like she knew exactly who was looking. "Brother," she said again. "I am witness to it. Whatever came after, those two started the fight, and this one is the only goblin in our camp who held to the clan's rule. He is a crafty one, too. He drew them into his own fumes and set the ground alight. One hell of an explosion, I say. Think what that would do to a wall. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her, and I made myself keep my eyes on her face. A snort went through the watchers, and the kid's shaking eased a little.
+Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder. "Brother," she said again. "I am witness to it. Whatever came after, those two started the fight, and this one is the only goblin in our camp who held to the clan's rule. He is a crafty one, too. He drew them into his own fumes and set the ground alight. One hell of an explosion, I say. Think what that would do to a wall. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her, and I made myself keep my eyes on her face. A snort went through the watchers, and the kid's shaking eased a little.
 
 My hands loosened at my sides. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
