@@ -4,7 +4,7 @@ The roar had hit before I'd had a chance to enjoy the money I'd just made. Now m
 
 **[STATUS EFFECT: IMMOBILIZED - 6s]**
 
-I'd watched roots and stuns land all day on the screen over the WattsUp register and on Dosuke's streams, and on paper this was no different. What made it special was that it was the first time one had hit me like this, my body reacting as if it were real. That was probably why HGO ranked among the best virtual MMORPGs of its time, and why it was so cutting edge, with that much detail packed in. It topped the sales charts even in the closed beta. I could finally see why everyone wanted their hands on it.
+I'd watched roots and stuns land for six months on the screen over the WattsUp register and on Dosuke's streams, and on paper this was no different. What made it special was that it was the first time one had hit me like this, my body reacting as if it were real. That was probably why HGO ranked among the best virtual MMORPGs of its time, and why it was so cutting edge, with that much detail packed in. It topped the sales charts even in the closed beta. I could finally see why everyone wanted their hands on it.
 
 The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
@@ -26,7 +26,7 @@ I blinked, my head tilting a degree. *"Huh. That's not how NPCs talk in the clip
 
 **[AFFILIATION: WYX THRASH - 45% → 48%]**
 
-*"So the game has an affiliation system of some kind. Good to know. I'm curious how that builds over time."* My eyes lingered on the number.
+*"Affiliation. I've only ever seen it in the clips, never from the inside. I'm curious how it moves for a goblin."* My eyes lingered on the number.
 
 Sevish's eyes went from Wyx to me and back, and he rolled one shoulder, shifting his weight like a leader reading the room before he spoke into it. His tag flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, his heavy brows lifting and his whole chest shaking with it as he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
@@ -46,7 +46,7 @@ Then Wyx came forward from behind him, calm and unhurried, one hand resting on t
 
 My eyes followed her. She was the only one in the whole camp who'd stepped out for me.
 
-*"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd heard it and let it slide right past me. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
+*"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd heard it at work and filed it as marketing. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
 
 "Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "You tell me this one, in rags, with no armor and no blade, felled two of my enforcers? What gear did he fight with?"
 
@@ -200,7 +200,7 @@ I pulled the two green vials out of my inventory. They materialized in my palm, 
 
 Sixteen thousand eight hundred yen from one roll, in my first hour, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin I couldn't have wiped off if I'd tried. *"Not a bad first login."*
 
-It left me with more questions than answers. I touched the dice at my ear. *"What does that die do when my Fortune climbs? Bigger drops, bigger crits, something I haven't even seen yet?"* I'd walked in with a Spellforger build drawn up with Eren and ended up in a goblin body I'd never planned for, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
+It left me with more questions than answers. I touched the dice at my ear. *"Fortune feeds crits and drops, I know that much. What does this die do as it climbs?"* I knew this game cold, down to the Spellforger build I'd drawn up with Eren. A goblin body I'd never planned for was the blank, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
 
 *"Chiyo's going to ask where I'm spending my days."* I picked at a loose thread in the bedroll. If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
 

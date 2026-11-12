@@ -111,3 +111,7 @@ Essentially never travels outside Shibuya ward. His day-to-day world (WattsUp, t
 ## Company inheritance (author-stated, off the page)
 
 Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya does not know yet. It connects to the "bring your business here" thread later.
+
+## Game knowledge: curious, not oblivious (author-stated, latest)
+
+He is not a newcomer to the game. He has studied HGO for about six and a half months: the clips running on the screen over the WattsUp register all day, Dosuke AI's streams, and his little brother Taji constantly having it on at home. He had a full Spellforger build and understood the mechanics well enough that Eren, who used the build, pushed with it without understanding how it worked. What he does not know is the goblin class and his new body. Writing balance: curiosity about the class and the body, knowledge of the game. In his first fight he learns he likes Speed and sees what Fortune does, but he will not keep hitting crits. Do not write him as dumb about the game itself.
