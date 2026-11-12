@@ -98,7 +98,7 @@ A panel unfolded in the middle of my vision.
 
 **[ENTER YOUR NAME]**
 
-I almost laughed. *"The screen I never got. So that's why. The game wanted me to meet my clan leader first and name myself there, and I ran into a world quest before I ever reached his tent."* I thought for half a second, then typed.
+I almost laughed. *"Oh. So this is why they held my name back at the start. Maybe it had something to do with being a goblin."* I thought for half a second, then typed.
 
 "Nykri," I said.
 
