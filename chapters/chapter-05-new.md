@@ -1,4 +1,4 @@
-# Chapter Six
+# Chapter Six: What Is Your Name?
 
 The roar had hit before I'd had a chance to enjoy the money I'd just made. Now my chest was tight and the air itself seemed to be pressing down, squeezing me into a crouch, and no matter how hard I told my body to move, it wouldn't. Only my head would turn. A status icon popped into the top of my vision.
 

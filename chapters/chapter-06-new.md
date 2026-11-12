@@ -1,4 +1,4 @@
-# Chapter Six: Consequences in Silence
+# Chapter Seven: Consequences in Silence
 
 The pod hissed open and the real world came back wrong.
 
@@ -54,7 +54,7 @@ I confirmed it, already bracing to wait on a listing. Instead the vials vanished
 
 *"That fast?"* I read it again. No fee, no cut, nothing taken off the top. I tilted the screen away from the hallway light, half expecting it to take the money back.
 
-My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that four hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
+My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
 
 I pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. My own profile loaded first, follower count still embarrassingly low in the corner. I typed out a real bio this time, not the blank field I'd left sitting there for a year, something short and dry about a goblin who didn't plan on being one, and cut it down twice before I let it post. Then I backed out to the feed, and the feed was already loud.
 
@@ -110,7 +110,7 @@ Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy.
 
 "Wasn't trying to hide it," I said. "Just wasn't relevant until now."
 
-Leon leaned back against the counter, arms loose. "Okay. Here's what I want to do. I'll get a tech in here tomorrow, start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
+Leon leaned back against the counter, arms loose. "Okay. Here's what I want to do. I'll get a tech in here tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
 
 "I can do that."
 
@@ -156,7 +156,7 @@ I leaned back and pushed the loose loc behind my ear where it kept falling.
 
 The words came easier here than they did anywhere else.
 
-"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
+"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
 
 I stopped, my throat going tight. I let the quiet sit a second before pushing through it.
 
@@ -248,4 +248,4 @@ I slid the phone back into my pocket before continuing out of the building.
 
 The decision was already made.
 
-**[END CHAPTER SIX]**
+**[END CHAPTER SEVEN]**
