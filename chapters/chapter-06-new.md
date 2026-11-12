@@ -1,12 +1,12 @@
 # Chapter Seven: Consequences in Silence
 
-The shell hissed open and the real world came back wrong.
+The shell hissed open, and the last thing I'd thought came out with me. *"That bell went to the whole server. Everyone knows a world quest just went live, and I'm sitting in the middle of it."*
 
-Weight first, my whole body hanging in the cuffs, too heavy and too tall after the goblin, legs that were suddenly too long and hands that were suddenly too big. Then the smell, dust and warm plastic and solder where there'd been woodsmoke and whatever that stew had been. Last came the low hum of Sakura Arcade's pendant lights and the monitors out front, where a minute ago there'd been fire and wind and twenty goblins doing whatever goblins did at night. My stomach rolled like I'd stepped off a boat, and the pod room swam at the edges, a half-beat behind my eyes.
+Then the real world hit. Weight first, my whole body hanging in the cuffs, too heavy and too tall after the goblin, legs that were suddenly too long and hands that were suddenly too big. Then the smell, dust and warm plastic and solder where there'd been woodsmoke. Last came the low hum of Sakura Arcade's pendant lights and the monitors out front, where a second ago there'd been a lamp guttering in a canvas tent and a bell only I could hear. My stomach rolled like I'd stepped off a boat, and the pod room swam at the edges, a half-beat behind my eyes.
 
 *"Damn. If it hits like this every time I log out, that's going to get old."*
 
-I hung there until the room stopped turning. *"Okay. That's going to happen every single time I log out."*
+I hung there until the room stopped turning. *"Okay. That's going to happen every single time I log out."* The chat was still scrolling behind my eyes, and my pulse hadn't come down with the rest of me.
 
 I popped the cuffs and stepped down off the platform, my knees stiff from standing locked in there so long. I rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
