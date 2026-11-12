@@ -48,13 +48,13 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 *"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd heard it at work and filed it as marketing. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
 
-Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Then you saw him kill two of mine," he said. "This camp has buried too many already, sister. I will not let two more go unanswered."
+Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Then you saw him kill two of mine," he said. "I caught some of the fight myself. This camp has buried too many already, sister. I will not let two more go unanswered."
 
 He pulled the axe out of the dirt, easy, one-handed. Behind him boots scraped, and goblins at the edge of the firelight started drifting closer. Three enforcers I hadn't seen before stepped out of the dark, hands on their weapons.
 
 *"Damn it."* I kept my face still while my pulse slammed. *"Looks like I fight my way out of this, or I run. Me against him is a flea against a level eighty, and if he uses that stun again I'm done. Is there any way out?"* My eyes slid to the edges of my vision without moving my head, counting the gaps between the tents and how close the nearest goblins stood. Close enough that a cloud of gas right now would buy me a few steps.
 
-Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder like she knew exactly who was looking. "Brother," she said again. "I am witness to it. Whatever came after, those two started the fight, and this one is the only goblin in our camp who held to the clan's rule. He is a crafty one, too. He drew them into his own fumes and set the ground alight. One hell of an explosion, I say. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her, and I made myself keep my eyes on her face. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
+Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder like she knew exactly who was looking. "Brother," she said again. "I am witness to it. Whatever came after, those two started the fight, and this one is the only goblin in our camp who held to the clan's rule. He is a crafty one, too. He drew them into his own fumes and set the ground alight. One hell of an explosion, I say. Think what that would do to a wall. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her, and I made myself keep my eyes on her face. A snort went through the watchers, and the kid's shaking eased a little.
 
 My hands loosened at my sides. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
@@ -210,11 +210,11 @@ It left me with more questions than answers. I touched the dice at my ear. *"For
 
 I slid the vials back into my inventory. First things first: get offline, cash these in, and start digging. Whatever I found stayed with me until I knew what I was holding.
 
-In the corner of my vision the chat window I hadn't looked at since spawning suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
+In the corner of my vision the chat window suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
 
 **[SYSTEM ANNOUNCEMENT: WORLD QUEST | CALL OF THE BONES HAS BEEN ACTIVATED]**
 
-My eyes shot up to the chat window and I watched it erupt, questions and theories and arguments breaking out faster than I could read.
+My eyes shot up to the chat window and I watched it erupt, theories and arguments breaking out faster than I could read.
 
 *"Damn. That's not good."* I reached for the logout button and my vision of the world went dark.
 
