@@ -26,7 +26,7 @@ A small notification flickered at the edge of my vision.
 
 **[AFFILIATION: WYX THRASH - 45% → 48%]**
 
-*"So what I say moves them. I'd better watch my mouth. I've already seen how that goes wrong."*
+*"So the game has an affiliation system of some kind. Good to know. I'm curious how that builds over time."*
 
 Sevish went completely still. His tag flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, his heavy brows lifting and his whole chest shaking with it as he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
