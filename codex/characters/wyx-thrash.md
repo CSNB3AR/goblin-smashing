@@ -25,3 +25,5 @@ Natural dignity and quiet authority. A confident, responsible leader who treats 
 **The brains (author-stated).** Wyx has always shown unusual intelligence for a hobgoblin and is the voice of reason Sevish trusts, even as a devoted believer in Shiv.
 
 - **Does not use Goblin Gas (author-stated).** She has Toxic Breath but never uses it because she thinks it is not ladylike; she keeps herself presentable. She fights with advanced physical arts and rarely used Thrash clan techniques. She does not understand why Tatsuya's gas-and-flare combination works, she only saw it done.
+
+- **Voice and movement (author-stated, latest).** She swears lightly and casually (bastard, hell, bloody) in her dry, warm register, and moves with a loose, confident, teasing sway (the Rias Gremory model): rolling a shoulder, settling her weight onto one hip, black hair sliding off her shoulder. Tatsuya notices and makes himself keep his eyes on her face. She is still particular about what she will do herself (she will not use Goblin Gas or Toxic Breath, it isn't ladylike).

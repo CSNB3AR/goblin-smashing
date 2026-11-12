@@ -42,7 +42,7 @@ Every word I'd told him was true. What I'd left out sat at the back of my throat
 
 The camp went as silent as a mouse in a room with a cat. My ears flicked at every shift of the crowd, and a cold drop of sweat slid down my spine.
 
-Then Wyx came forward from behind him, calm and unhurried, one hand resting on the skull at her hip, and stopped at Sevish's shoulder. "Brother," she said, "I saw all of it."
+Then Wyx came forward from behind him, calm and unhurried, a loose sway to her stride, one hand resting on the skull at her hip, and stopped at Sevish's shoulder. "Brother," she said, "I saw all of it."
 
 My eyes followed her. She was the only one in the whole camp who'd stepped out for me.
 
@@ -50,7 +50,7 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 "Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "I caught only the end of it. You tell me this one made that blast and killed two of my men, flat out?"
 
-"He is a crafty one," Wyx said, dry warmth in her voice. "He drew them into his own fumes and set the ground alight. One hell of an explosion, I say. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
+Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder like she knew exactly who was looking. "He is a crafty little bastard," she said, dry warmth in her voice. "He drew them into his own fumes and set the ground alight. One hell of a bloody explosion, I say. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her, and I made myself keep my eyes on her face. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
 
 My hands loosened at my sides. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
