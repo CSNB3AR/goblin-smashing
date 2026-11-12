@@ -246,6 +246,6 @@ She'd kept this from me because she thought it would break something. She was wr
 
 I slid the phone back into my pocket before continuing out of the building.
 
-The decision was already made.
+*"Tochi. I'm going."*
 
 **[END CHAPTER SEVEN]**
