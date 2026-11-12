@@ -2,17 +2,17 @@
 
 The shell hissed open, and the bell was still ringing in my head. *"That wasn't just for me. That was a public announcement. The whole server just heard a world quest go live."*
 
-Then the real world hit. Weight first, my whole body hanging in the cuffs, too heavy and too tall after the goblin, legs that were suddenly too long and hands that were suddenly too big. Then the smell, dust and warm plastic and solder where there'd been woodsmoke. Last came the low hum of Sakura Arcade's pendant lights and the monitors out front, where a second ago there'd been a lamp guttering in a canvas tent and a bell only I could hear. My stomach rolled like I'd stepped off a boat, and the pod room swam at the edges, a half-beat behind my eyes.
+Then the pod room settled around me. The overhead tube hummed above the polished shell, the cable bundles tied off down its sides, Kazuhaya Tech stamped small near the base. I hung in the cuffs in a cradle built for a shorter man, too heavy and too tall after the goblin, my legs suddenly too long and my hands suddenly too big. The air smelled of warm plastic and solder where there'd been woodsmoke. My stomach rolled like I'd stepped off a boat, and the room swam at the edges, a half-beat behind my eyes.
 
-*"Damn. If it hits like this every time I log out, that's going to get old."*
+*"Damn. That's going to happen every single time I log out."*
 
-I hung there until the room stopped turning. *"Okay. That's going to happen every single time I log out."* The chat was still scrolling behind my eyes, and my pulse hadn't come down with the rest of me.
+I hung there until the room stopped turning, the chat still scrolling behind my eyes and my pulse not coming down with the rest of me.
 
 I popped the cuffs and stepped down off the platform, my knees stiff from standing locked in there so long. I rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
 Dad's manual still lay open on top of my bag where I'd left it. I eased the drive out of the slot beside the headrest, closed the manual carefully, and ran my thumb along the worn spine before I tucked it into the bag with the letter still inside. Some habits didn't need a reason.
 
-I pulled my phone out on the walk down the hallway, past the dark rooms and humming racks, opened the HGO Companion App, and held the drive against the back of it.
+I pulled my phone out on the walk down the back hallway, past the dark rooms and humming racks, floorboards creaking under my boots, opened the HGO Companion App, and held the drive against the back of it.
 
 **[SCANNING...]**
 
@@ -72,9 +72,9 @@ I pocketed the phone, pulled it back out almost immediately, and opened Loop on 
 
 *"They've got the region. They don't have the camp."* My hands had gone cold, and then, slowly, steadier. A camp with one path in and out wasn't something anyone stumbled onto on the first night. I had a few days. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
 
-*"Wild."* *"Not my problem. I'm already starting from the bottom."* I wanted to stay and dig, but the lantern lamps out front were going dark one bank at a time, and Leon was waiting. I killed the screen.
+*"Wild."* *"Not my problem. I'm already starting from the bottom."* I wanted to stay and dig, but Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
-The warm lantern lamps over the brick pillars were half dimmed for closing, and Leon was at the counter with a couple of chairs already up on the desks behind him, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
+Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
 
 "You look like you got hit by a truck." He almost smiled. "Sorry again about the booth thing. How'd it go?"
 
