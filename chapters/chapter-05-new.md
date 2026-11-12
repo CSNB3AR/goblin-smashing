@@ -120,7 +120,7 @@ Wyx stepped up beside him. "You caused quite a commotion in our camp," she said,
 
 "We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls. What we seek lies somewhere inside, in the Grand Library of Lunarest, or so the whispers say. None of us has seen it."
 
-"What you did back there, slipping through instead of meeting them head-on, using the ground," Sevish said, gesturing toward the map, "that is not something anyone here can do. It may be what we need."
+"You slipped past two enforcers where the rest of us would have met them head-on," Wyx said, tapping the map, "and you answered with a blast no goblin here could make. Everything we have tried has failed. This is the first thing that is different."
 
 My long fingers curled against my thighs.
 
