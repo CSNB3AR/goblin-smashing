@@ -118,15 +118,15 @@ Wyx stepped up beside him. "You caused quite a commotion in our camp," she said,
 
 *"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
-"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them."
+"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls. What we seek lies somewhere inside, in the Grand Library of Lunarest, or so the whispers say. None of us has seen it."
 
-"We tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "It does not work. But what you did back there, slipping through instead of meeting them head-on, using the ground, that is not something anyone here can do. It may be what we need."
+"What you did back there, slipping through instead of meeting them head-on, using the ground," Sevish said, gesturing toward the map, "that is not something anyone here can do. It may be what we need."
 
 My long fingers curled against my thighs.
 
 "The library," I repeated, making sure I understood correctly. "You want me to get into the Grand Library of Lunarest."
 
-"The restricted floors, specifically," Sevish clarified, uncrossing his arms and letting one hand drift up to the haft of the axe on his back. "The public floors hold nothing we seek. Find anything on Shiv up there, records, journals, anything that tells us what he knew or where he went, and bring it back here."
+"The restricted floors, specifically," Wyx said. "The public floors hold nothing we seek. Find anything on Shiv up there, records, journals, anything that tells us what he knew or where he went, and bring it back here."
 
 I reached for my chin again, the same habit whenever I was weighing something, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
 

@@ -84,3 +84,7 @@ The quest starts because two Thrash goblins fight each other, a cardinal sin for
 ## Why the goblins say "three" (author-stated, latest)
 
 Their memory resets after three attempts; they remember only the last three rallies, and that is ALL they know, so on the page Wyx says "We have tried the rally three times" and nothing more. They do not say it feels like more. The players and the reader know it has happened many more times, and Tatsuya will find that out himself from online research: people will be asking about the Goblin event that did not happen this month because he caused things (cause and effect: the goblins did not rally). The reset also exists so the storyline can move; without it there would be a million and one resets. Rule: NPCs must not know what the players know; they only know what they know in their world.
+
+## What Thrash knows about the library (author-stated, latest)
+
+They have NEVER gotten past the walls of Lunarest, so they have not tried the Grand Library and do not know where it is. They only have whispers and a glimpse. On the page Wyx says they could not get past the guard and the adventurers, have never gotten past the walls, and that what they seek lies somewhere inside, in the Grand Library, "or so the whispers say. None of us has seen it." Wyx also names the restricted floors and what to look for; Sevish keeps to a short line about how Tatsuya slipped through and the terms. Sevish talks less than Wyx in the briefing.
