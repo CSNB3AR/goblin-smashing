@@ -50,7 +50,7 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Yes. I understand now." He looked me over, slow. "And how do you see us benefiting from having him here?"
 
-Boots scraped by the stew pot. The goblin who'd stared at me like I'd slapped the chieftain stepped forward with a hand on the club at his belt, and the other watchers edged in after him. Sevish raised a hand without turning around, and every one of them froze. The camp held its breath. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
+Boots scraped by the stew pot. The goblin who'd stared at me like I'd slapped the chieftain stepped forward with a hand on the club at his belt. Not one of them had lifted a hand when the enforcers went after the kid, and now they edged in after him like they needed to be seen doing something. Sevish raised a hand without turning around, and every one of them froze. The camp held its breath. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
 
 I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, I fight my way out or I run."* My eyes slid into the corners of my vision without moving my head, counting the gaps between the tents. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
 
