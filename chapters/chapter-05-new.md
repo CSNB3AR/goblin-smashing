@@ -12,7 +12,7 @@ The icon ticked to three. *"One way in, one way out, straight through two I can'
 
 **[STATUS EFFECT EXPIRED: IMMOBILIZED]**
 
-The weight left all at once and my legs shook and prickled as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. Out of habit my hand went to my chin, rubbing for the goatee I only had back home, and found smooth green skin. I looked at Wyx first, back by the tent mouth, no smile, just a serious look to see what she'd give me, and she gave me nothing. Then the kid, still stiff against the crate ten feet to my left with the bowl clutched to his chest, and last Sevish, an arm's length in front of me with the big tent at his back. Up close he was a wall, and I had to look up to hold his eyes.
+The weight left all at once and my legs shook and prickled as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. Out of habit my hand went to my chin, rubbing for the goatee I only had back home, and found smooth green skin. Sevish stood an arm's length in front of me, a wall of a goblin with my head barely reaching his chest, and I had to look up to hold his eyes. Wyx stood five or six feet behind him, a head shorter than her brother and still taller than me, the big tent twenty feet back where the two of them had come from. She gave me nothing, no smile, just a serious look to see what I'd say. The kid was still stiff against the crate ten feet to my left, the bowl clutched to his chest.
 
 "Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it." I folded my arms and held his stare.
 
@@ -30,7 +30,7 @@ I blinked, my head tilting a degree. *"Huh. That's not how NPCs talk in the clip
 
 Sevish's eyes went from Wyx to me and back, and he rolled one shoulder, shifting his weight like a leader reading the room before he spoke into it. His tag flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, his heavy brows lifting and his whole chest shaking with it as he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
-The grin thinned. "If it happened as you say, we have no quarrel. Thrash keeps one law above the rest. No goblin lifts a hand against his own. But why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. If any of you saw it, speak."
+The grin thinned. "If it happened as you say, we have no quarrel. The clan's rule is plain: we do not fight each other. And you are a stranger in my camp. A goblin who wants a clan comes to its leader first, and you never came to me. A stray causing trouble under my watch, I need to know about it. So why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. If any of you saw it, speak."
 
 He'd read the fight off the scorched ground. I glanced at the black patch, then back to him.
 
@@ -40,19 +40,17 @@ The silence stretched, and I cut into it before it could set. "If you don't beli
 
 Every word I'd told him was true. What I'd left out sat at the back of my throat, that the fight probably never happens if I hadn't said what I said to those two. *"If that comes out, who knows what he does with it. Hopefully nobody brings it up."* My thumb pressed into my palm.
 
-The quiet pulled tight as a bowstring. My ears flicked at every shift of the crowd, and a cold drop of sweat slid down my spine.
+The camp went as silent as a mouse in a room with a cat. My ears flicked at every shift of the crowd, and a cold drop of sweat slid down my spine.
 
-Then Wyx came forward from the tent mouth, calm and unhurried, one hand resting on the skull at her hip, and stopped at Sevish's shoulder. "Brother," she said, "I saw all of it."
+Then Wyx came forward from behind him, calm and unhurried, one hand resting on the skull at her hip, and stopped at Sevish's shoulder. "Brother," she said, "I saw all of it."
 
 My eyes followed her. She was the only one in the whole camp who'd stepped out for me.
 
-*"She's siding with me."*
+*"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd heard it and let it slide right past me. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
 
-"Is that so?" Sevish turned to her, and the amusement went out of his face and left attention behind. I figured whatever she said next would carry more weight than anything I could. "You tell me he felled two of ours that easily?"
+"Is that so?" Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "You tell me this one, in rags, with no armor and no blade, felled two of my enforcers? What gear did he fight with?"
 
-"If they were fool enough to run headlong into his fumes and choke on them," Wyx said, dry warmth in her voice, "what use were they to us, brother?" My head snapped toward her. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
-
-She let it settle, her voice warming, her gaze lifting past the firelight. "And if we are in earnest about Shiv's cause, ask yourself whether a goblin who speaks so might serve it. He may help us with the matter that has stopped us."
+"He needed no gear," Wyx said, dry warmth in her voice. "He led them into his fumes and let them choke on them. I have not seen it done that way before. A goblin so crafty should be of use to us, brother, and of great use, since we have already failed at our task more than once." My head snapped toward her. A snort went through the watchers, my ears swiveling toward it, and the kid's shaking eased a little.
 
 My hands loosened at my sides. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
@@ -104,7 +102,7 @@ Sevish stood from his chair, slow and deliberate, the axe sliding into the sling
 
 "The old tales say every clan answered to Shiv once," Wyx said, her voice softening, her eyes going somewhere far past the canvas wall. "My grandfather's generation knew it. I mean to see it with my own eyes."
 
-*"Shiv. Never heard of him. Whoever he was, they gave up their land over tales of him."*
+*"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."*
 
 I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on his face.
 
