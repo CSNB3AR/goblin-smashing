@@ -30,7 +30,7 @@ I blinked, my head tilting a degree. *"Huh. That's not how NPCs talk in the clip
 
 Sevish's eyes went from Wyx to me and back, and he rolled one shoulder, shifting his weight like a leader reading the room before he spoke into it. His tag flickered at the edges, not turning yellow or red, just flickering like a notification trying to fire and being held back. Then a low, rough laugh broke out of him, short and a little delighted, his heavy brows lifting and his whole chest shaking with it as he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
-The grin thinned. "If it happened as you say, we have no quarrel. The clan's rule is plain: we do not fight each other. And you are a stranger in my camp. A goblin who wants a clan comes to its leader first, and you never came to me. A stray causing trouble under my watch, I need to know about it. So why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. If any of you saw it, speak."
+The grin thinned. "If it happened as you say, we have no quarrel. The clan's rule is that we do not fight each other. But why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. If any of you saw it, speak."
 
 He'd read the fight off the scorched ground. I glanced at the black patch, then back to him.
 
