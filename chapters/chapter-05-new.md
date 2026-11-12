@@ -204,7 +204,9 @@ Sixteen thousand eight hundred yen from one roll, in my first hour, and the Gamb
 
 It left me with more questions than answers. I touched the dice at my ear. *"What does that die do when my Fortune climbs? Bigger drops, bigger crits, something I haven't even seen yet?"* I'd walked in with a Spellforger build drawn up with Eren and ended up in a goblin body I'd never planned for, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
 
-I went back over the whole night. I'd stepped in for the kid, answered when they came at me, and held my ground when it counted, and the quest had moved because of it. If I wanted it to keep moving, I had to keep building something solid with this group. I couldn't tell yet how it would turn out, but nobody else had touched this quest, and that kept pulling the corners of my mouth up. *"Chiyo's going to ask where I'm spending my days."* I picked at a loose thread in the bedroll. If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
+*"Chiyo's going to ask where I'm spending my days."* I picked at a loose thread in the bedroll. If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
+
+I went back over the whole night. Stepping in for the kid had opened a world quest nobody else had touched, and keeping Sevish and Wyx on my side was how it stayed open. They could be worth a lot to me if I kept earning it. My jaw set. Whatever I learned stayed with me. Nobody could know about this until I'd worked it out, and I needed to get as far along as I could before other players caught up and figured out what was going on.
 
 In the corner of my vision the chat window I hadn't looked at since spawning suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
 
