@@ -98,7 +98,7 @@ A panel unfolded in the middle of my vision.
 
 **[ENTER YOUR NAME]**
 
-I almost laughed. *"Oh. So this is why they held my name back at the start. Maybe it had something to do with being a goblin."* I thought for half a second, then typed.
+I almost laughed. *"Oh. So this is why they held my name back at the start. Maybe it had something to do with being a goblin. Well, if I'm going to be one, I need a name that fits."* I thought for half a second, then typed.
 
 "Nykri," I said.
 
