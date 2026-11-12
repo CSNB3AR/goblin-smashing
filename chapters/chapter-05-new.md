@@ -100,7 +100,7 @@ I rolled my shoulders, easing into the room, and glanced down. The kid looked up
 
 I let my weight settle onto one foot. *"Maybe I thought less of goblins. That's on me."* She'd caught the jab and thrown it right back, quick and easy, and a grin tugged at my mouth. For a second I forgot to watch the interface at all.
 
-"Enough, the both of you," Sevish said, voice deep and rough, a voice that carried without getting loud. "What is your name?"
+"What is your name?" Sevish asked, voice deep and rough, a voice that carried without getting loud.
 
 A panel unfolded in the middle of my vision.
 
@@ -118,9 +118,7 @@ Wyx stepped up beside him. "You caused quite a commotion in our camp," she said,
 
 *"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
-"We have tried the rally three times," Wyx went on, her eyes on the map. "Three that I can count. It feels like more. We could not get past the city guard and the adventurers who rally to them." Sevish's mouth flattened, and he let it go.
-
-My eyes flicked between them. *"Three that she can count. She says it like the number matters, and he lets it slide."*
+"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them."
 
 "We tried the Grand Library by force," Sevish said, gesturing toward the map on the table. "It does not work. But what you did back there, slipping through instead of meeting them head-on, using the ground, that is not something anyone here can do. It may be what we need."
 
