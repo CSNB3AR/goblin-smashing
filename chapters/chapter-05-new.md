@@ -114,7 +114,9 @@ I almost laughed. *"Oh. So this is why they held my name back at the start. Mayb
 
 "Before you go any further, you should hear the true situation," he said. "You said you agree, but you have not heard the full terms. I do not say it to threaten you. I say it because I need to know you are truly with us, and this is not something we take lightly. My sister will lay it out."
 
-Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. Shiv has been gone near half a century, and the clans have never found their footing since. My brother and I gathered our people and came this far to find any word of him, so we may carry it home and survive what is coming. He was born in Lunarest, a human, before the curse took him, and whatever remains of him is there. That is why we marched on its walls. Thrash gave its land to another clan to make the journey. Every goblin in this camp left something behind." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan answered to Shiv once. My grandfather's generation knew it. I mean to see it with my own eyes."
+Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. The clans fight among themselves while the beastfolk on our border could destroy us all. Shiv has been gone near half a century, and the clans have never found their footing since. Thrash gave its land to another clan so my brother and I could bring our people this far. Every goblin in this camp left something behind." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan answered to Shiv once. My grandfather's generation knew it. I mean to see it with my own eyes."
+
+She drew a battered notebook from her belt, the leather cracked and dark with handling, and held it against her chest instead of setting it down. "All we know comes from these notes, carried down in our clan for years. They say Shiv had a connection to someone in Lunarest. That is all. With home as it is, we gambled and came here, to see whether anything he left behind can hold our people together."
 
 *"Shiv. The name from the quest. Whoever he was, they gave up their land over tales of him."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
@@ -126,7 +128,7 @@ My long fingers curled against my thighs.
 
 "So I'm hunting for anything on Shiv," I said, making sure I understood correctly. "Inside Lunarest."
 
-"Anything," Wyx said. "A lead on where he went, where he rests, even a page of his teachings. Bring back whatever you can find."
+"Anything he left," Wyx said. "His war set, if the tales are true. A lead on where he went, even a page of his teachings. Bring back whatever you can find."
 
 I reached for my chin again, the same habit whenever I was weighing something, and found only a ridge of smooth green skin. "And if I do this," I said slowly, working through the implications as I spoke, "what does that actually mean?"
 
