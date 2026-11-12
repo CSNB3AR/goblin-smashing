@@ -4,7 +4,7 @@ The roar had hit before I'd had a chance to enjoy the money I'd just made. Now m
 
 **[STATUS EFFECT: IMMOBILIZED - 6s]**
 
-Every MMORPG I'd ever followed had roots and things like that, but nothing in the guides said any of it would feel like this. It was the first time the game had flat out overruled my own body. It was weird, and it wasn't a screen effect I could shrug off. My body believed it. I guess that was probably why HGO ranked among the best games out, even in the closed beta.
+Every MMORPG I'd ever played or watched had roots and stuns, depending on the class, and this was no different on paper. What made it special was that it was the first time one had hit me like this, my body reacting as if it were real. That was probably why HGO ranked among the best virtual MMORPGs of its time, and why it was so cutting edge, with that much detail packed in. It topped the sales charts even in the closed beta. I could finally see why everyone wanted their hands on it.
 
 The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
@@ -12,11 +12,11 @@ The icon ticked to three. *"One way in, one way out, straight through two I can'
 
 **[STATUS EFFECT EXPIRED: IMMOBILIZED]**
 
-The weight left all at once and my legs shook and prickled as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. She'd watched the whole thing. One wrong detail from me and she'd correct it, or someone would. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish. Up close he was a wall, and I had to look up to hold his eyes.
+The weight left all at once and my legs shook and prickled as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. My hand went to my chin to scratch the goatee this face didn't have, found only smooth green skin, and dropped. I looked at Wyx first, no smile, just a serious look to see what she'd give me, and she gave me nothing. She'd watched the whole thing. Then I looked back at the kid, still stiff against the crate with the bowl clutched to his chest, and last at Sevish. Up close he was a wall, and I had to look up to hold his eyes.
 
-"Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it."
+"Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it." I folded my arms and held his stare. They'd picked the fight, and I wasn't about to apologize for finishing it.
 
-Sevish said nothing, the axe loose in his fist. The immobilize was still prickling out of my arms, and somewhere past the tents the crickets ticked on, the only thing in camp not holding its breath. I kept going before the quiet could set. "It was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
+Sevish said nothing, the axe loose in his fist. The immobilize was still prickling out of my arms, and somewhere past the tents the crickets ticked on, the only thing in camp not holding its breath. I kept going before the quiet could set. "It was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I unfolded my arms and spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
 
 A murmur ran through the watchers and died, and it wasn't the idle camp noise from before. It had an edge on it that made my palms sweat. One goblin took a step back. Another stared at me like I'd walked up and slapped the chieftain, and beside the crate the kid made a thin, scared sound, his pointed ears pinned flat, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it, and when the wind shifted the smoke and lifted her black hair off one shoulder, that small curve of a smile was the only thing I could see.
 
@@ -126,7 +126,7 @@ My hand went up to scratch my chin the way it did when I was weighing something,
 
 "Finish this, and you stand under Thrash's protection. You are ours, and we are yours. Whoever comes for you comes for the clan."
 
-*"Real, long-term backup. That's not nothing."* A bead of sweat rolled down my temple, slow and ticklish, and I let it go instead of wiping it.
+*"Real, long-term backup. That's not nothing."* A bead of sweat rolled down my temple, and I let it go instead of wiping it.
 
 "And if I don't?" I asked, needing to hear the other side spelled out just as clearly.
 
@@ -142,7 +142,7 @@ Wyx spoke for the first time since we'd entered the tent, her voice dry and carr
 
 Sevish grunted, weighed it, and gave a short nod. "She is usually right," he said to me, flat and plain. "Do not make her wrong."
 
-Before I could answer, the clock in the corner of my vision caught me, small and quiet and impossible to ignore once I'd looked.
+Before I could answer, the clock in the corner of my vision caught me.
 
 9:41 PM.
 
@@ -214,7 +214,7 @@ In the corner of my vision, barely noticeable until it moved, the chat window I 
 
 **[SYSTEM ANNOUNCEMENT: WORLD QUEST | CALL OF THE BONES HAS BEEN ACTIVATED]**
 
-My eyes shot up to the chat window and I watched it erupt. Messages flooded in so fast the text was nearly a blur, player names I didn't recognize all reacting at once, questions and theories and arguments breaking out in real time.
+My eyes shot up to the chat window and I watched it erupt, messages flooding in so fast the text was nearly a blur, questions and theories and arguments breaking out in real time.
 
 *"Damn. That's not good."* I reached for the logout button and my vision of the world went dark.
 
