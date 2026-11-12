@@ -174,14 +174,6 @@ The logout icon still sat white where the quest update had cleared it. I could l
 
 "Then prepare. But you stay in camp while you do."
 
-"One more thing." I shifted my feet on the cold floor. "If I'm staying, I need some gear. Shoes first."
-
-Wyx crossed to the chest against the canvas, pulled out a pair of worn leather boots, and tossed them to me.
-
-**[ITEM RECEIVED: WORN LEATHER BOOTS - COMMON]**
-
-I pulled them on, the stiff leather snug around my toes.
-
 "The boy stays with us," Sevish said, nodding at the kid. "I want a final report." The kid's ears pinned flat, but he stayed put. I gave him a small nod.
 
 Sevish leaned toward Wyx and murmured something. She put two fingers to her mouth and let out a loud whistle. A minute or so later, two Thrash goblins came in, hands on their clubs, and cuffed my wrists without a word.
@@ -208,7 +200,7 @@ They stopped at a tent near the eastern edge of camp, away from the central fire
 
 I ducked through the entrance, and the noise from outside dropped off almost at once. The tent was small, lit by a single oil lamp, a thin patched bedroll taking up most of the floor.
 
-I sat and the straw stuffing crackled under me, and I flexed my feet in the borrowed boots. I was glad I'd asked.
+I sat and the straw stuffing crackled under me. I pulled one foot up and found the sole raw and gritty. *"Shoes. First thing I buy."*
 
 This was where I'd be staying until I gave them an answer. *"A bit of time. I asked for it."*
 
