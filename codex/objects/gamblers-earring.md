@@ -11,3 +11,7 @@ Its card lists exactly what it grants, consistent with the rest of the deck-buil
 Unrelated to the Call of the Bones Necklace's own ability, Bone Surge (see `codex/objects/call-of-the-bones-necklace.md`), the two only share a Fortune/gambling theme.
 
 **Death-penalty exemption.** Like the necklace, the earring is exempt from the standard on-death item-drop roll (see `codex/lore/deck-building-rarity-and-classes.md`, Player death penalty), a race-roll-origin item, not just any bound item. Everything else Tatsuya carries or wears stays at normal drop risk on death.
+
+## Scaling (author-stated, hidden from Tatsuya for now)
+
+The earring is a **Unique**, and Unique items scale with their user, unlike lower rarities, which cap at a level (even Legendary stays capped around level 80+). That is why the beta's legacy Uniques go for millions. Tatsuya doesn't know the dice scale with him yet; he should find out later. NOTE: this file's header still says Rare-rarity, but Chapter Four's card reads UNIQUE, so the page wins. Update the header when convenient.
