@@ -50,7 +50,7 @@ Then Wyx came forward from the tent mouth, calm and unhurried, the firelight sli
 
 She let it settle, her voice warming, her gaze lifting past the firelight. "And if we are in earnest about Shiv's cause, ask yourself whether a goblin who speaks so might serve it. He may help us with the matter that has stopped us."
 
-My hands loosened at my sides. Under the dread, something bright and stupid kept fizzing in my chest. A couple hours ago I'd been planning on an elf. Now a brother and sister who clearly thought for themselves were arguing over whether I was worth keeping, and I was a breath from dying in front of their whole clan. *"I'm scared out of my skull and I'm having a blast. Damn."*
+My hands loosened at my sides. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions, don't blow it. Once I get a chance to log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
 Sevish looked at his sister for a long moment and didn't argue.
 
@@ -204,7 +204,7 @@ I pulled the two green vials out of my inventory. They materialized in my palm, 
 
 Sixteen thousand eight hundred yen from one roll, in my first hour, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin I couldn't have wiped off if I'd tried. *"Not a bad first login."*
 
-It left me with more questions than answers. *"What does that die do when my Fortune climbs? Bigger drops, bigger crits, something I haven't even seen yet?"* I'd walked in with a Spellforger build drawn up with Eren and ended up in a goblin body I'd never planned for, and I hadn't had one minute to look anything up. The moment I logged out I was going to tear through every goblin thread I could find. For once I'd get to be the one working out the rules.
+It left me with more questions than answers. *"What does that die do when my Fortune climbs? Bigger drops, bigger crits, something I haven't even seen yet?"* I'd walked in with a Spellforger build drawn up with Eren and ended up in a goblin body I'd never planned for, and I hadn't had one minute to look anything up. For once I'd get to be the one working out the rules.
 
 I'd take his mission. A clan at my back and a quest nobody else had was a start, and it only worked if I could keep playing. *"Chiyo's going to ask where I'm spending my days if I'm not in school and not working."* If I could say I had a job at Leon's, and Leon could back it up, she'd let me stay. But if Leon paid less than I'd been bringing in, she'd skip the argument and send me straight to Tochi. Tochi meant a bed on campus, safe from the Tabuchis, with Eren still down the hall, and off-campus leave only on weekends. Weekends alone would kill the whole plan. The game was new, drops and world firsts were up for grabs, and the beta guilds already sat on legacy gear worth millions. Every day I couldn't log in, they pulled further ahead. And Mom's surgery still needed money I didn't have.
 
