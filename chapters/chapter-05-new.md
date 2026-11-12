@@ -198,7 +198,7 @@ I ducked through the entrance, the noise from outside dropped off almost at once
 
 I sat and the straw stuffing crackled under me. I pulled one foot up and found the sole raw and gritty. *"Shoes. First thing I buy."*
 
-This was where I'd be staying until I gave them an answer. *"Three days. I asked for them."* I let out a slow breath.
+This was where I'd be staying until I gave them an answer. *"A bit of time. I asked for it."* I let out a slow breath.
 
 I pulled the two green vials out of my inventory. They materialized in my palm, and I turned them over in my green hands. The number stamped beneath each one was easy to read: ¥8,400.
 
