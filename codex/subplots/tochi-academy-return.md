@@ -23,7 +23,7 @@ Chiyo and the twins leave on a six-day school trip to Kyoto (see `codex/location
 ## Why third-gen parts mean Tochi (author-stated, Chapter Seven)
 
 - Third-gen processor cores are **never sold openly**: if anyone could buy one they could break down the schematics and copy it. They go only to partners.
-- **Tochi is the only school openly partnered with Kazuhaya Tech** (the company is too big, with too much stock at stake, to partner openly with just anyone), so its technology lab is the one place he knows to look. Ch3 has him recognise the core logo stamped on equipment there.
+- **Tochi is the only school openly partnered with Nexus Enterprises, Kazuku's company, the maker of the third-gen hardware** (Kazuhaya Tech does not own it; the company is too big, with too much stock at stake, to partner openly with just anyone), so its technology lab is the one place he knows to look. Ch3 has him recognise the core logo stamped on equipment there.
 - **Access is gated twice.** The lab needs top grades and standing, and instructors get the access, not the students. He would have to climb. His parents' names are the way in: Ohema coached volleyball there, Daichi built there.
 - **Money logic.** He wants steady income to help Mom, with the Tabuchis back and the family in debt. He also needs a reason Chiyo will accept: "I'm playing a game" will not do, so a job on the books at Leon's and visible income are what he can show her.
-- OPEN: Ch3 says the third-gen core's maker is "tied to Kazuku"; the author now says Tochi is openly partnered with Kazuhaya Tech. Kept as written; reconcile when third-gen ownership is spelled out.
+- Resolved (author-stated): the third-gen maker is Nexus Enterprises and Kazuku, consistent with Ch3's "tied to Kazuku." Kazuhaya Tech built only the first-gen pods and does not own third-gen.

@@ -16,7 +16,7 @@ My bag sat zipped against the nearest brick pillar where I'd shoved it before I 
 
 The pod was another story. Heat poured off the shell, the fan dragging in its housing with a whine I hadn't heard going in, and the wires I'd bridged to the wall ran warm along the base. *"I'm surprised I even got through a session."* A bypass wasn't a repair. It was borrowed time on a core already running at twenty percent.
 
-*"If I want long sessions, it needs a real fix, and I can't buy the part."* Third-gen cores weren't sold. If anyone could walk into a store for one, anyone could crack it open and copy the schematics, so they only went to partners. The only school openly partnered with Kazuhaya Tech was Tochi, and I'd seen that core logo stamped on equipment in its technology lab. But the lab wasn't open to just anyone. Instructors got that access, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
+*"If I want long sessions, it needs a real fix, and I can't buy the part."* Third-gen cores weren't sold. If anyone could walk into a store for one, anyone could crack it open and copy the schematics, so they only went to partners. The only school openly partnered with Nexus Enterprises was Tochi, and I'd seen that core logo stamped on equipment in its technology lab. But the lab wasn't open to just anyone. Instructors got that access, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
 
 And if Sakura Arcade closed, it took my only pod with it. Every third-gen cafe in the area was eating this place alive.
 
@@ -150,7 +150,7 @@ Leon started to say something, stopped, and shook his head slow instead.
 
 Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy."
 
-"Yeah. They're the one school openly partnered with Kazuhaya Tech, and their technology lab has them."
+"Yeah. They're the one school openly partnered with Nexus Enterprises, and their technology lab has them."
 
 "And they'd let a kid walk in and use it?"
 
