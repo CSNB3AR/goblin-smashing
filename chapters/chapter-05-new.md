@@ -4,7 +4,7 @@ The roar had hit before I'd had a chance to enjoy the money I'd just made. Now m
 
 **[STATUS EFFECT: IMMOBILIZED - 6s]**
 
-Every MMORPG I'd ever played or watched had roots and stuns, depending on the class, and this was no different on paper. What made it special was that it was the first time one had hit me like this, my body reacting as if it were real. That was probably why HGO ranked among the best virtual MMORPGs of its time, and why it was so cutting edge, with that much detail packed in. It topped the sales charts even in the closed beta. I could finally see why everyone wanted their hands on it.
+I'd watched roots and stuns land all day on the screen over the WattsUp register and on Dosuke's streams, and on paper this was no different. What made it special was that it was the first time one had hit me like this, my body reacting as if it were real. That was probably why HGO ranked among the best virtual MMORPGs of its time, and why it was so cutting edge, with that much detail packed in. It topped the sales charts even in the closed beta. I could finally see why everyone wanted their hands on it.
 
 The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
@@ -22,7 +22,7 @@ A murmur ran through the five or six goblins hanging back by the stew pot and di
 
 "He has a quick tongue on him," she said, pitched low, just loud enough to carry. "I like him."
 
-I blinked, my head tilting a degree. *"Huh. That's not what an NPC usually says. I wasn't expecting that."* A small notification flickered at the edge of my vision.
+I blinked, my head tilting a degree. *"Huh. That's not how NPCs talk in the clips. I wasn't expecting that."* A small notification flickered at the edge of my vision.
 
 **[AFFILIATION: WYX THRASH - 45% → 48%]**
 
