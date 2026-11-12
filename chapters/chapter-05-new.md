@@ -32,11 +32,11 @@ Sevish went completely still. His tag flickered at the edges, not turning yellow
 
 The grin thinned. "If it happened as you say, we have no quarrel. Thrash keeps one law above the rest. No goblin lifts a hand against his own. But why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. Who saw it?"
 
-My eyes slid past him to the gap between two tents and the dark behind the crate, counting steps I already knew I'd never get to take. The dice on my earring ticked against my jaw when I swallowed.
+I looked back over the watchers, hunting for one face that would meet mine, anyone who'd been near the stew pot when it started. Nobody answered. The kid's mouth worked, but all that came out was a thin breath, and the watchers only muttered, low and shapeless, none of it aimed at Sevish. The dice on my earring ticked against my jaw when I swallowed. *"The kid's the only one who'd speak up for me, and he can barely stand."*
 
-"It happened the way I told it," I said, and made myself hold his stare. "Believe me or don't. That's what occurred."
+The silence stretched, and I cut into it before it could set. "If you don't believe me, that's on you," I said, and made myself hold his stare. "But it happened how I said it did."
 
-Nobody answered. The kid's mouth worked, but all that came out was a thin breath, and the watchers only muttered, low and shapeless, none of it aimed at Sevish. *"The kid's the only one who'd speak up for me, and he can barely stand."* Every word I'd told him was true. What I'd left out sat at the back of my throat, that the fight probably never happens if I hadn't said what I said to those two. *"If that comes out, who knows what he does with it. Hopefully nobody brings it up."*
+Every word I'd told him was true. What I'd left out sat at the back of my throat, that the fight probably never happens if I hadn't said what I said to those two. *"If that comes out, who knows what he does with it. Hopefully nobody brings it up."*
 
 The quiet pulled tight as a bowstring. My ears flicked at every shift of the crowd, and a cold drop of sweat slid down my spine. Whatever happened next in this camp was going to happen fast.
 
