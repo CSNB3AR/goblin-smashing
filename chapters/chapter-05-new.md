@@ -50,25 +50,21 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Yes. I understand now." He looked me over, slow. "And how do you see us benefiting from having him here?"
 
-Boots scraped at the edge of the firelight. One enforcer stepped out of the dark with a hand on his weapon, and the goblins drifting in behind him stopped when Sevish lifted two fingers without turning around. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
+Boots scraped at the edge of the firelight. One enforcer stepped out of the dark with a hand on his weapon, and more goblins drifted in behind him. Sevish raised a hand without turning around, and every one of them froze. The camp held its breath. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
 
 I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, I fight my way out or I run."* My eyes slid into the corners of my vision without moving my head, counting the gaps between the tents. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
 
-Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder. "Brother," she said, "he can be of use to us. And those two started it, as he says."
+Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder. "He is what we have been missing, brother," she said, dry warmth in her voice. "He slipped round two enforcers faster than most of us can turn, then set the ground alight under them. One hell of an explosion, I say. Think what that would do to a wall. And if we are thinking of Shiv, he held to Shiv's law and kept the peace among our own, which is more than those two did. We have failed at our task more than once, and we did not come all this way for nothing. We gave up a great deal leaving Myrrhwood."
 
-I made myself keep my eyes on her face. A snort went through the watchers, and the kid's shoulder eased against my side.
+My head snapped toward her, and I made myself keep my eyes on her face. Walls. So that was what she saw in it, and I kept the thought to myself. A snort went through the watchers, and the kid's shoulder eased against my side.
 
 Sevish let out a short breath through his nose, and the grin came back slow. "Since he has taken two of mine," he said, "he owes me a favor after all."
-
-"A favor that boom could repay," Wyx said, dry warmth in her voice. "He slipped round two enforcers faster than most of us can turn, then set the ground alight under them. One hell of an explosion, I say. Think what that would do to a wall. We have failed at our task more than once, brother. If we are in earnest about Shiv's cause, ask yourself whether a goblin who moves so might serve it."
-
-My head snapped toward her. Walls. So that was what she saw in it. I filed that away and kept my mouth shut.
 
 My hands loosened. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was trading words with two people who weighed every one of mine. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
 Sevish looked at his sister for a long moment and didn't argue.
 
-"Shiv's cause." He chewed on it. "Hah. Perhaps so." He pointed the axe at me. "A goblin who can kill two enforcers has power, and power I understand. I may find a use for you. There is a task I have been turning over."
+"Hah. Perhaps so." He pointed the axe at me. "A goblin who can kill two enforcers has power, and power I understand. I may find a use for you. There is a task I have been turning over."
 
 A purple notification bloomed at the edge of my vision.
 
