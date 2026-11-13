@@ -6,7 +6,7 @@ The room came back around me one piece at a time. The smell first, cigarette smo
 
 My vision was blurry, the room smeared and dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop. I swallowed twice and let it pass. *"Okay. Rough, but I can work with rough."*
 
-My own size hit me next. After the goblin, a little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered. I hung there until the room stopped turning, my pulse not coming down with the rest of me.
+My own size hit me next. After the goblin, a little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
 I popped the cuffs and stepped down off the platform and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
@@ -114,9 +114,9 @@ I leaned on the counter, my legs still shaky from the pod. "Kinda. My first VR e
 
 I looked up at him and gave a small shrug that meant it was all right and nothing more.
 
-Leon studied me a moment, then turned the tablet a quarter turn on the counter. "All right. What's wrong with the pods?" I figured he was really asking whether I'd be back.
+Leon studied me a moment, then turned the tablet a quarter turn on the counter. "All right. What's wrong with the pods?"
 
-"That's what I came to talk to you about."
+I figured he was really asking whether I'd be back. "That's what I came to talk to you about."
 
 "Okay, then." He folded his arms. "But let me go first, because we're about to close up and I don't know if you'll even show up tomorrow."
 
