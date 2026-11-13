@@ -134,7 +134,7 @@ I looked at the lamp over the counter, buzzing faintly, instead of at him. "Toch
 
 "You went to Tochi?" The cigarette stopped rolling.
 
-"I did." My jaw set. "I'm going back."
+"I did." It came out flatter than I meant it to. "I'm going back."
 
 "I see." He tucked the cigarette back behind his ear. "Now this makes sense. They only keep the sharpest students and graduates, and the prime minister keeps politics out of the place." He propped both elbows on the counter. "Okay. So you want in here open to close, and you want to play for free."
 
