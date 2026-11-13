@@ -104,17 +104,17 @@ That core was still ticking down in the back of my head. I swapped out of Loop, 
 
 I needed to tell Leon what was going on. I couldn't run on his pods and keep him in the dark. The clock said 9:52 PM, and he was waiting up front. I headed that way.
 
-Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The monitor behind him cycled through its screensaver, the one that was supposed to show him what I was in on and never would.
+Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The desk monitors down the wall cycled through their screensavers, humming.
 
 "You look like you got hit by a truck." He set the tablet on the counter and gave me a once-over. "Sorry again about the booth thing. How'd it go?"
 
 I put the toolbox down by my boot and leaned on the counter, taking my weight off legs that still weren't mine. "Pod held. No crashes."
 
-"Good. That's what I wanted to hear, and also what worries me." He glanced back at the monitor. "I can't see what you're in on, and nobody runs long sessions on those pods. So I'll be straight with you." He picked at a scuff on the counter with his thumbnail instead of looking at me. "That free pod after five? I put it out hoping people would come in, see how it works, and pay for longer hours. Every helmet cafe in a five-block radius is eating us alive, and I'm buried in enough legal trouble just keeping the doors open."
+"Good. That's what I wanted to hear, and also what worries me." He turned the tablet a quarter turn on the counter. "I can't see what you're in on from the booth, and nobody runs long sessions on those pods. So I'll be straight with you." He picked at a scuff on the counter with his thumbnail instead of looking at me. "That free pod after five? I put it out hoping people would come in, see how it works, and pay for longer hours. Every helmet cafe in a five-block radius is eating us alive, and I'm buried in enough legal trouble just keeping the doors open."
 
 He'd started with real. I gave him some back, keeping my voice flat. "I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual." I made myself hold his eyes. "I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
-Leon's thumbnail stopped. For a second the only sound was the monitor's hum. "You started work on my machine without asking."
+Leon's thumbnail stopped. For a second the only sound was the desk monitors humming down the wall. "You started work on my machine without asking."
 
 "Yeah." I didn't look away.
 
@@ -150,7 +150,7 @@ His mouth flattened. "Two of her guildmates framed her, the guild fell apart, an
 
 I kept my face flat and nodded once. "Clips first."
 
-"Fine." He straightened off the counter. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open. Open to close, with that monitor running and me here. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me." He ticked a thumb toward the hallway. "One of those pods is yours, permanently, whenever you need it. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"Fine." He straightened off the counter. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me." He ticked a thumb toward the hallway. "One of those pods is yours, permanently, whenever you need it. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."* I picked the toolbox up off the floor to give my hands something to do.
 
