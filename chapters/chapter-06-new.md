@@ -182,7 +182,7 @@ I pulled the chair close and sat, elbows on my knees, hands loose between them.
 
 The monitors kept beeping. I smoothed the edge of the blanket flat with two fingers. "I got into the game. HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room. I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
 
-"But I made some money already." Her pulse traced the same slow line across the screen. "Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
+"But I made some money already." The monitor drew the same slow line across its screen. "Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
 
 "Crownfall's two weeks out. Ten million yen on the table. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
 
