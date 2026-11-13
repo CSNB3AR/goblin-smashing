@@ -62,15 +62,13 @@ I tapped the elixirs, and the listing opened.
 
 **[1 HGO COIN = ¥4]**
 
-I ran it in my head. Eight thousand four hundred yen each. Another line sat under the listing.
+I ran it in my head. Eight thousand four hundred yen each. I confirmed the listing, already bracing to wait. The vials vanished almost immediately.
 
-**[MARKET REFRESH: OPEN BETA | STANDING BUY ORDERS ACTIVE]**
-
-*"That's why."* Open beta had wiped every shop and stash on the server back to the starting line, and every guild that had been sitting on a wish list since closed beta had buy orders stacked on the market, desperate to get their mages ready early. Tonight, somebody would pay almost anything.
-
-I confirmed the listing, already bracing to wait. The vials vanished almost immediately.
+*"That fast? Why?"*
 
 **[BUY ORDER MATCHED: 2 ITEMS]**
+
+*"Buy orders. Somebody had already ordered them."*
 
 **[SOLD: 42,000 SHILLINGS]**
 
