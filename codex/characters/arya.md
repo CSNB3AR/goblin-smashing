@@ -84,3 +84,7 @@ Her information-broker role is vital after Thrash Hill: she sells the legacy dro
 - **Her points edge (author-stated).** Crimson Static scaled high in seasonal points even though it was dysfunctional, which makes Arya a major asset to Tatsuya: she is an information broker and she knows how to scale points. The dysfunction: the guild was full of simps; its three girl-gamer leads collapsed after bad comms and nobody but Arya took it seriously; the comps were not serious, so serious guilds rolled them; in raids they got zoned out as alliances formed against them. This sits beside the collapse write-up above. The author's remark about her wider backstory was cut off and is not guessed.
 
 - **Arya at the hotel (author-stated, notes only, never on the page).** The temp Chiyo hired for the front desk is Arya. It is her second job. Tatsuya does not know her yet and does not see her until he is home again after the arcade. She has another job to get to, which is also why the desk gives them room to talk more about the game.
+
+## Voice and vibe for the page (author-stated, latest; not on the page yet)
+
+- A blend of Momo (the character the author named from Gurren Lagann, spelling unconfirmed) and the gunner girl from The King's Avatar (the author's "Chumong or Michong", most likely Su Mucheng): composed, precise, sharp, a little guarded, a competent shooter's calm. Keep with the existing "sharp and guarded" read.

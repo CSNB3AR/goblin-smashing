@@ -94,7 +94,7 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 I stood in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."* I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see. Mom's surgery, Momo and Taji, the Tabuchis circling.
 
-I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
+I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
 I'd planned this long before tonight. Back when Eren and I were still friends, we'd mapped it out while we planned the build: a handle people remember, a face, a business email so sponsors had somewhere to send an offer, the way the pros I'd watched landed their first ones. I never thought I'd be running that plan alone, on a pod held together with a bypass. The plan hadn't changed.
 
@@ -102,11 +102,11 @@ HGO and the World Quest were both trending under the gaming topics. Dosuke_AI ha
 
 The whole server knew a World Quest had popped, and every one of them wanted whoever held it. They'd be hunting me by morning. My pulse kicked. The game was brand new, the quest clock was running, and I had to be off that pod by ten. Leaving now, with my name out there, was the worst timing I could have picked. *"I have to get here early tomorrow. I need longer sessions, and Leon has to agree to them."*
 
-But a name people were asking about was also the best leverage I'd ever get. *"Bait pulls both ways. I just have to be the one holding the line."* Gambit hit once a day, and every gamble had a buy-in. I wasn't building rent on a dice roll. The Companion App's front page ran sponsored streams in the six figures, but a real stream could wait for the weeks around Crownfall. For now I'd farm every login around the quest clock and get my loot on display so the brand was ready when it mattered.
+But a name people were asking about was also the best leverage I'd ever get. *"Bait pulls both ways. I just have to be the one holding the line."* Gambit hit once a day, and every gamble had a buy-in. I wasn't building rent on a dice roll. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login around the quest clock and get my loot on display so the brand was ready when it mattered.
 
 *"Anyone who's held a World Quest has found real money in it. I don't know where mine leads, but getting both pods running is my first bet. Leon gives me a seat and some pay, and I fix the pods that aren't working. A partnership."*
 
-Before I killed the screen I typed *Nexus helmet processor core* into the search bar. In the dark earlier it had given me nothing. Patents and press, every trail pointing back at Nexus Enterprises, and nobody selling one. The only thing tying them to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. It said nothing about a processor, or whether one sat in that building.
+Before I killed the screen I typed *Nexus helmet processor core* into the search bar. Patents and press, every trail pointing back at Nexus Enterprises, and nobody selling one. The only thing tying them to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. It said nothing about a processor, or whether one sat in that building.
 
 Copying Nexus wasn't the answer anyway. Dad hadn't copied anyone. *"Why not build my own core, one made for his pod?"* I couldn't learn that on a laptop in a back room. Instructors would hold any access in that lab, not the kids. I'd have to climb: top grades, and a name the way Mom's had been in volleyball and Dad's in the labs.
 
@@ -118,7 +118,7 @@ Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the
 
 "Pod held," I said. I set the toolbox down and leaned on the counter. "No crashes."
 
-"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "I can't see what you're in on that monitor, and nobody runs long sessions on those pods. So I'll be straight with you. That free pod after five? I put it out hoping people would come in, see how it works, and pay for longer hours. Walk-ins at five aren't carrying this place. Every helmet cafe in a five-block radius is eating us alive, and I'm buried in enough legal trouble just keeping the doors open."
+"Good. That's what I wanted to hear, and also what worries me." "I can't see what you're in on that monitor, and nobody runs long sessions on those pods. So I'll be straight with you. That free pod after five? I put it out hoping people would come in, see how it works, and pay for longer hours. Every helmet cafe in a five-block radius is eating us alive, and I'm buried in enough legal trouble just keeping the doors open."
 
 He'd started with real. I gave him some back. "I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
@@ -126,13 +126,13 @@ Leon went very still. "You started work on my machine without asking."
 
 "Yeah."
 
-"Normally I'd throw out anyone who did that." He let it sit, then breathed out. "It was a move. But it's your dad's machine, and you knew how to run it. That's different. It's like a tech walking in and upgrading my gear for free. If it were some stranger who didn't know what he was doing, I'd be furious. So I should thank you. Is it okay?"
+"Normally I'd throw out anyone who did that." "It was a move. But it's your dad's machine, and you knew how to run it. That's different. It's like a tech walking in and upgrading my gear for free. If it were some stranger who didn't know what he was doing, I'd be furious. So I should thank you. Is it okay?"
 
 "It's running. But the core is nearly dead. It read twenty percent when I first logged in, and nineteen after one session."
 
 "So the one session drained it?"
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer. I'd fix it way before then." I kept going before he could pick that apart. "Here's what I'm thinking. I get cores in both pods, and you've got two HGO pods in a city where every venue is booked out for months. Helmet cafes are booked almost a year. Even second-gen places are full. You set the price, because anyone will pay it. First-gen is rare and burns through power, so you can charge more. Call it a partnership. All I ask is you let me work here."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer. I'd fix it way before then." "Here's what I'm thinking. I get cores in both pods, and you've got two HGO pods in a city where every venue is booked out for months. Helmet cafes are booked almost a year. You set the price, because anyone will pay it. First-gen is rare and burns through power, so you can charge more. All I ask is you let me work here."
 
 "Where do the cores come from?"
 
@@ -146,27 +146,29 @@ Leon went very still. "You started work on my machine without asking."
 
 "Not at first. Instructors get most of the access. I'd have to work my way up."
 
-"Okay. Working here is the hard part. Arya and I are already on the floor full time, and the only way anyone works here is by sitting in that pod. If you come in just to play, you do something for us." He looked at me over his glasses. "So here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points. That's how I got our name out there."
+Leon pulled the unlit cigarette from behind his ear, looked at it, and put it back. "Okay. So you want in here open to close, and you want to play for free."
+
+"I need the time." I weighed how much to give him and gave him the piece that mattered. "I'm on the World Quest. The one trending right now. That's me."
+
+His eyebrows moved a quarter inch, and that was all. "Nykri." He said it like he was reading it off a menu. "So that's what the long session was." He scratched the back of his neck. "Okay. That changes the math."
+
+"How?"
+
+"Arya and I are already on the floor full time. The only way anyone works here is by sitting in that pod, and a guy who plays all day for free is a freeloader with a good excuse. So you owe me." He looked at me over his glasses. "Here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points. That's how I got our name out there."
 
 "What happened?"
 
-"Two of her guildmates framed her, the guild fell apart, and now she gets trolled on every stream. I can't put our name next to hers anymore." He shrugged it off, badly. "But I watched that whole crew blow up off streaming. Sponsors, money, all of it. If we do this, I set you up with what you need, and you advertise the game for us, and our brand, on your streams. Clips, and streaming when you're ready. It's give and take."
+"Two of her guildmates framed her, the guild fell apart, and now she gets trolled on every stream. I can't put our name next to hers anymore. But I watched that whole crew blow up off streaming. Sponsors, money, all of it. So I set you up with what you need, and you advertise the game for us, and our brand, on your clips. Streaming too, when you're ready. It's give and take."
 
-"Clips first," I said. "A real stream waits until I've got something worth watching."
+I thought of the profile I'd built twenty minutes ago and kept my face flat. "Clips," I said. "A real stream waits until I've got something worth watching."
 
-"Fine." Leon nodded. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open."
-
-"I need longer sessions than tonight, though," I said. "Open to close, if the pod holds."
-
-"Open to close, with that monitor running and me here. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. One of those pods is yours, permanently, whenever you need it. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"Fine." Leon nodded. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open. Open to close, with that monitor running and me here. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. One of those pods is yours, permanently, whenever you need it. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
 
 "One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
 
 "I'll get it done," I said.
-
-I scratched along my goatee. The thought had felt like a loss a week ago. It didn't feel that way anymore.
 
 "I believe you," Leon said, and flipped the sign on the door.
 

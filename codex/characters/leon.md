@@ -29,3 +29,8 @@ The rough, no-nonsense former guild analyst and reluctant coach. Claims he's don
 - **Reaction to Tatsuya's name (author-stated).** On learning Tatsuya is Daichi's son, Leon is shocked but not sycophantic: a beat of quiet, a shrug, good customer service, still himself and dry.
 - **Why he cannot fix the second pod (author-stated).** Second-gen runs off all-new parts, nobody touches third-gen hardware without a lawsuit, and first-gen parts stopped when Kazuhaya products were pulled. He does not know Nexus got Daichi's patents; **no one knows**, so do not state it publicly on the page, hidden canon only.
 - **He hot-fixes the building power (author-stated).** After the lights go out he goes to the counter to hot-fix the power. He never learns that Tatsuya hardwired the pod.
+
+## Voice and vibe for the page (author-stated, latest)
+
+- Reads as an old, cigarette-smoking gamer type: a gruff storekeeper in the mould of the old-school shopkeeper, mixed with a Shikamaru-style nonchalance. Deadpan, unbothered, lazy on the surface and sharp underneath; reacts small (a quarter-inch of eyebrow, the unlit cigarette taken from behind the ear and put back). The author's references are loose ("Vanguard the storekeeper"); treat as a feel guide, not a copy.
+- He knows a little about the game, which is why the World Quest matters to him.
