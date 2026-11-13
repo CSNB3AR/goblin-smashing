@@ -14,7 +14,7 @@ I popped the cuffs and stepped down off the platform, knees stiff from standing 
 
 My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out for Leon to trip over. That much the blackout had taught me.
 
-The pod was another story. Heat poured off the shell, the fan dragging in its housing with a whine I hadn't heard going in, and the wires I'd bridged to the wall ran warm along the base. *"I'm surprised I even got through a session."* A bypass wasn't a repair. It was borrowed time on a core already running at twenty percent.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* A bypass wasn't a repair. It was borrowed time on a core that had read twenty percent and hot.
 
 *"If I want long sessions, it needs a real fix, and I can't buy the part."* Third-gen cores weren't sold. If anyone could walk into a store for one, anyone could crack it open and copy the schematics, so they only went to partners. The only school openly partnered with Nexus Enterprises was Tochi, and I'd seen that core logo stamped on equipment in its technology lab. But the lab wasn't open to just anyone. Instructors got that access, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
 
@@ -136,11 +136,11 @@ Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every thir
 
 Leon's eyebrows went up. "Go ahead."
 
-"I overrode one of the pods tonight." I kept my voice even, watching Leon's face. "Used my dad's manual. That's what caused the blackout earlier. It wasn't the hardware failing on its own."
+"I forced HGO onto one of your pods tonight." I kept my voice even, watching Leon's face. "Used my dad's manual to bypass it. The core overheated, and that's what knocked the power out earlier. It wasn't a plain power cut."
 
 Leon went very still. "Is the machine okay?"
 
-"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. The core in that pod is nearly dead. The bypass is holding it up, and I watched it run hot the entire time I was in there. Your second pod is a shell, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
+"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. The core in that pod is nearly dead. The bypass is holding it up, and it was still hot when I stepped out. Your second pod is a shell, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
 
 Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
 
