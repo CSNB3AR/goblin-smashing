@@ -94,7 +94,7 @@ I backed out of the app and opened Loop on the same screen. My own profile loade
 
 Then I switched over to see what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI and Yuna_N9 among them.
 
-*"Shit. I'm going to have people hunting me by morning if I don't start moving, and I can't even stay in the game that long. I have to get here early."* At least it hadn't dropped my location. *"Hopefully nobody's swarming the area already."*
+*"I have to get back here early in the morning."* The feed kept refreshing under my thumb, my name sliding up it again and again.
 
 That core was still ticking down in the back of my head. I swapped out of Loop, opened my browser, and typed in the address of the parts site Dad used to order from. I only knew it from the order slips stacked in his workshop. Everywhere else I'd looked tonight had turned up nothing, so I searched his site for processor cores. Nexus's were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
 
@@ -162,7 +162,7 @@ I kept my face flat and nodded once. "Clips first."
 
 "I believe you." He walked to the door, flipped the sign, and the lock clicked.
 
-Outside, my breath misted in the cold. The hours were painted on the glass of the door. Opens at nine. *"Eleven hours, and by then the whole server's looking for me. Fuck. I'm here when he unlocks it."* I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message sat near the top, the one about Tochi, with my thumbs-up under it that hadn't answered anything. I typed, deleted it, typed again.
+Outside, my breath misted in the cold. I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message sat near the top, the one about Tochi, with my thumbs-up under it that hadn't answered anything. I typed, deleted it, typed again.
 
 **[Thinking about going back to Tochi.]**
 
