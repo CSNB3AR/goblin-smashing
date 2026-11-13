@@ -98,25 +98,11 @@ I backed out of the app and opened Loop on the same screen. My own profile loade
 
 I'd planned this long before tonight. Back when Eren and I were still friends, we'd mapped it out while we planned the build: a handle people remember, a face, a business email so sponsors had somewhere to send an offer, the way the pros I'd watched landed their first ones. I never thought I'd be running that plan alone, on a pod held together with a bypass. The plan hadn't changed.
 
-Nykri was already trending. Everyone searching the name was landing on a profile that had been empty a minute ago, just looking.
+HGO and the World Quest were both trending under the gaming topics. Dosuke_AI had already reposted it, along with Yuna_N9 and a few others, Kansai Black Lotus among them. *"Oh snap."*
 
-I opened the feed. The big hitters already had it loud.
+The whole server knew a World Quest had popped, and every one of them wanted whoever held it. They'd be hunting me by morning. My pulse kicked. The game was brand new, the quest clock was running, and I had to be off that pod by ten. Leaving now, with my name out there, was the worst timing I could have picked. *"I have to get here early tomorrow. I need longer sessions, and Leon has to agree to them."*
 
-**[@Dosuke_AI: World Quest just popped. London Spire again? End of the beta season, would make sense]**
-
-**[@Yuna_N9: A World Quest has been ACTIVATED, everybody! And it's not London Spire. It's a player called Nykri. Who is Nykri?!]**
-
-**[@PK_Wraith: Who the hell is Nykri? Anybody know who holds that quest, and where? Asking for a few friends.]**
-
-**[@KansaiBlackLotus: Quest holder is Nykri, no guild listed. Anyone with info, send it our way.]**
-
-Eren's guild. I scrolled past it fast.
-
-The whole server knew a World Quest had popped, and every one of them wanted whoever held it. They'd be hunting me by morning. *"Damn it."* My pulse kicked. The game was brand new, the quest clock was running, and I had to be off that pod by ten. Leaving now, with my name on every feed, was the worst timing I could have picked, and I was missing it all standing in a hallway. *"I have to get here early tomorrow. I need longer sessions, and Leon has to agree to them."*
-
-But a name everyone was asking about was also the best leverage I'd ever get. I knew what the top players had pulled out of this game, the streams, the sponsors, the payouts. *"Bait pulls both ways. I just have to be the one holding the line."*
-
-But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. I needed my loot on display so the brand was ready when it mattered. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
+But a name people were asking about was also the best leverage I'd ever get. *"Bait pulls both ways. I just have to be the one holding the line."* Gambit hit once a day, and every gamble had a buy-in. I wasn't building rent on a dice roll. The Companion App's front page ran sponsored streams in the six figures, but a real stream could wait for the weeks around Crownfall. For now I'd farm every login around the quest clock and get my loot on display so the brand was ready when it mattered.
 
 Before I killed the screen I typed *Nexus helmet processor core* into the search bar. In the dark earlier it had given me nothing. Patents and press, every trail pointing back at Nexus Enterprises, and nobody selling one. If anyone could buy one, anyone could crack it open and copy the schematics.
 
@@ -184,7 +170,7 @@ Leon leaned back against the counter, arms loose, and I watched him put it toget
 
 "Open to close, with that monitor running and me here," Leon said. "Fine."
 
-"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me. One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you build the core, and learn how at Tochi. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me. One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you build the core, and learn how at Tochi. I'll pay you for the second pod when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
 
