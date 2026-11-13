@@ -100,7 +100,7 @@ Then I switched over to see what was trending in gaming and entertainment. My na
 
 *"Shit. I'm going to have people hunting me by morning if I don't start moving, and I can't even stay in the game that long. I have to get here early."* At least it hadn't dropped my location. *"Hopefully nobody's swarming the area already."*
 
-I searched for processor cores, just to see if anything was out there. Nexus's were locked behind patents. The only cores for sale at all were Kuroshio capsule cores, and the one listing I could find was on the black market.
+The core ticking down in that pod wouldn't leave my head. Nineteen percent, maybe twenty logins. I swapped out of Loop and opened my browser. If I wanted those logins to turn into more, I had to know what a replacement cost, so I searched for processor cores. Nexus's were locked behind patents. The only cores for sale at all were Kuroshio capsule cores, and the one listing I could find was on the black market.
 
 **[KUROSHIO CAPSULE CORE | ¥860,000]**
 
