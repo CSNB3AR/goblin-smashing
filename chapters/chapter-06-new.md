@@ -116,7 +116,7 @@ I put the toolbox down by my boot and leaned on the counter without saying anyth
 
 "Okay, then." He folded his arms. "But before you say anything, let me say something first, because we're about to close up and I don't know if you'll show up tomorrow." He picked at a scuff on the counter with his thumbnail instead of looking at me. "I don't mind you coming in after five and getting free hours. I put that up to get people through the door. If it turns into a regular thing, I'll limit you, because I still have a business to run. And I'll be honest with you. Most of the cafes are beating me out, the Kuroshio capsule places and the new Nexus helmets, especially J-Link."
 
-He tipped his head toward the street. "My sister goes to J-Link all the time. She books out weeks ahead, and if she didn't know somebody who works there, I don't think she'd get a slot at all. And I'm already deep in legal trouble with my parents over her."
+He tipped his head toward the street. "My sister goes to J-Link all the time. She books out weeks ahead, and if she didn't know somebody who works there, I don't think she'd get a slot at all. And I'm already deep in legal trouble."
 
 He pulled the cigarette from behind his ear and lit it, then turned his head and let the smoke out toward the front window, away from me, the way you do around somebody younger. "So you can guess where my money's headed. I won't make you listen to the rest." He tapped the ash into a saucer by the register. "I didn't mean to cut you off. Go ahead."
 
@@ -150,11 +150,11 @@ His eyebrows moved a quarter inch, and that was all. "Nykri." He said it flat, t
 
 "How?" I kept my hands flat on the counter.
 
-"Arya and I already cover the floor full time, so there's no job here for you except that pod. And a guy who plays all day for free is a freeloader with a good excuse." "So you owe me. Here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points. That's how I got our name out there."
+"Arya and I already cover the floor full time, so there's no job here for you except that pod. And a guy who plays all day for free is a freeloader with a good excuse." He looked at me for a long second. "So you owe me. Here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points, and that's how I got our name out there. I can't do it with her anymore, and I'm not getting into why."
 
-"What happened?" I asked, quieter.
+I didn't push. He'd handed me what he was going to hand me, and I'd done the same.
 
-His mouth flattened. "Two of her guildmates framed her, the guild fell apart, and now she gets trolled on every stream. I can't put our name next to hers anymore." He tapped the counter once. "But I watched that whole crew blow up off streaming. Sponsors, money, all of it. So I set you up with what you need, and you advertise the game for us, and our brand, on your clips. Streaming too, when you're ready. It's give and take."
+"But I watched her whole guild blow up off streaming," he said. "Sponsors, money, all of it. So I set you up with what you need, and you advertise the game for us, and our brand, on your clips. Streaming too, when you're ready. It's give and take."
 
 I nodded once. "Clips first."
 
