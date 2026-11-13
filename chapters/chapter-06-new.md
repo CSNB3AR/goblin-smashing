@@ -120,7 +120,7 @@ I put the toolbox down by my boot and leaned on the counter without saying anyth
 
 Leon's arms stayed folded a second longer, and then they came down. "All right. Go ahead."
 
-I made myself hold his eyes. "I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
+"I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
 Leon went very still. For a second the only sound was the front desk monitor humming. "You started work on my machine without asking."
 
@@ -132,29 +132,37 @@ Leon went very still. For a second the only sound was the front desk monitor hum
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses.
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer. I can fix your pods. It'll take time. I can build the cores myself, which beats paying through the nose every time one burns out. Fix both, and you've got two HGO pods in a city where everything's booked out for months. You set the price. All I need back is hours on the pod, open to close."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer. I can fix your pods. It'll take time, and I can build the cores myself, which beats paying through the nose every time one burns out. Fix both, and you've got two HGO pods in a city where everything's booked out for months. You set the price."
 
-Leon's gaze sharpened a notch. "Where are you going to find what you need around here to build a core?"
+Leon's gaze sharpened a notch. "Build them with what? Where are you going to find what you need around here?"
 
 I looked at the lamp over the counter, buzzing faintly, instead of at him. "Tochi."
 
-"You went to Tochi?" His eyebrows went up.
+"Tochi." He said it slowly, like a word he'd had to earn. "What do you know about Tochi?"
 
-"I did." It came out flatter than I meant it to. "I'm going back."
+"I went there." It came out flatter than I meant it to. "I'm going back."
 
-"I see." He nodded slowly. "Now this makes sense. They only keep the sharpest students and graduates, and the prime minister keeps politics out of the place." He let a breath out through his nose, and the suspicion eased a little. "And it's your dad's machine, and you knew how to run it. That changes things. It's like a tech walking in and upgrading my gear for free. If it were some stranger who didn't know what he was doing, I'd be furious. So I should thank you."
+He didn't say anything. His eyes stayed on me, and I let them. "Tochi," he said again. "And you got HGO running on one of my first-gen pods."
 
-"I need the time on it, though." I decided how much to give him and gave him the piece that mattered. "I'm on the World Quest. The one trending right now. That's me."
+"Barely."
 
-His eyebrows moved a quarter inch, and that was all. "Nykri." He said it flat, trying the name out. "So that's what the long session was." He scratched the back of his neck. "That changes the math."
+"Barely." He let a breath out through his nose, and the suspicion eased a little. "A game built for helmets, on a pod that old. That's not barely. And it's your dad's machine, and you knew how to run it. That changes things. It's like a tech walking in and upgrading my gear for free. If some stranger who didn't know what he was doing had done it, I'd be furious. So I should thank you."
 
-"How?" I kept my hands flat on the counter.
+"All I'd need is access to one of the pods." I kept my face easy and let a little sly into my voice. "And trust me when I say this. The luck I've had in HGO in the two hours I've been playing could be real useful to you."
 
-"Here's my problem." He picked at a scuff on the counter with his thumbnail instead of looking at me. "I don't mind you coming in after five and getting free hours. I put that up to get people through the door. If it turns into a regular thing, I'll limit you, because I still have a business to run. Most of the cafes are beating me out, the Kuroshio capsule places and the new Nexus helmets, especially J-Link. My sister goes to J-Link all the time. She books out weeks ahead, and if she didn't know somebody who works there, I don't think she'd get a slot at all. And I'm already deep in legal trouble."
+"What kind of luck are we talking?"
 
-He pulled the cigarette from behind his ear and lit it, then turned his head and let the smoke out toward the front window, away from me, the way you do around somebody younger. "So you can guess where my money's headed. I won't make you listen to the rest."
+"What if I told you I stumbled onto a World Quest?"
 
-He tapped the ash into a saucer by the register. "Arya and I already cover the floor full time, so there's no job here for you except that pod. And a guy who plays all day for free is a freeloader with a good excuse." He looked at me for a long second. "So you owe me. Here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points, and that's how I got our name out there. I can't do it with her anymore, and I'm not getting into why."
+Leon sat back. The front desk monitor hummed in the quiet, and he looked at the street window instead of me. Then he pulled the cigarette from behind his ear and lit it. "Well, goddamn." He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "The one that's trending."
+
+I didn't say yes. I didn't have to. "Nykri," he said at last, trying the name out flat, and I nodded.
+
+He tapped ash into a saucer by the register. "Now that changes everything." He'd followed his sister's guild long enough to know what a World Quest was worth. I figured that was all the math he needed.
+
+"Here's my problem." He picked at a scuff on the counter with his thumbnail instead of looking at me. "I don't mind you coming in after five and getting free hours. I put that up to get people through the door. If it turns into a regular thing, I'll limit you, because I still have a business to run. Most of the cafes are beating me out, the Kuroshio capsule places and the new Nexus helmets, especially J-Link. My sister books weeks ahead at J-Link and still barely gets a slot. And I'm already deep in legal trouble." He took another drag. "So you can guess where my money's headed. I won't make you listen to the rest."
+
+"Arya and I already cover the floor full time, so there's no job here for you except that pod. And a guy who plays all day for free is a freeloader with a good excuse." He looked at me for a long second. "So you owe me. Here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points, and that's how I got our name out there. I can't do it with her anymore, and I'm not getting into why."
 
 I didn't push. He'd handed me what he was going to hand me, and I'd done the same.
 
@@ -176,11 +184,7 @@ Outside, my breath misted in the cold. I stowed the toolbox and the bag in the r
 
 I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the half-second scan until the dash lit green and the visor threw the route line across the street. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
 
-I had one stop before home, the hospital, and I pulled out into the street.
-
-The ride to the hospital ran on muscle memory, the city blurring past in orange and white.
-
-The hospital came up on my left, white-lit and too clean. I parked, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing, like my body had already memorized the building.
+I had one stop before home. The ride to the hospital ran on muscle memory, the city blurring past in orange and white, and the hospital came up on my left, white-lit and too clean. I parked, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing, like my body had already memorized the building.
 
 Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
 
