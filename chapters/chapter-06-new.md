@@ -96,8 +96,6 @@ I stood in the back hallway of Sakura Arcade letting that number do something to
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
-I'd planned this long before tonight. Back when Eren and I were still friends, we'd mapped it out while we planned the build: a handle people remember, a face, a business email so sponsors had somewhere to send an offer, the way the pros I'd watched landed their first ones. I never thought I'd be running that plan alone, on a pod held together with a bypass. The plan hadn't changed.
-
 HGO and the World Quest were both trending under the gaming topics. Dosuke_AI had already reposted it, along with Yuna_N9 and a few others, Kansai Black Lotus among them. *"Oh snap."*
 
 The whole server knew a World Quest had popped, and every one of them wanted whoever held it. They'd be hunting me by morning. My pulse kicked. The game was brand new, the quest clock was running, and I had to be off that pod by ten. Leaving now, with my name out there, was the worst timing I could have picked. *"I have to get here early tomorrow. I need longer sessions, and Leon has to agree to them."*
@@ -160,7 +158,7 @@ His eyebrows moved a quarter inch, and that was all. "Nykri." He said it like he
 
 "Two of her guildmates framed her, the guild fell apart, and now she gets trolled on every stream. I can't put our name next to hers anymore. But I watched that whole crew blow up off streaming. Sponsors, money, all of it. So I set you up with what you need, and you advertise the game for us, and our brand, on your clips. Streaming too, when you're ready. It's give and take."
 
-I thought of the profile I'd built twenty minutes ago and kept my face flat. "Clips," I said. "A real stream waits until I've got something worth watching."
+I thought of the profile I'd built twenty minutes ago and kept my face flat. "Clips first," I said.
 
 "Fine." Leon nodded. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open. Open to close, with that monitor running and me here. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. One of those pods is yours, permanently, whenever you need it. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
