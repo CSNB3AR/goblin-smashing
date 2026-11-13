@@ -44,3 +44,16 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 - **Option one, temporary:** a second-gen core to get it running again, cheaper and not permanent. Second-gen cores carry faults (open: which, kept vague on the page), which is why people paid extra to go third-gen.
 - **Option two, the real fix:** a third-gen core, which Nexus Enterprises patents and never sells. His only discoverable tie is the Nexus Enterprises sponsorship of Tochi Academy that the school announced about a year ago. That is a lead, not proof there is a core in the building. It is a discovery he has to make, so the page no longer says he saw the core logo in Tochi's lab or that the lab holds one. Instructors, not students, would hold any such access.
 - OPEN: Chapter Three still says he had seen the core logo stamped on equipment in Tochi's tech lab. Left untouched, flagged to the author.
+
+## The three hardware lines, named (author-stated; supersedes saying "first-gen / second-gen / third-gen" on the page)
+
+People still say first, second and third generation as shorthand for the three versions of VR hardware, but the page names each line by its company or product, since they come from different makers with different schematics and patents. Working names (the companies for the second and third lines are proposals; rename freely):
+
+| Line | Maker | Form | Notes |
+|---|---|---|---|
+| First | **Kazuhaya Tech** (Daichi) | Old-fashioned **full-body upright pod**, the dark tower in the arcade image | Needs an engineer and a room re-built around it, plugged straight into the building. Pulled from sale after the accident. |
+| Second | **Kuroshio Systems** (working name), **backed and invested in by the Tabuchis**, not created by them | A **capsule you lie in**, like a bathtub or massage chair with a casket-like capsule over the head. Think an F1 cockpit rig, but lying down. Expensive, but fits a bedroom | Needs very good internet and decent air and cooling, or it overheats and runs badly. Faulty in its own ways. |
+| Third | **Nexus Enterprises** (Kazuku), the **Nexus helmet** | A **helmet** whose sensors scan the whole body from the top, so full dive without a full-body rig | Cheaper, home-sized, no known issues, the best value. Official HGO hardware. |
+
+- **Why he will not use the second line (author-stated).** Tabuchi money is behind it. Tatsuya refuses anything related to the Tabuchis, even where they did not create it. In Chapter Seven he rejects a Kuroshio core as a stopgap for that reason as well as the heat and the faults.
+- The page says "helmet cafe" and "the Nexus helmet" in place of "third-gen cafe" and "third-gen" in Chapter Seven. Chapters Two to Six and later still use the shorthand; reconcile if the author wants.

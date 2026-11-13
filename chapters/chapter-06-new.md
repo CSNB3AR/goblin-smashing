@@ -16,7 +16,7 @@ My bag sat zipped against the nearest brick pillar where I'd shoved it before I 
 
 The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port. The core read nineteen percent. Every hotwired session ate about a point, which gave me roughly twenty logins before it died, and I'd have it fixed long before that. I unplugged and packed it away again.
 
-*"If I want long sessions, it needs a new core."* A second-gen would limp it along cheap, with the faults that sent everyone chasing third-gen. A third-gen would end the problem. I hadn't found one.
+*"If I want long sessions, it needs a new core."* A Kuroshio capsule core would limp it along cheap, with the faults that sent everyone chasing the Nexus helmet. A Nexus core would end the problem. I hadn't found one.
 
 And if Sakura Arcade closed, it took my only pod with it.
 
@@ -118,7 +118,7 @@ A World Quest was supposed to belong to London Spire or one of the other big gui
 
 But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. *"Counting on drops every login isn't a plan."* I needed a profile with my loot on display, a face people knew, the email already in the bio. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
 
-Before I killed the screen I typed *third-gen processor core* into the search bar. In the dark earlier it had given me nothing, and with a signal it gave me barely more. Patents, press, pods and helmets, every trail pointing back at Nexus Enterprises, and not one listing, price or seller. If anyone could buy one, anyone could crack it open and copy the schematics.
+Before I killed the screen I typed *Nexus helmet processor core* into the search bar. In the dark earlier it had given me nothing. Patents and press, every trail pointing back at Nexus Enterprises, and not one listing, price or seller. If anyone could buy one, anyone could crack it open and copy the schematics.
 
 The only thing that tied Nexus Enterprises to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. I remembered the school making that announcement. It wasn't a processor, and it didn't mean one was sitting in that building. It was the only door with their name on it. Even then, instructors would hold anything in that lab, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
 
@@ -134,7 +134,7 @@ Leon was at the counter under the warm lantern lamps and the brick pillars, tabl
 
 "How slow are we talking?"
 
-Leon sighed. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive."
+Leon sighed. "Nobody wants retro setups anymore. Every helmet cafe in a five-block radius is eating us alive."
 
 "So you're getting cooked on every front." "Alright. Since we're being real, I've got something you should hear too."
 
@@ -152,7 +152,7 @@ Leon studied me, something shifting behind his glasses. "You're actually telling
 
 "Twenty. And you can actually fix it?"
 
-"I know my dad's work well enough to keep it running. I just need the right core. A second-gen would get it going again fast and cheap, but it's temporary. They come with faults, the reason everybody paid extra to go third-gen. The real fix is a third-gen core, and nobody sells those. Everything I found leads to Nexus Enterprises and their patents."
+"I know my dad's work well enough to keep it running. I just need the right core. A Kuroshio core would get it going again fast and cheap, but it's temporary. Those capsules run hot without perfect cooling and a perfect connection, the reason everybody paid extra for the Nexus helmet. And Tabuchi money sits behind Kuroshio. I'm not putting that in my dad's machine. The real fix is a Nexus core, and nobody sells those. Everything I found leads to their patents."
 
 "So where does that leave you?"
 
@@ -183,8 +183,6 @@ Leon leaned back against the counter, arms loose, and I watched him put it toget
 "One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
 
 "I'll get it done," I said.
-
-I meant it more than the two words let on.
 
 I scratched along my goatee. The thought had felt like a loss a week ago. It didn't feel that way anymore.
 
