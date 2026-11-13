@@ -10,17 +10,17 @@ My own size hit me next. After the goblin, a little over six feet of me hung in 
 
 I popped the cuffs and stepped down off the platform and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
-My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out.
+My backpack sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed inside. Nothing left out.
 
 The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died. I'd fix it long before that.
 
 *"If I want long sessions, it needs a new core."* There were no first-gen cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
 
-I eased the drive out of the slot beside the headrest, shouldered the bag off the pillar, and picked up the toolbox. Dad's manual was already inside with the letter. I pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
+I eased the drive out of the slot beside the headrest, and shouldered the backpack off the pillar. Dad's manual was already inside with the letter. I pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
 
 9:43 PM. Leon had said twenty minutes to closing, which left me seventeen.
 
-I opened the HGO Companion App, pinned the toolbox under my arm, and held the drive against the back of the phone.
+I opened the HGO Companion App and held the drive against the back of the phone.
 
 **[SCANNING...]**
 
@@ -106,11 +106,15 @@ I needed to tell Leon what was going on. I couldn't run on his pods and keep him
 
 Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The monitor on the front desk beside him cycled through its screensaver, humming.
 
-"You look like you got hit by a truck." He set the tablet down and gave me a once-over, and his nose wrinkled. "Sorry again about the booth thing. Why do you smell like burnt plastic?"
+"You look like you got hit by a truck." He set the tablet down and gave me a once-over. "Sorry again about the booth."
 
-I put the toolbox down by my boot and leaned on the counter without saying anything, my legs still shaky from the pod.
+I leaned on the counter, my legs still shaky from the pod. "Kinda. My first VR experience kind of did that to me."
 
-"That's not the face of a guy whose session went fine." Leon turned the tablet a quarter turn on the counter. "What's wrong with the pods?"
+"Everything okay?"
+
+I looked up at him and gave a small shrug that meant it was all right and nothing more.
+
+Leon studied me a moment, then turned the tablet a quarter turn on the counter. "All right. What's wrong with the pods?" I figured he was really asking whether I'd be back.
 
 "That's what I came to talk to you about."
 
@@ -134,7 +138,7 @@ Leon went very still. For a second the only sound was the front desk monitor hum
 
 "If I'm going off that, a point a session. About twenty logins, maybe fewer. I can fix your pods. It'll take time, and I can build the cores myself, which beats paying through the nose every time one burns out. Fix both, and you've got two HGO pods in a city where everything's booked out for months. You set the price."
 
-"Build them with what? Where are you going to find what you need around here?"
+Leon rested a forearm on the counter. "Build them with what? Where are you going to find what you need around here?"
 
 I looked at the lamp over the counter, buzzing faintly, instead of at him. "Tochi."
 
@@ -144,15 +148,15 @@ I looked at the lamp over the counter, buzzing faintly, instead of at him. "Toch
 
 He didn't say anything. His eyes stayed on me, and I let them. "Tochi," he said again. "And you got HGO running on one of my first-gen pods."
 
-"Barely."
+I gave a small shrug. "Barely."
 
-"Barely." He let a breath out through his nose, and the suspicion eased a little. "A game built for helmets, on a pod that old. That's not barely. And it's your dad's machine, and you knew how to run it. That changes things. It's like a tech walking in and upgrading my gear for free. If some stranger who didn't know what he was doing had done it, I'd be furious. So I should thank you."
+"Barely." He let a breath out through his nose, and the suspicion eased a little. "HGO on a pod that old. That's not barely. And it's your dad's machine, and you knew how to run it. That changes things. It's like a tech walking in and upgrading my gear for free. If some stranger who didn't know what he was doing had done it, I'd be furious. So I should thank you."
 
 "All I'd need is access to one of the pods." I kept my face easy and let a little sly into my voice. "And trust me when I say this. The luck I've had in HGO in the two hours I've been playing could be real useful to you."
 
-"What kind of luck are we talking?"
+Leon rolled the unlit cigarette between two fingers. "What kind of luck are we talking?"
 
-"What if I told you I stumbled onto a World Quest?"
+I let the quiet sit a second. "What if I told you I stumbled onto a World Quest?"
 
 Leon sat back and looked at the street window instead of me. Then he pulled the cigarette from behind his ear and lit it. "Well, goddamn." He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "The one that's trending."
 
@@ -178,7 +182,7 @@ I nodded once. "Clips first."
 
 "I believe you." He walked me to the door. The sign flipped behind me and the lock clicked.
 
-Outside, I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed, deleted it, typed again.
+Outside, I stowed the backpack in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed, deleted it, typed again.
 
 **[Thinking about going back to Tochi.]**
 
