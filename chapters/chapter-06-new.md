@@ -96,7 +96,7 @@ Then I switched over to see what was trending in gaming and entertainment. My na
 
 *"I have to get back here early in the morning."* The feed kept refreshing under my thumb, my name sliding up it again and again.
 
-That core was still ticking down in the back of my head. I swapped out of Loop, opened my browser, and typed in the address of the parts site Dad used to order from. I only knew it from the order slips he'd left in his desk. Everywhere else I'd looked tonight had turned up nothing, so I searched his site for processor cores. Nexus's were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
+That core was still ticking down in the back of my head. I swapped out of Loop and opened my browser, then dug the address out of an old receipt I'd saved for the EB's parts. It was a marketplace Dad used to buy from, more eBay than shop, where people sold tech parts that weren't supposed to be sold. I hadn't been on it in years. Everywhere else I'd looked tonight had turned up nothing, so I searched it for processor cores. Nexus's were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
 
 **[KUROSHIO CAPSULE CORE | ¥860,000]**
 
