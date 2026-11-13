@@ -92,7 +92,7 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 **[BANK BALANCE: ¥64,120]**
 
-I stood in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."* A game Chiyo couldn't see wasn't a job, and "I'm just playing" wouldn't survive one question from her. A number in the bank might. Mom's surgery, Momo and Taji, the Tabuchis circling, and for the first time something that could pay every week instead of once.
+I stood in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."* A game Chiyo couldn't see wasn't a job, and "I'm just playing" wouldn't survive one question from her. A number in the bank might. Mom's surgery, Momo and Taji, the Tabuchis circling, and for the first time something that could pay more in a few days than WattsUp did in weeks.
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
