@@ -28,3 +28,5 @@ Unique items level with their user; the earring's dice has its own level. Around
 ## Sellable (author-stated, latest)
 
 The earring is NOT bound or unsellable: he got it from a roll, so he can sell it. The app shows it as `UNIQUE (EQUIPPED)` with no "cannot be sold" tag. (It still has the death-penalty drop exemption noted above, and he is not going to sell it.)
+
+- **Crit-fail punishment, proposed from the author (latest):** when Gambler's Gambit rolls a critical fail, the item he just received breaks. This answers the OPEN punishment question above. Nothing on the page yet. The scaling note (a different enhancement level every five levels, aimed at enhancing others) is in `codex/subplots/tatsuya-trap-bomber-brigand-archetype.md`.
