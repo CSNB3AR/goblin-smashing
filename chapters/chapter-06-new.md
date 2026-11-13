@@ -4,13 +4,13 @@ The shell hissed open, and the bell was still ringing in my head. *"That wasn't 
 
 Then the room came back around me one piece at a time. The smell first, cigarette smoke and dust and plastic, the same as when I'd gone under. Then the warm lantern lamps hung low over the brick pillars, the steel beams crossing a dark ceiling, the wood paneling on the far wall. The pod stood around me like a dark tower, cable bundles looping down its sides and a blue glow in the seams, Kazuhaya Tech stamped small near the base.
 
-My vision was blurry. Not dark, just smeared, the room dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop, and I swallowed twice and let it pass. *"Okay. Rough, but I can work with rough."*
+My vision was blurry, the room smeared and dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop, and I swallowed twice and let it pass. *"Okay. Rough, but I can work with rough."*
 
 Then my own size hit me. After the goblin I felt enormous. A little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
 I hung there until the room stopped turning, my pulse not coming down with the rest of me.
 
-I popped the cuffs and stepped down off the platform, knees stiff from standing locked in there so long, and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
+I popped the cuffs and stepped down off the platform and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
 My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out.
 
@@ -40,7 +40,7 @@ A banner sat across the top of the home screen before I could swipe on.
 
 **[WORLD QUEST ACTIVATED: CALL OF THE BONES | ACTIVATED BY: NYKRI]**
 
-My name sat right there on the banner. No zone, no camp, just the quest and the player who'd set it off. *"They told everyone who. They didn't say where."* I swiped past it, and my thumb wasn't quite steady.
+My name sat right there on the banner. *"They told everyone who. Not where."* I swiped past it, and my thumb wasn't quite steady.
 
 Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
 
@@ -60,7 +60,7 @@ Twenty-one thousand. Shillings, not yen. For a mana potion. Another line sat und
 
 **[MARKET REFRESH: OPEN BETA | STANDING BUY ORDERS ACTIVE]**
 
-*"That's why."* Open beta had wiped every shop and stash on the server back to the starting line, and every guild that had been sitting on a wish list since closed beta had buy orders stacked on the market, desperate to get their mages ready early. Next week the prices would settle. Tonight, somebody would pay almost anything.
+*"That's why."* Open beta had wiped every shop and stash on the server back to the starting line, and every guild that had been sitting on a wish list since closed beta had buy orders stacked on the market, desperate to get their mages ready early. Tonight, somebody would pay almost anything.
 
 I confirmed the listing, already bracing to wait. The vials vanished almost immediately.
 
@@ -112,19 +112,21 @@ I opened the feed. The big hitters already had it loud.
 
 Eren's guild. I scrolled past it fast.
 
-A World Quest was supposed to belong to London Spire or one of the other big guilds, and instead it was a random goblin with no guild and no history. They didn't know who. They didn't know where. They all wanted both. *"The name is the only thing I own right now. Nobody's handing me eyes. I have to take them."* I knew what the top players had pulled out of this game, the streams, the sponsors, the payouts, and I'd always watched from the stands. A name everyone was asking about was the best leverage I'd ever get, and it was bait for every one of them too. *"Bait pulls both ways. I just have to be the one holding the line."*
+The whole server knew a World Quest had popped, and every one of them wanted whoever held it. They'd be hunting me by morning. *"Damn it."* My pulse kicked. The game was brand new, the quest clock was running, and I had to be off that pod by ten. Leaving now, with my name on every feed, was the worst timing I could have picked, and I was missing it all standing in a hallway. *"I have to get here early tomorrow. I need longer sessions, and Leon has to agree to them."*
 
-But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. *"Counting on drops every login isn't a plan."* I needed a profile with my loot on display, a face people knew, the email already in the bio. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
+But a name everyone was asking about was also the best leverage I'd ever get. I knew what the top players had pulled out of this game, the streams, the sponsors, the payouts. *"Bait pulls both ways. I just have to be the one holding the line."*
 
-Before I killed the screen I typed *Nexus helmet processor core* into the search bar. In the dark earlier it had given me nothing. Patents and press, every trail pointing back at Nexus Enterprises, and not one listing, price or seller. If anyone could buy one, anyone could crack it open and copy the schematics.
+But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. I needed a profile with my loot on display, a face people knew, the email already in the bio. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
 
-The only thing that tied Nexus Enterprises to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. It wasn't a processor, and it didn't mean one was sitting in that building. Even then, instructors would hold anything in that lab, not the kids. I'd have to climb: top grades, and a name the way Mom's had been in volleyball and Dad's in the labs.
+Before I killed the screen I typed *Nexus helmet processor core* into the search bar. In the dark earlier it had given me nothing. Patents and press, every trail pointing back at Nexus Enterprises, and nobody selling one. If anyone could buy one, anyone could crack it open and copy the schematics.
 
-Copying Nexus wasn't the answer. Dad hadn't copied anyone. *"Why not build my own core, one made for his pod?"* A Kuroshio core could show me how one worked, if I could stomach black market prices, but I'd build for the Kazuhaya pod, not mimic theirs. I couldn't learn that on a laptop in a back room. That took Tochi.
+The only thing that tied Nexus Enterprises to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. It said nothing about a processor, or whether one sat in that building. Even then, instructors would hold anything in that lab, not the kids. I'd have to climb: top grades, and a name the way Mom's had been in volleyball and Dad's in the labs.
+
+Copying Nexus wasn't the answer. Dad hadn't copied anyone. *"Why not build my own core, one made for his pod?"* A Kuroshio core could show me how one worked, if I could stomach black market prices, but I'd build for the Kazuhaya pod, not mimic theirs. I couldn't learn that on a laptop in a back room.
 
 The clock said 9:52 PM. Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
-Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, rubbing the bridge of his nose under his glasses.
+Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses.
 
 "You look like you got hit by a truck. Sorry again about the booth thing. How'd it go?"
 
@@ -164,7 +166,7 @@ Leon's jaw worked. "And you can actually fix it?"
 
 Leon blinked. "The Tochi Academy."
 
-"I can't learn it here. They have the lab, and Nexus sponsors them, so I might even see what a real core is made of. That's not a promise. It's the only lead I've got."
+"I can't learn it here. They have the lab, and Nexus sponsors them, so I might even see what a real core is made of. It might lead nowhere, but it's the only lead I've got."
 
 "And they'd let a kid into that lab?"
 
@@ -174,15 +176,17 @@ Leon blinked. "The Tochi Academy."
 
 "So the way you fix my pods is by going back to school."
 
-"Or I stay out, take a job here, and keep patching it by hand until the core finally dies. Which won't take long." "Tochi means a bed on campus and the game on weekends. I'd lose most of my time in the pod."
+"Or I stay out, take a job here, and keep patching it by hand until the core finally dies. Which won't take long. Tochi means a bed on campus and the game on weekends. I'd lose most of my time in the pod."
 
 Leon leaned back against the counter, arms loose, and I watched him put it together. "Okay. Here's what I want to do. I'll get a tech in here tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
 
-"I can do that."
+"I can do that. I'll need longer sessions than tonight, though. Open to close, if the pod holds."
 
-"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you build the core, and learn how at Tochi. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"Open to close, with that monitor running and me here," Leon said. "Fine."
 
-*"A pod, a job I can point at, and the parts. Yeah. That's a deal."* I fought a grin.
+"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me. One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you build the core, and learn how at Tochi. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+
+*"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
 
 "One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
 
@@ -192,7 +196,7 @@ I scratched along my goatee. The thought had felt like a loss a week ago. It did
 
 "I believe you," Leon said, and flipped the sign on the door.
 
-Outside, my breath misted in the cold. I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message sat near the top, the one about Tochi, with my thumbs-up under it that hadn't answered anything. I typed, deleted it, typed again.
+Outside, my breath misted in the cold. The hours were painted on the glass of the door. Opens at nine. *"Eleven hours, and by then the whole server's looking for me. Fuck. I'm here when he unlocks it."* I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message sat near the top, the one about Tochi, with my thumbs-up under it that hadn't answered anything. I typed, deleted it, typed again.
 
 **[Thinking about going back to Tochi.]**
 
@@ -220,7 +224,7 @@ The monitors kept beeping.
 
 "But I made some money already. Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
 
-"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
+"Crownfall's two weeks out. Ten million yen on the table. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
 
 I stopped, my throat going tight.
 
