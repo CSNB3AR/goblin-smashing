@@ -18,8 +18,6 @@ The pod was another story. Heat rolled off the shell the way it had in the black
 
 *"If I want long sessions, it needs a new core."* There were no first-gen cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
 
-And if Sakura Arcade closed, it took my only pod with it.
-
 I eased the drive out of the slot beside the headrest, then dragged the bag over, put Dad's manual back in with the letter still inside, and shouldered it. I picked up the toolbox and pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
 
 9:43 PM. Leon had said twenty minutes to closing, which left me seventeen. Nothing new from Chiyo on the lock screen, just the thread I'd left on a thumbs-up.
