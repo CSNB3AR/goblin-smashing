@@ -20,7 +20,7 @@ The pod was another story. Heat poured off the shell, the fan dragging in its ho
 
 And if Sakura Arcade closed, it took my only pod with it. Every third-gen cafe in the area was eating this place alive.
 
-I eased the drive out of the slot beside the headrest, then dragged the bag over, put Dad's manual back in with the letter still inside, and shouldered it. Some habits didn't need a reason. I picked up the toolbox and pulled my phone out on the walk down the back hallway, past the dark rooms and humming racks, floorboards creaking under my boots.
+I eased the drive out of the slot beside the headrest, then dragged the bag over, put Dad's manual back in with the letter still inside, and shouldered it. I picked up the toolbox and pulled my phone out on the walk down the back hallway, past the dark rooms and humming racks, floorboards creaking under my boots.
 
 9:43 PM. Leon had said twenty minutes to closing, which left me seventeen. Nothing new from Chiyo on the lock screen, just the thread I'd left on a thumbs-up.
 
@@ -100,17 +100,23 @@ It didn't. I stood in the back hallway of Sakura Arcade letting that number do s
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
-My phone buzzed before I'd finished saving it. Then again, and then it didn't stop. Follow alerts, tags, messages from names I didn't know. Everyone who typed Nykri into Loop was landing on me, and a minute ago there'd been nothing here to land on.
+My phone buzzed before I'd finished saving it. Follow alerts, tags, a couple of messages from names I didn't know. Everyone who typed Nykri into Loop was landing on me, and a minute ago there'd been nothing here to land on.
 
-I opened the feed.
+I opened the feed. The big hitters already had it loud.
 
-**[@PK_Wraith: Nykri just popped the World Quest. A level 3 goblin. Y'all better believe we're finding him before he finishes it.]**
+**[@Dosuke_AI: World Quest just popped. London Spire again? End of the beta season, would make sense]**
 
-**[@Dosuke_AI: a level 3 goblin triggered the world quest? interesting. who is Nykri?]**
+**[@Yuna_N9: A World Quest has been ACTIVATED, everybody! And it's not London Spire. It's a player called Nykri. Who is Nykri?!]**
 
-I read both twice, a cold prickle running up my arms. PK_Wraith had just put me on his list in public. *"They have my name. They don't have the camp."* That bought me a few days, and it was bait for every guild and every PK who wanted a piece of that quest. But it was also the biggest crowd anyone had ever pointed at me, and it cost nothing. Used right, it was exposure, clips, sponsors, a number Chiyo could see. My hands went cold, and then, slowly, steadier. *"Bait pulls both ways. I just have to be the one holding the line."*
+**[@PK_Wraith: Who the hell is Nykri? Anybody know who holds that quest, and where? Asking for a few friends.]**
 
-The Companion App ran sponsored streams on its front page, viewer counts in the six figures, and the people at the top hadn't gotten there on gameplay alone. They'd been found. Now I was findable. It wasn't a plan yet, and Gambit paid once a day, not a salary. *"I need to farm every time I log in, but I can't farm and run the quest clock at once. Balance it. And find money that doesn't depend on a lucky roll."*
+**[@KansaiBlackLotus: Quest holder is Nykri, no guild listed. Anyone with info, send it our way.]**
+
+Eren's guild. I scrolled past it fast.
+
+Nobody knew the name, and that was the point. A World Quest was supposed to belong to London Spire or one of the other big guilds, and instead it was a random goblin with no guild and no history. They didn't know who. They didn't know where. They all wanted both. *"The name is the only thing I own right now. Nobody's handing me eyes. I have to take them."* I knew what the top players had pulled out of this game, the streams, the sponsors, the payouts, and I'd always watched from the stands. A name everyone was asking about was the best leverage I'd ever get, and it was bait for every one of them too. *"Bait pulls both ways. I just have to be the one holding the line."*
+
+But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. *"Counting on drops every login isn't a plan."* I needed a profile with my loot on display, a face people knew, the email already in the bio. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
 
 I wanted to stay and dig, but the clock said 9:49 PM, Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
@@ -140,8 +146,6 @@ Leon studied me, something shifting behind his glasses. "You're actually telling
 
 "That's why the session ran long. It wasn't the game. It was convincing the pod to accept the drive in the first place."
 
-Leon started to say something, stopped, and shook his head slow instead.
-
 "Here's the problem," I said. "A bypass only keeps it alive for so long. Doing it right needs third-gen cores, and nobody sells those. If they did, anyone could crack one open and copy it. I know where they are, though."
 
 "Where?"
@@ -157,8 +161,6 @@ Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy.
 "No. Instructors get that access, not students. I'd have to work my way up first."
 
 "That explains a lot, actually."
-
-"Wasn't trying to hide it," I said. "Just wasn't relevant until now."
 
 "So the way you fix my pods is by going back to school."
 
@@ -204,23 +206,17 @@ I pulled the chair close and sat, elbows on my knees, hands loose between them.
 
 "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
-The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something I couldn't catch.
+The monitors kept beeping.
 
 "I got into the game," I said. "HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short sound, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
 
-I leaned back and pushed the loose loc behind my ear where it kept falling.
-
 "But I made some money already. Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
-
-The words came easier here than they did anywhere else.
 
 "Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
 
 I stopped, my throat going tight. I let the quiet sit a second before pushing through it.
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
-
-The monitors kept their rhythm. The room stayed quiet.
 
 "I'm gonna figure it out. I always do."
 
@@ -276,7 +272,7 @@ She stood first, I followed, the stack of papers changing hands without either o
 
 "Good luck with the game," she said, taking the papers from me and turning, already three steps into the hallway before I'd finished the sentence. "Hope to see you soon."
 
-I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms, some part of me already running the last thirty seconds back to confirm it had actually happened.
+I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms.
 
 I set the papers on the nearest chair and unfolded the note.
 
