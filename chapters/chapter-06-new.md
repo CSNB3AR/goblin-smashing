@@ -96,7 +96,9 @@ I stood in the back hallway of Sakura Arcade letting that number do something to
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
-My phone buzzed before I'd finished saving it. Follow alerts, tags, messages from strangers. Everyone who typed Nykri into Loop was landing on me, and a minute ago there'd been nothing here to land on.
+I'd planned this long before tonight. Back when Eren and I were still friends, we'd mapped it out while we planned the build: a handle people remember, a face, a business email so sponsors had somewhere to send an offer, the way the pros I'd watched landed their first ones. I never thought I'd be running that plan alone, on a pod held together with a bypass. The plan hadn't changed.
+
+Nykri was already trending. Everyone searching the name was landing on a profile that had been empty a minute ago, just looking.
 
 I opened the feed. The big hitters already had it loud.
 
@@ -114,7 +116,7 @@ The whole server knew a World Quest had popped, and every one of them wanted who
 
 But a name everyone was asking about was also the best leverage I'd ever get. I knew what the top players had pulled out of this game, the streams, the sponsors, the payouts. *"Bait pulls both ways. I just have to be the one holding the line."*
 
-But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. I needed a profile with my loot on display, a face people knew, the email already in the bio. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
+But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. I needed my loot on display so the brand was ready when it mattered. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
 
 Before I killed the screen I typed *Nexus helmet processor core* into the search bar. In the dark earlier it had given me nothing. Patents and press, every trail pointing back at Nexus Enterprises, and nobody selling one. If anyone could buy one, anyone could crack it open and copy the schematics.
 
