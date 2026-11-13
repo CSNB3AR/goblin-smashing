@@ -88,7 +88,7 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 **[BANK BALANCE: ¥64,120]**
 
-I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."* I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see. Mom's surgery, Momo and Taji, the Tabuchis circling.
+I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."* I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see.
 
 I backed out of the app and opened Loop. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin. That was it.
 
@@ -120,7 +120,7 @@ I put the toolbox down by my boot and leaned on the counter without saying anyth
 
 Leon's arms stayed folded a second longer, and then they came down. "All right. Go ahead."
 
-"I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
+I held his eyes. "I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
 Leon went very still. For a second the only sound was the front desk monitor humming. "You started work on my machine without asking."
 
@@ -134,7 +134,7 @@ Leon went very still. For a second the only sound was the front desk monitor hum
 
 "If I'm going off that, a point a session. About twenty logins, maybe fewer. I can fix your pods. It'll take time, and I can build the cores myself, which beats paying through the nose every time one burns out. Fix both, and you've got two HGO pods in a city where everything's booked out for months. You set the price."
 
-Leon's gaze sharpened a notch. "Build them with what? Where are you going to find what you need around here?"
+"Build them with what? Where are you going to find what you need around here?"
 
 I looked at the lamp over the counter, buzzing faintly, instead of at him. "Tochi."
 
@@ -154,11 +154,11 @@ He didn't say anything. His eyes stayed on me, and I let them. "Tochi," he said 
 
 "What if I told you I stumbled onto a World Quest?"
 
-Leon sat back. The front desk monitor hummed in the quiet, and he looked at the street window instead of me. Then he pulled the cigarette from behind his ear and lit it. "Well, goddamn." He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "The one that's trending."
+Leon sat back and looked at the street window instead of me. Then he pulled the cigarette from behind his ear and lit it. "Well, goddamn." He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "The one that's trending."
 
 I didn't say yes. I didn't have to. "Nykri," he said at last, trying the name out flat, and I nodded.
 
-He tapped ash into a saucer by the register. "Now that changes everything." He'd followed his sister's guild long enough to know what a World Quest was worth. I figured that was all the math he needed.
+He tapped ash into a saucer by the register. "Now that changes everything." He'd followed his sister's guild long enough to know what a World Quest was worth.
 
 "Here's my problem." He picked at a scuff on the counter with his thumbnail instead of looking at me. "I don't mind you coming in after five and getting free hours. I put that up to get people through the door. If it turns into a regular thing, I'll limit you, because I still have a business to run. Most of the cafes are beating me out, the Kuroshio capsule places and the new Nexus helmets, especially J-Link. My sister books weeks ahead at J-Link and still barely gets a slot. And I'm already deep in legal trouble." He took another drag. "So you can guess where my money's headed. I won't make you listen to the rest."
 
@@ -178,7 +178,7 @@ I nodded once. "Clips first."
 
 "I believe you." He walked me to the door. The sign flipped behind me and the lock clicked.
 
-Outside, my breath misted in the cold. I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed, deleted it, typed again.
+Outside, I stowed the toolbox and the bag in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed, deleted it, typed again.
 
 **[Thinking about going back to Tochi.]**
 
