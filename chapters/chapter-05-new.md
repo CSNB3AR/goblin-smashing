@@ -216,7 +216,7 @@ I slid the vials back into my inventory. First things first: get offline, cash t
 
 The chat window suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
 
-**[SYSTEM ANNOUNCEMENT: WORLD QUEST | CALL OF THE BONES HAS BEEN ACTIVATED]**
+**[SYSTEM ANNOUNCEMENT: WORLD QUEST | CALL OF THE BONES HAS BEEN ACTIVATED BY NYKRI]**
 
 I watched it erupt, theories and arguments breaking out faster than I could read.
 

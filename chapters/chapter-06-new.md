@@ -1,6 +1,6 @@
 # Chapter Seven: Consequences in Silence
 
-The shell hissed open, and the bell was still ringing in my head. *"That wasn't just for me. That was a public announcement. The whole server just heard a world quest go live."*
+The shell hissed open, and the bell was still ringing in my head. *"That wasn't just for me. That was a public announcement. The whole server just heard a world quest go live, with my name on it."*
 
 Then the room came back around me one piece at a time. The smell first, cigarette smoke and dust and plastic, the same as when I'd gone under. Then the warm lantern lamps hung low over the brick pillars, the steel beams crossing a dark ceiling, the wood paneling on the far wall. The pod stood around me like a dark tower, cable bundles looping down its sides and a blue glow in the seams, Kazuhaya Tech stamped small near the base.
 
@@ -8,7 +8,7 @@ My vision was blurry. Not dark, just smeared, the room dragging a half-beat behi
 
 Then my own size hit me. After the goblin I felt enormous. A little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, knees nudging the front of the shell, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
-I hung there until the room stopped turning, the chat still scrolling behind my eyes and my pulse not coming down with the rest of me.
+I hung there until the room stopped turning, my pulse not coming down with the rest of me.
 
 I popped the cuffs and stepped down off the platform, knees stiff from standing locked in there so long, and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
@@ -40,9 +40,9 @@ My account loaded, the goblin face of my avatar staring back at me from a small 
 
 A banner sat across the top of the home screen before I could swipe on.
 
-**[WORLD QUEST ACTIVE: CALL OF THE BONES]**
+**[WORLD QUEST ACTIVATED: CALL OF THE BONES | ACTIVATED BY: NYKRI]**
 
-That was all it said. No zone, no name. *"They told everyone it started. They didn't say where, or who."* I swiped past it, and my thumb wasn't quite steady.
+My name sat right there on the banner. No zone, no camp, just the quest and the player who'd set it off. *"They told everyone who. They didn't say where."* I swiped past it, and my thumb wasn't quite steady.
 
 Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
 
@@ -94,27 +94,27 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 **[BANK BALANCE: ¥64,120]**
 
-Shillings to coins to yen. Three steps, and nothing taken off the top at any of them. I read the number again and tilted the screen away from the hallway light, half expecting it to take the money back.
+Shillings to coins to yen. Three steps, and nothing taken off the top at any of them.
 
 It didn't. I stood in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."* A game Chiyo couldn't see wasn't a job, and "I'm just playing" wouldn't survive one question from her. A number in the bank might. Mom's surgery, Momo and Taji, the Tabuchis circling, and for the first time something that could pay every week instead of once.
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
-*"If I ever stream this, the name and the face have to already be there."* The Companion App had a Go Live toggle three taps from my character sheet, and the people at the top of the front page hadn't gotten there on gameplay alone. They'd been found. It wasn't a plan yet. It was a door I'd stopped leaving locked.
+My phone buzzed before I'd finished saving it. Then again, and then it didn't stop. Follow alerts, tags, messages from names I didn't know. Everyone who typed Nykri into Loop was landing on me, and a minute ago there'd been nothing here to land on.
 
-Then I backed out to the feed, and the feed was already loud.
+I opened the feed.
 
-**[@PK_Wraith: World Quest just went live. First one in months. Y'all better believe we're getting a piece of that.]**
+**[@PK_Wraith: Nykri just popped the World Quest. A level 3 goblin. Y'all better believe we're finding him before he finishes it.]**
 
-**[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
+**[@Dosuke_AI: a level 3 goblin triggered the world quest? interesting. who is Nykri?]**
 
-*"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. Every thread said it the same way. The announcement had gone out to the whole server and said nothing else, no zone and no name. People were comparing screenshots of the bell and arguing over who it could have been.
+I read both twice, a cold prickle running up my arms. PK_Wraith had just put me on his list in public. *"They have my name. They don't have the camp."* That bought me a few days, and it was bait for every guild and every PK who wanted a piece of that quest. But it was also the biggest crowd anyone had ever pointed at me, and it cost nothing. Used right, it was exposure, clips, sponsors, a number Chiyo could see. My hands went cold, and then, slowly, steadier. *"Bait pulls both ways. I just have to be the one holding the line."*
 
-*"They don't know where. They don't know who."* My hands had gone cold, and then, slowly, steadier. That wouldn't last forever, but it bought me a few days. A different thread caught me, guild leaders arguing over whether to cash out their old characters yet for Hearthfire's Legacy Point payout.
+The Companion App ran sponsored streams on its front page, viewer counts in the six figures, and the people at the top hadn't gotten there on gameplay alone. They'd been found. Now I was findable. It wasn't a plan yet, and Gambit paid once a day, not a salary. *"I need to farm every time I log in, but I can't farm and run the quest clock at once. Balance it. And find money that doesn't depend on a lucky roll."*
 
-*"Wild."* *"Not my problem. I'm already starting from the bottom."* I wanted to stay and dig, but the clock at the top of the screen said 9:49 PM, Leon was waiting up front, and I'd already kept him late. I killed the screen.
+I wanted to stay and dig, but the clock said 9:49 PM, Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
-Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. The chairs were already up on the desks along the wall. He set the tablet down when he saw me cross the floor.
+Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
 
 "You look like you got hit by a truck." He almost smiled. "Sorry again about the booth thing. How'd it go?"
 
@@ -126,7 +126,7 @@ Leon was at the counter under the warm lantern lamps and the brick pillars, tabl
 
 Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
 
-"So you're getting cooked on every front." My thumb found the edge of the counter. Leon was being straight with me, and I was standing there on a pod I'd bent the rules on. "Alright. Since we're being real, I've got something you should hear too."
+"So you're getting cooked on every front." My thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should hear too."
 
 Leon's eyebrows went up. "Go ahead."
 
