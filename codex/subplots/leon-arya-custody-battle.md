@@ -19,3 +19,7 @@ Once Tochi extends Arya a real scholarship (see `codex/pro-scene/tochi-represent
 ## Cross-references
 
 `codex/characters/leon.md`, `codex/characters/arya.md`, `outline/act-two-haya-storm-rise.md` for where this lands in the story. The grandfather himself is unnamed and undetailed beyond what's here, open territory if a future pass wants to give him more shape.
+
+## Why the parents object (author-stated, latest)
+
+The parents' case is that Leon is not doing well by Arya: she is the delinquent of the two, covered in tattoos and rarely at school (enrolled, not dropped out), and deep in gaming while she tries to go pro with her guild. That is how they frame it; Leon and the reader know she is skilled and driven. This is the mechanism behind the pressure Leon describes to Tatsuya in Chapter Seven.

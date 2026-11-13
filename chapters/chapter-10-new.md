@@ -4,7 +4,7 @@ She'd used the handle. Not my name.
 
 "Where's Leon?" I asked once more, my eyes catching hers as I walked from the bathroom.
 
-"He called the VRSA inspector in." She didn't move from where she was, arms loose at her sides, red hair catching the overhead lights in waves of copper and auburn. "The pod started overheating. Probably from your live stream. He told me to sit here while he deals with it."
+"He called the VRSA inspector in." She didn't move from where she was, arms loose at her sides, white hair catching the overhead lights, a few loose strands falling out of its bun. "The pod started overheating. Probably from your live stream. He told me to sit here while he deals with it."
 
 My hand came up and scrubbed over the back of my head, the motion pulling my sleeve back from my forearm.
 

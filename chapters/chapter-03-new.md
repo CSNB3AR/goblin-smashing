@@ -111,7 +111,7 @@ Sakura Arcade sat on a side street between a closed ramen shop and a convenience
 
 A bell jingled over the door. Inside, warm lantern lamps hung over brick pillars and steel beams, desks and monitors down one wall, and two tall dark pods standing in the open floor with cable bundles running up their sides and a blue glow in the seams. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
 
-Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, dark hair pulled back in a small knot, an unlit cigarette tucked behind one ear and a smear of grease across his thumb, a faint smell of smoke and solder coming off him.
+Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, wavy brown hair pulled back in a small knot, stubble along his jaw, an unlit cigarette tucked behind one ear and a smear of grease across his thumb, a faint smell of smoke and solder coming off him.
 
 "Can I help you?" He glanced at the clock over the door, then back at me. "Walk-ins are fine."
 

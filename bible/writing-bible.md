@@ -163,7 +163,7 @@ WattsUp and the Nakamura Grand are both in Tokyo's Shibuya ward (Kanto region), 
 - Later in the story (see `bible/old-draft-chapter-bible.md` for the preserved beats), this respect eventually leads him to quit the team publicly over Eren's leadership and the stolen-build history. Any content reaching the reader from that arc needs to come through Tatsuya's own observation or secondhand knowledge, not a POV break.
 
 ### Leon
-- Owner of Sakura Arcade. Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
+- Owner of Sakura Arcade. Wavy brown hair tied back in a small knot, thin glasses, light stubble, an unlit cigarette behind his ear (updated from the old suit-jacket-and-soccer-jersey note).
 - Has TWO first-gen Kazuhaya Tech pods, the only ones still running in the area.
 - His business is struggling. Tatsuya's presence begins to change that (technical arc, see §9).
 

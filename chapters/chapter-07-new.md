@@ -148,9 +148,9 @@ Dosuke noticed first. Of course he did. I killed the screen before the light cha
 
 • • •
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when I walked in, red hair, street-biker aesthetic, sharp eyes that landed on me the second I crossed the threshold and didn't move off.
+Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when I walked in, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, with a scowl and sharp grey eyes that landed on me the second I crossed the threshold and didn't move off.
 
-*"That has to be Leon's sister."* The resemblance was there once you looked.
+*"That has to be Leon's sister."* Nothing in her face matched his, but the way she sized me up did.
 
 "How can I help you?" She said it directly.
 
@@ -224,7 +224,7 @@ Leon didn't say much after that, just nodded once, slow, and let the quiet stand
 
 I took a stool near the front counter while the inspector worked. Arya was cleaning down the front counter a few feet away, and the quiet between us lasted longer than I wanted it to.
 
-"So you're the one actually breaking that pod in first," she said, not quite looking over, her hands still moving through the grips. "Leon's been weird about it since yesterday. Won't say why." A glance, quick, sharp green eyes meeting mine for half a second before going back to the counter. "Figured I'd just ask you instead."
+"So you're the one actually breaking that pod in first," she said, not quite looking over, her hands still moving through the grips. "Leon's been weird about it since yesterday. Won't say why." A glance, quick, sharp grey eyes meeting mine for half a second before going back to the counter. "Figured I'd just ask you instead."
 
 "I was told not to say anything right now," I said, keeping my voice easy, hands resting on my knees. "Ask Leon if you want the real answer."
 

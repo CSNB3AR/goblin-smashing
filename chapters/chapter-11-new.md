@@ -424,7 +424,7 @@ Arya resolved out of the dark a moment later, half hidden behind a thick trunk t
 
 Arya's frown deepened, the glow on her staff brightening for half a second and then dimming back down. "You want Hushveil."
 
-"The silence upgrade, full radius." I turned to meet her eyes across the gap, moonlight catching in her red hair. "Cover the whole tent, not just the road."
+"The silence upgrade, full radius." I turned to meet her eyes across the gap, moonlight catching in her white hair. "Cover the whole tent, not just the road."
 
 She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot of mana for that big a radius. Tier three at full size will eat most of what I've got." Her knuckles went white on the staff. "And it only lasts a few seconds once it's live. Everyone has to be in position before it drops."
 
