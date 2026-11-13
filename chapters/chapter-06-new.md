@@ -100,23 +100,25 @@ That core was still ticking down in the back of my head. I swapped out of Loop a
 
 **[KUROSHIO CAPSULE CORE | ¥860,000]**
 
-*"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."* I couldn't learn that on a laptop in a back room. The only place I knew that taught it was Tochi, and even there, lab access went to instructors, not the kids. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
+*"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."* I couldn't learn that on a laptop in a back room, and I couldn't learn it working in Gato's shop either. The only places I knew that taught anything like it at a high level were Tochi or some other tightly run university, and Tochi was the one I had a way back into. Even then, lab access wasn't handed out. Most students never got in unless they sat on the student council, so I'd have to make some deals. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
 
-I needed to tell Leon what was going on. I couldn't run on his pods and keep him in the dark. The clock said 9:52 PM, and he was waiting up front. I headed that way.
+I knew I had to tell Leon what was going on, but I had to figure out how to do it without it feeling like I'd already broken his trust. The clock said 9:52 PM, so I started toward the front. A draft from the street door stirred my locs as I threaded between the old desks and their dark monitors, brick pillars going by on my left, all six feet and change of me with my long legs still not steady.
 
 Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The monitor on the front desk beside him cycled through its screensaver, humming.
 
-"You look like you got hit by a truck." He set the tablet down and gave me a once-over. "Sorry again about the booth."
+"You look like you got hit by a truck." He set the tablet down and gave me a once-over. "Did everything go well in there?"
 
-I leaned on the counter, my legs still shaky from the pod. "Kinda. My first VR experience kind of did that to me."
+I leaned on the counter, my legs shaky from the pod. "Kinda. My first VR experience kinda did it."
 
 "Everything okay?"
 
-I looked up at him and gave a small shrug that meant it was all right and nothing more.
+I couldn't give him a shrug this time. "No."
 
-Leon studied me a moment, then turned the tablet a quarter turn on the counter. "All right. What's wrong with the pods?"
+Worry crossed his face, quick, before he smoothed it over. I had to be honest with him. I was the one who'd caused it.
 
-I figured he was really asking whether I'd be back. "That's what I came to talk to you about."
+"All right." He turned the tablet a quarter turn on the counter. "What's wrong with the pods?"
+
+"That's what I came to talk to you about."
 
 "Okay, then." He folded his arms. "But let me go first, because we're about to close up and I don't know if you'll even show up tomorrow."
 
@@ -162,19 +164,15 @@ Leon sat back and looked at the street window instead of me. Then he pulled the 
 
 I didn't say yes. I didn't have to. "Nykri," he said at last, trying the name out flat, and I nodded.
 
-He tapped ash into a saucer by the register. "Now that changes everything." He'd followed his sister's guild long enough to know what a World Quest was worth.
+He tapped ash into a saucer by the register. "Now that changes everything." He looked like a man who'd watched enough HGO to know what a World Quest was worth.
 
-"Here's my problem." He picked at a scuff on the counter with his thumbnail instead of looking at me. "I don't mind you coming in after five and getting free hours. I put that up to get people through the door. If it turns into a regular thing, I'll limit you, because I still have a business to run. Most of the cafes are beating me out, the Kuroshio capsule places and the new Nexus helmets, especially J-Link. My sister books weeks ahead at J-Link and still barely gets a slot. And I'm already deep in legal trouble." He took another drag. "So you can guess where my money's headed. I won't make you listen to the rest."
+"Here's my problem." He picked at a scuff on the counter with his thumbnail instead of looking at me. "I don't mind you coming in after five and getting free hours. If it turns into a regular thing, I'll have to limit you, because I've got a business to run, and the helmet cafes are eating us alive. And I'm already deep in legal trouble." He took a drag. "So I can't pay you to work here. But here's what I can do."
 
-"Arya and I already cover the floor full time, so there's no job here for you except that pod. And a guy who plays all day for free is a freeloader with a good excuse." He looked at me for a long second. "So you owe me. Here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points, and that's how I got our name out there. I can't do it with her anymore, and I'm not getting into why."
-
-I didn't push. He'd handed me what he was going to hand me, and I'd done the same.
-
-"But I watched her whole guild blow up off streaming," he said. "Sponsors, money, all of it. So I set you up with what you need, and you advertise the game for us, and our brand, on your clips. Streaming too, when you're ready. It's give and take."
+He tapped the ash again. "If you can really fix those pods, one of them is yours, permanently, whenever you need it. I'll sponsor you. I set you up with what you need, and you advertise the game for us, and our brand, on your clips. Streaming too, when you're ready. It's give and take."
 
 I nodded once. "Clips first."
 
-"Fine." He straightened off the counter. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. One of those pods is yours, permanently, whenever you need it. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"Fine." He straightened off the counter. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
 
