@@ -16,7 +16,7 @@ My bag sat zipped against the nearest brick pillar where I'd shoved it before I 
 
 The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died. I'd fix it long before that.
 
-*"If I want long sessions, it needs a new core."* Nobody made first-gen cores anymore, and I hadn't found one anywhere.
+*"If I want long sessions, it needs a new core."* There were no first-gen cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
 
 And if Sakura Arcade closed, it took my only pod with it.
 
@@ -100,7 +100,7 @@ It didn't. I stood in the back hallway of Sakura Arcade letting that number do s
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
-My phone buzzed before I'd finished saving it. Follow alerts, tags, a couple of messages from names I didn't know. Everyone who typed Nykri into Loop was landing on me, and a minute ago there'd been nothing here to land on.
+My phone buzzed before I'd finished saving it. Follow alerts, tags, messages from strangers. Everyone who typed Nykri into Loop was landing on me, and a minute ago there'd been nothing here to land on.
 
 I opened the feed. The big hitters already had it loud.
 
@@ -122,15 +122,15 @@ Before I killed the screen I typed *Nexus helmet processor core* into the search
 
 The only thing that tied Nexus Enterprises to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. It wasn't a processor, and it didn't mean one was sitting in that building. Even then, instructors would hold anything in that lab, not the kids. I'd have to climb: top grades, and a name the way Mom's had been in volleyball and Dad's in the labs.
 
-And copying Nexus wasn't the answer anyway. Dad hadn't copied anyone. *"Why not build my own core, one made for his pod?"* A Kuroshio core could show me how one worked, if I could stomach black market prices, but I'd build for the Kazuhaya pod, not mimic theirs. I couldn't learn that on a laptop in a back room. That took Tochi.
+Copying Nexus wasn't the answer. Dad hadn't copied anyone. *"Why not build my own core, one made for his pod?"* A Kuroshio core could show me how one worked, if I could stomach black market prices, but I'd build for the Kazuhaya pod, not mimic theirs. I couldn't learn that on a laptop in a back room. That took Tochi.
 
 The clock said 9:52 PM. Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
 Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, rubbing the bridge of his nose under his glasses.
 
-"You look like you got hit by a truck." He almost smiled. "Sorry again about the booth thing. How'd it go?"
+"You look like you got hit by a truck. Sorry again about the booth thing. How'd it go?"
 
-"Pod held," I said. I set the toolbox down and leaned on the counter. "No crashes. Ran longer than I thought it would."
+"Pod held," I said. I set the toolbox down and leaned on the counter. "No crashes."
 
 "Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "I can't see what you're in on that monitor, and nobody runs long sessions on those pods. So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I can't keep handing out open access if it turns into a habit for both of us."
 
@@ -158,7 +158,7 @@ Leon studied me. "You're actually telling me you got HGO running on hardware thi
 
 Leon's jaw worked. "And you can actually fix it?"
 
-"I know my dad's work well enough to keep it running. But nobody makes first-gen cores anymore. A Kuroshio core would get it going for now, but I can't buy one the normal way, and on the black market the price is insane. Tabuchi money sits behind Kuroshio too. I'm not putting that in my dad's machine. A Nexus core is a long road away, and nobody sells those. So I build one. A core made for these pods. It would fix your second pod too."
+"I know my dad's work well enough to keep it running. A Kuroshio core would get it going for now, but I can't buy one the normal way, and on the black market the price is insane. Tabuchi money sits behind Kuroshio too. I'm not putting that in my dad's machine. A Nexus core is a long road away, and nobody sells those. So I build one. A core made for these pods. It would fix your second pod too."
 
 "So where does that leave you?"
 
@@ -230,7 +230,7 @@ I stopped, my throat going tight.
 
 "I'm gonna figure it out. I always do."
 
-I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
+I stood and pressed my hand to her shoulder before I headed for the door.
 
 I was halfway down the hall when I heard them. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
 
