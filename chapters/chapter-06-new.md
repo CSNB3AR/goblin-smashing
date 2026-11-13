@@ -56,7 +56,13 @@ I tapped the elixirs, and the listing opened.
 
 **[MINOR ELIXIR | VALUE: 21,000 SHILLINGS EACH]**
 
-Twenty-one thousand. Shillings, not yen. For a mana potion. Another line sat under it.
+*"Twenty-one thousand shillings for a mana potion? What's that in yen?"* I tapped the number, and a rate card slid up.
+
+**[10 SHILLINGS = 1 HGO COIN]**
+
+**[1 HGO COIN = ¥4]**
+
+I ran it in my head. Eight thousand four hundred yen each. Another line sat under the listing.
 
 **[MARKET REFRESH: OPEN BETA | STANDING BUY ORDERS ACTIVE]**
 
@@ -68,21 +74,17 @@ I confirmed the listing, already bracing to wait. The vials vanished almost imme
 
 **[SOLD: 42,000 SHILLINGS]**
 
-Stage one, and it only counted inside the game. A second prompt rose over the first.
+A second prompt rose over the first.
 
 **[EXCHANGE SHILLINGS FOR HGO COINS?]**
-
-**[10 SHILLINGS = 1 HGO COIN]**
 
 I confirmed that too.
 
 **[4,200 HGO COINS RECEIVED]**
 
-Stage two. The coins were the bridge. One more prompt, and it was the one that mattered.
+One more prompt, and it was the one that mattered.
 
 **[CASH OUT HGO COINS?]**
-
-**[1 HGO COIN = ¥4]**
 
 **[BANK ACCOUNT REQUIRED TO COMPLETE CASH OUT]**
 
@@ -92,9 +94,7 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 **[BANK BALANCE: ¥64,120]**
 
-Shillings to coins to yen. Three steps, and nothing taken off the top at any of them.
-
-It didn't. I stood in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."* A game Chiyo couldn't see wasn't a job, and "I'm just playing" wouldn't survive one question from her. A number in the bank might. Mom's surgery, Momo and Taji, the Tabuchis circling, and for the first time something that could pay every week instead of once.
+I stood in the back hallway of Sakura Arcade letting that number do something to my chest that a few hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."* A game Chiyo couldn't see wasn't a job, and "I'm just playing" wouldn't survive one question from her. A number in the bank might. Mom's surgery, Momo and Taji, the Tabuchis circling, and for the first time something that could pay every week instead of once.
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin, pulled straight off my character sheet. Then I set up a fresh email just for business and filled in the bio I'd left blank for a year: For business or sponsorships, reach out here. That was all I put.
 
