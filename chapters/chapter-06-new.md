@@ -102,7 +102,7 @@ That core was still ticking down in the back of my head. I swapped out of Loop, 
 
 *"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."* I couldn't learn that on a laptop in a back room. The only place I knew that taught it was Tochi, and even there, lab access went to instructors, not the kids. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
 
-I needed to tell Leon what was going on. I couldn't run on his pods and keep him in the dark. The clock said 9:52 PM, and he was waiting up front. I killed the screen and headed that way.
+I needed to tell Leon what was going on. I couldn't run on his pods and keep him in the dark. The clock said 9:52 PM, and he was waiting up front. I headed that way.
 
 Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The monitor behind him cycled through its screensaver, the one that was supposed to show him what I was in on and never would.
 
