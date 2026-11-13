@@ -14,7 +14,7 @@ I popped the cuffs and stepped down off the platform, knees stiff from standing 
 
 My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out.
 
-The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port. The core read nineteen percent. Every hotwired session ate about a point, which gave me roughly twenty logins before it died, and I'd have it fixed long before that. I unplugged and packed it away again.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died. I'd fix it long before that. I unplugged and packed it away again.
 
 *"If I want long sessions, it needs a new core."* A Kuroshio capsule core would limp it along cheap, with the faults that sent everyone chasing the Nexus helmet. A Nexus core would end the problem. I hadn't found one.
 
@@ -148,9 +148,13 @@ Leon went very still. "Is the machine okay?"
 
 Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
 
-"Barely," I said. "Here's the problem. Every session on the bypass burns a little of the core. It read twenty percent before I went in and nineteen after. Call it twenty logins, and I'd fix it long before that."
+"Barely," I said. "Here's the problem. That core read twenty percent when I first logged in. After one session it's at nineteen."
 
-"Twenty. And you can actually fix it?"
+"So the one session drained it?"
+
+"If I'm going off that, a point a session, which gives me about twenty logins. Maybe fewer. One session isn't much to go on, but I'd fix it long before then."
+
+Leon's jaw worked. "And you can actually fix it?"
 
 "I know my dad's work well enough to keep it running. I just need the right core. A Kuroshio core would get it going again fast and cheap, but it's temporary. Those capsules run hot without perfect cooling and a perfect connection, the reason everybody paid extra for the Nexus helmet. And Tabuchi money sits behind Kuroshio. I'm not putting that in my dad's machine. The real fix is a Nexus core, and nobody sells those. Everything I found leads to their patents."
 
@@ -158,7 +162,7 @@ Leon studied me, something shifting behind his glasses. "You're actually telling
 
 "Tochi."
 
-Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy."
+Leon blinked. "The Tochi Academy."
 
 "Nexus announced a sponsorship with them a year ago. That's not a promise there's a core in that building. It's the only lead I've got."
 
@@ -176,9 +180,9 @@ Leon leaned back against the counter, arms loose, and I watched him put it toget
 
 "I can do that."
 
-"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." He ticked it off on his fingers. "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you track down the parts, through Tochi if that's where they are. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you track down the parts, through Tochi if that's where they are. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
-*"A pod, a job I can point at, and the parts. Yeah. That's a deal."* A muscle in my cheek twitched as I tried to keep a grin off my face.
+*"A pod, a job I can point at, and the parts. Yeah. That's a deal."* I fought a grin.
 
 "One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
 
