@@ -53,7 +53,9 @@ People still say first, second and third generation as shorthand for the three v
 |---|---|---|---|
 | First | **Kazuhaya Tech** (Daichi) | Old-fashioned **full-body upright pod**, the dark tower in the arcade image | Needs an engineer and a room re-built around it, plugged straight into the building. Pulled from sale after the accident. |
 | Second | **Kuroshio Systems** (working name), **backed and invested in by the Tabuchis**, not created by them | A **capsule you lie in**, like a bathtub or massage chair with a casket-like capsule over the head. Think an F1 cockpit rig, but lying down. Expensive, but fits a bedroom | Needs very good internet and decent air and cooling, or it overheats and runs badly. Faulty in its own ways. |
-| Third | **Nexus Enterprises** (Kazuku), the **Nexus helmet** | A **helmet** whose sensors scan the whole body from the top, so full dive without a full-body rig | Cheaper, home-sized, no known issues, the best value. Official HGO hardware. |
+| Third | **Nexus Enterprises** (Kazuku), the **Nexus helmet** | A **helmet** whose sensors scan the whole body from the top, so full dive without a full-body rig | The **most expensive** line and the most convenient: no known issues, no dedicated room, playable practically anywhere. Official HGO hardware. |
 
 - **Why he will not use the second line (author-stated).** Tabuchi money is behind it. Tatsuya refuses anything related to the Tabuchis, even where they did not create it. In Chapter Seven he rejects a Kuroshio core as a stopgap for that reason as well as the heat and the faults.
 - The page says "helmet cafe" and "the Nexus helmet" in place of "third-gen cafe" and "third-gen" in Chapter Seven. Chapters Two to Six and later still use the shorthand; reconcile if the author wants.
+
+- **Price correction (author-stated, latest):** the Nexus helmet is the most expensive of the three, not the cheapest; people pay for the convenience and because it works with no issues. The earlier "more affordable" note above is a later development only, after Nexus opened an exchange or upgrade deal for cafes.
