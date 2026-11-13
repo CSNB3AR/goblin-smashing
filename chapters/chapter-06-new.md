@@ -100,9 +100,7 @@ That core was still ticking down in the back of my head. I swapped out of Loop, 
 
 **[KUROSHIO CAPSULE CORE | ¥860,000]**
 
-*"For one core?"* I scrolled the page twice, looking for anything else. There wasn't anything else.
-
-Buying them wouldn't work, not at that price. I scratched my goatee. Making one had to be cheaper, and Dad hadn't copied anyone. *"Why not build my own core, one made for his pod?"* I couldn't learn that on a laptop in a back room. The only place I knew that taught it was Tochi, and even there, lab access went to instructors, not the kids. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
+*"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."* I couldn't learn that on a laptop in a back room. The only place I knew that taught it was Tochi, and even there, lab access went to instructors, not the kids. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
 
 I needed to tell Leon what was going on. I couldn't run on his pods and keep him in the dark. The clock said 9:52 PM, and he was waiting up front. I killed the screen and headed that way.
 
@@ -126,7 +124,7 @@ He let a breath out through his nose. "Normally I'd throw out anyone who did tha
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses.
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "I can fix your pods. I need time to collect the money for the cores, and I can build them myself, which beats paying through the nose every time one burns out. Fix both, and you've got two HGO pods in a city where everything's booked out for months. You set the price."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "I can fix your pods. It'll take time. I can build the cores myself, which beats paying through the nose every time one burns out. Fix both, and you've got two HGO pods in a city where everything's booked out for months. You set the price."
 
 Leon's gaze sharpened a notch. He pulled the unlit cigarette from behind his ear and rolled it between two fingers. "Where are you going to find what you need around here to build a core?"
 
