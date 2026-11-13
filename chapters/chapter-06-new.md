@@ -116,9 +116,9 @@ I put the toolbox down by my boot and leaned on the counter without saying anyth
 
 "Okay, then." He folded his arms. "But let me go first, because we're about to close up and I don't know if you'll even show up tomorrow."
 
-"Are you sure you want to go first?" I kept my voice even. "Because I think your pod might be it."
+"Are you sure you want to go first?" I kept my voice even. "I feel like you'd want to hear what I have to say before you say anything."
 
-Leon's arms stayed folded a second longer, and then they came down. "You know what? Go ahead."
+Leon's arms stayed folded a second longer, and then they came down. "All right. Go ahead."
 
 I made myself hold his eyes. "I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
