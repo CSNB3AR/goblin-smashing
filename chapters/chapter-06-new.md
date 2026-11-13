@@ -146,11 +146,11 @@ Leon went very still. "You started work on my machine without asking."
 
 "Not at first. Instructors get most of the access. I'd have to work my way up."
 
-"Okay. Here's the problem with working here. Arya and I are already on the floor full time. The only way you work here is by getting in that pod, so if you're coming in just to play, you do something for us." He looked at me over his glasses. "You know the gaming world. I sponsored my sister when she and her guild hit the top eight on seasonal points. That's how I got our name out. Then two of her guildmates framed her and it all fell apart. She still has a following, but now she gets trolled on every stream. I can't put our name next to hers anymore."
+"Okay. Working here is the hard part. Arya and I are already on the floor full time, and the only way anyone works here is by sitting in that pod. If you come in just to play, you do something for us." He looked at me over his glasses. "So here's what I can do. I sponsor you. I did it for my sister when she and her guild hit the top eight on seasonal points. That's how I got our name out there."
 
-I waited.
+"What happened?"
 
-"So you do it. Clips. Streaming, when you're ready. Advertise the game for us, and our brand, on yours. I've watched my sister and her guildmates blow up off it, sponsors, money, all of it. It's give and take."
+"Two of her guildmates framed her, the guild fell apart, and now she gets trolled on every stream. I can't put our name next to hers anymore." He shrugged it off, badly. "But I watched that whole crew blow up off streaming. Sponsors, money, all of it. If we do this, I set you up with what you need, and you advertise the game for us, and our brand, on your streams. Clips, and streaming when you're ready. It's give and take."
 
 "Clips first," I said. "A real stream waits until I've got something worth watching."
 
@@ -158,7 +158,7 @@ I waited.
 
 "I need longer sessions than tonight, though," I said. "Open to close, if the pod holds."
 
-"Open to close, with that monitor running and me here. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. One of those pods is yours, permanently, whenever you need it. Think of it as a sponsorship. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"Open to close, with that monitor running and me here. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. One of those pods is yours, permanently, whenever you need it. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
 
