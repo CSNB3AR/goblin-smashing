@@ -96,7 +96,7 @@ I stood in the back hallway of Sakura Arcade letting that number do something to
 
 I backed out of the app and opened Loop on the same screen. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin. That was it.
 
-Then I switched over to see what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about the player. A few big heads were already talking about it, Dosuke_AI and Yuna_N9 among them.
+Then I switched over to see what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI and Yuna_N9 among them.
 
 *"Shit. I'm going to have people hunting me by morning if I don't start moving, and I can't even stay in the game that long. I have to get here early."* At least it hadn't dropped my location. *"Hopefully nobody's swarming the area already."*
 
