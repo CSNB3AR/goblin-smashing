@@ -6,21 +6,21 @@ Then the room came back around me one piece at a time. The smell first, cigarett
 
 My vision was blurry. Not dark, just smeared, the room dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop, and I swallowed twice and let it pass. *"Okay. Rough, but I can work with rough."*
 
-Then my own size hit me. After the goblin I felt enormous. A little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, knees nudging the front of the shell, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
+Then my own size hit me. After the goblin I felt enormous. A little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
 I hung there until the room stopped turning, my pulse not coming down with the rest of me.
 
 I popped the cuffs and stepped down off the platform, knees stiff from standing locked in there so long, and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
 
-My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out for Leon to trip over. That much the blackout had taught me.
+My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out.
 
-The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* A bypass wasn't a repair. It was borrowed time on a core that had read twenty percent and hot.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port. The core read nineteen percent. Every hotwired session ate about a point, which gave me roughly twenty logins before it died, and I'd have it fixed long before that. I unplugged and packed it away again.
 
-*"If I want long sessions, it needs a real fix."* I hadn't found a single third-gen core to replace it. All I had was a logo I'd seen stamped on equipment in Tochi's technology lab, and I'd dig for the rest on my phone.
+*"If I want long sessions, it needs a new core."* A second-gen would limp it along cheap, with the faults that sent everyone chasing third-gen. A third-gen would end the problem. I hadn't found one.
 
-And if Sakura Arcade closed, it took my only pod with it. Every third-gen cafe in the area was eating this place alive.
+And if Sakura Arcade closed, it took my only pod with it.
 
-I eased the drive out of the slot beside the headrest, then dragged the bag over, put Dad's manual back in with the letter still inside, and shouldered it. I picked up the toolbox and pulled my phone out on the walk down the back hallway, past the dark rooms and humming racks, floorboards creaking under my boots.
+I eased the drive out of the slot beside the headrest, then dragged the bag over, put Dad's manual back in with the letter still inside, and shouldered it. I picked up the toolbox and pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
 
 9:43 PM. Leon had said twenty minutes to closing, which left me seventeen. Nothing new from Chiyo on the lock screen, just the thread I'd left on a thumbs-up.
 
@@ -118,25 +118,25 @@ A World Quest was supposed to belong to London Spire or one of the other big gui
 
 But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. *"Counting on drops every login isn't a plan."* I needed a profile with my loot on display, a face people knew, the email already in the bio. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
 
-Before I killed the screen I typed *third-gen processor core* into the search bar. In the dark earlier it had given me nothing. With a signal and a minute, every result led to the same place. Nexus Enterprises, their patent, the piece the third-gen pods and helmets were built around. No listing, no price, no seller. It made sense. If anyone could buy one, anyone could crack it open and copy the schematics, so they only went to partners. One school sat openly on the partner list: Tochi.
+Before I killed the screen I typed *third-gen processor core* into the search bar. In the dark earlier it had given me nothing, and with a signal it gave me barely more. Patents, press, pods and helmets, every trail pointing back at Nexus Enterprises, and not one listing, price or seller. If anyone could buy one, anyone could crack it open and copy the schematics.
 
-But the lab wasn't open to just anyone. Instructors got that access, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
+The only thing that tied Nexus Enterprises to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. I remembered the school making that announcement. It wasn't a processor, and it didn't mean one was sitting in that building. It was the only door with their name on it. Even then, instructors would hold anything in that lab, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
 
 The clock said 9:52 PM. Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
-Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
+Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, rubbing the bridge of his nose under his glasses.
 
 "You look like you got hit by a truck." He almost smiled. "Sorry again about the booth thing. How'd it go?"
 
-"Pod held," I said. My legs still weren't all the way mine, and I set the toolbox down and leaned on the counter. "No crashes. Ran longer than I thought it would."
+"Pod held," I said. I set the toolbox down and leaned on the counter. "No crashes. Ran longer than I thought it would."
 
-"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "Like I said in there, I can't see what you're in on that monitor, and nobody runs long sessions on those pods. If something went wrong, I wouldn't know until you didn't come out." "So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I can't keep handing out open access if it turns into a habit for both of us."
+"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "I can't see what you're in on that monitor, and nobody runs long sessions on those pods. So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I can't keep handing out open access if it turns into a habit for both of us."
 
 "How slow are we talking?"
 
-Leon sighed. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
+Leon sighed. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive."
 
-"So you're getting cooked on every front." My thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should hear too."
+"So you're getting cooked on every front." "Alright. Since we're being real, I've got something you should hear too."
 
 Leon's eyebrows went up. "Go ahead."
 
@@ -144,23 +144,27 @@ Leon's eyebrows went up. "Go ahead."
 
 Leon went very still. "Is the machine okay?"
 
-"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. The core in that pod is nearly dead. The bypass is holding it up, and it was still hot when I stepped out. Your second pod is a shell, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
+"It's fine. But here's the rest of it. The core in that pod is nearly dead. Your second pod is a shell, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
 
 Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
 
-"Barely," I said. "Here's the problem. A bypass only keeps it alive for so long. Doing it right needs a third-gen core, and I just looked. Everything leads back to Nexus Enterprises and their patents, and nobody sells them. I know one place that has them, though."
+"Barely," I said. "Here's the problem. Every session on the bypass burns a little of the core. It read twenty percent before I went in and nineteen after. Call it twenty logins, and I'd fix it long before that."
 
-"Where?"
+"Twenty. And you can actually fix it?"
+
+"I know my dad's work well enough to keep it running. I just need the right core. A second-gen would get it going again fast and cheap, but it's temporary. They come with faults, the reason everybody paid extra to go third-gen. The real fix is a third-gen core, and nobody sells those. Everything I found leads to Nexus Enterprises and their patents."
+
+"So where does that leave you?"
 
 "Tochi."
 
 Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy."
 
-"Yeah. They're the one school openly partnered with Nexus Enterprises, and their technology lab has them."
+"Nexus announced a sponsorship with them a year ago. That's not a promise there's a core in that building. It's the only lead I've got."
 
 "And they'd let a kid walk in and use it?"
 
-"No. Instructors get that access, not students. I'd have to work my way up first."
+"No. Instructors get that kind of access. I'd have to work my way up first."
 
 "That explains a lot, actually."
 
@@ -172,9 +176,9 @@ Leon leaned back against the counter, arms loose, and I watched him put it toget
 
 "I can do that."
 
-"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." He ticked it off on his fingers. "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you get the parts from Tochi when the time comes. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." He ticked it off on his fingers. "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you track down the parts, through Tochi if that's where they are. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
-*"A pod, a job I can point at, and the parts."* I turned it over once. *"He gets two working machines. I get a seat I don't have to beg for. Yeah. That's a deal."* A muscle in my cheek twitched as I tried to keep a grin off my face.
+*"A pod, a job I can point at, and the parts. Yeah. That's a deal."* A muscle in my cheek twitched as I tried to keep a grin off my face.
 
 "One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
 

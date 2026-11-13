@@ -27,3 +27,5 @@ Chiyo and the twins leave on a six-day school trip to Kyoto (see `codex/location
 - **Access is gated twice.** The lab needs top grades and standing, and instructors get the access, not the students. He would have to climb. His parents' names are the way in: Ohema coached volleyball there, Daichi built there.
 - **Money logic.** He wants steady income to help Mom, with the Tabuchis back and the family in debt. He also needs a reason Chiyo will accept: "I'm playing a game" will not do, so a job on the books at Leon's and visible income are what he can show her.
 - Resolved (author-stated): the third-gen maker is Nexus Enterprises and Kazuku, consistent with Ch3's "tied to Kazuku." Kazuhaya Tech built only the first-gen pods and does not own third-gen.
+
+- **Correction (author-stated, Chapter Seven):** the page now gives him only one discoverable lead, the Nexus Enterprises sponsorship Tochi announced about a year ago. He does not know the lab holds a third-gen core, and the "logo in the tech lab" idea is no longer used in Chapter Seven. See `codex/objects/pod-hardware.md`.
