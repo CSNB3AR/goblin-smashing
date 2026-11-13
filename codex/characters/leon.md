@@ -34,3 +34,7 @@ The rough, no-nonsense former guild analyst and reluctant coach. Claims he's don
 
 - Reads as an old, cigarette-smoking gamer type: a gruff storekeeper in the mould of the old-school shopkeeper, mixed with a Shikamaru-style nonchalance. Deadpan, unbothered, lazy on the surface and sharp underneath; reacts small (a quarter-inch of eyebrow, the unlit cigarette taken from behind the ear and put back). The author's references are loose ("Vanguard the storekeeper"); treat as a feel guide, not a copy.
 - He knows a little about the game, which is why the World Quest matters to him.
+
+## Look (author's picture, `codex/characters/reference/leon.jpg`; supersedes the earlier "suit jacket over a ratty soccer jersey" line)
+
+Wavy, loose brown hair that falls to about his collar (Chapter Three has it pulled back in a small knot), thin metal-framed glasses, light stubble and a short beard along the jaw, warm brown eyes, an easy half-smile. In the picture he wears a dark navy button-up with the sleeves pushed up and is leaning on a hand, thumbing his phone. A soft, relaxed face that sits easily with the dry, deadpan manner. The unlit cigarette behind the ear and the grease on his thumb remain from Chapter Three.

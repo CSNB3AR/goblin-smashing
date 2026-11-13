@@ -88,3 +88,9 @@ Her information-broker role is vital after Thrash Hill: she sells the legacy dro
 ## Voice and vibe for the page (author-stated, latest; not on the page yet)
 
 - A blend of Momo (the character the author named from Gurren Lagann, spelling unconfirmed) and the gunner girl from The King's Avatar (the author's "Chumong or Michong", most likely Su Mucheng): composed, precise, sharp, a little guarded, a competent shooter's calm. Keep with the existing "sharp and guarded" read.
+
+## Look (author's picture, `codex/characters/reference/arya.jpg`; supersedes "red hair")
+
+White or silver hair in a messy high bun with loose strands framing her face, pale grey eyes, freckles across the nose and cheeks, warm tan-brown skin, hoop earrings, a hard scowl with a heavy brow, arms crossed. Black V-neck tee. Full colourful tattoo sleeves on both arms (flowers, koi and a car among them). She looks like exactly what the notes say, sharp and guarded.
+
+**Conflict flagged, not yet edited:** Chapters Eight (the VRSA Inspection file), Ten and Eleven describe Arya with red hair, copper and auburn, and the VRSA chapter says "the resemblance was there once you looked" to Leon. The picture has white hair, tattoos and a different colouring from Leon. Awaiting the author's decision on which stands. Also note Lumi (white-silver hair) and Tatsuya's goblin form (white hair) already use that colour.
