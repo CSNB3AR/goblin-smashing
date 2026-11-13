@@ -14,9 +14,9 @@ I popped the cuffs and stepped down off the platform, knees stiff from standing 
 
 My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out.
 
-The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died. I'd fix it long before that. I unplugged and packed it away again.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died. I'd fix it long before that.
 
-*"If I want long sessions, it needs a new core."* A Kuroshio capsule core would limp it along cheap, with the faults that sent everyone chasing the Nexus helmet. A Nexus core would end the problem. I hadn't found one.
+*"If I want long sessions, it needs a new core."* Nobody made first-gen cores anymore, and I hadn't found one anywhere.
 
 And if Sakura Arcade closed, it took my only pod with it.
 
@@ -80,7 +80,7 @@ I confirmed that too.
 
 **[4,200 HGO COINS RECEIVED]**
 
-Stage two. The coins were the bridge, the one thing the game would let out of its own walls. One more prompt, and it was the one that mattered.
+Stage two. The coins were the bridge. One more prompt, and it was the one that mattered.
 
 **[CASH OUT HGO COINS?]**
 
@@ -120,7 +120,9 @@ But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a 
 
 Before I killed the screen I typed *Nexus helmet processor core* into the search bar. In the dark earlier it had given me nothing. Patents and press, every trail pointing back at Nexus Enterprises, and not one listing, price or seller. If anyone could buy one, anyone could crack it open and copy the schematics.
 
-The only thing that tied Nexus Enterprises to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. I remembered the school making that announcement. It wasn't a processor, and it didn't mean one was sitting in that building. It was the only door with their name on it. Even then, instructors would hold anything in that lab, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
+The only thing that tied Nexus Enterprises to anywhere I could reach was a headline from a year ago, Tochi Academy announcing an active sponsorship with them. It wasn't a processor, and it didn't mean one was sitting in that building. Even then, instructors would hold anything in that lab, not the kids. I'd have to climb: top grades, and a name the way Mom's had been in volleyball and Dad's in the labs.
+
+And copying Nexus wasn't the answer anyway. Dad hadn't copied anyone. *"Why not build my own core, one made for his pod?"* A Kuroshio core could show me how one worked, if I could stomach black market prices, but I'd build for the Kazuhaya pod, not mimic theirs. I couldn't learn that on a laptop in a back room. That took Tochi.
 
 The clock said 9:52 PM. Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
@@ -146,7 +148,7 @@ Leon went very still. "Is the machine okay?"
 
 "It's fine. But here's the rest of it. The core in that pod is nearly dead. Your second pod is a shell, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
 
-Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
+Leon studied me. "You're actually telling me you got HGO running on hardware this old."
 
 "Barely," I said. "Here's the problem. That core read twenty percent when I first logged in. After one session it's at nineteen."
 
@@ -156,7 +158,7 @@ Leon studied me, something shifting behind his glasses. "You're actually telling
 
 Leon's jaw worked. "And you can actually fix it?"
 
-"I know my dad's work well enough to keep it running. I just need the right core. A Kuroshio core would get it going again fast and cheap, but it's temporary. Those capsules run hot without perfect cooling and a perfect connection, the reason everybody paid extra for the Nexus helmet. And Tabuchi money sits behind Kuroshio. I'm not putting that in my dad's machine. The real fix is a Nexus core, and nobody sells those. Everything I found leads to their patents."
+"I know my dad's work well enough to keep it running. But nobody makes first-gen cores anymore. A Kuroshio core would get it going for now, but I can't buy one the normal way, and on the black market the price is insane. Tabuchi money sits behind Kuroshio too. I'm not putting that in my dad's machine. A Nexus core is a long road away, and nobody sells those. So I build one. A core made for these pods. It would fix your second pod too."
 
 "So where does that leave you?"
 
@@ -164,9 +166,9 @@ Leon's jaw worked. "And you can actually fix it?"
 
 Leon blinked. "The Tochi Academy."
 
-"Nexus announced a sponsorship with them a year ago. That's not a promise there's a core in that building. It's the only lead I've got."
+"I can't learn it here. They have the lab, and Nexus sponsors them, so I might even see what a real core is made of. That's not a promise. It's the only lead I've got."
 
-"And they'd let a kid walk in and use it?"
+"And they'd let a kid into that lab?"
 
 "No. Instructors get that kind of access. I'd have to work my way up first."
 
@@ -174,13 +176,13 @@ Leon blinked. "The Tochi Academy."
 
 "So the way you fix my pods is by going back to school."
 
-"Or I stay out, take a job here, and keep patching it by hand until the core finally dies. Which won't take long." I made myself say the rest. "Tochi means a bed on campus and the game on weekends. I'd lose most of my time in the pod."
+"Or I stay out, take a job here, and keep patching it by hand until the core finally dies. Which won't take long." "Tochi means a bed on campus and the game on weekends. I'd lose most of my time in the pod."
 
 Leon leaned back against the counter, arms loose, and I watched him put it together. "Okay. Here's what I want to do. I'll get a tech in here tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
 
 "I can do that."
 
-"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you track down the parts, through Tochi if that's where they are. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"And here's the deal, so neither of us has to guess later. I'll put you on the books here, part-time, floor hours and repairs. If your guardian asks what you're doing with your days, you work for me." "One of those pods is yours, permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. In return, you get both pods running clean and keep them that way, and you build the core, and learn how at Tochi. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."* I fought a grin.
 
@@ -216,7 +218,7 @@ I pulled the chair close and sat, elbows on my knees, hands loose between them.
 
 The monitors kept beeping.
 
-"I got into the game," I said. "HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short sound, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
+"I got into the game," I said. "HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
 
 "But I made some money already. Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
 

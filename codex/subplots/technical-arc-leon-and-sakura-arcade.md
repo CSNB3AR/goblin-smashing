@@ -20,3 +20,11 @@ Leon's family backstory lands here too: he and Arya inherited the shop from thei
 - `codex/characters/leon.md`, `codex/characters/arya.md`
 - `codex/objects/pod-hardware.md`
 - `codex/subplots/tochi-academy-return.md` (Tochi's resources are what let this arc scale long-term)
+
+## His own core, the build-it-himself plan (author-stated, Chapter Seven)
+
+- **The idea.** Even once he reaches Tochi, he does not want to mimic a second-gen (Kuroshio) or third-gen (Nexus) core. His idea is to **build his own processor core for the first-gen Kazuhaya pods**, the way Daichi built the pod around his own work.
+- **Why not buy.** No first-gen pods or cores are left to find; production stopped. Kuroshio cores can be used to study how a core works and as parts to rework, but he cannot buy them the normal way, and on the black market the prices are insane. A few might be had that way at a huge cost. Nexus cores are a long road away: reaching them means getting as far as Kazuku, which is a big point of the story, so he cannot simply pull one from a third-gen source.
+- **Why Tochi.** He cannot get the resources or the know-how to build a core any other way, so the only path is back to Tochi to learn it. This is the felt reason the Tochi decision pulls him.
+- **The second pod.** The dead shell at Sakura needs the same kind of core, so one working design would fix both pods.
+- **On the page (Chapter Seven).** He tells Leon he builds his own core, that Kuroshio is out because of the black market price and Tabuchi money, and that Nexus is a long road away.
