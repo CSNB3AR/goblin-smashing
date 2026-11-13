@@ -104,7 +104,7 @@ That core was still ticking down in the back of my head. I swapped out of Loop, 
 
 I needed to tell Leon what was going on. I couldn't run on his pods and keep him in the dark. The clock said 9:52 PM, and he was waiting up front. I headed that way.
 
-Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The desk monitors down the wall cycled through their screensavers, humming.
+Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The monitor on the front desk beside him cycled through its screensaver, humming.
 
 "You look like you got hit by a truck." He set the tablet on the counter and gave me a once-over. "Sorry again about the booth thing. How'd it go?"
 
@@ -114,7 +114,7 @@ I put the toolbox down by my boot and leaned on the counter, taking my weight of
 
 He'd started with real. I gave him some back, keeping my voice flat. "I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual." I made myself hold his eyes. "I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
-Leon's thumbnail stopped. For a second the only sound was the desk monitors humming down the wall. "You started work on my machine without asking."
+Leon's thumbnail stopped. For a second the only sound was the front desk monitor humming. "You started work on my machine without asking."
 
 "Yeah." I didn't look away.
 

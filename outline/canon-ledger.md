@@ -618,3 +618,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, two monitors kept apart (author-stated, latest): the monitor Leon watches Tatsuya's session on is the operator's monitor in the booth (the desk on the platform by the pods, per the arcade image), NOT anything at the front counter. At the counter the only monitors are the desk monitors down the wall. Leon now says he cannot see what Tatsuya is in on from the booth, and agrees open to close with the booth monitor running.
 
 - Sakura Arcade layout correction (author-stated, latest): the operator's desk with the booth monitor sits over the pods on a podium reached by stairs, not beside them. Chapter Seven text only says "the booth", so no page change was needed. Supersedes my earlier note that the desk was on a platform by the pods.
+
+- Chapter Seven, the monitor at the counter (author-stated, latest): the only monitor mentioned at the front desk is the one on the front desk in front of Leon, not desk monitors down the wall. The booth monitor stays separate, over the pods.
