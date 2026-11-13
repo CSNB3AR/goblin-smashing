@@ -31,3 +31,9 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 - **Hardwire.** He can hardwire and power it directly, as with the EB, but that burns the core's remaining life. He can only run it that way for a limited time before the core dies and must be replaced. He has to charge it from the wall for a while first, or he drains the core.
 - **Second pod.** Dead because its core is already gone; a dead core cannot be charged.
 - **No numbers set** beyond the 20 percent; lifespan and part names stay qualitative.
+
+## Pod naming and the third-gen lookup (author-stated, Chapter Seven)
+
+- **He has not found any third-gen processor yet.** Chapter Three's blackout search turned up nothing. In Chapter Seven, on his phone, he researches third-gen processor cores and every result leads back to **Nexus Enterprises** and its patent, the piece the third-gen pods and helmets are built on. Never sold openly (copying risk); only partners, and Tochi is the one school openly on that list.
+- **"Gen" is a colloquial label.** People say first, second and third generation because each is the next version of a VR pod, even though they come from different companies with different schematics and patents: Kazehaya's (Kazuhaya Tech, first), the Tabuchis' (second), Nexus Enterprises and Kazuku's (third). Each could carry its own product name, which would keep the three apart on the page. OPEN: whether to name them; no names invented yet, and the page keeps the gen labels for now.
+- **Fan (author-approved).** The pod's cooling fan whines as it winds down in the Chapter Three blackout and is still dragging in Chapter Seven.

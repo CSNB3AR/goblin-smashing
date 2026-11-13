@@ -14,9 +14,9 @@ I popped the cuffs and stepped down off the platform, knees stiff from standing 
 
 My bag sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed beside it. Nothing left out for Leon to trip over. That much the blackout had taught me.
 
-The pod was another story. Heat rolled off the shell the way it had in the blackout, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* A bypass wasn't a repair. It was borrowed time on a core that had read twenty percent and hot.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, the cooling fan dragging in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* A bypass wasn't a repair. It was borrowed time on a core that had read twenty percent and hot.
 
-*"If I want long sessions, it needs a real fix, and I can't buy the part."* Third-gen cores weren't sold. If anyone could walk into a store for one, anyone could crack it open and copy the schematics, so they only went to partners. The only school openly partnered with Nexus Enterprises was Tochi, and I'd seen that core logo stamped on equipment in its technology lab. But the lab wasn't open to just anyone. Instructors got that access, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
+*"If I want long sessions, it needs a real fix."* I hadn't found a single third-gen core to replace it. All I had was a logo I'd seen stamped on equipment in Tochi's technology lab, and I'd dig for the rest on my phone.
 
 And if Sakura Arcade closed, it took my only pod with it. Every third-gen cafe in the area was eating this place alive.
 
@@ -70,7 +70,7 @@ I confirmed the listing, already bracing to wait. The vials vanished almost imme
 
 **[SOLD: 42,000 SHILLINGS]**
 
-That was stage one, and it only counted inside the game. Shillings were the money Eryndal ran on, and they didn't leave it. A second prompt rose over the first.
+Stage one, and it only counted inside the game. A second prompt rose over the first.
 
 **[EXCHANGE SHILLINGS FOR HGO COINS?]**
 
@@ -114,11 +114,15 @@ I opened the feed. The big hitters already had it loud.
 
 Eren's guild. I scrolled past it fast.
 
-Nobody knew the name, and that was the point. A World Quest was supposed to belong to London Spire or one of the other big guilds, and instead it was a random goblin with no guild and no history. They didn't know who. They didn't know where. They all wanted both. *"The name is the only thing I own right now. Nobody's handing me eyes. I have to take them."* I knew what the top players had pulled out of this game, the streams, the sponsors, the payouts, and I'd always watched from the stands. A name everyone was asking about was the best leverage I'd ever get, and it was bait for every one of them too. *"Bait pulls both ways. I just have to be the one holding the line."*
+A World Quest was supposed to belong to London Spire or one of the other big guilds, and instead it was a random goblin with no guild and no history. They didn't know who. They didn't know where. They all wanted both. *"The name is the only thing I own right now. Nobody's handing me eyes. I have to take them."* I knew what the top players had pulled out of this game, the streams, the sponsors, the payouts, and I'd always watched from the stands. A name everyone was asking about was the best leverage I'd ever get, and it was bait for every one of them too. *"Bait pulls both ways. I just have to be the one holding the line."*
 
 But eyes didn't pay on their own. Gambit hit once a day, and every gamble had a buy-in. The day I crit failed, something would break or blow up on me, and I wasn't building rent on a dice roll. *"Counting on drops every login isn't a plan."* I needed a profile with my loot on display, a face people knew, the email already in the bio. A real stream could wait for the weeks around Crownfall, planned and staged right. The Companion App's front page ran sponsored streams in the six figures. For now I'd farm every login and balance it against the quest clock, and build the brand quietly.
 
-I wanted to stay and dig, but the clock said 9:49 PM, Leon was waiting up front, and I'd already kept him late. I killed the screen.
+Before I killed the screen I typed *third-gen processor core* into the search bar. In the dark earlier it had given me nothing. With a signal and a minute, every result led to the same place. Nexus Enterprises, their patent, the piece the third-gen pods and helmets were built around. No listing, no price, no seller. It made sense. If anyone could buy one, anyone could crack it open and copy the schematics, so they only went to partners. One school sat openly on the partner list: Tochi.
+
+But the lab wasn't open to just anyone. Instructors got that access, not the kids. I'd have to climb: top grades, and a name in that school the way Mom's had been in volleyball and Dad's in the labs.
+
+The clock said 9:52 PM. Leon was waiting up front, and I'd already kept him late. I killed the screen.
 
 Leon was at the counter under the warm lantern lamps and the brick pillars, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
 
@@ -126,17 +130,17 @@ Leon was at the counter under the warm lantern lamps and the brick pillars, tabl
 
 "Pod held," I said. My legs still weren't all the way mine, and I set the toolbox down and leaned on the counter. "No crashes. Ran longer than I thought it would."
 
-"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "Like I said in there, I can't see what you're in on that monitor, and nobody runs long sessions on those pods. If something went wrong, I wouldn't know until you didn't come out." He glanced toward the dark hallway where the second pod sat, then back. "So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I can't keep handing out open access if it turns into a habit for both of us."
+"Good. That's what I wanted to hear, and also what worries me." Leon's smile faded. "Like I said in there, I can't see what you're in on that monitor, and nobody runs long sessions on those pods. If something went wrong, I wouldn't know until you didn't come out." "So I want to be straight with you before you start getting comfortable coming back. Business is slow right now, and I can't keep handing out open access if it turns into a habit for both of us."
 
 "How slow are we talking?"
 
-Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
+Leon sighed. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
 
 "So you're getting cooked on every front." My thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should hear too."
 
 Leon's eyebrows went up. "Go ahead."
 
-"I forced HGO onto one of your pods tonight." I kept my voice even, watching Leon's face. "Used my dad's manual to bypass it. The core overheated, and that's what knocked the power out earlier. It wasn't a plain power cut."
+"I got HGO running on one of your pods tonight." I kept my voice even, watching Leon's face. "The drive wouldn't seat, so I overrode it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
 Leon went very still. "Is the machine okay?"
 
@@ -144,9 +148,7 @@ Leon went very still. "Is the machine okay?"
 
 Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
 
-"That's why the session ran long. It wasn't the game. It was convincing the pod to accept the drive in the first place."
-
-"Here's the problem," I said. "A bypass only keeps it alive for so long. Doing it right needs third-gen cores, and nobody sells those. If they did, anyone could crack one open and copy it. I know where they are, though."
+"Barely," I said. "Here's the problem. A bypass only keeps it alive for so long. Doing it right needs a third-gen core, and I just looked. Everything leads back to Nexus Enterprises and their patents, and nobody sells them. I know one place that has them, though."
 
 "Where?"
 
@@ -214,7 +216,7 @@ The monitors kept beeping.
 
 "Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
 
-I stopped, my throat going tight. I let the quiet sit a second before pushing through it.
+I stopped, my throat going tight.
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
