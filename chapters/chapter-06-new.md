@@ -4,7 +4,7 @@ The shell hissed open, and the bell was still ringing in my head. *"That wasn't 
 
 The room came back around me one piece at a time. The smell first, cigarette smoke and dust and plastic, the same as when I'd gone under. Warm lantern lamps hung low over the brick pillars, and steel beams crossed a dark ceiling above the wood paneling on the far wall. The pod stood tall and dark around me, cable bundles looping down its sides and a blue glow in the seams, Kazuhaya Tech stamped small near the base.
 
-My vision was blurry, the room smeared and dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop. I swallowed twice and let it pass. *"Okay. Rough, but I can work with rough."*
+My vision was blurry, the room smeared and dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop. I swallowed twice. *"Okay. Rough, but I can work with rough."*
 
 My own size hit me next. After the goblin, a little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
@@ -90,7 +90,7 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."* I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see.
 
-I backed out of the app and opened Loop. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game, then picked the goblin profile picture from my HGO character profile and made sure it carried across. That was it.
+I backed out of the app and opened Loop. My own profile loaded first. I changed my handle to Nykri to match the game, then picked the goblin profile picture from my HGO character profile and made sure it carried across. That was it.
 
 Then I checked what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI and Yuna_N9 among them.
 
@@ -128,21 +128,21 @@ Leon's arms stayed folded a second longer, and then they came down. "All right. 
 
 I held his eyes. "I overrode the pod tonight. HGO isn't a first-gen game, so it wouldn't run on its own. I put the drive in and had to push it through the system, overriding the slot with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
-Leon went very still. For a second the only sound was the front desk monitor humming. His voice came out low and even, which was worse than yelling. "You started work on my machine without asking."
+Leon went very still, and for a second the only sound was the front desk monitor humming. Then he was moving, one hand already reaching toward the back hallway, his voice climbing a notch before he hauled it back down. "I told you that pod only plays retro games. I told you what happens if you push something newer through it. That's the only moneymaker I've got."
 
-"Yeah." I didn't look away.
+"It's not dead."
 
-"Typically I'd throw out anyone who touched that." His fingers pressed white against the edge of the counter, and he kept every word level, the way you do when you're holding something down. "But you wouldn't walk up and tell me flat out unless you had a plan. So what's your idea?"
+"You started work on my machine without asking." His voice came out low and even again, which was worse than yelling, and his fingers pressed white against the edge of the counter. "Typically I'd throw out anyone who touched that. So what's stopping me from kicking you out right now? You must have a plan, or you wouldn't have walked up here. Or did you just come to tell me my stuff is broken?"
 
-I leaned in over the counter. "The core in that pod is nearly dead. It read twenty percent when I first logged in, and nineteen after one session."
+I stayed where I was. "I checked it over before I stepped out. The core is nearly dead, the drive slot's built for older drives, and the wiring's cheap. The core read twenty percent when I first logged in, and nineteen after one session."
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses, and it wasn't making him happier.
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer." "I can fix your pods, both of them. I'm not buying cores. I'm building them."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "Dad left notes and schematics on his first-gen pods, so I know what I'm looking at. I'm not buying cores. I'm building one. From scratch it would've been brutal, but you've got two pods here to work from, and a core that can carry a third-gen title is doable. My Haya EB has lasted years, and all I've done is upgrade it. Dad's work doesn't die."
 
-"Building them with what?" Leon rested a forearm on the counter.
+"Building it with what?" Leon rested a forearm on the counter.
 
-"Dad's manual covers the first-gen core, and I've got his schematics. But I can't just recreate it. It was made for first-gen games, and HGO isn't one, which is why I had to override the slot. I have to tailor a core to last under HGO, and I don't have the lab or the parts to do that." I looked at the lamp over the counter, buzzing faintly, instead of at him. "Not yet."
+"I don't have the lab or the parts. Not yet." I looked at the lamp over the counter, buzzing faintly, instead of at him.
 
 Leon laughed once, short and humorless. "A lab and parts like that aren't cheap, and I'd know. Are you rich or something, kid?"
 
@@ -158,7 +158,7 @@ Leon picked the card up and read it, then read it again. "The Tochi Academy." He
 
 "That makes sense, then." His shoulders came down a fraction. "I'm not going to judge anybody for missing school. My sister's the same."
 
-He studied me. "And you got HGO running on one of my first-gen pods."
+He studied me. "HGO on one of my first-gen pods. That game chews through helmets built for it."
 
 I gave a small shrug. "Barely."
 
@@ -166,7 +166,7 @@ I gave a small shrug. "Barely."
 
 "That's my lead." I kept my eyes on him.
 
-"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Typically I'd be furious that somebody touched my pods. They're the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade, and that doesn't pay the bills." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
+"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. They're the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
 "I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
@@ -196,7 +196,7 @@ Outside, I stowed the backpack in the rear case, but before I pulled the helmet 
 
 I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the half-second scan until the dash lit green and the visor threw the route line across the street. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
 
-I had one stop before home. The ride to the hospital ran on muscle memory, and the hospital came up on my left, white-lit and too clean. I parked, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing.
+I had one stop before home. The hospital came up on my left, white-lit and too clean. I parked, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing.
 
 Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
 
