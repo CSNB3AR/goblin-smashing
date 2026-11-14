@@ -110,7 +110,7 @@ Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the
 
 I leaned on the counter, my legs shaky from the pod. "Kinda. My first VR experience kinda did it."
 
-"Everything okay?"
+"Everything okay?" He kept his eyes on my face.
 
 I couldn't give him a shrug this time. "No."
 
@@ -118,7 +118,7 @@ Worry crossed his face, quick, before he smoothed it over. I had to be honest wi
 
 "All right." He turned the tablet a quarter turn on the counter. "What's wrong with the pods?"
 
-"That's what I came to talk to you about."
+I straightened off the counter. "That's what I came to talk to you about."
 
 "Okay, then." He folded his arms. "But let me go first, because we're about to close up and I don't know if you'll even show up tomorrow."
 
@@ -130,7 +130,7 @@ I held his eyes. "I overrode the pod tonight. HGO isn't a first-gen game, so it 
 
 Leon went very still, and for a second the only sound was the front desk monitor humming. Then he was moving, one hand already reaching toward the back hallway, his voice climbing a notch before he hauled it back down. "I told you that pod only plays retro games. I told you what happens if you push something newer through it. That's the only moneymaker I've got."
 
-"It's not dead."
+"It's not dead," I said, keeping my hands where he could see them.
 
 "You started work on my machine without asking." His voice came out low and even again, which was worse than yelling, and his fingers pressed white against the edge of the counter. "Typically I'd throw out anyone who touched that. So what's stopping me from kicking you out right now? You must have a plan, or you wouldn't have walked up here. Or did you just come to tell me my stuff is broken?"
 
