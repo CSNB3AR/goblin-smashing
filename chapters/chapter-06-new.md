@@ -138,41 +138,45 @@ Leon went very still. For a second the only sound was the front desk monitor hum
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses.
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer. I can fix your pods. It'll take time, and I can build the cores myself, which beats paying through the nose every time one burns out. Fix both, and you've got two HGO pods in a city where everything's booked out for months. You set the price."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." I kept my voice level. "I can fix your pods, both of them. I'm not buying cores. I'm building them."
 
-Leon rested a forearm on the counter. "Build them with what? Where are you going to find what you need around here?"
+Leon rested a forearm on the counter. "Building them with what?"
 
-I looked at the lamp over the counter, buzzing faintly, instead of at him. "Tochi."
+"Dad's manual covers the first-gen core, and I've got his schematics. I don't have the lab or the parts to make one." I looked at the lamp over the counter, buzzing faintly, instead of at him. "Tochi has both."
 
-"Tochi." He said it slowly, like a word he'd had to earn. "What do you know about Tochi?"
+"Tochi." He said it slowly. "What do you know about Tochi?"
 
-"I went there." It came out flatter than I meant it to. "I'm going back."
+"I went there." It came out flatter than I meant it to.
 
-He didn't say anything. His eyes stayed on me, and I let them. "Tochi," he said again. "And you got HGO running on one of my first-gen pods."
+He didn't say anything, and I let his eyes stay on me. "Tochi," he said again. "And you got HGO running on one of my first-gen pods."
 
 I gave a small shrug. "Barely."
 
-"Barely." He let a breath out through his nose, and the suspicion eased a little. "HGO on a pod that old. That's not barely. And it's your dad's machine, and you knew how to run it. That changes things. It's like a tech walking in and upgrading my gear for free. If some stranger who didn't know what he was doing had done it, I'd be furious. So I should thank you."
+"That's not barely." He let a breath out through his nose. "So going to Tochi is how you build the core."
 
-"All I'd need is access to one of the pods." I kept my face easy and let a little sly into my voice. "And trust me when I say this. The luck I've had in HGO in the two hours I've been playing could be real useful to you."
+I held steady. "That's my lead."
 
-Leon rolled the unlit cigarette between two fingers. "What kind of luck are we talking?"
+"I see." He looked at the front window, then down the dark hallway, and when he spoke again his voice had dropped. "I'm going to be honest with you. Typically I'd be furious that somebody touched my pods. They're the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade, and that doesn't pay the bills." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
-I let the quiet sit a second. "What if I told you I stumbled onto a World Quest?"
+I nodded and kept quiet. He'd said more than I expected, and I wasn't going to crowd it.
 
-Leon sat back and looked at the street window instead of me. Then he pulled the cigarette from behind his ear and lit it. "Well, goddamn." He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "The one that's trending."
+"I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
-I didn't say yes. I didn't have to. "Nykri," he said at last, trying the name out flat, and I nodded.
+"Depends." I thought of the class I'd have to get into and of what today's luck had paid. "On how much I make off today's luck, mostly. If I have the proper time, I think I can make it."
 
-He tapped ash into a saucer by the register. "Now that changes everything." He looked like a man who'd watched enough HGO to know what a World Quest was worth.
+Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "Today's luck." The monitor hummed. "Are you the one who triggered it?"
 
-"Here's my problem." He picked at a scuff on the counter with his thumbnail instead of looking at me. "I don't mind you coming in after five and getting free hours. If it turns into a regular thing, I'll have to limit you, because I've got a business to run, and the helmet cafes are eating us alive. And I'm already deep in legal trouble." He took a drag. "So I can't pay you to work here. But here's what I can do."
+I didn't answer. The silence ran long enough for the lamp to buzz twice, and I didn't look away.
 
-He tapped the ash again. "If you can really fix those pods, one of them is yours, permanently, whenever you need it. I'll sponsor you. I set you up with what you need, and you advertise the game for us, and our brand, on your clips. Streaming too, when you're ready. It's give and take."
+Leon lit the cigarette. He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "I see. Well, that explains why you walked in here and told me everything and risked all of it." He tapped ash into a saucer by the register. "A World Quest in your back pocket explains enough."
 
-I nodded once. "Clips first."
+"Nykri," he added, trying the name out flat. I nodded once.
 
-"Fine." He straightened off the counter. "I'll get a tech in tomorrow to look at the monitor and start moving toward proper VRSA clearance, because I can't have anyone touching that second pod as it is. Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, floor hours and repairs. If your guardian asks what you do with your days, you work for me. You get both pods running clean, and I'll pay you for the second one when it's up. And it stays quiet. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
+
+I took that in without saying anything, and he saw me take it.
+
+"Come in at nine, nine-thirty when we open." He crushed the cigarette out. "Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer when she asks what you do with your days. One of those pods is yours, whenever you need it, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through. No posts, nobody hearing we've got working HGO pods here."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
 
