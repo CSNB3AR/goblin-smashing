@@ -656,3 +656,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, no bare dialogue lines (author-stated, latest): every paragraph that was only a spoken line now carries a speaker cue ("Everything okay?", "That's what I came to talk to you about.", "It's not dead."), so it is always clear who is speaking.
 
 - Chapter Seven, names and the confession (author-stated, latest): stop saying first-gen / third-gen on the page; the pod is the Kazehaya VR pod (Kazehaya pods, Kazehaya cores). The confession no longer re-explains HGO: "I hotwired the pod tonight. I had to override the slot with my dad's manual to get the drive to run." The go-first exchange was cut: Tatsuya says that is what he came to talk about, Leon folds his arms and says "Go ahead", and Tatsuya starts. Leon's speech comes later.
+
+- Chapter Seven, Leon's reaction simplified (author-stated, latest): he goes still, the frustration shows on his face but he swallows it down and waits before speaking, his voice low and level. Removed the hand reaching toward the hallway and the voice climbing and being hauled back down. Tatsuya's reply is "It still runs."
