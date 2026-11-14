@@ -12,7 +12,7 @@ I popped the cuffs and stepped down off the platform and rolled my shoulders unt
 
 My backpack sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed inside.
 
-The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died. I'd fix it long before that.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died.
 
 *"If I want long sessions, it needs a new core."* There were no first-gen cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
 
@@ -34,7 +34,7 @@ My account loaded, the goblin face of my avatar staring back at me from a small 
 
 *"Nykri. Still strange, seeing it written down."*
 
-A banner sat across the top of the home screen before I could swipe on.
+A banner sat across the top of the home screen.
 
 **[WORLD QUEST ACTIVATED: CALL OF THE BONES | ACTIVATED BY: NYKRI]**
 
@@ -96,7 +96,7 @@ Then I checked what was trending in gaming and entertainment. My name and the Wo
 
 *"I have to get back here early in the morning."* The feed kept refreshing under my thumb, my name sliding up it again and again.
 
-That core was still ticking down in the back of my head. I swapped out of Loop and opened my browser, then dug the address out of an old receipt I'd saved for the EB's parts. It was a marketplace Dad used to buy from, more eBay than shop, where people sold tech parts that weren't supposed to be sold. I hadn't been on it in years. Everywhere else I'd looked tonight had turned up nothing, so I searched it for processor cores. Nexus's were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
+I swapped out of Loop and opened my browser, then dug the address out of an old receipt I'd saved for the EB's parts. It was a marketplace Dad used to buy from, more eBay than shop, where people sold tech parts that weren't supposed to be sold. I hadn't been on it in years. Everywhere else I'd looked tonight had turned up nothing, so I searched it for processor cores. Nexus's were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
 
 **[KUROSHIO CAPSULE CORE | ¥860,000]**
 
@@ -126,7 +126,7 @@ Worry crossed his face, quick, before he smoothed it over. I had to be honest wi
 
 Leon's arms stayed folded a second longer, and then they came down. "All right. Go ahead."
 
-I held his eyes. "I overrode the pod tonight. The drive wouldn't seat, so I bypassed it with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
+I held his eyes. "I overrode the pod tonight. HGO isn't a first-gen game, so it wouldn't run on its own. I put the drive in and had to push it through the system, overriding the slot with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
 Leon went very still. For a second the only sound was the front desk monitor humming. His voice came out low and even, which was worse than yelling. "You started work on my machine without asking."
 
@@ -138,13 +138,17 @@ I leaned in over the counter. "The core in that pod is nearly dead. It read twen
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses, and it wasn't making him happier.
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer." I kept my voice level. "I can fix your pods, both of them. I'm not buying cores. I'm building them."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." "I can fix your pods, both of them. I'm not buying cores. I'm building them."
 
 "Building them with what?" Leon rested a forearm on the counter.
 
-"Dad's manual covers the first-gen core, and I've got his schematics. I don't have the lab or the parts to make one." I looked at the lamp over the counter, buzzing faintly, instead of at him. "Tochi has both."
+"Dad's manual covers the first-gen core, and I've got his schematics. But I can't just recreate it. It was made for first-gen games, and HGO isn't one, which is why I had to override the slot. I have to tailor a core to last under HGO, and I don't have the lab or the parts to do that." I looked at the lamp over the counter, buzzing faintly, instead of at him. "Not yet."
 
-"Tochi." He said it flat, and the edge in it was plain. A kid he'd met once, throwing around the name of the hardest school in Tokyo. "What do you know about Tochi?"
+Leon laughed once, short and humorless. "A lab and parts like that aren't cheap, and I'd know. Are you rich or something, kid?"
+
+"No." I met his eyes again. "But Tochi has both."
+
+"Tochi." He said it flat, with an edge. "What do you know about Tochi?"
 
 "I was enrolled there." I took my wallet out and slid my old student ID across the counter. It was last year's, the corners gone soft, my face a little younger on it. "I haven't been in a while. After my dad died, I took a break."
 
@@ -152,17 +156,17 @@ Leon picked the card up and read it, then read it again. "The Tochi Academy." He
 
 "Yeah." I put it away.
 
-"That makes sense, then." His shoulders came down a fraction. "I'm not going to judge anybody for missing school. My sister's the same." "And you got HGO running on one of my first-gen pods."
+"That makes sense, then." His shoulders came down a fraction. "I'm not going to judge anybody for missing school. My sister's the same."
+
+He studied me. "And you got HGO running on one of my first-gen pods."
 
 I gave a small shrug. "Barely."
 
-"That's not barely." He let the breath out through his nose. "So going to Tochi is how you build the core."
+"That's not barely." He let a breath out through his nose. "So going to Tochi is how you build the core."
 
 "That's my lead." I kept my eyes on him.
 
-"I see." He looked at the front window, then down the dark hallway, and whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Typically I'd be furious that somebody touched my pods. They're the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade, and that doesn't pay the bills." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
-
-I nodded and kept quiet.
+"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Typically I'd be furious that somebody touched my pods. They're the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade, and that doesn't pay the bills." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
 "I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
@@ -178,7 +182,7 @@ Leon lit the cigarette. He turned his head and let the smoke out toward the wind
 
 "I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
 
-"Come in at nine, nine-thirty when we open." "Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer when she asks what you do with your days. One of those pods is yours, whenever you need it, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through."
+"Come in at nine, nine-thirty when we open." "Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through."
 
 *"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
 
