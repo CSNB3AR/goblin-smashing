@@ -658,3 +658,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, names and the confession (author-stated, latest): stop saying first-gen / third-gen on the page; the pod is the Kazehaya VR pod (Kazehaya pods, Kazehaya cores). The confession no longer re-explains HGO: "I hotwired the pod tonight. I had to override the slot with my dad's manual to get the drive to run." The go-first exchange was cut: Tatsuya says that is what he came to talk about, Leon folds his arms and says "Go ahead", and Tatsuya starts. Leon's speech comes later.
 
 - Chapter Seven, Leon's reaction simplified (author-stated, latest): he goes still, the frustration shows on his face but he swallows it down and waits before speaking, his voice low and level. Removed the hand reaching toward the hallway and the voice climbing and being hauled back down. Tatsuya's reply is "It still runs."
+
+- Chapter Seven, Leon's impressed line (author-stated, latest): "An HGO drive running on one of the Kazehaya pods, especially one that old, is impressive. You really got that running?" Tatsuya: "Barely." The "chews through helmets" line and Leon's "That's not barely" were removed.

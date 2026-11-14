@@ -154,11 +154,11 @@ Leon picked the card up and read it, then read it again. "The Tochi Academy." He
 
 "That makes sense, then." His shoulders came down a fraction. "I'm not going to judge anybody for missing school. My sister's the same."
 
-He studied me. "HGO on one of my Kazehaya pods. That game chews through helmets built for it."
+He studied me. "An HGO drive running on one of the Kazehaya pods, especially one that old, is impressive. You really got that running?"
 
 I gave a small shrug. "Barely."
 
-"That's not barely." He let a breath out through his nose. "So going to Tochi is how you build the core."
+He let a breath out through his nose. "So going to Tochi is how you build the core."
 
 "That's my lead." I kept my eyes on him.
 
