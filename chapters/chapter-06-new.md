@@ -14,7 +14,7 @@ My backpack sat zipped against the nearest brick pillar where I'd shoved it befo
 
 The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died.
 
-*"If I want long sessions, it needs a new core."* There were no first-gen cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
+*"If I want long sessions, it needs a new core."* There were no Kazehaya cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
 
 I eased the drive out of the slot beside the headrest, and shouldered the backpack off the pillar. Dad's manual was already inside with the letter. I pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
 
@@ -120,13 +120,9 @@ Worry crossed his face, quick, before he smoothed it over. I had to be honest wi
 
 I straightened off the counter. "That's what I came to talk to you about."
 
-"Okay, then." He folded his arms. "But let me go first, because we're about to close up and I don't know if you'll even show up tomorrow."
+"Okay, then." He folded his arms. "Go ahead."
 
-"Are you sure you want to go first?" I kept my voice even. "I feel like you'd want to hear what I have to say before you say anything."
-
-Leon's arms stayed folded a second longer, and then they came down. "All right. Go ahead."
-
-I held his eyes. "I overrode the pod tonight. HGO isn't a first-gen game, so it wouldn't run on its own. I put the drive in and had to push it through the system, overriding the slot with my dad's manual. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
+I held his eyes. "I hotwired the pod tonight. I had to override the slot with my dad's manual to get the drive to run. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
 Leon went very still, and for a second the only sound was the front desk monitor humming. Then he was moving, one hand already reaching toward the back hallway, his voice climbing a notch before he hauled it back down. "I told you that pod only plays retro games. I told you what happens if you push something newer through it. That's the only moneymaker I've got."
 
@@ -138,7 +134,7 @@ I stayed where I was. "I checked it over before I stepped out. The core is nearl
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses, and it wasn't making him happier.
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "Dad left notes and schematics on his first-gen pods, so I know what I'm looking at. I'm not buying cores. I'm building one. From scratch it would've been brutal, but you've got two pods here to work from, and a core that can carry a third-gen title is doable. My Haya EB has lasted years, and all I've done is upgrade it. Dad's work doesn't die."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "Dad left notes and schematics on the Kazehaya VR pods, so I know what I'm looking at. I'm not buying cores. I'm building one. From scratch it would've been brutal, but you've got two pods here to work from, and a core that can carry a newer title is doable. My Haya EB has lasted years, and all I've done is upgrade it. Dad's work doesn't die."
 
 "Building it with what?" Leon rested a forearm on the counter.
 
@@ -158,7 +154,7 @@ Leon picked the card up and read it, then read it again. "The Tochi Academy." He
 
 "That makes sense, then." His shoulders came down a fraction. "I'm not going to judge anybody for missing school. My sister's the same."
 
-He studied me. "HGO on one of my first-gen pods. That game chews through helmets built for it."
+He studied me. "HGO on one of my Kazehaya pods. That game chews through helmets built for it."
 
 I gave a small shrug. "Barely."
 
