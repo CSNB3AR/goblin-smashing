@@ -90,7 +90,7 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."* I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see.
 
-I backed out of the app and opened Loop. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game and swapped my face for the goblin. That was it.
+I backed out of the app and opened Loop. My own profile loaded first, follower count still embarrassingly low in the corner. I changed my handle to Nykri to match the game, then picked the goblin profile picture from my HGO character profile and made sure it carried across. That was it.
 
 Then I checked what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI and Yuna_N9 among them.
 
