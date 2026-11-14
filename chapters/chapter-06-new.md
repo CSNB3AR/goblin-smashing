@@ -162,7 +162,7 @@ He let a breath out through his nose. "So going to Tochi is how you build the co
 
 "That's my lead." I kept my eyes on him.
 
-"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. They're the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
+"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
 "I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
