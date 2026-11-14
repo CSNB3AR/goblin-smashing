@@ -132,9 +132,9 @@ Leon went very still. For a second the only sound was the front desk monitor hum
 
 "Yeah." I didn't look away.
 
-"Typically I'd throw out anyone who touched that." He narrowed his eyes, and the dry look he'd been wearing went somewhere else. "So why walk up and tell me? Unless you've got a plan. What's the catch?"
+"Typically I'd throw out anyone who touched that." He narrowed his eyes, and the dry look he'd been wearing went somewhere else. "But you wouldn't walk up and tell me flat out unless you had a plan. So what's your idea?"
 
-"There's a catch." I leaned in over the counter. "The core in that pod is nearly dead. It read twenty percent when I first logged in, and nineteen after one session."
+I leaned in over the counter. "The core in that pod is nearly dead. It read twenty percent when I first logged in, and nineteen after one session."
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses.
 
