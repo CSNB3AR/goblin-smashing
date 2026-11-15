@@ -17,3 +17,8 @@ This is also where the debt pressure and the Tabuchis' "unfinished conversation 
 **Eren's side is Tochi's incumbent representative.** His build "got Tochi to back a school guild team," Tabuchi-funded, per `codex/characters/eren-tabuchi.md`, drawn from his guild Kansai Black Lotus (see `codex/pro-scene/pro-teams.md`). Eren and Arya are second-years, Tatsuya returns a first-year (see `codex/lore/timeline-and-beta.md`). Locking the implication explicitly: Eren's team holds the presumptive representative slot going in, which is exactly why beating them is how Haya Storm actually wins it, not a coincidental rematch. **PK_Wraith stays teamed with Eren into this fight**, a real, earned continuation of their Crownfall pairing rather than a one-off (see `codex/characters/pk-wraith.md`).
 
 **Outcome, locked:** Haya Storm wins, taking Tochi's representative slot from Eren's team. This is what triggers Tochi's scholarship offers to Pac_Pac and Arya (see `codex/pro-scene/haya-storm.md`, `codex/characters/arya.md`), how Eren reacts afterward and how far the rivalry actually resolves stays open until this stretch is actually being drafted.
+
+
+## Author update (latest): Arya's reason for Tochi, and her year
+
+Arya's route into Tochi is now her education fight and Leon's stipulation to Tochi's sponsorship, not the rule that eSports members must be enrolled (see `codex/subplots/leon-arya-custody-battle.md`). She is also a **first-year**, not a second-year as written above. Whether this qualifier still happens in Book Two and how it fits is OPEN.

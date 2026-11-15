@@ -47,3 +47,8 @@ The funeral itself was held and funded by the Tabuchis, which is how Kazuto got 
 ## Company inheritance (author-stated, off the page)
 
 Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya does not know yet. It connects to the "bring your business here" thread later.
+
+
+## The Haya Sedan later (author-stated, latest)
+
+Tatsuya has the Sedan. He finds what he needs in Dad's notes and starts cleaning up its stored data to work around it. Its systems may still be running, or the car may be dead (OPEN, not needed yet). In Book Two he upgrades it into a family vehicle. See `outline/book-one-structure-and-book-two-seeds.md`.

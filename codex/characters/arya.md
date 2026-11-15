@@ -108,3 +108,8 @@ In Chapter Eight Tatsuya passes her at the Nakamura Grand front desk late at nig
 ## Babysitter in Book One, Tochi in Book Two (author-stated, latest)
 
 Arya is the babysitter for Taji and Momo as the Tabuchi court dates pull Chiyo away. She is first seen as the hotel front-desk temp. There is no separate Arya storyline in Book One. She goes to Tochi in Book Two: a recommendation (she is very smart and just wants to be a pro gamer) and her guild connection, with Tochi sponsoring the guild and Leon's condition that Tatsuya bring her on. Full notes and the conflicts with the Act Two scholarship plan are in `outline/book-one-structure-and-book-two-seeds.md`.
+
+
+## Age, year and school, corrected (author-stated, latest)
+
+Arya is about 16 or 17, the same age as Tatsuya, and a **first-year** at a bad Tokyo high school she has barely attended. This replaces "second-year" in `codex/pro-scene/tochi-representative-qualifier.md`. Her parents abandoned her and Leon at birth or an early age; their grandfather had custody. Her education is the legal fight, and Tochi is how Leon closes it. See `codex/subplots/leon-arya-custody-battle.md`.
