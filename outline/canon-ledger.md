@@ -698,3 +698,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, why Leon pulled his sponsorship (author-stated, latest; replaces "pull back unless it affected the business"): he sponsored Arya's guild when it reached the top eight; then the guild drama hit and people started leaving, and he pulled his sponsorship before it could drag down a business that was already dying. Arya did not take it badly; she knew why, especially after what her friends did.
 
 - Chapter Seven, restored (author-stated, latest): Leon's original wording is kept: "My sister Arya ran a guild and got it into the top eight last season, so I know bits and pieces of how this works from trying it with her. Some guild drama got in the way, and I had to pull back unless it affected the business." The expanded version about people leaving and "she didn't take it badly" was removed.
+
+- Chapter Seven, one phrase changed (author-stated): "I had to pull back, or it would have affected the business." (was "...unless it affected the business"). Nothing else in that speech changed.
