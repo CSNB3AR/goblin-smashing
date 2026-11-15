@@ -238,12 +238,12 @@ The anger came fast and clean, hotter than anything I'd felt since Dad's funeral
 
 She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
 
-I took the stairs down hard, trying not to run into either of the nurses, and went out the back exit, which meant walking all the way around the building in the cold to reach the lot. The EB sat where I'd left it. I pressed my thumb to the touchscreen, the dash took its half-second to read my print and lit green, and I pulled the helmet on.
+I took the stairs down hard, trying not to run into either of the nurses, and went out the back exit, which meant walking all the way around the building in the cold to reach the lot. The EB sat where I'd left it. I pressed my thumb to the touchscreen, the dash took its half-second to read my print and lit green. I pulled my phone back out. Chiyo's question was still sitting there.
 
-*"What changed?"* Her question sat in my head under the visor.
+*"What changed?"*
 
-*"Me."*
+I sent back one word.
 
-*"Tochi. I'm going."*
+**[Me.]**
 
 **[END CHAPTER SEVEN]**

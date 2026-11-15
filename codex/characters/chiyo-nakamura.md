@@ -55,3 +55,7 @@ Chiyo is protecting a 16-year-old grandson she raised from diapers. She will not
 ## Tatsuya's anger over the hidden prognosis (author-stated, latest; for the writer, not for the page yet)
 
 Tatsuya's anger at Chiyo for hiding Ohema's six-month window runs over two to three chapters from the end of Chapter Seven and is resolved around the end of Chapter Nine. Chiyo is not a bad parent; she is protecting him while carrying the hotel, the lawyers and Ohema alone. When he understands that, it should come out of events and conversation on the page, not from Tatsuya explaining it to himself in Chapter Seven. Related threads to place later: campus rules let a student with a job (his work at Leon's) go off campus; Tochi gives lab access and time for the core; buying Kuroshio cores would fund the Tabuchis, who back Kuroshio like stockholders; Eren is at Tochi.
+
+## The one-word text (author-stated, latest)
+
+Chiyo asks "What changed?" about Tochi, and Tatsuya answers **[Me.]**, the closing line of Chapter Seven. She can tell from the shortness that something is wrong with him, but she cannot do anything about it from where she is. By the time she gets home he has already applied to Tochi. Not on the page in Chapter Seven.

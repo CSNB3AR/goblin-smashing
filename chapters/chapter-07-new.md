@@ -24,7 +24,7 @@ Two texts, both short, sent a minute apart.
 
 **[Chiyo: Let me know when you get home safe.]**
 
-Nothing new about Tochi in either one. She'd already asked what changed, and I hadn't answered, same as the note she'd left on the counter that morning, already gone before I'd even gotten up.
+Nothing new about Tochi in either one. She'd already asked what changed, and all I'd sent back was one word, same as the note she'd left on the counter that morning, already gone before I'd even gotten up.
 
 I typed a reply, cut it down twice, and sent the shortest version.
 
