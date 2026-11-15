@@ -4,11 +4,11 @@ One word was enough to make Chiyo text me twice before I'd made it three blocks.
 
 *"Not tonight. I'll deal with it when I'm not this pissed off."*
 
-The frustration was still sitting hot in my chest when I parked the Haya EB in the bay behind the hotel, locked it, and cut through the lobby to the elevator.
+The frustration was still sitting hot in my chest when I parked the Haya EB around back, locked it, and came in through the staff door. The elevator was across the lobby.
 
-Pale stone, brass, the flower arrangement on the round table, a single lamp burning over the front desk. For the first time in weeks someone was sitting behind it, head down over the monitor, shoulders hunched under the light, white hair pinned up in a messy knot that was losing the fight with its pins.
+The lobby was small and warm at that hour, pale stone underfoot, plants in the corners, one lamp burning over the front desk. Someone was behind it for the first time in weeks, her back to the door, reaching up to a shelf, ink running down both forearms and white hair twisted into a messy bun.
 
-*"The someone Chiyo hired."* Her text came back to me, *be nice and say hello.* I kept walking. Hello could wait until I could manage one without snapping at somebody who hadn't done anything to me. I hit the elevator button with my knuckle and watched the numbers instead of the desk. If she looked up, I never turned around to find out.
+I didn't say a word to her. She was busy, and I walked past before she could turn around and say welcome to the Nakamura Grand. If she had, I'd have had to answer, and tonight whatever came out of my mouth would have been snapped at somebody who hadn't done anything to me. I hit the elevator button with my knuckle and watched the numbers instead of the desk.
 
 I let myself into the apartment and stood in the dark entry a second, listening to nothing.
 

@@ -52,3 +52,8 @@ Pure soft-spoken sweetness and quiet devotion. Polite, easily flustered, apologi
 ## Hospital meeting moved (author-stated, latest)
 
 The meeting no longer happens right after Tatsuya overhears the six-month news in Chapter Seven (that chapter now ends on him storming out to the EB). It happens on a later visit as its own beat: a family argument at Kaito's bedside, a doctor telling a parent to leave, her fan letters scattering, Tatsuya helping gather them without stepping into the fight. Her real body and civilian identity are never seen in public (the broadcast cuts to her CG avatar), which is why a hospital hallway, in glasses and twin buns, is one of the few places she can be seen unrecognised. The friend code and the date December 23rd are given at that meeting. The dual-reveal mechanism at Luxor Lakes is unchanged.
+
+
+## Civilian look, from the author's picture (author-stated, latest; `codex/characters/reference/yuna-civilian.jpg`)
+
+As Yunaile, off broadcast: pale white hair with a faint pink tint in **two messy high buns** with loose strands and long face-framing strands, round thin wire-frame glasses, lavender-violet eyes, strong straight brows and a serious, watchful expression, fair skin, a small mole low on the neck near the collarbone, an oversized black V-neck tee. Reads as composed and guarded, nothing like the bright on-broadcast CG avatar. Not on the page yet. She also has pale hair, so keep her apart from Arya on the page: Arya is a single messy bun, grey eyes and tattoo sleeves; Yunaile is twin buns, glasses and violet eyes.

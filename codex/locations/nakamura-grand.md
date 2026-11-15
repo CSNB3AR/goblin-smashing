@@ -4,6 +4,8 @@
 
 ## Visual reference (locked)
 
+Picture saved at `codex/locations/reference/nakamura-grand.jpg` (author-supplied): a narrow green-covered modern building, about six stories, warm-lit lobby and entrance at street level, balconies with plants, a small canopy over the door. Family-run and homey, **decent but not ritzy**: keep the lobby small, warm and plain (pale stone, a few plants, one lamp over the desk), no grand-hotel detail.
+
 A green-covered modern building, several stories, warm-lit windows and entrance, balconies with plants. Reads as a boutique high-end property rather than a sprawling traditional grand hotel, consistent with "high-end" without needing a huge ornate lobby.
 
 ## Facts
