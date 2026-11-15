@@ -53,3 +53,8 @@ Leon, not Tatsuya, decides to try live streaming: he wants to see what works and
 ## Paperwork, the booth and Arya (author-stated, latest)
 
 Leon sits the booth most days, and some days Arya takes the seat because she knows HGO far better than he does and can feed Tatsuya information he cannot get himself in a VR game. The paperwork is signed in Chapter Eight after the inspector finishes; it is built to look like Tatsuya is staff, nine to five, for cover. Leon will not let Arya use the second pod until he has his money's worth. He trusts her to keep the World Quest to herself while she works there, and tells Tatsuya plainly that her reputation in HGO is not great and she has had a rough run.
+
+
+## The agreement (author-stated, latest)
+
+An open, neutral 50-50 deal that either side can walk away from at any time, especially if it harms their brand. Leon asks only for media rights (tag the arcade; no ad spam) and holds off putting the logo out until the arcade is worth advertising and Tatsuya is safe. Full notes, the money split and the later second-line-pods conflict are in `codex/subplots/leon-tatsuya-sponsorship-agreement.md`.

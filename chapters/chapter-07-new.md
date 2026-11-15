@@ -222,7 +222,7 @@ Leon dropped into the chair at the operator's booth, the monitor already syncing
 
 I let that sit. I didn't know what the run had been, and I didn't ask.
 
-"Last thing. The inspector only signed off on the battery draw. Nobody's tested what streaming does to this thing, and I'd rather find out on my own floor than from a customer. So we go live and see what works and what doesn't. If it holds, it's marketing for the arcade."
+"Last thing. The inspector only signed off on the battery draw. Nobody's tested what streaming does to this thing, and I'd rather find out on my own floor than from a customer. So we go live and see what works and what doesn't. If it holds, we've got something we can market once we're ready."
 
 "Your call," I said.
 
