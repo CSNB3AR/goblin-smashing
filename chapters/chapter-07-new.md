@@ -72,7 +72,7 @@ They'd already taken enough. Now they wanted more on top of it. My jaw set. *"I'
 
 I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
 
-Mom came first, and the rest could wait. I had enough on my plate. The family didn't need more pressure right now, least of all Chiyo. If everything played out right, I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running.
+Right now it was Mom, and the rest could wait. I had enough on my plate. The family didn't need more pressure right now, least of all Chiyo. If everything played out right, I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running.
 
 The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV. A rerun of the day's talk show was playing, two hosts at a desk going back over the finale, and I left it on low for the noise. Along the bottom a gold timer ran under the clips ticker, the sale countdown: **47:26:39**.
 
