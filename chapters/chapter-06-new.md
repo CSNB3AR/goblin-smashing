@@ -88,7 +88,7 @@ I couldn't walk into the apartment and tell Chiyo I was just playing a game. She
 
 I backed out of the app and opened Loop. My own profile loaded first. I changed my handle to Nykri to match the game, then picked the goblin profile picture from my HGO character profile and made sure it carried across. That was it.
 
-Then I checked what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI and Yuna_N9 among them.
+Then I checked what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI among them.
 
 *"I have to get back here early in the morning."* The feed kept refreshing under my thumb, my name sliding up it again and again.
 
