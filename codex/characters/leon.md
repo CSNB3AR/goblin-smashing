@@ -38,3 +38,8 @@ The rough, no-nonsense former guild analyst and reluctant coach. Claims he's don
 ## Look (author's picture, `codex/characters/reference/leon.jpg`; applied to the page in Chapter Three)
 
 Wavy brown hair to about his collar (tied back in a small knot at the arcade), thin metal-framed glasses, light stubble and a short beard along the jaw, warm brown eyes, an easy half-smile, a dark navy button-up in the picture. A soft face that sits easily with the dry, deadpan manner. The unlit cigarette behind the ear and the grease on his thumb remain from Chapter Three.
+
+
+## Book Two: the condition, the arcade and his role (author-stated, latest)
+
+When Tochi sponsors the guild, Leon's one condition is that Tatsuya bring Arya on. Leon has aged out and could not go to Tochi himself, but her admission gives the team full access, which lets the two Sakura Arcade pods run fully. He stays the manager and the voice on the other side. Sakura Arcade is upgraded into a high-tech arcade and becomes the team's base, and that is how Tatsuya gives back. See `outline/book-one-structure-and-book-two-seeds.md`.

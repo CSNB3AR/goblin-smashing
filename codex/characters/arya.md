@@ -103,3 +103,8 @@ The tattoos, the hair and the hard look fit her role: she is the delinquent of t
 ## Arya at the hotel on the page (author-stated, latest; supersedes "does not see her until he is home again after the arcade")
 
 In Chapter Eight Tatsuya passes her at the Nakamura Grand front desk late at night on his way to the elevator: head down over the monitor, white hair in a messy knot. She is not named and they do not speak. He remembers Chiyo's "say hello" text and walks past on purpose. The first real conversation is still the arcade counter the next morning.
+
+
+## Babysitter in Book One, Tochi in Book Two (author-stated, latest)
+
+Arya is the babysitter for Taji and Momo as the Tabuchi court dates pull Chiyo away. She is first seen as the hotel front-desk temp. There is no separate Arya storyline in Book One. She goes to Tochi in Book Two: a recommendation (she is very smart and just wants to be a pro gamer) and her guild connection, with Tochi sponsoring the guild and Leon's condition that Tatsuya bring her on. Full notes and the conflicts with the Act Two scholarship plan are in `outline/book-one-structure-and-book-two-seeds.md`.

@@ -59,3 +59,8 @@ Tatsuya's anger at Chiyo for hiding Ohema's six-month window runs over two to th
 ## The one-word text (author-stated, latest)
 
 Chiyo asks "What changed?" about Tochi, and Tatsuya answers **[Me.]**, the closing line of Chapter Seven. She can tell from the shortness that something is wrong with him, but she cannot do anything about it from where she is. By the time she gets home he has already applied to Tochi. Not on the page in Chapter Seven.
+
+
+## Court dates, Arya and the cold stretch (author-stated, latest)
+
+As the Tabuchi court dates begin, Chiyo is away for periods and leans on Arya for Taji and Momo. She sees Arya and Tatsuya becoming friends and hopes it is a way to mend things with him. Tatsuya is cold but never rude until they are speaking again. The dictation said "CEO/Zio" in places; read as Chiyo. See `outline/book-one-structure-and-book-two-seeds.md`.
