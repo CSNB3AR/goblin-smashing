@@ -46,7 +46,7 @@ The funeral itself was held and funded by the Tabuchis, which is how Kazuto got 
 
 ## Company inheritance (author-stated, off the page)
 
-Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya finds the will in Chapter Eight (see the ledger) and realizes he owns the company and can use the name. It connects to the "bring your business here" thread.
+Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in his will, and asked Chiyo to keep the company until then. That is why the company is still open and active under Chiyo, and why the Tabuchis attack it in court. Chiyo is fighting partly because she does not think it is fair for Tatsuya to inherit something already damaged, and partly because she believes he should inherit what his father built for him. Tatsuya does not know yet. In Chapter Eight he only wonders, from the three-million balance, whether the business is under his name and means to look into it later. He finds out on a later page, with no will scene on the page for now. It connects to the "bring your business here" thread later.
 
 
 ## The Haya Sedan later (author-stated, latest)

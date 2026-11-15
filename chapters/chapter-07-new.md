@@ -68,9 +68,11 @@ I stared at my own balance first, then Dad's, then the name sitting under the co
 
 They'd already taken enough. Now they wanted more on top of it. My jaw set. *"I'll be damned if I hand them a single thing Dad wasn't willing to give them himself."*
 
-*"Why is this still in front of me?"* The account sat under my own login. I scratched at my goatee and went through everything I knew, and came up with nothing. Whatever the answer was, I wasn't getting it tonight.
+*"Three million, and I'm still a minor. How is that on me when I never had anything to do with Dad's business?"* I scratched at my goatee. The only way it made sense was if the business was under my name, and I had no idea whether it was. That could be why they kept coming after us. *"I need to look into that."*
 
-I set the phone down for real this time, lying back against the pillow. If there was anywhere I could fix this, it was HGO. I let myself actually feel that, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
+Three million to the Tabuchis, about four for Mom's surgery. Seven million. I said it out loud and ran the number again. It wasn't impossible, and if there was anywhere I could do it, it was HGO.
+
+I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
 
 Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running. The fatigue was shifting in now, the good kind.
 
@@ -88,21 +90,7 @@ I took a quick shower to shake the last of the night off, then crossed to the cl
 
 Not the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the hoodie down.
 
-Before I touched the laptop I dealt with the room. I wiped the dust off the shelf where the manual used to sit, squared the desk under the window, and put the loose papers from the corner into the bottom drawer. It was a room I could work in now, if I ever got the time.
-
-The drawer wouldn't close. A manila folder had slipped sideways inside it, the corner worn from handling, and the tab said **[Kazuhaya Tech]** in Dad's slanted handwriting. I pulled it out and sat down in the desk chair.
-
-The will was on top. Nobody had hidden it from me. It had been in an unlocked drawer the whole time, and I'd never had the chance to read it, or maybe the nerve. I read it now.
-
-**[I leave Kazuhaya Tech, its name and its rights, to my son, Tatsuya Kazehaya. I ask Chiyo Nakamura to keep the company safe until he is ready to take it on.]**
-
-I read it twice. *"That's why the account's on my login. It's mine. It was always going to be mine."* I owned Dad's company, so I could still use his name. *"Bring your business here."* Kazuku's line from the broadcast came back to me. *"I have one."*
-
-The rest followed from that. The Tabuchis kept coming because the company was still open, and as long as it was open and owing, they had a legal claim on it. Chiyo had lawyers on it and could fight in court all she wanted, but the only way she wins is if I bring that debt down. Once we owe them nothing, anything they do after that is plain harassment. Right now my name was on the debt, and that was the only reason they could keep contacting us.
-
-*"Three million to the Tabuchis. About four for Mom's surgery. Seven million."* I said it out loud and scratched at my goatee while I ran the number again. It wasn't impossible. At least now I knew what I was going after.
-
-I put the folder back in the drawer and shut it. The question that stayed with me was bigger than the money. *"What connection did you have with Kazuku, Dad?"* The letter had sent me to the bear and stopped there, and I still had no idea what the two of them had built together.
+Before I touched the laptop I wiped the dust off the shelf where the manual used to sit and squared the desk under the window. It was a room I could work in now, if I ever got the time.
 
 I grabbed the laptop off the counter on my way to the kitchen stool and started typing before I'd even sat down fully.
 
