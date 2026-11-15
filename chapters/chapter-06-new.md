@@ -160,19 +160,19 @@ He let a breath out through his nose. "So going to Tochi is the only way to get 
 
 I rubbed the back of my neck. "That's my lead. Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
 
-"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
+"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He thumbed the tablet back to life, nervous, and let it dim again. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
 "I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
 "Depends." I thought about how little I actually knew about this goblin. "I'm still learning the class. I know the game, not what this build does yet. If I have the proper time, I think I can make it, and there's more riding on it than I can say right now." It came out surer than I felt.
 
-Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "More than you can say." He watched me. "Are you the one who triggered it?"
+Leon took the cigarette from behind his ear and lit it. He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "More than you say." He took another drag. "Mhm. What do you mean by that?"
 
-I didn't answer. The silence ran long enough for the lamp to buzz twice, and I didn't look away.
+I looked at the lamp, buzzing faintly, and then back at him. "I'm not sure how much you've followed HGO this past year." I let it hang. "But if I told you I ran across a World Quest..."
 
-Leon lit the cigarette. He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "Right. That explains why you walked in here and told me everything and risked all of it." He tapped ash into a saucer by the register. "A World Quest in your back pocket explains enough."
+Leon didn't say anything. The silence ran long enough for the lamp to buzz twice. He looked at the street window instead of me and tapped ash into a saucer by the register.
 
-"Nykri," he added, trying the name out flat. I nodded once.
+"Well, goddamn." He let the smoke out slowly. "The one that's trending." He said it flat, trying the name out. "Nykri." I nodded once. "Right. That explains why you walked in here and told me everything and risked all of it. A World Quest in your back pocket explains enough."
 
 "I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
 
