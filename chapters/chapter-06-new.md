@@ -182,7 +182,7 @@ Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the t
 
 I'd known that part was coming, and he had every right to say it. It landed square, and I let it. "You're right," I said. "I should've come to you before I touched anything."
 
-"Come in at nine, nine-thirty when we open." He rubbed the bridge of his nose. "Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time. If your guardian's the worry, I can get the paperwork done so it's all above board. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through." He said it fast, like a man reading out the odds on a bet he'd already placed.
+"Come in at nine, nine-thirty when we open." He rubbed the bridge of his nose. "Open to close, with the booth monitor running and me watching it. We can work out the paperwork if any's needed. When the second one's up, it's ours. It stays quiet until the clearance comes through." He said it fast, like a man reading out the odds on a bet he'd already placed.
 
 *"A pod and a job I can point at. It's the only door I've got."* I hadn't wanted to go back to Tochi, but without this place I had nowhere to play, and if this fell through, nothing else was waiting.
 
@@ -190,17 +190,17 @@ I'd known that part was coming, and he had every right to say it. It landed squa
 
 "I believe you." He walked me to the door. The sign flipped behind me and the lock clicked.
 
-Outside, I stowed the backpack in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed, deleted it, typed again.
+Outside, I stowed the backpack in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed it out.
 
-**[Thinking about going back to Tochi.]**
+**[I want to go back to Tochi.]**
 
-I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the scan until the dash lit green. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
+I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the scan until the dash lit green. The motor hummed steady under me on the new battery I'd put in. *"Good. It's holding."*
 
 Two things to deal with on the way home. The hospital, then whatever Chiyo said back. The ride ran on muscle memory, my hands steady on the grips, the city blurring past in orange and white, the quiet it only got after the dinner crowds went home.
 
 The hospital came up on my left, white-lit and too clean, HANAMIZUKI GENERAL in blue letters over the entrance. My phone buzzed against my ribs before I'd killed the motor. Chiyo.
 
-**[Chiyo: Thinking is good, Tatsu. We'll talk when I'm back. Get some sleep.]**
+**[Chiyo: Wait, really? That's amazing, Tatsu. What changed?]**
 
 I read it twice, once for the words and once for what she hadn't bothered spelling out, and put the phone away. Mom first. I took the stairs two at a time, and the antiseptic smell hit me before the second floor landing, like my body had already memorized the building.
 
@@ -282,7 +282,7 @@ December 23rd. 689450YY
 
 I pocketed the note, and the quiet didn't hold. Ms. Sugiyama's voice came back first. Six months. Chiyo knew. The note and the sentence sat side by side, and neither would stay separate from the other.
 
-I pulled out my phone. My message sat above Chiyo's answer, *We'll talk when I'm back*, and I read it again, differently this time. Six months, and she wanted to talk when she got back.
+I pulled out my phone. My message sat above Chiyo's answer, *What changed?*, and I read it again, differently this time. She wanted to know what changed. She'd had six months to tell me.
 
 She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
 

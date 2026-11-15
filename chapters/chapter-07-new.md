@@ -24,7 +24,7 @@ Two texts, both short, sent a minute apart.
 
 **[Chiyo: Let me know when you get home safe.]**
 
-Nothing new about Tochi in either one. She'd already answered that with *We'll talk when I'm back*, same as the note she'd left on the counter that morning, already gone before I'd even gotten up.
+Nothing new about Tochi in either one. She'd already asked what changed, and I hadn't answered, same as the note she'd left on the counter that morning, already gone before I'd even gotten up.
 
 I typed a reply, cut it down twice, and sent the shortest version.
 
@@ -33,8 +33,6 @@ I typed a reply, cut it down twice, and sent the shortest version.
 Short, on purpose. Right now this was mine.
 
 The phone buzzed again before I'd even set it down.
-
-**[Chiyo: Wait, really? That's amazing, Tatsu. What changed?]**
 
 **[Chiyo: A new job, what about Gato? We can talk about the hours when I'm back. School still comes first though, right?]**
 
