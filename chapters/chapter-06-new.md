@@ -196,27 +196,21 @@ Outside, I stowed the backpack in the rear case, but before I pulled the helmet 
 
 I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the scan until the dash lit green. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
 
-Two things to deal with on the way home. The hospital, then whatever Chiyo said back. I pulled out into the street.
+Two things to deal with on the way home. The hospital, then whatever Chiyo said back. The ride ran on muscle memory, my hands steady on the grips, the city blurring past in orange and white, the quiet it only got after the dinner crowds went home.
 
-The ride to the hospital ran on muscle memory, my hands steady on the grips. The city blurred past in orange and white, the kind of quiet that only existed at this hour, after the dinner crowds had gone home.
-
-The hospital came up on my left, white-lit and too clean, HANAMIZUKI GENERAL in blue letters over the entrance. My phone buzzed against my ribs before I'd killed the motor in the visitor lot. Chiyo.
+The hospital came up on my left, white-lit and too clean, HANAMIZUKI GENERAL in blue letters over the entrance. My phone buzzed against my ribs before I'd killed the motor. Chiyo.
 
 **[Chiyo: Thinking is good, Tatsu. We'll talk when I'm back. Get some sleep.]**
 
-I read it twice, once for the words and once for what she hadn't bothered spelling out, and put the phone away. Mom first. I took the stairs two at a time and caught the antiseptic smell before I hit the second floor landing. It always hit me there, every single time, like my body had already memorized the building.
+I read it twice, once for the words and once for what she hadn't bothered spelling out, and put the phone away. Mom first. I took the stairs two at a time, and the antiseptic smell hit me before the second floor landing, like my body had already memorized the building.
 
 Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
 
-She looked smaller than I remembered. She always did when I came back after a few days away, like something about the room was slowly winning an argument. The blanket lay flat across her where it should have lifted. Monitors beeped quiet and steady beside the bed, the IV drip slow and regular, her face turned toward the window.
+She looked smaller than I remembered, like something about the room was slowly winning an argument. The blanket lay flat across her where it should have lifted. Monitors beeped quiet and steady, the IV drip slow and regular, her face turned toward the window.
 
-I pulled the chair close and sat, elbows on my knees, hands loose between them.
+I pulled the chair close and sat, elbows on my knees. "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
-"Hey, Mom." I kept my voice low. "I know it's been a minute."
-
-The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something I couldn't catch. I smoothed the edge of the blanket flat with two fingers. "I got into the game. HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short breath, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
-
-I leaned back, ran a hand over my locs, and pushed the loose one back where it kept falling.
+The monitors kept beeping. I smoothed the edge of the blanket flat with two fingers. "I got into the game. HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short breath, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
 
 "But I made some money already." The monitor drew the same slow line across its screen. "Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
 
@@ -226,11 +220,9 @@ The words came easier here than they did anywhere else. Something about a room w
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
-The monitors kept their rhythm. The room stayed quiet.
-
 "I'm gonna figure it out. I always do." I said it to the window as much as to her. I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
 
-The nurses' station sat at the bend in the corridor, one lamp on over a chart. I slowed when I heard Mom's name. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
+The nurses' station sat at the bend in the corridor, one lamp on over a chart. I slowed when I heard Mom's name.
 
 "Kazehaya, Ohema." Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted, ran a finger down the page of the file open between them. "Here, in Dr. Inoue's notes. Six months. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
 
@@ -270,7 +262,7 @@ I crouched across from her and started helping stack pages. Her eyes caught on t
 
 "Nykri." She read it slow, testing how it sat. Something flickered across her face, amused, like I'd handed her the funniest thing she'd heard all week. "I like it."
 
-We finished stacking the last of the pages in a silence that had stopped being awkward somewhere in the last thirty seconds. I was close enough now to see the seam where her glasses didn't quite sit right on her face, like they weren't originally hers.
+We finished stacking the last of the pages in a silence that had stopped being awkward. I was close enough now to see the seam where her glasses didn't quite sit right, like they weren't originally hers.
 
 She stood first, I followed, the stack of papers changing hands without either of us fully letting go for a second.
 
@@ -288,11 +280,13 @@ December 23rd. 689450YY
 
 *"Two days before Crownfall."* I turned the paper over, checking the back in case something else was written there. Nothing.
 
-I pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. Six months. Chiyo knew. The two things sat next to each other, the note and the sentence, and neither one would stay separate from the other.
+I pocketed the note, and the quiet didn't hold. Ms. Sugiyama's voice came back first. Six months. Chiyo knew. The note and the sentence sat side by side, and neither would stay separate from the other.
 
-I pulled out my phone. My thread with Chiyo was still open. My message sat above her answer, *We'll talk when I'm back*, and I read it again, differently this time.
+I pulled out my phone. My message sat above Chiyo's answer, *We'll talk when I'm back*, and I read it again, differently this time. Six months, and she wanted to talk when she got back.
 
-She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call. I slid the phone back into my pocket before continuing out of the building.
+She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
+
+I slid the phone into my pocket and pushed out into the cold.
 
 *"Tochi. I'm going."*
 
