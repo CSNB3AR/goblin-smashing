@@ -218,19 +218,19 @@ I left my hand against her hair a second longer than the loc needed.
 
 "I'm gonna figure it out. I always do." I said it to the window as much as to her. I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
 
-I took the back corridor toward the stairs, my boots quiet on the linoleum. The door to the staff room stood open a hand's width, a strip of light across the floor, and I'd have walked straight past it if I hadn't caught Mom's name.
+The nurses' station sat at the bend in the corridor, one lamp on over a chart. I was almost to the corner when I heard Mom's name, and I stopped short, out of the lamp's reach, with the wall between us.
 
-"Kazehaya, Ohema." Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted, ran a finger down the page of the file open on the table between them. "Here, in Dr. Inoue's notes. Six months. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
+"Kazehaya, Ohema." Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted, ran a finger down the page of the file open between them. "Here, in Dr. Inoue's notes. Six months. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
 
-My feet stopped on their own. They hadn't heard me, and I flattened against the wall beside the frame before I knew I was doing it.
+I pressed back against the wall at the corner. They hadn't seen me.
 
 "And this." The second nurse turned the page and tapped a line near the bottom. "The family contact asked us to keep the prognosis quiet. Chiyo. She didn't want the family worrying."
 
-"I know," Ms. Sugiyama said. She closed the file and squared it against the edge of the table. "But that boy deserves to know."
+"I know," Ms. Sugiyama said. She closed the file and squared it against the edge of the desk. "But that boy deserves to know."
 
 "Not our call," the second nurse said, already reaching for the next chart.
 
-A chair scraped. I slid off the wall and out of the strip of light before the door opened, and their footsteps went the other way. I stood alone in the corridor, hearing the words again in the same order.
+Their voices dropped as they moved off down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
 
 *"Six months. And Chiyo knew. She knew and she didn't tell me."*
 
