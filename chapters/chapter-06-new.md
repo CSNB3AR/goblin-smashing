@@ -232,17 +232,19 @@ I pressed back against the wall at the corner. They hadn't seen me.
 
 Their voices dropped as they moved off down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
 
-*"Six months. And Chiyo knew. She knew and she didn't tell me."*
+*"She knew and she didn't tell me. Why?"*
 
-The anger came fast and clean, hotter than anything else I'd felt all day. Not at the news itself. I'd known things were bad, I'd known for a while. But the secrecy. I'd been kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
+The anger came fast and clean, hotter than anything I'd felt since Dad's funeral, and it dragged all of that back up with it. I couldn't think straight. I stood there trying to pin it together. I'd known things were bad for a while, but why hadn't she told me?
 
 She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
 
-I took the stairs down hard, not slowing for the lobby doors, and hit the cold air outside hard enough to see my breath. The EB sat where I'd left it in the visitor lot. I pressed my thumb to the touchscreen, and the dash took its half-second to read my print and lit green.
+I took the stairs down hard, trying not to run into either of the nurses, and went out the back exit, which meant walking all the way around the building in the cold to reach the lot. The EB sat where I'd left it. I pressed my thumb to the touchscreen, the dash took its half-second to read my print and lit green, and I pulled the helmet on.
 
-I didn't pull the helmet on. I opened my thread with Chiyo instead. My message sat above her answer, *What changed?*, and I read it again, differently this time. She wanted to know what changed. She'd had six months to tell me.
+*"What changed?"* Her question sat in my head under the visor. Nothing had changed except how angry I was, and that was what settled it. I'd go. I loved Momo and Taji, and living on campus meant leaving them, but a student with a job could get off campus when a student with nothing couldn't. A job at Leon's meant the arcade and the pods, and Tochi's courses could carry the rest.
 
-She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
+I let myself stay mad at Chiyo a little longer, because I'd earned that much. But the longer I sat with it, the more I understood why she'd done it. She wasn't a bad parent. She was a tired one, carrying the hotel and the lawyers and Mom by herself, and I wasn't going to fight her for it. All it did was put the weight on me. When I clocked in at Leon's, I couldn't bullshit around.
+
+Tochi had the lab and the time, and the time was for the core. The other road cost more than I had, and every Kuroshio core I bought put money in the Tabuchis' pockets, because they were backers, stockholders in all of it. Even a small cut was a cut I wouldn't hand them. I'd have to face Eren at Tochi either way, and I wasn't paying his family to do it. I scratched my goatee once, hard.
 
 *"Tochi. I'm going."*
 
