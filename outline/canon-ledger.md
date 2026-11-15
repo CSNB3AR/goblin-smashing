@@ -702,3 +702,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, one phrase changed (author-stated): "I had to pull back, or it would have affected the business." (was "...unless it affected the business"). Nothing else in that speech changed.
 
 - Chapter Seven, Leon's money reasoning (author-stated, latest): he explains it is money even if the quest gives no drops, and gives recording a deeper meaning without using the word content: "I know most of the top guilds that ever got a World Quest saw money out of it, even the ones that never saw a single drop. People pay to watch something that can't happen twice. Record it, and it lasts forever."
+
+- Chapter Seven, trimmed (author-stated): "Record it, and it lasts forever." was removed from Leon's money line; it ends at "People pay to watch something that can't happen twice."

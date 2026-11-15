@@ -176,7 +176,7 @@ Leon didn't say anything. The silence ran long enough for the lamp to buzz twice
 
 "Well, goddamn." He let the smoke out slowly and looked up at me, and for the first time all night he looked impressed. "Nykri. That makes sense why you'd gamble on all of this."
 
-"I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw money out of it, even the ones that never saw a single drop. People pay to watch something that can't happen twice. Record it, and it lasts forever."
+"I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw money out of it, even the ones that never saw a single drop. People pay to watch something that can't happen twice."
 
 Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the tablet. His eyes went to the dark hallway and stayed there a second. "If we're going to work together, you can't do what you did today. I have to be on top of things from the start." He finally looked at me. "I know you gambled coming in here, and I'm not going to say I'm happy about it. But I feel like we can really do something with this, if we're on the same page."
 
