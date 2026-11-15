@@ -688,3 +688,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, Leon's delivery strengthened (author-stated, latest): he opens the same-page speech firmly: "If we're going to work together, you can't do what you did today. I have to be on top of things from the start." (The author's draft read "on stuff at the start"; completed as "on top of things", flagged.) Then the gamble and same-page lines. Replaces "I need you to tell me what you're thinking. Not everything. Enough."
 
 - Chapter Seven, Tatsuya's answer to Leon (author-stated, latest): he knew that part would come and agrees; he does not say "same page". He feels it land and responds: "You're right. I should've come to you before I touched anything."
+
+- Chapter Seven, continuity in the reveal (author-stated, latest): Leon has just said he knows bits and pieces of HGO through his sister, so Tatsuya no longer says he is not sure how much Leon has followed. He now says: "You said you picked up bits and pieces from your sister's run. So if I told you I ran across a World Quest..."

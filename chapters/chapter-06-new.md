@@ -170,7 +170,7 @@ Leon took the cigarette from behind his ear and lit it, turning his head to let 
 
 Leon took another drag. "More than you say." The smoke hung between us a second. "Mhm. What do you mean by that?"
 
-I looked at the lamp, buzzing faintly, and then back at him. "I'm not sure how much you've followed HGO this past year." I let it hang. "But if I told you I ran across a World Quest..."
+I looked at the lamp, buzzing faintly, and then back at him. "You said you picked up bits and pieces from your sister's run." I let it hang. "So if I told you I ran across a World Quest..."
 
 Leon didn't say anything. The silence ran long enough for the lamp to buzz twice. He looked at the street window instead of me and tapped ash into a saucer by the register.
 
