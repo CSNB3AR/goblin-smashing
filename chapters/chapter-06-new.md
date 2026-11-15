@@ -8,19 +8,15 @@ My vision was blurry, the room smeared and dragging a half-beat behind my eyes e
 
 My own size hit me next. After the goblin, a little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
-I popped the cuffs and stepped down off the platform and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."*
+I popped the cuffs and stepped down off the platform and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."* My backpack sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed inside.
 
-My backpack sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed inside.
-
-The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the bag just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in. One session, one point."* If that held, I had maybe twenty logins before it died.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the backpack just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in."*
 
 *"If I want long sessions, it needs a new core."* There were no Kazehaya cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
 
-I eased the drive out of the slot beside the headrest, and shouldered the backpack off the pillar. Dad's manual was already inside with the letter. I pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
+I eased the drive out of the slot beside the headrest and shouldered the backpack off the pillar. Dad's manual was already inside with the letter. I pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
 
-9:43 PM. Leon had said twenty minutes to closing, which left me seventeen.
-
-I opened the HGO Companion App and held the drive against the back of the phone.
+9:43 PM. Leon had said twenty minutes to closing, which left me seventeen. I opened the HGO Companion App and held the drive against the back of the phone.
 
 **[SCANNING...]**
 
@@ -32,9 +28,7 @@ My account loaded, the goblin face of my avatar staring back at me from a small 
 
 **[NYKRI - LEVEL 3 - GOBLIN]**
 
-*"Nykri. Still strange, seeing it written down."*
-
-A banner sat across the top of the home screen.
+*"Nykri. Still strange, seeing it written down."* A banner sat across the top of the home screen.
 
 **[WORLD QUEST ACTIVATED: CALL OF THE BONES | ACTIVATED BY: NYKRI]**
 
@@ -88,7 +82,9 @@ I linked the account my WattsUp paychecks already hit, a few taps and a code tex
 
 **[BANK BALANCE: ¥64,120]**
 
-I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."* I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see.
+I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."*
+
+I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see.
 
 I backed out of the app and opened Loop. My own profile loaded first. I changed my handle to Nykri to match the game, then picked the goblin profile picture from my HGO character profile and made sure it carried across. That was it.
 
@@ -96,11 +92,13 @@ Then I checked what was trending in gaming and entertainment. My name and the Wo
 
 *"I have to get back here early in the morning."* The feed kept refreshing under my thumb, my name sliding up it again and again.
 
-I swapped out of Loop and opened my browser, then dug the address out of an old receipt I'd saved for the EB's parts. It was a marketplace Dad used to buy from, more eBay than shop, where people sold tech parts that weren't supposed to be sold. I hadn't been on it in years. Everywhere else I'd looked tonight had turned up nothing, so I searched it for processor cores. Nexus's were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
+I swapped out of Loop and opened my browser, then dug the address out of an old receipt I'd saved for the EB's parts. It was a marketplace Dad used to buy from, more eBay than shop, where people sold tech parts that weren't supposed to be sold. I hadn't been on it in years. Everywhere else I'd looked tonight had turned up nothing, so I searched it for processor cores. Nexus cores were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
 
 **[KUROSHIO CAPSULE CORE | ¥860,000]**
 
-*"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."* I couldn't learn that on a laptop in a back room, and I couldn't learn it working in Gato's shop either. The only places I knew that taught anything like it at a high level were Tochi or some other tightly run university, and Tochi was the one I had a way back into. Even then, lab access wasn't handed out. Most students never got in unless they sat on the student council, so I'd have to make some deals. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
+*"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."*
+
+I couldn't learn that on a laptop in a back room, and I couldn't learn it working in Gato's shop either. The only places I knew that taught anything like it at a high level were Tochi or some other tightly run university, and Tochi was the one I had a way back into. Even then, lab access wasn't handed out. Most students never got in unless they sat on the student council, so I'd have to make some deals. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
 
 I knew I had to tell Leon what was going on, but I had to figure out how to do it without it feeling like I'd already broken his trust. The clock said 9:52 PM, so I started toward the front. A draft from the street door stirred my locs as I threaded between the old desks and dark monitors, all six feet and change of me.
 
@@ -122,7 +120,7 @@ I straightened off the counter. "That's what I came to talk to you about."
 
 "Okay, then." He folded his arms. "Go ahead."
 
-I held his eyes. "I hotwired the pod tonight. I had to override the slot with my dad's manual to get the drive to run. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
+I made myself say it plain. "I hotwired the pod tonight. I had to override the slot with my dad's manual to get the drive to run. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
 Leon went still, and for a second the only sound was the front desk monitor humming. The frustration showed plainly on his face, but he swallowed it down and waited before he spoke, his voice low and level. "I told you that pod only plays retro games. I told you what happens if you push something newer through it. That's the only moneymaker I've got."
 
@@ -130,7 +128,7 @@ Leon went still, and for a second the only sound was the front desk monitor humm
 
 "You started work on my machine without asking." His fingers pressed white against the edge of the counter. "Typically I'd throw out anyone who touched that. So what's stopping me from kicking you out right now? You must have a plan, or you wouldn't have walked up here. Or did you just come to tell me my stuff is broken?"
 
-I stayed where I was. "I checked it over before I stepped out. The core is nearly dead, the drive slot's built for older drives, and the wiring's cheap. The core read twenty percent when I first logged in, and nineteen after one session."
+I stayed where I was. "I checked it over before I stepped out. The core is nearly dead, the drive slot's built for older drives, and the wiring's cheap. It read twenty percent when I first logged in, and nineteen after one session."
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses, and it wasn't making him happier.
 
@@ -160,7 +158,7 @@ I gave a small shrug. "Barely."
 
 He let a breath out through his nose. "So going to Tochi is the only way to get that done?"
 
-"That's my lead." I kept my eyes on him. "Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
+"That's my lead. Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
 
 "I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
@@ -168,17 +166,17 @@ He let a breath out through his nose. "So going to Tochi is the only way to get 
 
 "Depends." I thought about how little I actually knew about this goblin. "I'm still learning the class. I know the game, not what this build does yet. If I have the proper time, I think I can make it, and there's more riding on it than I can say right now." It came out surer than I felt.
 
-Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "More than you can say." The monitor hummed. "Are you the one who triggered it?"
+Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "More than you can say." He watched me. "Are you the one who triggered it?"
 
 I didn't answer. The silence ran long enough for the lamp to buzz twice, and I didn't look away.
 
-Leon lit the cigarette. He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "I see. Well, that explains why you walked in here and told me everything and risked all of it." He tapped ash into a saucer by the register. "A World Quest in your back pocket explains enough."
+Leon lit the cigarette. He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "Right. That explains why you walked in here and told me everything and risked all of it." He tapped ash into a saucer by the register. "A World Quest in your back pocket explains enough."
 
 "Nykri," he added, trying the name out flat. I nodded once.
 
 "I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
 
-"Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through."
+Leon stubbed the cigarette out in the saucer. "Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through."
 
 *"A pod and a job I can point at. It's the only door I've got."* I hadn't wanted to go back to Tochi, but without this place I had nowhere to play, and if this fell through, nothing else was waiting.
 
@@ -190,7 +188,7 @@ Outside, I stowed the backpack in the rear case, but before I pulled the helmet 
 
 **[Thinking about going back to Tochi.]**
 
-I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the half-second scan until the dash lit green and the visor threw the route line across the street. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
+I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the scan until the dash lit green. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
 
 I had one stop before home. The hospital came up on my left, white-lit and too clean. I parked, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing.
 
@@ -206,15 +204,11 @@ The monitors kept beeping. I smoothed the edge of the blanket flat with two fing
 
 "But I made some money already." The monitor drew the same slow line across its screen. "Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
 
-"Crownfall's two weeks out. Ten million yen on the table. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
-
-I stopped, my throat going tight.
+"Crownfall's two weeks out. Ten million yen on the table. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody." I stopped, my throat going tight.
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
-"I'm gonna figure it out. I always do." I said it to the window as much as to her.
-
-I stood and pressed my hand to her shoulder before I headed for the door.
+"I'm gonna figure it out. I always do." I said it to the window as much as to her. I stood and pressed my hand to her shoulder before I headed for the door.
 
 I was halfway down the hall when I heard them. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
 
@@ -232,7 +226,7 @@ Their footsteps faded down the opposite hall, and I stood alone in the corridor,
 
 *"Six months. And Chiyo knew. She knew and she didn't tell me."*
 
-The anger came fast and clean, hotter than anything else I'd felt all day. Being kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
+The anger came fast and clean, hotter than anything else I'd felt all day. I'd been kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
 
 She was trying to protect me. The thought didn't help.
 
@@ -266,9 +260,7 @@ She stood first, I followed, the stack of papers changing hands without either o
 
 "Good luck with the game," she said, taking the papers from me and turning, already three steps into the hallway before I'd finished the sentence. "Hope to see you soon."
 
-I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms.
-
-I set the papers on the nearest chair and unfolded the note.
+I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms. I set them on the nearest chair and unfolded the note.
 
 A friend code sat at the top, a string of letters and numbers in clean, careful handwriting. Beneath it, a date.
 
@@ -278,13 +270,9 @@ December 23rd. 689450YY
 
 I pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. Six months. Chiyo knew. The two things sat next to each other, the note and the sentence, and neither one would stay separate from the other.
 
-I pulled out my phone.
+I pulled out my phone. My thread with Chiyo was still open from outside the arcade. My own message sat at the bottom, *Thinking about going back to Tochi*, still unread on her end, and above it her last one about Tochi with my thumbs-up underneath.
 
-My thread with Chiyo was still open from outside the arcade. My own message sat at the bottom, *Thinking about going back to Tochi*, still unread on her end, and above it her last one about Tochi with my thumbs-up underneath.
-
-She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
-
-I slid the phone back into my pocket before continuing out of the building.
+She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call. I slid the phone back into my pocket before continuing out of the building.
 
 *"Tochi. I'm going."*
 
