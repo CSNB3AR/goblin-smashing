@@ -100,8 +100,6 @@ Almost nothing came back official. Three sparse lines from the game's own codex,
 
 *"Alright, fine. I'm learning this one the hard way."*
 
-I backed out and pulled up my character sheet, skill list on the left, thumb scrolling. Gambler's Gambit sat there with barely a paragraph under it, the World Quest tag pinned at the top of my log, both active, both about as explained as nothing.
-
 I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window. December 23rd.
 
 Already decided. I scratched at my goatee and looked at it one more second. I needed Tochi more now than I had a week ago.
@@ -142,11 +140,7 @@ Leon peeled off a few minutes later, still carrying yesterday's tension in his s
 
 "Good. I've got leads on parts from Dad's manual. Can pull more if we need specifics."
 
-"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Two years I've been sitting on those pods thinking they were scrap." He tipped his head toward the front of the arcade and dropped his voice. "Hope Arya didn't bite. She's been asking questions since yesterday, and I'd rather she stayed out of this until we're cleared and running."
-
-"She didn't say a word to me," I said.
-
-"Good."
+"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Two years I've been sitting on those pods thinking they were scrap."
 
 We spent the next twenty minutes going through the parts list from Dad's manual, cross-referencing against what Leon could source locally, flagging the stuff that would need Tochi's labs or a specialty supplier.
 
