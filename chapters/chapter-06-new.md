@@ -240,7 +240,9 @@ She was trying to protect me, even though I'd chosen this route on my own. The t
 
 I took the stairs down hard, trying not to run into either of the nurses, and went out the back exit, which meant walking all the way around the building in the cold to reach the lot. The EB sat where I'd left it. I pressed my thumb to the touchscreen, the dash took its half-second to read my print and lit green, and I pulled the helmet on.
 
-*"What changed?"* Her question sat in my head under the visor, and the only honest answer was how angry I was. I wasn't going to type it. I wasn't going to type anything.
+*"What changed?"* Her question sat in my head under the visor.
+
+*"Me."*
 
 *"Tochi. I'm going."*
 
