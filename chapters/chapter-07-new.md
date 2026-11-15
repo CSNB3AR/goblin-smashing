@@ -86,9 +86,9 @@ I sat up, a loc falling loose across my face that I pushed back automatically. F
 
 I took a quick shower to shake the last of the night off, then crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
 
-*"Wild that I'm actually in HGO now."* I pulled a red hoodie off its hanger, grabbed clean joggers, my Humu 1's off the floor.
+*"Wild that I'm actually in HGO now."* I pulled a fresh Urawa jersey off its hanger, grabbed black joggers, my Humu 1's off the floor, and slid my hoop in.
 
-Not the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the hoodie down.
+Not the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the jersey straight.
 
 Before I touched the laptop I wiped the dust off the shelf where the manual used to sit and squared the desk under the window. It was a room I could work in now, if I ever got the time.
 
@@ -100,25 +100,7 @@ Almost nothing came back official. Three sparse lines from the game's own codex,
 
 *"Alright, fine. I'm learning this one the hard way."*
 
-I backed out and pulled up my character sheet, skill list on the left, thumb scrolling. Gambler's Gambit sat there with barely a paragraph under it, the World Quest tag pinned at the top of my log, both active, both about as explained as nothing. I closed a patch-notes post, new World Quest content confirmed rolling out, and sat with that a second.
-
-Everyone out there already knew it was live. That was a target on me whether I wanted one or not. I pulled the hoodie sleeves down over my knuckles.
-
-I switched to Loop, the goblin still sitting on my profile from last night.
-
-After swiping through Loop for a bit I pulled up the Companion App next. Streams stacked down the front page, viewer counts running six figures on some of them, chat scrolling too fast to read on the biggest ones.
-
-There could be real money if I decided to stream the World Quest, but that came with a huge target on my back.
-
-I'd read enough threads to know what higher-level players did when they wanted something someone else had. World Quest items came back bound, the forums were consistent on that much, but bound didn't mean safe.
-
-If someone decided I was worth the trouble, I wouldn't have an answer for that yet.
-
-I almost closed the tab. Then the words Sevish said echoed in my head.
-
-Sevish did say I would be an ally of Thrash, and it held as long as I didn't blow the quest. Two powerful NPCs plus a warband of goblins backing me meant anyone coming after me needed an actual party.
-
-Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. I stretched my arms over my head until my back popped.
+I backed out and pulled up my character sheet, skill list on the left, thumb scrolling. Gambler's Gambit sat there with barely a paragraph under it, the World Quest tag pinned at the top of my log, both active, both about as explained as nothing.
 
 I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window. December 23rd.
 
@@ -146,19 +128,7 @@ Dosuke noticed first. Of course he did. I killed the screen before the light cha
 
 • • •
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when I walked in, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, with a scowl and sharp grey eyes that landed on me the second I crossed the threshold and didn't move off.
-
-*"That has to be Leon's sister."* Nothing in her face matched his, but the way she sized me up did. Her hair tugged at something, like I'd seen it recently, and I had no time to chase it.
-
-"How can I help you?" She said it directly.
-
-"Looking for Leon," I said, keeping my voice level, hands loose at my sides. "He's expecting me."
-
-"You're the guy fixing the pods." Not a question. She jerked her chin toward the back hallway, already turning like the conversation was done, or doing a good job acting like it was. "He's back with the VRSA inspector near them. Go through."
-
-"Appreciate it."
-
-I held her look half a second longer than the exchange needed, then turned for the hallway.
+Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when I walked in, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, her scowl aimed at the screen in front of her. I knew the hair before I knew the face. It was the same messy bun I'd walked past behind the hotel desk the night before. *"So the desk hire is Leon's sister."* She didn't look up, and I crossed the floor to the back hallway without either of us saying a word.
 
 Leon was crouched near the second pod's access panel with a man in a branded VRSA polo, both of them bent over a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
 
@@ -174,7 +144,9 @@ Leon peeled off a few minutes later, still carrying yesterday's tension in his s
 
 "Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Two years I've been sitting on those pods thinking they were scrap." He tipped his head toward the front of the arcade and dropped his voice. "Hope Arya didn't bite. She's been asking questions since yesterday, and I'd rather she stayed out of this until we're cleared and running."
 
-"Makes sense," I said, and left it there.
+"She didn't say a word to me," I said.
+
+"Good."
 
 We spent the next twenty minutes going through the parts list from Dad's manual, cross-referencing against what Leon could source locally, flagging the stuff that would need Tochi's labs or a specialty supplier.
 
@@ -194,7 +166,7 @@ By the end Leon looked more settled than he had when I walked in.
 
 "And the first pod? The one I already used?"
 
-"He's putting in the external monitor. Both pods need it before either one can run anything commercially, period, that's the law, not an arcade rule."
+"He's putting in the external monitor. Both pods need it before either one can run anything commercially, period, that's the law, not an arcade rule. The one I had is out of date, so he's replacing it. That's on me."
 
 "External monitor," I repeated slowly, turning the phrase over in my mouth, not liking the sound of it yet. "Means I need someone watching while I play."
 
@@ -220,19 +192,7 @@ Leon didn't say much after that, just nodded once, slow, and let the quiet stand
 
 "Suit yourself," Leon said, tipping his head toward the front of the arcade.
 
-I took a stool near the front counter while the inspector worked. Arya was cleaning down the front counter a few feet away, and the quiet between us lasted longer than I wanted it to.
-
-"So you're the one actually breaking that pod in first," she said, not quite looking over, her hands still moving through the grips. "Leon's been weird about it since yesterday. Won't say why." A glance, quick, sharp grey eyes meeting mine for half a second before going back to the counter. "Figured I'd just ask you instead."
-
-"I was told not to say anything right now," I said, keeping my voice easy, hands resting on my knees. "Ask Leon if you want the real answer."
-
-"Already did," she said, and the corner of her mouth twitched, not quite a smile but close. "He changed the subject. Twice."
-
-"Then I guess you're stuck waiting," I said.
-
-She went back behind the counter, but her posture had shifted slightly, shoulders still tense, like she wasn't done with the conversation yet. "Fine. Can't hide it forever though. I do work here."
-
-I let it sit there, easy enough, and killed the rest of the wait scrolling through my phone, nothing loading that actually mattered, just something to do with my hands until the inspector called it done.
+I took a stool near the front while the inspector worked. Arya never looked my way once, her eyes on her screen and her hands moving through the paperwork on the counter, and I was glad to leave it that way. I killed the rest of the wait scrolling my phone, nothing loading that mattered, just something to do with my hands until the inspector called it done.
 
 By the time the inspector finished, the operator's booth had changed. A second monitor now sat on the operator's desk up on the podium, slim and modern compared to the older hardware around it, a soft green waveform glowing across its screen in steady pulses. Leon stood over it with the inspector, both of them running through something on a checklist, and Leon waved me over without looking up.
 
@@ -240,19 +200,25 @@ By the time the inspector finished, the operator's booth had changed. A second m
 
 The inspector clicked something on his tablet, nodded once in that flat, procedural way people did when they'd done the same task a hundred times, and peeled a small certification sticker onto the pod's frame without any ceremony.
 
-"You're clear for sessions," the inspector said, his tone as flat as his expression. "Standard operator protocol applies the whole time, no exceptions."
+"You're clear for sessions," the inspector said, his tone as flat as his expression. "Standard operator protocol applies the whole time, no exceptions." He tapped the pod's readout with his stylus without looking at either of us. "Core's at nineteen. That's low."
 
-"Got it," Leon said. "Appreciate you fitting us in on short notice."
+"I know," Leon said. "Nothing we can do about that until he starts working on it." He tipped his head toward me.
+
+"Yeah, I know," I said.
+
+"Appreciate you fitting us in on short notice," Leon said.
 
 The inspector packed up his gear, tablet and tools disappearing into a branded case, and headed for the front without another word.
 
 Leon dropped into the chair at the operator's booth, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
 
-"Alright," Leon said, glancing over the readouts once, then back to me. "Core's reading nineteen, and you said it burns about a point a dive. Since this thing was never built for HGO, we're gonna need to take breaks. If we don't, it'll overheat, and that's not safe for you to be in if it does."
+"Alright," Leon said, glancing over the readouts once, then back to me. "One more thing before you go under. I thought it over, and I want to test live streaming. See what works and what doesn't. It gives me something to feed the inspector when he asks."
 
-*"Right. Makes sense."* I climbed into the pod, the padded interior cool against my back, and pulled up my account settings on the small HUD that flickered to life in my vision. Based on what I'd read in the forums, you needed to preset streaming before entering and loading the game, not after.
+"Your call," I said.
 
-I flipped it so I could go live as soon as I got back in HGO.
+"Since this thing was never built for HGO, we're gonna need to take breaks. If we don't, it'll overheat, and that's not safe for you to be in if it does."
+
+*"Right. Makes sense."* I climbed into the pod, the padded interior cool against my back. Leon started the stream from his end, and a line flickered across the small HUD in my vision.
 
 **[STREAM STARTING IN 60 SECONDS – NYKRI]**
 
