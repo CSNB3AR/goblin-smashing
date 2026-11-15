@@ -18,7 +18,7 @@
 
 ## Book Two seeds
 
-- **Arya goes to Tochi in Book Two ("season 2"). There is no separate Arya storyline in Book One.** Her Tochi admission is mostly a sign to her that her brother has connections. The reasons she gets in: (1) a **recommendation**, she is very smart and just wants to be a professional gamer; (2) her **connection to the guild**: Tochi ends up sponsoring the guild, and Leon sets one condition: if Tatsuya does this, he has to **bring Arya on**.
+- **Arya goes to Tochi in Book Two ("season 2"). There is no separate Arya storyline in Book One.** Her Tochi admission is mostly a sign to her that her brother has connections. The reasons she gets in: (1) a **recommendation**, she is very smart and just wants to be a professional gamer; (2) her **connection to the guild**: Tochi ends up sponsoring the guild, and **Tatsuya** sets the stipulation: if Tochi wants him, they bring Arya in (see the stipulation section below).
 - **What Tochi gives them.** Full access if Arya is a Tochi student: Leon has aged out and could not go, but she can, so the team gets lab and equipment access it would not have otherwise, and can play a lot more. It also gives Leon the means to run the **two pods** at Sakura Arcade fully.
 - **Leon stays the manager** and the voice on the other side, still coming to them. Arya has to attend school during this.
 - **Sakura Arcade becomes a high-tech arcade.** They upgrade it with high-tech gear, and it becomes their base. It is also how Tatsuya gives back to Leon. The author likes this a lot.
@@ -42,10 +42,10 @@ Dictation garbles read as: "Satan" is the **Sedan**; "Ariel/Aria" is **Arya**; "
 - Their parents **abandoned both of them at birth or at an early age**. Their grandfather had legal custody for a long time. The parents now want custody and want her to **move to America**, with more besides.
 - If her brother gets her into **Tochi, one of the best academies in the world**, and she can still game within the agreement, there is nothing left to fight and she stays in Japan.
 
-**Leon's stipulation to Tochi.** Leon is deeply attached to the family and to the arcade, so he says: if you want to sponsor us, that is fine, but **my headquarters is Sakura Arcade, and you have to invest in substantial equipment there.**
+**Tatsuya's stipulation to Tochi (corrected: it is Tatsuya's, not Leon's).** Tochi approaches **Tatsuya** because he is the one carrying the World Quest and the content, and he understands that this gives him leverage. He is also deeply attached to Leon and Arya, because they did so much for him at the start. So he says: if you want to sponsor us, that is fine, but **our headquarters is Sakura Arcade, and you have to invest in substantial equipment there.**
 - Tochi brings pods into Sakura Arcade. The **two Kazehaya pods stay**, run as **private** pods. The author added that Tatsuya can move the pods his dad made because he still wants to use them (OPEN: where to).
 - Tochi can also sponsor and bring in other pods for other members, for example **Pac_Pac**, because not every member will be a Tochi student.
 - Then the favor: **there is a girl he knows who would do really well there, really smart.** That is Arya.
-- Tatsuya has his own stake: if she goes to America he **loses Arya, a huge part of his development.**
+- Tatsuya does not want Arya to go to America: he **loses Arya, a huge part of his development**, if she does. (The dictation was ambiguous about whether Leon's wish is meant here too; Leon plainly does not want her to go either, since he is fighting the custody case.)
 
 **Still unanswered, left OPEN:** whether the court-date strain starts inside Book One; what "Conqueror" was.

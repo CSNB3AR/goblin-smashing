@@ -107,7 +107,7 @@ In Chapter Eight Tatsuya passes her at the Nakamura Grand front desk late at nig
 
 ## Babysitter in Book One, Tochi in Book Two (author-stated, latest)
 
-Arya is the babysitter for Taji and Momo as the Tabuchi court dates pull Chiyo away. She is first seen as the hotel front-desk temp. There is no separate Arya storyline in Book One. She goes to Tochi in Book Two: a recommendation (she is very smart and just wants to be a pro gamer) and her guild connection, with Tochi sponsoring the guild and Leon's condition that Tatsuya bring her on. Full notes and the conflicts with the Act Two scholarship plan are in `outline/book-one-structure-and-book-two-seeds.md`.
+Arya is the babysitter for Taji and Momo as the Tabuchi court dates pull Chiyo away. She is first seen as the hotel front-desk temp. There is no separate Arya storyline in Book One. She goes to Tochi in Book Two: a recommendation (she is very smart and just wants to be a pro gamer) and her guild connection, with Tochi sponsoring the guild and **Tatsuya's** stipulation (he holds the leverage as the World Quest carrier) that they take her. Full notes and the conflicts with the Act Two scholarship plan are in `outline/book-one-structure-and-book-two-seeds.md`.
 
 
 ## Age, year and school, corrected (author-stated, latest)

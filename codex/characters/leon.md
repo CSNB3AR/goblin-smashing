@@ -42,4 +42,4 @@ Wavy brown hair to about his collar (tied back in a small knot at the arcade), t
 
 ## Book Two: the condition, the arcade and his role (author-stated, latest)
 
-When Tochi sponsors the guild, Leon's one condition is that Tatsuya bring Arya on. Leon has aged out and could not go to Tochi himself, but her admission gives the team full access, which lets the two Sakura Arcade pods run fully. He stays the manager and the voice on the other side. Sakura Arcade is upgraded into a high-tech arcade and becomes the team's base, and that is how Tatsuya gives back. See `outline/book-one-structure-and-book-two-seeds.md`.
+When Tochi sponsors the guild, the stipulation is **Tatsuya's**, not Leon's (corrected, author-stated): Sakura Arcade is the HQ, Tochi invests in equipment there, and Tochi takes Arya. Leon has aged out and could not go to Tochi himself, but her admission gives the team full access, which lets the two Sakura Arcade pods run fully. He stays the manager and the voice on the other side. Sakura Arcade is upgraded into a high-tech arcade and becomes the team's base, and that is how Tatsuya gives back. See `outline/book-one-structure-and-book-two-seeds.md`.
