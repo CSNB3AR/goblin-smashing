@@ -712,3 +712,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, Mom described concretely (author-stated, latest): the figure "like something about the room was slowly winning an argument" (carried over from the first draft) was replaced with what the eye sees: she looks smaller because she is not eating on her own, her cheeks have hollowed, her wrist lies thin on the blanket, the IV is doing the eating for her.
 
 - Chapter Seven, Mom's size means something (author-stated, latest): Tatsuya's mom is six foot two and a former volleyball star, so looking small has to land. A drained metaphor from his world is used: "Six foot two, a volleyball star who used to duck under doorframes and drive a ball through a block, and the bed had let the air out of her like a ball left too long in the gym." Then the hollow cheeks, thin wrist, flat blanket and the IV doing the eating for her.
+
+- Chapter Seven, Mom's time in the hospital (author-stated, latest): she has been there three years, so "the way she always did after a few days away" was wrong. It now reads "Three years in that bed, and every visit took a little more of her."
