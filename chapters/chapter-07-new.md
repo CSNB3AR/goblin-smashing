@@ -24,7 +24,7 @@ Two texts, both short, sent a minute apart.
 
 **[Chiyo: Let me know when you get home safe.]**
 
-Nothing about the Tochi message I'd sent her outside the arcade, same as the note she'd left on the counter that morning, already gone before I'd even gotten up. She either hadn't seen it yet or wasn't ready to answer it.
+Nothing new about Tochi in either one. She'd already answered that with *We'll talk when I'm back*, same as the note she'd left on the counter that morning, already gone before I'd even gotten up.
 
 I typed a reply, cut it down twice, and sent the shortest version.
 

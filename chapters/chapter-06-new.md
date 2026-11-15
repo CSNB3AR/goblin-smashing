@@ -178,7 +178,11 @@ Leon didn't say anything. The silence ran long enough for the lamp to buzz twice
 
 "I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
 
-Leon stubbed the cigarette out in the saucer. "Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through."
+Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the tablet. His eyes went to the dark hallway and stayed there a second. "If we're going to work together, I need you to tell me what you're thinking. Not everything. Enough. I know you gambled coming in here, and I'm not going to say I'm happy about it." He finally looked at me. "But I feel like we can really do something with this, if we're on the same page."
+
+I nodded. "Same page."
+
+"Come in at nine, nine-thirty when we open." He rubbed the bridge of his nose. "Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time. If your guardian's the worry, I can get the paperwork done so it's all above board. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through." He said it fast, like a man reading out the odds on a bet he'd already placed.
 
 *"A pod and a job I can point at. It's the only door I've got."* I hadn't wanted to go back to Tochi, but without this place I had nowhere to play, and if this fell through, nothing else was waiting.
 
@@ -192,45 +196,59 @@ Outside, I stowed the backpack in the rear case, but before I pulled the helmet 
 
 I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the scan until the dash lit green. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
 
-I had one stop before home. The hospital came up on my left, white-lit and too clean. I parked, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing.
+Two things to deal with on the way home. The hospital, then whatever Chiyo said back. I pulled out into the street.
+
+The ride to the hospital ran on muscle memory, my hands steady on the grips. The city blurred past in orange and white, the kind of quiet that only existed at this hour, after the dinner crowds had gone home.
+
+The hospital came up on my left, white-lit and too clean, HANAMIZUKI GENERAL in blue letters over the entrance. My phone buzzed against my ribs before I'd killed the motor in the visitor lot. Chiyo.
+
+**[Chiyo: Thinking is good, Tatsu. We'll talk when I'm back. Get some sleep.]**
+
+I read it twice, once for the words and once for what she hadn't bothered spelling out, and put the phone away. Mom first. I took the stairs two at a time and caught the antiseptic smell before I hit the second floor landing. It always hit me there, every single time, like my body had already memorized the building.
 
 Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
 
-She looked smaller than I remembered, the blanket lying flat across her where it should have lifted. Monitors beeped quiet and steady beside the bed, the IV drip slow and regular, her face turned toward the window.
+She looked smaller than I remembered. She always did when I came back after a few days away, like something about the room was slowly winning an argument. The blanket lay flat across her where it should have lifted. Monitors beeped quiet and steady beside the bed, the IV drip slow and regular, her face turned toward the window.
 
 I pulled the chair close and sat, elbows on my knees, hands loose between them.
 
 "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
-The monitors kept beeping. I smoothed the edge of the blanket flat with two fingers. "I got into the game. HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room. I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
+The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something I couldn't catch. I smoothed the edge of the blanket flat with two fingers. "I got into the game. HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short breath, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
+
+I leaned back, ran a hand over my locs, and pushed the loose one back where it kept falling.
 
 "But I made some money already." The monitor drew the same slow line across its screen. "Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
 
-"Crownfall's two weeks out. Ten million yen on the table. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody." I stopped, my throat going tight.
+The words came easier here than they did anywhere else. Something about a room where nobody was watching.
+
+"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody." I stopped, my throat going tight, and let the quiet sit a second before I pushed through it.
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
-"I'm gonna figure it out. I always do." I said it to the window as much as to her. I stood and pressed my hand to her shoulder before I headed for the door.
+The monitors kept their rhythm. The room stayed quiet.
 
-I was halfway down the hall when I heard them. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
+"I'm gonna figure it out. I always do." I said it to the window as much as to her. I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
 
-"...six months," one of them was saying. Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted. "Dr. Inoue was clear. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
+The nurses' station sat at the bend in the corridor, one lamp on over a chart. I slowed when I heard Mom's name. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
+
+"Kazehaya, Ohema." Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted, ran a finger down the page of the file open between them. "Here, in Dr. Inoue's notes. Six months. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
 
 I stopped walking.
 
-"Chiyo asked us to keep it quiet," the second nurse said. "She didn't want the family worrying."
+"And this." The second nurse turned the page and tapped a line near the bottom. "The family contact asked us to keep the prognosis quiet. Chiyo. She didn't want the family worrying."
 
-"I know," Ms. Sugiyama said. "But that boy deserves to know."
+"I know," Ms. Sugiyama said. She closed the file and squared it against the edge of the desk. "But that boy deserves to know."
 
-"Not our call," the second nurse said, already turning away.
+"Not our call," the second nurse said, already reaching for the next chart.
 
-Their footsteps faded down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
+Their voices dropped as they moved off down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
 
 *"Six months. And Chiyo knew. She knew and she didn't tell me."*
 
-The anger came fast and clean, hotter than anything else I'd felt all day. I'd been kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
+The anger came fast and clean, hotter than anything else I'd felt all day. Not at the news itself. I'd known things were bad, I'd known for a while. But the secrecy. I'd been kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
 
-She was trying to protect me. The thought didn't help.
+She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
 
 I turned and walked, not toward the exit, just away from the voices, counting the ceiling lights as they passed because it gave my head something to hold. By the sixth one I'd lost count, and the corner came up fast.
 
@@ -272,7 +290,7 @@ December 23rd. 689450YY
 
 I pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. Six months. Chiyo knew. The two things sat next to each other, the note and the sentence, and neither one would stay separate from the other.
 
-I pulled out my phone. My thread with Chiyo was still open from outside the arcade. My own message sat at the bottom, *Thinking about going back to Tochi*, still unread on her end, and above it her last one about Tochi with my thumbs-up underneath.
+I pulled out my phone. My thread with Chiyo was still open. My message sat above her answer, *We'll talk when I'm back*, and I read it again, differently this time.
 
 She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call. I slid the phone back into my pocket before continuing out of the building.
 
