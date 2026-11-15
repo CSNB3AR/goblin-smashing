@@ -80,13 +80,7 @@ I rolled out of bed, crossed to the closet I shared with the twins. My head near
 
 Not the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the hoodie down.
 
-I got dressed, cleaned up my room, and dug the folded note out of my jacket pocket before putting it away.
-
-Her handwriting at the top, clean block letters, the friend code underneath. I read the date at the bottom.
-
-December 23rd. 689450YY.
-
-Just a date. No name, nothing else. I turned it over once. Either she was busy that day, or she wanted me there. I folded it back along the same crease and slid it into my pocket.
+I got dressed and cleaned up my room.
 
 I grabbed the laptop off the counter on my way to the kitchen stool and started typing before I'd even sat down fully.
 
@@ -116,11 +110,7 @@ Sevish did say I would be an ally of Thrash, and it held as long as I didn't blo
 
 Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. I stretched my arms over my head until my back popped.
 
-I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window.
-
-December 23rd.
-
-Same date as the note in my pocket.
+I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window. December 23rd.
 
 Already decided. I scratched at my goatee and looked at it one more second. I needed Tochi more now than I had a week ago.
 

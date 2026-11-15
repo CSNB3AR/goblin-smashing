@@ -238,51 +238,11 @@ The anger came fast and clean, hotter than anything else I'd felt all day. Not a
 
 She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
 
-I turned and walked, not toward the exit, just away from the voices, counting the ceiling lights as they passed because it gave my head something to hold. By the sixth one I'd lost count, and the corner came up fast.
+I took the stairs down hard, not slowing for the lobby doors, and hit the cold air outside hard enough to see my breath. The EB sat where I'd left it in the visitor lot. I pressed my thumb to the touchscreen, and the dash took its half-second to read my print and lit green.
 
-The collision knocked the air out of me, a shoulder catching my chest, papers exploding outward in a soft white flurry. A small startled sound came from whoever I'd walked into, and my hands were already moving, catching an elbow, steadying someone before either of us actually went down.
-
-"Sorry, I wasn't," I started, and then I actually looked at her.
-
-Twin buns. Glasses that seemed specifically designed to make her forgettable and were failing completely at the job. She was already crouching to gather pages, hands quick and practiced, and when she looked up at me, something in her face did the exact same double-take mine just had.
-
-Neither of us said anything for a second that ran a beat too long to be nothing.
-
-"It's fine," she said, too fast, like she needed to get ahead of the silence. "I wasn't watching either."
-
-I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, still lit on my HGO profile where I'd been fidgeting with it, the goblin face and my new name glowing in the corner.
-
-"You play?" she asked, tilting her head, a real question.
-
-"Just started." I turned the phone slightly without meaning to.
-
-"Nykri." She read it slow, testing how it sat. Something flickered across her face, amused, like I'd handed her the funniest thing she'd heard all week. "I like it."
-
-We finished stacking the last of the pages in a silence that had stopped being awkward. I was close enough now to see the seam where her glasses didn't quite sit right, like they weren't originally hers.
-
-She stood first, I followed, the stack of papers changing hands without either of us fully letting go for a second.
-
-"I have to go," she said, and somehow didn't sound entirely like she meant it. She pulled a pen from her jacket pocket, scribbled fast on the corner of one page, tore it free, folded it twice, and tucked it into my jacket pocket herself. Her hand rested against my chest for half a second longer than the motion needed. "My code. Add me sometime."
-
-"Wait," I started.
-
-"Good luck with the game," she said, taking the papers from me and turning, already three steps into the hallway before I'd finished the sentence. "Hope to see you soon."
-
-I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms. I set them on the nearest chair and unfolded the note.
-
-A friend code sat at the top, a string of letters and numbers in clean, careful handwriting. Beneath it, a date.
-
-December 23rd. 689450YY
-
-*"Two days before Crownfall."* I turned the paper over, checking the back in case something else was written there. Nothing.
-
-I pocketed the note, and the quiet didn't hold. Ms. Sugiyama's voice came back first. Six months. Chiyo knew. The note and the sentence sat side by side, and neither would stay separate from the other.
-
-I pulled out my phone. My message sat above Chiyo's answer, *What changed?*, and I read it again, differently this time. She wanted to know what changed. She'd had six months to tell me.
+I didn't pull the helmet on. I opened my thread with Chiyo instead. My message sat above her answer, *What changed?*, and I read it again, differently this time. She wanted to know what changed. She'd had six months to tell me.
 
 She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
-
-I slid the phone into my pocket and pushed out into the cold.
 
 *"Tochi. I'm going."*
 
