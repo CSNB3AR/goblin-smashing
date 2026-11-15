@@ -26,7 +26,7 @@ I shut the water off, dried off fast, and pulled on a pair of sweats. On my way 
 
 I left the overhead off. The desk lamp was enough. The room still smelled the way it always had, dust and metal, and the two pale grooves the wheelchair had worn still ran along the floorboards from the desk to the door. The shelf above the desk sat empty. I took the manual out of the bag and set it on the desk under the lamp, its cracked spine catching the light, the letter still folded somewhere in the controller diagrams where I'd tucked it.
 
-I dropped onto the bed I hardly ever slept in and sat there with the phone dark in my hand, the lamp buzzing faintly. *"You carried all of it by yourself too. The Tabuchis, the bear, whatever you couldn't put on paper."* He'd still found a way to leave me something where I'd look. My shoulders came down a notch, and my breathing slowed without my asking it to. For the first time since the funeral, the room felt a little like mine, and I thought I might actually sleep in here tonight.
+I dropped onto the bed I hardly ever slept in and sat there with the phone dark in my hand, the lamp buzzing faintly. *"You carried all of it by yourself too. The Tabuchis, Kazuku, whatever you couldn't put on paper."* He'd still found a way to leave me something where I'd look. My shoulders came down a notch, and my breathing slowed without my asking it to. For the first time since the funeral, the room felt a little like mine, and I thought I might actually sleep in here tonight.
 
 Only then did I actually look at what she'd sent.
 
