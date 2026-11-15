@@ -216,7 +216,7 @@ A small green confirmation bloomed on the screen a moment later, text appearing 
 
 I locked my phone and set it face-down on the couch beside me, and let my head fall back against the couch cushion. *"I can't waste a single day. Every hour I spend in Eryndal from here on has to count for something real."*
 
-*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Crownfall. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"If I make real money in there, Chiyo can't send me back to Tochi."* I looked at the frozen screen across the room, then back at the phone. *"I don't know the game as well as I want to. But that's the first place I look."*
+*"How am I supposed to get the bear's attention?"* I flipped my phone back over and the sale banner glowed up at me, the gold number under the timer. *"Christmas Day. Ten million yen."* That would clear Mom's hospital debt and then some, and "bring your business here" wasn't only a slogan. The game had its own currency, and what you earned in there turned into real money. *"If I make real money in there, Chiyo can't send me back to Tochi."* I looked at the frozen screen across the room, then back at the phone. *"I don't know the game as well as I want to. But that's the first place I look."*
 
 I didn't remember closing my eyes.
 
