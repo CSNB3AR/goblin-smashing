@@ -210,9 +210,9 @@ She looked smaller than I remembered. Three years in that bed, and every visit t
 
 I pulled the chair close and sat, elbows on my knees. "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
-The monitors kept beeping. I smoothed the edge of the blanket flat with two fingers. "I finally found a way to help." The monitor drew the same slow line across its screen. "It's real, Mom. It's the first real shot I've had at getting you that surgery."
+The monitors kept beeping. "I found a way to finally help, Mom." A braided loc had slipped down over her forehead, out of place the way mine always got, and my hand went to it before I thought, tucking it back behind her ear. "Just a bit more time." My voice caught, and I let it. "You're going to get better. And the twins... they've gotten so big. We miss you, Mom."
 
-The words came easier here than they did anywhere else. Something about a room where nobody was watching.
+I left my hand against her hair a second longer than the loc needed.
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
