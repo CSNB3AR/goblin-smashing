@@ -162,11 +162,13 @@ I rubbed the back of my neck. "That's my lead. Unless I want to spend a shit ton
 
 "I see." Whatever anger he'd been holding ran out of places to go. "I guess you're not just a kid being hopeful, then. You really thought this out." His voice dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He thumbed the tablet back to life, nervous, and let it dim again. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
-"I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
+Leon took the cigarette from behind his ear and lit it, turning his head to let the smoke out toward the window, away from me, the way you do around somebody younger. He took a deep breath, and for a moment I didn't know what was going to come out of his mouth. Then he took another drag and spoke.
+
+"All right. I've got a proposition for you." He straightened. "My sister Arya ran a guild and got it into the top eight last season, so I know bits and pieces of how this works from trying it with her. Some guild drama got in the way, and I had to pull back unless it affected the business." He tapped ash into the saucer by the register. "It's going to take time, I know. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector tomorrow. If you're serious about getting those pods up, how long before profit starts coming in?"
 
 "Depends." I thought about how little I actually knew about this goblin. "I'm still learning the class. I know the game, not what this build does yet. If I have the proper time, I think I can make it, and there's more riding on it than I can say right now." It came out surer than I felt.
 
-Leon took the cigarette from behind his ear and lit it. He turned his head and let the smoke out toward the window, away from me, the way you do around somebody younger. "More than you say." He took another drag. "Mhm. What do you mean by that?"
+Leon took another drag. "More than you say." The smoke hung between us a second. "Mhm. What do you mean by that?"
 
 I looked at the lamp, buzzing faintly, and then back at him. "I'm not sure how much you've followed HGO this past year." I let it hang. "But if I told you I ran across a World Quest..."
 
