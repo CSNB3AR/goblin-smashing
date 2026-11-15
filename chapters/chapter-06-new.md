@@ -200,7 +200,7 @@ Two things to deal with on the way home. The hospital, then whatever Chiyo said 
 
 The hospital came up on my left, white-lit and too clean, HANAMIZUKI GENERAL in blue letters over the entrance. My phone buzzed against my ribs before I'd killed the motor. Chiyo.
 
-**[Chiyo: Wait, really? That's amazing, Tatsu. What changed?]**
+**[Chiyo: That's great, Tatsu. What changed?]**
 
 I read it twice, once for the words and once for what she hadn't bothered spelling out, and put the phone away. Mom first. I took the stairs two at a time, and the antiseptic smell hit me before the second floor landing, like my body had already memorized the building.
 
