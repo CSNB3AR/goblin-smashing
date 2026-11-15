@@ -178,7 +178,7 @@ Leon didn't say anything. The silence ran long enough for the lamp to buzz twice
 
 "I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
 
-Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the tablet. His eyes went to the dark hallway and stayed there a second. "If we're going to work together, I need you to tell me what you're thinking. Not everything. Enough. I know you gambled coming in here, and I'm not going to say I'm happy about it." He finally looked at me. "But I feel like we can really do something with this, if we're on the same page."
+Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the tablet. His eyes went to the dark hallway and stayed there a second. "If we're going to work together, you can't do what you did today. I have to be on top of things from the start." He finally looked at me. "I know you gambled coming in here, and I'm not going to say I'm happy about it. But I feel like we can really do something with this, if we're on the same page."
 
 I nodded. "Same page."
 
