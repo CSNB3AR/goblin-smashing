@@ -206,9 +206,13 @@ The inspector packed up his gear, tablet and tools disappearing into a branded c
 
 Leon dropped into the chair at the operator's booth, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
 
-"Alright," Leon said, glancing over the readouts once, then back to me. He took a short stack of papers from the drawer and slid it across the desk. "Paperwork. It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going. Sign where it's flagged."
+"Alright," Leon said, glancing over the readouts once, then back to me. He took a short stack of papers from the drawer and slid it across the desk. "Paperwork. It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
 
-I read the flagged lines, signed, and slid it back.
+"This isn't me signing my life over to you, is it?" I said.
+
+"Nothing that serious." Leon ran one finger down the first page: the sponsorship split, his percentage, what the arcade was allowed to do and what I was allowed to do. "Read the fine print if you want. Most people should."
+
+"I trust you," I said. "Good to know I can read it, though." I went through every page before I signed, and when I slid it back, one of Leon's eyebrows had moved a quarter inch.
 
 "Two more things," Leon said, filing it in the drawer. "My sister's going to push you about the second pod. Tell her not yet. I can't hand that to anyone until I've got my money's worth."
 

@@ -29,3 +29,8 @@ The silent, expressionless powerhouse. Barely talks or reacts, looks almost bore
 - **Sees Tatsuya as the brain behind the build (author-stated).** Haruto is a professional-level player and speaks very little. In chapter 2 he tells Tatsuya he'd like to see who the brain behind that build looks like in this game. He hints, without saying it, that he will not stay with Kansai Black Lotus long (Tatsuya notices it).
 - **Eventually Tatsuya's teammate (author-stated).** Haruto did nothing wrong in chapter 2; Tatsuya respects him and does not mock him.
 - **Haruto knows who made the build (author-stated).** Haruto knows Tatsuya is the brain behind the build, a secret that was only ever between Tatsuya and Eren and never said out loud. Tatsuya realizes it in chapter 2. Haruto worked it out himself: he has good eyes and can tell when someone does not know how to use their own build (Eren). Eren does not know Haruto caught on.
+
+
+## Contract (author-stated, latest; terms OPEN)
+
+Haruto is signed to his guild under a contract, as many pro-guild players are, usually for a long fixed period and especially for raids. Length, buyout and any penalty for leaving are not decided. His public exit post (Chapter Ten file) does not mention a contract, so check how it reads against this when that chapter is revised.
