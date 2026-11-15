@@ -166,9 +166,9 @@ He let a breath out through his nose. "So going to Tochi is how you build the co
 
 "I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
-"Depends." I thought of the class I'd have to get into and of what today's luck had paid. "On how much I make off today's luck, mostly. If I have the proper time, I think I can make it."
+"Depends." I thought of the class I'd have to get into and of the two vials the earring had paid out. "On how much I can make off an ability I picked up, mostly, and something else I'm sitting on. If I have the proper time, I think I can make it."
 
-Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "Today's luck." The monitor hummed. "Are you the one who triggered it?"
+Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "Something else you're sitting on." The monitor hummed. "Are you the one who triggered it?"
 
 I didn't answer. The silence ran long enough for the lamp to buzz twice, and I didn't look away.
 
