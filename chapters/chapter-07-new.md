@@ -6,7 +6,7 @@ One word was enough to make Chiyo text me twice before I'd made it three blocks.
 
 The frustration was still sitting hot in my chest when I parked the Haya EB in the bay behind the hotel, locked it, and cut through the lobby to the elevator.
 
-Pale stone, brass, the flower arrangement on the round table, a single lamp burning over the front desk. For the first time in weeks someone was sitting behind it, head down over the monitor, shoulders hunched under the light, hair so pale it read silver, pinned up in a messy knot that was losing the fight with its pins.
+Pale stone, brass, the flower arrangement on the round table, a single lamp burning over the front desk. For the first time in weeks someone was sitting behind it, head down over the monitor, shoulders hunched under the light, white hair pinned up in a messy knot that was losing the fight with its pins.
 
 *"The someone Chiyo hired."* Her text came back to me, *be nice and say hello.* I kept walking. Hello could wait until I could manage one without snapping at somebody who hadn't done anything to me. I hit the elevator button with my knuckle and watched the numbers instead of the desk. If she looked up, I never turned around to find out.
 
@@ -34,15 +34,11 @@ Nothing new about Tochi in either one. She'd already asked what changed, and all
 
 I typed a reply, cut it down twice, and sent the shortest version.
 
-**[Home. Got a part-time job too. I'm good.]**
+**[Home. I'm good.]**
 
 Short, on purpose. Right now this was mine.
 
 The phone buzzed again before I'd even set it down.
-
-**[Chiyo: A new job, what about Gato? We can talk about the hours when I'm back. School still comes first though, right?]**
-
-**[School's still first. I got it.]** One line, sent.
 
 **[Chiyo: I love you. Get some sleep.]**
 
@@ -162,27 +158,27 @@ Leon was crouched near the second pod's access panel with a man in a branded VRS
 
 "Take your time," I said, dropping my bag by the wall where it wouldn't be in the way, the strap landing with a soft thud against the concrete.
 
-Leon peeled off a few minutes later, the same energy from yesterday still sitting on him, and came back to my side.
+Leon peeled off a few minutes later, still carrying yesterday's tension in his shoulders, and came back to my side.
 
 "Inspector's confirming what I figured," Leon said, rubbing the back of his neck, his glasses slipping slightly down his nose before he pushed them back up. "Second pod's a real project, not a lost cause."
 
 "Good. I've got leads on parts from Dad's manual. Can pull more if we need specifics."
 
-"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Been sitting on those pods for two years thinking they were basically scrap." He tipped his head toward the front of the arcade and dropped his voice to a whisper. "Sorry if Arya gave you a hard time out there. She's been asking questions since yesterday. I don't want her near this until we're cleared and running."
+"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Two years I've been sitting on those pods thinking they were scrap." He tipped his head toward the front of the arcade and dropped his voice. "Hope Arya didn't bite. She's been asking questions since yesterday, and I'd rather she stayed out of this until we're cleared and running."
 
 "Makes sense," I said, and left it there.
 
 We spent the next twenty minutes going through the parts list from Dad's manual, cross-referencing against what Leon could source locally, flagging the stuff that would need Tochi's labs or a specialty supplier.
 
-"This batch I can't get here," Leon said, tapping a line on the sheet. "Guy I know in Akihabara still stocks old pod internals, but I've got to go pull them myself, nobody ships this stuff anymore. I'll head out once the inspector's squared away here."
+"This batch I can't get here," Leon said, tapping a line on the sheet. "Guy I know in Akihabara still stocks Kazehaya pod parts, the drive slot housing and the wiring harness, but I have to go pull them myself. Nobody ships this stuff anymore. I'll head out once the inspector's squared away."
 
-"I've got leads on funding it, too," I said. "Not gonna let you front the whole bill on something that's supposed to make you money."
+"I can put money toward the parts," I said. "You shouldn't be fronting all of it on something that's supposed to make you money."
 
 "We'll figure that part out." I tapped a knuckle against the cool frame of the pod and went back down the list, my eyes starting to ache from the small print.
 
 By the end Leon looked more settled than he had when I walked in.
 
-"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with a working pod that runs HGO." He clapped me on the shoulder once. Then his face shifted, more careful. "Before you get in there, though. The inspector's not done yet, so let me actually explain what he's doing back there, because it matters for you specifically."
+"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with a working Kazehaya pod." He tapped the sheet once with a knuckle, which from Leon counted as celebrating. Then his face went careful. "Before you get in there, you should know what the inspector's doing back there. It affects you."
 
 "Go for it."
 
@@ -194,19 +190,19 @@ By the end Leon looked more settled than he had when I walked in.
 
 "External monitor," I repeated slowly, turning the phrase over in my mouth, not liking the sound of it yet. "Means I need someone watching while I play."
 
-"That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, your gameplay will be displayed on the second monitor. It requires someone to be seated during all sessions in case something happens where the operator has to eject the person playing, aka you."
+"That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, and your gameplay will be on the second monitor. Someone has to be seated there for every session, in case the operator has to eject whoever's playing. Which is you."
 
-*"Makes sense. So whoever my operator is sees every move I make from here on out."* That settled badly, and I looked at the dead second monitor instead, the fluorescent tubes overhead throwing a flat white glare across its black glass.
+*"Makes sense. So Leon sees every move I make in there from here on out."* That settled badly, and I looked at the dead second monitor instead, the fluorescent tubes overhead throwing a flat white glare across its black glass.
 
-"Nexus helmets do it with a VR agent instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. Old pods don't have that, so it's gotta be an actual body in the chair for most sessions."
+"Nexus helmets do it with an AI watcher instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. The pods don't have that, so it's got to be an actual body in the chair."
 
-"That's pretty strict for just gaming, right?"
+"Strict, for a game."
 
-"Tell that to VRSA," Leon said, and a little of his usual dry humor came back, the corner of his mouth twitching. "I'll sit the booth myself, for what it's worth. Keeps this whole thing quiet a while longer, and honestly." He paused, rubbed the back of his neck again, avoiding eye contact. "I haven't even seen you play this game yet, and I still placed the bet. So while you're in there, consider me your eyes out here. I may not play, but Arya's been talking my ear off about HGO since before the beta started, so I can at least be a resource when you need something on this side."
+"Tell that to VRSA." The corner of Leon's mouth twitched, there and gone. "I'll sit the booth myself. Keeps this quiet a while longer." He rubbed the back of his neck, eyes on the floor. "While you're in there, I'm your eyes out here. I don't play, but Arya's been talking my ear off about HGO since before the beta, so I can at least tell you when something looks wrong on this side."
 
 I didn't have anything quick to say back. I pushed a loc behind my ear and let that land.
 
-"That works for me," I said, and meant it. "Appreciate that. And to keep it clean and real with you, my gamble's got a real need behind it. My mom's sick, in a coma, and I need money fast. Real fast. I think HGO's blessed me with something that can actually get that done."
+"That works for me," I said, and meant it. "You'll be the one watching, so you should know what's behind this. My mom's in a coma, and I need money fast. I think HGO gave me something that can get it."
 
 Leon didn't say much after that, just nodded once, slow, and let the quiet stand for a few seconds before he cleared his throat and changed the topic.
 
@@ -230,7 +226,7 @@ She went back behind the counter, but her posture had shifted slightly, shoulder
 
 I let it sit there, easy enough, and killed the rest of the wait scrolling through my phone, nothing loading that actually mattered, just something to do with my hands until the inspector called it done.
 
-By the time the inspector finished, the operator's booth had changed. A second monitor now sat angled beside the first pod, slim and modern compared to the older hardware around it, a soft green waveform glowing across its screen in steady pulses. Leon was crouched in front of it with the inspector, both of them running through something on a checklist, and Leon waved me over without looking up.
+By the time the inspector finished, the operator's booth had changed. A second monitor now sat on the operator's desk up on the podium, slim and modern compared to the older hardware around it, a soft green waveform glowing across its screen in steady pulses. Leon stood over it with the inspector, both of them running through something on a checklist, and Leon waved me over without looking up.
 
 "He's signing off now," Leon said, straightening up with a small grunt, one hand on his lower back.
 
