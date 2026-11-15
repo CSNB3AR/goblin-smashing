@@ -158,9 +158,9 @@ I gave a small shrug. "Barely."
 
 He let a breath out through his nose. "So going to Tochi is the only way to get that done?"
 
-I rubbed the back of my neck. "That's my lead. Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
+I rubbed the back of my neck. "That's my lead. Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested. Buying is easier, sure, but not if I'm buying four in one month. That's what everybody runs into with the Kuroshio cores. They drain, and they cost too much to keep replacing."
 
-"I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He thumbed the tablet back to life, nervous, and let it dim again. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
+"I see." Whatever anger he'd been holding ran out of places to go. "I guess you're not just a kid being hopeful, then. You really thought this out." His voice dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He thumbed the tablet back to life, nervous, and let it dim again. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
 "I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
