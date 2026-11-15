@@ -240,11 +240,7 @@ She was trying to protect me, even though I'd chosen this route on my own. The t
 
 I took the stairs down hard, trying not to run into either of the nurses, and went out the back exit, which meant walking all the way around the building in the cold to reach the lot. The EB sat where I'd left it. I pressed my thumb to the touchscreen, the dash took its half-second to read my print and lit green, and I pulled the helmet on.
 
-*"What changed?"* Her question sat in my head under the visor. Nothing had changed except how angry I was, and that was what settled it. I'd go. I loved Momo and Taji, and living on campus meant leaving them, but a student with a job could get off campus when a student with nothing couldn't. A job at Leon's meant the arcade and the pods, and Tochi's courses could carry the rest.
-
-I let myself stay mad at Chiyo a little longer, because I'd earned that much. But the longer I sat with it, the more I understood why she'd done it. She wasn't a bad parent. She was a tired one, carrying the hotel and the lawyers and Mom by herself, and I wasn't going to fight her for it. All it did was put the weight on me. When I clocked in at Leon's, I couldn't bullshit around.
-
-Tochi had the lab and the time, and the time was for the core. The other road cost more than I had, and every Kuroshio core I bought put money in the Tabuchis' pockets, because they were backers, stockholders in all of it. Even a small cut was a cut I wouldn't hand them. I'd have to face Eren at Tochi either way, and I wasn't paying his family to do it. I scratched my goatee once, hard.
+*"What changed?"* Her question sat in my head under the visor, and the only honest answer was how angry I was. I wasn't going to type it. I wasn't going to type anything.
 
 *"Tochi. I'm going."*
 

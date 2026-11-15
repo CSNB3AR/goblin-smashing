@@ -51,3 +51,7 @@ Daichi left the rights and Kazuhaya Tech to Tatsuya as a gift and keepsake, in h
 ## Guardian, not a secret-keeper (author-stated)
 
 Chiyo is protecting a 16-year-old grandson she raised from diapers. She will not hand him a legal fight and a yakuza fight, so she keeps the real bills and his mother's condition from him. She pushed him back toward school because she knew Daichi's company would pass to him and she wanted him motivated and able to run it, and because she knew the WattsUp job was a dead end even though she is fond of Gato. Later, when Tatsuya finds the real bills in her papers (see `outline/canon-ledger.md`), he is hurt that she never told him his mother is dying, but he understands why and cannot be angry with her.
+
+## Tatsuya's anger over the hidden prognosis (author-stated, latest; for the writer, not for the page yet)
+
+Tatsuya's anger at Chiyo for hiding Ohema's six-month window runs over two to three chapters from the end of Chapter Seven and is resolved around the end of Chapter Nine. Chiyo is not a bad parent; she is protecting him while carrying the hotel, the lawyers and Ohema alone. When he understands that, it should come out of events and conversation on the page, not from Tatsuya explaining it to himself in Chapter Seven. Related threads to place later: campus rules let a student with a job (his work at Leon's) go off campus; Tochi gives lab access and time for the core; buying Kuroshio cores would fund the Tabuchis, who back Kuroshio like stockholders; Eren is at Tochi.
