@@ -70,13 +70,13 @@ They'd already taken enough. Now they wanted more on top of it. My jaw set. *"I'
 
 *"Three million, and I'm still a minor. The only way that's sitting there is if I have something to do with Dad's business."* As far as I knew I didn't, but that could have changed when he died. *"Damn. So many questions I don't have answers to yet."*
 
-Three million to the Tabuchis, about four for Mom's surgery. Seven million. I said it out loud and ran the number again. It wasn't impossible, and if there was anywhere I could do it, it was HGO.
-
 I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
 
-Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running. The fatigue was shifting in now, the good kind.
+Mom came first, and the rest could wait. I had enough on my plate. The family didn't need more pressure right now, least of all Chiyo. If everything played out right, I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running.
 
-My eyes closed on a low hum of excitement underneath the exhaustion.
+The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV. A rerun of the day's talk show was playing, two hosts at a desk going back over the finale, and I left it on low for the noise. Along the bottom a gold timer ran under the clips ticker, the sale countdown: **47:26:39**.
+
+The fatigue was shifting in now, the good kind. My eyes closed on a low hum of excitement underneath the exhaustion.
 
 • • •
 
