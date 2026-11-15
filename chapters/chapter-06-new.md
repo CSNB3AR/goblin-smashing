@@ -160,7 +160,7 @@ I gave a small shrug. "Barely."
 
 He let a breath out through his nose. "So going to Tochi is the only way to get that done?"
 
-"That's my lead." I kept my eyes on him. "Unless I want to spend a ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
+"That's my lead." I kept my eyes on him. "Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
 
 "I see." Whatever anger he'd been holding ran out of places to go. When he spoke again his voice had dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He picked at a scuff on the counter with his thumbnail. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
