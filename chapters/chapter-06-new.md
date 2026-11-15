@@ -206,7 +206,7 @@ I read it twice, once for the words and once for what she hadn't bothered spelli
 
 Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
 
-She looked smaller than I remembered, like something about the room was slowly winning an argument. The blanket lay flat across her where it should have lifted. Monitors beeped quiet and steady, the IV drip slow and regular, her face turned toward the window.
+She looked smaller than I remembered, the way she always did after a few days away. Her cheeks had hollowed, and her wrist lay thin on top of a blanket that lay flat where it should have lifted. The IV was doing the eating for her now, and it showed. Monitors beeped quiet and steady, the IV drip slow and regular, her face turned toward the window.
 
 I pulled the chair close and sat, elbows on my knees. "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
