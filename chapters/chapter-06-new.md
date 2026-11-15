@@ -134,7 +134,7 @@ I stayed where I was. "I checked it over before I stepped out. The core is nearl
 
 "So the one session drained it?" He tilted his head, doing the math behind his glasses, and it wasn't making him happier.
 
-"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "Dad left notes and schematics on the Kazehaya VR pods, so I know what I'm looking at. I'm not buying cores. I'm building one. From scratch it would've been brutal, but you've got two pods here to work from, and a core that can carry a newer title is doable. My Haya EB has lasted years, and all I've done is upgrade it. Dad's work doesn't die."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "Dad left notes and schematics on the Kazehaya VR pods, so I know what I'm looking at. I'm not buying cores. I'm building one. From scratch it would've been brutal, but you've got two pods here to work from, and I think a core that can carry a newer title is doable. My Haya EB has lasted years, and all I've done is upgrade it. Dad's work doesn't die."
 
 "Building it with what?" Leon rested a forearm on the counter.
 
@@ -166,9 +166,9 @@ He let a breath out through his nose. "So going to Tochi is how you build the co
 
 "I've got a proposition for you." He straightened. "It's going to take partnerships and deals. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector. If you're serious about getting those pods up, how long before profit starts coming in?"
 
-"Depends." I thought of the class I'd have to get into and of the two vials the earring had paid out. "On how much I can make off an ability I picked up, mostly, and something else I'm sitting on. If I have the proper time, I think I can make it."
+"Depends." I thought about how little I actually knew about this goblin. "I'm still learning the class. I know the game, not what this build does yet. If I have the proper time, I think I can make it, and there's more riding on it than I can say right now." It came out surer than I felt.
 
-Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "Something else you're sitting on." The monitor hummed. "Are you the one who triggered it?"
+Leon took the unlit cigarette from behind his ear and rolled it between two fingers. "More than you can say." The monitor hummed. "Are you the one who triggered it?"
 
 I didn't answer. The silence ran long enough for the lamp to buzz twice, and I didn't look away.
 
@@ -178,9 +178,9 @@ Leon lit the cigarette. He turned his head and let the smoke out toward the wind
 
 "I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
 
-"Come in at nine, nine-thirty when we open." "Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through."
+"Come in at nine, nine-thirty when we open. Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time, so your guardian has an answer. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through."
 
-*"A pod, a job I can point at, and the parts. Yeah. That's a deal."*
+*"A pod and a job I can point at. It's the only door I've got."* I hadn't wanted to go back to Tochi, but without this place I had nowhere to play, and if this fell through, nothing else was waiting.
 
 "I'll get it done," I said, and held his eyes until he nodded.
 
