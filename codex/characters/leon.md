@@ -48,3 +48,8 @@ When Tochi sponsors the guild, the stipulation is **Tatsuya's**, not Leon's (cor
 ## The live-stream idea (author-stated, latest)
 
 Leon, not Tatsuya, decides to try live streaming: he wants to see what works and what does not, and it gives him something to feed the VRSA inspector. He starts the stream from the booth. He also has the old external monitor replaced at his own cost and does not make a fuss, because he has money for the building and sees it as an investment. When the inspector flags the pod's low core he says there is nothing to do about it until Tatsuya starts working on it.
+
+
+## Paperwork, the booth and Arya (author-stated, latest)
+
+Leon sits the booth most days, and some days Arya takes the seat because she knows HGO far better than he does and can feed Tatsuya information he cannot get himself in a VR game. The paperwork is signed in Chapter Eight after the inspector finishes; it is built to look like Tatsuya is staff, nine to five, for cover. Leon will not let Arya use the second pod until he has his money's worth. He trusts her to keep the World Quest to herself while she works there, and tells Tatsuya plainly that her reputation in HGO is not great and she has had a rough run.

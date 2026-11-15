@@ -172,7 +172,7 @@ By the end Leon looked more settled than he had when I walked in.
 
 "Strict, for a game."
 
-"Tell that to VRSA." The corner of Leon's mouth twitched, there and gone. "I'll sit the booth myself. Keeps this quiet a while longer." He rubbed the back of his neck, eyes on the floor. "While you're in there, I'm your eyes out here. I don't play, but Arya's been talking my ear off about HGO since before the beta, so I can at least tell you when something looks wrong on this side."
+"Tell that to VRSA." The corner of Leon's mouth twitched, there and gone. "I'll sit the booth myself most days. Keeps this quiet a while longer." He rubbed the back of his neck, eyes on the floor. "Some days it'll be my sister in the seat. I don't play, but Arya's been talking my ear off about HGO since before the beta. She can tell you things I can't, and a voice in your ear is worth a lot when you can't check your phone."
 
 I didn't have anything quick to say back. I pushed a loc behind my ear and let that land.
 
@@ -206,7 +206,19 @@ The inspector packed up his gear, tablet and tools disappearing into a branded c
 
 Leon dropped into the chair at the operator's booth, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
 
-"Alright," Leon said, glancing over the readouts once, then back to me. "One more thing before you go under. I thought it over, and I want to test live streaming. See what works and what doesn't. It gives me something to feed the inspector when he asks."
+"Alright," Leon said, glancing over the readouts once, then back to me. He took a short stack of papers from the drawer and slid it across the desk. "Paperwork. It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going. Sign where it's flagged."
+
+I read the flagged lines, signed, and slid it back.
+
+"Two more things," Leon said, filing it in the drawer. "My sister's going to push you about the second pod. Tell her not yet. I can't hand that to anyone until I've got my money's worth."
+
+"So two people know about the quest," I said.
+
+"Yeah. You can trust her. While she works here she won't run her mouth, and with her reputation in HGO right now, I doubt anyone would listen if she did." He pushed his glasses up. "It's not great. She's had a run of it already, and we've got enough going on."
+
+I let that sit. I didn't know what the run had been, and I didn't ask.
+
+"Last thing. The inspector only signed off on the battery draw. Nobody's tested what streaming does to this thing, and I'd rather find out on my own floor than from a customer. So we go live and see what works and what doesn't. If it holds, it's marketing for the arcade."
 
 "Your call," I said.
 
