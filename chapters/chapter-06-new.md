@@ -184,7 +184,7 @@ I'd known that part was coming, and he had every right to say it. It landed squa
 
 "Come in at nine, nine-thirty when we open." He rubbed the bridge of his nose. "Open to close, with the booth monitor running and me watching it. We can work out the paperwork if any's needed. When the second one's up, it's ours. It stays quiet until the clearance comes through." He said it fast, like a man reading out the odds on a bet he'd already placed.
 
-*"A pod and a job I can point at. It's the only door I've got."* I hadn't wanted to go back to Tochi, but without this place I had nowhere to play, and if this fell through, nothing else was waiting.
+*"Good. Now I can focus on the next step. Getting back into Tochi, and this World Quest. Then Mom."* My thoughts ran back to why I was doing all this. Our family needed her.
 
 "I'll get it done," I said, and held his eyes until he nodded.
 
