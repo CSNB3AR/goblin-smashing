@@ -98,3 +98,8 @@ White or silver hair in a messy high bun with loose strands framing her face, pa
 ## The delinquent of the two (author-stated, latest)
 
 The tattoos, the hair and the hard look fit her role: she is the delinquent of the two siblings, the one Leon is raising and answering for. This is exactly why the custody fight exists: her parents overseas think Leon is not doing well by her with Arya here, since she is deep in gaming and has barely been going to school. She has not dropped out, but she is trying to go pro with the guild, so she knows a great deal about the game. See `codex/subplots/leon-arya-custody-battle.md`.
+
+
+## Arya at the hotel on the page (author-stated, latest; supersedes "does not see her until he is home again after the arcade")
+
+In Chapter Eight Tatsuya passes her at the Nakamura Grand front desk late at night on his way to the elevator: head down over the monitor, silver hair (white under the lobby lamp) in a messy knot. She is not named and they do not speak. He remembers Chiyo's "say hello" text and walks past on purpose. The first real conversation is still the arcade counter the next morning.

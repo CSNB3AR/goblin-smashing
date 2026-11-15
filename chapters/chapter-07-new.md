@@ -1,10 +1,16 @@
-# Chapter Seven: VRSA Inspection
+# Chapter Eight: VRSA Inspection
 
-The ride back to the Nakamura Grand ran itself the same way the ride to the hospital had, muscle memory carrying me through turns I didn't register making, the streetlights sliding past the visor without registering. My phone buzzed twice in my jacket pocket before I made it three blocks, Chiyo's name lighting up the screen both times, and I let it sit there unanswered.
+One word was enough to make Chiyo text me twice before I'd made it three blocks. My phone buzzed in my jacket pocket, her name lighting the screen both times, and I let it ride. The trip back to the Nakamura Grand ran itself the way the ride to the hospital had, muscle memory carrying me through turns I didn't register making, the streetlights sliding past the visor.
 
 *"Not tonight. I'll deal with it when I'm not this pissed off."*
 
-The frustration was still sitting hot in my chest when I parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet below. I let myself in and stood in the dark entry a second, listening to nothing.
+The frustration was still sitting hot in my chest when I parked the Haya EB in the bay behind the hotel, locked it, and cut through the lobby to the elevator.
+
+Pale stone, brass, the flower arrangement on the round table, a single lamp burning over the front desk. For the first time in weeks someone was sitting behind it, head down over the monitor, shoulders hunched under the light, hair so pale it read silver, pinned up in a messy knot that was losing the fight with its pins.
+
+*"The someone Chiyo hired."* Her text came back to me, *be nice and say hello.* I kept walking. Hello could wait until I could manage one without snapping at somebody who hadn't done anything to me. I hit the elevator button with my knuckle and watched the numbers instead of the desk. If she looked up, I never turned around to find out.
+
+I let myself into the apartment and stood in the dark entry a second, listening to nothing.
 
 Just the hum of the refrigerator and the sound of my own boots on the floor. I toed a stray pair of Taji's sandals back into line by the door, automatic, the kind of straightening up I did every time I got home first, and left my bag beside them. My phone went face-down on the kitchen counter without a glance, and I headed straight for the shower.
 
@@ -28,7 +34,7 @@ Nothing new about Tochi in either one. She'd already asked what changed, and all
 
 I typed a reply, cut it down twice, and sent the shortest version.
 
-**[I've decided on going to Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a new part-time job too. I'm good.]**
+**[Home. Got a part-time job too. I'm good.]**
 
 Short, on purpose. Right now this was mine.
 
@@ -64,17 +70,17 @@ But legally my hands were tied as long as the balance sat there owing, and that 
 
 I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
 
-Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. Crownfall's ten million yen was the only number in this game big enough to matter, and the clock on it was already running. The fatigue was shifting in now, the good kind.
+Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running. The fatigue was shifting in now, the good kind.
 
 My eyes closed on a low hum of excitement underneath the exhaustion.
 
 • • •
 
-Morning came too early, sunlight cutting through the blinds in a way that said I'd slept past my usual alarm. I checked my phone. 7:43 AM. December 12th.
+Morning came with sunlight cutting through the blinds and the alarm still a few minutes off. I checked my phone. 7:31 AM. December 12th.
 
-*"Damn."* I sat up, a loc falling loose across my face that I pushed back automatically. *"Better move if I want to get research in before Leon."*
+I sat up, a loc falling loose across my face that I pushed back automatically. For once I wasn't behind on anything. *"Good. Research before Leon."*
 
-I rolled out of bed, crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
+I took a quick shower to shake the last of the night off, then crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
 
 *"Wild that I'm actually in HGO now."* I pulled a red hoodie off its hanger, grabbed clean joggers, my Humu 1's off the floor.
 
@@ -138,7 +144,7 @@ Dosuke noticed first. Of course he did. I killed the screen before the light cha
 
 Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when I walked in, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, with a scowl and sharp grey eyes that landed on me the second I crossed the threshold and didn't move off.
 
-*"That has to be Leon's sister."* Nothing in her face matched his, but the way she sized me up did.
+*"That has to be Leon's sister."* Nothing in her face matched his, but the way she sized me up did. Her hair tugged at something, like I'd seen it recently, and I had no time to chase it.
 
 "How can I help you?" She said it directly.
 
@@ -168,7 +174,7 @@ Leon peeled off a few minutes later, the same energy from yesterday still sittin
 
 We spent the next twenty minutes going through the parts list from Dad's manual, cross-referencing against what Leon could source locally, flagging the stuff that would need Tochi's labs or a specialty supplier.
 
-"This batch I can't get here," Leon said, tapping a line on the sheet. "Guy I know in Akihabara still stocks first-gen internals, but I've got to go pull them myself, nobody ships this stuff anymore. I'll head out once the inspector's squared away here."
+"This batch I can't get here," Leon said, tapping a line on the sheet. "Guy I know in Akihabara still stocks old pod internals, but I've got to go pull them myself, nobody ships this stuff anymore. I'll head out once the inspector's squared away here."
 
 "I've got leads on funding it, too," I said. "Not gonna let you front the whole bill on something that's supposed to make you money."
 
@@ -176,7 +182,7 @@ We spent the next twenty minutes going through the parts list from Dad's manual,
 
 By the end Leon looked more settled than he had when I walked in.
 
-"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with working first-gen HGO access." He clapped me on the shoulder once. Then his face shifted, more careful. "Before you get in there, though. The inspector's not done yet, so let me actually explain what he's doing back there, because it matters for you specifically."
+"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with a working pod that runs HGO." He clapped me on the shoulder once. Then his face shifted, more careful. "Before you get in there, though. The inspector's not done yet, so let me actually explain what he's doing back there, because it matters for you specifically."
 
 "Go for it."
 
@@ -192,11 +198,11 @@ By the end Leon looked more settled than he had when I walked in.
 
 *"Makes sense. So whoever my operator is sees every move I make from here on out."* That settled badly, and I looked at the dead second monitor instead, the fluorescent tubes overhead throwing a flat white glare across its black glass.
 
-"Third-gens do it with a VR agent instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. Old pods don't have that, so it's gotta be an actual body in the chair for most sessions."
+"Nexus helmets do it with a VR agent instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. Old pods don't have that, so it's gotta be an actual body in the chair for most sessions."
 
 "That's pretty strict for just gaming, right?"
 
-"Tell that to VRSA," Leon said, and a little of his usual dry humor came back, the corner of his mouth twitching. "I'll do it myself, for what it's worth. Keeps this whole thing quiet a while longer, and honestly." He paused, rubbed the back of his neck again, avoiding eye contact. "I also thought about the sponsorship idea, and I'll be honest, my grandpa was against stuff like that, mainly because corporations always have funny business attached. I know it sounds crazy because I haven't even seen you play this game yet, but because of what you're willing to do for us in fixing these things, I'm willing to take a gamble on you too. So while you're in there, consider me your eyes out here. I may not play, but Arya's been talking my ear off about HGO since before the beta started, so I can at least be a resource when you need something on this side."
+"Tell that to VRSA," Leon said, and a little of his usual dry humor came back, the corner of his mouth twitching. "I'll sit the booth myself, for what it's worth. Keeps this whole thing quiet a while longer, and honestly." He paused, rubbed the back of his neck again, avoiding eye contact. "I haven't even seen you play this game yet, and I still placed the bet. So while you're in there, consider me your eyes out here. I may not play, but Arya's been talking my ear off about HGO since before the beta started, so I can at least be a resource when you need something on this side."
 
 I didn't have anything quick to say back. I pushed a loc behind my ear and let that land.
 
@@ -238,7 +244,7 @@ The inspector packed up his gear, tablet and tools disappearing into a branded c
 
 Leon dropped into the chair at the operator's booth, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
 
-"Alright," Leon said, glancing over the readouts once, then back to me. "Since this thing was never built for HGO, we're gonna need to take breaks. If we don't, it'll overheat, and that's not safe for you to be in if it does."
+"Alright," Leon said, glancing over the readouts once, then back to me. "Core's reading nineteen, and you said it burns about a point a dive. Since this thing was never built for HGO, we're gonna need to take breaks. If we don't, it'll overheat, and that's not safe for you to be in if it does."
 
 *"Right. Makes sense."* I climbed into the pod, the padded interior cool against my back, and pulled up my account settings on the small HUD that flickered to life in my vision. Based on what I'd read in the forums, you needed to preset streaming before entering and loading the game, not after.
 
@@ -250,6 +256,6 @@ No names blinked into the chat window yet. Just me and an empty feed, and I coul
 
 *"Alright. Let's get it started."*
 
-The visor lowered, sealing me in, and the world outside went dark.
+Nineteen now. Eighteen when I came back. The visor lowered, sealing me in, and the world outside went dark.
 
-**[END CHAPTER SEVEN]**
+**[END CHAPTER EIGHT]**
