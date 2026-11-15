@@ -21,4 +21,4 @@ This is also where the debt pressure and the Tabuchis' "unfinished conversation 
 
 ## Author update (latest): Arya's reason for Tochi, and her year
 
-Arya's route into Tochi is now her education fight and Leon's stipulation to Tochi's sponsorship, not the rule that eSports members must be enrolled (see `codex/subplots/leon-arya-custody-battle.md`). She is also a **first-year**, not a second-year as written above. Whether this qualifier still happens in Book Two and how it fits is OPEN.
+Arya's route into Tochi is now her education fight and Tatsuya's stipulation to Tochi's sponsorship, not the rule that eSports members must be enrolled (see `codex/subplots/leon-arya-custody-battle.md`). She is also a **first-year**, not a second-year as written above. Whether this qualifier still happens in Book Two and how it fits is OPEN.
