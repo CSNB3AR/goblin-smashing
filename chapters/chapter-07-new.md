@@ -22,11 +22,11 @@ I wouldn't even be this mad if I hadn't had to find out from two nurses who thou
 
 The thought didn't make me less angry. It just made the anger sit somewhere different.
 
-I shut the water off, dried off fast, and pulled on a pair of sweats. On my way through the front room I scooped the phone off the kitchen counter and grabbed my bag from beside Taji's sandals without breaking stride. My feet took me down the hall to the last door, the room that used to be Dad's and that I'd barely slept in since the funeral. It was the only place in the apartment where nobody would ask me anything.
+I shut the water off, dried off fast, and pulled on a pair of sweats. On my way through the front room I scooped the phone off the kitchen counter and grabbed my bag from beside Taji's sandals without breaking stride. My feet took me down the hall to the last door, the room that used to be Dad's. Since the funeral I'd slept on the couch next to Taji and stayed out of here as much as I could. It was the only place in the apartment where nobody would ask me anything.
 
 I left the overhead off. The desk lamp was enough. The room still smelled of old solder and cold circuit boards, the same as the night the letter slid out of the manual, and the two pale grooves the wheelchair had worn still ran along the floorboards from the desk to the door. The shelf above the desk sat empty. I took the manual out of the bag and set it on the desk under the lamp, its cracked spine catching the light, the letter still folded somewhere in the controller diagrams where I'd tucked it.
 
-I dropped onto the bed I hardly ever slept in and sat there with the phone dark in my hand, the lamp buzzing faintly. *"You carried all of it by yourself too. The Tabuchis, the bear, whatever you couldn't put on paper."* He'd still found a way to leave me something where I'd look. My shoulders came down a notch, and my breathing slowed without my asking it to. For the first time since the funeral, the room felt a little like mine.
+I dropped onto the bed I hardly ever slept in and sat there with the phone dark in my hand, the lamp buzzing faintly. *"You carried all of it by yourself too. The Tabuchis, the bear, whatever you couldn't put on paper."* He'd still found a way to leave me something where I'd look. My shoulders came down a notch, and my breathing slowed without my asking it to. For the first time since the funeral, the room felt a little like mine, and I thought I might actually sleep in here tonight.
 
 Only then did I actually look at what she'd sent.
 
@@ -88,9 +88,7 @@ I took a quick shower to shake the last of the night off, then crossed to the cl
 
 Not the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the hoodie down.
 
-I got dressed and cleaned up my room.
-
-I grabbed the laptop off the counter on my way to the kitchen stool and started typing before I'd even sat down fully.
+I got dressed, grabbed the laptop off the counter on my way to the kitchen stool, and started typing before I'd even sat down fully.
 
 **[Shiv | HGO lore]**
 
