@@ -84,7 +84,7 @@ The number appeared on-screen beneath him, clean white text against the dark: **
 
 I read it twice, the same way I'd read Chiyo's text, making sure the number was real and not something my exhausted brain had invented to torment me.
 
-*"Half off. For three days."* I did the math automatically, the same way I did every math problem that involved money I didn't have. If I bought it right now, there was enough. Barely. And ten million yen on the table for a single raid, from the one game on earth I'd sworn I'd never touch.
+*"Half off. For three days."* I did the math automatically, the same way I did every math problem that involved money I didn't have. If I bought it right now, there was enough. Barely. And ten million yen on the table for one finish, from the one game on earth I'd sworn I'd never touch. *"Ten million. That's well past the surgery."*
 
 I shook it off. *"Not tonight, and not this game. Tonight is a shift, tomorrow is another one, and a sale is only a sale. I've watched people burn their savings on less."*
 

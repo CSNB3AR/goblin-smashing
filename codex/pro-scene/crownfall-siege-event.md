@@ -15,7 +15,11 @@
 
 **Politics in the raid.** Parties meet inside the forest and decide whether to fight the boss together or fight each other. The boss attacks everyone either way, so alliances form and break under pressure, and it weeds out a lot of players depending on where they pull aggro.
 
-**Guild entry (author-stated, partly unclear).** Guilds enter as guilds, but inside the raid they split into **7-man parties**. Guild-tagged players cannot kill each other, but two parties cannot merge into one. Only a limited number of players per guild can enter, and a guild that has already entered cannot add more. London Spire already holds Thornwatch, so they start close to the forest, can **respawn early** if they die, and are allowed a larger entry of **14 players** (two parties) because of that advantage. The author does not want many mini-parties crowding one shared server.
+**Guild entry (author-stated, latest; replaces the 25-member and London Spire 14-player wording).** Keep the 7-man parties and make the entry **14 per guild**, two parties of seven, for every guild. The cap is deliberately tight to make the raid hard. A guild that has entered is **locked**: it cannot add more players. A big guild must therefore send its best (the dictation said "the 7 best"; best 14 or best two parties, OPEN), and a small guild can field a full side. That is the point of the rule: the raid is one event where a small guild can really compete, which is why Tatsuya can see himself in it. A big guild battle would not fit him. Guild-tagged players cannot kill each other and cannot merge parties. London Spire still starts close to the forest because they hold Thornwatch, and can respawn early if they die (earlier ruling, kept).
+
+**Why the details are held back (author-stated).** Information on the finish is held until the **72-hour 50 percent sale** ends. Once the sale is over, prices go back to normal and the influx of new players settles, and then HGO drops the rest of the details. That is the in-world reason the announcement is vague and the name is not said. Whether Kazuku says this aloud on the page is OPEN.
+
+**Why the prize matters to Tatsuya.** Chapter One carries it in his own head: Season Zero's forty million, "even a tenth of that pays for the surgery outright", and then the finish's ten million, "well past the surgery". The name is hidden, but the prize is not, so his motivation stays.
 
 **Lore tie-ins (author-stated).**
 - The boss is tied to the **Frostborn and the Dwarves**, a descendant of them. The Thornwatch Forest is closer to Dwarven and Frostborn land than to the Elven land.
@@ -27,7 +31,6 @@
 **Open (asked of the author):**
 - Where in the story the name Crownfall is first said aloud, and whether Chapters Eight, Ten and Eleven (which still name it) should say "the Christmas event" until then.
 - "London Watch" in the dictation was read as **London Spire**. Confirm.
-- The guild cap: the dictation says 25 members and also says London Spire gets 14 players. Which is the cap and which is the exception?
 - Whether the three phases are entry, beasts, boss, or whether the boss fight itself has the three.
 - Whether the 72-hour death clock applies to deaths inside the raid, or only to late entrants.
 - "Jared" in the dictation ("some big prizes that Jared's going to") was not understood and is left out.
