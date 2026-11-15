@@ -56,7 +56,7 @@ Not much. But it was mine. The corner of my mouth lifted before I caught it.
 
 Whatever this turned into, it wasn't going toward the Tabuchis. Mom came first, but I had to somehow get them off me. I doubted paying them off would be that simple.
 
-I scrolled down out of habit, the way I always checked my own numbers, and the second account caught me before I could stop it. Still listed under Daichi Kazehaya. Still mine to see, next of kin, nobody had ever bothered pulling me off it.
+I scrolled down out of habit, the way I always checked my own numbers, and the second account caught me before I could stop it. Still listed under Daichi Kazehaya, and somehow still mine to see. Nobody had ever bothered pulling me off it.
 
 **[KAZUHAYA TECH - Daichi Kazehaya]**
 
@@ -68,9 +68,9 @@ I stared at my own balance first, then Dad's, then the name sitting under the co
 
 They'd already taken enough. Now they wanted more on top of it. My jaw set. *"I'll be damned if I hand them a single thing Dad wasn't willing to give them himself."*
 
-But legally my hands were tied as long as the balance sat there owing, and that was the actual answer to a question I'd never bothered asking outright. Seven million. I said it flat out loud and scratched at my goatee while I ran the number again. It wasn't impossible. It was going to be hard, but if there was anywhere I could actually do it, it was HGO.
+*"Why is this still in front of me?"* The account sat under my own login like it belonged there. I scratched at my goatee and turned that over, and came up with nothing. Whatever the answer was, I wasn't getting it tonight.
 
-I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
+I set the phone down for real this time, lying back against the pillow. If there was anywhere I could fix this, it was HGO. I let myself actually feel that, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
 
 Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running. The fatigue was shifting in now, the good kind.
 
@@ -88,7 +88,23 @@ I took a quick shower to shake the last of the night off, then crossed to the cl
 
 Not the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the hoodie down.
 
-I got dressed, grabbed the laptop off the counter on my way to the kitchen stool, and started typing before I'd even sat down fully.
+Before I touched the laptop I dealt with the room. I wiped the dust off the shelf where the manual used to sit, squared the desk under the window, and gathered the loose papers from the corner into the bottom drawer. A room I could actually work in, if I ever got the time.
+
+The drawer wouldn't close. A manila folder had slid crooked inside it, the corner gone soft like it had been handled a lot, and the tab said **[Kazuhaya Tech]** in Dad's slanted handwriting. I pulled it out and sat down in the desk chair.
+
+The will was on top. Nobody had hidden it from me. It had been sitting in an unlocked drawer the whole time, and I'd never had the chance to read it, or maybe the nerve. I read it now.
+
+**[I leave Kazuhaya Tech, its name and its rights, to my son, Tatsuya Kazehaya. I ask Chiyo Nakamura to keep the company safe until he is ready to take it on.]**
+
+I read it twice. *"That's why the account's on my login. It's mine. It was always going to be mine."* I still owned Dad's company, which meant I could still use his name. *"Bring your business here."* Kazuku's line from the broadcast came back to me, and this time it landed differently. *"I have one."*
+
+The rest fell into place one piece at a time. The Tabuchis kept coming because the company was still open, and as long as it was open and owing, they had a legal claim on it. Chiyo had lawyers on it and could fight in court all she wanted. The only way she wins is if I knock that debt down, because once we owe them nothing, everything they do after that looks like plain harassment. Right now my name sat on the debt, and that was the only reason they could keep knocking.
+
+*"Three million to the Tabuchis. About four for Mom's surgery. Seven million."* I said it out loud and scratched at my goatee while I ran the number again. It wasn't impossible. And at least now I knew what I was swinging at.
+
+I put the folder back in the drawer and shut it.
+
+I grabbed the laptop off the counter on my way to the kitchen stool and started typing before I'd even sat down fully.
 
 **[Shiv | HGO lore]**
 
