@@ -68,7 +68,7 @@ I stared at my own balance first, then Dad's, then the name sitting under the co
 
 They'd already taken enough. Now they wanted more on top of it. My jaw set. *"I'll be damned if I hand them a single thing Dad wasn't willing to give them himself."*
 
-*"Three million, and I'm still a minor. The only way that's sitting there is if I have something to do with Dad's business."* As far as I knew I didn't, but that could have changed when he died. I scratched at my goatee. A debt like that doesn't follow a kid when his father dies, and it would explain why the Tabuchis were still hunting me. *"If he left me the company in his will..."* I let that sit. *"Then either you handed me a sinking ship, Dad, or you knew I'd find out and could use it."* Either way, I had to go look.
+*"Three million, and I'm still a minor. The only way that's sitting there is if I have something to do with Dad's business."* As far as I knew I didn't, but that could have changed when he died. *"Damn. So many questions I don't have answers to yet."*
 
 Three million to the Tabuchis, about four for Mom's surgery. Seven million. I said it out loud and ran the number again. It wasn't impossible, and if there was anywhere I could do it, it was HGO.
 
