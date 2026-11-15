@@ -210,13 +210,9 @@ She looked smaller than I remembered. Three years in that bed, and every visit t
 
 I pulled the chair close and sat, elbows on my knees. "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
-The monitors kept beeping. I smoothed the edge of the blanket flat with two fingers. "I got into the game. HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short breath, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
-
-"But I made some money already." The monitor drew the same slow line across its screen. "Sixteen thousand eight hundred yen off two elixirs the earring rolled me."
+The monitors kept beeping. I smoothed the edge of the blanket flat with two fingers. "I finally found a way to help." The monitor drew the same slow line across its screen. "It's real, Mom. It's the first real shot I've had at getting you that surgery."
 
 The words came easier here than they did anywhere else. Something about a room where nobody was watching.
-
-"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, a few hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody." I stopped, my throat going tight, and let the quiet sit a second before I pushed through it.
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
