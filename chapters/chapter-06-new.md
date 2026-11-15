@@ -180,7 +180,7 @@ Leon didn't say anything. The silence ran long enough for the lamp to buzz twice
 
 Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the tablet. His eyes went to the dark hallway and stayed there a second. "If we're going to work together, you can't do what you did today. I have to be on top of things from the start." He finally looked at me. "I know you gambled coming in here, and I'm not going to say I'm happy about it. But I feel like we can really do something with this, if we're on the same page."
 
-I nodded. "Same page."
+I'd known that part was coming, and he had every right to say it. It landed square, and I let it. "You're right," I said. "I should've come to you before I touched anything."
 
 "Come in at nine, nine-thirty when we open." He rubbed the bridge of his nose. "Open to close, with the booth monitor running and me watching it. I'll put you on the books, part-time. If your guardian's the worry, I can get the paperwork done so it's all above board. One of those pods is yours, and when the second one's up I'll pay you for it. It stays quiet until the clearance comes through." He said it fast, like a man reading out the odds on a bet he'd already placed.
 
