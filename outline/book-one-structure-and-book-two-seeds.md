@@ -27,7 +27,7 @@
 
 ## Conflicts with older outline files (not resolved, nothing silently overwritten)
 
-- `outline/act-two-haya-storm-rise.md`, `codex/pro-scene/tochi-representative-qualifier.md`, `codex/subplots/leon-arya-custody-battle.md` and `codex/characters/arya.md` have Arya's Tochi scholarship come from Haya Storm winning Tochi's representative slot in Act Two, with the custody fight reopening then. The new reasons (recommendation, guild sponsorship, Leon's condition) and the Book Two placement need merging with that. Act Two is treated as Book Two material until the author says otherwise.
+- `outline/act-two-haya-storm-rise.md`, `codex/pro-scene/tochi-representative-qualifier.md`, `codex/subplots/leon-arya-custody-battle.md` and `codex/characters/arya.md` have Arya's Tochi scholarship come from Haya Storm winning Tochi's representative slot in Act Two, with the custody fight reopening then. The new reasons (recommendation, guild sponsorship, Tatsuya's stipulation) and the Book Two placement need merging with that. Act Two is treated as Book Two material until the author says otherwise.
 
 
 ## Update: answers to the open questions (author-stated, latest)
