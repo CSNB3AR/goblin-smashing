@@ -690,3 +690,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, Tatsuya's answer to Leon (author-stated, latest): he knew that part would come and agrees; he does not say "same page". He feels it land and responds: "You're right. I should've come to you before I touched anything."
 
 - Chapter Seven, continuity in the reveal (author-stated, latest): Leon has just said he knows bits and pieces of HGO through his sister, so Tatsuya no longer says he is not sure how much Leon has followed. He now says: "You said you picked up bits and pieces from your sister's run. So if I told you I ran across a World Quest..."
+
+- Chapter Seven, Leon's reaction to the World Quest simplified (author-stated, latest): he goes silent, wakes the tablet, checks the trending page and reads the name as verification, then, impressed for the first time all night: "Well, goddamn. Nykri. That makes sense why you'd gamble on all of this." Replaces the longer "Right. That explains why you walked in here..." speech. The author's message was cut off after "but".

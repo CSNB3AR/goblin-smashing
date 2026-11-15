@@ -172,9 +172,9 @@ Leon took another drag. "More than you say." The smoke hung between us a second.
 
 I looked at the lamp, buzzing faintly, and then back at him. "You said you picked up bits and pieces from your sister's run." I let it hang. "So if I told you I ran across a World Quest..."
 
-Leon didn't say anything. The silence ran long enough for the lamp to buzz twice. He looked at the street window instead of me and tapped ash into a saucer by the register.
+Leon didn't say anything. The silence ran long enough for the lamp to buzz twice. Then he woke the tablet, thumbed to the trending page, and read the name off the screen like he needed to see it written down.
 
-"Well, goddamn." He let the smoke out slowly. "The one that's trending." He said it flat, trying the name out. "Nykri." I nodded once. "Right. That explains why you walked in here and told me everything and risked all of it. A World Quest in your back pocket explains enough."
+"Well, goddamn." He let the smoke out slowly and looked up at me, and for the first time all night he looked impressed. "Nykri. That makes sense why you'd gamble on all of this."
 
 "I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw something out of it. And there's money in recording what you do. That's content nobody will ever be able to repeat, and if it's recorded, it lasts forever."
 
