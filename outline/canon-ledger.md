@@ -700,3 +700,5 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Seven, restored (author-stated, latest): Leon's original wording is kept: "My sister Arya ran a guild and got it into the top eight last season, so I know bits and pieces of how this works from trying it with her. Some guild drama got in the way, and I had to pull back unless it affected the business." The expanded version about people leaving and "she didn't take it badly" was removed.
 
 - Chapter Seven, one phrase changed (author-stated): "I had to pull back, or it would have affected the business." (was "...unless it affected the business"). Nothing else in that speech changed.
+
+- Chapter Seven, Leon's money reasoning (author-stated, latest): he explains it is money even if the quest gives no drops, and gives recording a deeper meaning without using the word content: "I know most of the top guilds that ever got a World Quest saw money out of it, even the ones that never saw a single drop. People pay to watch something that can't happen twice. Record it, and it lasts forever."
