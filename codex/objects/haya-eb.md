@@ -10,3 +10,8 @@ A beat-up, fully electric moped/scooter (the only fully electric vehicle Daichi'
 - **The Haya EB (author-stated).** It is black, clean, high tech and the one thing Tatsuya keeps in shape. A touchscreen locked to the owner's fingerprint (any owner can register a print), which is why it takes a moment to load: it senses the rider. The helmet is a smart visor that shows routes, like smart glasses, because Daichi was super techy. About twenty were sold before the accident got it pulled. It is his only transport to work and everywhere; WattsUp charges it free, one less expense. Daichi had three major products (the VR pod, the sedan, the EB) and a fourth, partnered project that Tatsuya does not know about. Ohema is in a coma.
 
 **Electrical design (author-stated).** Fully electric traction pack plus a small 12-volt auxiliary system that runs the dash, fingerprint lock and controller, so it can be jump-started like a car (Dad built every Haya product this way, the hybrid Sedan included). A traction pack cannot be jumped; the 12-volt can. The manual notes the aux cell sags under load.
+
+
+## Phone link on the visor (author-stated, latest)
+
+The smart visor pairs with the rider's phone like Bluetooth. The phone docks in a module under the dash, where it also charges, and anything on the phone can be shown on the visor in a safe way, so at stops the rider can pull up the radio, texts and small things without taking the phone out. Daichi was techy. Page wording stays plain: the visor, the module under the dash; no "smart glass" and no brand comparison.

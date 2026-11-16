@@ -1,6 +1,6 @@
 # Chapter Eight: VRSA Inspection
 
-One word was enough to make Chiyo text me twice before I'd made it three blocks. My phone buzzed in my jacket pocket, her name lighting the screen both times, and I let it ride. The trip back to the Nakamura Grand ran itself the way the ride to the hospital had, muscle memory carrying me through turns I didn't register making, the streetlights sliding past the visor.
+One word was enough to make Chiyo text me twice before I'd made it three blocks. My phone sat docked in the module under the dash, and the visor put her name in the corner of my vision both times, and I let it ride. The trip back to the Nakamura Grand ran itself the way the ride to the hospital had, muscle memory carrying me through turns I didn't register making, the streetlights sliding past the visor.
 
 *"Not tonight. I'll deal with it when I'm not this pissed off."*
 
@@ -106,7 +106,7 @@ I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phon
 
 I grabbed Dad's manual off the desk, shoved it into my bag with my laptop, and headed for the door.
 
-The ride gave me room to breathe, the Haya EB humming steady under me, the route line steady across the visor, the city still waking up around the edges. I pulled my phone at a red light, Loop already open on habit.
+The ride gave me room to breathe, the Haya EB humming steady under me, the route line steady across the visor, the city still waking up around the edges. I docked my phone in the module under the dash and it linked to the visor before I cleared the block. At a red light I pulled up Loop on the visor, the way I always did at stops.
 
 **[@Dosuke_AI: Has anyone else noticed that the rally outside Lunarest never popped this morning?]**
 
@@ -114,7 +114,7 @@ The ride gave me room to breathe, the Haya EB humming steady under me, the route
 
 **[@Xx_Wraithborn_xX: No doesn't look like they spawned yet]**
 
-Dosuke noticed first. Of course he did. I killed the screen before the light changed. *"That means I'm ahead for now."*
+Dosuke noticed first. Of course he did. I closed the feed before the light changed. *"That means I'm ahead for now."*
 
 The rest of the ride I kept coming back to Leon. I still didn't know what this partnership really was. If it came down to streaming, like he'd hinted, we were on the same page, but I wondered how much he wanted to take, because that would decide how long I stayed at Sakura. I had to hope it was a good deal. I didn't have another option.
 
