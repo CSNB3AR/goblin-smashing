@@ -112,7 +112,7 @@ The rest of the ride I kept coming back to Leon. I still didn't know what this p
 
 • • •
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. The front room was still the old retro lounge, rows of desktops on dark desks, wheel-back wooden chairs, lantern lamps over the brick. Most places had gone straight to VR. Leon still kept a few desktop rows for the regulars.
+Sakura Arcade had a different energy in the morning, the lights on and a few regulars already at the desktop rows. Most places had gone straight to VR, and those rows were what kept Leon's place retro.
 
 A woman was behind the counter, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, her eyes on the screen in front of her. I knew the hair before I knew the face. It was the same messy bun I'd walked past behind the hotel desk the night before. *"So the desk hire is Leon's sister, and she works here too."*
 
