@@ -94,7 +94,7 @@ Almost nothing came back official. The goblin entry was three sparse lines from 
 
 I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window. December 23rd.
 
-Already decided. *"I made it sound easy last night. Now I have to execute."* Getting into Tochi might be the easy part. *"I can pass their exams again, even though it's the toughest school there is. And with recommendations from Chiyo and Mom, I can get in, especially from Chiyo."* It wasn't something I wanted to do, but I had to. *"I don't have many options right now."*
+Already decided. *"I made it sound easy last night. Now I have to execute."* Getting into Tochi might be the easy part. *"I can pass their exams again, even though it's the toughest school in Tokyo to get into. And with recommendations from Chiyo and Mom, I can get in, especially from Chiyo."* It wasn't something I wanted to do, but I had to. *"I don't have many options right now."*
 
 The hard part was the classes. *"I have to get into the right ones to build a processor core off Dad's old schematics. That's going to be a challenge on its own."*
 
