@@ -18,10 +18,6 @@ The water came out hot enough to sting, and I stood under it longer than I neede
 
 I pressed my forehead against the tile, water running down my face, and made myself breathe through my nose once, slow, the way I did when there wasn't a clean answer waiting on the other side.
 
-I wouldn't even be this mad if I hadn't had to find out from two nurses who thought I was already gone. I let the water hit the back of my neck a second longer. *"Why didn't she just tell me? Did she actually think I couldn't handle it?"*
-
-The thought didn't make me less angry. It just made the anger sit somewhere different.
-
 I shut the water off, dried off fast, and pulled on a pair of sweats. On my way through the front room I scooped the phone off the kitchen counter and grabbed my bag from beside Taji's sandals without breaking stride. My feet took me down the hall to the last door, the room that used to be Dad's. Since the funeral I'd slept on the couch next to Taji and stayed out of here as much as I could. It was the only place in the apartment where nobody would ask me anything.
 
 I left the overhead off. The desk lamp was enough. The room still smelled the way it always had, dust and metal, and the two pale grooves the wheelchair had worn still ran along the floorboards from the desk to the door. The shelf above the desk sat empty. I took the manual out of the bag and set it on the desk under the lamp, its cracked spine catching the light, the letter still folded somewhere in the controller diagrams where I'd tucked it.
@@ -54,8 +50,6 @@ I didn't answer that one. It sat on the screen longer than I wanted, and I close
 
 Not much. But it was mine. The corner of my mouth lifted before I caught it.
 
-Whatever this turned into, it wasn't going toward the Tabuchis. Mom came first, but I had to somehow get them off me. I doubted paying them off would be that simple.
-
 I scrolled down out of habit, the way I always checked my own numbers, and the second account caught me before I could stop it. Still listed under Daichi Kazehaya, and somehow still mine to see. Nobody had ever bothered pulling me off it.
 
 **[KAZUHAYA TECH - Daichi Kazehaya]**
@@ -64,15 +58,13 @@ I scrolled down out of habit, the way I always checked my own numbers, and the s
 
 **[COLLECTIONS NOTICE: TABUCHI HOLDINGS]**
 
-I stared at my own balance first, then Dad's, then the name sitting under the collections notice, and Eren's face showed up uninvited, easy and entitled the way it always looked right before it said something meant to sting.
-
-They'd already taken enough. Now they wanted more on top of it. My jaw set. *"I'll be damned if I hand them a single thing Dad wasn't willing to give them himself."*
+I stared at my own balance first, then Dad's, then the name under the collections notice.
 
 *"Three million, and I'm still a minor. The only way that's sitting there is if I have something to do with Dad's business."* As far as I knew I didn't, but that could have changed when he died. *"Damn. So many questions I don't have answers to yet."*
 
-I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
+I set the phone down for real this time and lay back against the pillow.
 
-Right now it was Mom, and the rest could wait. I had enough on my plate. The family didn't need more pressure right now, least of all Chiyo. If everything played out right, I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running.
+The Christmas Day finish was big, but I couldn't build a plan on it. I didn't know what was waiting at the end, and nothing said I'd come out on top. What I could count on was my build, and how much of it I could use came down to how much money I made first. I needed a way to build something that paid whether I won or not, crafting maybe.
 
 The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV, running Season Zero highlights back to back, the Thornwatch siege and London's flag going up, and I left it on low for the noise. Along the bottom the headline crawl cut across the clips: **[WORLD QUEST ACTIVE: CALL OF THE BONES | ACTIVATED BY: NYKRI]**. Under it a gold timer ran the sale countdown: **47:26:39**. I watched my name scroll past twice. Tomorrow I'd be back in it.
 
@@ -84,7 +76,7 @@ Morning came with sunlight cutting through the blinds and the alarm still a few 
 
 I sat up, a loc falling loose across my face that I pushed back automatically. For once I wasn't behind on anything. *"Good. Research before Leon."*
 
-I took a quick shower to shake the last of the night off, then crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
+I crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
 
 *"Alright. Let's get to work."* I went through my routine, a fresh Urawa jersey off its hanger, black joggers, my Humu 1's off the floor, my hoop in.
 
