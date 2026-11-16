@@ -126,7 +126,7 @@ Dosuke noticed first. Of course he did. I killed the screen before the light cha
 
 • • •
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. The front room was still the old retro lounge, rows of desktops on dark desks, wheel-back wooden chairs, lantern lamps over the brick, a staircase climbing to the pavilion upstairs. Most places had gone straight to VR. Leon still kept a few desktop rows for the regulars.
+Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. The front room was still the old retro lounge, rows of desktops on dark desks, wheel-back wooden chairs, lantern lamps over the brick. Most places had gone straight to VR. Leon still kept a few desktop rows for the regulars.
 
 A woman was behind the counter, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, her eyes on the screen in front of her. I knew the hair before I knew the face. It was the same messy bun I'd walked past behind the hotel desk the night before. *"So the desk hire is Leon's sister, and she works here too."*
 
@@ -138,7 +138,7 @@ Her eyes came up, sharp and grey, and went over me once, top to bottom, and her 
 
 She said it politely enough, and her posture said she was still deciding about me. I didn't blame her. I nodded and went through to the back hallway.
 
-Leon was at the operator's desk in front of the two pods with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were bent over the desk computer and a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
+In the pod room the stairs up to the pavilion climbed the wall behind the two pods, and Leon was at the operator's desk in front of them with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were bent over the desk computer and a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
 
 "Morning," Leon said, straightening up slightly, one hand still resting on the desk. "Inspector's already here. Good timing."
 
