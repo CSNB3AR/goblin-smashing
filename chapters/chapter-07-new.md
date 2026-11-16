@@ -138,9 +138,13 @@ Leon peeled off a few minutes later, still carrying yesterday's tension in his s
 
 "Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Two years I've been sitting on those pods thinking they were scrap."
 
-We spent the next twenty minutes going through the parts list from Dad's manual, checking it against what Leon could source locally. The drive slot housing, the wiring harness and the cooling fan went on one side. The cores went on the other, since nobody sold them and the only place I knew to look was Tochi's labs.
+I looked at the nearest pod, the cable bundles running up its side and the blue glow in the seams. Dad's work, sitting here the whole time as somebody's dead weight. I laid my palm against the cool casing. "They're not scrap. They've been waiting on the right parts."
 
-"This batch I can't get here," Leon said, tapping the first line on the sheet. "Guy I know in Akihabara still has old stock that fits these, the slot housing, the harness and a fan, but I have to go pull it myself. Nobody ships this stuff anymore. I'll head out once the inspector's squared away."
+Leon huffed through his nose, close to a laugh, and pushed off the wall. "Then let's find out what the right parts are." He pulled a folded sheet from his back pocket, smoothed it flat on the desk, and slid it toward me, tapping the first line with a knuckle. "Start with what's in the manual. I'll tell you what I can get."
+
+I dug Dad's manual out of my bag, opened it to the pages I'd marked, and set it beside the sheet. Leon pulled his glasses down to read the small print, then pushed them back up again, and we started working down the list, me reading part numbers off the diagrams, him crossing off what he could get. It turned into twenty minutes of it, checking each line against what Leon could source locally. The drive slot housing, the wiring harness and the cooling fan went on one side. The cores went on the other, since nobody sold them and the only place I knew to look was Tochi's labs.
+
+"This batch I can't get here," Leon said, tapping a line near the bottom of the sheet. "Guy I know in Akihabara still has old stock that fits these, the slot housing, the harness and a fan, but I have to go pull it myself. Nobody ships this stuff anymore. I'll head out once the inspector's squared away."
 
 "I can put money toward the parts," I said. "You shouldn't be fronting all of it on something that's supposed to make you money."
 
