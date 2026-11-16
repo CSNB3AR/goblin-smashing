@@ -46,7 +46,7 @@ The author wants Tatsuya to have a decent, steady supply of things to farm and c
 
 ## The new materials, by source zone
 
-Thirty-two named materials. Tags in the last column of the "Used for" text: **gas**, **flare**, **trap**, **light armor**, **smith** (blacksmithing), **enchant**.
+Thirty-two named materials. The "Used for" column ends with build tags: gas, flare, trap, light armor, smith (blacksmithing), enchant.
 
 ### Zone A: Outskirts and Bloodhurst belt (Common, goblin-friendly)
 
@@ -82,7 +82,7 @@ The outer belt of the forest, where beasts run Class I to II and the zone is dan
 | **Hookvine Cord** | Fibrous cord with natural hooks along its length. | Harvested from a dead Grasping Vine-Beast, which also grows in overgrown ruins (`codex/creatures/class-1.md`). | Uncommon | 1,400 per coil | Snare and tripwire lines that cling once they touch. (trap) |
 | **Thornwood Boar Tusk** | A heavy, curved tusk. | Drops from the Thornwood Boar, the forest's cousin of the Sunmarch Ironback Boar (`codex/creatures/class-2.md`). | Uncommon | 1,800 per tusk | Trap spikes, blade edges, pommels. (trap, smith) |
 | **Marrowhound Rib** | A long, hollow, light rib bone. | Drops from the Marrow Hound (`codex/creatures/class-2.md`), found near old battlefields in the forest. | Uncommon | 1,000 per rib | Bonewire frames for light armor, wand shafts, flare launcher barrels. (light armor, flare, enchant) |
-| **Sporecap Dust** | A fine, heavy powder from a large forest fungus. | Shaken from the caps of the big fungus clumps. A damp-ground node. | Uncommon | 1,600 per pouch | Mixed into gas. Makes a cloud thicker and keep to the ground longer. (gas) |
+| **Sporecap Dust** | A fine, heavy powder from a large forest fungus. | Shaken from the caps of the big fungus clumps. A damp-ground node. | Uncommon | 1,600 per pouch | Mixed into gas. Makes a cloud thicker and keeps it near the ground longer. (gas) |
 | **Emberpine Resin** | Dark resin from a pine that grows only deeper in the forest. It burns hot and slow. | Tapped from the trunks. A competitive node, because guilds want it too. | Rare | 3,800 per lump | The fuel in the best flares and fire bombs. Burns long enough to light a gas cloud at range. (flare, gas) |
 
 ### Zone D: Deep Thornwatch (Rare to Legendary, mythical beasts)
@@ -115,9 +115,7 @@ The northern rise of the forest toward Frostborn and Dwarven land, where a troll
 | **Hallmarked Steel Bar** | A steel bar refined by a dwarven house, stamped with its mark. | Not mined. Bought, traded for, or earned through standing with a dwarven house (`codex/lore/affiliation-and-reputation-system.md`). | Rare | 8,000 per bar | High-end smithing stock. The reason a dwarf contact matters. (smith) |
 | **Fallstone Iron** | A heavy, dark iron that falls from the sky in lumps and lands on the high ground. | Found as a rare node after a storm over the high ground. Cannot be farmed on demand. | Legendary | 90,000 per lump | The Legendary smithing metal. Also holds the best weapon edge in Book One. (smith, enchant) |
 
-### Zone E, further note
-
-Rimeiron and mono steel (`codex/materials/overview.md`, `codex/materials/monocrystals-and-mono-steel.md`) are written as Valefrost materials. This file lets **thin Rimeiron seams** reach the Thornwatch high ground, since the author places the mountains close to Frostborn land. The proposal is thin seams only, with the real supply still in Valefrost. This is flagged in Open and conflicts.
+**Rimeiron note.** Rimeiron and mono steel (`codex/materials/overview.md`, `codex/materials/monocrystals-and-mono-steel.md`) are written as Valefrost materials. This file lets **thin Rimeiron seams** reach the Thornwatch high ground, since the author places the mountains close to Frostborn land. The proposal is thin seams only, with the real supply still in Valefrost. This is flagged in Open and conflicts.
 
 ## Quick index by build use
 
