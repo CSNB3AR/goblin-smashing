@@ -156,7 +156,7 @@ By the end Leon looked more settled than he had when I walked in.
 
 "Go for it."
 
-"He's not fixing anything." Leon rubbed the back of his neck. "What he's doing is deciding whether VRSA's willing to sign off on us. Think of it like a road closure. Doesn't matter how good the road actually looks, if the sign says closed, you don't drive on it, or you're the one eating the consequences, not the city."
+"He's not fixing anything." Leon rubbed the back of his neck. "VRSA's the safety authority for anything full-dive. If a business is putting paying people in a pod, they sign off first, because somebody under can't tell when something goes wrong. That's why they're here."
 
 "And the first pod? The one I already used?"
 
@@ -174,13 +174,11 @@ By the end Leon looked more settled than he had when I walked in.
 
 "Tell that to VRSA." The corner of Leon's mouth twitched, there and gone. "I'll sit the booth myself most days." He rubbed the back of his neck, eyes on the floor. "Some days it'll be my sister in the seat. I don't play, but Arya's been talking my ear off about HGO since before the beta. She can tell you things I can't, and a voice in your ear is worth a lot when you can't check your phone."
 
-I pushed a loc behind my ear and let that land.
-
-"That works for me," I said, and meant it. "You'll be the one watching, so you should know what's behind this. My mom's in a coma, and I need money fast. I think HGO gave me something that can get it."
+"I understand," I said, and meant it. "You'll be the one watching, so you should know what's behind this. My mom's in a coma, and I need money fast. I think HGO gave me something that can get it."
 
 Leon didn't say much after that, just nodded once, slow, and let the quiet stand for a few seconds before he cleared his throat and changed the topic.
 
-"While he finishes, paperwork." He took a short stack of papers from the drawer, keeping his voice low. "It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
+"While he finishes, let's get the paperwork done." He took a short stack of papers from the drawer, keeping his voice low. "It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
 
 "This isn't me signing my life over to you, is it?" I said.
 
