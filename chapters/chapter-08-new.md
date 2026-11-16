@@ -62,8 +62,6 @@ Ash and smoke poured in through the gap in the tent flap, moving slow and delibe
 
 The nameplate read gold.
 
-*"Gold tag. World-tier. This is it."*
-
 The kid behind me had gone completely still. The color around him had gone dull, washed thin and gray. A fine mist crawled low across the packed dirt outside that hadn't been there a second ago.
 
 Three notifications stacked on top of each other in rapid succession, each one flashing brighter red than the last.
@@ -102,15 +100,11 @@ The ash and smoke figure stepped closer, each movement smooth and deliberate, co
 
 I tried to push myself up again, my arm shaking with the effort, and managed to get one knee under me before the pressure doubled and shoved me back down, my cheek hitting dirt this time. The taste of earth and old smoke filled my mouth.
 
-*"This is world-tier content. I have to play this right."*
-
 "If you're gonna kill me just do it and stop fucking around," I said, forcing the words out even through the drag. My pulse hammered, real adrenaline spiking even though I knew this was VR.
 
 The figure stepped even closer, ash trailing behind him, and the temperature in the tent dropped noticeably. Cold seeped through the canvas walls, sharp enough that I felt it prickle across my skin.
 
-"Calm yourself," the voice said, quieter now, almost amused. "Calm yourself, Nykri. Or can I call you Nyk? Seems easier on my tongue. If I meant to kill you, you'd already be dead. This is just what standing near me costs, for now."
-
-*"He knows my username. And he just shortened it."* Forums said quest NPCs responded to keywords, but this felt different. Either way, world-tier meant gear, which meant money.
+"Calm yourself," the voice said, quieter now, almost amused. "If I was going to kill you, little one, I would have done so already. This is just what standing near me costs, for now."
 
 I reached to scratch my chin where my goatee should have been and found smooth goblin skin, my mind working faster now.
 
@@ -136,8 +130,6 @@ The Call of the Bones tag never left my HUD. I filed it away and stayed on my kn
 
 The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I dug my long fingers into the dirt to steady it.
 
-*"Okay. This has to be a quest hook."*
-
 "I loved a queen who wasn't mine to love. The king didn't take kindly to that once it came out, and his court's mages made sure I understood it. What they did to me for it, they didn't call it a curse. They called it a correction."
 
 He gestured, vague and dismissive, at his own ash and smoke form, the shape of him flickering slightly at the edges.
@@ -158,7 +150,7 @@ I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the s
 
 "There's more to it than that," Shiv said. "How I managed to hold the goblin clans together at all, that part you'll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn't. I leave what's left of my Warset to any goblin with an open mind enough to go looking for it."
 
-*"Warset. That's the gear chain. Multiple pieces. This isn't just one quest, this is a whole chain."* I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
+I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
 
 A new notification flashed at the edge of my vision, bright yellow bordered.
 
@@ -203,8 +195,6 @@ Shiv nodded once, slow and deliberate.
 Shiv turned his full attention back to me, raising one hand, and a necklace materialized in the air between us. Small bones threaded on a worn leather cord, each one carved with symbols I didn't recognize. It hung there, suspended, waiting.
 
 "This was mine," Shiv said, his voice dropping lower. "Piece of what I was, before and after the change. You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
-
-*"World-tier item. Bound, so I can't sell it. But if it's anything like yesterday's drops, everything that comes with it is worth more than the item."*
 
 My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
 
