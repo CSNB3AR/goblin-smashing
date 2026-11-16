@@ -1,4 +1,4 @@
-# Chapter Eight: The First Disciple
+# Chapter Nine: The First Disciple
 
 The void collapsed inward, light and sound folding together in that nauseating rush I still wasn't used to, and when the game world of Eryndal snapped back into focus, I was exactly where I'd left off.
 
@@ -13,6 +13,8 @@ The readout sat fixed at the top edge of my vision, clean white numbers I couldn
 *"Just like I left it. Ridiculously low. I need to start grinding or I won't last in any PvP setting."*
 
 The blue UI screen disappeared the second I thought about dismissing it, responsive in a way I hadn't gotten used to, reading my intent before I'd fully formed it.
+
+The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen, so take your time."
 
 The holding tent came back into focus around me slowly, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. My head was resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
 
@@ -88,7 +90,7 @@ The floor came up and hit me before I'd registered falling, my knees buckling ha
 
 I tried to speak and my mouth moved half a second late, the words coming out sluggish and wrong.
 
-*"Slowed times four. I can barely move. If this goes bad I'm locked out for three days, and I don't have three days to spare with Crownfall coming."*
+*"Slowed times four. I can barely move. If this goes bad I'm locked out for three days, and I don't have three days to spare with the end of the year coming."*
 
 My vision swam slightly at the edges, colors bleeding together, and I forced my eyes to settle on something real. The smell of smoke and old canvas, the rough texture of packed dirt under my palm.
 
@@ -120,15 +122,13 @@ The figure stepped even closer, ash trailing behind him, and the temperature in 
 
 I reached to scratch my chin where my goatee should have been and found smooth goblin skin, my mind working faster now.
 
-*"Sixteen thousand yen yesterday off two elixirs. If this quest chain pays the same way, I'm in."* I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
+*"Sixteen thousand eight hundred yen yesterday off two elixirs. If this quest chain pays the same way, I'm in."* I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
 
 A small notification ticked in the corner of my vision, easy to miss against everything else.
 
 **[VIEWERS: 3 → 11]**
 
-Then, a breath later, **[VIEWERS: 11 → 24]**.
-
-*"The stream's live. People are watching. I need to say something."*
+*"People are watching. I need to say something."*
 
 "Hey," I said out loud, quick, my voice still dragging slightly through the slow effect. "Thanks for pulling up. Give me a minute, this is a lot."
 
@@ -172,31 +172,21 @@ A new notification flashed at the edge of my vision, bright yellow bordered.
 
 **[STREAM HOSTED BY HGO OFFICIAL CHANNEL]**
 
-**[VIEWERS: 24 → 316]**
-
-Then, half a second later, **[VIEWERS: 316 → 891]**.
+**[VIEWERS: 11 → 891]**
 
 Everything in me went still.
 
 *"Wait. HGO's main channel just hosted me."*
 
-The number kept climbing. **[VIEWERS: 891 → 1,247]**.
+The number kept climbing.
 
 *"I can't take this back. Whatever happens here, everyone's going to see it."* A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
-
-**[FOLLOWERS: 6 → 94]**
-
-*"People are actually following off this. Not just watching, following."*
 
 "Alright," I said, my voice steadier now even through the drag. "So why me? You've got a whole camp of goblins out there. Why pull me in here specifically?"
 
 Shiv's burning green eyes stayed locked on my face.
 
 "Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "I've done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That's not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds."
-
-**[VIEWERS: 1,247 → 1,803]**
-
-The chat window was moving too fast to read now, lines stacking on top of each other, questions I couldn't answer yet. The glow of it pressed at the edges of my eyes and I squinted, the letters smearing faster than I could track them.
 
 *"Guilds are probably watching. Everyone is."*
 
@@ -217,8 +207,6 @@ I turned back to Shiv, met those burning green eyes, and made the call.
 "Yeah," I said. "I'm down."
 
 Shiv nodded once, slow and deliberate.
-
-**[VIEWERS: 1,803 → 2,456]**
 
 Shiv turned his full attention back to me, raising one hand, and a necklace materialized in the air between us. Small bones threaded on a worn leather cord, each one carved with symbols I didn't recognize. It hung there, suspended, waiting.
 
@@ -280,7 +268,7 @@ Notifications came fast, stacking on top of each other in my vision.
 
 *"That's a great boost."* I already knew what I was attaching it to.
 
-**[VIEWERS: 2,456 → 3,982]**
+**[VIEWERS: 891 → 3,982]**
 
 I pulled the allocation screen open, my mind already running the build.
 
@@ -340,10 +328,6 @@ Ru looked down at his own hands, flexing them slow, testing the new size and wei
 
 Then he was gone, the ash collapsing inward and disappearing entirely, and the freeze holding the rest of the world broke all at once, sound and motion rushing back into the tent.
 
-**[VIEWERS: 3,982 → 5,127]**
-
-The chat window was a blur now, too fast to track.
-
 I looked down at myself, still dressed in the same torn prisoner rags.
 
 I stepped up to the entrance, close enough now that both guards could see me, and both of them went completely still.
@@ -366,17 +350,13 @@ The second guard took off at a run, his boots kicking up dust as he cut through 
 
 I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see more goblins drifting closer, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I felt every eye out there on my skin.
 
-**[VIEWERS: 5,127 → 6,804]**
+**[VIEWERS: 3,982 → 6,804]**
 
-**[FOLLOWERS: 94 → 580]**
+**[FOLLOWERS: 6 → 580]**
 
-A couple of names snapped into focus out of the scroll before I lost the thread of it entirely. One handle I half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. *"Taji?"* I didn't say it out loud, didn't want to know for sure badly enough to ask. My stomach turned over, and I pressed a hand flat against it.
+*"People are actually following off this. Not just watching, following."*
 
-The other name I didn't have to guess at.
-
-Arya.
-
-My thoughts raced for the two minutes it took before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
+It took a couple of minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
 
 "You've been," Sevish started, and didn't finish the sentence right away. "When. How long has this."
 
@@ -406,7 +386,7 @@ We'd barely taken three steps toward the war tent when Leon's voice crackled thr
 
 "Hey, sorry to jump back in," Leon said, "but I'm gonna need to step away for a bit." A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
 
-"Feed's still recording the whole time, for what it's worth," Leon added. "Been watching. Honestly it's been like a movie over here. Didn't want to break in on any of it, we agreed I'd keep things low-key while Arya's still around. Doesn't mean I'm not here, though. Anything you need, I'm still on the other end of this."
+"Feed's still recording the whole time, for what it's worth," Leon added. "Been watching. Honestly it's been like a movie over here. Didn't want to break in on any of it. Doesn't mean I'm not here, though. Anything you need, I'm still on the other end of this."
 
 Hearing him loosened something in my neck I hadn't known was tight.
 
@@ -432,4 +412,4 @@ I stopped and turned to face him square on.
 
 **[VIEWERS: 6,804 → 7,392]**
 
-**[END CHAPTER EIGHT]**
+**[END CHAPTER NINE]**
