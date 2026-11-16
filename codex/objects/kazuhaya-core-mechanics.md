@@ -319,3 +319,9 @@ Where the author's wishes differ from existing files, the author's wish is follo
 - Who is the instructor sponsor for the gated labs, and does the Nexus sponsorship of Tochi put Nexus equipment in the Interface Lab?
 - How much of the build is shown? A montage of stages with one test per stage, or each stage as a chapter beat? The lecture risk is highest in Stage 3.
 - Does the Mk 2 ever get the safety supervisor tied to the external monitor (the operator's booth), or does it replace it for home use like the Nexus helmet's automated shutoff? That decides whether the Mk 2 ever sells.
+
+
+## Author decisions applied after this document was written (latest)
+
+- **The core's name is resolved:** it is simply the **Kazehaya core**, named for the family and company, as Chapters Three, Six and Seven already say. No separate name is needed, so "Hidan" and any working-name proposal above are dropped. The Kazehaya versus Kazuhaya spelling (surname versus the company name) is still an old open item.
+- **The 25-25 on Leon's half** is read as the author said it: Leon's cut is split 25 to cores and 25 to the arcade's needs (see `codex/subplots/leon-tatsuya-sponsorship-agreement.md`). Confirm if the "a quarter of Leon's half" reading was meant instead.
