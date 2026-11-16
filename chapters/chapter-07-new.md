@@ -126,11 +126,57 @@ I wouldn't have been surprised if she looked at me like that. It was the look sh
 
 Leon was at the operator's desk in front of the two pods with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were finishing a checklist on the desk computer. The setup had been cleaned up since last night, no tangle of cables left on the floor.
 
-"Morning," Leon said, straightening up slightly, one hand on the desk. "He's almost done. Good timing."
+"Morning," Leon said, straightening up slightly, one hand on the desk. "He's wrapping up. Good timing."
 
 "Take your time," I said, dropping my bag by the wall, the strap landing with a soft thud against the concrete.
 
-Leon came over, keeping his voice low, a short stack of papers in his hand. "While he finishes, paperwork. It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
+Leon peeled off a few minutes later, still carrying yesterday's tension in his shoulders, and came back to my side.
+
+"Inspector's confirming what I figured," Leon said, rubbing the back of his neck, his glasses slipping slightly down his nose before he pushed them back up. "Second pod's a real project, not a lost cause."
+
+"Good. I've got leads on parts from Dad's manual. Can pull more if we need specifics."
+
+"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Two years I've been sitting on those pods thinking they were scrap."
+
+We spent the next twenty minutes going through the parts list from Dad's manual, checking it against what Leon could source locally. The drive slot housing, the wiring harness and the cooling fan went on one side. The cores went on the other, since nobody sold them and the only place I knew to look was Tochi's labs.
+
+"This batch I can't get here," Leon said, tapping the first line on the sheet. "Guy I know in Akihabara still has old stock that fits these, the slot housing, the harness and a fan, but I have to go pull it myself. Nobody ships this stuff anymore. I'll head out once the inspector's squared away."
+
+"I can put money toward the parts," I said. "You shouldn't be fronting all of it on something that's supposed to make you money."
+
+"We'll figure that part out." I tapped a knuckle against the cool frame of the pod and went back down the list, my eyes starting to ache from the small print.
+
+By the end Leon looked more settled than he had when I walked in.
+
+"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with a working Kazehaya pod." He tapped the sheet once with a knuckle, which from Leon counted as celebrating. Then his face went careful. "Before you get in there, you should know what the inspector's doing back there. It affects you."
+
+"Go for it."
+
+"He's not fixing anything." Leon rubbed the back of his neck. "What he's doing is deciding whether VRSA's willing to sign off on us. Think of it like a road closure. Doesn't matter how good the road actually looks, if the sign says closed, you don't drive on it, or you're the one eating the consequences, not the city."
+
+"And the first pod? The one I already used?"
+
+"He's putting in the external monitor. Both pods need it before either one can run anything commercially, period, that's the law, not an arcade rule. The one I had is out of date, so he's replacing it. That's on me."
+
+"External monitor," I repeated slowly, turning the phrase over in my mouth, not liking the sound of it yet. "Means I need someone watching while I play."
+
+"That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, and your gameplay will be on the second monitor. Someone has to be seated there for every session, in case the operator has to eject whoever's playing. Which is you."
+
+*"Makes sense. So Leon sees every move I make in there from here on out."* That settled badly, and I looked at the dead second monitor instead, the lantern light sliding across its black glass.
+
+"Nexus helmets do it with an AI watcher instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. The pods don't have that, so it's got to be an actual body in the chair."
+
+"Strict, for a game."
+
+"Tell that to VRSA." The corner of Leon's mouth twitched, there and gone. "I'll sit the booth myself most days." He rubbed the back of his neck, eyes on the floor. "Some days it'll be my sister in the seat. I don't play, but Arya's been talking my ear off about HGO since before the beta. She can tell you things I can't, and a voice in your ear is worth a lot when you can't check your phone."
+
+I pushed a loc behind my ear and let that land.
+
+"That works for me," I said, and meant it. "You'll be the one watching, so you should know what's behind this. My mom's in a coma, and I need money fast. I think HGO gave me something that can get it."
+
+Leon didn't say much after that, just nodded once, slow, and let the quiet stand for a few seconds before he cleared his throat and changed the topic.
+
+"While he finishes, paperwork." He took a short stack of papers from the drawer, keeping his voice low. "It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
 
 "This isn't me signing my life over to you, is it?" I said.
 
@@ -148,17 +194,7 @@ Leon's pen stopped over the page. "You sure about fifty-fifty? I went eighty-twe
 
 "Most people don't ask for less." One of Leon's eyebrows moved a quarter inch. "I appreciate it." He crossed out the numbers, wrote in the new ones, and initialed the change, and I signed under it.
 
-"The external monitor's in," Leon said, filing the papers in the drawer. "Both pods need one before either can run anything commercially, period, that's the law, not an arcade rule. The old one was out of date, so he replaced it. That's on me."
-
-"Means I need someone watching while I play."
-
-"That's exactly what it means. Most days I'll be in the seat. Some days it'll be my sister. I don't play, but Arya's been talking my ear off about HGO since before the beta. She can tell you things I can't, and a voice in your ear is worth a lot when you can't check your phone."
-
-I pushed a loc behind my ear. "That works for me. You'll be the one watching, so you should know what's behind this. My mom's in a coma, and I need money fast. I think HGO gave me something that can get it."
-
-Leon nodded once, slow, and let the quiet stand for a few seconds.
-
-"One thing about my sister. She's going to push you about the second pod. Tell her not yet. I can't hand that to anyone until I've got my money's worth."
+"One thing about my sister," Leon said, filing the papers in the drawer. "She's going to push you about the second pod. Tell her not yet. I can't hand that to anyone until I've got my money's worth."
 
 "So two people know about the quest," I said.
 
