@@ -96,9 +96,9 @@ I pulled up the Tochi portal next. The entrance application was sitting exactly 
 
 Already decided. I scratched at my goatee and looked at it one more second. I needed Tochi more now than I had a week ago.
 
-I skimmed the race comparison page while I double-knotted my laces and caught something I'd glossed over before. Every other race had hard class locks sitting right there in print. Goblin's column was nearly empty. Low base stats, almost no restrictions.
+Tochi had the labs, and the core I meant to build wasn't going to come together on a laptop at a desk. It was going to be slow, hard work, and the pod wouldn't wait on me.
 
-Nobody had taken this seriously because the numbers scared them off on day one. This time the grin stayed, and I let it. And if the magic path opened up on top of it, which it looked like it actually would, that was a build nobody had mapped out yet, my own caster idea on a body nobody else would touch.
+I double-knotted my laces and thought about the other half of it. I still didn't know what this partnership with Leon really was. If it came down to streaming, like he'd hinted, we were on the same page, but I wondered how much he wanted to take. That would decide how long I stayed at Sakura. I had to hope it was a good deal, because I didn't have another option.
 
 I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phone in my pocket.
 
