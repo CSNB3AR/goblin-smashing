@@ -94,11 +94,11 @@ Almost nothing came back official. The goblin entry was three sparse lines from 
 
 I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window. December 23rd.
 
-Already decided. I'd made it sound easy last night, and now I had to execute. Getting into Tochi might be the easy part. I trusted myself to pass their exams again, even though it was the toughest school to get into, and with Chiyo's help and Mom's name still carrying weight there, I could get in on recommendation. That wasn't how I wanted to do it. I'd rather get in on my own, but I didn't have many options, not with everything else going on.
+Already decided. *"I made it sound easy last night. Now I have to execute."* Getting into Tochi might be the easy part. *"I can pass their exams again, even though it's the toughest school there is. And with Chiyo pushing the whole Tochi thing, I'm pretty sure I can get in on recommendation. Her name's on the alumni list, and so are Mom's and Dad's. Dad helped fund the place for years, before the new money came in."* It wasn't how I wanted to do it. *"I'd rather get in on my own, but I don't have many options right now."*
 
-The hard part was getting into the right classes to build a processor core off Dad's old schematics. That was going to be a challenge on its own.
+The hard part was the classes. *"I have to get into the right ones to build a processor core off Dad's old schematics. That's going to be a challenge on its own."*
 
-I scratched at my goatee. The debt was the other thing. With a fresh head this morning, if it was still in my name, maybe I could clear it and bring Dad's name back. The Tabuchis were sitting on top of all of it, maybe the reason Dad was gone, the reason Chiyo couldn't even cover Mom's bills, and the anger came up again at the thought of them. Eren would be on campus too. I'd have to keep my cool and not let him bait me into anything, especially now that I was in HGO.
+I scratched at my goatee. *"The debt's the other thing. If it's still in my name, maybe I can clear it and bring Dad's name back. The Tabuchis are sitting on top of all of it. Maybe they're the reason Dad's gone, and they're the reason Chiyo can't even cover Mom's bills. I can't go after them on a feeling. I need proof, and I need money first."* The anger came up again, and I let it. *"And Eren will be on campus. I keep my cool. I don't let him bait me into anything, especially now that I'm in HGO."*
 
 I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phone in my pocket.
 
