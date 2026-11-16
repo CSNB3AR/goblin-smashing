@@ -43,3 +43,7 @@ See `codex/locations/reference/war-tent-interior.jpg` and `codex/locations/refer
 - **Why they never evolve.** A goblin becomes a hobgoblin only by leveling steadily through combat without dying. Sevish never sends the recruits out to fight, and the zone they spawn in has no high-level monsters, so they do not level. Most goblins never live long enough to rise. Sevish and Wyx do not know the mechanics; this is the game's reason, not theirs.
 - **Count.** Only **two hobgoblins** are in the camp (Sevish and Wyx). Potentially a **third** when Tatsuya becomes a Shiv Goblin, a **fourth** with Ru. That belongs to the Shiv storyline and is not on the page yet.
 - **Tone.** Wyx says it without disgracing the goblins; Tatsuya's "maybe I thought less of goblins" is only a thought, because he is a goblin now.
+
+## Name on the page (author-stated, latest)
+
+"Bloodhurst" has not appeared in any chapter text and Tatsuya does not know the name. On the page the camp is "the Thrash clan camp" in the Lunarest outskirts, and UI location tags read `[CURRENT LOCATION: THRASH CLAN CAMP]`. Keep "Bloodhurst" for codex use until the page gives it to him.

@@ -4,15 +4,7 @@ The void collapsed inward, light and sound folding together in that nauseating r
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
-**[CURRENT LOCATION: BLOODHURST, THRASH CLAN WAR CAMP]**
-
-**[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
-
-The readout sat fixed at the top edge of my vision, clean white numbers I couldn't blink away.
-
-*"Just like I left it. Ridiculously low. I need to start grinding or I won't last in any PvP setting."*
-
-The blue UI screen disappeared the second I thought about dismissing it, responsive in a way I hadn't gotten used to, reading my intent before I'd fully formed it.
+**[CURRENT LOCATION: THRASH CLAN CAMP]**
 
 The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen, so take your time."
 
