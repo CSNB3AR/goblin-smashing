@@ -64,7 +64,7 @@ I stared at my own balance first, then Dad's, then the name under the collection
 
 I set the phone down for real this time and lay back against the pillow.
 
-The Christmas Day finish was big, but I couldn't build a plan on it. I didn't know what was waiting at the end, and nothing said I'd come out on top. What I could count on was my build, and how much of it I could use came down to how much money I made first. I needed a way to build something that paid whether I won or not, crafting maybe.
+The update at the end of the year was going to be huge, and Kazuku had said there was an event in it worth millions. There weren't many weeks left, and I didn't know what it would be, so I couldn't build a plan on it. What I could count on was my build, and how much of it I could use came down to how much money I made first. Before the new kingdoms opened I had to be ready for whatever Kazuku had coming, and I needed a way to build something that paid whether I won or not, crafting maybe.
 
 The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV, running Season Zero highlights back to back, the Thornwatch siege and London's flag going up, and I left it on low for the noise. Along the bottom the headline crawl cut across the clips: **[WORLD QUEST ACTIVE: CALL OF THE BONES | ACTIVATED BY: NYKRI]**. Under it a gold timer ran the sale countdown: **47:26:39**. I watched my name scroll past twice. Tomorrow I'd be back in it.
 
