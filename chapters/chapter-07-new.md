@@ -174,9 +174,9 @@ By the end Leon looked more settled than he had when I walked in.
 
 "Tell that to VRSA." The corner of Leon's mouth twitched, there and gone. "I'll sit the booth myself most days." He rubbed the back of his neck, eyes on the floor. "Some days it'll be my sister in the seat. I don't play, but Arya's been talking my ear off about HGO since before the beta. She can tell you things I can't, and a voice in your ear is worth a lot when you can't check your phone."
 
-"I understand," I said, and meant it. "You'll be the one watching, so you should know what's behind this. My mom's in a coma, and I need money fast. I think HGO gave me something that can get it."
+"I understand," I said, and meant it. "Just know I'm serious. I have a lot on the line."
 
-Leon didn't say much after that, just nodded once, slow, and let the quiet stand for a few seconds before he cleared his throat and changed the topic.
+Leon looked at me a moment, one finger at the bridge of his nose. "Anyone crazy enough to touch my pod has to have something on the line. I respect it." He cleared his throat, and that was that.
 
 "While he finishes, let's get the paperwork done." He took a short stack of papers from the drawer, keeping his voice low. "It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
 
