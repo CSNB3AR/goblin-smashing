@@ -122,7 +122,7 @@ She didn't look up until I reached the counter. "Morning. Can I help you?"
 
 Her eyes came up, sharp and grey, and went over me once, top to bottom. "You're his client." It wasn't a question. "He's already in the VR room. Up the stairs."
 
-I wouldn't have been surprised if she looked at me like that. It was the look she'd give a stranger, or her brother doing bad business with one. I didn't take it too seriously, gave her a nod, and headed for the stairs, bending my knees as I came around the spiral staircase up to the pod room.
+She said it politely enough, then gave me a smirk that stopped at the corner of her mouth, like someone who didn't deal with many people and wasn't about to start. *"Okay."* I gave her a nod and headed for the stairs, bending my knees as I came around the spiral staircase up to the pod room.
 
 Leon was at the operator's desk in front of the two pods with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were finishing a checklist on the desk computer. The setup had been cleaned up since last night, no tangle of cables left on the floor.
 
@@ -166,7 +166,7 @@ By the end Leon looked more settled than he had when I walked in.
 
 "That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, and your gameplay will be on the second monitor. Someone has to be seated there for every session, in case the operator has to eject whoever's playing. Which is you."
 
-*"Makes sense. So Leon sees every move I make in there from here on out."* That settled badly, and I looked at the dead second monitor instead, the lantern light sliding across its black glass.
+*"Makes sense. So Leon sees every move I make in there from here on out."* That didn't bother me as long as it was Leon. Arya in the seat was another matter, since I hadn't said a word to her, and I looked at the dead second monitor instead, the lantern light sliding across its black glass.
 
 "Nexus helmets do it with an AI watcher instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. The pods don't have that, so it's got to be an actual body in the chair."
 
