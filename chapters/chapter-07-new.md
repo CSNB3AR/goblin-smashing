@@ -134,11 +134,11 @@ She didn't look up until I reached the counter. "Morning. Can I help you?"
 
 "I'm here for Leon. He's expecting me."
 
-Her eyes came up, sharp and grey, and went over me once, top to bottom, and her shoulders squared a little. "You're his client." It wasn't a question. "He's already in the VR room. Straight back."
+Her eyes came up, sharp and grey, and went over me once, top to bottom, and her shoulders squared a little. "You're his client." It wasn't a question. "He's already in the VR room. Up the stairs."
 
-She said it politely enough, and her posture said she was still deciding about me. I didn't blame her. I nodded and went through to the back hallway.
+She said it politely enough, and her posture said she was still deciding about me. I didn't blame her. I nodded and took the staircase up to the pod room.
 
-In the pod room the stairs up to the pavilion climbed the wall behind the two pods, and Leon was at the operator's desk in front of them with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were bent over the desk computer and a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
+Leon was at the operator's desk in front of the two pods with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were bent over the desk computer and a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
 
 "Morning," Leon said, straightening up slightly, one hand still resting on the desk. "Inspector's already here. Good timing."
 
