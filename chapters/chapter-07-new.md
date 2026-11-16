@@ -72,7 +72,7 @@ The fatigue was shifting in now, the good kind. My eyes closed on a low hum of e
 
 • • •
 
-Morning came with sunlight cutting through the blinds and the alarm still a few minutes off. I checked my phone. 7:31 AM. December 12th.
+Morning came with sunlight cutting through the blinds and the alarm still a few minutes off. I checked my phone. 7:31 AM. December 12th. Another text from Chiyo sat on the lock screen, and I left it unopened.
 
 I sat up, a loc falling loose across my face that I pushed back automatically. For once I wasn't behind on anything. *"Good. Research before Leon."*
 
@@ -94,11 +94,11 @@ Almost nothing came back official. The goblin entry was three sparse lines from 
 
 I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window. December 23rd.
 
-Already decided. I scratched at my goatee and looked at it one more second. I needed Tochi more now than I had a week ago.
+Already decided. I'd made it sound easy last night, and now I had to execute. Getting into Tochi might be the easy part. I trusted myself to pass their exams again, even though it was the toughest school to get into, and with Chiyo's help and Mom's name still carrying weight there, I could get in on recommendation. That wasn't how I wanted to do it. I'd rather get in on my own, but I didn't have many options, not with everything else going on.
 
-Tochi had the labs, and the core I meant to build wasn't going to come together on a laptop at a desk. It was going to be slow, hard work, and the pod wouldn't wait on me.
+The hard part was getting into the right classes to build a processor core off Dad's old schematics. That was going to be a challenge on its own.
 
-I double-knotted my laces and thought about the other half of it. I still didn't know what this partnership with Leon really was. If it came down to streaming, like he'd hinted, we were on the same page, but I wondered how much he wanted to take. That would decide how long I stayed at Sakura. I had to hope it was a good deal, because I didn't have another option.
+I scratched at my goatee. The debt was the other thing. With a fresh head this morning, if it was still in my name, maybe I could clear it and bring Dad's name back. The Tabuchis were sitting on top of all of it, maybe the reason Dad was gone, the reason Chiyo couldn't even cover Mom's bills, and the anger came up again at the thought of them. Eren would be on campus too. I'd have to keep my cool and not let him bait me into anything, especially now that I was in HGO.
 
 I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phone in my pocket.
 
@@ -115,6 +115,8 @@ The ride gave me room to breathe, the Haya EB humming steady under me, the route
 **[@Xx_Wraithborn_xX: No doesn't look like they spawned yet]**
 
 Dosuke noticed first. Of course he did. I killed the screen before the light changed. *"That means I'm ahead for now."*
+
+The rest of the ride I kept coming back to Leon. I still didn't know what this partnership really was. If it came down to streaming, like he'd hinted, we were on the same page, but I wondered how much he wanted to take, because that would decide how long I stayed at Sakura. I had to hope it was a good deal. I didn't have another option.
 
 • • •
 
