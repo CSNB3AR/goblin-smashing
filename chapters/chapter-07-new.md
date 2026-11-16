@@ -92,11 +92,11 @@ The goblin wasn't the race I wanted. I'd wanted the Elf, the Spellforger build I
 
 Before I touched the laptop I wiped the dust off the shelf where the manual used to sit and squared the desk under the window. It was a room I could work in now, if I ever got the time.
 
-I grabbed the laptop off the counter on my way to the kitchen stool and started typing before I'd even sat down fully.
+I pulled the laptop out of my backpack, the toolbox still packed in beside it, set it on the desk, and started typing before I'd even sat down.
 
-**[Shiv | HGO lore]**
+**[Goblin race | Shiv | HGO lore]**
 
-Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. I scrolled through them twice and turned the brightness down against the dim kitchen, and gave up.
+Almost nothing came back official. The goblin entry was three sparse lines from the game's own codex, clan-based and mostly written off as feral. Shiv was two dead forum threads from launch week, both abandoned. I scrolled through them twice, turned the brightness down against the dim room, and gave up.
 
 *"Alright, fine. I'm learning this one the hard way."*
 
