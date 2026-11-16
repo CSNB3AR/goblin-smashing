@@ -230,13 +230,13 @@ I signed in on the desk computer and linked my account, the stream software pick
 
 "I'll keep an eye on it for you," Leon said. "If there's anything worth telling you, I'll chime in. Use me for information. If you've got questions or need something looked up, that's what I'm here for."
 
-"I like that." *"Someone in my ear as a coach would help a lot. Leon, or even Arya."*
+I gave him a nod. "I like that."
 
 I climbed into the pod, the padded interior cool against my back. Leon started the stream from his end, and a line flickered across the small HUD in my vision.
 
 **[STREAM STARTING IN 60 SECONDS – NYKRI]**
 
-The chat stayed dark, the way I'd asked. Nothing on the HUD but the countdown, and I couldn't tell if that was a relief or the opposite.
+No names blinked into the chat window yet. Just me and an empty feed, and I couldn't tell if that was a relief or the opposite.
 
 *"Alright. Let's get it started."*
 
