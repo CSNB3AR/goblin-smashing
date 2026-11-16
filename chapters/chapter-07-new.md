@@ -74,7 +74,7 @@ I set the phone down for real this time, lying back against the pillow, and let 
 
 Right now it was Mom, and the rest could wait. I had enough on my plate. The family didn't need more pressure right now, least of all Chiyo. If everything played out right, I got Mom better. The Christmas Day prize was the only number in this game big enough to matter, and the clock on it was already running.
 
-The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV. A rerun of the day's talk show was playing, two hosts at a desk going back over the finale, and I left it on low for the noise. Along the bottom a gold timer ran under the clips ticker, the sale countdown: **47:26:39**.
+The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV, running Season Zero highlights back to back, the Thornwatch siege and London's flag going up, and I left it on low for the noise. Along the bottom the headline crawl cut across the clips: **[WORLD QUEST ACTIVE: CALL OF THE BONES | ACTIVATED BY: NYKRI]**. Under it a gold timer ran the sale countdown: **47:26:39**. I watched my name scroll past twice. Tomorrow I'd be back in it.
 
 The fatigue was shifting in now, the good kind. My eyes closed on a low hum of excitement underneath the exhaustion.
 
@@ -86,9 +86,9 @@ I sat up, a loc falling loose across my face that I pushed back automatically. F
 
 I took a quick shower to shake the last of the night off, then crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
 
-*"Wild that I'm actually in HGO now."* I pulled a fresh Urawa jersey off its hanger, grabbed black joggers, my Humu 1's off the floor, and slid my hoop in.
+*"Alright. Let's get to work."* I went through my routine, a fresh Urawa jersey off its hanger, black joggers, my Humu 1's off the floor, my hoop in.
 
-Not the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the jersey straight.
+The goblin wasn't the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the jersey straight.
 
 Before I touched the laptop I wiped the dust off the shelf where the manual used to sit and squared the desk under the window. It was a room I could work in now, if I ever got the time.
 
