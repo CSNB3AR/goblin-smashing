@@ -24,3 +24,11 @@ In the chapter 9 negotiation scene: Arya is at the operations desk. The pendant 
 - **The second pod** is dead and cannot be fixed by Leon: second-gen runs off all-new parts, nobody touches third-gen hardware without a lawsuit, and first-gen parts stopped when Kazuhaya products were pulled.
 
 - **The operator's desk is over the pods (author-stated, latest; replaces "elevated on a short platform to one side").** The booth monitor and operator's desk sit on a podium above the pods, reached by stairs (Chapter Ten has Leon climbing to it). The front counter has no operator monitor; the desk monitors down the wall are the ordinary front-of-house stations.
+
+
+## Entrance lounge and the pod room (author's pictures, latest; supersedes the podium and "stairs down" details)
+
+- **Entrance (`codex/locations/reference/sakura-arcade-entrance.jpg`).** A retro lounge: rows of desktop towers on dark desks, wooden wheel-back chairs, brick, amber lantern lamps, steel trusses overhead, and a black staircase with wooden steps climbing to an upstairs pavilion with a café feel. Most places have gone straight to VR, with maybe two or three retro venues left, and the desktops are what make this one retro.
+- **Pod room (`codex/locations/reference/sakura-arcade.jpg`).** Separate from the lounge, through the back hallway: the two tall dark pods, and the operator's desk with its computer at floor level **right in front of the two pods**. Leon and the inspector work at that desk. This replaces the earlier "operator's desk on a podium reached by stairs"; the mezzanine and stairs are in the background. The pod room can be partitioned off later.
+- **Upstairs pavilion (author-stated, forward plot).** Later it becomes the space for the pro team. Once the arcade is popular and there is money, it gets a security guard.
+- **Chapter Three conflict, not changed:** it says a staircase at the far end "led down into rooms with no lights on", while the pictures show a stair going up. Chapter Ten file has Leon climbing to the operator's desk; with the desk at floor level that needs revising when that chapter is reached.

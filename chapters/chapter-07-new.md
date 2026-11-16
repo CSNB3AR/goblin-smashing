@@ -126,11 +126,21 @@ Dosuke noticed first. Of course he did. I killed the screen before the light cha
 
 • • •
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when I walked in, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, her scowl aimed at the screen in front of her. I knew the hair before I knew the face. It was the same messy bun I'd walked past behind the hotel desk the night before. *"So the desk hire is Leon's sister."* She didn't look up, and I crossed the floor to the back hallway without either of us saying a word.
+Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. The front room was still the old retro lounge, rows of desktops on dark desks, wheel-back wooden chairs, lantern lamps over the brick, a staircase climbing to the pavilion upstairs. Most places had gone straight to VR. Leon still kept a few desktop rows for the regulars.
 
-Leon was crouched near the second pod's access panel with a man in a branded VRSA polo, both of them bent over a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
+A woman was behind the counter, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, her eyes on the screen in front of her. I knew the hair before I knew the face. It was the same messy bun I'd walked past behind the hotel desk the night before. *"So the desk hire is Leon's sister, and she works here too."*
 
-"Morning," Leon said, straightening up slightly, one hand still resting on the pod's frame. "Inspector's already here. Good timing."
+She didn't look up until I reached the counter. "Morning. Can I help you?"
+
+"I'm here for Leon. He's expecting me."
+
+Her eyes came up, sharp and grey, and went over me once, top to bottom, and her shoulders squared a little. "You're his client." It wasn't a question. "He's already in the VR room. Straight back."
+
+She said it politely enough, and her posture said she was still deciding about me. I didn't blame her. I nodded and went through to the back hallway.
+
+Leon was at the operator's desk in front of the two pods with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were bent over the desk computer and a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
+
+"Morning," Leon said, straightening up slightly, one hand still resting on the desk. "Inspector's already here. Good timing."
 
 "Take your time," I said, dropping my bag by the wall where it wouldn't be in the way, the strap landing with a soft thud against the concrete.
 
@@ -166,7 +176,7 @@ By the end Leon looked more settled than he had when I walked in.
 
 "That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, and your gameplay will be on the second monitor. Someone has to be seated there for every session, in case the operator has to eject whoever's playing. Which is you."
 
-*"Makes sense. So Leon sees every move I make in there from here on out."* That settled badly, and I looked at the dead second monitor instead, the fluorescent tubes overhead throwing a flat white glare across its black glass.
+*"Makes sense. So Leon sees every move I make in there from here on out."* That settled badly, and I looked at the dead second monitor instead, the lantern light sliding across its black glass.
 
 "Nexus helmets do it with an AI watcher instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. The pods don't have that, so it's got to be an actual body in the chair."
 
@@ -186,9 +196,9 @@ Leon didn't say much after that, just nodded once, slow, and let the quiet stand
 
 "Suit yourself," Leon said, tipping his head toward the front of the arcade.
 
-I took a stool near the front while the inspector worked. Arya never looked my way once, her eyes on her screen and her hands moving through the paperwork on the counter, and I was glad to leave it that way. I killed the rest of the wait scrolling my phone, nothing loading that mattered, just something to do with my hands until the inspector called it done.
+I took a stool near the front while the inspector worked. Arya kept to the counter and her paperwork and didn't look my way again, and I was glad to leave it that way. I killed the rest of the wait scrolling my phone, nothing loading that mattered, just something to do with my hands until the inspector called it done.
 
-By the time the inspector finished, the operator's booth had changed. A second monitor now sat on the operator's desk up on the podium, slim and modern compared to the older hardware around it, a soft green waveform glowing across its screen in steady pulses. Leon stood over it with the inspector, both of them running through something on a checklist, and Leon waved me over without looking up.
+By the time the inspector finished, the operator's booth had changed. A new monitor now sat on the operator's desk in front of the pods, slim and modern compared to the older hardware around it, a soft green waveform glowing across its screen in steady pulses. Leon stood over it with the inspector, both of them running through something on a checklist, and Leon waved me over without looking up.
 
 "He's signing off now," Leon said, straightening up with a small grunt, one hand on his lower back.
 
@@ -204,7 +214,7 @@ The inspector clicked something on his tablet, nodded once in that flat, procedu
 
 The inspector packed up his gear, tablet and tools disappearing into a branded case, and headed for the front without another word.
 
-Leon dropped into the chair at the operator's booth, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
+Leon dropped into the chair at the operator's desk, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
 
 "Alright," Leon said, glancing over the readouts once, then back to me. He took a short stack of papers from the drawer and slid it across the desk. "Paperwork. It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
 
@@ -212,7 +222,17 @@ Leon dropped into the chair at the operator's booth, the monitor already syncing
 
 "Nothing that serious." Leon ran one finger down the first page: the sponsorship split, his percentage, what the arcade was allowed to do and what I was allowed to do. "Read the fine print if you want. Most people should."
 
-"I trust you," I said. "Good to know I can read it, though." I went through every page before I signed, and when I slid it back, one of Leon's eyebrows had moved a quarter inch.
+"I trust you," I said. "Good to know I can read it, though." I went through every page. The split stopped me. "You wrote eighty-twenty."
+
+"Your way," Leon said. "You're the one carrying the quest."
+
+"Make it fifty-fifty, and we sit down again in six months."
+
+Leon's pen stopped over the page. "You sure about that?"
+
+"I put one of your pods at risk to get in here. I'd rather the money go into the cores and getting both of them running."
+
+"Most people don't ask for less." One of Leon's eyebrows moved a quarter inch. He crossed out the numbers, wrote in the new ones, and initialed the change, and I signed under it and slid it back.
 
 "Two more things," Leon said, filing it in the drawer. "My sister's going to push you about the second pod. Tell her not yet. I can't hand that to anyone until I've got my money's worth."
 

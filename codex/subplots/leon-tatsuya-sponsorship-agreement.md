@@ -28,3 +28,10 @@ Once money is coming in and the streams are going well, Leon asks to bring in **
 ## Cross-references
 
 `codex/characters/leon.md`, `codex/subplots/technical-arc-leon-and-sakura-arcade.md`, `outline/book-one-structure-and-book-two-seeds.md` (Tatsuya's later stipulation to Tochi about Sakura Arcade).
+
+
+## The split, as negotiated on the page in Chapter Eight (author-stated, latest; refines the money section above)
+
+Leon writes the paperwork **80-20 in Tatsuya's favor**, because Tatsuya carries the quest. Tatsuya asks for **50-50, with a renegotiation after six months**: he put one of Leon's pods at risk to get in, and he wants money going into the processor cores and getting both pods running. Leon's half then runs roughly 25 to the cores and 25 to whatever the arcade needs. Leon asks "You sure about that?", and says most people do not ask for less; it reads as trustworthy partners, not a typical businessman's move. Leon crosses out the numbers and initials the change, and Tatsuya signs under it.
+
+**Later:** the upstairs pavilion becomes the pro team's space, with a security guard once there is popularity and money to pay one. The logo stays off until Tatsuya is in a good position, ideally with his own pod, and the arcade can hire security or more staff or has better infrastructure.
