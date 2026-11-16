@@ -72,7 +72,7 @@ After Rebirth: ASHEN MARK for 24 hours. You cannot drink another.
 
 ### Why it is a "get out" potion
 
-The design is deliberate. The Veil cannot win a fight for the drinker: they cannot deal damage, so they cannot finish anything. It can only buy 30 seconds of safety. In those 30 seconds a player can run, be healed by allies, drink a healing consumable, reposition a party, or cross a dangerous stretch. A drinker with a Warden in the party can return from the Veil at far more than 5% HP. A drinker alone returns at close to 5% and has to leave. The 40% attack buff is the reason to drink it before a hard fight, and the Rebirth is the reason a top guild's front line carries one.
+The design is deliberate. The Veil cannot win a fight for the drinker: they cannot deal damage, so they cannot finish anything. It can only buy 30 seconds of safety. In those 30 seconds a player can run, be healed by allies, drink a healing consumable, reposition a party, or cross a dangerous stretch. A drinker with a Warden in the party can return from the Veil at far more than 5 HP. A drinker alone returns at 5 HP and has to leave. The 40% attack buff is the reason to drink it before a hard fight, and the Rebirth is the reason a top guild's front line carries one.
 
 ### Where it comes from
 
