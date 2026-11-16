@@ -240,6 +240,6 @@ No names blinked into the chat window yet. Just me and an empty feed, and I coul
 
 *"Alright. Let's get it started."*
 
-Nineteen now. Eighteen when I came back. The visor lowered, sealing me in, and the world outside went dark.
+The core sat at nineteen. The visor lowered, sealing me in, and the world outside went dark.
 
 **[END CHAPTER EIGHT]**
