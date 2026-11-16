@@ -15,3 +15,5 @@ A beat-up, fully electric moped/scooter (the only fully electric vehicle Daichi'
 ## Phone link on the visor (author-stated, latest)
 
 The smart visor pairs with the rider's phone like Bluetooth. The phone docks in a module under the dash, where it also charges, and anything on the phone can be shown on the visor in a safe way, so at stops the rider can pull up the radio, texts and small things without taking the phone out. Daichi was techy. Page wording stays plain: the visor, the module under the dash; no "smart glass" and no brand comparison.
+
+The route also shows on the visor in front of the rider's face (author-stated, latest).

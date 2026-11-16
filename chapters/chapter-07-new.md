@@ -106,7 +106,7 @@ I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phon
 
 I grabbed Dad's manual off the desk, shoved it into my bag with my laptop, and headed for the door.
 
-The ride gave me room to breathe, the Haya EB humming steady under me, the route line steady across the visor, the city still waking up around the edges. I docked my phone in the module under the dash and it linked to the visor before I cleared the block. At a red light I pulled up Loop on the visor, the way I always did at stops.
+The ride gave me room to breathe, the Haya EB humming steady under me, the route to Sakura drawn in front of my face on the visor, the city still waking up around the edges. I docked my phone in the module under the dash and it linked to the visor before I cleared the block. At a red light I pulled up Loop on the visor, the way I always did at stops.
 
 **[@Dosuke_AI: Has anyone else noticed that the rally outside Lunarest never popped this morning?]**
 
