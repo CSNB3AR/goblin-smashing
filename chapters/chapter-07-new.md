@@ -222,11 +222,21 @@ Leon dropped into the chair at the operator's desk, the computer already syncing
 
 "The inspector tied everything into this one computer. I'll read it from here, and I'll pull you out if I have to. We'll take breaks. This thing was never built for HGO, and it's not safe for you in there if it overheats."
 
-*"Right. Makes sense."* I climbed into the pod, the padded interior cool against my back. Leon started the stream from his end, and a line flickered across the small HUD in my vision.
+*"Right. Makes sense."*
+
+Leon slid the keyboard toward me. "I need your HGO account linked to this machine before I can start anything."
+
+I signed in on the desk computer and linked my account, the stream software picking up my name, then slid the keyboard back. "Can you turn the chat off? It's going to be a distraction on the next quest."
+
+"I'll keep an eye on it for you," Leon said. "If there's anything worth telling you, I'll chime in. Use me for information. If you've got questions or need something looked up, that's what I'm here for."
+
+"I like that." *"Someone in my ear as a coach would help a lot. Leon, or even Arya."*
+
+I climbed into the pod, the padded interior cool against my back. Leon started the stream from his end, and a line flickered across the small HUD in my vision.
 
 **[STREAM STARTING IN 60 SECONDS – NYKRI]**
 
-No names blinked into the chat window yet. Just me and an empty feed, and I couldn't tell if that was a relief or the opposite.
+The chat stayed dark, the way I'd asked. Nothing on the HUD but the countdown, and I couldn't tell if that was a relief or the opposite.
 
 *"Alright. Let's get it started."*
 
