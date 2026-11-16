@@ -36,7 +36,7 @@ The kid looked up the second my presence fully resolved, scrambling to his feet 
 
 *"Guess Sevish and the others threw him in here too."*
 
-"You woke up," the kid said, his voice pitched slightly too high, cracking on the last word.
+"Y-you woke up," the kid said, his voice pitched slightly too high, cracking on the last word.
 
 "Yeah," I said, testing my balance in the shorter goblin frame. "Head's kinda dizzy though."
 
@@ -288,7 +288,7 @@ One companion slot. And the kid was about to fill it.
 
 Shiv raised one hand toward the kid, and the freeze broke around him alone. The kid staggered forward half a step, blinking hard, his breath coming fast.
 
-"What," the kid started, his voice cracking.
+"W-what," the kid started, his voice cracking.
 
 "Your name," Shiv said, his tone gentle but firm. "I'll need it for this to take properly."
 

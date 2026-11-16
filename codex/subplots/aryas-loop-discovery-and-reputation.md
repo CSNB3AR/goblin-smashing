@@ -40,3 +40,7 @@ Chapter 8 opens still mid-ambush, continuing straight out of Chapter 7's cliffha
 
 - **Loop reaction to the announcement (author-stated, latest; supersedes "PK_Wraith put him on his list").** The buzz sits with the big hitters. World Quests were assumed to belong to London Spire (Season Zero finale winners) or other top guilds, with the end of the beta season in mind, so a random unguilded Nykri popping one is a shock. Dosuke_AI, Yuna_N9, PK_Wraith and Eren's guild (Kansai Black Lotus) are all on Loop asking who the quest holder is and where. Nobody targets him by name yet; PK_Wraith's "list" only starts once he is actively hunting the holder, later.
 - **His hustle (author-stated).** He takes the name as his best way to get eyes, since he knows others have made real money off this game, and he brings the hustle back: capitalise on everything, never rely on lucky drops each login, remember every gamble has a buy-in and a crit fail costs him (something breaks or blows up), and set himself up (loot profile, branding) ahead of the Crownfall-week stream.
+
+## Page state note, Chapter Nine (checked, latest)
+
+The "Arya's own handle flashes past in the flood of stream chat once HGO's official channel hosts the stream" beat is no longer on the page. Chat is off on Tatsuya's side in Chapter Nine (Leon reads it on his monitor), so Tatsuya cannot see her handle. Treat that irony beat as dropped unless the author restores it, for example by having Leon relay it.
