@@ -6,13 +6,15 @@ The void collapsed inward, light and sound folding together in that nauseating r
 
 **[CURRENT LOCATION: THRASH CLAN CAMP]**
 
-A red alert slammed across the middle of my vision before the location tags had finished fading.
+A red alert cut across my vision before the location tags had finished fading.
 
 **[ALERT: THRASH CLAN CAMP UNDER ATTACK]**
 
-*"Under attack. I've been gone for hours, and my avatar's been sitting in here the whole time."* My stomach dropped the way it had when I reached for the logout button. *"This is exactly what I was afraid of."*
+**[THRASH CLAN DEFENDERS: 15/20]**
 
-The sound caught up half a second behind it. Boots pounded past the canvas, someone barked orders I couldn't make out, and metal rang against metal on the far side of camp.
+**[ATTACK DURATION: 00:58:41]**
+
+*"I knew this was coming the second my name went public. At least I got on in time."*
 
 The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen."
 
@@ -52,7 +54,7 @@ The kid wasn't moving. Wasn't breathing. Just frozen.
 
 The air changed before I saw anything.
 
-A shift in pressure that had no sound attached to it, thick enough that I felt it press against my skin from every side. The boots, the shouting, the ringing metal, every noise outside the tent cut off at once, the whole camp going silent before my brain had caught up to why, and the hair stood up along my arms.
+A shift in pressure that had no sound attached to it, thick enough that I felt it press against my skin from every side. The boots and the shouting outside cut off at once, the whole camp going silent before my brain had caught up to why, and the hair stood up along my arms.
 
 A notification popped at the edge of my vision, red-bordered.
 
