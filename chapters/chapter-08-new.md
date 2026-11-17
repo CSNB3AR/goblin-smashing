@@ -16,29 +16,35 @@ A red alert cut across my vision before the location tags had finished fading.
 
 *"I knew this was coming the second my name went public. At least I got on in time."*
 
-The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen."
+The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen, so take your time."
 
-The holding tent firmed up around me, the same smoke-stained canvas, the single oil lamp on the center pole guttering every time a body ran past outside. My head was still resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
+The holding tent came back into focus around me slowly, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. My head was resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
 
-A notification blinked in under the red, soft green and easy to miss.
+A notification blinked into existence, soft green text.
 
 **[STATUS EFFECT: RESTED TRAVEL]**
 
 **[EFFECT: GRANTS USER 50% EXPERIENCE BUFF FOR ONE HOUR DUE TO SLEEPING IN A SAFE AREA]**
 
-*"Safe area. Sure."* I pushed up onto my elbows, the straw crackling louder under the shift in weight. The buff procced once a day for an hour, and I'd have to make sure I logged off somewhere I could actually get it again.
+*"So sleeping on a bedroll in a busted tent counts as safe for a goblin. That's almost insulting."* A short laugh came out of me, and I sat up slow, the straw crackling louder under the shift in weight. The buff procced once a day for an hour. I had to make sure that when I logged off I was somewhere I could actually get it.
 
-I took stock fast. I was still in the same torn prisoner rags, one shoulder split halfway down the seam, the fabric rough and scratchy against my green skin. The empty Goblin Gadget Belt sat at my waist, pouches hanging limp with nothing loaded yet.
+I scanned the tent, letting my eyes adjust to the dim lamplight. I was still wearing the same torn prisoner rags, one shoulder split halfway down the seam, the fabric rough and scratchy against my green skin. The empty Goblin Gadget Belt sat at my waist, pouches hanging limp with nothing loaded yet.
 
-The kid was at the tent flap, one eye pressed to the gap where the canvas met the pole, his ears turning toward every shout that went past.
+The kid was still here.
 
-*"Sevish stashed him in here. Two guards on the flap makes it the safest tent in camp."*
+The smaller goblin, the one I'd stepped in for yesterday, was sitting near the tent flap, knees pulled up to his chest, waiting.
 
-The kid swung around at the sound of the straw and scrambled away from the flap before either of us had said anything, his whole posture eager in a way that hit harder than I expected.
+The kid looked up the second my presence fully resolved, scrambling to his feet before either of us had said anything, his whole posture eager in a way that hit harder than I expected.
+
+*"Guess Sevish and the others threw him in here too."*
 
 "Y-you woke up," the kid said, his voice pitched slightly too high, cracking on the last word.
 
-I got to my feet fast, testing my balance in the shorter goblin frame, and crossed to him in three quick steps. "What's going on out there?" I said, keeping my voice low. "Who's hitting the camp?"
+"Yeah," I said, testing my balance in the shorter goblin frame. "Head's kinda dizzy though."
+
+I rubbed the back of my neck with one green hand, the motion automatic even though the proportions were wrong.
+
+"What's going on out there?" I said, my eyes redirecting over to the kid. "Who's hitting the camp?"
 
 "S-Sevish sent me over t-" the kid said, his eyes flicking toward the flap.
 
@@ -46,9 +52,7 @@ He froze on the half-word, mouth still open, mid-breath.
 
 Not like he'd stopped talking. Like someone had paused him mid-frame, his whole body locking in place, one hand still halfway raised toward me, his eyes still open but not seeing anything anymore.
 
-"Hey, are you okay?" I asked, leaning in to get a look at his face.
-
-Nothing. I waved a hand in front of his face, and his eyes didn't follow it.
+"Hey, are you okay?" I asked, pushing myself up off the bedroll, straw scattering as my weight shifted. I took a step toward the kid. "Hey. Are you okay?"
 
 The kid wasn't moving. Wasn't breathing. Just frozen.
 
@@ -72,7 +76,7 @@ The nameplate read gold.
 
 *"Shiv. The name from those two dead forum threads. That's all I've got on him."*
 
-The kid had gone completely still. The color around him had gone dull, washed thin and gray. A fine mist crawled low across the packed dirt outside that hadn't been there a second ago.
+The kid behind me had gone completely still. The color around him had gone dull, washed thin and gray. A fine mist crawled low across the packed dirt outside that hadn't been there a second ago.
 
 Three notifications stacked on top of each other in rapid succession, each one flashing brighter red than the last.
 
