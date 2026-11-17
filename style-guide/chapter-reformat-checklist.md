@@ -16,7 +16,7 @@ How to bring an old chapter (4 to 10) up to the format set by `chapters/chapter-
 - First person, past tense, inside Tatsuya's head. Narration never says he, his or Tatsuya about him (the checker flags these; ignore lines about other men).
 - Direct thoughts are `*"..."*`, quotes and italics. Reflection stays narration.
 - System text `**[...]**`. Lumi `***[...]***`. Dialogue in plain quotes, one speaker per paragraph.
-- No em dashes. The only exception is Lumi's cut-off `ch—` in bold-italic system text.
+- No em dashes, no en or spaced-hyphen dashes, no mid-sentence or narration ellipses. The only exception is Lumi's cut-off `ch—` in bold-italic system text.
 - Concrete detail over figures. Keep a figure only if it comes from his world and makes the scene clearer (see `concrete-detail-and-figurative-language.md`).
 - Cues follow `style-guide/cue-bank.md`: his signature thinking tell is scratching the thin goatee (once or twice a chapter), crutch cues (jaw, stomach, pulse, breath, shoulders, knee, hands flat) are capped at once per chapter and not repeated from the previous chapter, and builds were drawn on tablets, never graph paper.
 - Tatsuya is not a fan. No esports vocabulary, no meta talk, no outside knowledge he would not have.

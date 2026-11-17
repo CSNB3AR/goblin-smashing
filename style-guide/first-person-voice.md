@@ -31,7 +31,7 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 ## Never changes
 
 - The author's rough-draft phrasings, including deliberate roughness such as `the Loop icon buried on top of each other with some HGO Notifications floating`.
-- No em dashes. No floating quotes. One speaker per paragraph.
+- No em dashes, dash-style punctuation or mid-sentence ellipses (see `craft-rules.md`). No floating quotes. One speaker per paragraph.
 - Real-world pressure (Ohema, Chiyo, the twins, the Tabuchis) never turns off.
 - No metagaming: he cannot know anything he has not seen, and the first-person lock makes this automatic.
 

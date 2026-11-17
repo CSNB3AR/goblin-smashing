@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Audit a chapter file against the new chapter format.
 
-Usage: python3 tools/chapter_check.py chapters/chapter-04-new.md [--source chapters/chapter-03.md] [more files]\n--source prints the length change against the old chapter and warns on growth over 5 percent.
+Usage: python3 tools/chapter_check.py chapters/chapter-04-new.md [--source chapters/chapter-03.md] [--chunk] [more files]
+--source prints the length change against the old chapter and warns on growth over 5 percent.
+--chunk skips the title and END CHAPTER checks, for a pasted section or humanizer output.
 
 Reports, by line: rule breaks that are certain (em dashes, stale terms, narrator
 pronoun leaks) and lines worth a human look (figures, filter words, repeated
@@ -46,26 +48,42 @@ def strip_dialogue(line):
     return re.sub(r"[\"“][^\"”]*[\"”]", "", line)
 
 
+CHUNK = False
+
+
 def check(path):
     text = open(path, encoding="utf-8").read()
     lines = text.split("\n")
     words = len(re.findall(r"\w+", text))
     issues, looks, pron = [], [], []
+    ellipsis_trailing = []
     cue_hits = {c: [] for c in CUES}
 
     first = next((l for l in lines if l.strip()), "")
-    if not re.match(r"# Chapter \w+: .+", first):
+    if not CHUNK and not re.match(r"# Chapter \w+: .+", first):
         issues.append((1, f"title should read '# Chapter Three: Title', got: {first[:50]}"))
     tail = [l for l in lines if l.strip()][-1] if text.strip() else ""
-    if not re.fullmatch(r"\*\*\[END CHAPTER [A-Z ]+(, PART \w+)?\]\*\*", tail):
+    if not CHUNK and not re.fullmatch(r"\*\*\[END CHAPTER [A-Z ]+(, PART \w+)?\]\*\*", tail):
         issues.append((len(lines), f"last line should be **[END CHAPTER N]**, got: {tail[:50]}"))
 
     for n, line in enumerate(lines, 1):
         if not line.strip():
             continue
         plain = BOLD_TOKEN.sub("", line)
+        if re.fullmatch(r"\s*-{3,}\s*", line):
+            continue
         if "—" in plain or "–" in plain:
             issues.append((n, "em/en dash outside bold system text"))
+        nobold = re.sub(r"\*\*.+?\*\*", "", plain)
+        if re.search(r"(?<=\S)\s-\s(?=\S)|--", nobold):
+            issues.append((n, "spaced hyphen or double hyphen used as a dash"))
+        dots = list(re.finditer(r"…|\.{2,}", nobold))
+        if dots:
+            trailing = all(re.match(r"(…|\.{2,})[\"”*]", nobold[m.start():m.start() + 4]) for m in dots)
+            if trailing:
+                ellipsis_trailing.append(n)
+            else:
+                issues.append((n, "ellipsis (dots) in the middle of a sentence or in narration: rewrite"))
         for term in STALE:
             if re.search(r"\b" + re.escape(term) + r"\b", line, re.I if term.islower() else 0):
                 issues.append((n, f"stale or banned term: {term}"))
@@ -88,6 +106,11 @@ def check(path):
         for c in CUES:
             if c in low:
                 cue_hits[c].append(n)
+
+    if len(ellipsis_trailing) > 2:
+        issues.append((ellipsis_trailing[2], f"trailing-off ellipsis used {len(ellipsis_trailing)} times (cap is 2): lines {ellipsis_trailing}"))
+    elif ellipsis_trailing:
+        looks.append((ellipsis_trailing[0], f"trailing-off ellipsis in dialogue (lines {ellipsis_trailing}); fine if the speaker really trails off"))
 
     for c, ns in cue_hits.items():
         if len(ns) >= 3:
@@ -121,6 +144,9 @@ def compare(path, source):
 if __name__ == "__main__":
     args = sys.argv[1:]
     source = None
+    if "--chunk" in args:
+        CHUNK = True
+        args.remove("--chunk")
     if "--source" in args:
         i = args.index("--source")
         source = args[i + 1]
