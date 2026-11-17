@@ -36,7 +36,7 @@ The smaller goblin, the one I'd stepped in for yesterday, had come in through th
 
 The kid looked up the second my presence fully resolved and scrambled toward me before either of us had said anything, his whole posture eager in a way that hit harder than I expected.
 
-*"Wait. They kept him in the big tent with Sevish. What's he doing in here?"*
+*"I thought they kept him in the big tent. When I logged off, it was just me. They must have brought him here."*
 
 "Y-you woke up," the kid said, his voice pitched slightly too high, cracking on the last word.
 
@@ -55,6 +55,10 @@ Not like he'd stopped talking. Like someone had paused him mid-frame, his whole 
 "Hey, are you okay?" I asked, pushing myself up off the bedroll, straw scattering as my weight shifted. I took a step toward the kid. "Hey. Are you okay?"
 
 The kid wasn't moving. Wasn't breathing. Just frozen.
+
+"Leon, is something wrong with the game?" I said, my eyes still on the kid. "He just froze on me."
+
+Leon's voice came back through the booth channel, level and fast. "Nothing on our end. Feed's clean, no lag, no drops. Whatever that is, it's coming from inside the game."
 
 *"That can't be normal."*
 
