@@ -40,13 +40,15 @@ The kid swung around at the sound of the straw and scrambled away from the flap 
 
 I got to my feet fast, testing my balance in the shorter goblin frame, and crossed to him in three quick steps. "What's going on out there?" I said, keeping my voice low. "Who's hitting the camp?"
 
-"Bad ones," the kid said, his eyes flicking toward the flap. "Chief s-says we st-stay in. Stay qui-"
+"S-Sevish sent me over t-" the kid said, his eyes flicking toward the flap.
 
-He froze on the word, mouth still open, mid-breath.
+He froze on the half-word, mouth still open, mid-breath.
 
 Not like he'd stopped talking. Like someone had paused him mid-frame, his whole body locking in place, one hand still halfway raised toward me, his eyes still open but not seeing anything anymore.
 
-"Hey, you okay?" I asked, straw scattering as I took a step toward him, then stopped.
+"Hey, are you okay?" I asked, leaning in to get a look at his face.
+
+Nothing. I waved a hand in front of his face, and his eyes didn't follow it.
 
 The kid wasn't moving. Wasn't breathing. Just frozen.
 
