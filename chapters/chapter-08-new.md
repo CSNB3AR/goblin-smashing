@@ -26,7 +26,7 @@ A notification blinked into existence, soft green text.
 
 **[EFFECT: GRANTS USER 50% EXPERIENCE BUFF FOR ONE HOUR DUE TO SLEEPING IN A SAFE AREA]**
 
-*"So sleeping on a bedroll in a busted tent counts as safe for a goblin. That's almost insulting."* A short laugh came out of me, and I sat up slow, the straw crackling louder under the shift in weight. The buff procced once a day for an hour. I had to make sure that when I logged off I was somewhere I could actually get it.
+*"So sleeping on a bedroll in a busted tent counts as safe for a goblin. That's almost insulting."* A short laugh came out of me, and I sat up slow, the straw crackling louder under the shift in weight. The buff procced once a day for an hour.
 
 I scanned the tent, letting my eyes adjust to the dim lamplight. I was still wearing the same torn prisoner rags, one shoulder split halfway down the seam, the fabric rough and scratchy against my green skin. The empty Goblin Gadget Belt sat at my waist, pouches hanging limp with nothing loaded yet.
 
