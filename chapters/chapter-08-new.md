@@ -14,7 +14,7 @@ A red alert cut across my vision before the location tags had finished fading.
 
 **[ATTACK DURATION: 00:58:41]**
 
-*"I knew this was coming the second my name went public. At least I got on in time."*
+*"Who's attacking? Someone tracking the quest? I knew this was coming the second my name went public. At least I got on in time."*
 
 The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen, so take your time."
 
@@ -32,9 +32,9 @@ I scanned the tent, letting my eyes adjust to the dim lamplight. I was still wea
 
 The kid was in here.
 
-The smaller goblin, the one I'd stepped in for yesterday, was sitting near the tent flap, knees pulled up to his chest, waiting.
+The smaller goblin, the one I'd stepped in for yesterday, had come in through the flap in a patched leather vest and a dented cap a size too big, breathing hard like he'd run the whole way.
 
-The kid looked up the second my presence fully resolved, scrambling to his feet before either of us had said anything, his whole posture eager in a way that hit harder than I expected.
+The kid looked up the second my presence fully resolved and scrambled toward me before either of us had said anything, his whole posture eager in a way that hit harder than I expected.
 
 *"Wait. They kept him in the big tent with Sevish. What's he doing in here?"*
 
