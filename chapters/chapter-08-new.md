@@ -14,7 +14,7 @@ A red alert cut across my vision before the location tags had finished fading.
 
 **[ATTACK DURATION: 00:58:41]**
 
-I focused on the alert and it opened into a stripped-down panel, the defender count and the timer and nothing else. No guild tag, no names, no way to tell who was out there. My pulse thudded in my ears, and my fingers curled tight into the straw.
+I focused on the alert and it opened into the defender count and the timer, nothing else. My pulse thudded in my ears.
 
 *"Someone tracking the quest? I knew this was coming the second my name went public. At least I got on in time."*
 
