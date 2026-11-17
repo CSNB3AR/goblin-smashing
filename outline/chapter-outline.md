@@ -21,3 +21,7 @@ Both are written as sequential story beats, not chapter maps, since some beats w
 ## Older material
 
 Earlier planning documents (per-chapter beat sheets written before Chapters 1-9 were actually drafted, an old restructuring-rationale doc, and the original Chapter 1-11 beat plan) are archived in `outline/archive/`, kept for historical reference only. See `outline/archive/README.md` for what's there and why it's superseded.
+
+## Book structure (author-stated, latest)
+
+Book One is about 43 chapters and ends after the Crownfall event and the Hearthfire expansion launch, on a hook into Book Two. Arya's Tochi move, the family court dates, the Sedan upgrade and the Sakura Arcade upgrade are Book Two seeds. See `outline/book-one-structure-and-book-two-seeds.md`.

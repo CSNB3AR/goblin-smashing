@@ -15,3 +15,8 @@ Relevant to Leon's arc (see `codex/subplots/technical-arc-leon-and-sakura-arcade
 **Carve-out: the external monitor station itself is VRSA's own equipment, not pod hardware.** Since the Inspector is the one who installs and certifies it (see below), servicing or repairing the monitor station is within his role, distinct from the pods. **Constraint, established Chapter 7:** he won't work on it while a diver is actively connected and dependent on it, a live safety-monitoring device doesn't get taken down for service mid-dive, that's the actual reason a real fix has to wait until the pod's powered down and the diver's out, not a hardware-access limitation.
 
 **The clearance an Inspector grants at Sakura Arcade covers two separate things**, and they land at different times: (1) confirming the second, previously-dead pod is safe enough to bring into rotation at all, and (2) installing and certifying the external monitor station required before either pod can run anything online/multiplayer-capable (see `codex/lore/external-monitor-and-full-dive-safety.md`). A pod can be structurally sound and still not legally operable if the monitor isn't in place and certified.
+
+
+## What the inspector must not know (author-stated, latest)
+
+The inspector is never told Tatsuya is the one repairing the pods. He would not pass a commercial pod if he knew an unlicensed person had worked on it. He does not run the old pods, so he can say a core reads very low but cannot give an exact percentage. He is surprised the first pod runs at all and says the second one needs work.

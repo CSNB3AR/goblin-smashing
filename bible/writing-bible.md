@@ -39,7 +39,7 @@ The story must never drift from these three. Overcomplicating the premise (real-
 - Age 16 to 17. Ghanaian and Japanese (father Japanese, mother Ghanaian).
 - Dark brown skin, black hair in wild locs, scar over right brow from a childhood car accident.
 - 6'3" (about 190cm). Lean, tall build. **The height is from Ohema** (a former volleyball player, see her entry below), not Daichi, who was the shorter of his two parents. His technical aptitude and analytical mind trace to Daichi instead.
-- Username: **TDRAG**.
+- Username: **NYKRI**.
 - **Personality, two registers, not a contradiction:**
   - **Around Momo and Taji, and in most everyday moments:** calm, measured, quietly mature. Clear-eyed about hard truths instead of anxious around them. He decides fast and doesn't sit around regretting a call once he's made it.
   - **Inside HGO, once the world pulls him in:** deflecting, smartass, calculating, humor as armor. He does not start as a fan. He avoids the game because it reminds him of Eren, and what moves him is money, Dad's note and later the people and the world. When it actually matters he goes clutch and locked in, doesn't stop to monologue pain, deflects it and keeps moving.
@@ -163,7 +163,7 @@ WattsUp and the Nakamura Grand are both in Tokyo's Shibuya ward (Kanto region), 
 - Later in the story (see `bible/old-draft-chapter-bible.md` for the preserved beats), this respect eventually leads him to quit the team publicly over Eren's leadership and the stolen-build history. Any content reaching the reader from that arc needs to come through Tatsuya's own observation or secondhand knowledge, not a POV break.
 
 ### Leon
-- Owner of Sakura Arcade. Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
+- Owner of Sakura Arcade. Wavy brown hair tied back in a small knot, thin glasses, light stubble, an unlit cigarette behind his ear (updated from the old suit-jacket-and-soccer-jersey note).
 - Has TWO first-gen Kazuhaya Tech pods, the only ones still running in the area.
 - His business is struggling. Tatsuya's presence begins to change that (technical arc, see §9).
 

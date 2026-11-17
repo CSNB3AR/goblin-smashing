@@ -4,7 +4,7 @@
 
 ## Appearance
 
-Suit jacket over a ratty soccer jersey, glasses down his nose, cigarette stubs.
+Wavy brown hair (tied back in a small knot), thin glasses down his nose, light stubble, an unlit cigarette behind his ear, grease on his thumb (author's picture, `codex/characters/reference/leon.jpg`; replaces the old "suit jacket over a ratty soccer jersey").
 
 ## Facts
 
@@ -29,3 +29,32 @@ The rough, no-nonsense former guild analyst and reluctant coach. Claims he's don
 - **Reaction to Tatsuya's name (author-stated).** On learning Tatsuya is Daichi's son, Leon is shocked but not sycophantic: a beat of quiet, a shrug, good customer service, still himself and dry.
 - **Why he cannot fix the second pod (author-stated).** Second-gen runs off all-new parts, nobody touches third-gen hardware without a lawsuit, and first-gen parts stopped when Kazuhaya products were pulled. He does not know Nexus got Daichi's patents; **no one knows**, so do not state it publicly on the page, hidden canon only.
 - **He hot-fixes the building power (author-stated).** After the lights go out he goes to the counter to hot-fix the power. He never learns that Tatsuya hardwired the pod.
+
+## Voice and vibe for the page (author-stated, latest)
+
+- Reads as an old, cigarette-smoking gamer type: a gruff storekeeper in the mould of the old-school shopkeeper, mixed with a Shikamaru-style nonchalance. Deadpan, unbothered, lazy on the surface and sharp underneath; reacts small (a quarter-inch of eyebrow, the unlit cigarette taken from behind the ear and put back). The author's references are loose ("Vanguard the storekeeper"); treat as a feel guide, not a copy.
+- He knows a little about the game, which is why the World Quest matters to him.
+
+## Look (author's picture, `codex/characters/reference/leon.jpg`; applied to the page in Chapter Three)
+
+Wavy brown hair to about his collar (tied back in a small knot at the arcade), thin metal-framed glasses, light stubble and a short beard along the jaw, warm brown eyes, an easy half-smile, a dark navy button-up in the picture. A soft face that sits easily with the dry, deadpan manner. The unlit cigarette behind the ear and the grease on his thumb remain from Chapter Three.
+
+
+## Book Two: the condition, the arcade and his role (author-stated, latest)
+
+When Tochi sponsors the guild, the stipulation is **Tatsuya's**, not Leon's (corrected, author-stated): Sakura Arcade is the HQ, Tochi invests in equipment there, and Tochi takes Arya. Leon has aged out and could not go to Tochi himself, but her admission gives the team full access, which lets the two Sakura Arcade pods run fully. He stays the manager and the voice on the other side. Sakura Arcade is upgraded into a high-tech arcade and becomes the team's base, and that is how Tatsuya gives back. See `outline/book-one-structure-and-book-two-seeds.md`.
+
+
+## The live-stream idea (author-stated, latest)
+
+Leon, not Tatsuya, decides to try live streaming: he wants to see what works and what does not, and it gives him something to feed the VRSA inspector. He starts the stream from the booth. He also has the old external monitor replaced at his own cost and does not make a fuss, because he has money for the building and sees it as an investment. When the inspector flags the pod's low core he says there is nothing to do about it until Tatsuya starts working on it.
+
+
+## Paperwork, the booth and Arya (author-stated, latest)
+
+Leon sits the booth most days, and some days Arya takes the seat because she knows HGO far better than he does and can feed Tatsuya information he cannot get himself in a VR game. The paperwork is signed in Chapter Eight after the inspector finishes; it is built to look like Tatsuya is staff, nine to five, for cover. Leon will not let Arya use the second pod until he has his money's worth. He trusts her to keep the World Quest to herself while she works there, and tells Tatsuya plainly that her reputation in HGO is not great and she has had a rough run.
+
+
+## The agreement (author-stated, latest)
+
+An open, neutral 50-50 deal that either side can walk away from at any time, especially if it harms their brand. Leon asks only for media rights (tag the arcade; no ad spam) and holds off putting the logo out until the arcade is worth advertising and Tatsuya is safe. Full notes, the money split and the later second-line-pods conflict are in `codex/subplots/leon-tatsuya-sponsorship-agreement.md`.

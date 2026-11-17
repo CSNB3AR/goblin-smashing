@@ -15,7 +15,7 @@ I rolled one shoulder, testing the fit. All three items together carried real we
 
 The blue UI materialized without being called, expanding outward from a point in the tent's dim air. A 3D model of my character rendered fully in place, lit from the inside out, turning the canvas around me a dim electric blue. The title rendered gold where the rest of the display ran blue-white, set apart from everything else. I hadn't known it would do that.
 
-**[CHARACTER: TDRAG]**
+**[CHARACTER: NYKRI]**
 **[RACE: SHIV GOBLIN]**
 **[LEVEL: 7]**
 **[TITLE: THE FIRST DESCENDANT OF SHIV]**
@@ -50,7 +50,7 @@ I read off the lines one at a time, labels and numbers, and added nothing to the
 
 Keys on Leon's end, the sound of someone opening a new tab. "Physical AP." A pause, longer than the others, reading as he went. "Power and Speed combined, weighted toward Power." More keys. A longer pause. "I think. Hold on, let me double-check that." The keys went faster, then stopped. "Yeah. Power-weighted. Your twenty-two is low. Power at four is why. Not moving without a discipline point in it."
 
-I looked down at my hands, the claws small and dark against the blue light, and curled them into my palms.
+I looked down at my hands, the fingers small and dark against the blue light, and curled them into my palms.
 
 "Magic AP," I said.
 
@@ -84,7 +84,7 @@ Below the stats, on the same display, a second layer resolved into view: a full 
 
 I'd argued builds with Eren on our tablets for months like they were an abstraction. It had never once been my own hand.
 
-*"It's a deck. Four cards down, the rest still somewhere in the pile."* If I went in swinging, I was doing maybe six damage with my fists before something with actual armor put me down, or that was how I thought it worked, since I'd never punched anything in this game. My claw went to my chin to scratch the goatee that should have been there and found smooth green skin instead.
+*"It's a deck. Four cards down, the rest still somewhere in the pile."* If I went in swinging, I was doing maybe six damage with my fists before something with actual armor put me down, or that was how I thought it worked, since I'd never punched anything in this game. My fingers went to my chin to scratch the goatee that should have been there and found smooth green skin instead.
 
 I reached out and tapped the necklace itself. A small note unfolded beside it: World-tier, organized guild events such as Crownfall apply a scaling reduction for balance. I'd half-heard that somewhere before, some aside on the WattsUp screen. Yuna's voice, the same voice Momo played on repeat through the apartment walls, explaining how even the strongest items got brought down to earth once a guild fight was organized.
 
@@ -117,7 +117,7 @@ One of my pointed ears twitched at the rapid clatter of keys, a habit this body 
 The UI minimized, Leon's name staying visible in the corner of the HUD. I turned to the party screen without deciding to.
 
 **[PARTY MEMBERS: 2/5]**
-**[T_DRAG - LEVEL 7 - SHIV GOBLIN]**
+**[NYKRI - LEVEL 8 - SHIV GOBLIN]**
 **[RU - LEVEL 5 - HOBGOBLIN] [MOBILE]**
 
 The MOBILE tag sat in small gray text beside Ru's name. I read it twice to be sure I was reading it right. *"Alive."* Relief hit hard enough that I almost laughed out loud in an empty tent.
@@ -150,7 +150,7 @@ A younger goblin near the supply line reached out like he wanted to touch my sle
 
 Sevish's tent sat near the center of camp, larger than the others, canvas reinforced at the corners with stakes driven deep. I reached the flap and stopped outside it, hearing voices inside before I said anything.
 
-"It's T-Drag." I kept my voice even. "Coming in."
+"It's Nykri." I kept my voice even. "Coming in."
 
 The voices stopped. Silence held for a second, then Sevish's voice came back, rough and controlled. "Enter."
 
@@ -158,7 +158,7 @@ I pushed the flap aside and stepped through.
 
 The interior was dim, a single lamp hanging from the center pole throwing uneven light across the space. Sevish stood near the back with one hand resting on the haft of his battle axe, the blade planted butt-first in the packed dirt floor. Fresh soot smeared dark across one forearm. His mouth was set in a line.
 
-Wyx stood beside him, arms crossed over her chest, her green eyes moving between me and her brother. Ru leaned against the far wall near the entrance, his frame taking up more space than the angle of the room wanted to allow for. His right arm was pressed against his ribs at an angle that said something had gotten in there and hadn't been fully handled. Rott and Nab sat near the entrance, still, watching.
+Wyx stood beside him, arms crossed over her chest, her amber eyes moving between me and her brother. Ru leaned against the far wall near the entrance, his frame taking up more space than the angle of the room wanted to allow for. His right arm was pressed against his ribs at an angle that said something had gotten in there and hadn't been fully handled. Rott and Nab sat near the entrance, still, watching.
 
 *"Careful. Sevish has authority over everyone under Thrash, Ru included, until I outrank him. That's not a wall I can afford to knock down before I understand it."* I kept my weight settled evenly on both feet and my breathing even.
 
@@ -190,11 +190,11 @@ I watched the shift happen. Wyx's shoulders dropped half an inch, the tension in
 
 A small notification flickered at the edge of my vision, there one second before fading.
 
-**[AFFILIATION: THRASH CLAN - 12% → 15%]**
+**[AFFILIATION: THRASH CLAN - 47% → 50%]**
 
 Below it, smaller and quieter, a second one:
 
-**[AFFILIATION: WYX THRASH - 0% → 4%]**
+**[AFFILIATION: WYX THRASH - 52% → 56%]**
 
 I caught the second one. Wyx's eyes had settled on me the moment I'd said Shiv's name, and they hadn't fully left since. I filed it away and kept my eyes on Sevish.
 
@@ -208,7 +208,7 @@ A brief notification pushed up from the lower edge of my HUD:
 
 **[FIELD COMMAND: ACTIVE - TATSUYA | 3 THRASH CLAN AUXILIARIES ASSIGNED]**
 
-*"Four of us. I've never led anyone in a fight. Never been the one calling it."* My claws flexed once at my sides. Then I looked back at Sevish. "You have a scouting report?"
+*"Four of us. I've never led anyone in a fight. Never been the one calling it."* My hands opened and closed once at my sides. Then I looked back at Sevish. "You have a scouting report?"
 
 Sevish jerked his chin toward Rott. "Kesh went down close enough to count. Four of them inside the tent. They pulled back about five minutes ago. Haven't moved since." His voice dropped. "Last push, they made it to the camp gates before they turned back. That's where the real damage happened. They were farming their way up the hill until they saw what was waiting for them at the top."
 
@@ -301,13 +301,13 @@ I tapped accept without hesitating. The channel header shifted to a single combi
 
 Something in me settled when her name sat beside mine on the party list, and I didn't examine why. I opened the text window while the channel was still settling.
 
-[T_Drag: eastern edge. treeline, your left side. thirty minutes out?]
+[Nykri: eastern edge. treeline, your left side. thirty minutes out?]
 
 [AriSky: give or take. already moving]
 
 [AriSky: heads up. i was watching the guild feeds from j-link while you were offline. two of tokyo's biggest guilds have leadership already talking about moving on your location]
 
-[T_Drag: how urgent]
+[Nykri: how urgent]
 
 [AriSky: not immediately. most guilds aren't moving til morning, people have jobs. ganking crews do overnight runs but this doesn't read like that from the message structure]
 
@@ -333,7 +333,7 @@ A younger goblin near the last supply row reached out like he wanted to touch my
 
 "Two times now," I said, low enough that only Ru would catch it. "Same kid, same motion."
 
-Ru's tusks shifted. "Camp talks," he said. "When T-Drag walks out of Sevish's tent alive and unhurried, camp talks."
+Ru's tusks shifted. "Camp talks," he said. "When Nykri walks out of Sevish's tent alive and unhurried, camp talks."
 
 "Great. No pressure."
 
@@ -384,7 +384,7 @@ Ru's mouth split into something that showed teeth, not quite a grin but close en
 
 "Three sides gassed," I continued, my eyes still on the red canvas below. "You, Rott, Nab, one on each wall. We hit them at the same time. We force them into the open on the fourth side, the road side, the one they think is already covered because the road's behind them." I let the shape of it sit a moment. "That's the side they won't be watching. That's where Arya comes in from the treeline."
 
-A gust came up the slope and I tucked my clawed fingers into my fists to keep them from stiffening.
+A gust came up the slope and I tucked my fingers into my fists to keep them from stiffening.
 
 Rott shifted his weight.
 
@@ -424,7 +424,7 @@ Arya resolved out of the dark a moment later, half hidden behind a thick trunk t
 
 Arya's frown deepened, the glow on her staff brightening for half a second and then dimming back down. "You want Hushveil."
 
-"The silence upgrade, full radius." I turned to meet her eyes across the gap, moonlight catching in her red hair. "Cover the whole tent, not just the road."
+"The silence upgrade, full radius." I turned to meet her eyes across the gap, moonlight catching in her white hair. "Cover the whole tent, not just the road."
 
 She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot of mana for that big a radius. Tier three at full size will eat most of what I've got." Her knuckles went white on the staff. "And it only lasts a few seconds once it's live. Everyone has to be in position before it drops."
 
@@ -432,15 +432,15 @@ She bit her lower lip, her eyes unfocusing as she ran the numbers. "That's a lot
 
 I signaled toward the treeline. Rott and Nab were already crouched in the shadows twenty feet away, their eyes catching the firelight from camp behind them, and they jogged over low and quiet with the pouches at their belts barely shifting. Ru came in behind them, moving carefully around the arm he still kept pressed to his ribs.
 
-"Three walls, three of you, one each," I said, crouching to their level and meeting their eyes one at a time. "Wait for the fog. Don't move until it's down, and stay clear of Arya's side of it, because the fog doesn't pick who it hits." I tapped the pouches at Rott's belt, the leather worn smooth under my clawed finger. "Once you're in, gas together. Same moment, not one after another. Three of you hitting it at once stacks faster than any of you could manage alone."
+"Three walls, three of you, one each," I said, crouching to their level and meeting their eyes one at a time. "Wait for the fog. Don't move until it's down, and stay clear of Arya's side of it, because the fog doesn't pick who it hits." I tapped the pouches at Rott's belt, the leather worn smooth under my thumb. "Once you're in, gas together. Same moment, not one after another. Three of you hitting it at once stacks faster than any of you could manage alone."
 
-Rott nodded and scratched at his head with one clawed hand, his fingers catching in the matted hair, his eyes darting between me and the tent. "Rott understands. Gas together. Stack fast."
+Rott nodded and scratched at his head with one thick hand, his fingers catching in the matted hair, his eyes darting between me and the tent. "Rott understands. Gas together. Stack fast."
 
 Nab grunted his agreement and went back to checking his own pouches, his fingers running over each one in turn, his lips moving as he counted.
 
 "Ru," I said. "You hold the wall and nothing else. Anyone who breaks, they break into you."
 
-"Ru understands." His tusks caught the moonlight as his mouth split into something close to a grin, his claws flexing once with a soft click.
+"Ru understands." His tusks caught the moonlight as his mouth split into something close to a grin, his knuckles cracking once with a soft pop.
 
 The goblins dropped into a crouch and worked their way along the treeline toward the tent's blind side, barely rustling the underbrush, shadows moving through shadows.
 
@@ -517,8 +517,8 @@ The explosion resolved into a battle report across my HUD, every ability that ha
 **[HUSHVEIL (SILENCE): ARYA, TIER 3: SILENCE, BLIND, 12-SECOND DURATION]**
 **[GOBLIN GAS x2, TOXIC BREATH x1: ROTT, NAB, RU: STACKED APPLICATION]**
 **[POISON STACK: 4x, ACCELERATED: DAMAGE OVER TIME ACTIVE]**
-**[RUNE PRIMING x3: T_DRAG: STRATEGIC PLACEMENT]**
-**[ANCIENT BONE FLAME BARRAGE: T_DRAG: TIER 5]**
+**[RUNE PRIMING x3: NYKRI: STRATEGIC PLACEMENT]**
+**[ANCIENT BONE FLAME BARRAGE: NYKRI: TIER 5]**
 **[BASE DAMAGE: 840] [CRITICAL MODIFIER: x2.19] [TOTAL DAMAGE: 1,840]**
 
 Four nameplates flickered and died in rapid succession, the kill notifications stacking faster than I could read them.
@@ -527,7 +527,7 @@ Four nameplates flickered and died in rapid succession, the kill notifications s
 **[TALO: DEFEATED]**
 **[JOSS: DEFEATED]**
 **[SPELLWEAVER_LYN: DEFEATED]**
-**[KILL CREDIT: T_DRAG, 4]**
+**[KILL CREDIT: NYKRI, 4]**
 **[PARTY CONTRIBUTION: ARYA, HUSHVEIL (SILENCE), ASSIST CREDITED]**
 
 *"Almost all my mana in one shot. Worth every point."* I swayed on my feet, the afterimage of the blast still burned across my eyes, and I waited for it to fade.
@@ -540,7 +540,7 @@ The fog started to thin as Hushveil's duration ran out, cold air rushing back in
 
 [Eren_TB: ...]
 
-[PK_Wraith: who the fuck is T_Drag]
+[PK_Wraith: who the fuck is Nykri]
 
 [Haruto_M: that combo was clean, no cap]
 
@@ -560,7 +560,7 @@ A fourth marker sat apart from the others, right where Spellweaver_Lyn had gone 
 
 **[SHIVBONE STAFF: LEGENDARY]**
 
-I reached down and picked it up, my clawed fingers closing around the shaft, and turned it once in my hands. The wood was warm despite the cold air, almost hot, the vines shifting under my grip. The crystal pulsed once, twice, in a rhythm I couldn't name.
+I reached down and picked it up, my fingers closing around the shaft, and turned it once in my hands. The wood was warm despite the cold air, almost hot, the vines shifting under my grip. The crystal pulsed once, twice, in a rhythm I couldn't name.
 
 *"This one isn't going on any market. She needs it more than the yen does."*
 
@@ -605,6 +605,6 @@ I dismissed the window and looked back toward camp, toward the dark ridge where 
 
 "Yeah," I said. "Welcome to the team."
 
-*"Crownfall is guild-only. Two people on a ridge isn't a guild, and seasonal points don't care how clean one fight was. I need a guild of my own, and soon."* I rubbed my thumb across my cold claws and let the thought settle.
+*"Crownfall is guild-only. Two people on a ridge isn't a guild, and seasonal points don't care how clean one fight was. I need a guild of my own, and soon."* I rubbed my thumb across my cold fingertips and let the thought settle.
 
 **[END CHAPTER ELEVEN, PART TWO]**

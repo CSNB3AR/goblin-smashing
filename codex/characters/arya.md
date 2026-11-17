@@ -4,7 +4,7 @@
 
 ## Appearance
 
-Red hair, street-biker aesthetic (per the old draft, carried forward), own HGO drive and account.
+White hair in a messy bun, grey eyes, freckles, tan skin, tattoo sleeves down both arms, a strong full-figured build with broad shoulders, a scowl as her default face (author's picture, `codex/characters/reference/arya.jpg`; replaces the old "red hair, street-biker aesthetic"). Own HGO drive and account.
 
 ## Facts
 
@@ -26,7 +26,7 @@ Arya rebuilt under a new guild name with a couple of new recruits, one of them t
 
 **The real pressure underneath it.** Her mother wants her in America for medical school, a real, live option, not a bluff. Arya doesn't want to go, wants to stay in Tokyo, near Leon, and build something real in HGO first. Her entire read on the current moment, the guild, the Crownfall run, all of it, is filtered through needing this to actually work before that decision gets made for her. **The real foundation underneath this, not yet stated on the page beyond what Chapter 10 Part One already implies through Leon:** this isn't just preference, it's a live custody situation, Leon won formal guardianship of her years ago on the strength of their late grandfather's legal backing, and without that money now, her parents pushing to bring her to America is the custody fight quietly threatening to reopen. See `codex/subplots/leon-arya-custody-battle.md` for the full mechanism.
 
-**School:** attends a local Tokyo public school, not Tochi Academy, a different background from Tatsuya's.
+**School:** enrolled at a local Tokyo public school, not Tochi Academy, but she has hardly been going, and she has not formally dropped out. She has been chasing the pro life through her guild instead (author-stated, latest), which is why she knows the game so well.
 
 **Crownfall's semifinal loss is a real, live stake for her specifically, not just a competitive disappointment.** Going in, she'd privately been ready to concede to her mother and leave for America if the tournament run didn't prove something real. It doesn't end in a win, the guild is eliminated in the semis, but reaching that far as an 8th-seed underdog is real enough that it doesn't close the door either, left genuinely open rather than resolved.
 
@@ -84,3 +84,32 @@ Her information-broker role is vital after Thrash Hill: she sells the legacy dro
 - **Her points edge (author-stated).** Crimson Static scaled high in seasonal points even though it was dysfunctional, which makes Arya a major asset to Tatsuya: she is an information broker and she knows how to scale points. The dysfunction: the guild was full of simps; its three girl-gamer leads collapsed after bad comms and nobody but Arya took it seriously; the comps were not serious, so serious guilds rolled them; in raids they got zoned out as alliances formed against them. This sits beside the collapse write-up above. The author's remark about her wider backstory was cut off and is not guessed.
 
 - **Arya at the hotel (author-stated, notes only, never on the page).** The temp Chiyo hired for the front desk is Arya. It is her second job. Tatsuya does not know her yet and does not see her until he is home again after the arcade. She has another job to get to, which is also why the desk gives them room to talk more about the game.
+
+## Voice and vibe for the page (author-stated, latest; not on the page yet)
+
+- A blend of Momo (the character the author named from Gurren Lagann, spelling unconfirmed) and the gunner girl from The King's Avatar (the author's "Chumong or Michong", most likely Su Mucheng): composed, precise, sharp, a little guarded, a competent shooter's calm. Keep with the existing "sharp and guarded" read.
+
+## Look (author's picture, `codex/characters/reference/arya.jpg`; supersedes "red hair")
+
+White or silver hair in a messy high bun with loose strands framing her face, pale grey eyes, freckles across the nose and cheeks, warm tan-brown skin, hoop earrings, a hard scowl with a heavy brow, arms crossed. Black V-neck tee. Full colourful tattoo sleeves on both arms (flowers, koi and a car among them). She looks like exactly what the notes say, sharp and guarded.
+
+**Resolved (author-stated, latest):** the picture stands. Chapters Eight, Ten and Eleven were updated from red hair to white hair, her eyes from green to grey, and the "resemblance" line changed. Arya has not been described on the page before the VRSA chapter.
+
+## The delinquent of the two (author-stated, latest)
+
+The tattoos, the hair and the hard look fit her role: she is the delinquent of the two siblings, the one Leon is raising and answering for. This is exactly why the custody fight exists: her parents overseas think Leon is not doing well by her with Arya here, since she is deep in gaming and has barely been going to school. She has not dropped out, but she is trying to go pro with the guild, so she knows a great deal about the game. See `codex/subplots/leon-arya-custody-battle.md`.
+
+
+## Arya at the hotel on the page (author-stated, latest; supersedes "does not see her until he is home again after the arcade")
+
+In Chapter Eight Tatsuya passes her at the Nakamura Grand front desk late at night on his way to the elevator: head down over the monitor, white hair in a messy knot. She is not named and they do not speak. He remembers Chiyo's "say hello" text and walks past on purpose. The first real conversation is still the arcade counter the next morning.
+
+
+## Babysitter in Book One, Tochi in Book Two (author-stated, latest)
+
+Arya is the babysitter for Taji and Momo as the Tabuchi court dates pull Chiyo away. She is first seen as the hotel front-desk temp. There is no separate Arya storyline in Book One. She goes to Tochi in Book Two: a recommendation (she is very smart and just wants to be a pro gamer) and her guild connection, with Tochi sponsoring the guild and **Tatsuya's** stipulation (he holds the leverage as the World Quest carrier) that they take her. Full notes and the conflicts with the Act Two scholarship plan are in `outline/book-one-structure-and-book-two-seeds.md`.
+
+
+## Age, year and school, corrected (author-stated, latest)
+
+Arya is about 16 or 17, the same age as Tatsuya, and a **first-year** at a bad Tokyo high school she has barely attended. This replaces "second-year" in `codex/pro-scene/tochi-representative-qualifier.md`. Her parents abandoned her and Leon at birth or an early age; their grandfather had custody. Her education is the legal fight, and Tochi is how Leon closes it. See `codex/subplots/leon-arya-custody-battle.md`.

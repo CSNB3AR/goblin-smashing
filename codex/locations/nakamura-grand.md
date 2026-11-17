@@ -4,6 +4,8 @@
 
 ## Visual reference (locked)
 
+Picture saved at `codex/locations/reference/nakamura-grand.jpg` (author-supplied): a narrow green-covered modern building, about six stories, warm-lit lobby and entrance at street level, balconies with plants, a small canopy over the door. Family-run and homey, **decent but not ritzy**: keep the lobby small, warm and plain (pale stone, a few plants, one lamp over the desk), no grand-hotel detail.
+
 A green-covered modern building, several stories, warm-lit windows and entrance, balconies with plants. Reads as a boutique high-end property rather than a sprawling traditional grand hotel, consistent with "high-end" without needing a huge ornate lobby.
 
 ## Facts
@@ -21,3 +23,8 @@ A green-covered modern building, several stories, warm-lit windows and entrance,
 - **Hotel money and staffing (author-stated).** The Nakamura Grand is a nice Midtown-style hotel. Chiyo normally has people working it, but she cut staff to save money because she is paying big-time lawyers to fight the Tabuchis, who have big money, while also covering Ohema's hospital costs. The family lives on the third floor. Route in chapter 3: elevator down to the lobby, the storage key from the drawer of Chiyo's desk, the elevator again to the basement level, which sits below the lobby and holds Dad's stored gear.
 - **Why Tochi took him on merit (author-stated, how it reads).** He was technically smart and could do what his dad did at a very young age; not as advanced as his dad, but on the same path and on par for his age. Chapter 3 says it plainly after the repair, without a speech.
 - **Voice in the repair (author-stated).** He talks like a car mechanic who works with an electrician: load tests, the 12-volt aux rail, jump terminals, internal resistance.
+
+
+## Route to the apartment (author-stated, latest)
+
+There is no elevator to the family's apartment. From the lobby the back stairs go up three floors to the third-floor landing and the apartment door (key). Chapter Two and Chapter Eight use the stairs. Chapter Three still mentions an elevator ride down from the third floor; flagged to the author.

@@ -24,7 +24,7 @@ Each of these at most once per chapter, and not again in the next chapter: jaw s
 
 ## Facts to keep straight when writing cues
 
-Thin goatee, locs on top with a faded undercut, a hoop earring with a hanging chain, a ring pendant on a thin chain. Tall (a little over six feet), Black, long arms. Builds were drawn on tablets, never graph paper. In the goblin body: smaller frame, clawed fingers, green skin, cold.
+Thin goatee, locs on top with a faded undercut, a hoop earring with a hanging chain, a ring pendant on a thin chain. Tall (a little over six feet), Black, long arms. Builds were drawn on tablets, never graph paper. In the goblin body: smaller frame, long fingers with long nails, green skin, cold.
 
 ## Quick test
 

@@ -50,3 +50,8 @@ Global quest lines any player can attempt, actively hunted by the entire playerb
 The Crownfall zone (author-stated): a neutral trade zone on a plateau off the coast of Lunarest, reached by ship. It is a massive magical forest, the last 10 to 15 acres off the back end of the kingdom, full of magical beasts, and the only high-magic ancient forest near Lunarest. It leads to the elves' domain: a domain that teleports you there, and the elves welcome you. Rumor says the court mage Corvith came from there. Normally the zone is open to everyone. During the event the forest is replicated, and the zone is locked to guilds and their participants. The rules will be set closer to the date.
 
 OPEN: the event name (the king's fall) and the zone name are both "Crownfall". Not resolved.
+
+
+## Thornwatch Forest: Frostborn, Dwarves and the wisp gate (author-stated, latest)
+
+The Thornwatch Forest sits closer to the Dwarven and Frostborn lands than to the Elven land. A troll or frost-giant world boss lives in its high ground, a descendant of the Frostborn and Dwarves (see `codex/pro-scene/crownfall-siege-event.md`). The only way into the Elven Empire is an elf who has collected 20 to 25 wisps, which takes a high elf with magic about an hour per wisp. Twenty-plus wisps open a gate. Further up the forest is an enclaved kingdom between the Frostborn and the Dwarves that knows everything about the world, and on the other side of Thornwatch there is a Dwarven kingdom. Not on the page yet.

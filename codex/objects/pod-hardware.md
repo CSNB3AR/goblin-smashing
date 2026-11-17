@@ -31,3 +31,44 @@ Full sensation and real damage feedback across all hardware generations, magnifi
 - **Hardwire.** He can hardwire and power it directly, as with the EB, but that burns the core's remaining life. He can only run it that way for a limited time before the core dies and must be replaced. He has to charge it from the wall for a while first, or he drains the core.
 - **Second pod.** Dead because its core is already gone; a dead core cannot be charged.
 - **No numbers set** beyond the 20 percent; lifespan and part names stay qualitative.
+
+## Pod naming and the third-gen lookup (author-stated, Chapter Seven)
+
+- **He has not found any third-gen processor yet.** Chapter Three's blackout search turned up nothing. In Chapter Seven, on his phone, he researches third-gen processor cores and every result leads back to **Nexus Enterprises** and its patent, the piece the third-gen pods and helmets are built on. Never sold openly (copying risk); only partners, and Tochi is the one school openly on that list.
+- **"Gen" is a colloquial label.** People say first, second and third generation because each is the next version of a VR pod, even though they come from different companies with different schematics and patents: Kazehaya's (Kazuhaya Tech, first), the Tabuchis' (second), Nexus Enterprises and Kazuku's (third). Each could carry its own product name, which would keep the three apart on the page. OPEN: whether to name them; no names invented yet, and the page keeps the gen labels for now.
+- **Fan (author-approved).** The pod's cooling fan whines as it winds down in the Chapter Three blackout and is still dragging in Chapter Seven.
+
+## Core countdown and the two fixes (author-stated, Chapter Seven; supersedes "Tochi's technology lab has them" as a known fact)
+
+- **Countdown.** The first-gen core read 20 percent in Chapter Three. Every hotwired session burns about one point; after the first login it reads 19, which gives him roughly 20 logins before it dies. He means to fix it well before that. The convincing point for Leon is capability: he understands Daichi's work well enough to keep it running.
+- **Option one, temporary:** a second-gen core to get it running again, cheaper and not permanent. Second-gen cores carry faults (open: which, kept vague on the page), which is why people paid extra to go third-gen.
+- **Option two, the real fix:** a third-gen core, which Nexus Enterprises patents and never sells. His only discoverable tie is the Nexus Enterprises sponsorship of Tochi Academy that the school announced about a year ago. That is a lead, not proof there is a core in the building. It is a discovery he has to make, so the page no longer says he saw the core logo in Tochi's lab or that the lab holds one. Instructors, not students, would hold any such access.
+- OPEN: Chapter Three still says he had seen the core logo stamped on equipment in Tochi's tech lab. Left untouched, flagged to the author.
+
+## The three hardware lines, named (author-stated; supersedes saying "first-gen / second-gen / third-gen" on the page)
+
+People still say first, second and third generation as shorthand for the three versions of VR hardware, but the page names each line by its company or product, since they come from different makers with different schematics and patents. Working names (the companies for the second and third lines are proposals; rename freely):
+
+| Line | Maker | Form | Notes |
+|---|---|---|---|
+| First | **Kazuhaya Tech** (Daichi) | Old-fashioned **full-body upright pod**, the dark tower in the arcade image | Needs an engineer and a room re-built around it, plugged straight into the building. Pulled from sale after the accident. |
+| Second | **Kuroshio Systems** (working name), **backed and invested in by the Tabuchis**, not created by them | A **capsule you lie in**, like a bathtub or massage chair with a casket-like capsule over the head. Think an F1 cockpit rig, but lying down. Expensive, but fits a bedroom | Needs very good internet and decent air and cooling, or it overheats and runs badly. Faulty in its own ways. |
+| Third | **Nexus Enterprises** (Kazuku), the **Nexus helmet** | A **helmet** whose sensors scan the whole body from the top, so full dive without a full-body rig | The **most expensive** line and the most convenient: no known issues, no dedicated room, playable practically anywhere. Official HGO hardware. |
+
+- **Why he will not use the second line (author-stated).** Tabuchi money is behind it. Tatsuya refuses anything related to the Tabuchis, even where they did not create it. In Chapter Seven he rejects a Kuroshio core as a stopgap for that reason as well as the heat and the faults.
+- The page says "helmet cafe" and "the Nexus helmet" in place of "third-gen cafe" and "third-gen" in Chapter Seven. Chapters Two to Six and later still use the shorthand; reconcile if the author wants.
+
+- **Price correction (author-stated, latest):** the Nexus helmet is the most expensive of the three, not the cheapest; people pay for the convenience and because it works with no issues. The earlier "more affordable" note above is a later development only, after Nexus opened an exchange or upgrade deal for cafes.
+
+- **Nexus built both the game and the helmet (author-stated, latest; replaces the earlier "knew HGO was coming" wording).** Nexus Enterprises is the creator of HGO (Kazuku owns it). They built the helmet knowing it could serve other purposes, corporate use included, but they launched the game on top of it and tied the two together: at launch the helmet was sold and used only for HGO, with all the focus on the game. The multi-purpose and corporate side came afterward. HGO won over most of the crowd because it was huge immediately, thanks to how real and high-tech it felt. The first and second lines were also general-purpose hardware that games later dominated through developer support. The non-gaming side is not being explored. Codex only, not for the page right now.
+
+## What Tatsuya already knows about first-gen parts (author-stated, latest)
+
+- **He already knows there are no first-gen cores.** His dad owned the company; after the accident everything Kazuhaya Tech was pulled, merchandise and parts included. He does not need to explain it or discover it on the page, and Chapter Seven now gives it a single quiet feeling beat (his palm on the warm casing, the connection to his dad) instead of an explanation.
+- **How the other lines came about (author-stated, codex only).** People could still dissect surviving Kazuhaya items and use old schematics to make their own, but without the manual they could not know everything. That replication is what produced the second line (Kuroshio). The third line has the actual patents because **Daichi sold them to Kazuku** (Nexus). Tatsuya does not know this on the page.
+
+- **Kuroshio capsule core price (Chapter Seven, author-stated shape, number mine).** The only core Tatsuya can find for sale is a Kuroshio capsule core on the black market at 860,000 yen, double a retail price of about 430,000 that he cannot use. Nexus cores are locked behind patents. The figure is a placeholder; change freely.
+
+- **Correction to the core search (author-stated, Chapter Seven; supersedes "black market").** Tatsuya does not stumble onto a black market. He opens the parts site his dad used to order from (he knows it from his dad's order slips), finds nothing else for sale anywhere, and sees that the only cores listed there are Kuroshio capsule cores, and they are very costly (860,000 yen, a placeholder). That is what pushes him to think building one would be easier, and the only place that teaches it with the support needed is Tochi, which means going back to the school he left and dealing with Eren. How a core works is not explained until he actually starts repairing it; the page only explains why he needs one.
+
+- **The parts marketplace (author-stated, Chapter Seven; replaces "Dad's parts site").** It is not Daichi's site. It is a black-market parts marketplace, closer to eBay or a pawn shop than a store, where sellers list tech parts that are not supposed to be sold. Daichi used to buy from it, and Tatsuya kept an old receipt for it because of the EB's parts (the author said "Honda EV"; read as the Haya EB). He has not been on it in years and finds it again from that receipt. Listings are individual sellers, which is why the only cores for sale are costly Kuroshio capsule cores.

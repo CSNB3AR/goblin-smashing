@@ -3,6 +3,38 @@
 > **Direction update (author-stated, supersedes any conflicting text below).** The warring, points and no-war systems run on real kingdom combat, and the story is driven by the players' actions. There is no separate pro scene, no standalone Siege battle-royale mode and no Siege Pro League in canon for now; those sections are kept below as dormant ideas. Territory is taken by planting a flag and holding it. Thornwatch, an old fortress the king once held in the unclaimed north of Lunarest, is the first place guilds can own, and the Thornwatch Forest around it is a high-level farming zone with mythical beasts and rare elixir drops. After Thornwatch every prince must negotiate with London Spire. The Crownfall event is the raid behind it, with the first raid boss; its exact format, prize pool and bracket are OPEN. See `outline/canon-ledger.md`.
 
 
+## Crownfall as a 7-man raid (author-stated, latest; supersedes the Siege-heat, 20-player and 5-guild sections below until the author confirms)
+
+**Name hidden on the page.** Crownfall is not named in the opening chapters. Kazuku announces the Hearthfire expansion (the update everyone is planning around) and an unnamed big finish on Christmas Day with ten million yen in prizes, open to every new character, built for guilds. The name Crownfall comes out later (reveal point OPEN, see Open at the bottom of this section). On the page the early chapters now say only "Christmas Day" and the ten million yen.
+
+**Format.** A small-scale, robust **7-man raid** against a world boss, tied to the Thornwatch Forest. Three phases.
+
+1. **Entry and survival.** Everyone enters the forest at least **30 minutes before the raid timer**. When the 30 minutes are up the forest locks. Anyone who tries to enter late gets a poison sickness and is dead in under five minutes, on a **72-hour death clock**. Everyone already inside gets a special buff that makes them immune, because they were there before the boss woke. When the world boss wakes it breathes out a poisonous magical aura that amplifies the forest's magic and makes the beasts there active and aggressive.
+2. **The three mythical beasts (a 30-minute window).** Three strong, high-level mythical beasts spawn, **one of each, and only three in total**: one gives a **defensive** buff, one a **cleansing or purity** buff, one an **attack** buff. The ideal run kills all three before the boss fight. The boss shows on everyone's minimap once it wakes. Other parties are hunting the same three beasts, so every beast is its own fight. A party can survive with one buff but not with none. Guilds that skip the beasts and go straight for the boss die fast, because the buffs help against the boss's phases.
+3. **The boss fight.** The boss is a **troll or frost giant**, placed at **high elevation** deep in the forest. Heavy melee class with a big mallet, multiple buffs and abilities, a few landscape skills, minions it can summon, and a **frost breath**. It has several phases (the author called it a two-phase fight and also spoke of three phases of attacks; OPEN). The deeper the party goes, the denser the map and the higher the ground.
+
+**Politics in the raid.** Parties meet inside the forest and decide whether to fight the boss together or fight each other. The boss attacks everyone either way, so alliances form and break under pressure, and it weeds out a lot of players depending on where they pull aggro.
+
+**Guild entry (author-stated, latest; corrects the "14 for every guild" wording).** It is a **7-man raid**: each guild enters **7 players, its 7 best**. A guild that has entered is **locked** and cannot add anyone. **Exception: the owners of Thornwatch (London Spire) are allowed 14**, two parties of seven, because they hold the fortress and start close to the forest. They can also respawn early if they die. Because everyone else is limited to seven, a small guild can field a full side, which is why Tatsuya can see himself in it, and a big guild has to pick its best seven. Guild-tagged players cannot kill each other. A big guild battle would not fit him; this does.
+
+**Why the details are held back (author-stated).** Information on the finish is held until the **72-hour 50 percent sale** ends. Once the sale is over, prices go back to normal and the influx of new players settles, and then HGO drops the rest of the details. That is the in-world reason the announcement is vague and the name is not said. **Decided (author-stated):** Kazuku does not say it or detail anything on the page. The rest of the details come through the **HGO app patch updates** (patch notes) once the sale ends.
+
+**Why the prize matters to Tatsuya.** Chapter One carries it in his own head: Season Zero's forty million, "even a tenth of that pays for the surgery outright", and then the finish's ten million, "well past the surgery". The name is hidden, but the prize is not, so his motivation stays.
+
+**Lore tie-ins (author-stated).**
+- The boss is tied to the **Frostborn and the Dwarves**, a descendant of them. The Thornwatch Forest is closer to Dwarven and Frostborn land than to the Elven land.
+- The only way into the **Elven Empire** is an elf who collects **20 to 25 wisps**. Wisps are hard to collect: a high elf with magic attracts about one an hour. Twenty-plus wisps open a gate (a portal or a trail). The Elven kingdom is reached through the Thornwatch Forest.
+- Further up the forest there is an enclaved kingdom between the Frostborn and the Dwarves that knows everything about the world. On the other side of Thornwatch there is a Dwarven kingdom.
+
+**What conflicts with older Crownfall text (not resolved, do not silently overwrite):** the Siege battle royale (5 guilds, 20 players each, 60 lives), the 20-slot and ten-participant entry rule, the "plateau off the coast reached by ship" zone, and the heats and bracket structure below. The author's earlier ruling is that Crownfall's exact format is OPEN, and this raid is the newest word. Whether the Siege format survives anywhere (the Siege Pro League is already dormant) is OPEN.
+
+**Open (asked of the author):**
+- Where in the story the name Crownfall is first said aloud, and whether Chapters Eight, Ten and Eleven (which still name it) should say "the Christmas event" until then.
+- "London Watch" in the dictation was read as **London Spire**. Confirm.
+- Whether the three phases are entry, beasts, boss, or whether the boss fight itself has the three.
+- Whether the 72-hour death clock applies to deaths inside the raid, or only to late entrants.
+- "Jared" in the dictation ("some big prizes that Jared's going to") was not understood and is left out.
+
 **Status:** Forward-plot, not yet on the page. Replaces the old Winter Bash (same December 25th date, same countdown from the story's opening, same 10 million yen prize pool). The old file `codex/pro-scene/winter-bash-tournament.md` is now a redirect stub.
 
 Crownfall is the **Season One opener for seasonal points** and the **introduction of the Siege format**, a guild-only open-beta event hosted by HGO in the weeks between the Hearthfire announcement and the launch. It is the gateway event Tatsuya's early arc runs toward. It prepares everyone for the larger-scale conflict that follows: the war the story is about is Node Wars (see `codex/lore/hearthfire-expansion-and-seasons.md`). The event takes place in a **neutral zone** that may tie back to a legendary world quest (a rumor and a hint only, undecided). The standing competitive option built on the same format is the Siege Pro League, active from the start of Season One (see the Hearthfire doc, "Siege and the Siege Pro League").
@@ -31,9 +63,9 @@ The text below was written for single-elimination 20v20 sieges and **is to be re
 
 ## Physical-attendance requirement
 
-Once a guild reaches the world stage, its core players must attend a regional HGO stadium for the remainder, Tokyo for APAC. This is the mechanism behind two reveals landing in the same stretch: Tatsuya's first public appearance as T-Drag outside a stream overlay, and Eren's first in-person discovery that T-Drag is Tatsuya. Neither gets advance warning, the draw does it.
+Once a guild reaches the world stage, its core players must attend a regional HGO stadium for the remainder, Tokyo for APAC. This is the mechanism behind two reveals landing in the same stretch: Tatsuya's first public appearance as Nykri outside a stream overlay, and Eren's first in-person discovery that Nykri is Tatsuya. Neither gets advance warning, the draw does it.
 
-**Eren's side includes PK_Wraith** (see `codex/characters/pk-wraith.md`). Haruto's public exit from Kansai Black Lotus (Chapter 8) leaves Eren without anyone strong willing to team with him, and PK_Wraith takes the open slot, his vendetta against T-Drag already real since Chapter 10. When the draw puts them in a session with Haya Storm, it lands the identity-reveal beat and PK_Wraith's revenge beat together, coincidence and not anyone's plan.
+**Eren's side includes PK_Wraith** (see `codex/characters/pk-wraith.md`). Haruto's public exit from Kansai Black Lotus (Chapter 8) leaves Eren without anyone strong willing to team with him, and PK_Wraith takes the open slot, his vendetta against Nykri already real since Chapter 10. When the draw puts them in a session with Haya Storm, it lands the identity-reveal beat and PK_Wraith's revenge beat together, coincidence and not anyone's plan.
 
 ## Haya Storm's run
 

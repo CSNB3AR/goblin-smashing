@@ -26,7 +26,7 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 
 ## Return to the body
 
-**Return to the body after information.** After any tactical, mechanical or information-heavy passage (roughly every two or three paragraphs of analysis, system text, exposition, or another character explaining something), bring Tatsuya back into his body with a small specific cue, not only after dialogue: rubbing his eyes, squinting at the fluorescent light, a wince, a loc falling or a hand raked through his hair, a brow or jaw change, hands flat on a surface, a shift of weight, a breath. In-game, use the goblin body (cold, claws, smaller frame). Vary the cues and do not repeat one more than a couple of times in a chapter. Check `style-guide/physical-expression-thesaurus.md` first.
+**Return to the body after information.** After any tactical, mechanical or information-heavy passage (roughly every two or three paragraphs of analysis, system text, exposition, or another character explaining something), bring Tatsuya back into his body with a small specific cue, not only after dialogue: rubbing his eyes, squinting at the fluorescent light, a wince, a loc falling or a hand raked through his hair, a brow or jaw change, hands flat on a surface, a shift of weight, a breath. In-game, use the goblin body (cold, long fingers, smaller frame). Vary the cues and do not repeat one more than a couple of times in a chapter. Check `style-guide/physical-expression-thesaurus.md` first.
 
 ## Never changes
 

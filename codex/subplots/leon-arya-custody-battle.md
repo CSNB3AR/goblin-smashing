@@ -19,3 +19,12 @@ Once Tochi extends Arya a real scholarship (see `codex/pro-scene/tochi-represent
 ## Cross-references
 
 `codex/characters/leon.md`, `codex/characters/arya.md`, `outline/act-two-haya-storm-rise.md` for where this lands in the story. The grandfather himself is unnamed and undetailed beyond what's here, open territory if a future pass wants to give him more shape.
+
+## Why the parents object (author-stated, latest)
+
+The parents' case is that Leon is not doing well by Arya: she is the delinquent of the two, covered in tattoos and rarely at school (enrolled, not dropped out), and deep in gaming while she tries to go pro with her guild. That is how they frame it; Leon and the reader know she is skilled and driven. This is the mechanism behind the pressure Leon describes to Tatsuya in Chapter Seven.
+
+
+## Why Arya goes to Tochi, and Tatsuya's stipulation (author-stated, latest; replaces the "eSports team eligibility" reason and refines the Act Two section)
+
+The reason she ends up at Tochi is her education fight, not the rule that eSports members must be students. The esports side still opens up to her. Facts: Arya is about 16 or 17 and a **first-year at a bad Tokyo high school she has not been attending**. Their parents abandoned both children at birth or an early age (this is harsher than "not equipped" above; the author's latest wins), and their grandfather held legal custody for a long time. The parents now want custody and want her in America. Their winning argument is that she is not in the best environment to learn or grow, even though Leon provides food and shelter. If Leon gets her into Tochi and she can still game inside the agreement, the argument is gone. The price for Tochi sponsoring the guild is set by **Tatsuya** (corrected, author-stated), who Tochi approaches because he carries the World Quest and the content: Sakura Arcade is the HQ, Tochi invests in substantial equipment there, then the favor of taking Arya. Tatsuya does not want her to go to America. See `outline/book-one-structure-and-book-two-seeds.md`. Timing: Book Two.

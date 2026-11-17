@@ -1,18 +1,22 @@
-# Chapter Six: Consequences in Silence
+# Chapter Seven: Consequences in Silence
 
-The pod hissed open and the real world came back wrong.
+The shell hissed open, and the bell was still ringing in my head. *"That wasn't just for me. That was a public announcement. The whole server just heard a world quest go live, with my name on it."*
 
-Sound first, the low hum of Sakura Arcade's overhead lights where there'd been fire and wind and thirty goblins doing whatever goblins did at midnight. Then weight, my body settling into the padded interior with legs that were suddenly too long and hands that were suddenly too big. Then smell, old electronics and carpet cleaner instead of woodsmoke and whatever that stew had been.
+The room came back around me one piece at a time. The smell first, cigarette smoke and dust and plastic, the same as when I'd gone under. Warm lantern lamps hung low over the brick pillars, and steel beams crossed a dark ceiling above the wood paneling on the far wall. The pod stood tall and dark around me, cable bundles looping down its sides and a blue glow in the seams, Kazuhaya Tech stamped small near the base.
 
-I lay there a second longer than I needed to, staring at the curved shell of the pod above me.
+My vision was blurry, the room smeared and dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop. I swallowed twice. *"Okay. Rough, but I can work with rough."*
 
-*"Okay. That's going to happen every single time I log out."*
+My own size hit me next. After the goblin, a little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
-I sat up slow, pulled the visor off, and set it on the rim. I popped the access panel and eased the drive out of its port. Dad's manual still lay open on the floor where I'd left it, pages marked in his handwriting. I closed it carefully, my thumb running along the worn spine before I tucked it into my bag with the letter still inside. Some habits didn't need a reason.
+I popped the cuffs and stepped down off the platform and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."* My backpack sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed inside.
 
-I stood, and my knees cracked loud in the small room. *"I'm stretching before I get in that thing next time. For real."*
+The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the backpack just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in."*
 
-I pulled my phone out on the walk back to the main room, opened the HGO Companion App, and held the drive against the back of it.
+*"If I want long sessions, it needs a new core."* There were no Kazehaya cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
+
+I eased the drive out of the slot beside the headrest and shouldered the backpack off the pillar. Dad's manual was already inside with the letter. I pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
+
+9:43 PM. Leon had said twenty minutes to closing, which left me seventeen. I opened the HGO Companion App and held the drive against the back of the phone.
 
 **[SCANNING...]**
 
@@ -22,230 +26,224 @@ I pulled my phone out on the walk back to the main room, opened the HGO Companio
 
 My account loaded, the goblin face of my avatar staring back at me from a small circle at the top of the screen. *"That's not the face I picked. Not that I picked it."*
 
-**[USERNAME NOT SET. TAP TO CREATE ONE.]**
+**[NYKRI - LEVEL 3 - GOBLIN]**
 
-*"Later. When I can think of one."* I swiped it away and kept scrolling.
+*"Nykri. Still strange, seeing it written down."* A banner sat across the top of the home screen.
 
-Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare.
+**[WORLD QUEST ACTIVATED: CALL OF THE BONES | ACTIVATED BY: NYKRI]**
 
-My inventory sat above that.
+My name sat right there on the banner. *"They told everyone who. Not where."* I swiped past it, and my thumb wasn't quite steady.
+
+Near the bottom of the page, under a small header, my spells sat listed in plain text, Goblin Gas and Goblin Flare. My inventory sat above them.
 
 **[GOBLIN GADGET BELT - COMMON (LOCKED)]**
 
-**[GAMBLER'S EARRING - RARE (BOUND, CANNOT BE SOLD)]**
+**[GAMBLER'S EARRING - UNIQUE (EQUIPPED)]**
 
 **[MINOR ELIXIR x2 - UNCOMMON]**
 
-I tapped the elixirs. The app flagged me before I could do anything.
+I tapped the elixirs, and the listing opened.
 
-**[BANK ACCOUNT REQUIRED TO COMPLETE SALE]**
+**[MINOR ELIXIR | VALUE: 21,000 SHILLINGS EACH]**
+
+*"Twenty-one thousand shillings for a mana potion? What's that in yen?"* I tapped the number, and a rate card slid up.
+
+**[10 SHILLINGS = 1 HGO COIN]**
+
+**[1 HGO COIN = ¥4]**
+
+I ran it in my head. Eight thousand four hundred yen each. I confirmed the listing, already bracing to wait. The vials vanished almost immediately.
+
+*"That fast? Why?"*
+
+**[BUY ORDER MATCHED: 2 ITEMS]**
+
+*"Buy orders. Somebody had already ordered them."*
+
+**[SOLD: 42,000 SHILLINGS]**
+
+A second prompt rose over the first.
+
+**[EXCHANGE SHILLINGS FOR HGO COINS?]**
+
+I confirmed it, and the coins landed.
+
+**[4,200 HGO COINS RECEIVED]**
+
+One more prompt followed, and it was the one that mattered.
+
+**[CASH OUT HGO COINS?]**
+
+**[BANK ACCOUNT REQUIRED TO COMPLETE CASH OUT]**
 
 I linked the account my WattsUp paychecks already hit, a few taps and a code texted to my phone, and the warning cleared.
 
-**[MARKET VALUE: ¥8,400 EACH]**
-
-**[LIST FOR SALE?]**
-
-I confirmed it, already bracing to wait on a listing. Instead the vials vanished from my inventory almost immediately, replaced by a single gold-bordered line.
-
-**[SALE COMPLETE: ¥16,800 DEPOSITED]**
+**[CASH OUT COMPLETE: ¥16,800 DEPOSITED]**
 
 **[BANK BALANCE: ¥64,120]**
 
-*"That fast?"* I read it again. No fee, no cut, nothing taken off the top. I tilted the screen away from the hallway light, half expecting it to take the money back.
+I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."*
 
-My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that four hours of getting chased around a goblin camp hadn't managed to. *"First one. Definitely not the last."*
+I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see.
 
-I pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. My own profile loaded first, follower count still embarrassingly low in the corner. I typed out a real bio this time, not the blank field I'd left sitting there for a year, something short and dry about a goblin who didn't plan on being one, and cut it down twice before I let it post. Then I backed out to the feed, and the feed was already loud.
+I backed out of the app and opened Loop. My own profile loaded first. I changed my handle to Nykri to match the game, then picked the goblin profile picture from my HGO character profile and made sure it carried across. That was it.
 
-**[@PK_Wraith: World Quest just popped at Lunarest. First one in months. Y'all better believe we're getting a piece of that.]**
+Then I checked what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI among them.
 
-**[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
+*"I have to get back here early in the morning."* The feed kept refreshing under my thumb, my name sliding up it again and again.
 
-*"Dosuke's wondering who triggered it. Dosuke. Wondering about me."* I read his post twice, a cold prickle running up both arms, and then scrolled past a dozen reposts of the same thing. A different thread stopped me, guild leaders going back and forth about whether it was worth cashing out their old characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their closed-beta accounts, unwilling to start over at level one for a system nobody had fully mapped out.
+I swapped out of Loop and opened my browser, then dug the address out of an old receipt I'd saved for the EB's parts. It was a marketplace Dad used to buy from, more eBay than shop, where people sold tech parts that weren't supposed to be sold. I hadn't been on it in years. Everywhere else I'd looked tonight had turned up nothing, so I searched it for processor cores. Nexus cores were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
 
-*"Wild."* *"Not my problem. I'm already starting at level one."* I killed the screen.
+**[KUROSHIO CAPSULE CORE | ¥860,000]**
 
-Leon was at the counter when I stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
+*"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."*
 
-"How'd it go?"
+I couldn't learn that on a laptop in a back room, and I couldn't learn it working in Gato's shop either. The only places I knew that taught anything like it at a high level were Tochi or some other tightly run university, and Tochi was the one I had a way back into. Even then, lab access wasn't handed out. Most students never got in unless they sat on the student council, so I'd have to make some deals. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
 
-"Pod held," I said. "No crashes. Ran longer than I thought it would."
+I knew I had to tell Leon what was going on, but I had to figure out how to do it without it feeling like I'd already broken his trust. The clock said 9:52 PM, so I started toward the front. A draft from the street door stirred my locs as I threaded between the old desks and dark monitors, all six feet and change of me.
 
-"Good." Leon nodded, easy, nothing behind it. He glanced toward the dark hallway where the second pod sat, then back. "Listen. I want to be straight with you before you start getting comfortable coming back here. Business is slow right now, and I don't want you thinking that open access is a permanent thing if it turns into a habit for both of us."
+Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The monitor on the front desk beside him cycled through its screensaver, humming.
 
-I did the math fast before speaking. "How slow are we talking?"
+"You look like you got hit by a truck." He set the tablet down and gave me a once-over. "Did everything go well in there?"
 
-Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
+I leaned on the counter, my legs shaky from the pod. "Kinda. My first VR experience kinda did it."
 
-"So you're getting cooked on every front." My thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should probably hear too."
+"Everything okay?" He kept his eyes on my face.
 
-Leon's eyebrows went up. "Go ahead."
+I couldn't give him a shrug this time. "No."
 
-"I overrode one of the pods tonight." I kept my voice even, watching Leon's face. "Used my dad's manual. That's what caused the blackout earlier. It wasn't the hardware failing on its own."
+Worry crossed his face, quick, before he smoothed it over. I had to be honest with him. I was the one who'd caused it.
 
-Leon went very still. "Is the machine okay?"
+"All right." He turned the tablet a quarter turn on the counter. "What's wrong with the pods?"
 
-"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. Your second pod is a shell right now, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
+I straightened off the counter. "That's what I came to talk to you about."
 
-I shifted my weight off the counter, my legs still not quite trusting the floor after the pod.
+"Okay, then." He folded his arms. "Go ahead."
 
-Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
+I made myself say it plain. "I hotwired the pod tonight. I had to override the slot with my dad's manual to get the drive to run. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
-"That's why the session ran long. It wasn't the game. It was convincing the pod to accept the drive in the first place."
+Leon went still, and for a second the only sound was the front desk monitor humming. The frustration showed plainly on his face, but he swallowed it down and waited before he spoke, his voice low and level. "I told you that pod only plays retro games. I told you what happens if you push something newer through it. That's the only moneymaker I've got."
 
-Leon started to say something, stopped, and shook his head slow instead.
+"It still runs," I said, keeping my hands where he could see them.
 
-"The second pod's the harder problem," I said. "Getting it running is one thing. Doing it right, keeping it running, that needs parts that don't exist on any shelf anymore." I paused a moment. "I know where to find what I actually need, though."
+"You started work on my machine without asking." His fingers pressed white against the edge of the counter. "Typically I'd throw out anyone who touched that. So what's stopping me from kicking you out right now? You must have a plan, or you wouldn't have walked up here. Or did you just come to tell me my stuff is broken?"
 
-"Where?"
+I stayed where I was. "I checked it over before I stepped out. The core is nearly dead, the drive slot's built for older drives, and the wiring's cheap. It read twenty percent when I first logged in, and nineteen after one session."
 
-"Tochi."
+"So the one session drained it?" He tilted his head, doing the math behind his glasses, and it wasn't making him happier.
 
-Leon blinked. His face rearranged itself, quick and visible. "The Tochi Academy."
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "Dad left notes and schematics on the Kazehaya VR pods, so I know what I'm looking at. I'm not buying cores. I'm building one. From scratch it would've been brutal, but you've got two pods here to work from, and I think a core that can carry a newer title is doable. My Haya EB has lasted years, and all I've done is upgrade it. Dad's work doesn't die."
 
-"Yeah."
+"Building it with what?" Leon rested a forearm on the counter.
 
-"That explains a lot, actually."
+"I don't have the lab or the parts. Not yet." I looked at the lamp over the counter, buzzing faintly, instead of at him.
 
-"Wasn't trying to hide it," I said. "Just wasn't relevant until now."
+Leon laughed once, short and humorless. "A lab and parts like that aren't cheap, and I'd know. Are you rich or something, kid?"
 
-Leon leaned back against the counter, arms loose. "Okay. Here's what I want to do. I'll get a tech in here tomorrow, start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
+"No." I met his eyes again. "But Tochi has both."
 
-"I can do that."
+"Tochi." He said it flat, with an edge. "What do you know about Tochi?"
 
-"And if this actually comes together," Leon said, "one of those pods is yours. Permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. Just keep it quiet until we're actually ready. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"I was enrolled there." I took my wallet out and slid my old student ID across the counter. It was last year's, the corners gone soft, my face a little younger on it. "I haven't been in a while. After my dad died, I took a break."
 
-*"Sponsored."* I turned the word over once. *"Yeah. Okay. I can work with that."* A muscle in my cheek twitched as I tried to keep a grin off my face.
+Leon picked the card up and read it, then read it again. "The Tochi Academy." He said it like the name had weight in his hand. "Merit entry only. Every top student in the country is fighting for a seat." He slid it back. "And you were in."
 
-"One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
+"Yeah." I put it away.
 
-"I'll get it done," I said.
+"That makes sense, then." His shoulders came down a fraction. "I'm not going to judge anybody for missing school. My sister's the same."
 
-I meant it more than the two words let on. Patching a pod with a bypass and Dad's old notes was one thing. Getting it clean enough to pass a real safety inspection was something else, and Tochi had the coursework and the parts.
+He studied me. "An HGO drive running on one of the Kazehaya pods, especially one that old, is impressive. You really got that running?"
 
-I scratched along my goatee. The thought had felt like a loss a week ago. It didn't feel that way anymore.
+I gave a small shrug. "Barely."
 
-"I believe you," Leon said.
+He let a breath out through his nose. "So going to Tochi is the only way to get that done?"
 
-Outside, my breath misted in the cold. I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the half-second scan until the dash lit green and the visor threw the route line across the street. The motor hummed steady under me. It held. *"Good. Hold for me one more night."*
+I rubbed the back of my neck. "That's my lead. Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
 
-Two things before I went home. The hospital, then the thread with Chiyo I'd left on a thumbs-up.
+"I see." Whatever anger he'd been holding ran out of places to go. "I guess you're not just a kid being hopeful, then. You really thought this out." His voice dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He thumbed the tablet back to life, nervous, and let it dim again. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
-I pulled out into the street.
+Leon took the cigarette from behind his ear and lit it, turning his head to let the smoke out toward the window, away from me, the way you do around somebody younger. He took a deep breath, and for a moment I didn't know what was going to come out of his mouth. Then he took another drag and spoke.
 
-The ride to the hospital ran on muscle memory, my hands steady on the grips. The city blurred past in orange and white, thinner than at noon, the dinner crowds gone and the late ones not out yet.
+"All right. I've got a proposition for you." He straightened. "My sister Arya ran a guild and got it into the top eight last season, so I know bits and pieces of how this works from trying it with her. Some guild drama got in the way, and I had to pull back, or it would have affected the business." He tapped ash into the saucer by the register. "It's going to take time, I know. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector tomorrow. If you're serious about getting those pods up, how long before profit starts coming in?"
 
-The hospital came up on my left, white-lit and too clean. I parked in the visitor lot, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing. It always hit me there, every single time, like my body had already memorized the building.
+"Depends." I thought about how little I actually knew about this goblin. "I'm still learning the class. I know the game, not what this build does yet. If I have the proper time, I think I can make it, and there's more riding on it than I can say right now." It came out surer than I felt.
+
+Leon took another drag. "More than you say." The smoke hung between us a second. "Mhm. What do you mean by that?"
+
+I looked at the lamp, buzzing faintly, and then back at him. "You said you picked up bits and pieces from your sister's run." I let it hang. "So if I told you I ran across a World Quest..."
+
+Leon didn't say anything. The silence ran long enough for the lamp to buzz twice. Then he woke the tablet, thumbed to the trending page, and read the name off the screen like he needed to see it written down.
+
+"Well, goddamn." He let the smoke out slowly and looked up at me, and for the first time all night he looked impressed. "Nykri. That makes sense why you'd gamble on all of this."
+
+"I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw money out of it, even the ones that never saw a single drop. People pay to watch something that can't happen twice."
+
+Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the tablet. His eyes went to the dark hallway and stayed there a second. "If we're going to work together, you can't do what you did today. I have to be on top of things from the start." He finally looked at me. "I know you gambled coming in here, and I'm not going to say I'm happy about it. But I feel like we can really do something with this, if we're on the same page."
+
+I'd known that part was coming, and he had every right to say it. It landed square, and I let it. "You're right," I said. "I should've come to you before I touched anything."
+
+"Come in at nine, nine-thirty when we open." He rubbed the bridge of his nose. "Open to close, with the booth monitor running and me watching it. We can work out the paperwork if any's needed. When the second one's up, it's ours. It stays quiet until the clearance comes through." He said it fast, like a man reading out the odds on a bet he'd already placed.
+
+*"Good. Now I can focus on the next step. Getting back into Tochi, and this World Quest. Then Mom."* My thoughts ran back to why I was doing all this. Our family needed her.
+
+"I'll get it done," I said, and held his eyes until he nodded.
+
+"I believe you." He walked me to the door. The sign flipped behind me and the lock clicked.
+
+Outside, I stowed the backpack in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed it out.
+
+**[I want to go back to Tochi.]**
+
+I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the scan until the dash lit green. The motor hummed steady under me on the new battery I'd put in. *"Good. It's holding."*
+
+Two things to deal with on the way home. The hospital, then whatever Chiyo said back. The ride ran on muscle memory, my hands steady on the grips, the city blurring past in orange and white, the quiet it only got after the dinner crowds went home.
+
+The hospital came up on my left, white-lit and too clean, HANAMIZUKI GENERAL in blue letters over the entrance. My phone buzzed against my ribs before I'd killed the motor. Chiyo.
+
+**[Chiyo: That's great, Tatsu. What changed?]**
+
+I read it twice, once for the words and once for what she hadn't bothered spelling out, and put the phone away. Mom first. I took the stairs two at a time, and the antiseptic smell hit me before the second floor landing, like my body had already memorized the building.
 
 Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
 
-She looked smaller than I remembered. She always did when I came back after a few days away, the blanket lying flat across her where it should have lifted. Monitors beeped quiet and steady beside the bed, the IV drip slow and regular, her face turned toward the window.
+She looked smaller than I remembered. Three years in that bed, and every visit took a little more of her. Six foot two, a volleyball star who used to duck under doorframes and drive a ball through a block, and the bed had let the air out of her like a ball left too long in the gym. Her cheeks had hollowed, and her wrist lay thin on a blanket that lay flat where it should have lifted. The IV was doing the eating for her now, and it showed. Monitors beeped quiet and steady, the IV drip slow and regular, her face turned toward the window.
 
-I pulled the chair close and sat, elbows on my knees, hands loose between them.
+I pulled the chair close and sat, elbows on my knees. "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
-"Hey, Mom." I kept my voice low. "I know it's been a minute."
+The monitors kept beeping. "I found a way to finally help, Mom." A braided loc had slipped down over her forehead, out of place the way mine always got, and my hand went to it before I thought, tucking it back behind her ear. "Just a bit more time." My voice caught, and I let it. "You're going to get better. And the twins... they've gotten so big. We miss you, Mom."
 
-The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something I couldn't catch.
-
-"I got into the game," I said. "HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short sound, almost a laugh. "I was going for the Elf Spellforger, the build I drew up, and the power went out mid-creation. Whole thing glitched, and now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
-
-I leaned back and pushed the loose loc behind my ear where it kept falling.
-
-"But I made some money already. Sixteen thousand eight hundred yen off two elixirs I got from a kill."
-
-The words came easier here than they did anywhere else.
-
-"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
-
-I stopped, my throat going tight. I let the quiet sit a second before pushing through it.
+I left my hand against her hair a second longer than the loc needed.
 
 "I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
-The monitors kept their rhythm. The room stayed quiet.
+"I'm gonna figure it out. I always do." I said it to the window as much as to her. I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
 
-"I'm gonna figure it out. I always do."
+The nurses' station sat at the bend in the corridor, one lamp on over a chart. I was almost to the corner when I heard Mom's name, and I stopped short, out of the lamp's reach, with the wall between us.
 
-I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
+"Kazehaya, Ohema." Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted, ran a finger down the page of the file open between them. "Here, in Dr. Inoue's notes. Six months. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
 
-I was halfway down the hall when I heard them. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
+I pressed back against the wall at the corner. They hadn't seen me.
 
-"...six months," one of them was saying. Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted. "Dr. Inoue was clear. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
+"And this." The second nurse turned the page and tapped a line near the bottom. "The family contact asked us to keep the prognosis quiet. Chiyo. She didn't want the family worrying."
 
-I stopped walking.
+"I know," Ms. Sugiyama said. She closed the file and squared it against the edge of the desk. "But that boy deserves to know."
 
-"Chiyo asked us to keep it quiet," the second nurse said. "She didn't want the family worrying."
+"Not our call," the second nurse said, already reaching for the next chart.
 
-"I know," Ms. Sugiyama said. "But that boy deserves to know."
+Their voices dropped as they moved off down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
 
-"Not our call."
+*"She knew and she didn't tell me. Why?"*
 
-Their footsteps faded down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
+The anger came fast and clean, hotter than anything I'd felt since Dad's funeral, and it dragged all of that back up with it. I couldn't think straight. I stood there trying to pin it together. I'd known things were bad for a while, but why hadn't she told me?
 
-*"Six months. And Chiyo knew. She knew and she didn't tell me."*
+She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
 
-The anger came fast and clean, hotter than anything else I'd felt all day. Being kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
+I took the stairs down hard, trying not to run into either of the nurses, and went out the back exit, which meant walking all the way around the building in the cold to reach the lot. The EB sat where I'd left it. I pressed my thumb to the touchscreen, the dash took its half-second to read my print and lit green. I pulled my phone back out. Chiyo's question was still sitting there.
 
-She was trying to protect me. The thought didn't help.
+*"What changed?"*
 
-I turned and walked, not toward the exit, just away from the voices, counting the ceiling lights as they passed because it gave my head something to hold. By the sixth one I'd lost count, and the corner came up fast.
+I sent back one word.
 
-The collision knocked the air out of me, a shoulder catching my chest, papers exploding outward in a soft white flurry. A small startled sound came from whoever I'd walked into, and my hands were already moving, catching an elbow, steadying someone before either of us actually went down.
+**[Me.]**
 
-"Sorry, I wasn't," I started, and then I actually looked at her.
-
-Twin buns. Glasses that seemed specifically designed to make her forgettable and were failing completely at the job. She was already crouching to gather pages, hands quick and practiced, and when she looked up at me, something in her face did the exact same double-take mine just had.
-
-Neither of us said anything for a second that ran a beat too long to be nothing.
-
-"It's fine," she said, too fast, like she needed to get ahead of the silence. "I wasn't watching either."
-
-I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, screen still lit, the blank username field still open and waiting.
-
-"You play?" she asked, tilting her head, a real question.
-
-"Just started." I turned the phone slightly without meaning to. "Haven't even got a name yet."
-
-Something flickered across her face, amused, like I'd said the funniest thing she'd heard all week. "Well, let's change that. What did you have in mind?" She reached over and tapped the screen before I could stop her, the prompt still sitting there patiently.
-
-My thumb hovered a second, then I just typed it, letters and a number, done before I talked myself out of it.
-
-**[USERNAME SET: TDRAG]**
-
-"There," I said, and held the screen up.
-
-"TDRAG." She said it slow, testing how it sat. "I like it."
-
-We finished stacking the last of the pages in a silence that had stopped being awkward somewhere in the last thirty seconds. I was close enough now to see the seam where her glasses didn't quite sit right on her face, like they weren't originally hers.
-
-She stood first, I followed, the stack of papers changing hands without either of us fully letting go for a second.
-
-"I have to go," she said, and somehow didn't sound entirely like she meant it. She pulled a pen from her jacket pocket, scribbled fast on the corner of one page, tore it free, folded it twice, and tucked it into my jacket pocket herself. Her hand rested against my chest for half a second longer than the motion needed. "My code. Add me sometime."
-
-"Wait," I started.
-
-"Good luck with the game," she said, taking the papers from me and turning, already three steps into the hallway before I'd finished the sentence. "Hope to see you soon."
-
-I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms, some part of me already running the last thirty seconds back to confirm it had actually happened.
-
-I set the papers on the nearest chair and unfolded the note.
-
-A friend code sat at the top, a string of letters and numbers in clean, careful handwriting. Beneath it, a date.
-
-December 23rd. 689450YY
-
-*"Two days before Crownfall."* I turned the paper over, checking the back in case something else was written there. Nothing.
-
-I pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. Six months. Chiyo knew. The two things sat next to each other, the note and the sentence, and neither one would stay separate from the other.
-
-I pulled out my phone.
-
-Chiyo's last message sat at the top of the thread, the one about Tochi I'd answered with a thumbs-up because a thumbs-up cost me nothing.
-
-She'd kept this from me because she thought it would break something. She was wrong. I scratched at my goatee once, hard. This was my call.
-
-I slid the phone back into my pocket before continuing out of the building.
-
-The decision was already made.
-
-**[END CHAPTER SIX]**
+**[END CHAPTER SEVEN]**

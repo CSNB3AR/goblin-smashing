@@ -8,7 +8,7 @@ A notification flickered at the edge of my vision before I could stop myself fro
 
 Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it. I shoved it out of view without opening it. Chat could wait.
 
-Kesh hadn't moved from the spot he'd skidded to a stop in, one hand still braced hard against his knee, claws gone pale at the tips, his breath coming in short, ragged pulls that hadn't evened out at all.
+Kesh hadn't moved from the spot he'd skidded to a stop in, one hand still braced hard against his knee, knuckles gone pale, his breath coming in short, ragged pulls that hadn't evened out at all.
 
 *"Someone should tell his lungs the danger's already over."* The corner of my mouth twitched toward a grin I had no business wearing right now, and I flattened it out again before it could fully surface.
 
@@ -22,7 +22,7 @@ Every word cost him something. My weight shifted forward without me deciding to,
 
 Sevish's stance squared, his scarred hand tightening on the axe shaft. "That's not a for-sure number, Kesh." His tone carried an edge now, the kind that said he was running out of patience. "I take it as four for a safe number, and you're telling me four men gave you all this trouble?"
 
-Kesh scratched at the back of his head again, his claws catching in matted hair, his eyes dropping to the dirt. "They attacked us. Random. They have caster."
+Kesh scratched at the back of his head again, his fingers catching in matted hair, his eyes dropping to the dirt. "They attacked us. Random. They have caster."
 
 *"The wisdom of goblins really shone in a crisis, didn't it."* A laugh threatened behind my teeth, and I let it die there instead of on my face, not with Sevish standing right there working through an actual threat.
 
@@ -34,11 +34,11 @@ Sevish's eyes tracked to me for half a second, something passing behind them, th
 
 "They're using our own rally point against us," I said, half to myself.
 
-Wyx's head turned sharp at that, her green eyes narrowing with something close to interest. "You've seen it."
+Wyx's head turned sharp at that, her amber eyes narrowing with something close to interest. "You've seen it."
 
-"Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's claws still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
+"Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's fingers still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
 
-**[AFFILIATION: THRASH CLAN 10% → 12%]**
+**[AFFILIATION: THRASH CLAN 45% → 47%]**
 
 I wondered what that meant. I kept my expression flat, my eyes on Sevish, not letting the notification distract me.
 
@@ -46,11 +46,11 @@ Wyx was already moving before Sevish said another word, her voice pitched to car
 
 A notification bloomed at the edge of my vision, gold-bordered, bigger than anything else that had come through tonight.
 
-**[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 50/50]** **[INVASION TIMER: 00:04:37]**
+**[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 25/25]** **[INVASION TIMER: 00:04:37]**
 
 I dismissed the notification and pulled up my own character sheet instead, the blue UI screen resolving clean in my vision.
 
-**[CHARACTER: TDRAG]**
+**[CHARACTER: NYKRI]**
 **[RACE: SHIV GOBLIN]**
 **[LEVEL: 7]**
 **[TITLE: THE FIRST DESCENDANT OF SHIV]**
@@ -124,7 +124,7 @@ Two goblins fell in on either side of me without being told to, one of them the 
 
 They stopped at a tent near the far edge of camp, smaller than Sevish's but still standing on its own, a crude nameplate carved into the post beside the flap.
 
-**[WAR TENT – ELDER T-DRAG]**
+**[WAR TENT – ELDER NYKRI]**
 
 I pushed through the flap and let it fall shut behind me.
 
@@ -164,7 +164,7 @@ My phone had a dozen notifications stacked on the lock screen, more than I'd eve
 
 *"I'm not a no-name anymore. I have to move smarter, with people watching my moves now."* I stared at the number, water still dripping off my chin, and it didn't feel real.
 
-I thumbed it open and the feed loaded slow, clip after clip of the same green-skinned figure kneeling in ash and smoke. A handle I didn't recognize had stitched together every notification bracket from the Shiv scene into a single clip captioned "did anyone else catch this live." Another had zoomed in on the necklace, freeze-framed, circled in red, captioned "world tier confirmed, somebody check the wiki." My own name, T-Drag, sat tagged in reply after reply. I scrolled until my thumb cramped and made myself stop, setting the phone on the edge of the sink.
+I thumbed it open and the feed loaded slow, clip after clip of the same green-skinned figure kneeling in ash and smoke. A handle I didn't recognize had stitched together every notification bracket from the Shiv scene into a single clip captioned "did anyone else catch this live." Another had zoomed in on the necklace, freeze-framed, circled in red, captioned "world tier confirmed, somebody check the wiki." My own name, Nykri, sat tagged in reply after reply. I scrolled until my thumb cramped and made myself stop, setting the phone on the edge of the sink.
 
 I pulled up my HGO account next, and there it was, a button that hadn't existed the last time I'd checked this screen.
 
@@ -232,7 +232,7 @@ Everything Eren built was starting to come apart. I pushed off the wall and head
 
 I was already down the hallway, thumb still hovering over my phone, when a voice cut through the noise behind me.
 
-"Hey, T-Drag."
+"Hey, Nykri."
 
 My whole body froze for half a second before my brain caught up to whose voice that actually was. Not Leon's. Different pitch, different rhythm, and it took me a second longer to place exactly why that mattered.
 

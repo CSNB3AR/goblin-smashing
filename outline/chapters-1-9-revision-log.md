@@ -906,7 +906,7 @@ AFTER:
 ```
 
 ### 10.5  (approx. line 421)
-*NEW, PROPOSED: Part Two adapted from the "Part Two" section of draft 1 in Chapters_8-9.pdf. Beats kept; paragraphs split to one speaker each; the shadow-clone tome (Art of Shadows) replaced by the Doppelganger's Band from Joss, the enchanter, MP cost 60 against a 32 MP bar (new canon); the duplicate stream-on exchange dropped because Part One already flips the stream live; Leon cutting the feed added to match Part One. Handles use the codex spellings (Pac_Pac, Taja_11, PK_Wraith, T_Drag).*
+*NEW, PROPOSED: Part Two adapted from the "Part Two" section of draft 1 in Chapters_8-9.pdf. Beats kept; paragraphs split to one speaker each; the shadow-clone tome (Art of Shadows) replaced by the Doppelganger's Band from Joss, the enchanter, MP cost 60 against a 32 MP bar (new canon); the duplicate stream-on exchange dropped because Part One already flips the stream live; Leon cutting the feed added to match Part One. Handles use the codex spellings (Pac_Pac, Taja_11, PK_Wraith, Nykri).*
 
 BEFORE:
 ```

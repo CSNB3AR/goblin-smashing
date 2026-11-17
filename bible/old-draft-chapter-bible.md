@@ -68,7 +68,7 @@ Extended combat setpiece. Drosh's "Veil-Pierce Gaze" lets Rin scout an enemy pla
 - **Kazuto Tabuchi** — Eren's father, head of the Tabuchi family. Cold, controlling, ruthless. Explicitly references knowing about the stolen build and hints at deeper complicity in Daichi's death.
 - **Shinji Takamura** — Tabuchi family butler/retainer. Source of the threatening messages to Rin.
 - **Haruto Murayama** — Kansai Black Lotus's star tank, "Rookie of the Year." A much bigger character in the old draft than his current minor-customer appearance, quits the team publicly over Eren's toxic leadership and the stolen-build history, and semi-publicly hints the real creator should step forward. Strong candidate for a bigger role.
-- **Arya (Aria)** — Leon's younger sister. Red hair, street-biker aesthetic, own HGO drive and account, sharp and guarded, genuinely plays the game herself.
+- **Arya (Aria)** — Leon's younger sister. White hair in a messy bun, tattoo sleeves, grey eyes, strong full-figured build (updated from the old red-hair note), own HGO drive and account, sharp and guarded, genuinely plays the game herself.
 - **Ms. Sugiyama** — hospital nurse, warm recurring presence, teases Rin and Yuna.
 - **Dr. Inoue** — treating physician for Ohema, delivers the surgery deadline stakes.
 - **Rian, Spellweaver_Lyn, Talo, Joss** — New Covenant guild party, Level 6, cashed-in Legacy Point gear. Good template for how enemy players talk and coordinate under pressure.

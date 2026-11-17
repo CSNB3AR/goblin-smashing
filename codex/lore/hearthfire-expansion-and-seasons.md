@@ -123,7 +123,7 @@ After the world maps release, the war the story is about is **Node Wars across t
 
 ## Currency
 
-- **Shillings** are the in-game currency. **10 shillings = 1 HGO Coin = 4 yen** (so 1 yen = 2.5 shillings, derived, the shilling rate itself unchanged). The coin is the cash-out token. Purchases inside the game need shillings, not coins. Prices on the page stay in yen.
+- **Shillings** are the in-game currency. **10 shillings = 1 HGO Coin = 4 yen** (so 1 yen = 2.5 shillings, derived, the shilling rate itself unchanged). The coin is the cash-out token. Purchases inside the game need shillings, not coins. Item values on the page now read in shillings (author-stated, Chapter Seven; supersedes "prices stay in yen"): a sale is a three-stage chain, shillings (the in-game sale), then HGO Coins (10 shillings each), then yen (4 per coin, the bank cash-out, which needs a linked bank account). Worked example: a Minor Elixir is 21,000 shillings = 2,100 coins = ¥8,400, so the pair is 42,000 shillings = 4,200 coins = ¥16,800. Why it sold instantly and high: the open beta market refresh left standing buy orders stacked from guilds that wanted mana restoratives early; prices settle within about a week.
 - **Legacy Points** convert to **Legacy Silver** plus Legacy items. **Legacy Silver is locked until Hearthfire.** Only closed-beta veterans are affected by the lock, and they get a 24-hour cash-out window between closed and open beta. Earnings made in open beta cash out normally.
 - **Why the coin holds:** the company behind HGO has real holdings in industrial rigs and natural resources. Nobody knows who the owner is. Criminals and police are background texture only (see `codex/lore/hgo-timeline-and-real-world-stakes.md`).
 
