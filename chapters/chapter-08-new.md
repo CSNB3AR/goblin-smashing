@@ -30,13 +30,13 @@ A notification blinked into existence, soft green text.
 
 I scanned the tent, letting my eyes adjust to the dim lamplight. I was still wearing the same torn prisoner rags, one shoulder split halfway down the seam, the fabric rough and scratchy against my green skin. The empty Goblin Gadget Belt sat at my waist, pouches hanging limp with nothing loaded yet.
 
-The kid was still here.
+The kid was in here.
 
 The smaller goblin, the one I'd stepped in for yesterday, was sitting near the tent flap, knees pulled up to his chest, waiting.
 
 The kid looked up the second my presence fully resolved, scrambling to his feet before either of us had said anything, his whole posture eager in a way that hit harder than I expected.
 
-*"Guess Sevish and the others threw him in here too."*
+*"Wait. They kept him in the big tent with Sevish. What's he doing in here?"*
 
 "Y-you woke up," the kid said, his voice pitched slightly too high, cracking on the last word.
 
@@ -44,7 +44,7 @@ The kid looked up the second my presence fully resolved, scrambling to his feet 
 
 I rubbed the back of my neck with one green hand, the motion automatic even though the proportions were wrong.
 
-"What's going on out there?" I said, my eyes redirecting over to the kid. "Who's hitting the camp?"
+"What are you doing in here?" I said, my eyes redirecting over to the kid. "What's going on out there?"
 
 "S-Sevish sent me over t-" the kid said, his eyes flicking toward the flap.
 
