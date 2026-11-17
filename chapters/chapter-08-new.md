@@ -14,7 +14,7 @@ A red alert cut across my vision before the location tags had finished fading.
 
 **[ATTACK DURATION: 00:58:41]**
 
-*"Who's attacking? Someone tracking the quest? I knew this was coming the second my name went public. At least I got on in time."*
+*"Someone tracking the quest? I knew this was coming the second my name went public. At least I got on in time."*
 
 The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen, so take your time."
 
