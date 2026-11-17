@@ -80,8 +80,6 @@ Ash and smoke poured in through the gap in the tent flap, moving slow and delibe
 
 The nameplate read gold.
 
-*"Shiv. The name from those two dead forum threads. That's all I've got on him."*
-
 The kid behind me had gone completely still. The color around him had gone dull, washed thin and gray. A fine mist crawled low across the packed dirt outside that hadn't been there a second ago.
 
 Three notifications stacked on top of each other in rapid succession, each one flashing brighter red than the last.
@@ -128,7 +126,7 @@ The figure stepped even closer, ash trailing behind him, and the temperature in 
 
 I reached to scratch my chin where my goatee should have been and found smooth goblin skin, my mind working faster now.
 
-*"Sixteen thousand eight hundred yen yesterday off two elixirs. If this quest chain pays the same way, I'm in."* I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
+I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
 
 A small notification ticked in the corner of my vision, easy to miss against everything else.
 
