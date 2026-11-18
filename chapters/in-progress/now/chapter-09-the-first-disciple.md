@@ -346,9 +346,9 @@ The guard didn't move right away, his mouth working like he was trying to form w
 
 He turned to the second guard without waiting for an answer, his voice tight. "Go. Get the chief. Fast."
 
-The second guard took off at a run, his boots kicking up dust as he cut through the crowd that had started gathering outside.
+The second guard took off at a run, his boots kicking up dust as he cut through the goblins hurrying toward the palisade.
 
-I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see more goblins drifting closer, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I felt every eye out there on my skin.
+I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see goblins on their way to the palisade slow as they passed, staring, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I felt every eye out there on my skin.
 
 **[VIEWERS: 3,982 → 6,804]**
 
@@ -358,11 +358,11 @@ Leon came through low and a little stunned. "Sixty-eight hundred watching. Follo
 
 "Staying," I said under my breath. "Six to five-eighty. Guess the hair's doing numbers."
 
-It took a couple of minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
+It took a couple of minutes before Sevish and Wyx came through the running goblins fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
 
 "You've been," Sevish started, and didn't finish the sentence right away. "When. How long has this."
 
-"Just now," I said, cutting the confused Sevish off while stepping toward them, Ru following. "He came to me and explained the situation, the clans at Myrrhwood."
+"Just now," I said, cutting the confused Sevish off while stepping toward them, Ru following. "Shiv came to me. He wants the goblins standing together."
 
 Wyx's sharp amber eyes went from the necklace to my hair, to Ru's new towering frame, and back again.
 
@@ -396,7 +396,7 @@ I followed Sevish and Wyx through the open ground, Ru close at my shoulder, gobl
 
 We were maybe ten paces from the entrance when a goblin came sprinting through the gap between two tents, Kesh, one of the camp scouts, breathing hard, blood streaked across one sleeve that wasn't his own.
 
-"Chief," Kesh gasped, one hand braced against his knee, chest working hard for air. "Kesh bring news. Patrol line, east. Party hit it. Two dead already, before Kesh and the others even see them coming."
+"Chief," Kesh gasped, one hand braced against his knee, chest working hard for air. "Kesh bring news. Patrol line, east. Party hit it. Five dead already, before Kesh and the others even see them coming."
 
 I stopped and turned to face him square on.
 
