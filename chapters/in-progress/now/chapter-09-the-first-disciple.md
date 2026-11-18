@@ -148,7 +148,7 @@ The Call of the Bones tag never left my HUD. I filed it away and stayed on my kn
 
 "What did you do?" I asked, my arm trembling under my weight.
 
-"That, too, you will have to find yourself," Shiv said. "There is more of my story out there than I can tell you now, and some of it will serve you as you grow." The green eyes didn't blink, just burned steady in the smoke.
+"If I told you everything that happened, I would fade before I gave you my warning," Shiv said. "I have been gone forty-five years, and what I know is scattered across Eryndal. Find it, if you truly want my tale. Some of it will serve you as you grow." The green eyes didn't blink, just burned steady in the smoke.
 
 I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
 
@@ -166,15 +166,15 @@ The number kept climbing.
 
 *"I can't take this back. Whatever happens here, everyone's going to see it."* A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
 
-"Alright," I said, my voice steadier now even through the drag. "So why me? You've got a whole camp of goblins out there. Why pull me in here specifically?"
+"Alright," I said, my voice steadier now even through the drag. "What's the warning? And why me, with a whole camp of goblins out there?"
 
 Shiv's burning green eyes stayed locked on my face.
 
-"Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "Goblins have never truly stood together, not once. I've done what I can to keep the clans from finishing each other off, but that's not the same as fixing it."
+"The rot in that kingdom does not begin and end with the king," Shiv said, and the ash flickered again. "Others are gathering power even now. If goblins do not find a standing sooner rather than later, and someone else takes the throne, the demi-humans will never be given another chance. As for why you, my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once."
 
 *"Guilds are probably watching. Everyone is."*
 
-"What I'm asking will take disciples," Shiv continued.
+"To do what I'm asking, you will need strength, which is why I am giving you my gear," Shiv continued. "And it will take disciples."
 
 His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
 

@@ -101,3 +101,7 @@ Shiv's scene is now Chapter Nine, "The First Disciple". Flamonta lands inside Ta
 > "What I'm asking isn't small, either," Shiv continued. "It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you're at it. But that takes disciples."
 
 **New ledger detail for the reveal (author-stated).** Shiv and the first queen (Isaveil, see `codex/lore/lunarest-royal-court.md`) were childhood friends who already had a bond before the king married her; the king was corrupt, and much more was entangled. The first queen is lost to history: the second queen is the one remembered as the first. Tatsuya eventually finds the details of the affair and why it happened. Do not state "affair" or "queen" to Tatsuya until he reaches the archive.
+
+## Chapter Nine: the warning and the reason for the gear (author-stated, latest)
+
+Shiv gives Tatsuya a warning, not his history: the rot in the Kingdom of Lunarest does not stop with the king, others are gathering power, and if the goblins do not find a standing soon and someone else takes the throne, the demi-humans will never get another chance. The third prince is not named. The gear exists to give Tatsuya the strength to act on that warning (cause and effect, not a gift for nothing). Shiv has been gone forty-five years and his tale is scattered across Eryndal. Ledger only: a world quest can be overtaken, because if other storylines activate and resolve before Tatsuya's, they can cancel his.
