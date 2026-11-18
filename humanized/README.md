@@ -4,6 +4,7 @@
 
 - `chapters/` holds the **original (unhumanized)** version of each chapter and stays untouched, so there is always a clean version to check against if something feels off.
 - `humanized/chapter-NN.md` holds the **Royal Road live-draft** version of the same chapter. It is assembled from finished sections in `humanized/parts/`.
+- `humanized/walter-only/` holds a version that is Walter's wording with only the necessary fixes (capitalization, dashes, ellipses, thoughts, and meaning errors), with no voice restored, for the author to listen to and compare.
 - `humanized/pre-walter/` keeps Claude's text from before it went through Walter, for reference.
 - Rule: any continuity or canon change is made in the original first, then carried into the humanized version, so the two never drift.
 - Purpose: the author writes and directs the chapter; Walter smooths the wording so it does not read as AI slop; Claude repairs what the humanizer breaks (meaning errors, dashes, ellipses, thoughts, lowercase) without rewriting its wording. For Royal Road readers, not print; an editor comes after Book One.
