@@ -1085,3 +1085,6 @@ There are **two entirely separate accidents**. Never conflate them.
 - Chapter Eleven's opening conflicts with Nine and Ten by design: the author never got to write it, so it is simply rewritten when we reach it. No more flagging it as a conflict.
 - Chapters Nine and Ten are DRAFTS READY FOR WALTER (not final drafts). Each carries `--------` dividers so the author can grab every chunk of 1,400 words or fewer: Chapter Nine splits 1,356 / 1,358 / 1,367 (breaks after "If you're gonna kill me just do it..." and after the "Find the rest of the set" thought); Chapter Ten splits 1,349 / 1,148 / 750 / 1,270 (breaks after Sevish's rush argument, after the Rune Priming exchange, and at the logout). RULE: every draft chapter handed over from now on carries the dividers (1,400 words or fewer per chunk, broken at beat or scene boundaries, never mid-exchange).
 - Backups: ch9-before-dividers.md, ch10-before-dividers.md.
+
+## Inspirations (author-stated, latest)
+- The game is heavily inspired by Albion Online, plus a Log Horizon pull and Kingdom for tactics and large-scale fighting. We may take ideas from these sources as long as everything is reworded and reformatted into our own system. Recorded in `style-guide/inspirations-and-borrowing.md`. The author is listening to Chapter Ten now; any notes will come after.
