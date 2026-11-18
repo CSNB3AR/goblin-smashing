@@ -66,8 +66,6 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 Sevish said nothing. The candles crackled. It would work, and it would cost him a third of the clan to find out.
 
---------
-
 "Then Wyx and I go alone," Sevish said, and the quiet in his voice made the candles sound loud. "Two axes, four casters. We do not need the twelve."
 
 "You'd win," I said. "I don't doubt it for a second."
@@ -86,49 +84,19 @@ Sevish said nothing. The candles crackled. It would work, and it would cost him 
 
 "She makes it a law," Sevish said. "It is the only law I keep."
 
-While she talked I did something I hadn't been able to do the night they chained me. I focused on her, and the panel that had given me nothing but question marks opened clean.
+--------
 
-**[WYX THRASH: LV 25 - HOBGOBLIN - MASTER OF THE BLADE]**
+A small yellow exclamation mark had appeared beside Wyx's tag and Sevish's. I focused on Wyx's, and her panel opened again with more in it than the night they'd chained me: a few stats filled in, and the skills list unrolled partway and stopped.
 
-**[AFTERIMAGE CUT - BLADE - TIER 3: TWO STRIKES FROM TWO SABRES, AND A THIRD THAT ARRIVES A BEAT LATE FROM ANOTHER ANGLE]**
+**[WYX THRASH: LV 25 - HOBGOBLIN - BLADE DANCER]**
 
-**[WINDING STEP - BLADE - TIER 3: A SIDESTEP THAT SLIPS OUT OF MELEE RANGE]**
+**[CHALLENGING HOWL - THRASH TECHNIQUE]**
 
-**[DEFIANT WHIRL - BLADE - TIER 4: A GUARDED STANCE THAT ENDS IN A SWEEP]**
+**[???]**
 
-**[DANCE OF BLADES - BLADE - TIER 5 - RARE: A FIVE-BEAT FLURRY THAT SPENDS ALL OF HER TEMPO]**
+**[???]**
 
-**[CHALLENGING HOWL - THRASH TECHNIQUE - TIER 3: ENEMIES WITHIN EARSHOT MUST TURN ON HER]**
-
-**[TEMPO - PASSIVE: HITS AND DODGES BUILD IT, BEING STAGGERED BREAKS IT]**
-
-**[GOBLIN KIT: TOXIC BREATH]**
-
-**[TEACHES: WINDING STEP - NOT YET TAUGHT]**
-
-*"Twin sabres. That's what the two curved hilts at her back were, the ones I'd taken for part of the cloak. Master of the Blade. It fits the way she moves."* Then I read the fifth line again. *"Challenging Howl. Sevish's roar froze me where I stood the first night. Hers doesn't freeze anyone, it drags every eye in earshot onto her. That's going to come in handy."* The last line stayed with me longer than the rest. *"Teaches. So somebody can learn from her. Not me, and not today."*
-
-I checked Sevish second, because not knowing would have bothered me all night.
-
-**[SEVISH THRASH: LV 80 - HOBGOBLIN - BERSERKER OF THE AXE]**
-
-**[RECKLESS SWING - AXE - TIER 2: A HEAVIER SWING THAT LEAVES HIS GUARD OPEN]**
-
-**[MOMENTUM CHAIN - AXE - TIER 3: A CHAIN OF SWINGS, EACH HEAVIER THAN THE LAST]**
-
-**[REAPING ARC - AXE - TIER 4: A WIDE FRONTAL ARC WITH A VISIBLE WIND-UP]**
-
-**[BLOODLUST - AXE - TIER 4: FOR A SHORT TIME EVERY HIT FEEDS HIM AND HIS GUARD FALLS]**
-
-**[CHALLENGING HOWL - THRASH TECHNIQUE - TIER 5: A ROAR THAT PINS THOSE FAR BELOW HIM]**
-
-**[EARTHSPLITTER - AXE - TIER 6 - RARE: A SLOW OVERHEAD CHOP THAT SPLITS THE GROUND IN A LINE]**
-
-**[PAIN IS PROOF - RARE PASSIVE: BELOW HALF HEALTH, EACH WOUND FEEDS HIS NEXT SWING, UP TO A LIMIT]**
-
-**[GOBLIN KIT: TOXIC BREATH]**
-
-*"Every one of them is a way to hit harder. Not a spell on the list, and I can see why he doesn't need one."*
+*"The more I learn about someone, the more the panel gives me. And it only shows what they've shown me."* Sevish's had the same gaps under **[SEVISH THRASH: LV 80 - HOBGOBLIN - BERSERKER]**, and the same line sat at the top of it. *"Challenging Howl. The roar that pinned me to the dirt the first night, and Wyx has it too. That could come in handy."*
 
 I looked at the road on the map, the single line down to the red mark. *"One way in, one way out. It's the breach at Thornwatch all over again, London Spire bleeding the hall at a single point while nobody inside did a thing about it."* Eren and I used to spend whole nights building answers to that on our tablets. I already had the shape of one. I just didn't have everything it needed.
 
@@ -159,8 +127,6 @@ I focused on the last entry and it unfolded.
 "It rolls a die before it does anything," Leon said in my ear. "Low roll and it fizzles, and it still eats the mana. Thirty-two mana, man. Plan around that, and don't spend it all on the first good idea."
 
 "I know," I muttered, and closed the screen.
-
---------
 
 "I need some time," I said to the table. "I'm going back to my tent to put the plan together. You'll have to trust me on that."
 
