@@ -1,6 +1,6 @@
 # First-Person Voice (Tatsuya's Head)
 
-The story is first person, past tense, locked inside Tatsuya's head, the way *That Time I Got Reincarnated as a Slime* sits inside Rimuru. This file records how the chapters were converted from the author's third-person draft and what must not change. The third-person originals are archived in `chapters-third-person/` and in git history.
+The story is first person, past tense, locked inside Tatsuya's head, the way *That Time I Got Reincarnated as a Slime* sits inside Rimuru. This file records how the chapters were converted from the author's third-person draft and what must not change. The third-person originals are archived in `archive/third-person/` and in git history.
 
 ## The rule
 

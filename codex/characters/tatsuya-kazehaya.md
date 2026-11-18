@@ -65,10 +65,10 @@ Works the register at WattsUp (see `codex/locations/wattsup.md`), Gato's charge 
 
 ## Running bank balance (one account, keep this current)
 
-**One personal bank account, no separate "HGO account."** His WattsUp paychecks and any HGO/market earnings land in the same account (established `chapters/chapter-04.md`, "the account his WattsUp paychecks already landed in"). Any future chapter showing his balance should add to the last confirmed figure below, never display a single deposit as if it were the account's total.
+**One personal bank account, no separate "HGO account."** His WattsUp paychecks and any HGO/market earnings land in the same account (established `archive/old-drafts/chapter-04-old.md`, "the account his WattsUp paychecks already landed in"). Any future chapter showing his balance should add to the last confirmed figure below, never display a single deposit as if it were the account's total.
 
-- **¥47,320** — confirmed `chapters/chapter-02.md`, the morning after buying the HGO access drive, already net of that purchase. First hard figure in the story, treat as the starting point.
-- **¥64,120** — confirmed `chapters/chapter-05.md`, after the two Minor Elixirs sell for ¥8,400 each (¥16,800 total, `chapters/chapter-04.md`), added on top of the ¥47,320 above. Labeled on-page as an **HGO** deposit (elixir sale), not a WattsUp paycheck, keep that label accurate going forward, don't conflate the two income sources in the UI text even though they share one account.
+- **¥47,320** — confirmed `archive/old-drafts/chapter-02-old.md`, the morning after buying the HGO access drive, already net of that purchase. First hard figure in the story, treat as the starting point.
+- **¥64,120** — confirmed `archive/old-drafts/chapter-05-old.md`, after the two Minor Elixirs sell for ¥8,400 each (¥16,800 total, `archive/old-drafts/chapter-04-old.md`), added on top of the ¥47,320 above. Labeled on-page as an **HGO** deposit (elixir sale), not a WattsUp paycheck, keep that label accurate going forward, don't conflate the two income sources in the UI text even though they share one account.
 
 ## Build direction (forward-locked from Chapter 10)
 

@@ -1,6 +1,6 @@
 # Chapters 1-7 Summary (Finalized, first person)
 
-One accurate summary per chapter, generated directly from the final committed prose in `chapters/chapter-01.md` through `chapters/chapter-07.md`, not from earlier drafts or planning notes. The chapters are now first person (Tatsuya's head), so this summary uses "I." Meant as a single continuity reference (e.g. for import into NovelCrafter) covering everything locked so far. Chapter 8 is drafted but still in progress and isn't summarized here yet, see `outline/chapter-08.md` for its beat-by-beat reference in the meantime.
+One accurate summary per chapter, generated directly from the final committed prose in `chapters/chapter-01.md` through `chapters/in-progress/previous/chapter-09-the-first-disciple.md`, not from earlier drafts or planning notes. The chapters are now first person (Tatsuya's head), so this summary uses "I." Meant as a single continuity reference (e.g. for import into NovelCrafter) covering everything locked so far. Chapter 8 is drafted but still in progress and isn't summarized here yet, see `outline/chapter-08.md` for its beat-by-beat reference in the meantime.
 
 ## Chapter One: The Countdown Starts
 

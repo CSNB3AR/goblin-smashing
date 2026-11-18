@@ -1,13 +1,13 @@
 # Chapter Reformat Checklist
 
-How to bring an old chapter (4 to 10) up to the format set by `chapters/chapter-01.md`, `chapter-02-new.md` and `chapter-03-new.md`. One chapter at a time, written to `chapters/chapter-NN-new.md`; the old file stays until the author says to renumber.
+How to bring an old chapter (4 to 10) up to the format set by `chapters/chapter-01.md`, `chapters/chapter-02.md` and `chapters/chapter-03.md`. One chapter at a time, written to `chapters/in-progress/now/` while it is under review (the previous version sits in `chapters/in-progress/previous/`); once reviewed it becomes `chapters/chapter-NN.md` and the old draft goes to `archive/`. (Chapters 1 to 8 are already done this way.)
 
 ## Run it
 
-1. `python3 tools/chapter_check.py chapters/chapter-04.md` lists certain rule breaks (MUST FIX) and lines worth a look (LOOK AT). It never edits.
-2. Rewrite into `chapters/chapter-04-new.md` using the format below.
+1. `python3 tools/chapter_check.py archive/old-drafts/chapter-04-old.md` lists certain rule breaks (MUST FIX) and lines worth a look (LOOK AT). It never edits.
+2. Rewrite into `chapters/chapter-04.md` using the format below.
 3. Run the checker on the new file until MUST FIX is empty, and clear the LOOK AT lines that are real.
-4. `python3 tools/build_chapter.py chapters/chapter-04-new.md` makes the docx and md to send (needs `pip install python-docx`).
+4. `python3 tools/build_chapter.py chapters/chapter-04.md` makes the docx and md to send (needs `pip install python-docx`).
 5. Commit and push, then send the files.
 
 ## The format

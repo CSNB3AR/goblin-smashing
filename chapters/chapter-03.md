@@ -1,313 +1,214 @@
-# Chapter Three: Into Bloodhurst I
+# Chapter Three: Into the Game
 
-The attribute allocation screen hung in front of me, six glowing numbers waiting for my input. Courage, Power, Wisdom, Speed, Fortune, Energy. Two points to spend, the standard per-level allotment, and beneath them, my base stats as a goblin stared back at me.
+I woke up wrong, sluggish and heavy, on the couch where I'd slept most nights since the funeral. Traffic noise leaked up from the street, a scooter whining past, and under it the fridge humming in the kitchen. Sunlight, warm on my eyelids, way past morning.
 
-**[Courage: 4]**
+My phone was still in my hand, the screen dark and cool against my palm. I thumbed it awake: **3:04 PM**.
 
-**[Power: 4]**
+*"No. No, no, no."* I was off the couch before I was fully awake, the blanket sliding to the floor, my heart already going. *"The morning shift. I told Gato I'd cover it."* Extra hours, extra money, and I'd slept straight through it. *"Gato is going to kill me."*
 
-**[Wisdom: 2]**
+A message from him sat at the top of the screen, sent before seven.
 
-**[Speed: 7]**
+**[Opened up myself. Figured you'd be dead on your feet after the night shift. Don't sweat it, kid. Sleep. - Gato]**
 
-**[Fortune: 9]**
+I read it twice. *"Damn. He ain't tripping."* The panic drained out and I dropped onto the arm of the couch. A day off and a game waiting. *"I can't grind that and keep picking up shifts. Sooner or later I have to call Gato and step back."*
 
-**[Energy: 4]**
+The television was still paused on London's flag going up over the ruins. Momo's door stood open, the bed made lopsided the way she did it on her way out. Taji's side of the couch was cold.
 
-Two Wisdom. Almost everyone else started higher. I stared at the number, one hand coming up to rub the back of my neck. It wasn't like I'd wanted the caster build, that was Eren's build now, but a number that low still felt like an insult.
+A note sat on the kitchen counter, folded once, my name across the front in Chiyo's handwriting.
 
-My hand moved toward the race selection, trying to go back, but the interface was locked. The wheel was gone. Only the allocation screen remained, and at the top, in clean white text:
+**[Left early with the twins for the Kyoto trip, didn't want to wake you after the night you had. We'll be back in six days. Please eat something real, not just convenience store rice balls. Chiyo]**
 
-**[RACE LOCKED: GOBLIN]**
+I smoothed the fold. *"The trip. Right."* I opened the fridge, found the container of rice and grilled fish she'd left, and ate it standing at the counter, cold. Six days with nobody home but me.
 
-**[PATRON: SERANIS]**
+My phone buzzed. A text from **Nexus Enterprises**.
 
-**[RARE VARIANT APPLIED: GAMBLER'S GAMBIT]**
+**[Your HGO Access Drive order has been processed and is ready for pickup. Please collect within 24 hours of this notification. Pickup Code: 4472-KAZE]**
 
-My hand froze mid-reach, hovering in the empty air of the pod. Wait. Gambler's Gambit?
+The sale clock had a fifth of its seventy-two hours gone. *"Okay. I need to go pick this up. Today."* I killed the television before I could look at it any longer. Corporate could run HGO on every screen at the store, but not in my living room.
 
-I pulled up the description, thumb moving through the motion without thinking about it anymore.
+I showered fast, hot water on my neck until the smell of the store was gone, then wrung out my locs and tied them up high, a few strands left loose along my face. In my room I pulled on my black and red Urawa Red Diamonds jersey, the club Dad always followed, with black joggers, my hoop in and the chain swinging, a jacket on open over the jersey.
 
-**[GAMBLER'S GAMBIT – RARE RACIAL ABILITY]**
+Out in the living room I dropped onto the couch, hair still damp, and opened the HGO Companion App on my phone. WattsUp made every one of us carry it in case a customer asked about the game. *"That's the only reason it's on here."* It wasn't, and I hated how much of it I knew.
 
-**[PASSIVE: +3 Fortune (applied via Gambler's Earring, equip required)]**
+The feed opened on a headline. **[Season Zero final: London Spire, Guild Leader Edmund Vane, 10,800. Aogiri, Guild Leader Lin Haoyu, 10,250. Stillwater, Guild Leader Dosuke AI, fourth. Kansai Black Lotus, ninth.]** *"Fourth. Good for him."* Dosuke was the one player I'd actually sat and watched, and his build looked far too much like the one Eren and I used to draw on our tablets. *"Eren's guild got ninth. Bastard. Probably carried by Haruto."* *"If I'm going to make anything in there, I have to be bigger than that. And it's going to be harder with every new player pouring in."* I scratched at my goatee and tapped over to the market.
 
-**[ACTIVE: Once per day, after combat ends, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
+The auction board was packed. Unique legacy items from the closed beta sat at the top with millions on them, prices you read twice. Under them, new listings stacked up with every refresh, fresh gear and raw materials from players who'd started over a few hours ago, everybody back on the same line. A posting fee and a cut on every sale. *"That tax has to eat most of it before the seller sees a yen."*
 
-Hold on. I read it again, slower this time, squinting as the white letters sharpened against the black of the visor. Once per day I could roll for rare gear? At level one?
+*"Everything's new. Nobody's ahead."* A whole wave of players was pouring in, and I was part of it. *"I need to ride the new-game momentum. Get in early, get lucky, land something I can sell."* *"The Christmas Day millions are the only official prize pool, but the way this game's set up, maybe you can make money anywhere. It can't only be players coming in. With a market like that, businesses have to be too."* I pulled up the wallet tab. **[HGO Coins: 1 = ¥4]** **[Withdraw / Deposit]** *"That doesn't look like play money."* *"I need a balanced build, one that scales across everything the game has, not just the first hour."*
 
-I pulled up the character menu, looking for the reset option I knew was supposed to be there.
+The race table sat on the same page. I opened the Elf row without really deciding to. Spellforger, Wisdom stacked high, the build I'd spent months drawing out with Eren and never once played. Dosuke ran a Spellforger of his own, a unique one. Eren's had hidden mechanics, mist and a few others, that you had to unlock and that, as far as I could tell, he never touched. Haruto had looked straight through him last night. *"I'd just like to see who the brain behind that build looks like when it's actually playing it."* *"It's a closed-beta build. After a balance pass it might not even be playable. Treat all of it as experimental. New game: more players, new stuff, probably a new race, fixes."*
 
-Nothing. Just a gray notice at the bottom:
+I caught myself grinning at the screen. Half excitement, half nerves. Dad's game, the world he said he helped create, and at least I had an idea what I'd build instead of walking in blind. *"If I run into that son of a bitch in there, I can't be the one who gets outmatched."* *"It isn't revenge. I just can't hand Eren any kind of recognition."* Haruto's face crossed my mind with it.
 
-**[CHARACTER RESET NOT AVAILABLE FOR THIS DRIVE]**
+*"Six days."* Chiyo would be back by then, and I wanted something of value to show her. *"I've never played a minute of it, only watched."* *"I can't let how I used to feel about this game decide how I go in. Clear head. Positive income. For Mom, the twins, Chiyo."*
+My bank balance:
 
-Of course not. I could contact support, but that was days I didn't have if I was trying to get ahead. I blew a breath out through my teeth.
+**[¥47,320]**
 
-My finger hovered over the logout command when another notification bloomed in front of me, this one framed in purple instead of white.
+*"Every month I hand Chiyo what she asks for. Groceries, a small bill. It's never the real number, and she knows I know."* It still felt good to put it in her hand.
 
-**[WORLD QUEST DETECTED IN PROXIMITY]**
+I opened Loop, the big social app where everything happened, gaming included. I followed the HGO account, Yuna, a few major accounts like Dosuke AI and a few guilds, to keep up with updates.
 
-**[CALL OF THE BONES – STAGE 1]**
+Then the cafe booking app, since I didn't own a rig. Every cafe in the city was booked solid, the sale and the open beta both, and a truck idled outside. *"Second-gen is still full-body rigs. Third-gen helmets are full dive too and easy to keep at home, but ninety thousand yen? I've got forty-seven."* The second-gen cafes ran pods from developers the Tabuchis had put money into. *"Not a yen of mine goes anywhere near the Tabuchis. And the earliest opening is March. Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."*
 
-**[AVAILABILITY: GOBLIN RACE ONLY]**
+I went down every list and every source. Nothing. Then, at the bottom of the third page, a gray tag: **[Legacy Hardware - First-Gen Pods Available]**. Sakura Arcade. Limited compatibility with newer titles. **[Free after 5 PM on weekdays.]**
 
-**[ESTIMATED VALUE: WORLD-TIER REWARD]**
+First-gen. *"Dad."* That was all I thought for a second. I'd never seen his work out in the world. It could be an old place with a listing nobody had taken down, and the listing itself said it couldn't do much. *"This might not work at all."* But had anyone even tried? It was a gamble, and it was my only lead. *"I'd blow the whole thing up trying before I sat around for three months."* I rubbed two fingers along my goatee while the worry settled in.
 
-The race I'd tapped on a whim had handed me a World Quest. What was I supposed to do with that? I sat there for a moment, my mind racing through every possible scenario and finding no solution. Ugh. I hated this, but the magnitude of a world quest was hard to ignore.
+3:47 PM. The window opened in just over an hour, I still had to pick up the drive, and the EB had died on me last night. I went down the hall to my room. It was Dad's room first, the corner he'd worked out of, with the bed I hardly slept in. Afternoon light slanted through the blinds, the smell of old solder and cold circuit boards hitting me at the door. His toolbox sat under the desk and his manual on the shelf above it. Chiyo had boxed most of his gear and carried it down to storage a few months back, I figured so the room could be mine again. *"I should clean this place up. Start working in here again."* It felt right standing in it, which surprised me. The funeral flashed up in my head, the closed casket, and the part of it that had never sat right with me. I shook it off and kept moving.
 
-Six days until Chiyo was back from Kyoto. Six days to show her something real and figure out how to make this work or fail miserably trying. Ten million yen was still sitting on a calendar a couple of weeks away, and I had no idea how a level-one goblin got anywhere near it. I winced at my own math.
+I wasn't leaving the manual on that shelf anymore. I pulled it down, the letter still hidden in the controller diagrams where I'd tucked it, and flipped to the electrical section until a note in his slanted handwriting stopped my thumb. **Aux cell sags under load. Jump at the marked terminals, then swap or recondition.** I put the manual and my laptop in my backpack, picked up his toolbox by the handle, and rode the elevator down from the third floor.
 
-I allocated one point to Wisdom, one to Speed. Not optimal for anything, but Speed kept you alive and three Wisdom was still better than two.
+The lobby of the Nakamura Grand was all pale stone and brass, a flower arrangement on the round table, the front desk empty, the bell untouched. There used to be a doorman and two clerks on a day like this. My phone buzzed. **[Chiyo: Hired someone to cover the desk. She'll be in later, so be nice and say hello.]** I got the storage key out of the drawer in her office desk and took the elevator down again, past the lobby to the basement level. The air down there was cool and smelled of concrete and cardboard, a pipe ticking overhead. The storage cage was lined with boxes labeled in Dad's blocky hand. I dug until I found one marked EB: a jump pack, cables, a spare 12-volt cell, a coil of wire, a handful of connectors. *"Everything he built could be fixed."*
 
-**[Wisdom: 3]**
+Around back the air was cold and damp, a low haze sitting over the lot, my breath showing. The EB sat where I'd left it, black paint beaded with mist, dash dead. *"Please be the aux. If it's the big pack, I'm done."* I set up like a pit stop. A rag down for my knees, the concrete cold through my joggers, Dad's toolbox open with the trays fanned out, the laptop on the seat with the lid up. It booted while I pulled the service cable and clicked it into the port, and the diagnostic window filled with cell voltages in a column. Traction pack, full. The 12-volt aux rail that fed the dash, the lock and the controller read six and a half volts, and when I put a load on it the whole column sagged. One cell fell faster than the rest, its curve bending early. I didn't need to test them one by one. *"That one."*
 
-**[Speed: 8]**
+The EB was fully electric, the big pack ran the motor, but Dad never built anything without a 12-volt system, same as the Sedan, so any mechanic with a jump pack and cables could wake the controller. You can't jump a traction pack. You can jump the aux. I clamped the pack to the marked terminals, red to red, and watched the voltage climb on the screen until the controller woke and the dash flickered. I pulled the weak cell and checked it against the spare from the box. It dropped like a stone under load, bad internal resistance. I swapped in the spare, let the onboard charger top the rail up, and ran the load test again. The line stayed flat. Dad could have done it in his sleep. I wasn't there yet, but I could do a lot of what he did at my age, and that was how I'd gotten into Tochi on merit. I didn't breathe easy until I pressed my thumb to the screen.
 
-The allocation screen dissolved.
+The dash took its half-second to read my print, then lit green, and the visor threw a route line across the street. *"Good. Good. We're good."* I let my forehead drop against the handlebar for one second. It ran better than it had in weeks, thanks to Dad's spares, but the box was a lot lighter than when I'd started. *"If I want to keep this thing alive past the winter, I'm going to need parts I can't pay for with forty-seven thousand yen."*
 
-For a second there was nothing. No sound, no weight, the ambient hum of the pod fading out from under me like someone had cut a wire. Then it built back the other way, faint at first, wind, something crackling, voices layering in one at a time until the silence was gone completely and I was standing somewhere else.
+I clipped the manual into the rear case, pulled the helmet on and tucked my locs in so I could drop the visor. Brake lights stacked up at every intersection, horns going, the route line threading me around them toward Ginza, the cold wind cutting straight through my jersey.
 
-Full-dive. I was actually in. Even through the disorientation there was a real grin trying to happen on my face.
+• • •
 
-Sound came first, too many layers at once. Voices arguing in a Japanese that didn't quite sync with the mouths making it, metal striking metal somewhere close, fire eating through green wood with a wet crackling snap that I could actually hear landing in rhythm. Then smell, woodsmoke thick enough to taste in the back of my throat, something cooking that leaned gamey and half-burned, underneath it the sharp smell of bodies packed too close together in leather that hadn't seen water in way too long.
+Nexus Enterprises' Ginza store sat between a watch dealer and a department store, glass and brushed steel. I locked the EB to a rack out front, my fingers stiff from the wind, and pushed through into cold, clean air that smelled of new plastic and floor polish, a low roar of voices under the music.
 
-I took a step forward and my balance was completely wrong. My stride was too short, my center of gravity sitting somewhere it had never sat before, and when I looked down I found green skin where my own dark brown should have been, clawed fingers at the ends of arms that read too long for the rest of my smaller frame. Rags hung off me, rough-spun and patched with mismatched leather, the stitching crude and uneven, the hem dragging past knees that weren't the right height for it anymore.
+I'd barely cleared the door when a voice cracked across the showroom. A guy about my age was at the counter with the same black case I'd come for clutched in both hands, talking fast. "Come on, man. I clicked the wrong race, it was thirty seconds, I didn't even play. Is there any way you can just swap it?"
 
-Alright. Time to adjust.
+"I'm sorry, sir. There are no refunds. The only option is a respec, five hundred thousand yen, one time only."
 
-A water barrel sat nearby, its surface still enough to throw back a reflection. I stepped closer and the face looking up at me was sharp-featured and green, yellow eyes blinking when I blinked, pointed ears I could actually feel sitting against the sides of my head when I turned.
+"Five hundred thousand? Come on, man, I don't have that kind of money." He raked a hand through his hair. "Just let me exchange it. Please. Just this once."
 
-A notification blinked into existence at the edge of my vision and I flinched hard enough that a nearby goblin turned to stare at me, one eyebrow raised.
+"Sir, as I stated, that's the only option we can offer."
 
-***[WELCOME TO ERYNDAL, LUNAREST OUTSKIRTS]***
+"That's not an option, that's a scam!" He slapped the case down hard enough to turn heads. "I want my refund. I want a manager. I want my money back!"
 
-***[CURRENT LOCATION: BLOODHURST, THRASH CLAN TERRITORY]***
+The attendant lifted two fingers toward the door, and two guards in tailored dark suits closed in on either side of him, hands loose, like they'd done this before. "Sir, you need to step outside." "Don't touch me, I'm going, I'm going!" He snatched up his case and let them walk him out, still yelling. The attendant, a young guy in round wire glasses with tousled brown hair, a white collared shirt with the sleeves rolled and a brown vest, pushed his glasses up and pinched the bridge of his nose. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
 
-***[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]***
+Third-gen helmets sat on pedestals under warm spotlights, HGO's compass rose etched into the glass around each one. A wall-sized display looped last night's battle, Yuna's voice cutting through the room on every loop.
 
-I dismissed it with a thought and made myself breathe. Everything was too immediate, too real. Heat off the nearest fire actually reached my skin in a way that made me want to step back from it, and the smell of whatever was cooking behind me made my mouth water even though I hadn't been hungry a second ago. I flexed a clawed hand and watched it move, the precision something my real hand had never had, each finger responding with a sharpness that felt almost dangerous.
+"...Thornwatch is London's, and London Spire takes Season Zero..."
 
-I'd spent most of a year dodging every clip of this game, and not one of them had come close to what it felt like to stand in it.
+*"Of course they're playing that on repeat."* I kept my head down and kept moving.
 
-The camp spread up a hillside in a loose scatter of patched tents, canvas gone gray with weather and smoke stains, salvaged crates and pots stacked haphazardly against guy-lines that creaked in the wind.
+The pickup counter sat at the back, past a row of demo pods.
 
-Two fires burned in the open ground between the tents, one small and crackling, one built up big enough to roast something the size of a pig. Every goblin I could see carried a white marker floating over their head, faint and easy to miss unless I looked directly at it.
+"Confirmation number," the attendant said, not looking up from his tablet.
 
-White tags. Friendly. To each other, at least.
+I rattled it off from memory, 4472-KAZE, and he disappeared into the back and came out with the same sleeve he'd handed everyone else.
 
-None of it looked staged. A cluster near the smaller fire sat sharpening blades on whetstones, the scrape of metal on stone landing in a rhythm that kept going whether I was watching or not. Two goblins arm-wrestled for coin near a crate, a small crowd shouting encouragement in a dialect that only half-resolved into Japanese. Someone sang off-key by the big fire, catching thrown scraps of food and laughing when they hit him in the face. An older goblin sat outside a tent mending a torn shirt, needle moving with the patient, practiced motion of someone who'd done this repair a thousand times before. A smaller goblin shot past my legs at a full sprint, cackling, waving a stolen boot over its head.
+"Drive's pre-loaded with your license." He slid a printed waiver across the counter. "Same terms as everyone. One character, one account."
 
-A second notification sat quiet beneath the first, gold-bordered and easy to miss against everything else demanding my attention.
+I signed without arguing, dropped the sleeve into my backpack and turned for the door before he could pitch me a warranty extension.
 
-**[GAMBLER'S GAMBIT ITEM AVAILABLE: GAMBLER'S EARRING]**
+Outside, the sun had dropped low and orange, flaring off the department store glass, and the cold hit my face as the door swung shut. 4:51 PM. Sakura Arcade's window opened in nine minutes and I still had to get across town. *"Hopefully I'm not riding all the way over here for a dead end. I already woke up late."* I got on the EB before I could talk myself out of it. The streets went from gold to gray as I cut across town, streetlights flickering on one block at a time.
 
-I thought about equipping it the same way I'd navigated the menu a minute ago, and a small bronze earring materialized against my right ear, dice carved into its curve in fine detail, a new weight I could actually feel there when I turned my head.
+• • •
 
-**[GAMBLER'S EARRING – RARE]**
+Sakura Arcade sat on a side street between a closed ramen shop and a convenience store hanging on by a thread, its sign buzzing in the dusk. The building was older than the blocks around it, brick and wood paneling, warm pendant lights glowing through the front windows.
 
-**[+3 FORTUNE]**
+*"This is it? Doesn't look like much."* I parked the EB around the side, hung the helmet on a handlebar and went to the door.
 
-**[ABILITY: LUCKY BREAK – Once per day after combat, roll for a chance at Rare or higher quality loot. Fortune stat increases success rate.]**
+A bell jingled over the door. Inside, warm lantern lamps hung over brick pillars and steel beams, desks and monitors down one wall, and two tall dark pods standing in the open floor with cable bundles running up their sides and a blue glow in the seams. The rows ran back through what used to be three separate shops, the walls between them knocked out, and a staircase at the far end led down into rooms with no lights on.
 
-**[Fortune: 12]**
+Behind the counter, a guy in his mid-thirties looked up from a tablet, glasses sliding down his nose, wavy brown hair pulled back in a small knot, stubble along his jaw, an unlit cigarette tucked behind one ear and a smear of grease across his thumb, a faint smell of smoke and solder coming off him.
 
-Twelve Fortune at level one. I reached up and touched the earring with one clawed finger, felt it shift slightly under my touch. Nobody started with numbers like this. I needed to actually test this thing and see if it was as good as it read.
+"Can I help you?" He glanced at the clock over the door, then back at me. "Walk-ins are fine."
 
-I was still taking it in when raised voices cut through the ambient camp noise, sharp enough to pull my attention. One of them was pitched too sharp to be casual, cracking on the high end the way a voice does right before it either breaks completely or steadies out into something deeper. Something about the sound caught me before I'd consciously registered why.
+"I'm here for a pod," I said, stepping up. "First-gen, if you've got availability."
 
-Two goblins had a smaller one backed against a supply crate near the central fire, close enough the kid had nowhere to go. One of them shoved a claw into the kid's chest hard enough to knock him back, shoulders hitting wood with a dull thud.
+"The free one, after five." He nodded slowly. His shoulders settled and he leaned back in the chair, the tablet going face down on the counter.
 
-"You're in my spot, runt," the bigger one said, voice carrying across the camp. "Move."
+*"He was hoping for a paying customer."*
 
-Another goblin stepped up beside the first, arms crossed. "You heard him. Move."
+"It's available," he said, "but it only plays retro games. I know a little about those pods. If you push something newer through it and the pod dies, that's on you. It's the only moneymaker I've got."
 
-"I was here first," the kid said, voice cracking, hands coming up defensively but not actually pushing back.
+"You don't have to worry about it," I said, level. "There's one thing I know about those pods in particular."
 
-My eyes swept the camp. Goblins nearby kept working, sharpening blades, tending fires, a few glancing over but nobody moving to step in. The kind of scene people noticed and decided wasn't their problem.
+The guy's eyebrow went up. He folded his arms across his chest, the unlit cigarette dipping behind his ear as he tilted his head. *"He thinks I'm wasting his time."*
 
-Two-on-one over a campfire spot. That was weak.
+"What do you mean? Kazehaya Tech hasn't been on the market in a while, and you don't look old enough to know much about it. What's the connection?"
 
-My hand went flat against my thigh, the motion automatic even in this shorter body, working through whether this was actually my problem or just felt like it.
+I kept quiet. His fingers tapped once against his sleeve, then his arms came down and he slid a clipboard across with a pen. "Sign in. Name, time in. You've got the back room to yourself."
 
-I needed combat experience anyway. I couldn't test Gambler's Gambit if I wasn't fighting, and I was level one in a body I barely knew how to move in. Might as well figure out what breaks before it actually matters.
+I wrote my name across the top line in the same clean block letters I'd used since middle school. Tatsuya Kazehaya. I slid the clipboard back and looked down at the counter, waiting.
 
-The two enforcers stepped closer to the kid, one reaching for him.
+The guy pulled it toward him, glanced at the name and stopped, the pen hanging over the page. "Kazehaya." The pen tapped the name once, and his eyes came up to mine. "So that's the connection."
 
-Alright, fuck it. I'd see what this build could do.
+His company had been dragged through the news after the accident, every product pulled. *"Should I even say it?"* But this was a half-empty arcade and a man who looked like he'd heard worse. "Would you believe me," I said slowly, "if I said the man who made those pods was my dad?"
 
-I was moving before I'd finished the thought, boots hitting soft dirt as I crossed the open ground, not rushing, just deliberate, committed once I'd started.
+The guy stepped back from the counter, his eyes going from the name to me and back to the name. "Damn. That would explain it." He waited. "Is that true?"
 
-The two goblins clocked me coming, turning to look, more curious than concerned.
+I nodded.
 
-I stepped between them and the kid, close enough they had to adjust their stance, my weight balanced but my hands still loose at my sides.
+He let out a breath through his nose and dragged a hand down his face. "My days. I'm sorry, man." Then, dry, "Guess I didn't need to give you the speech about the pods." He held out a hand across the counter. "Leon. My sister and I run this place."
 
-"Yo, we good here?" I said, my voice coming out higher and rougher than my own. "Don't really need two grown-ass goblins pressed up on a kid over a fire spot."
+I shook it, firm and brief, and let go before my throat could do anything I wasn't going to deal with right now. "Thanks."
 
-The nearer goblin looked me up and down, taking in the rags, no visible weapons, the way I was standing like I knew exactly how much space I was taking up. "Mind your business, new blood."
+"Only one of the pods works, the other's a shell," he said. "Second-gen runs off all-new parts, nobody touches third-gen hardware without a lawsuit, and first-gen parts dried up when Kazuhaya's stuff got pulled. I can't fix it."
 
-"Yeah, see, that's the thing," I said, tilting my head slightly. "I'm making it my business. So y'all can back off, or we can figure this out another way."
+Leon nodded toward a back hallway. "Pods are through there, second door on the left. Take your time. No one else is using them tonight."
 
-Both nameplates flickered from white to yellow.
+The hallway ran past dark rooms and humming racks, the floorboards creaking under my boots, the air cooling with every step.
 
-**[THRASH CLAN ENFORCER – LEVEL 3]**
+The pod room was clean, the overhead tube humming, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
 
-**[THRASH CLAN ENFORCER – LEVEL 3]**
+I dropped my bag and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
 
-Yellow tags. Neutral. They could still flip.
+The drive slot beside the headrest was an old one, built for older drives, and the new drive went in with a shove that made me wince. I stepped up onto the platform and ducked under the lip of the shell, my locs brushing the headrest, a little over six feet of me in a cradle built for a shorter man. Back against the padded spine, boots on the foot plates, arms into the cuffs. The shell hissed shut.
 
-"You're making a mistake," the first enforcer said, hand drifting toward the blade at his belt.
+The arcade went first, Leon's voice at the counter and the hum of the monitors thinning out until they were gone. Then the smell of cigarette smoke and dust and plastic. Then the padding against my back, the weight of my arms, the dry taste in my mouth, until I couldn't tell where my body stopped and the dark began. A drop, like missing a stair, and everything came back at once, cleaner than it had ever been.
 
-"Only mistake I see is you two not bathing," I said, letting a grin pull at the corner of my mouth. "Damn, y'all really stink. That's crazy."
+Air first, cool and faintly sweet, tasting of rain. A breeze moved across my face from nowhere and lifted the loose strands of my locs. Under my boots was a floor I could feel, smooth and cold through the soles, and past it the white went on with a depth I could judge, near and far. I turned my hands over in front of me and every line in my palms was there. I could hear my own breathing, and under it a low, steady hum. *"Holy shit. It worked."* This wasn't a screen. I was standing in it. My shoulders dropped for the first time since I'd woken up, and the grin tried to happen before I caught it.
 
-The second enforcer barked a laugh, short and mean.
+***[WELCOME TO ERYNDAL]***
 
-Both tags flipped red.
+A girl stepped out of the white, long white-silver hair falling to her waist, red eyes, a white dress with puffed sleeves, a small smile.
 
-**[HOSTILE]**
+***[Hi there! I'm Lumi, your guide to Eryndal! Hero's Glory Online is a sandbox, so a lot of it is built by the people in it.]***
 
-**[THRASH CLAN ENFORCER HAS INITIATED COMBAT]**
+A wheel opened around me, race names floating in the air at arm's length. ***Human. Elf. Dwarf. Orc. Beastfolk. Goblin. Frostborn. Drakekin.*** I reached for the Elf first and the stats unfolded beside it, Wisdom stacked high, exactly what I'd come for.
 
-There it was. Natural provoke. I hadn't even needed a skill for that.
+***[Elf! Graceful, gifted, and born to the old magic!]***
 
-Then there wasn't time to think.
+*"That's the one."* But I wanted to see them all, so I reached through the others one at a time, and each time Lumi said the name and started in on a line about the race.  I read the numbers and let her talk, past Beastfolk, Frostborn, Drakekin, until Goblin was the last one left, the lowest numbers on the wheel. I didn't notice the shell warming against my back. I hadn't noticed anything real in a long time.
 
-I turned and ran.
+I reached for Goblin.
 
-My legs moved wrong, too short, the stride narrow and choppy, but lighter now, springier with every step, my reduced weight making the movement feel almost effortless compared to my real body. Speed stat was doing work. Okay, that was actually clean.
+***[Goblin! The cunning little—]***
 
-I cut between two tents at an angle they'd have to widen out to follow, wind whipping through my hair as I used the canvas shadows to break line of sight, boots kicking up small clouds of dust where the ground was packed hard.
+Her voice stretched thin and snapped. The light went out, and the floor was yanked out from under me.
 
-Goblins nearby stopped what they were doing to watch, a few of them standing up from their fires or setting down whatever they'd been working on. Not many, the camp wasn't packed, but enough that I could feel the eyes tracking me.
+The weight came back all at once. My own body, heavy and wrong, hanging in the cuffs, the shell dark and hot against my back, the stink of scorched plastic in my nose. My legs shook. The room kept turning a half-beat after I stopped, and my stomach rolled the way it does stepping off a boat. I swallowed hard until it passed. The display was dead. I hit the power button. Nothing. Through the shell I could hear that the whole shop had gone dark, a chair scraping, Leon swearing near the counter.
 
-I couldn't die here. The 72-hour death lock surfaced in my mind, hard and immediate, something I'd skimmed in the license screen before I pressed accept. One mistake and I was cooked.
+"Hey," Leon called, closer, a flashlight beam crawling across the shell. "Whole place just lost power. You alright in there?"
 
-My thoughts raced as I brought up my skills menu with a thought, a small translucent UI flickering into existence at the edge of my vision, two icons sitting there waiting.
+"Yeah," I called back, voice rough. "I'm gonna step out for a sec, hit the restroom. Be right back."
 
-**[GOBLIN GAS]**
+"Take your time. I'll go flip the breaker."
 
-**[GOBLIN FLARE]**
+I waited until his footsteps faded toward the front before I popped the cuffs and the shell and stepped down, legs still unsteady, one hand on the casing. The room was black except for my phone. Heat rolled off the pod, the cooling fan winding down in a dying whine. I dragged my bag over, plugged the laptop into the service port, and the screen lit my hands blue. The processor core read twenty percent and hot. The drive slot threw errors where I'd forced the new drive into the old fit. I laid Dad's schematic next to the readings and followed the lines. The core, basically a GPU the size of a brick, was why it was overheating, nearly dead and unable to hold what the game was asking of it. Then a slot built for the new drives, and some cheap wiring. I tried to look up a third-gen core on my phone and nothing came back. Those cores weren't priced or sold anywhere I could search, like they ran through a channel of their own. All I knew was that the company behind them was tied to Kazuku, and I'd seen that core logo before, stamped on equipment in Tochi's tech lab. I sat with that, the heat off the casing against my face. *"Tochi might be the only place with any leads."* I'd always known I had a way back in, Chiyo and my own head. Now I had a reason. *"I overrode this thing. If I'm going to keep using it, I have to fix it, or it dies on me."*
 
-I focused on Goblin Gas mid-stride and the description expanded, text appearing in clean white letters.
+*"I can't fix any of this tonight. But the core's still got a little charge in it. It's like jumping an old car. As long as it holds energy I can keep sparking it, and when it finally dies I replace it."* The second pod was probably exactly that, a core already dead. I hardwired around the slot, stripped two leads, bridged the feed to the wall, and pressed the power. The shell lit. A second later the lights in the shop came back, and I laughed once under my breath. *"Lucky."* I let it charge a few minutes, then unplugged the laptop, slid it and Dad's manual into the bag, packed the toolbox, and shoved both against the nearest brick pillar so nothing was left out if Leon came back. Then I stepped back in, ducking under the lip, settling into the cuffs.
 
-**[GOBLIN GAS – RADIUS EFFECT]**
+The shell hissed shut and the senses went again in the same order. The drop was smoother this time, but my knees still wanted to buckle on a floor that wasn't there until my legs found it. The wheel hung where I'd left it, but it wasn't spinning and Lumi wasn't there.
 
-**[Releases a cloud of noxious gas around the user. Poison damage over time, stacks up to 4x. Reduces visibility. Can be ignited for increased effect. WARNING: User is not immune.]**
+***[RACE SELECTED: GOBLIN]***
 
-**[COOLDOWN: 45 SECONDS]**
+I stared at the empty spot where Lumi had stood.
 
-Useful. But how did I actually trigger it? Boots pounded closer behind me, the sound of two sets of feet getting louder, a bead of sweat running into my left eye and stinging until I blinked it away. There was no time to figure it out gently. Just use it.
+***[PROCEEDING TO ATTRIBUTE ALLOCATION...]***
 
-I triggered the ability with a thought.
+*"No. No no no. That's not what I picked. I wanted the Elf."* I reached for the wheel, trying to go back, but the interface didn't respond. The wheel was gone. Only the confirmation screen remained, and under it, one button glowing soft white.
 
-Pressure built low in my gut, sudden and mortifying even mid-sprint, and then gas vented out behind me in a thick green cloud that erupted from exactly where I'd been afraid it would.
+***[CONTINUE]***
 
-Oh, that was where it came from. Damn, that was foul. I covered my own nose with one hand, the smell hitting me even as I kept moving forward, putting distance between myself and the cloud spreading out in my wake. The two enforcers ran straight into it half a second later, unable to stop their momentum in time.
+*"What am I supposed to do? There's no back button. No cancel."* My hand hung over it. I couldn't stand in the open white forever, and I couldn't make myself press it.
 
-Coughing erupted behind me, harsh and wet. One of them doubled over, the sound of retching clear even over the noise of the camp.
+I didn't have to. The button flickered, and the screen answered for me.
 
-**[POISON DEBUFF: STACK 1]**
+***[NO SELECTION MADE. CONTINUING...]***
 
-I didn't slow down to watch, cutting left around another tent, and the gap between me and them widened for the first time since this whole thing started, my shorter legs eating up ground faster than they should have been able to.
+*"Wait. Wait, I didn't..."* The white tilted. Something hooked behind my ribs and pulled, hard, like being dragged off the floor by the collar, and the whole world streaked past in light and noise. I grabbed for something and had nothing to grab with. Then I hit something solid, and I was inside a body that wasn't mine.
 
-Then the gap closed again. I glanced back over my shoulder and caught sight of one enforcer peeling off down a side lane between tents instead of chasing straight, angling to cut me off rather than just following the direct line.
-
-Not just chasing anymore. They were trying to box me in. Smart.
-
-I threaded a gap between two tents barely wide enough for my shoulders, my smaller frame making it easier than it would have been at my real height, canvas brushing against both arms as I squeezed through. I came out on the other side past the big stew pot, the goblin tending it stepping back out of my way without a word, wooden spoon still in hand, eyes tracking me the whole time with an expression that read more curious than alarmed.
-
-The cooldown on Goblin Gas ticked at the edge of my vision, numbers counting down in steady increments. **[COOLDOWN: 30 SECONDS. 25. 20.]**
-
-Somewhere off to my left, a tent flap snapped open with a sharp crack of canvas on wood. A goblin stepped out into the open air, wild green hair catching the firelight, copper rings hanging from her ears and glinting, arms hanging loose at her sides instead of reaching for any kind of weapon. Her eyes found me immediately, tracking my movement without any visible concern.
-
-Someone important. She wasn't stepping in.
-
-She didn't move to stop anything that was happening. A couple of the watching goblins picked up on that fast, started calling out to each other, half cheer and half joke, the kind of noise a crowd makes once it's decided nobody's in actual danger and this is just entertainment now.
-
-Good to know they thought this was funny. It meant they weren't about to jump in.
-
-The cooldown hit zero, the number disappearing from my vision.
-
-I cut around a supply crate, put six feet of clean ground behind me in two quick strides, and triggered Goblin Gas again without hesitation.
-
-Same pressure building low, same mortifying release, same thick green cloud venting out and spreading in a radius around where I'd just been standing. This time both enforcers were close enough behind me to catch the worst of it before they could pull up or change direction, both of them running straight into the cloud at full speed.
-
-**[POISON DEBUFF x2]**
-
-**[POISON DEBUFF x3]**
-
-**[POISON DEBUFF x4]**
-
-**[NAUSEOUS]**
-
-Both of them folded over in the green mist almost immediately, one retching outright with his hands on his knees, the other dropping to one hand flat on the ground, his whole body heaving with the effort of not throwing up.
-
-Four stacks. Now it was time to counter.
-
-I reached into the small leather pocket attached to the rags I was wearing, my fingers closing around an item that was materializing in my hand. I read the tooltip that appeared beneath it, text clean and white against the chaos of the camp around me.
-
-**[GOBLIN FLARE – EMERGENCY SIGNAL]**
-
-**[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Distress use only.]**
-
-Signal flare. My claws tightened around it, the casing rough against my palm. I looked at the two enforcers still folded over in the lingering gas cloud, both of them coughing hard enough that one was spitting into the dirt. But Gas said "can be ignited." And this thing was literally on fire once I lit it. I'd see what happened.
-
-I struck the flare against the rough edge of a nearby crate, the way I'd seen people light matches in old movies, and it caught immediately with a bright orange flare of sparks. Then I threw it low, not up into the sky where it was supposed to go, straight into the green cloud still hanging thick between the two enforcers.
-
-The gas caught the instant the flare touched it.
-
-A concentrated burst of flame erupted outward from the point of impact, bright and hot and loud enough that I felt the concussive wave of it hit my chest even from fifteen feet away. The explosion lit up the entire camp for half a second, throwing long shadows across the tents and the watching goblins, heat washing back at me in a wave that made me raise one arm to shield my face.
-
-**[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
-
-**[CRITICAL HIT]**
-
-**[COMBAT KILL: THRASH CLAN ENFORCER x2]**
-
-**[EXPERIENCE GAINED: 150 XP]**
-
-**[LEVEL UP: 2]**
-
-**[ATTRIBUTE POINTS AVAILABLE: 2]**
-
-**[HEALTH: 50/50] [STAMINA: 20/25] [MANA: 25/25]**
-
-I stood there for a second, ears ringing from the explosion, staring at two bodies sprawled in the dirt that weren't moving anymore, smoke still rising off them in thin trails.
-
-Holy shit. That actually worked. My hands were shaking slightly when I looked down at them.
-
-I hadn't meant to. I'd been testing whether the tooltip meant what it said, not trying to end anyone.
-
-I dropped both attribute points into Wisdom and Speed without thinking twice, the allocation happening almost on autopilot. Wisdom could wait. Staying alive and staying fast couldn't.
-
-**[Speed: 9]**
-
-**[Wisdom: 4]**
-
-A leather belt sat in the dirt where the smaller of the two bodies had fallen, lying half-buried in the dust alongside two small glass vials that caught the firelight with a faint green glow. I crossed over to them, boots crunching on the packed earth, and crouched down. I touched the belt first, and it lit up faintly in my hand, a soft pulse of light running along its length before the notification appeared in front of me.
-
-**[ITEM CLAIMED: GOBLIN GADGET BELT – COMMON]**
-
-**[ABILITIES: SMOKE BOMB, GAS BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]**
-
-Locked until I got crafting materials to actually make the items. I turned the belt over in my hands, feeling the weight of it, the rough leather warm from sitting in the dirt near the fire. Fine. Still something. Better than nothing.
-
-I looped it around my waist and felt it settle there, the pouches hanging against my hip where I could reach them easily. Then I picked up the two vials, small and delicate in my clawed hands, a number stamped faint beneath the green glass on each one.
-
-**[ITEM CLAIMED: MINOR ELIXIR x2 – UNCOMMON]**
-
-**[RESTORES 30 MANA]**
-
-**[AUCTION PRICE: ¥8,400 EACH]**
-
-Eight thousand four hundred yen each. I stared at the number, turning one vial over carefully. That was sixteen thousand eight hundred total. First real money this game had handed me.
-
-A gold-bordered notification bloomed beneath the item description, brighter than the white text around it.
-
-**[GAMBLER'S GAMBIT PROC: FORTUNE CHECK PASSED]**
-
-There it was. Something in my chest loosened for the first time since I'd seen the word Goblin lock into place on my character screen. The ability actually worked. I'd made money off a level-three kill.
-
-I let the thought sit there for a second, the two vials still warm in my hands from sitting near the bodies. This might actually work. The whole thing. The goblin lock, the World Quest, all of it. This might not be the disaster I'd thought it was.
-
-**[TO BE CONTINUED IN CHAPTER FOUR]**
+**[END CHAPTER THREE]**

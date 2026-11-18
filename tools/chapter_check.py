@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Audit a chapter file against the new chapter format.
 
-Usage: python3 tools/chapter_check.py chapters/chapter-04-new.md [--source chapters/chapter-03.md] [--chunk] [more files]
+Usage: python3 tools/chapter_check.py chapters/chapter-04.md [--source archive/old-drafts/chapter-03-old.md] [--chunk] [more files]
 --source prints the length change against the old chapter and warns on growth over 5 percent.
 --chunk skips the title and END CHAPTER checks, for a pasted section or humanizer output.
 
