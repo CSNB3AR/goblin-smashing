@@ -38,3 +38,17 @@ When a diver disconnects mid-session (a real-world break, a forced monitor shutd
 ## The booth voice channel (author-stated, latest)
 
 The director's booth has an internal monitor setup where the director puts on a headset and speaks directly to the player in-game, like a game chat, whatever game it is. On the page it appears as a pop-up at the top of Tatsuya's interface (`[DIRECTOR IN BOOTH: VOICE CHANNEL]`). Leon's monitor is broken, so he cannot see what game Tatsuya is in; he only has the voice channel. Leon has had few long sessions in that pod because it only runs first-generation games, so he assumed Tatsuya would have left. If Tatsuya plays long sessions with no monitor, Leon will need someone sitting in the booth next time, which eventually means Tatsuya has to tell Leon the real situation. That conversation is in the upcoming chapters and is not written yet.
+
+## Who can voice chat: only the director (author-stated, latest; ledger and world rule)
+
+**Only the director (the operator at the booth) has access to voice chat with a diver.** Everyone else has to be there in person, which is why long-distance communication is hard in this game. There are communication devices, but nothing that works like a voice chat; the one way to get a real voice-chat style link is to have a director.
+
+**Where directors exist.** Directors belong to old-school pods. They are typical of **pro guilds with a coach**, which usually have a guild house or HQ with **several pods and someone overseeing all of them while the players are under**, more of a pro-guild HQ than anything else. Back in the day there were **several directors overseeing several monitors**, and one person could run a whole cafe. As newer hardware came out there was less to man, so there are fewer of them now.
+
+**How closely they watch.** A director for one pod, two pods, or one active pod watches that game closely. If one or two directors monitor an entire floor, they are not watching anyone's individual game.
+
+**What this means for the story.**
+- Leon is the only person who can talk to Tatsuya in the dive, through the booth voice channel (the `[DIRECTOR IN BOOTH: VOICE CHANNEL]` pop-up). He reads chat and Loop on his own monitor and relays it.
+- Arya (or anyone else) cannot voice-chat with Tatsuya from afar. To be in his ear she has to be in the booth in person and take the director's seat; that is why Arya has to come to the cafe and sit at the operator's desk for the tent ambush (see `codex/subplots/tent-ambush-rune-traps-and-crit-fails.md`), and why it "opens up voice chat" and puts Leon in chat more.
+- In-game, outside the booth, Tatsuya and anyone with him communicate in person (shouting, hand signals, the Call of Command prompts), and the goblins cannot hear Leon (see Chapter Five).
+- OPEN: what the "communication devices" are and what they can and cannot do (the author said they exist but are not voice chat).
