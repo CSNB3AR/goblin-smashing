@@ -384,23 +384,13 @@ Sevish held my gaze for a long moment, then something in his chest gave, most of
 
 "Wouldn't have said otherwise," Sevish said, his hand coming up to rest briefly on my shoulder. "You're an ally of Thrash. That held before. It holds more now. Let's move."
 
-We'd barely taken three steps toward the war tent when Leon's voice crackled through, distant and tinny.
+We'd barely gotten moving toward the war tent when Leon's voice came through, close and tight.
 
-"Hey, I'm gonna need to step away for a bit," Leon said. A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
+"Hey. Good news, nobody's ever watched this arcade this hard. Bad news, the pod's running hot." A pause, like he was deciding how much to say. "Streaming load. I've got an override holding it, but that's a patch, not a fix. I called VRSA, he'll be here in ten to fifteen minutes, and he can't touch it while you're connected. I told you I'd pull you if it started cooking, so I'm going to have to pull you."
 
-"Feed's still recording the whole time, for what it's worth," Leon added. "Honestly it's been like a movie over here. I'd bring popcorn, but the booth doesn't have a microwave. I'm not going anywhere, though. Anything you need, I'm still on the other end of this."
+The ash chill was still riding my skin, and I rubbed my arms once, nails scraping the rough fabric.
 
-Hearing him loosened something in my neck I hadn't known was tight.
-
-"Yeah, I'm good," I said out loud. "Take your time. Try not to set my pod on fire."
-
-"No promises," Leon said. "Back shortly."
-
-The line went quiet.
-
-**[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
-
-I barely registered it. The ash chill was still riding my skin, and I rubbed my arms once, nails scraping the rough fabric.
+"Ten to fifteen," I said under my breath.
 
 I followed Sevish and Wyx through the open ground, Ru close at my shoulder, goblins parting around us as we moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
 
@@ -410,7 +400,7 @@ We were maybe ten paces from the entrance when a goblin came sprinting through t
 
 I stopped and turned to face him square on.
 
-*"Dammit. That's not good. Has someone already found my location?"*
+*"They already found my location. Fuck. And I'm getting pulled in ten minutes. Worst timing possible."*
 
 **[VIEWERS: 6,804 → 7,392]**
 
