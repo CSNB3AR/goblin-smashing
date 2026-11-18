@@ -41,7 +41,7 @@ A drinkable buff that lasts 10 minutes. While it is active it raises the drinker
 Drink time: 1.5 seconds. Buff duration: 10 minutes.
 While active: +40% damage dealt. +10% damage taken.
 Rebirth (once): at 10% HP or lower, or on a killing blow, you are held
-at 5 HP and enter EMBER VEIL for 30 seconds.
+at 5% HP and enter EMBER VEIL for 30 seconds.
 EMBER VEIL: cannot be damaged, cannot deal damage, cannot be heard,
 all harmful status effects removed.
 After Rebirth: ASHEN MARK for 24 hours. You cannot drink another.
@@ -57,7 +57,7 @@ After Rebirth: ASHEN MARK for 24 hours. You cannot drink another.
 | Attack buff | +40% damage dealt, all damage types, applies to Physical Arts, spells and item damage (thrown bombs included). Stacks separately from gear and ability bonuses, per the buff rule in `codex/crafting/food-and-consumables.md`. |
 | Cost of the buff | +10% damage taken while the buff is active. The potion makes the drinker hit harder and also easier to kill, which is why the Rebirth clause exists. |
 | Rebirth trigger | One charge per elixir. Fires when the drinker's HP falls to 10% of max or lower, or when any single hit would reduce HP to 0 or below. Both cases use the same one charge. |
-| Rebirth health | **A flat 5 HP** (author decision, latest). It is the same number at every level, so at high level it is a sliver and the Veil is what matters. If the drinker is already above 5 HP when the 10% trigger fires, their HP is left where it is and not lowered. |
+| Rebirth health | **5% of max HP** (author-stated, latest; replaces the earlier flat 5 HP). It scales with level: about 3 HP for a level 8 with 65 HP, a few hundred for a high-level character, so it is never a free heal and the Veil is what matters. If the drinker is already above that when the 10% trigger fires, their HP is left where it is and not lowered. |
 | What a lethal hit does | The killing blow is negated. The drinker is not dead, does not go to a Cathedral, takes no 72-hour death lock, and does not roll the death-drop chance. The attacker gets no kill credit, no loot and no Karma change for a kill, because no kill happened. |
 | Ember Veil duration | 30 seconds, starts the instant Rebirth fires |
 | While in the Veil | Cannot take damage of any kind (direct, area, damage over time, fall, environmental). Cannot deal damage of any kind. Cannot be heard: footsteps, ability sounds, voice and item sounds are silent to everyone in the world. The drinker can still be **seen**. Hostile NPCs drop aggro on the drinker and cannot re-target them until the Veil ends. All harmful status effects are removed at the moment of Rebirth (Poison, Nauseous, Burning, Chilled, Slowed, Stunned, Rooted, Silence, Deafen, Fear, curses). New harmful status effects cannot be applied during the Veil. Beneficial buffs are kept. |
