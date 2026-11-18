@@ -96,41 +96,47 @@ Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody i
 
 While she talked I did something I hadn't been able to do the night they chained me. I focused on her, and the panel that had given me nothing but question marks opened clean.
 
-**[WYX THRASH: LV 25 - HOBGOBLIN - BLADE DANCER]**
+**[WYX THRASH: LV 25 - HOBGOBLIN - MASTER OF THE BLADE]**
 
-**[TWIN SABRE MASTERY - PASSIVE]**
+**[AFTERIMAGE CUT - BLADE - TIER 3: TWO STRIKES FROM TWO SABRES, AND A THIRD THAT ARRIVES A BEAT LATE FROM ANOTHER ANGLE]**
 
-**[DANCE OF BLADES - RARE - A CHAIN OF SPINNING STRIKES THAT QUICKENS WITH EVERY HIT LANDED]**
+**[WINDING STEP - BLADE - TIER 3: A SIDESTEP THAT SLIPS OUT OF MELEE RANGE]**
 
-**[WINDING STEP - A QUICK SIDESTEP THAT SLIPS OUT OF MELEE RANGE]**
+**[DEFIANT WHIRL - BLADE - TIER 4: A GUARDED STANCE THAT ENDS IN A SWEEP]**
 
-**[WHIRLING EDGE - A FULL SPIN THAT CUTS EVERYONE AROUND HER]**
+**[DANCE OF BLADES - BLADE - TIER 5 - RARE: A FIVE-BEAT FLURRY THAT SPENDS ALL OF HER TEMPO]**
 
-**[CHALLENGING HOWL - ENEMIES WITHIN EARSHOT ARE FORCED TO FIGHT THE USER]**
+**[CHALLENGING HOWL - THRASH TECHNIQUE - TIER 3: ENEMIES WITHIN EARSHOT MUST TURN ON HER]**
 
-**[TOXIC BREATH]**
+**[TEMPO - PASSIVE: HITS AND DODGES BUILD IT, BEING STAGGERED BREAKS IT]**
 
-*"Twin sabres. That's what the two curved hilts at her back were, the ones I'd taken for part of the cloak. Blade Dancer. It fits the way she moves."* Then I read the fifth line again. *"Challenging Howl. The same roar that pinned me to the dirt the first night, and she has it too. That's going to come in handy."* Sevish's version froze me where I stood. Hers read like the same roar on a shorter leash, and I filed that away.
+**[GOBLIN KIT: TOXIC BREATH]**
+
+**[TEACHES: WINDING STEP - NOT YET TAUGHT]**
+
+*"Twin sabres. That's what the two curved hilts at her back were, the ones I'd taken for part of the cloak. Master of the Blade. It fits the way she moves."* Then I read the fifth line again. *"Challenging Howl. Sevish's roar froze me where I stood the first night. Hers doesn't freeze anyone, it drags every eye in earshot onto her. That's going to come in handy."* The last line stayed with me longer than the rest. *"Teaches. So somebody can learn from her. Not me, and not today."*
 
 I checked Sevish second, because not knowing would have bothered me all night.
 
-**[SEVISH THRASH: LV 80 - HOBGOBLIN - BERSERKER]**
+**[SEVISH THRASH: LV 80 - HOBGOBLIN - BERSERKER OF THE AXE]**
 
-**[WAR AXE MASTERY - PASSIVE]**
+**[RECKLESS SWING - AXE - TIER 2: A HEAVIER SWING THAT LEAVES HIS GUARD OPEN]**
 
-**[BLOODLUST - DAMAGE RISES WITH EVERY KILL WHILE HIS GUARD FALLS]**
+**[MOMENTUM CHAIN - AXE - TIER 3: A CHAIN OF SWINGS, EACH HEAVIER THAN THE LAST]**
 
-**[PAIN IS PROOF - RARE PASSIVE - EVERY WOUND HE TAKES FEEDS HIS NEXT SWING]**
+**[REAPING ARC - AXE - TIER 4: A WIDE FRONTAL ARC WITH A VISIBLE WIND-UP]**
 
-**[RENDING CLEAVE - A WIDE AXE ARC THAT HITS EVERYONE IN FRONT OF HIM]**
+**[BLOODLUST - AXE - TIER 4: FOR A SHORT TIME EVERY HIT FEEDS HIM AND HIS GUARD FALLS]**
 
-**[EARTHSPLITTER - RARE - A GROUND-BREAKING OVERHEAD CHOP]**
+**[CHALLENGING HOWL - THRASH TECHNIQUE - TIER 5: A ROAR THAT PINS THOSE FAR BELOW HIM]**
 
-**[CHALLENGING HOWL]**
+**[EARTHSPLITTER - AXE - TIER 6 - RARE: A SLOW OVERHEAD CHOP THAT SPLITS THE GROUND IN A LINE]**
 
-**[TOXIC BREATH]**
+**[PAIN IS PROOF - RARE PASSIVE: BELOW HALF HEALTH, EACH WOUND FEEDS HIS NEXT SWING, UP TO A LIMIT]**
 
-*"Every single one of them is a way to hit harder. Not a spell on the list, and I can see why he doesn't need one."*
+**[GOBLIN KIT: TOXIC BREATH]**
+
+*"Every one of them is a way to hit harder. Not a spell on the list, and I can see why he doesn't need one."*
 
 I looked at the road on the map, the single line down to the red mark. *"One way in, one way out. It's the breach at Thornwatch all over again, London Spire bleeding the hall at a single point while nobody inside did a thing about it."* Eren and I used to spend whole nights building answers to that on our tablets. I already had the shape of one. I just didn't have everything it needed.
 
