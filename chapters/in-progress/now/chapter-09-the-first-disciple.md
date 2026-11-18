@@ -148,7 +148,7 @@ The Call of the Bones tag never left my HUD. I filed it away and stayed on my kn
 
 "What did you do?" I asked, my arm trembling under my weight.
 
-"That, too, you will have to find yourself," Shiv said. The green eyes didn't blink, just burned steady in the smoke.
+"That, too, you will have to find yourself," Shiv said. "There is more of my story out there than I can tell you now, and some of it will serve you as you grow." The green eyes didn't blink, just burned steady in the smoke.
 
 I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
 
@@ -194,7 +194,7 @@ Shiv nodded once, slow and deliberate.
 
 Shiv turned his full attention back to me, raising one hand, and a necklace materialized in the air between us. Small bones threaded on a worn leather cord, each one carved with symbols I didn't recognize. It hung there, suspended, waiting.
 
-"This was mine," Shiv said, his voice dropping lower. "You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
+"This was mine," Shiv said, his voice dropping lower. "Take it, and I will bless you with some of my power. You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
 
 My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
 
@@ -237,6 +237,8 @@ Notifications came fast, stacking on top of each other in my vision.
 **[SPIRIT MAGIC PATH UNLOCKED: SHAMAN'S VEIL]**
 
 **[PASSIVE UNLOCKED: WHISPERS OF SHIV]**
+
+**[SHIV'S BLESSING ACCEPTED]**
 
 **[RACE EVOLVED: GOBLIN → SHIV GOBLIN]**
 
