@@ -175,3 +175,7 @@ The systems above are the stage, not the story.
 ## Season Zero prize and reset (author-stated, latest)
 
 The Season Zero prize reaches the winning guild as in-game shillings, which convert to HGO Coins (10 shillings = 1 HGO Coin = 4 yen) and then to cash, the same process any player uses; it is split among the guild's players by contribution. Everyone resets their character at the expansion, including the winners (London Spire). London Spire's banner stays up at Thornwatch, they keep the money and the Thornwatch access, and their guild leader keeps access to the world quest. Yuna and Kazuku are CG hosts with hidden identities, and the Singapore audience is a fan event.
+
+## Adventurers Guild and guild banks (author-stated, latest)
+
+A player group registers as a guild at the in-world **Adventurers Guild**, so NPCs (Shiv included) talk about adventurers, never about "guilds". There is a bank, but a guild cannot own a guild bank; guild features stay at SAO-type level, kept simple (confirm the "cannot" with the author, the dictation was unclear). Guild prizes are paid out in shillings to members by contribution, not held in a guild account.
