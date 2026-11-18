@@ -332,6 +332,10 @@ Ru looked down at his own hands, flexing them slow, testing the new size and wei
 
 Then he was gone, the ash collapsing inward and disappearing entirely, and the freeze holding the rest of the world broke all at once, sound and motion rushing back into the tent.
 
+"Ru," I said, turning to him. "What did Sevish want?"
+
+Ru straightened to his new height, his voice low and steady. "Sevish sent me to bring you to the front. The camp is under attack."
+
 I looked down at myself, still dressed in the same torn prisoner rags.
 
 I stepped up to the entrance, close enough now that both guards could see me, and both of them went completely still.
