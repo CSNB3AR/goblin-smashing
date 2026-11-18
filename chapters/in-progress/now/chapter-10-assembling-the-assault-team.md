@@ -2,21 +2,19 @@
 
 **[THRASH CLAN DEFENDERS: 14/20]**
 
-The number dropped in the corner of my vision while Kesh was still bent over his knee, fighting for air.
+The number dropped in the corner of my vision as we reached the war tent.
 
 "Fourteen," Leon said in my ear, quiet and even. "That one just went down."
 
-Sevish didn't wait for anyone to catch their breath. He covered the last ten paces to the war tent in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder, taking in what the camp had turned into.
+Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us, still winded. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
-It was still night, and the camp had shrunk into it. Smoke from the east watch hung over the clearing so thick that the stars were gone, and the only light came from torches burning in iron cressets along the stakes and from the fire pit in the middle, burned down to a red crust nobody was feeding. The stew pot lay on its side beside it, the stew gone to a dark stain in the dirt. When I'd first crawled through this place I couldn't take ten steps without a goblin in my way. Now the lanes between the tents stood empty, the flaps tied shut, and what was left of the clan had pulled itself into a thin line along the sharpened stakes at the mouth of the one dirt track, standing shoulder to shoulder with gaps where somebody had been a minute ago. A hay cart lay on its side across the track with crates stacked behind it. One of the two blue banners had been torn off its pole and the other hung in rags. Under the hiss of the waterfall I could hear hide shields knocking, someone yelling a name, and a spell going off with a flat crack somewhere past the stakes.
+Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into trees. And every goblin on that line held a different shield, a tent door, a barrel lid, a cart panel, nothing made for the job, with a club in the other hand.
 
-Near the back of the camp, under a lean-to, a row of goblins lay on bedrolls with Wyx's healers moving between them. I counted the ones who were sitting up and stopped counting.
+The flap fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
 
-The flap fell shut behind us on canvas heat, woodsmoke and old leather, and the noise of the camp went flat and far away.
+The tent was round, with timber ribs curving up to the center pole and the lantern hanging from it. The back wall faced the cliff, and through it I could feel the cold coming off the rock.
 
-The tent was round, wide enough to walk a full circle around the war table without brushing canvas. Timber ribs curved up from the ground to meet at the center pole, where the lantern hung and swung a little from our entrance before it settled. The back wall faced the cliff, and through it I could hear the waterfall and feel the cold coming off the rock.
-
-Sevish went straight through to the far side of the table and planted both fists on the wood, the chest and barrels stacked tidy against the back wall behind him, his axe leaning in the chair at his right hand. I took the near side at the center, the same open spot as the night they'd called me an enemy and a friend in the same breath, with the flap at my back. Kesh dropped onto a barrel along the left wall and rubbed his knee. Ru stopped inside the flap on the right, one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch. He stood with his head bent under the cross rope above the entrance, still not used to his own height.
+Sevish went straight through to the far side of the table and planted both fists on the wood, the chest and barrels stacked tidy against the back wall behind him, his axe leaning in the chair at his right hand. I took the near side at the center, the flap at my back. Kesh dropped onto a barrel along the left wall and rubbed his knee. Ru stopped inside the flap on the right, one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch. He stood with his head bent under the cross rope above the entrance, still not used to his own height.
 
 "I hope my brothers are all right," Ru said, low, eyes on the strip of light. "We have already lost so many."
 
@@ -26,27 +24,19 @@ Sevish went straight through to the far side of the table and planted both fists
 
 She ducked out. Sevish turned his scarred face toward the barrels.
 
-"How many on that road?" he said. "A clean count."
+"Kesh," Sevish said. "A clean count."
 
-"Four," Kesh said, one hand coming off his knee to gesture low and wide. "Maybe five. Kesh could not get close. They saw Kesh coming, they saw everything."
+"Kesh saw five," Kesh said between breaths.
 
-"That is not a count, Kesh." Sevish's stance squared. "Four of them did this to my patrol?"
-
-"They attack us. Random." Kesh scratched the back of his head and dropped his eyes to the dirt floor. "They have caster."
-
-"Four, chief," a voice said from the flap.
+"Kesh counted the tent pole twice," said a voice from the flap. "There are four, chief."
 
 Ru shifted along the canvas to let her through, and I watched his head turn to follow her, a hobgoblin looking at another hobgoblin. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it came a lean goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes. Dust coated her knees. She carried no weapon in her hands.
-
-"Kesh counted five," Kesh said.
-
-"Kesh counted the tent pole twice," Zinka said. "There are four."
 
 Sevish let out a short, rough laugh. "Hah. Who is this?"
 
 "Zinka runs the east line for me." Wyx had come back through the flap behind her and taken her place at Sevish's left, brushing dirt from her palms. "She counts what she sees. Go on, girl."
 
-Zinka stepped up to the near side of the table, on my right. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since." She hesitated, and the hesitation cost her something. "They fight in bursts. A volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff drinks most often. I cannot say what the vials hold."
+Zinka stepped up to the near side of the table, on my right. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since. They fight in bursts: a volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff casts the most and drinks the most."
 
 *"Five minutes of sitting still. And they keep stopping to drink."* I rubbed my thumb along the edge of the table. *"They're not winning this. They're hanging on."*
 
@@ -72,9 +62,9 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 "Six for four of theirs." Sevish's mouth moved at one corner. "I have paid worse."
 
-"You paid worse with sixty goblins at your back," Wyx said. "You have fourteen."
+"You paid worse with the whole clan at your back," Wyx said. "You have fourteen."
 
-Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody in the tent was pretending it was. It would work, and it would cost him a third of the clan to find out.
+Sevish said nothing. The candles crackled. It would work, and it would cost him a third of the clan to find out.
 
 --------
 
@@ -226,7 +216,7 @@ Two goblins came off the left wall, past Kesh's barrel, a thickset one who grunt
 
 Wyx gave me a long look, then a smaller one, almost fond. "Go and sit with your spirits, Nykri. We will hold."
 
-Ru fell in at my shoulder and we crossed the camp the way I'd come, past the torches burning along the stakes, past the lean-to where the healers worked by firelight, the waterfall hissing over all of it. Every goblin we passed slowed, looked, and looked away. The holding tent stood where I'd left it, the bedroll still flattened where I'd slept, the oil lamp low on its hook.
+Ru fell in at my shoulder and we crossed the camp under the torches, every goblin we passed slowing to look and then looking away. The holding tent stood where I'd left it, the bedroll still flattened where I'd slept, the oil lamp low on its hook.
 
 "I will keep the tent," Ru said at the flap. "Nobody reaches you while I stand here."
 
@@ -256,7 +246,7 @@ Leon didn't answer right away, still bent over the panel. Then, quieter, mostly 
 
 "Give me the ten minutes," he said, louder. "Go stretch your legs. You've been under a long time."
 
-I took the spiral staircase down to the lounge slowly, my knees stiff, the lantern lamps over the brick humming and a row of old desktops sitting dark. It was quiet for the hour, the clock over the counter reading 8:54, a single desktop glowing at the far wall. The only person in the room was behind the front counter, and she looked up before I'd reached the last step.
+I took the spiral staircase down to the lounge, my knees stiff. It was quiet for the hour, the clock over the counter reading 8:54, one desktop glowing at the far wall. The only person in the room was behind the front counter, and she looked up before I reached the last step.
 
 She had white hair in a messy bun, ink running down both forearms to the wrist, a plain black tee and sharp gray eyes. A half-smirk.
 
@@ -264,15 +254,7 @@ She had white hair in a messy bun, ink running down both forearms to the wrist, 
 
 She'd used the handle instead of my name. I stopped with one hand on the rail.
 
-"Relax," Arya said, folding her arms on the counter. "Leon said you were on the quest. I watched the whole stream on the screen out here. Your camp's under attack, by the way. It was in the overlay."
-
-"I know." I came down the last step. "It's being handled."
-
-"Is it?" She tilted her head. "Because from the counter, it didn't look handled."
-
-"It's not." I rubbed the back of my neck. "That's why I'm standing here instead of in the tent."
-
-"Then I'll skip the speech." She pushed off the counter. "I want in. Your quest, your camp, your fight. Whatever's coming for that camp, I've seen where the guild chat thinks it goes next, and I'd rather be on the inside when it does."
+"Relax," Arya said, folding her arms on the counter. "Leon said you were on the quest. I watched the stream on the screen out here, and your camp's in trouble." She pushed off the counter. "So I'll skip the speech. I want in. Your quest, your camp, your fight. Whatever's coming for that camp, I've seen where the guild chat thinks it goes next, and I'd rather be on the inside when it does."
 
 "No."
 
@@ -284,9 +266,7 @@ She'd used the handle instead of my name. I stopped with one hand on the rail.
 
 "I've been told that," I said.
 
-Something moved behind her eyes then, a flicker I wasn't supposed to see, and she looked at the counter instead of me. "My crew fell apart early in the season," she said. "I don't want to get into it. The point is I've got a build and nowhere to run it, and you've got a quest the whole server wants and a camp about to go under."
-
-It was the kind of honest that made me keep my mouth shut.
+Something moved behind her eyes, and she looked at the counter instead of me. "My crew fell apart early in the season. The point is I've got a build and nowhere to run it, and you've got a quest the whole server wants."
 
 "What's your build?" I said finally.
 
@@ -300,7 +280,7 @@ It was the kind of honest that made me keep my mouth shut.
 
 Her eyes went briefly unfocused as she pulled her own screen open. "There's a branch past it. Silence. Anyone caught in the mist can't cast and can't call out to their party." Her mouth twisted. "Five points deep, and I've never looked at it twice."
 
-*"Kesh said they have a caster. A fog that shuts a caster's mouth is the piece I was missing."* The plan I'd been carrying finally had a middle, and for the first time since the alert my hands felt steady.
+*"The one with the staff casts the most. A fog that shuts a caster's mouth is the piece I was missing."* The plan I'd been carrying finally had a middle, and for the first time since the alert my hands felt steady.
 
 "Put the points there," I said. "Before you log in."
 
@@ -340,20 +320,18 @@ The inspector had finished with his panel by the time we got back upstairs, a st
 
 The lid came down and sealed. The visor lowered. The dark came, and then the rush, and then the game folded back into focus around me.
 
-The smell hit first. Smoke, but wrong. Burned canvas, burned hair, something sharper under both, too close and too recent. The oil lamp sat low and guttering, throwing long shadows up the tent walls, and the flap hung crooked on one of its ties.
+The first thing I noticed was the quiet. The oil lamp sat low and guttering, the flap hung crooked on one tie, and the spot where Ru had been standing was empty.
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
-I looked toward the flap. The spot where Ru had been standing was empty.
-
 **[THRASH CLAN DEFENDERS: 11/20]**
 
-"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "They came early, man. Card's still up on the stream. Say when."
+"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "Three more went down the hill after the party while you were out, man. Your guy's gone from the flap, too. The card's still up on the stream. Say when."
 
 I was on my feet before the notification faded.
 
 "Ru!"
 
-Nobody answered. Outside the canvas, something heavy hit the palisade, and the count in the corner of my eye ticked down again.
+Nobody answered. Somewhere down the track a spell cracked, flat and far away, and the count in the corner of my eye ticked down again.
 
 **[END CHAPTER TEN]**
