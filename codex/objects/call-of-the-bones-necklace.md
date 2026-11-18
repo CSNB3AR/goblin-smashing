@@ -54,3 +54,7 @@ The necklace is the vessel for **Shiv's Blessing**, a share of Shiv's own power,
 **What it makes him: a pseudo caster, an enchanter-type.** He can cast, but on a supplementary level, not a dominating one: he will not out-cast an Elf with big spells. His magic is mostly **debuffs and enchantments**, with some attack abilities that come through **runes** (Rune Priming, Ancient Bone Flame Barrage). The same rune and enchantment skill is what helps him **enchant and craft** things (not equipment as such, but enchanting and crafting). Keep this in the magic and Veil files; it is not explained on the page, only shown through what he can do.
 
 **Shiv's limited time (Chapter Nine).** Shiv says he has little time, so he gives Tatsuya only a lead (a piece of his equipment hidden in the heart of the Kingdom of Lunarest) and a hint that "there is more of my story out there than I can tell you now, and some of it will serve you as you grow." The rest of Shiv's history is something Tatsuya has to find in the world (see `codex/characters/shiv.md`).
+
+## Ru's title, latest (author-stated)
+
+Ru's title is **Disciple of Elder Nykri**, not "First Disciple of Shiv" (anything above that says the Shiv title is superseded). It is clan-based and about Nykri, not Shiv: Ru stays under the Thrash clan, keeps Shiv's blessing, and as Nykri gathers more goblins the name spreads. Shiv's own line in Chapter Nine: "Make yours greater than mine." See `outline/canon-ledger.md`.

@@ -316,13 +316,15 @@ Notifications came for Ru too, visible in my peripheral vision.
 
 **[ABILITY EVOLVED: GOBLIN GAS → TOXIC BREATH]**
 
-**[TITLE UNLOCKED: FIRST DISCIPLE OF SHIV]**
+**[TITLE UNLOCKED: DISCIPLE OF ELDER NYKRI]**
+
+*"Disciple of Elder Nykri. Mine, not Shiv's."*
 
 *"Hobgoblin. Direct evolution. That's pretty cool."*
 
 Ru looked down at his own hands, flexing them slow, testing the new size and weight of himself.
 
-"Use it well," Shiv said, already starting to fade. "Both of you. They'll see you different now. Every goblin who's ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born decades after I died. It's in their blood, their memory. Don't waste it."
+"Make yours greater than mine," Shiv said, already starting to fade. "Use it well. Both of you. They'll see you different now. Every goblin who's ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born decades after I died. It's in their blood, their memory. Don't waste it."
 
 Then he was gone, the ash collapsing inward and disappearing entirely, and the freeze holding the rest of the world broke all at once, sound and motion rushing back into the tent.
 

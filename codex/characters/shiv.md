@@ -105,3 +105,7 @@ Shiv's scene is now Chapter Nine, "The First Disciple". Flamonta lands inside Ta
 ## Chapter Nine: the warning and the reason for the gear (author-stated, latest)
 
 Shiv gives Tatsuya a warning, not his history: the rot in the Kingdom of Lunarest does not stop with the king, others are gathering power, and if the goblins do not find a standing soon and someone else takes the throne, the demi-humans will never get another chance. The third prince is not named. The gear exists to give Tatsuya the strength to act on that warning (cause and effect, not a gift for nothing). Shiv has been gone forty-five years and his tale is scattered across Eryndal. Ledger only: a world quest can be overtaken, because if other storylines activate and resolve before Tatsuya's, they can cancel his.
+
+## Ru's title, latest (author-stated)
+
+Ru's title is **Disciple of Elder Nykri**, not "First Disciple of Shiv" (anything above that says the Shiv title is superseded). It is clan-based and about Nykri, not Shiv: Ru stays under the Thrash clan, keeps Shiv's blessing, and as Nykri gathers more goblins the name spreads. Shiv's own line in Chapter Nine: "Make yours greater than mine." See `outline/canon-ledger.md`.
