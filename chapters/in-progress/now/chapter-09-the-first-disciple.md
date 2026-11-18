@@ -182,13 +182,17 @@ His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
 
 *"Permission. He's asking, not telling."*
 
-I looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness.
+I looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness. Two goblins had backed him against a crate over a bowl of stew, and nobody in that camp had lifted a hand for him.
 
-*"If I say yes, this kid's in it too. I can't just click through this."* I rubbed my thumb along the edge of one long nail, a nervous motion I'd never had in my human hands.
+*"If I say yes, this kid's in it too."* I rubbed my thumb along the edge of one long nail, a nervous motion I'd never had in my human hands.
 
-I turned back to Shiv, met those burning green eyes, and made the call.
+"Would he be able to defend himself?" I asked, turning back to Shiv. "He's the kid they pushed around."
 
-"Yeah," I said. "I'm down."
+"As you grow in power, so will any of your disciples," Shiv said.
+
+I met those burning green eyes and made the call.
+
+"Then yeah," I said. "I'm down."
 
 Shiv nodded once, slow and deliberate.
 
