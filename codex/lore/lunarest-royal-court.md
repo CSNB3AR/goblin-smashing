@@ -68,3 +68,7 @@ After Season Zero the main story is frozen except for hidden quests, and the pri
 - OPEN: the existing region list (Valefrost, Myrrhwood, Sunmarch and others) versus a single supercontinent with 12 provinces.
 
 - **Corvith's rumored origin (author-stated).** Rumor says the fake court mage came from the Crownfall zone, the only high-magic ancient forest near Lunarest, which leads to the elves' domain (see `codex/pro-scene/crownfall-siege-event.md`). This sits beside the canon that he is a High Elf banished from the Azure Expanse. OPEN: whether the rumor is true, a cover, or points to the same domain. Not resolved.
+
+## Shiv and the first queen, added detail (author-stated, latest)
+
+Shiv and Queen Isaveil Thandrel (the king's first queen) were childhood friends with a bond that predates her marriage to the king, and the king was corrupt, so the situation was already tangled before the affair. The first queen has been erased from history; the second queen is remembered as the first. Held for the archive reveal, not for Chapter Nine (see `codex/characters/shiv.md`).

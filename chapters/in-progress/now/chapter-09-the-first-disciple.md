@@ -122,7 +122,7 @@ I tried to push myself up again, my arm shaking with the effort, and managed to 
 
 The figure stepped even closer, ash trailing behind him, and the temperature in the tent dropped noticeably. Cold seeped through the canvas walls, sharp enough that I felt it prickle across my skin.
 
-"Calm yourself," the voice said, quieter now, almost amused. "If I was going to kill you, little one, I would have done so already. This is just what standing near me costs, for now."
+"Calm yourself," the voice said, quieter now, almost amused. "If I was going to kill you, little one, I would have done so already. This is just what standing near me costs, for now. It is the only way I can speak with you."
 
 I reached to scratch my chin where my goatee should have been and found smooth goblin skin, my mind working faster now.
 
@@ -140,33 +140,15 @@ The Call of the Bones tag never left my HUD. I filed it away and stayed on my kn
 
 "What do you even want from me?" I asked, pushing myself back up onto one knee, my palm braced flat against the dirt for balance.
 
-"I don't have much time to talk," Shiv said, his tone shifting slightly, becoming more measured. "So I'll get to it. You should know what you're actually about to carry."
+"I don't have much time," Shiv said, his tone shifting, becoming more measured. "So I will be short. If you truly want the power to unite the goblin folk, I left pieces of my equipment scattered across Eryndal. One of them is already in the Kingdom of Lunarest, hidden deep within the heart of the city itself."
 
-"I'm listening," I said, my weight shifting slightly on my knee, trying to find a position that didn't make my legs shake from holding myself up against the drag.
+"Pieces of your equipment," I said, forcing my head up against the drag. "Where in the city?"
 
-"I wasn't always this," Shiv said, and something almost like a dry laugh moved through the ash. "I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest's own court, back when that meant something."
+"That much you will have to find yourself," Shiv said, and something almost like a dry laugh moved through the ash. "Look where the kingdom buries what it wants forgotten. I did something it would not forgive, and they hid what was left of me there."
 
-The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I dug my long fingers into the dirt to steady it.
+"What did you do?" I asked, my arm trembling under my weight.
 
-"I loved a queen who wasn't mine to love. The king didn't take kindly to that once it came out, and his court's mages made sure I understood it. What they did to me for it, they didn't call it a curse. They called it a correction."
-
-He gestured, vague and dismissive, at his own ash and smoke form, the shape of him flickering slightly at the edges.
-
-"As you can see, this is how the curse changed me, changed my whole way of thinking, that's for sure," Shiv continued. "A lot of dirt the kingdom doesn't want dug back up. I wasn't the first they'd done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I'd been alive. They just ran me out to join them."
-
-"Everywhere I went after that, it didn't matter where, it was the same," Shiv said, something harder settling into his voice. "A monster first. Anything else second, if I was lucky enough to get a second look at all. I decided I wasn't going to spend what was left of this life proving them right. Goblins weren't feral. We could be something civilized, something worth building. That's the only reason Myrrhwood exists at all."
-
-He paused.
-
-He was waiting for me to say something.
-
-I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the split seam of my sleeve with one fingernail, an idle fidget I only noticed once I'd started it.
-
-"Understand," Shiv said, his voice dropping slightly. "The court that cast me out wasn't righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I'm not interested in playing the villain of that story just to sound humble."
-
-*"Okay. So he's not the bad guy. Got it."* My brow had pulled down while I listened, and I made it ease.
-
-"There's more to it than that," Shiv said. "How I managed to hold the goblin clans together at all, that part you'll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn't. I leave what's left of my Warset to any goblin with an open mind enough to go looking for it."
+"That, too, you will have to find yourself," Shiv said. The green eyes didn't blink, just burned steady in the smoke.
 
 I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
 
@@ -188,11 +170,11 @@ The number kept climbing.
 
 Shiv's burning green eyes stayed locked on my face.
 
-"Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "I've done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That's not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds."
+"Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "Goblins have never truly stood together, not once. I've done what I can to keep the clans from finishing each other off, but that's not the same as fixing it."
 
 *"Guilds are probably watching. Everyone is."*
 
-"What I'm asking isn't small, either," Shiv continued. "It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you're at it. But that takes disciples."
+"What I'm asking will take disciples," Shiv continued.
 
 His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
 
@@ -212,7 +194,7 @@ Shiv nodded once, slow and deliberate.
 
 Shiv turned his full attention back to me, raising one hand, and a necklace materialized in the air between us. Small bones threaded on a worn leather cord, each one carved with symbols I didn't recognize. It hung there, suspended, waiting.
 
-"This was mine," Shiv said, his voice dropping lower. "Piece of what I was, before and after the change. You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
+"This was mine," Shiv said, his voice dropping lower. "You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
 
 My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
 
