@@ -86,7 +86,7 @@ I read it twice, the same way I'd read Chiyo's text, making sure the number was 
 
 *"Half off. For three days."* I did the math automatically, the same way I did every math problem that involved money I didn't have. If I bought it right now, there was enough. Barely. And something big waking up on Christmas Day, from the one game on earth I'd sworn I'd never touch.
 
-*"Something waking up in Thornwatch. That sounds like a raid boss, and a raid boss means shillings and elixir drops, and those sell for a fortune."* The last pool had been forty million, and a tenth of that would have paid for the surgery outright. *"If a clear gets anywhere near that, it's worth getting into."*
+*"Something waking up in Thornwatch. There has to be money in that, or nobody would have fought that hard for the spot."* The last pool had been forty million, and a tenth of that would have paid for the surgery outright. *"If this gets anywhere near that, it's worth getting into."*
 
 I shook it off. *"Not tonight, and not this game. Tonight is a shift, tomorrow is another one, and a sale is only a sale. I've watched people burn their savings on less."*
 

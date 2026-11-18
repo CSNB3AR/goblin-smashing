@@ -92,7 +92,7 @@ I checked twice, the same way I checked Chiyo’s messages, to verify that the s
 
 *"Half price. For three days."* Math problems about money always worked themselves out right away. Enough? Just barely. And something big waking up on Christmas Day, in the game I had vowed not to play?
 
-*"Something waking up in Thornwatch. That sounds like a raid boss, and a raid boss means shillings and elixir drops, and those sell for a fortune."* The last prize pool was forty million yen, and a tenth of that would have covered the surgery. *"If a clear comes even remotely close to that type of money, then it's worth trying to get into this game."*
+*"Something waking up in Thornwatch. There has to be money in that, or nobody would have fought that hard for the spot."* The last prize pool was forty million yen, and a tenth of that would have covered the surgery. *"If this comes even remotely close to that type of money, then it's worth trying to get into this game."*
 
 I brushed it off. *"Tonight is work. Tomorrow is work too. A sale is only a sale."*
 
