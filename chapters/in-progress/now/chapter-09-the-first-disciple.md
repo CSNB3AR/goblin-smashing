@@ -80,6 +80,10 @@ Ash and smoke poured in through the gap in the tent flap, moving slow and delibe
 
 The nameplate read gold.
 
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
+
+**[OBJECTIVE: SPEAK WITH SHIV]**
+
 The kid behind me had gone completely still. The color around him had gone dull, washed thin and gray. A fine mist crawled low across the packed dirt outside that hadn't been there a second ago.
 
 Three notifications stacked on top of each other in rapid succession, each one flashing brighter red than the last.
@@ -222,9 +226,11 @@ My hair had gone white. Not gray, not silver, pure white. My skin had shifted to
 
 **[THE FIRST DESCENDANT OF SHIV]**
 
-*"First. That means nobody else has this."* I raked my fingers back through the white hair and felt the odd new weight of it, lighter than my old locs and strangely cool against my fingers.
+*"First. That means nobody else has this."* I raked my fingers back through the white hair and felt the odd new weight of it, lighter than the wild green hair I'd had a minute ago and strangely cool against my fingers.
 
 Notifications came fast, stacking on top of each other in my vision.
+
+**[OBJECTIVE COMPLETE: SPEAK WITH SHIV]**
 
 **[CALL OF THE BONES NECKLACE – WORLD]**
 
@@ -252,7 +258,13 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[ABILITY GRANTED: RUNE PRIMING]**
 
-*"That's a great boost."* I already knew what I was attaching it to.
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
+
+**[NEW OBJECTIVE: FIND THE REMAINING PIECES OF SHIV'S WARSET]**
+
+*"Five levels at once. That's the quest paying out, not just the necklace."* I already knew what I was attaching them to.
+
+*"Find the rest of the set, no hint, no marker. All I've got is the piece Shiv said is in Lunarest."*
 
 **[VIEWERS: 891 → 3,982]**
 
