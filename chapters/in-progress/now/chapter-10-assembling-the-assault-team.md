@@ -74,29 +74,57 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody in the tent was pretending it was. It would work, and it would cost him a third of the clan to find out.
 
-"Sevish." I put my palms flat on the table so he'd see I wasn't reaching for anything. "I have another way. I don't have much time to put it together, but give me a minute."
+"Sevish." I put my palms flat on the table so he'd see I wasn't reaching for anything. "I have another way. I don't have much time to organize it, but give me a minute."
 
 "Speak," Sevish said.
 
-"Don't go to them. Make them come to you, and make them pay for every step." I traced the track on the map up from the road to the stakes. "Pull your best back behind a wall of shields at the mouth of the track. Hide shields, doors off the tents, anything flat, locked edge to edge with spears over the top. They have to climb a lane one body wide, and everything they throw hits wood."
+"One thing first." I turned my head a little toward the empty air by my ear. "Leon, take the stream down. Put a holding card up. Whoever's in that red tent could have Loop open on a second screen, and I don't want them hearing this."
 
-*"Kingdom. The Qin lines holding the pass, shields locked, the whole front rank of the other side bleeding on the spears."* I'd read that arc four times. I hadn't expected to use it.
+*"If the raiders hear the plan, the plan is worth nothing."*
 
-"A wall," Wyx said slowly.
+"Taking it down now," Leon said. "You'll lose the viewers, man. Card's up, and I'll flip it back on when you say."
 
-"A wall holds. And the four of them can only throw so much before they're empty." I tapped the red tent on the map. "Then they have to drink, and a draught doesn't fill them back at once. The spirit who speaks to me says even a good one takes five minutes to settle, and the cheap ones, which are what they'll be carrying, take longer."
+"Do it," I said under my breath, and Wyx's eyes flicked to me and away.
 
-"So when they are empty, they fall back to the tent to drink," Wyx said. Her eyes had gone bright. "And sit there, drained, with one road in."
+"You hold the high ground," I said to the map. "They climb, you stand. That already decides half of it. I want it to decide all of it."
 
-"That's the shield," Sevish said, flat. "And the spear?"
+*"High ground, a lane they can't spread out in, shields in front and archers behind. The Romans fought like that for centuries. The Qin armies did it in Kingdom and the other side just kept dying on the spears."* I'd read enough about both to know the idea was old and ugly and that it worked.
 
-"The spear doesn't come up the road." I looked across the table. "It comes in behind them, while they're sitting in that tent with nothing left. Not by the track. I need another way down."
+"Three rows of stakes across the track, five paces apart, from the road up to the mouth of the camp," I said, drawing it with a finger. "The first two rows leave a single gap, one body wide. Everything coming up has to come up in a line, with nowhere to spread, and everything above them sees every step. We stand at the third row."
 
-"There is a ledge behind the waterfall," Zinka said. "Wide enough for one at a time. It comes out on the hill above the road, behind their tent. Twenty paces of fall if you slip." She lifted her chin. "I have crossed it twice."
+"How many can hold a shield?" I asked.
 
-"Shield in front, spear in behind," Wyx said. She turned to her brother. "Brother, it is a good plan."
+"Eight who can carry a club and a shield," Sevish said. "None of them have ever stood in a wall."
 
-Sevish studied the map for a long moment, then me. "And if the wall breaks while you are on that ledge?"
+"Six who can draw a bow," Wyx said. "None of them well."
+
+"Then they learn in half an hour." I looked at her. "Eight on the wall, locked edge to edge, and the six behind them on higher ground, shooting over the shields into that lane. Any spell they throw hits wood. The wall holds even if the arms behind it are the weakest in the clan, because every shield is covered by the one next to it."
+
+"And me?" Wyx said.
+
+"You stand behind the wall where they can't see you until they've already committed." I held her eyes. "When they reach it, the wall opens and you step out with the axe. Show yourself. Don't strike and don't chase. Let them see what they've climbed into, then step back and the wall closes."
+
+"Show them, then leave," Wyx said slowly.
+
+*"They think they're fighting a script. A guard that holds its ground and resets. Let them keep thinking it."* "If you follow them down the hill, the wall opens and the archers go with you," I said. "Stay with it, and every time they come back they find the same thing waiting."
+
+Sevish let out a short, rough laugh. "And I am to be where?"
+
+"Out of sight, chief. If they see you, they leave and come back with more." I took a breath. "Wyx is enough to make them think twice, and not enough to send them running."
+
+"Hah. Hidden." Sevish scratched at his beard with the back of one thick hand. "I have not been hidden in forty years."
+
+"They'll burn everything they have on that wall," I went on. "The four of them can only throw so much before they're empty, and then they have to drink. A draught doesn't fill them back at once. The spirit who speaks to me says even a good one takes five minutes to settle, and the cheap ones, which are what they'll be carrying, take longer. So after the first clash they fall back to their tent to recover, and sit there with nothing left."
+
+"And you go in behind them," Wyx said.
+
+"Shield in front, spear in behind." I looked across the table. "Not by the track. I need another way down."
+
+"The east side of the camp is a rockslide," Zinka said. "It drops into trees above the road, behind their tent. It will take rope, and you will not be quiet on the stones." She lifted her chin. "I have scouted it. I have not climbed it."
+
+"I have two who can carry rope," Sevish said.
+
+Sevish studied the map for a long moment, then me. "And if the wall breaks while you are on that rope?"
 
 "Then I've lost you the camp." I made myself keep my eyes up. "That's the risk, and I'm not going to pretend it isn't."
 
@@ -282,7 +310,7 @@ I looked toward the flap. The spot where Ru had been standing was empty.
 
 **[THRASH CLAN DEFENDERS: 11/20]**
 
-"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "Man, they came early."
+"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "They came early, man. Card's still up on the stream. Say when."
 
 I was on my feet before the notification faded.
 
