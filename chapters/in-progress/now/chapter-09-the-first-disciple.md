@@ -172,8 +172,6 @@ Shiv's burning green eyes stayed locked on my face.
 
 "The rot in that kingdom does not begin and end with the king," Shiv said, and the ash flickered again. "The princes are moving even now. If goblins do not find a standing sooner rather than later, and someone else takes the throne, the demi-humans will never be given another chance. As for why you, my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once."
 
-*"Guilds are probably watching. Everyone is."*
-
 "To do what I'm asking, you will need strength, which is why I am giving you my gear," Shiv continued. "And it will take disciples."
 
 His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
