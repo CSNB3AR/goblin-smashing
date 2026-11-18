@@ -54,6 +54,10 @@ Zinka stepped up to the near side of the table, on my right. She set one finger 
 
 "Five and six," I muttered, and let the numbers settle.
 
+"Somebody on that party commented under the clip," Leon added. "'Camp's tougher than it looks, pinging Wraith.' Could be talk, man. Could be a real ping."
+
+*"Wraith. A party that stops pushing is either resting or waiting on help, and I can't tell which, or how long I have."*
+
 I looked up. "They're hurt and they're tired. That's why they pulled back. And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
 
 Wyx's head turned sharply, her amber eyes narrowing with something close to interest. "You have seen it."
@@ -90,6 +94,44 @@ Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody i
 
 "She makes it a law," Sevish said. "It is the only law I keep."
 
+While she talked I did something I hadn't been able to do the night they chained me. I focused on her, and the panel that had given me nothing but question marks opened clean.
+
+**[WYX THRASH: LV 25 - HOBGOBLIN - BLADE DANCER]**
+
+**[TWIN SABRE MASTERY - PASSIVE]**
+
+**[DANCE OF BLADES - RARE - A CHAIN OF SPINNING STRIKES THAT QUICKENS WITH EVERY HIT LANDED]**
+
+**[WINDING STEP - A QUICK SIDESTEP THAT SLIPS OUT OF MELEE RANGE]**
+
+**[WHIRLING EDGE - A FULL SPIN THAT CUTS EVERYONE AROUND HER]**
+
+**[CHALLENGING HOWL - ENEMIES WITHIN EARSHOT ARE FORCED TO FIGHT THE USER]**
+
+**[TOXIC BREATH]**
+
+*"Twin sabres. That's what the two curved hilts at her back were, the ones I'd taken for part of the cloak. Blade Dancer. It fits the way she moves."* Then I read the fifth line again. *"Challenging Howl. The same roar that pinned me to the dirt the first night, and she has it too. That's going to come in handy."* Sevish's version froze me where I stood. Hers read like the same roar on a shorter leash, and I filed that away.
+
+I checked Sevish second, because not knowing would have bothered me all night.
+
+**[SEVISH THRASH: LV 80 - HOBGOBLIN - BERSERKER]**
+
+**[WAR AXE MASTERY - PASSIVE]**
+
+**[BLOODLUST - DAMAGE RISES WITH EVERY KILL WHILE HIS GUARD FALLS]**
+
+**[PAIN IS PROOF - RARE PASSIVE - EVERY WOUND HE TAKES FEEDS HIS NEXT SWING]**
+
+**[RENDING CLEAVE - A WIDE AXE ARC THAT HITS EVERYONE IN FRONT OF HIM]**
+
+**[EARTHSPLITTER - RARE - A GROUND-BREAKING OVERHEAD CHOP]**
+
+**[CHALLENGING HOWL]**
+
+**[TOXIC BREATH]**
+
+*"Every single one of them is a way to hit harder. Not a spell on the list, and I can see why he doesn't need one."*
+
 I looked at the road on the map, the single line down to the red mark. *"One way in, one way out. It's the breach at Thornwatch all over again, London Spire bleeding the hall at a single point while nobody inside did a thing about it."* Eren and I used to spend whole nights building answers to that on our tablets. I already had the shape of one. I just didn't have everything it needed.
 
 "Then keep your law," I said. "It's a good floor. I want to do better than the floor."
@@ -120,21 +162,29 @@ I focused on the last entry and it unfolded.
 
 "I know," I muttered, and closed the screen.
 
-"I need half an hour," I said to the table. "That's what the missing piece costs."
+"I need some time," I said to the table. "I'm going back to my tent to put the plan together. You'll have to trust me on that."
 
-"Half an hour," Sevish said. "And until then?"
+"Trust," Sevish said. "You ask a great deal."
 
-"Hold the way you always have." I met his eyes. "Let them spend everything they have against your law, and don't send anyone down that road."
+"Until then, nobody engages them. Not one more goblin goes down that road." I met his eyes. "If anyone has to fight, it should be you or Wyx. We shouldn't lose any more people."
 
-Sevish said nothing for a moment. When he spoke, the laugh was gone.
+Sevish's face went still. "And who made you chief of my camp?"
 
-"When a goblin of mine falls out there, he does not get up," he said. "Remember that when you name your half hour."
+"Nobody." I didn't look away. "I'm not trying to take the lead. If anyone here has a better idea, I'd like to hear it."
+
+"Yours has not been told to me," Sevish said.
+
+"Because I haven't had the time to think it through." I kept my voice level. "If the best idea we have is running down there and throwing our bodies at them, say so, and I'll stand behind it. But we don't know their numbers, and we don't know if they've called for more."
+
+Nobody spoke. The lantern ticked against the pole. Sevish studied me a long moment, then let out the short, rough laugh.
+
+"Hah. He says it to my face." He lifted one hand from the table. "When a goblin of mine falls out there, he does not get up. Remember that when you take your time."
 
 "They will hold," Ru said from the flap, low and steady. "But do not make them hold long, elder."
 
 I turned and looked at him, taller than me by a full head, his big hands loose at his sides. Until now he had only answered when somebody asked. The sentence sat in my chest a second longer than I expected.
 
-"Half an hour," I said to Sevish. "No longer, and I'll count every minute of it."
+"I'll be as quick as I can," I said to Sevish.
 
 "Done." Sevish lifted his chin. "You may call it a bargain, Nykri. I will call it a debt."
 
@@ -164,19 +214,17 @@ Two goblins came off the left wall, past Kesh's barrel, a thickset one who grunt
 
 "Three minutes," I said under my breath.
 
-Wyx gave me a long look, then a smaller one, almost fond. "Your spirit voice again."
+Wyx gave me a long look, then a smaller one, almost fond. "Go and sit with your spirits, Nykri. We will hold."
 
-"It says I have to go sit somewhere quiet for a while." I turned to Sevish. "I'll be back before the half hour."
+Ru fell in at my shoulder and we crossed the camp the way I'd come, past the torches burning along the stakes, past the lean-to where the healers worked by firelight, the waterfall hissing over all of it. Every goblin we passed slowed, looked, and looked away. The holding tent stood where I'd left it, the bedroll still flattened where I'd slept, the oil lamp low on its hook.
 
-"The spirits keep strange hours," Wyx said.
-
-"I will keep the tent," Ru said. "Nobody reaches you while I stand here."
+"I will keep the tent," Ru said at the flap. "Nobody reaches you while I stand here."
 
 "Don't die at the flap," I said, and meant it harder than I'd planned.
 
 "Sit," Leon said. "Hold still."
 
-The tent smeared at the edges, the lantern stretching out into one long white line, and then the world went out.
+The lamp smeared into one long white line, and then the world went out.
 
 The lid hissed open on the ceiling of the pod room, soft lantern light after the dark of the visor. I sat up slow, and my joints complained the way they always did after a long dive. The inspector was already at the monitor bay, crouched in front of the open panel with his black suit pressed flat against the chair, his long black hair tied low at the neck, a bang falling across one lens of his glasses. His tools lay in a neat row on a cloth beside him.
 
@@ -280,7 +328,7 @@ The inspector had finished with his panel by the time we got back upstairs, a st
 
 The lid came down and sealed. The visor lowered. The dark came, and then the rush, and then the game folded back into focus around me.
 
-The smell hit first. Smoke, but wrong. Burned canvas, burned hair, something sharper under both, too close and too recent. The lantern sat low and guttering, throwing long shadows up the tent walls, and the flap hung crooked on one of its ties.
+The smell hit first. Smoke, but wrong. Burned canvas, burned hair, something sharper under both, too close and too recent. The oil lamp sat low and guttering, throwing long shadows up the tent walls, and the flap hung crooked on one of its ties.
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
