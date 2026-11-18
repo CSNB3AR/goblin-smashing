@@ -20,7 +20,7 @@ Sevish went straight through to the far side of the table and planted both fists
 
 "I hope my brothers are all right," Ru said, low, eyes on the strip of light. "We have already lost so many."
 
-"Wyx," Sevish said, without turning his head. "Barricades up. Reinforce the east watch and pull everyone back inside the stakes. Nobody engages past the treeline."
+"Wyx," Sevish said, without turning his head. "Raise the inner barricade behind the stakes. Reinforce the east watch and pull everyone back inside the line. Nobody engages past the treeline."
 
 "It is done, brother," Wyx said, already turning for the flap, her voice pitched to carry to the goblins outside. "You heard him. Nobody stands out there proving a point."
 
@@ -54,8 +54,6 @@ Zinka stepped up to the near side of the table, on my right. She set one finger 
 
 "Five and six," I muttered, and let the numbers settle.
 
-"Spirits do that," Wyx said to Sevish, quietly, watching me. "Let him."
-
 I looked up. "They're hurt and they're tired. That's why they pulled back. And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
 
 Wyx's head turned sharply, her amber eyes narrowing with something close to interest. "You have seen it."
@@ -74,74 +72,43 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody in the tent was pretending it was. It would work, and it would cost him a third of the clan to find out.
 
-"Sevish." I put my palms flat on the table so he'd see I wasn't reaching for anything. "I have another way. I don't have much time to organize it, but give me a minute."
+"Then Wyx and I go alone," Sevish said, and the quiet in his voice made the candles sound loud. "Two axes, four casters. We do not need the twelve."
 
-"Speak," Sevish said.
+"You'd win," I said. "I don't doubt it for a second."
 
-"One thing first." I turned my head a little toward the empty air by my ear. "Leon, take the stream down. Put a holding card up. Whoever's in that red tent could have Loop open on a second screen, and I don't want them hearing this."
+"Then where is the trouble?"
 
-*"If the raiders hear the plan, the plan is worth nothing."*
+"Reminder, man," Leon said in my ear, low. "If Wyx or Sevish finishes them and you never land a hit, you get nothing out of it. No experience, no drops. Less than zero."
 
-"Taking it down now," Leon said. "You'll lose the viewers, man. Card's up, and I'll flip it back on when you say."
+*"So the kills have to be mine."* I turned the thought over and didn't like how neatly it closed. If Wyx couldn't be the one to finish them, then Wyx couldn't be the answer, and I needed another one.
 
-"Do it," I said under my breath, and Wyx's eyes flicked to me and away.
+"I need those four to fall to me," I said to Sevish. "What they carry, what the fight gives, it only counts for me if my hands are in it. If your axes finish them and mine never touch them, I walk away with nothing. I'm not asking you to understand how it counts. I'm telling you it does."
 
-"You hold the high ground," I said to the map. "They climb, you stand. That already decides half of it. I want it to decide all of it."
+"Hah. Spoils." Sevish's mouth moved at one corner. "At least you say it plainly."
 
-*"High ground, a lane they can't spread out in, shields in front and archers behind. The Romans fought like that for centuries. The Qin armies did it in Kingdom and the other side just kept dying on the spears."* I'd read enough about both to know the idea was old and ugly and that it worked.
+"There is also the camp," Wyx said. She laid one hand flat on the map beside the stakes. "Brother and I are the walls. Anyone who comes near the outer stakes meets me. If he passes me, or more come and reach the inner barricade, my brother comes out. Only if both fail do they reach our people. It is how we have held every camp since we left Myrrhwood. If the two of us go down that road, the stakes hold nothing."
 
-"Three rows of stakes across the track, five paces apart, from the road up to the mouth of the camp," I said, drawing it with a finger. "The first two rows leave a single gap, one body wide. Everything coming up has to come up in a line, with nowhere to spread, and everything above them sees every step. We stand at the third row."
+"She makes it a law," Sevish said. "It is the only law I keep."
 
-"How many can hold a shield?" I asked.
+I looked at the road on the map, the single line down to the red mark. *"One way in, one way out. It's the breach at Thornwatch all over again, London Spire bleeding the hall at a single point while nobody inside did a thing about it."* Eren and I used to spend whole nights building answers to that on our tablets. I already had the shape of one. I just didn't have everything it needed.
 
-"Eight who can carry a club and a shield," Sevish said. "None of them have ever stood in a wall."
+"Then keep your law," I said. "It's a good floor. I want to do better than the floor."
 
-"Six who can draw a bow," Wyx said. "None of them well."
+"Better," Sevish said.
 
-"Then they learn in half an hour." I looked at her. "Eight on the wall, locked edge to edge, and the six behind them on higher ground, shooting over the shields into that lane. Any spell they throw hits wood. The wall holds even if the arms behind it are the weakest in the clan, because every shield is covered by the one next to it."
+"I have the start of a plan. I want to use my own people, and spend as few of yours as I can." I made myself keep my voice level. "It needs one piece I don't own yet. If I get it, I lay out all of it the moment I'm back in and teach it to everyone at once. If I can't, we fall back on your law."
 
-"And me?" Wyx said.
+"A plan you will not speak," Sevish said.
 
-"You stand behind the wall where they can't see you until they've already committed." I held her eyes. "When they reach it, the wall opens and you step out with the axe. Show yourself. Don't strike and don't chase. Let them see what they've climbed into, then step back and the wall closes."
+"Not yet. Not until I'm sure it works." I lowered my voice to the air beside my ear. "Leon, take the stream down. Put a holding card up. Whoever's in that red tent could have Loop open on a second screen, and what I come back with only works if they never see it coming."
 
-"Show them, then leave," Wyx said slowly.
+"Taking it down now," Leon said. "You'll lose the viewers, man. Card's up, and I'll flip it back when you say."
 
-"And when their casters try to throw past the wall at the bows, you howl," I said.
+"Do it," I said under my breath, and Wyx's eyes flicked to me and away, the way they had the first time she'd caught me talking to nobody.
 
-"My Howl is smaller than my brother's," Wyx said. "It will not freeze anyone."
+"Let him," she said, quietly, to her brother. "Spirits do that."
 
-"It doesn't have to. It turns them on you." I tapped the map where the wall would stand. "Every time a caster tries to reach over the shields for an archer, you howl and the spell comes to you instead. They can't choose another target. They have to keep fighting you, and you don't have to kill anyone to make them do it."
-
-
-*"They think they're fighting a script. A guard that holds its ground and resets. Let them keep thinking it."* "If you follow them down the hill, the wall opens and the archers go with you," I said. "Stay with it, and every time they come back they find the same thing waiting."
-
-Sevish let out a short, rough laugh. "And I am to be where?"
-
-"Out of sight, chief. If they see you, they leave and come back with more." I took a breath. "Wyx is enough to make them think twice, and not enough to send them running."
-
-"Hah. Hidden." Sevish scratched at his beard with the back of one thick hand. "I have not been hidden in forty years."
-
-"They'll burn everything they have on that wall," I went on. "The four of them can only throw so much before they're empty, and then they have to drink. A draught doesn't fill them back at once. The spirit who speaks to me says even a good one takes five minutes to settle, and the cheap ones, which are what they'll be carrying, take longer. The first clash they'll take for luck. By the second they'll know these aren't the goblins they've been killing for an hour, and they'll fall back to their tent to talk it over and drink, and sit there with nothing left. It's night. They won't be watching the rocks."
-
-"And you go in behind them," Wyx said.
-
-"Shield in front, spear in behind." I looked across the table. "Not by the track. I need another way down."
-
-"The east side of the camp is a rockslide," Zinka said. "It drops into trees above the road, behind their tent. It will take rope. The dark will hide you on the stones, but it will not hide the noise." She lifted her chin. "I have scouted it. I have not climbed it."
-
-"I have two who can carry rope," Sevish said.
-
-Sevish studied the map for a long moment, then me. "And if the wall breaks while you are on that rope?"
-
-"Then I've lost you the camp." I made myself keep my eyes up. "That's the risk, and I'm not going to pretend it isn't."
-
-"Hah." The rough laugh again, shorter. "At least you do not lie."
-
-"That is all of it," I said to Sevish, and then quieter, to the air beside my ear. "Leon, you can bring the stream back up. I only needed it off while I talked."
-
-"Going live," Leon said. "Chat's going to ask where you went. I'll tell them you were thinking."
-
-I pulled the ability list open to be sure of what I was spending. The blue screen came up where only I could see it: Goblin Gas on a thirty-second cooldown, Shiv-Touched Flare, Rune Priming. Sixty-five health, thirty-two stamina, thirty-two mana. I turned my right hand over in front of my face and the Flare answered, a small orange bead that sat in my palm and spat a little heat, enough to hurt somebody and enough to light a cloud, nothing more.
+I pulled the ability list open to be sure of what I had to work with. The blue screen came up where only I could see it: Goblin Gas on a thirty-second cooldown, Shiv-Touched Flare, Rune Priming. Sixty-five health, thirty-two stamina, thirty-two mana. I turned my right hand over in front of my face and the Flare answered, a small orange bead that sat in my palm and spat a little heat, enough to hurt somebody and enough to light a cloud, nothing more.
 
 I focused on the last entry and it unfolded.
 
@@ -151,13 +118,13 @@ I focused on the last entry and it unfolded.
 
 "It rolls a die before it does anything," Leon said in my ear. "Low roll and it fizzles, and it still eats the mana. Thirty-two mana, man. Plan around that, and don't spend it all on the first good idea."
 
-"I know," I muttered.
+"I know," I muttered, and closed the screen.
 
-"Gas from two sides, through the flap of the tent," I said to the table. "Ru on one side, Zinka on the other. A flare to light it. But if they have a caster, the first thing that caster does is burn the cloud off, and I can't keep four of them inside it. I need a way to hold them in and keep that caster quiet." I took a breath. "I don't have that yet. I need half an hour."
+"I need half an hour," I said to the table. "That's what the missing piece costs."
 
 "Half an hour," Sevish said. "And until then?"
 
-"Your wall." I met his eyes. "Let them spend everything they have on it, and don't send anyone down that road."
+"Hold the way you always have." I met his eyes. "Let them spend everything they have against your law, and don't send anyone down that road."
 
 Sevish said nothing for a moment. When he spoke, the laugh was gone.
 
@@ -273,7 +240,7 @@ It was the kind of honest that made me keep my mouth shut.
 
 Her eyes went briefly unfocused as she pulled her own screen open. "There's a branch past it. Silence. Anyone caught in the mist can't cast and can't call out to their party." Her mouth twisted. "Five points deep, and I've never looked at it twice."
 
-*"Kesh said they have a caster. Four players in a tent with one way out. A fog they can't call out of, and a caster who can't cast."* The plan came together in my head, and for the first time since the alert my hands felt steady.
+*"Kesh said they have a caster. A fog that shuts a caster's mouth is the piece I was missing."* The plan I'd been carrying finally had a middle, and for the first time since the alert my hands felt steady.
 
 "Put the points there," I said. "Before you log in."
 
@@ -321,7 +288,7 @@ I looked toward the flap. The spot where Ru had been standing was empty.
 
 **[THRASH CLAN DEFENDERS: 11/20]**
 
-"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "They came early, man. We're live again, so move."
+"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "They came early, man. Card's still up on the stream. Say when."
 
 I was on my feet before the notification faded.
 
