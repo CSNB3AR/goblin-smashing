@@ -18,11 +18,9 @@ Sevish went straight through to the far side of the table and planted both fists
 
 "I hope my brothers are all right," Ru said, low, eyes on the strip of light. "We have already lost so many."
 
-"Wyx," Sevish said, without turning his head. "Raise the inner barricade behind the stakes. Reinforce the east watch and pull everyone back inside the line. Nobody engages past the treeline."
+*"Players wake up at a Cathedral. Goblins don't. Every one who went down that road is simply gone, and Ru knows it."* "We'll keep it from getting worse," I said quietly.
 
-"It is done, brother," Wyx said, already turning for the flap, her voice pitched to carry to the goblins outside. "You heard him. Nobody stands out there proving a point."
-
-She ducked out. Sevish turned his scarred face toward the barrels.
+Ru gave one short nod and kept watching the camp.
 
 "Kesh," Sevish said. "A clean count."
 
@@ -34,7 +32,29 @@ Ru shifted along the canvas to let her through, and I watched his head turn to f
 
 Sevish let out a short, rough laugh. "Hah. Who is this?"
 
-"Zinka runs the east line for me." Wyx had come back through the flap behind her and taken her place at Sevish's left, brushing dirt from her palms. "She counts what she sees. Go on, girl."
+"Zinka runs the east line for me," Wyx said. "She counts what she sees."
+
+"Then she will tell it after the order." Sevish didn't turn his head. "Wyx. We have bled enough going down to them. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
+
+"I would hear her report first, brother," Wyx said.
+
+"Then have Ru see to it."
+
+Wyx's brows went up. "Ru?"
+
+Ru's head came up a half second behind hers. "Me?"
+
+Sevish said nothing. He only looked at Ru, heavy and patient, the kind of look that asks a question without saying it. Wyx glanced from her brother to Ru, and something shifted behind her amber eyes.
+
+"Very well," she said, and turned to Ru. "Raise the inner barricade behind the stakes. Pull every goblin back inside the line, and make sure each one is armed and listening. If anyone will not listen, use a little force."
+
+Ru straightened until the cross rope brushed his hair. "Understood." He turned to the barrel. "Kesh. With me."
+
+"Kesh come," Kesh said, already up, and the two of them ducked out through the flap.
+
+Wyx watched the canvas settle. "That is not the first step he has taken tonight," she said, mostly to herself, and I filed it away. *"She's right. He didn't stutter once."*
+
+"Go on, girl," Wyx said, turning back to the table.
 
 Zinka stepped up to the near side of the table, on my right. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since. They fight in bursts: a volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff casts the most and drinks the most."
 
@@ -76,6 +96,8 @@ Sevish said nothing. The candles crackled. It would work, and it would cost him 
 
 *"So the kills have to be mine."* I turned the thought over and didn't like how neatly it closed. If Wyx couldn't be the one to finish them, then Wyx couldn't be the answer, and I needed another one.
 
+--------
+
 "I need those four to fall to me," I said to Sevish. "What they carry, what the fight gives, it only counts for me if my hands are in it. If your axes finish them and mine never touch them, I walk away with nothing. I'm not asking you to understand how it counts. I'm telling you it does."
 
 "Hah. Spoils." Sevish's mouth moved at one corner. "At least you say it plainly."
@@ -83,8 +105,6 @@ Sevish said nothing. The candles crackled. It would work, and it would cost him 
 "There is also the camp," Wyx said. She laid one hand flat on the map beside the stakes. "Brother and I are the walls. Anyone who comes near the outer stakes meets me. If he passes me, or more come and reach the inner barricade, my brother comes out. Only if both fail do they reach our people. It is how we have held every camp since we left Myrrhwood. If the two of us go down that road, the stakes hold nothing."
 
 "She makes it a law," Sevish said. "It is the only law I keep."
-
---------
 
 A small yellow exclamation mark had appeared beside Wyx's tag and Sevish's. I focused on Wyx's, and her panel opened again with more in it than the night they'd chained me: a few stats filled in, and the skills list unrolled partway and stopped.
 
@@ -146,9 +166,9 @@ Nobody spoke. The lantern ticked against the pole. Sevish studied me a long mome
 
 "Hah. He says it to my face." He lifted one hand from the table. "When a goblin of mine falls out there, he does not get up. Remember that when you take your time."
 
-"They will hold," Ru said from the flap, low and steady. "But do not make them hold long, elder."
+The flap lifted and Ru ducked in under the cross rope. "The line is set, chief," he said, low and steady. "Every goblin is armed and listening." He turned to me. "They will hold. But do not make them hold long, elder."
 
-I turned and looked at him, taller than me by a full head, his big hands loose at his sides. Until now he had only answered when somebody asked. The sentence sat in my chest a second longer than I expected.
+I turned and looked at him, taller than me by a full head, his big hands loose at his sides. Until tonight he had only answered when somebody asked. Now he'd gone and done a job and come back to report it unprompted, and it sat in my chest a second longer than I expected.
 
 "I'll be as quick as I can," I said to Sevish.
 
@@ -176,6 +196,8 @@ The chest piece went over my head and settled on my ribs, stiff and smelling of 
 
 Two goblins came off the left wall, past Kesh's barrel, a thickset one who grunted and a thin one who nodded. "Rott go," the thick one said. "Nab carry," the thin one said, and hefted a coil of rope without being asked. Zinka stayed where she was, one finger still on the map.
 
+--------
+
 "Inspector's about at the door," Leon said in my ear. "I'm going to have to cut you. Three minutes, tops."
 
 "Three minutes," I said under my breath.
@@ -191,8 +213,6 @@ Ru fell in at my shoulder and we crossed the camp under the torches, every gobli
 "Sit," Leon said. "Hold still."
 
 The lamp smeared into one long white line, and then the world went out.
-
---------
 
 The lid hissed open on the ceiling of the pod room, soft lantern light after the dark of the visor. I sat up slow, and my joints complained the way they always did after a long dive. The inspector was already at the monitor bay, crouched in front of the open panel with his black suit pressed flat against the chair, his long black hair tied low at the neck, a bang falling across one lens of his glasses. His tools lay in a neat row on a cloth beside him.
 
