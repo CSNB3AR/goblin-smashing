@@ -140,7 +140,7 @@ Leon's voice came in low through the booth channel. "Eleven in here now, and cha
 
 "Hey," I said out loud, quick, my voice still dragging slightly through the slow effect. "Thanks for pulling up. Give me a minute, this is a lot."
 
-"That works," Leon said. "Keep it short."
+"That works," Leon said. "Keep it short, and maybe don't narrate the dirt."
 
 The Call of the Bones tag never left my HUD. I filed it away and stayed on my knee, eyes on Shiv.
 
@@ -166,9 +166,9 @@ A new notification flashed at the edge of my vision, bright yellow bordered.
 
 Leon's voice came back, close to a laugh. "HGO's official channel just hosted you. Eight hundred ninety-one and still climbing. Must be the world quest."
 
-"Hosted?" I said, low, keeping my eyes on Shiv. "Everyone's going to see this."
+"Hosted?" I said, low, keeping my eyes on Shiv. "Damn. That's a lot of pressure."
 
-"Yeah," Leon said. "So don't mess it up."
+"Nine hundred strangers watching you eat dirt," Leon said, dry as ever. "Don't mess it up."
 
 A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
 
@@ -270,7 +270,7 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[VIEWERS: 891 → 3,982]**
 
-"Almost four thousand," Leon said, quiet in my ear. "Chat is losing it over the white hair."
+"Almost four thousand," Leon said, quiet in my ear. "Chat is losing it over the white hair. Half of them think it's a skin."
 
 "Tell them I'm busy," I muttered, pulling the allocation screen open, my mind already running the build.
 
@@ -356,7 +356,7 @@ I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Th
 
 Leon came through low and a little stunned. "Sixty-eight hundred watching. Followers just hit five-eighty, and you started at six. They're not just watching, man. They're staying."
 
-"Staying," I said under my breath.
+"Staying," I said under my breath. "Six to five-eighty. Guess the hair's doing numbers."
 
 It took a couple of minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
 
@@ -388,13 +388,13 @@ We'd barely taken three steps toward the war tent when Leon's voice crackled thr
 
 "Hey, I'm gonna need to step away for a bit," Leon said. A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
 
-"Feed's still recording the whole time, for what it's worth," Leon added. "Honestly it's been like a movie over here. I'm not going anywhere, though. Anything you need, I'm still on the other end of this."
+"Feed's still recording the whole time, for what it's worth," Leon added. "Honestly it's been like a movie over here. I'd bring popcorn, but the booth doesn't have a microwave. I'm not going anywhere, though. Anything you need, I'm still on the other end of this."
 
 Hearing him loosened something in my neck I hadn't known was tight.
 
-"Yeah, I'm good," I said out loud. "Take your time."
+"Yeah, I'm good," I said out loud. "Take your time. Try not to set my pod on fire."
 
-"Appreciate it," Leon said. "Back shortly."
+"No promises," Leon said. "Back shortly."
 
 The line went quiet.
 
