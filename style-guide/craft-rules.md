@@ -95,3 +95,9 @@ In first person, Tatsuya's inner talk shows how he approaches things, not a fini
 ## One or two things at a time (author-stated, latest)
 
 Because the story is first person, Tatsuya can only pick up one or two things in any given moment. When adding body cues or environment, give a beat one or two perceptions (for example a sound and a body sensation), never a stacked list of sights, smells, sounds and textures in one sentence. Spread them across the scene instead.
+
+## Pacing rule: move the needle (author-stated)
+- Every line of dialogue must move the story or be tied to it. If a scene already has everyone knowing what is going on, proceed; do not spend more of his game time on setup, resource panels, quips or repeated reassurance.
+- Panels and system lists appear when a decision or reveal depends on them, not as inventory. Keep them short.
+- By Chapter Eleven the story has to start paying off the real stakes: the debt (he has not spent anything toward it yet), the reach for Myrrhwood and Book One, and the launch. Push the plot each chapter; this is about progress, not rushing.
+- The next beats the author named: reinforcements arrive, the chase, the warband pulls one way and Tatsuya's group pulls another (and vice versa), then the city of Lunarest.

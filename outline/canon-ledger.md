@@ -1095,3 +1095,8 @@ There are **two entirely separate accidents**. Never conflate them.
 - Kesh does not repeat Chapter Nine's breathless report. He gets one line ("Kesh saw five") as the foil for Zinka's snap ("Kesh counted the tent pole twice. There are four, chief"). The caster detail ("the one with the staff casts the most and drinks the most") now comes from Zinka. "Sixty goblins at your back" became "the whole clan".
 - The centre of the chapter is assembling the assault team (Sevish and Wyx's law and why a level 80 cannot just do it, Ru, Zinka and the two ropebearers, then Arya). The author's remark "bro, I'm going 60, what are you doing" could not be parsed; read as Sevish's objection and the reason for the backline (the law); to confirm.
 - Chapter Ten now about 4,100 words; dividers keep every chunk at 1,400 words or fewer (1,077 / 1,148 / 728 / 1,161). Backup: ch10-before-trim.md.
+
+## Pacing check (author-stated, latest)
+- Eleven chapters in, the story needs to move the needle: nothing has gone toward the debt yet, and Myrrhwood and the start of Book One are still ahead, with a launch coming. The author is not rushing the chapters and is not stuck; they have chapter ideas and want every line of dialogue to progress the story or tie to it. Smooth the process, get to the point, do not spend more of his game time.
+- Next beats named by the author: the reinforcements arrive; the chase; the warband pulls one way and Tatsuya's group the other (and vice versa); then the city of Lunarest. Recorded in `style-guide/craft-rules.md` as the pacing rule.
+- OPEN (to confirm with the author): how these beats split across Chapters Eleven and Twelve, where the first debt payment lands, and the Myrrhwood entry point.
