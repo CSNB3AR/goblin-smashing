@@ -37,3 +37,7 @@ See `codex/locations/bloodhurst.md` and `codex/characters/old-draft-minor-refere
 PK_Wraith has real influence in a game where nobody is established yet except the names made in the closed beta. His crew was just wiped on a global stream, and Tatsuya is new and under everyone's gaze. Expect blackmail, a frame job and pressure on his early items, which is why Tatsuya gets his stream going sooner and leans on Arya's brokering to move legacy drops (see `codex/characters/arya.md`). PK_Wraith's side may include a holder of a world weapon (see Open).
 
 **Open:** who "one of the holders" refers to; not in chapter 10 as written.
+
+## Ambush plan update (author-stated, latest, ledger only)
+
+The tent ambush is now two Toxic Breath goblins, one on each side (Ru and a scout girl), not three goblins on three sides, with Arya's mist timing, the rune-trap crit fails and the vomit-stop on the third gas burst. See `codex/subplots/tent-ambush-rune-traps-and-crit-fails.md`. The earlier "three goblins ... from three sides" description above is superseded.

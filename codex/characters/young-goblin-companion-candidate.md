@@ -35,3 +35,7 @@ Loyal, collected, self-sufficient. Gets things done without needing direction re
 ## Ru's title, latest (author-stated)
 
 Ru's title is **Disciple of Elder Nykri**, not "First Disciple of Shiv" (anything above that says the Shiv title is superseded). It is clan-based and about Nykri, not Shiv: Ru stays under the Thrash clan, keeps Shiv's blessing, and as Nykri gathers more goblins the name spreads. Shiv's own line in Chapter Nine: "Make yours greater than mine." See `outline/canon-ledger.md`.
+
+## Ru's speech after the evolution (author-stated, latest)
+
+As a Hobgoblin, Ru speaks in patterns (not the short broken words and stutter of before), with more gravity and confidence. He is not weak. The evolution changes anyone. This answers the earlier OPEN question about his stutter: it eases with the evolution, though Chapter Nine's one post-blessing line ("Don't fully know myself") can stay as a short transitional line. Later he can voice worry in full sentences ("I hope my brethren are okay. We have already lost so many.").
