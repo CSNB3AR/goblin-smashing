@@ -16,9 +16,11 @@ A red alert cut across my vision before the location tags had finished fading.
 
 I focused on the alert and it opened into the defender count and the timer, nothing else. My pulse thudded in my ears.
 
-*"Someone tracking the quest? I knew this was coming the second my name went public. At least I got on in time."*
+The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen. Loop's been tearing into the world quest all day, man, and people are already trying to work out where it is."
 
-The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen, so take your time."
+"Someone tracking the quest," I said under my breath, my eyes still on the alert. "I knew this was coming the second my name went public. At least I got on in time."
+
+"Looks like you've got company," Leon said. "Stay sharp. I'm on this end."
 
 The holding tent came back into focus around me slowly, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. My head was resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
 
@@ -106,11 +108,9 @@ I tried to speak and my mouth moved half a second late, the words coming out slu
 
 My vision swam slightly at the edges, colors bleeding together, and I forced my eyes to settle on something real. The smell of smoke and old canvas, the rough texture of packed dirt under my palm.
 
-Half expecting to see it dropping, I made myself glance at my health anyway.
+Leon's voice cut in, tight. "Your health's holding at fifty, nothing's touching it. Whatever that is, it isn't damaging you."
 
-**[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
-
-"It just slowed me down," I muttered. "Still have full health."
+"It just slowed me down," I muttered, the words dragging. "Still full health."
 
 The ash and smoke figure stepped closer, each movement smooth and deliberate, completely unaffected by whatever force was pinning me to the ground.
 
@@ -270,9 +270,9 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[VIEWERS: 891 → 3,982]**
 
-"Almost four thousand," Leon said, quiet in my ear. "Chat is losing it over the white hair. Half of them think it's a skin."
+"Almost four thousand," Leon said, quiet in my ear. "Everybody's piling in off the world quest, and chat keeps asking where the camp is. Don't say anything that gives it away."
 
-"Tell them I'm busy," I muttered, pulling the allocation screen open, my mind already running the build.
+"Wasn't planning on narrating the map," I muttered, pulling the allocation screen open, my mind already running the build.
 
 Four into Wisdom. Six into Fortune.
 
@@ -358,9 +358,9 @@ I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Th
 
 **[FOLLOWERS: 6 → 580]**
 
-Leon came through low and a little stunned. "Sixty-eight hundred watching. Followers just hit five-eighty, and you started at six. They're not just watching, man. They're staying."
+Leon came through low and a little stunned. "Sixty-eight hundred watching. Followers just hit five-eighty, and you started at six. They're not just watching, man, they're staying. Loop already has three clips of this camp. Keep your head down out there."
 
-"Staying," I said under my breath. "Six to five-eighty. Guess the hair's doing numbers."
+"Then I'd better not die in front of them," I said under my breath.
 
 It took a couple of minutes before Sevish and Wyx came through the running goblins fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
 
