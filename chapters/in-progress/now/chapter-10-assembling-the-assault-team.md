@@ -6,45 +6,55 @@ The number dropped in the corner of my vision while Kesh was still bent over his
 
 "Fourteen," Leon said in my ear, quiet and even. "That one just went down."
 
-Sevish didn't wait for anyone to catch their breath. He covered the last ten paces to the war tent in long strides, Wyx half a step behind him, and I followed with Ru at my shoulder. The flap fell shut behind us on canvas heat, woodsmoke and old leather, and the noise of the camp went flat and far away.
+Sevish didn't wait for anyone to catch their breath. He covered the last ten paces to the war tent in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder, taking in what the camp had turned into.
 
-The war table sat under the center pole, a round slab of wood with a map of the continents spread across it and one red candle burning low in a brass holder. Sevish leaned his axe against the nearest chair, close enough to grab.
+The light had gone low and gray. Smoke from the east watch hung over the clearing so thick that the sun showed only as a paler patch behind it, and the fire pit in the middle had burned down to a red crust nobody was feeding. The stew pot lay on its side beside it, the stew gone to a dark stain in the dirt. When I'd first crawled through this place I couldn't take ten steps without a goblin in my way. Now the lanes between the tents stood empty, the flaps tied shut, and what was left of the clan had pulled itself into a thin line along the sharpened stakes at the mouth of the one dirt track, standing shoulder to shoulder with gaps where somebody had been a minute ago. A hay cart lay on its side across the track with crates stacked behind it. One of the two blue banners had been torn off its pole and the other hung in rags. Under the hiss of the waterfall I could hear hide shields knocking, someone yelling a name, and a spell going off with a flat crack somewhere past the stakes.
 
-"Wyx," he said. "Barricades up. Reinforce the eastern watch and pull everyone back inside the palisade line. Nobody engages past the treeline."
+Near the back of the camp, under a lean-to, a row of goblins lay on bedrolls with Wyx's healers moving between them. I counted the ones who were sitting up and stopped counting.
 
-"It is done, brother," Wyx said, already turning for the flap, her voice pitched to carry to the goblins scrambling past outside. "You heard him. Palisade line. Nobody stands out there proving a point."
+The flap fell shut behind us on canvas heat, woodsmoke and old leather, and the noise of the camp went flat and far away.
 
-Kesh had followed us in and stood at the edge of the table with his hands wrapped around his own elbows, breathing through his mouth. Sevish turned on him.
+The lantern on the center pole swung a little from our entrance and settled, throwing a yellow circle over the round war table with its map of the continents and the candles ringed around it. Sevish walked behind the table and planted both fists on the wood, his axe leaning within reach against the nearest chair. I took the open side of the table, same as the night they'd called me an enemy and a friend in the same breath. Kesh sagged against a barrel by the wall, rubbing his knee. Ru stopped just inside the flap with one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch, and ducked the lantern chain without being told to. He still hadn't gotten used to his own height.
 
-"How many on that road, Kesh?" he said. "A clean count."
+"I hope my brothers are all right," Ru said, low, eyes on the strip of light. "We have already lost so many."
 
-"Four," Kesh said, one hand coming off his elbow to gesture low and wide. "Maybe five. Kesh could not get close. They saw Kesh coming, they saw everything."
+"Wyx," Sevish said, without turning his head. "Barricades up. Reinforce the east watch and pull everyone back inside the stakes. Nobody engages past the treeline."
 
-Sevish's stance squared, the axe still within reach. "That is not a count, Kesh. Four of them did this to my patrol?"
+"It is done, brother," Wyx said, already turning for the flap, her voice pitched to carry to the goblins outside. "You heard him. Nobody stands out there proving a point."
 
-"They attack us. Random." Kesh scratched at the back of his head and his eyes dropped to the dirt floor. "They have caster."
+She ducked out. Sevish turned his scarred face on Kesh.
 
-"Four," said a voice from beside the flap.
+"How many on that road?" he said. "A clean count."
 
-A smaller figure had slipped in behind us without a sound. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it stood a goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes. She carried no weapon in her hands.
+"Four," Kesh said, one hand coming off his knee to gesture low and wide. "Maybe five. Kesh could not get close. They saw Kesh coming, they saw everything."
 
-"Kesh saw five," Kesh said.
+"That is not a count, Kesh." Sevish's stance squared. "Four of them did this to my patrol?"
 
-"You saw a tent pole," Zinka said, not unkindly.
+"They attack us. Random." Kesh scratched the back of his head and dropped his eyes to the dirt floor. "They have caster."
 
-Sevish let out a short, rough laugh. "Hah. Wyx, who is this?"
+"Four, chief," a voice said from the flap.
 
-"Zinka runs the east line for me," Wyx said, coming back to the table. "She counts what she sees. Go on, girl."
+Ru shifted aside to let her through, and I watched his head turn to follow her, a hobgoblin looking at another hobgoblin. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it came a lean goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes. Dust coated her knees. She carried no weapon in her hands.
 
-Zinka stepped up to the map and set one finger where the hill met the road. "A red tent, on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since."
+"Kesh counted five," Kesh said.
 
-*"Five minutes, and they're sitting still."* I rubbed my thumb along the edge of the table. *"A party that wasn't hurt would still be pushing."*
+"Kesh counted the tent pole twice," Zinka said. "There are four."
 
-"They're healing," I said. "They fought their way down the line, took damage, and pulled back to recover."
+Sevish let out a short, rough laugh. "Hah. Who is this?"
 
-"Say it so a goblin understands," Sevish said.
+"Zinka runs the east line for me." Wyx had come back through the flap behind her, brushing dirt from her palms. "She counts what she sees. Go on, girl."
 
-"They're hurt and they're resting. That means the next push comes fresh." I leaned over the map and followed the single track from the camp down to the road with my finger. Cliffs closed it in on one side and the waterfall on the other, and past the edge the paper showed nothing but a long drop. "And the tent isn't random. There's one road down from this camp, and whoever sits on it decides who leaves. Anyone who goes down it gets seen first."
+Zinka stepped up to the table. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since." She hesitated, and the hesitation cost her something. "They fight in bursts. A volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff drinks most often. I cannot say what the vials hold."
+
+*"Five minutes of sitting still. And they keep stopping to drink."* I rubbed my thumb along the edge of the table. *"They're not winning this. They're hanging on."*
+
+"A party posted a clip an hour ago," Leon said in my ear. "Four tags on screen, Loop's got it. Level five and six, man. That's small tanks. One real push and they're out of gas."
+
+"Five and six," I muttered, and let the numbers settle.
+
+"Spirits do that," Wyx said to Sevish, quietly, watching me. "Let him."
+
+I looked up. "They're hurt and they're tired. That's why they pulled back. And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
 
 Wyx's head turned sharply, her amber eyes narrowing with something close to interest. "You have seen it."
 
@@ -52,29 +62,43 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 **[AFFILIATION: THRASH CLAN - 45% → 47%]**
 
-"Then they hold the road and I cannot hold the camp," Sevish said. "I send my best down in numbers and break the line. A hundred axes, one tent. They cannot stop a hundred."
+"Then they are weak, and I strike now," Sevish said. He straightened off the table. "A tired caster is a slow caster. I take Wyx and the twelve best I have down that road in one rush. The axes reach the tent before their next volley is done. It is finished in a few breaths."
 
-"You don't have a hundred," I said.
+"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads, and the second on whoever steps over him. I count six of ours at the bend, perhaps more, and we have fourteen who can stand."
 
-The tent went quiet. The corner of Wyx's mouth moved, and Sevish's eyes came to me slowly, heavy and amused and not at all friendly.
+"Six for four of theirs." Sevish's mouth moved at one corner. "I have paid worse."
 
-"No," he said. "I have fourteen."
+"You paid worse with sixty goblins at your back," Wyx said. "You have fourteen."
 
-"And the road lets them kill you one at a time," I said. "Send your fourteen down it and they spend a few spells and a few minutes, and then you have none. I'm not asking you to throw anyone at that tent. I'm asking you to let me take it."
+Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody in the tent was pretending it was. It would work, and it would cost him a third of the clan to find out.
 
-"You," Sevish said.
+"Sevish." I put my palms flat on the table so he'd see I wasn't reaching for anything. "I have another way. I don't have much time to put it together, but give me a minute."
 
-"Me, Ru, and whoever you can spare." I kept my eyes on the map so the answer wouldn't stick in my throat. "They're four players in a tent with one way out. A cloud through the flap, a flare to light it, and the thing about gas is that it doesn't care how many axes are in the room."
+"Speak," Sevish said.
 
-"Gas," Wyx said slowly. "In a closed tent."
+"Don't go to them. Make them come to you, and make them pay for every step." I traced the track on the map up from the road to the stakes. "Pull your best back behind a wall of shields at the mouth of the track. Hide shields, doors off the tents, anything flat, locked edge to edge with spears over the top. They have to climb a lane one body wide, and everything they throw hits wood."
 
-"In a closed tent, from two sides, so they can't walk out of it." My thumb stopped moving. "I can make a cloud. I can't make one big enough to hold four people for long, and I can't do it alone."
+*"Kingdom. The Qin lines holding the pass, shields locked, the whole front rank of the other side bleeding on the spears."* I'd read that arc four times. I hadn't expected to use it.
 
-"Ru," Wyx said, and looked at him.
+"A wall," Wyx said slowly.
 
-"I can breathe it, elder," Ru said. His voice came low and steady from behind my shoulder. "Not as much as you. But enough."
+"A wall holds. And the four of them can only throw so much before they're empty." I tapped the red tent on the map. "Then they have to drink, and a draught doesn't fill them back at once. The spirit who speaks to me says even a good one takes five minutes to settle, and the cheap ones, which are what they'll be carrying, take longer."
 
-"Then Zinka also," Zinka said, and shrugged one shoulder. "Same breath as the big one, a little thinner. Wyx did not teach me to waste it."
+"So when they are empty, they fall back to the tent to drink," Wyx said. Her eyes had gone bright. "And sit there, drained, with one road in."
+
+"That's the shield," Sevish said, flat. "And the spear?"
+
+"The spear doesn't come up the road." I looked across the table. "It comes in behind them, while they're sitting in that tent with nothing left. Not by the track. I need another way down."
+
+"There is a ledge behind the waterfall," Zinka said. "Wide enough for one at a time. It comes out on the hill above the road, behind their tent. Twenty paces of fall if you slip." She lifted her chin. "I have crossed it twice."
+
+"Shield in front, spear in behind," Wyx said. She turned to her brother. "Brother, it is a good plan."
+
+Sevish studied the map for a long moment, then me. "And if the wall breaks while you are on that ledge?"
+
+"Then I've lost you the camp." I made myself keep my eyes up. "That's the risk, and I'm not going to pretend it isn't."
+
+"Hah." The rough laugh again, shorter. "At least you do not lie."
 
 I pulled the ability list open to be sure of what I was spending. The blue screen came up where only I could see it: Goblin Gas on a thirty-second cooldown, Shiv-Touched Flare, Rune Priming. Sixty-five health, thirty-two stamina, thirty-two mana. I turned my right hand over in front of my face and the Flare answered, a small orange bead that sat in my palm and spat a little heat, enough to hurt somebody and enough to light a cloud, nothing more.
 
@@ -86,21 +110,19 @@ I focused on the last entry and it unfolded.
 
 "It rolls a die before it does anything," Leon said in my ear. "Low roll and it fizzles, and it still eats the mana. Thirty-two mana, man. Plan around that, and don't spend it all on the first good idea."
 
-"I know," I muttered, and Wyx's eyes flicked to me and away, the way they had the first time she'd caught me talking to nobody.
+"I know," I muttered.
 
-"Spirits do that," she said, mostly to Sevish, and let it go.
-
-"The cloud isn't enough by itself," I said to the room. "If they've got a caster, the first thing they'll do is walk out through it or burn it off. I need a way to keep them inside it for a few seconds. And I need that same caster quiet." I took a breath. "I don't have that yet. I know where to get it. I need half an hour."
+"Gas from two sides, through the flap of the tent," I said to the table. "Ru on one side, Zinka on the other. A flare to light it. But if they have a caster, the first thing that caster does is burn the cloud off, and I can't keep four of them inside it. I need a way to hold them in and keep that caster quiet." I took a breath. "I don't have that yet. I need half an hour."
 
 "Half an hour," Sevish said. "And until then?"
 
-"Hold the front." I made myself meet his eyes. "Let them spend everything they have on you. Stay inside the palisade, make them come to you, and don't send anyone down that road."
+"Your wall." I met his eyes. "Let them spend everything they have on it, and don't send anyone down that road."
 
 Sevish said nothing for a moment. When he spoke, the laugh was gone.
 
-"I do not have the luxury of strangers who get up again," he said. "When a goblin of mine falls out there, he does not stand up. Remember that when you name your half hour."
+"When a goblin of mine falls out there, he does not get up," he said. "Remember that when you name your half hour."
 
-"They will hold," Ru said from behind me, low and steady. "But do not make them hold long, elder."
+"They will hold," Ru said from the flap, low and steady. "But do not make them hold long, elder."
 
 I turned and looked at him, taller than me by a full head, his big hands loose at his sides. Until now he had only answered when somebody asked. The sentence sat in my chest a second longer than I expected.
 
@@ -112,7 +134,7 @@ I cleared my throat and plucked at the split seam of my shoulder. "I'm not going
 
 "Wyx," Sevish said, a flicker of the old amusement coming back. "Get him something that actually fits."
 
-Wyx crossed to a crate against the wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have our own elder walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather.
+Wyx crossed to the crate against the wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have our own elder walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather.
 
 **[ITEM RECEIVED: COMMON GOBLIN LEATHER CHEST (+1 ENERGY)]**
 
@@ -146,7 +168,7 @@ Wyx gave me a long look, then a smaller one, almost fond. "Your spirit voice aga
 
 "Sit," Leon said. "Hold still."
 
-The tent smeared at the edges, the candle stretching out into one long white line, and then the world went out.
+The tent smeared at the edges, the lantern stretching out into one long white line, and then the world went out.
 
 The lid hissed open on the ceiling of the pod room, soft lantern light after the dark of the visor. I sat up slow, and my joints complained the way they always did after a long dive. The inspector was already at the monitor bay, crouched in front of the open panel with his black suit pressed flat against the chair, his long black hair tied low at the neck, a bang falling across one lens of his glasses. His tools lay in a neat row on a cloth beside him.
 
@@ -166,7 +188,7 @@ Leon didn't answer right away, still bent over the panel. Then, quieter, mostly 
 
 "Give me the ten minutes," he said, louder. "Go stretch your legs. You've been under a long time."
 
-I took the spiral staircase down to the lounge slowly, my knees stiff, the lantern lamps over the brick humming and a row of old desktops sitting dark. It was quiet this early. The only person in the room was behind the front counter, and she looked up before I'd reached the last step.
+I took the spiral staircase down to the lounge slowly, my knees stiff, the lantern lamps over the brick humming and a row of old desktops sitting dark. It was quiet for the hour, the clock over the counter reading 8:54, a single desktop glowing at the far wall. The only person in the room was behind the front counter, and she looked up before I'd reached the last step.
 
 She had white hair in a messy bun, ink running down both forearms to the wrist, a plain black tee and sharp gray eyes. A half-smirk.
 
@@ -250,7 +272,7 @@ The inspector had finished with his panel by the time we got back upstairs, a st
 
 The lid came down and sealed. The visor lowered. The dark came, and then the rush, and then the game folded back into focus around me.
 
-The smell hit first. Smoke, but wrong. Burned canvas, burned hair, something sharper under both, too close and too recent. The candle sat low and guttering, throwing long shadows up the tent walls, and the flap hung crooked on one of its ties.
+The smell hit first. Smoke, but wrong. Burned canvas, burned hair, something sharper under both, too close and too recent. The lantern sat low and guttering, throwing long shadows up the tent walls, and the flap hung crooked on one of its ties.
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
