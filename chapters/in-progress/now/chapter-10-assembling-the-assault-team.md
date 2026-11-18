@@ -14,7 +14,9 @@ Near the back of the camp, under a lean-to, a row of goblins lay on bedrolls wit
 
 The flap fell shut behind us on canvas heat, woodsmoke and old leather, and the noise of the camp went flat and far away.
 
-The lantern on the center pole swung a little from our entrance and settled, throwing a yellow circle over the round war table with its map of the continents and the candles ringed around it. Sevish walked behind the table and planted both fists on the wood, his axe leaning within reach against the nearest chair. I took the open side of the table, same as the night they'd called me an enemy and a friend in the same breath. Kesh sagged against a barrel by the wall, rubbing his knee. Ru stopped just inside the flap with one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch, and ducked the lantern chain without being told to. He still hadn't gotten used to his own height.
+The tent was round, wide enough to walk a full circle around the war table without brushing canvas. Timber ribs curved up from the ground to meet at the center pole, where the lantern hung and swung a little from our entrance before it settled. The back wall faced the cliff, and through it I could hear the waterfall and feel the cold coming off the rock.
+
+Sevish went straight through to the far side of the table and planted both fists on the wood, the chest and barrels stacked tidy against the back wall behind him, his axe leaning in the chair at his right hand. I took the near side at the center, the same open spot as the night they'd called me an enemy and a friend in the same breath, with the flap at my back. Kesh dropped onto a barrel along the left wall and rubbed his knee. Ru stopped inside the flap on the right, one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch. He stood with his head bent under the cross rope above the entrance, still not used to his own height.
 
 "I hope my brothers are all right," Ru said, low, eyes on the strip of light. "We have already lost so many."
 
@@ -22,7 +24,7 @@ The lantern on the center pole swung a little from our entrance and settled, thr
 
 "It is done, brother," Wyx said, already turning for the flap, her voice pitched to carry to the goblins outside. "You heard him. Nobody stands out there proving a point."
 
-She ducked out. Sevish turned his scarred face on Kesh.
+She ducked out. Sevish turned his scarred face toward the barrels.
 
 "How many on that road?" he said. "A clean count."
 
@@ -34,7 +36,7 @@ She ducked out. Sevish turned his scarred face on Kesh.
 
 "Four, chief," a voice said from the flap.
 
-Ru shifted aside to let her through, and I watched his head turn to follow her, a hobgoblin looking at another hobgoblin. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it came a lean goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes. Dust coated her knees. She carried no weapon in her hands.
+Ru shifted along the canvas to let her through, and I watched his head turn to follow her, a hobgoblin looking at another hobgoblin. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it came a lean goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes. Dust coated her knees. She carried no weapon in her hands.
 
 "Kesh counted five," Kesh said.
 
@@ -42,9 +44,9 @@ Ru shifted aside to let her through, and I watched his head turn to follow her, 
 
 Sevish let out a short, rough laugh. "Hah. Who is this?"
 
-"Zinka runs the east line for me." Wyx had come back through the flap behind her, brushing dirt from her palms. "She counts what she sees. Go on, girl."
+"Zinka runs the east line for me." Wyx had come back through the flap behind her and taken her place at Sevish's left, brushing dirt from her palms. "She counts what she sees. Go on, girl."
 
-Zinka stepped up to the table. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since." She hesitated, and the hesitation cost her something. "They fight in bursts. A volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff drinks most often. I cannot say what the vials hold."
+Zinka stepped up to the near side of the table, on my right. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since." She hesitated, and the hesitation cost her something. "They fight in bursts. A volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff drinks most often. I cannot say what the vials hold."
 
 *"Five minutes of sitting still. And they keep stopping to drink."* I rubbed my thumb along the edge of the table. *"They're not winning this. They're hanging on."*
 
@@ -134,7 +136,7 @@ I cleared my throat and plucked at the split seam of my shoulder. "I'm not going
 
 "Wyx," Sevish said, a flicker of the old amusement coming back. "Get him something that actually fits."
 
-Wyx crossed to the crate against the wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have our own elder walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather.
+Wyx crossed to the crate against the right wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have our own elder walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather.
 
 **[ITEM RECEIVED: COMMON GOBLIN LEATHER CHEST (+1 ENERGY)]**
 
@@ -150,7 +152,7 @@ The chest piece went over my head and settled on my ribs, stiff and smelling of 
 
 **[CALL OF COMMAND: RETURN | SCOUT | CALL TO ARMS]**
 
-Two goblins came off the tent wall, a thickset one who grunted and a thin one who nodded. "Rott go," the thick one said. "Nab carry," the thin one said, and hefted a coil of rope without being asked. Zinka stayed where she was, one finger still on the map.
+Two goblins came off the left wall, past Kesh's barrel, a thickset one who grunted and a thin one who nodded. "Rott go," the thick one said. "Nab carry," the thin one said, and hefted a coil of rope without being asked. Zinka stayed where she was, one finger still on the map.
 
 "Inspector's about at the door," Leon said in my ear. "I'm going to have to cut you. Three minutes, tops."
 

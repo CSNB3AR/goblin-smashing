@@ -1025,3 +1025,6 @@ There are **two entirely separate accidents**. Never conflate them.
 - Real-world: it is evening, clock 8:54, so "quiet this early" was wrong and is fixed.
 - Chapter One: "every other MMORPG" now reads "every other VRMMORPG" (final, original, Walter-only, part-1 file). Backup: ch1-before-vr.md.
 - Backup of the earlier Chapter Ten: ch10-before-tactics.md.
+
+## War tent floor plan (author-requested: positions matter)
+- Layout recorded in `codex/locations/thrash-war-tent-layout.md` and now on the page in Chapter Ten: round tent, back wall to the cliff (waterfall hum, cold), Sevish at the far side of the table with chest and barrels behind him and the axe in the chair at his right, Tatsuya near side center with the flap at his back, Kesh on a barrel at the left wall (Rott and Nab along that wall), Wyx's crate against the right wall, Ru inside the flap on the right under the low cross rope, Zinka to Tatsuya's right at the table, Wyx at Sevish's left. Backup of the prior text: ch10-before-layout.md.
