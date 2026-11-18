@@ -318,7 +318,7 @@ Notifications came for Ru too, visible in my peripheral vision.
 
 **[TITLE UNLOCKED: DISCIPLE OF ELDER NYKRI]**
 
-*"Disciple of Elder Nykri. Mine, not Shiv's."*
+*"Disciple of Elder Nykri. Huh. I wonder what comes with that."*
 
 *"Hobgoblin. Direct evolution. That's pretty cool."*
 
