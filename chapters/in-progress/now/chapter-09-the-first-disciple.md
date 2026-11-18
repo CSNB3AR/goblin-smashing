@@ -162,13 +162,13 @@ A new notification flashed at the edge of my vision, bright yellow bordered.
 
 **[STREAM HOSTED BY HGO OFFICIAL CHANNEL]**
 
-**[VIEWERS: 11 → 891]**
+**[VIEWERS: 11 → 142]**
 
-Leon's voice came back, close to a laugh. "HGO's official channel just hosted you. Eight hundred ninety-one and still climbing. Must be the world quest."
+Leon's voice came back, close to a laugh. "HGO's official channel just hosted you. A hundred forty-two and climbing. Must be the world quest."
 
 "Hosted?" I said, low, keeping my eyes on Shiv. "Damn. That's a lot of pressure."
 
-"Nine hundred strangers watching you eat dirt," Leon said, dry as ever. "Don't mess it up."
+"A hundred forty strangers watching you eat dirt," Leon said, dry as ever. "Don't mess it up."
 
 A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
 
@@ -268,9 +268,9 @@ Notifications came fast, stacking on top of each other in my vision.
 
 *"Find the rest of the set, no hint, no marker. All I've got is the piece Shiv said is in Lunarest."*
 
-**[VIEWERS: 891 → 3,982]**
+**[VIEWERS: 142 → 620]**
 
-"Almost four thousand," Leon said, quiet in my ear. "Everybody's piling in off the world quest, and chat keeps asking where the camp is. Don't say anything that gives it away."
+"Six hundred and climbing," Leon said, quiet in my ear. "Everybody's piling in off the world quest, and chat keeps asking where the camp is. Don't say anything that gives it away."
 
 "Wasn't planning on narrating the map," I muttered, pulling the allocation screen open, my mind already running the build.
 
@@ -354,11 +354,11 @@ The second guard took off at a run, his boots kicking up dust as he cut through 
 
 I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see goblins on their way to the palisade slow as they passed, staring, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I felt every eye out there on my skin.
 
-**[VIEWERS: 3,982 → 6,804]**
+**[VIEWERS: 620 → 1,310]**
 
-**[FOLLOWERS: 6 → 580]**
+**[FOLLOWERS: 6 → 96]**
 
-Leon came through low and a little stunned. "Sixty-eight hundred watching. Followers just hit five-eighty, and you started at six. They're not just watching, man, they're staying. Loop already has three clips of this camp. Keep your head down out there."
+Leon came through low and a little stunned. "Thirteen hundred watching. Followers just hit ninety-six, and you started at six. They're not just watching, man, they're staying. Loop already has three clips of this camp. Keep your head down out there."
 
 "Then I'd better not die in front of them," I said under my breath.
 
@@ -406,6 +406,6 @@ I stopped and turned to face him square on.
 
 *"They already found my location. Fuck. And I'm getting pulled in ten minutes. Worst timing possible."*
 
-**[VIEWERS: 6,804 → 7,392]**
+**[VIEWERS: 1,310 → 1,540]**
 
 **[END CHAPTER NINE]**
