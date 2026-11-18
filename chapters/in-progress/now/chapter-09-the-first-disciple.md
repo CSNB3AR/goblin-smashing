@@ -136,9 +136,11 @@ A small notification ticked in the corner of my vision, easy to miss against eve
 
 **[VIEWERS: 3 → 11]**
 
-*"People are watching. I need to say something."*
+Leon's voice came in low through the booth channel. "Eleven in here now, and chat's already asking about the gold tag. Might want to say something."
 
 "Hey," I said out loud, quick, my voice still dragging slightly through the slow effect. "Thanks for pulling up. Give me a minute, this is a lot."
+
+"That works," Leon said. "Keep it short."
 
 The Call of the Bones tag never left my HUD. I filed it away and stayed on my knee, eyes on Shiv.
 
@@ -162,13 +164,13 @@ A new notification flashed at the edge of my vision, bright yellow bordered.
 
 **[VIEWERS: 11 → 891]**
 
-Everything in me went still.
+Leon's voice came back, close to a laugh. "HGO's official channel just hosted you. Eight hundred ninety-one and still climbing. Must be the world quest."
 
-*"Wait. HGO's main channel just hosted me."*
+"Hosted?" I said, low, keeping my eyes on Shiv. "Everyone's going to see this."
 
-The number kept climbing.
+"Yeah," Leon said. "So don't mess it up."
 
-*"I can't take this back. Whatever happens here, everyone's going to see it."* A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
+A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
 
 "Alright," I said, my voice steadier now even through the drag. "What's the warning? And why me, with a whole camp of goblins out there?"
 
@@ -268,7 +270,9 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[VIEWERS: 891 → 3,982]**
 
-I pulled the allocation screen open, my mind already running the build.
+"Almost four thousand," Leon said, quiet in my ear. "Chat is losing it over the white hair."
+
+"Tell them I'm busy," I muttered, pulling the allocation screen open, my mind already running the build.
 
 Four into Wisdom. Six into Fortune.
 
@@ -350,7 +354,9 @@ I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Th
 
 **[FOLLOWERS: 6 → 580]**
 
-*"People are actually following off this. Not just watching, following."*
+Leon came through low and a little stunned. "Sixty-eight hundred watching. Followers just hit five-eighty, and you started at six. They're not just watching, man. They're staying."
+
+"Staying," I said under my breath.
 
 It took a couple of minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
 
@@ -380,9 +386,9 @@ Sevish held my gaze for a long moment, then something in his chest gave, most of
 
 We'd barely taken three steps toward the war tent when Leon's voice crackled through, distant and tinny.
 
-"Hey, sorry to jump back in," Leon said, "but I'm gonna need to step away for a bit." A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
+"Hey, I'm gonna need to step away for a bit," Leon said. A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
 
-"Feed's still recording the whole time, for what it's worth," Leon added. "Been watching. Honestly it's been like a movie over here. Didn't want to break in on any of it. Doesn't mean I'm not here, though. Anything you need, I'm still on the other end of this."
+"Feed's still recording the whole time, for what it's worth," Leon added. "Honestly it's been like a movie over here. I'm not going anywhere, though. Anything you need, I'm still on the other end of this."
 
 Hearing him loosened something in my neck I hadn't known was tight.
 
