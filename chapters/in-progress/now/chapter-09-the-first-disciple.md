@@ -332,19 +332,15 @@ I looked down at myself, still dressed in the same torn prisoner rags.
 
 I stepped up to the entrance, close enough now that both guards could see me, and both of them went completely still.
 
-The nearer guard's eyes dropped from my face to the necklace hanging at my throat, then tracked up to the white hair, and the flat, hostile line of his mouth came apart.
+The nearer guard's eyes dropped from my face to the necklace hanging at my throat, then tracked up to the white hair and the lighter skin, and the flat, hostile line of his mouth came apart. Something hummed under my skin, a faint pressure pushing outward that I had never felt in this body, and the second guard took half a step back before he seemed to know he had.
 
-"I'm taking Sevish's quest," I said, keeping my tone steady. "Go get him. Tell him I'm ready. Also tell him Shiv has given me his blessing."
+"Tell Sevish I'm ready," I said, keeping my tone steady.
 
 The guard didn't move right away, his mouth working like he was trying to form words that wouldn't come.
 
-"Shiv?" the guard finally managed, his voice coming out quieter than it had been a second ago.
+"Yes," he finally managed, his voice coming out quieter than it had been a second ago. "Yes, elder."
 
-"Yeah," I said, lifting the necklace slightly so the bones caught the dim morning light filtering through the tent flap. "In the tent. The necklace, plus my changes, and Ru, should be easily proof of that."
-
-The first guard looked at the second guard, something passing between them.
-
-"Go," the first guard said to the second, his voice tight. "Get the chief. Fast."
+He turned to the second guard without waiting for an answer, his voice tight. "Go. Get the chief. Fast."
 
 The second guard took off at a run, his boots kicking up dust as he cut through the crowd that had started gathering outside.
 
