@@ -8,7 +8,7 @@ The number dropped in the corner of my vision while Kesh was still bent over his
 
 Sevish didn't wait for anyone to catch their breath. He covered the last ten paces to the war tent in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder, taking in what the camp had turned into.
 
-The light had gone low and gray. Smoke from the east watch hung over the clearing so thick that the sun showed only as a paler patch behind it, and the fire pit in the middle had burned down to a red crust nobody was feeding. The stew pot lay on its side beside it, the stew gone to a dark stain in the dirt. When I'd first crawled through this place I couldn't take ten steps without a goblin in my way. Now the lanes between the tents stood empty, the flaps tied shut, and what was left of the clan had pulled itself into a thin line along the sharpened stakes at the mouth of the one dirt track, standing shoulder to shoulder with gaps where somebody had been a minute ago. A hay cart lay on its side across the track with crates stacked behind it. One of the two blue banners had been torn off its pole and the other hung in rags. Under the hiss of the waterfall I could hear hide shields knocking, someone yelling a name, and a spell going off with a flat crack somewhere past the stakes.
+It was still night, and the camp had shrunk into it. Smoke from the east watch hung over the clearing so thick that the stars were gone, and the only light came from torches burning in iron cressets along the stakes and from the fire pit in the middle, burned down to a red crust nobody was feeding. The stew pot lay on its side beside it, the stew gone to a dark stain in the dirt. When I'd first crawled through this place I couldn't take ten steps without a goblin in my way. Now the lanes between the tents stood empty, the flaps tied shut, and what was left of the clan had pulled itself into a thin line along the sharpened stakes at the mouth of the one dirt track, standing shoulder to shoulder with gaps where somebody had been a minute ago. A hay cart lay on its side across the track with crates stacked behind it. One of the two blue banners had been torn off its pole and the other hung in rags. Under the hiss of the waterfall I could hear hide shields knocking, someone yelling a name, and a spell going off with a flat crack somewhere past the stakes.
 
 Near the back of the camp, under a lean-to, a row of goblins lay on bedrolls with Wyx's healers moving between them. I counted the ones who were sitting up and stopped counting.
 
@@ -106,6 +106,13 @@ Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody i
 
 "Show them, then leave," Wyx said slowly.
 
+"And when their casters try to throw past the wall at the bows, you howl," I said.
+
+"My Howl is smaller than my brother's," Wyx said. "It will not freeze anyone."
+
+"It doesn't have to. It turns them on you." I tapped the map where the wall would stand. "Every time a caster tries to reach over the shields for an archer, you howl and the spell comes to you instead. They can't choose another target. They have to keep fighting you, and you don't have to kill anyone to make them do it."
+
+
 *"They think they're fighting a script. A guard that holds its ground and resets. Let them keep thinking it."* "If you follow them down the hill, the wall opens and the archers go with you," I said. "Stay with it, and every time they come back they find the same thing waiting."
 
 Sevish let out a short, rough laugh. "And I am to be where?"
@@ -114,13 +121,13 @@ Sevish let out a short, rough laugh. "And I am to be where?"
 
 "Hah. Hidden." Sevish scratched at his beard with the back of one thick hand. "I have not been hidden in forty years."
 
-"They'll burn everything they have on that wall," I went on. "The four of them can only throw so much before they're empty, and then they have to drink. A draught doesn't fill them back at once. The spirit who speaks to me says even a good one takes five minutes to settle, and the cheap ones, which are what they'll be carrying, take longer. So after the first clash they fall back to their tent to recover, and sit there with nothing left."
+"They'll burn everything they have on that wall," I went on. "The four of them can only throw so much before they're empty, and then they have to drink. A draught doesn't fill them back at once. The spirit who speaks to me says even a good one takes five minutes to settle, and the cheap ones, which are what they'll be carrying, take longer. The first clash they'll take for luck. By the second they'll know these aren't the goblins they've been killing for an hour, and they'll fall back to their tent to talk it over and drink, and sit there with nothing left. It's night. They won't be watching the rocks."
 
 "And you go in behind them," Wyx said.
 
 "Shield in front, spear in behind." I looked across the table. "Not by the track. I need another way down."
 
-"The east side of the camp is a rockslide," Zinka said. "It drops into trees above the road, behind their tent. It will take rope, and you will not be quiet on the stones." She lifted her chin. "I have scouted it. I have not climbed it."
+"The east side of the camp is a rockslide," Zinka said. "It drops into trees above the road, behind their tent. It will take rope. The dark will hide you on the stones, but it will not hide the noise." She lifted her chin. "I have scouted it. I have not climbed it."
 
 "I have two who can carry rope," Sevish said.
 
@@ -129,6 +136,10 @@ Sevish studied the map for a long moment, then me. "And if the wall breaks while
 "Then I've lost you the camp." I made myself keep my eyes up. "That's the risk, and I'm not going to pretend it isn't."
 
 "Hah." The rough laugh again, shorter. "At least you do not lie."
+
+"That is all of it," I said to Sevish, and then quieter, to the air beside my ear. "Leon, you can bring the stream back up. I only needed it off while I talked."
+
+"Going live," Leon said. "Chat's going to ask where you went. I'll tell them you were thinking."
 
 I pulled the ability list open to be sure of what I was spending. The blue screen came up where only I could see it: Goblin Gas on a thirty-second cooldown, Shiv-Touched Flare, Rune Priming. Sixty-five health, thirty-two stamina, thirty-two mana. I turned my right hand over in front of my face and the Flare answered, a small orange bead that sat in my palm and spat a little heat, enough to hurt somebody and enough to light a cloud, nothing more.
 
@@ -310,7 +321,7 @@ I looked toward the flap. The spot where Ru had been standing was empty.
 
 **[THRASH CLAN DEFENDERS: 11/20]**
 
-"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "They came early, man. Card's still up on the stream. Say when."
+"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "They came early, man. We're live again, so move."
 
 I was on my feet before the notification faded.
 
