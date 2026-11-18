@@ -76,6 +76,8 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 Sevish said nothing. The candles crackled. It wasn't a stupid plan, and nobody in the tent was pretending it was. It would work, and it would cost him a third of the clan to find out.
 
+--------
+
 "Then Wyx and I go alone," Sevish said, and the quiet in his voice made the candles sound loud. "Two axes, four casters. We do not need the twelve."
 
 "You'd win," I said. "I don't doubt it for a second."
@@ -168,6 +170,8 @@ I focused on the last entry and it unfolded.
 
 "I know," I muttered, and closed the screen.
 
+--------
+
 "I need some time," I said to the table. "I'm going back to my tent to put the plan together. You'll have to trust me on that."
 
 "Trust," Sevish said. "You ask a great deal."
@@ -231,6 +235,8 @@ Ru fell in at my shoulder and we crossed the camp the way I'd come, past the tor
 "Sit," Leon said. "Hold still."
 
 The lamp smeared into one long white line, and then the world went out.
+
+--------
 
 The lid hissed open on the ceiling of the pod room, soft lantern light after the dark of the visor. I sat up slow, and my joints complained the way they always did after a long dive. The inspector was already at the monitor bay, crouched in front of the open panel with his black suit pressed flat against the chair, his long black hair tied low at the neck, a bang falling across one lens of his glasses. His tools lay in a neat row on a cloth beside him.
 

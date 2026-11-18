@@ -124,6 +124,8 @@ I tried to push myself up again, my arm shaking with the effort, and managed to 
 
 "If you're gonna kill me just do it and stop fucking around," I said, forcing the words out even through the drag. My pulse hammered, real adrenaline spiking even though I knew this was VR.
 
+--------
+
 The figure stepped even closer, ash trailing behind him, and the temperature in the tent dropped noticeably. Cold seeped through the canvas walls, sharp enough that I felt it prickle across my skin.
 
 "Calm yourself," the voice said, quieter now, almost amused. "If I was going to kill you, little one, I would have done so already. This is just what standing near me costs, for now. It is the only way I can speak with you."
@@ -267,6 +269,8 @@ Notifications came fast, stacking on top of each other in my vision.
 *"Five levels at once. That's the quest paying out, not just the necklace."* I already knew what I was attaching them to.
 
 *"Find the rest of the set, no hint, no marker. All I've got is the piece Shiv said is in Lunarest."*
+
+--------
 
 **[VIEWERS: 142 → 620]**
 
