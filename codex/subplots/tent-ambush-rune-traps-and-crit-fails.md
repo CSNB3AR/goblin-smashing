@@ -59,3 +59,24 @@ Arya is about **20 minutes away** (real time), so Tatsuya's request to Sevish ha
 - Tatsuya will not keep feeding Sevish's goblins into the front: he has no control over them, and watching them go in mindlessly bothers him because he sees them as people, not pawns.
 - Ru, as a Hobgoblin, now **speaks in patterns** (fuller sentences, graver and more confident, not weak; the evolution changes anyone). He can say something like "I hope my brethren are okay. We have already lost so many." This answers the earlier open question: the stutter eases with the evolution.
 - Lives matter here: players respawn at the Cathedral, but these goblins do not come back after death. Tatsuya takes that with him into the assault and will not throw his allies away because they are NPCs.
+
+---
+
+# Decisions (author-stated, latest; supersedes the OPEN list above where they differ)
+
+- **Names.** The shot-caller is one of the four raiders (Rian), not a fifth person. Name readings above stand; do not ask the author to confirm names again, state the reading and move on.
+- **Rune cooldown is 6 seconds** (settled; not 4).
+- **The scout goblin is Zinka**, a Hobgoblin with Toxic Breath (see `codex/characters/pk-wraith-raiding-party.md`). Two gassers only, one per side: Ru and Zinka. Other goblins do not need gas abilities early on.
+- **The raiding party is created** (tags, races, roles, levels, legacy guilds) in `codex/characters/pk-wraith-raiding-party.md`. Most are on legacy accounts, which is why the kills matter.
+- **The three goblins.** Ru and Zinka on the two sides of the tent, Tatsuya (also a goblin) at the top.
+
+## Order of the fight, as the author gave it
+
+1. **First mist (Arya).** It silences and blinds the raiders, and it is also the setup: the two goblins take the sides of the tent and Tatsuya takes the top. Tatsuya uses the time to try to put down a rune. He **fails twice** (dice rolls, 6-second cooldown between attempts), which shows he can fail before it works.
+2. **Mist ends.** The raiders think this is their window and get ready to come out.
+3. **Arya recasts** (backing up Tatsuya) and Tatsuya **signals the two goblins**. As the raiders try to come out, the goblins **spray them with Toxic Breath**, and the raiders step into the room (the entrance trap).
+4. **The rune is an arcane explosion with a root effect**: it roots and stuns them and gives them a debuff. (The author approved giving the arcane explosion a root effect.)
+5. **Shiv-Touched Flare** (the palm fireball) ignites the gas and blows them up.
+6. **Result: two die in the tent and two die outside it.** The two in the tent (the Elf mage and the Beastfolk enchanter) were hit by the gas early and stunned. The Dwarf and the Human resist the low-level gas, so they get out of the tent before dying outside.
+
+OPEN (only if the author wants to settle it): whether Ancient Bone Flame Barrage is still part of the finish, and the exact second the third rune lands relative to the recast.
