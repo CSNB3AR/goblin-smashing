@@ -1177,3 +1177,6 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## Baseline, not exhaustive (author-stated, latest)
 - The agent runs were burning through usage (15 to 20 minutes per agent, two daily limits). New rule: build a BASELINE CORE for each area from what exists and add as we go; do not launch big agent runs for the full set. The files already written by the agents are good baselines. Baselines added by hand: secondary stats, Gambler's Gambit, the bestiary. Index at `codex/dnd-baseline-index.md`. The agents stopped at the rate limit and are not resumed; anything still missing (necklace passive, shield-and-mace playstyle, subclass table) is added on request.
+
+## D&D baseline finished (author-requested: baseline core, not a manual)
+- All eight agent areas now have a working baseline in the codex, indexed at `codex/dnd-baseline-index.md`. Author's correction applied: goblinoids are the goblin race's EVOLUTIONS (Goblin, Hobgoblin, Shiv Goblin) mapped onto the actual eight playable races, not separate D&D peoples. Everything is PROPOSAL until the author accepts it. The Gambit page guide's line numbers still need checking against the chapters before any chapter is edited.
