@@ -1189,3 +1189,6 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## Beastfolk evolution, corrected again (author-stated, latest; supersedes the Beastfolk line above)
 - Beastfolk has only TWO stages: Beastman (Beastmen are the race itself) and Beast Lord. A Beast Lord is a very high level Beastman, not a separate race. Files updated: `codex/races/race-evolution-baseline.md`, `beastfolk.md`, `overview.md`, `codex/dnd-baseline-index.md`. The author's message ended mid-sentence ("And..."), so there may be more to add.
+
+## Sending files (author-stated)
+- Do not resend a chapter or file the author already has. Send a file only when it has changed or the author asks for it, and say which one changed. The author does not want to scroll past repeats.
