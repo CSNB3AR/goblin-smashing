@@ -1,6 +1,6 @@
 # Restructuring Notes — What Changed From the Old Draft, and Why
 
-This supersedes the old draft's chapter breakdown for the opening stretch (see `bible/old-draft-chapter-bible.md` for what it replaces and why). Canon facts live in `codex/characters/`, `codex/locations/`, `codex/objects/`; game mechanics live in `codex/lore/`; voice guidance lives in `style-guide/voice-technique.md`. Chapter 1 is drafted in `chapters/chapter-01.md`; everything past it is beats only, one file per chapter in this `outline/` folder.
+This supersedes the old draft's chapter breakdown for the opening stretch (see `bible/old-draft-chapter-bible.md` for what it replaces and why). Canon facts live in `codex/characters/`, `codex/locations/`, `codex/objects/`; game mechanics live in `codex/lore/`; voice guidance lives in `style-guide/voice-technique.md`. Chapter 1 is drafted in `chapters/final-drafts/chapter-01.md`; everything past it is beats only, one file per chapter in this `outline/` folder.
 
 ## Three restructuring decisions driving this pass
 

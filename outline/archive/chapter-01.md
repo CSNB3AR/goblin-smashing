@@ -1,6 +1,6 @@
 # Chapter 1 — WattsUp Shift (~2,000-2,500 words)
 
-**Status: Drafted.** See `chapters/chapter-01.md` for the actual prose. This file is the beat summary for quick reference.
+**Status: Drafted.** See `chapters/final-drafts/chapter-01.md` for the actual prose. This file is the beat summary for quick reference.
 
 **Real world only.** Closing shift at Gato's WattsUp charge station. World Championship broadcast plays throughout in the background. Chiyo's text lands about Tabuchi pressure and the Tochi application option. Tatsuya rides herd on the register while the broadcast runs behind him, the Haya EB parked out back for now.
 

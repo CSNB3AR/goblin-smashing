@@ -17,4 +17,4 @@ Lesson learned: restoring Claude's own original wording raises the detector scor
 
 ## Status
 
-- Chapter One: done. `chapters/chapter-01.md` (about 3,570 words). Part 1 reads 31 percent AI (before the grammar cleanup), part 2 reads 56 percent AI, part 3 reads 10 percent AI (ZeroGPT).
+- Chapter One: done. `chapters/final-drafts/chapter-01.md` (about 3,570 words). Part 1 reads 31 percent AI (before the grammar cleanup), part 2 reads 56 percent AI, part 3 reads 10 percent AI (ZeroGPT).

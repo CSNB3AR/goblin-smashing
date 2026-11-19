@@ -2,7 +2,7 @@
 
 **Status: archived.** This was the working beat-by-beat plan while Chapters 1-9 were still being drafted. All nine are finished now, see `outline/chapters-1-7-summary.md` (Chapters 1-7, generated from final prose) plus `outline/chapter-08.md` and `outline/chapter-09.md` for what actually landed on the page, which in places differs from what's planned below. Kept here for historical reference only.
 
-This is the confirmed beat-by-beat plan for the opening stretch of the redraft, current as of this pass. It supersedes the old draft's chapter breakdown for this stretch (see `bible/old-draft-chapter-bible.md` for what it replaces and why). Canon facts and craft rules live in `bible/writing-bible.md`; game mechanics live in `bible/game-system.md`; voice guidance lives in `bible/style-notes.md`. Chapter 1 is drafted in `chapters/chapter-01.md`; everything past it is beats only.
+This is the confirmed beat-by-beat plan for the opening stretch of the redraft, current as of this pass. It supersedes the old draft's chapter breakdown for this stretch (see `bible/old-draft-chapter-bible.md` for what it replaces and why). Canon facts and craft rules live in `bible/writing-bible.md`; game mechanics live in `bible/game-system.md`; voice guidance lives in `bible/style-notes.md`. Chapter 1 is drafted in `chapters/final-drafts/chapter-01.md`; everything past it is beats only.
 
 ## What changed from the old draft, and why
 

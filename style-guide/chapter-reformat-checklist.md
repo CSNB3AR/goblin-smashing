@@ -1,6 +1,6 @@
 # Chapter Reformat Checklist
 
-How to bring an old chapter (4 to 10) up to the format set by `chapters/chapter-01.md`, `chapters/chapter-02.md` and `chapters/chapter-03.md`. One chapter at a time, written to `chapters/in-progress/now/` while it is under review (the previous version sits in `chapters/in-progress/previous/`); once reviewed it becomes `chapters/chapter-NN.md` and the old draft goes to `archive/`. (Chapters 1 to 8 are already done this way.)
+How to bring an old chapter (4 to 10) up to the format set by `chapters/final-drafts/chapter-01.md`, `chapters/chapter-02.md` and `chapters/chapter-03.md`. One chapter at a time, written to `chapters/in-progress/now/` while it is under review (the previous version sits in `chapters/in-progress/previous/`); once reviewed it becomes `chapters/chapter-NN.md` and the old draft goes to `archive/`. (Chapters 1 to 8 are already done this way.)
 
 ## Run it
 

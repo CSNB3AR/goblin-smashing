@@ -12,7 +12,7 @@ Daichi's letter in the manual says the Tabuchis pushed him hard to sell the busi
 
 ## What's known and by whom
 
-Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. This is Tatsuya's private knowledge, Chiyo doesn't know it, she treats it as debt collection and has hired lawyers. The debt pressure that shows up in scenes like Eren's WattsUp visits (see `chapters/chapter-01.md`) is what's escalated in place of that direct contact ever since. Tatsuya doesn't yet know why the demands keep circling back to his father's old paperwork specifically, only that it never fully squares with "just pay us."
+Kazuto's one direct attempt at Tatsuya happened once, at Daichi's funeral, framed as help. Tatsuya refused and has had zero contact with the Tabuchis since, that refusal, not a warning from Chiyo, is why. This is Tatsuya's private knowledge, Chiyo doesn't know it, she treats it as debt collection and has hired lawyers. The debt pressure that shows up in scenes like Eren's WattsUp visits (see `chapters/final-drafts/chapter-01.md`) is what's escalated in place of that direct contact ever since. Tatsuya doesn't yet know why the demands keep circling back to his father's old paperwork specifically, only that it never fully squares with "just pay us."
 
 ## Escalation levers available going forward
 
@@ -27,7 +27,7 @@ Stays suspicion on the page, never confirmed. There are **two separate accidents
 
 ## The debt, in figures (locked)
 
-- Ohema's surgery costs roughly **¥4,000,000**, formalizing the math Tatsuya already runs in his own head in `chapters/chapter-01.md` ("forty million... a tenth of that pays for the surgery outright").
+- Ohema's surgery costs roughly **¥4,000,000**, formalizing the math Tatsuya already runs in his own head in `chapters/final-drafts/chapter-01.md` ("forty million... a tenth of that pays for the surgery outright").
 - The Tabuchi debt itself is roughly **¥3,000,000**.
 - Combined, the family owes roughly **¥7,000,000**.
 

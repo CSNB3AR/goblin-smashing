@@ -1,12 +1,12 @@
 # Chapters
 
-The working story text, first person, past tense, inside Tatsuya's head. One file per chapter, no duplicates.
+The working story text, first person, past tense, inside Tatsuya's head. One file per chapter, no duplicates. Finished chapters (after Walter, repair, detector check and sign-off) live in `final-drafts/`; drafts stay here.
 
 ## Status
 
 | Chapter | File | Status |
 |---|---|---|
-| 1 The Countdown Starts | `chapter-01.md` | **FINAL DRAFT.** Went through the full process (author, Claude, Walter, detector check). Humanized version; the unhumanized original is in `../archive/humanizer-work/`. |
+| 1 The Countdown Starts | `final-drafts/chapter-01.md` | **FINAL DRAFT.** Went through the full process (author, Claude, Walter, detector check). Humanized version; the unhumanized original is in `../archive/humanizer-work/`. |
 | 2 Talk to the Bear | `chapter-02.md` | Updated draft. Waiting on the Walter pass. |
 | 3 Into the Game | `chapter-03.md` | Updated draft. Waiting on the Walter pass. |
 | 4 The Runt's Bowl | `chapter-04.md` | Updated draft. Waiting on the Walter pass. |
