@@ -1192,3 +1192,6 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## Sending files (author-stated)
 - Do not resend a chapter or file the author already has. Send a file only when it has changed or the author asks for it, and say which one changed. The author does not want to scroll past repeats.
+
+## No metagame in Chapter Ten (author-stated, latest)
+- Tatsuya was offline; he cannot know what happened in the camp while he was gone unless he sees it, hears it, reads it on his own panel, or is told. RULE: before writing any narration about events he did not witness, check the source. Fixed in Chapter Ten: the opening no longer says nobody raided the camp or that the missing goblins went down the track in twos and threes (narrator knowledge). He sees the empty lanes and a thin line along the stakes; Sevish says it in the tent ("sending them down to the road in twos and threes"). "Fell away into trees" became "into the dark" (night). His Cathedral thought is an inference from Ru's words, not a fact about the dead. "That was only the part Kesh had seen" and "farm camp" removed. Leon's lines were already limited to what he can see on the stream, the pod and Loop. Backup: ch10-before-metagame.md.

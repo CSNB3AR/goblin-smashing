@@ -1,16 +1,16 @@
 # Chapter Ten: Assembling the Assault Team
 
-Five dead on the east patrol, and that was only the part Kesh had seen.
+Five dead on the east patrol.
 
 Now that Thrash counted me as one of theirs, the alert in the corner of my vision opened past the defenders into the whole clan.
 
 **[THRASH CLAN AT CAMP: 14/23]**
 
-*"Nine down in an hour. A party that stumbled onto a farm camp doesn't do that. Somebody came for this camp on purpose."*
+*"Nine down in an hour. A party that wandered in by accident doesn't do that. Somebody came for this camp on purpose."*
 
-Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
+Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. The lanes between the tents stood empty, and what was left of the clan stood in a thin line along the stakes under the torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
-Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into trees. And every goblin on that line held a different shield, a barrel lid, a plank off the hay cart, a tent flap laced wet onto a pole frame, nothing made for the job, with a club in the other hand.
+Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into the dark. And every goblin on that line held a different shield, a barrel lid, a plank off the hay cart, a tent flap laced wet onto a pole frame, nothing made for the job, with a club in the other hand.
 
 The flap fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
 
@@ -20,7 +20,7 @@ Sevish went straight through to the far side of the table and planted both fists
 
 "I hope my brothers are all right," Ru said, low, eyes on the strip of light. "We have already lost so many."
 
-*"Players wake up at a Cathedral. Goblins don't. Every one who went down that road is simply gone, and Ru knows it."* "We'll keep it from getting worse," I said quietly.
+*"Players get up at a Cathedral. I've never seen a goblin do it. If his brothers are dying, they're staying dead."* "We'll keep it from getting worse," I said quietly.
 
 Ru gave one short nod and kept watching the camp.
 
@@ -36,7 +36,7 @@ Sevish let out a short, rough laugh. "Hah. Who is this?"
 
 "Zinka runs the east line for me," Wyx said. "She counts what she sees."
 
-"Then she will tell it after the order." Sevish didn't turn his head. "Wyx. We have bled enough going down to them. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
+"Then she will tell it after the order." Sevish didn't turn his head. "Wyx. We have bled enough sending them down to the road in twos and threes. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
 
 "I would hear her report first, brother," Wyx said.
 
