@@ -68,7 +68,7 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 **[AFFILIATION: THRASH CLAN - 45% → 47%]**
 
-*"One way in, one way out. It's the breach at Thornwatch all over again, London Spire bleeding the hall at a single point while nobody inside did a thing about it."* Eren and I used to spend whole nights building answers to that on our tablets. I already had the shape of one. I just didn't have everything it needed.
+One way in, one way out. It felt awfully like what Aogiri went through at Thornwatch, trapped in that hall while London Spire bled them through a single breach. I wasn't going to sit here and let that happen to us.
 
 "Thank you, Zinka," Sevish said. "Rott. Nab. Go with her. For this fight you answer to Nykri, and to Ru."
 
