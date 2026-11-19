@@ -1,16 +1,8 @@
 # Chapter Ten: Assembling the Assault Team
 
-Five dead on the east patrol, and the number wouldn't leave me alone.
+Five dead on the east patrol. That couldn't have been a normal party, and the thought wouldn't leave me alone.
 
 Sevish didn't slow. He took the last ten paces to the war tent in long strides with Wyx half a step behind him, Kesh stumbling after them, and I let myself fall a step back with my eyes on nothing. A goblin hauling a bundle of stakes had to swerve around me. "Sorry," I said, and he was already gone.
-
-A thought had run across me and it just wouldn't go away. Now that Thrash counted me as one of theirs, the alert in the corner of my vision opened past the defenders into the whole clan.
-
-**[THRASH CLAN AT CAMP: 14/23]**
-
-**[ATTACK DURATION: 01:07:52]**
-
-*"Fourteen of twenty-three, and that twenty-three is after the two enforcers I killed myself. So the party took nine in an hour and seven minutes."* I read it again and it came out the same. *"That's not a normal group. Nobody wanders into a camp by accident and does that. Somebody came for this one on purpose."*
 
 Ru stayed at my shoulder. The lanes between the tents stood empty, and what was left of the clan stood in a thin line along the stakes under the torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
@@ -248,9 +240,9 @@ The first thing I noticed was the quiet. The oil lamp sat low and guttering, the
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
-**[THRASH CLAN AT CAMP: 10/23]**
+**[THRASH CLAN DEFENDERS: 10/20]**
 
-*"Ten. It was fourteen when I left."*
+*"Ten. Sevish said fourteen."*
 
 A roar rolled across the camp before I was on my feet, rough and wide, a woman's voice. It didn't freeze me. It dragged every head in earshot toward the stakes, mine included. *"Wyx's Howl. She doesn't howl at nothing."*
 
