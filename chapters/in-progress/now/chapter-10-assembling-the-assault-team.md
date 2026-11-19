@@ -1,12 +1,8 @@
 # Chapter Ten: Assembling the Assault Team
 
-**[THRASH CLAN DEFENDERS: 14/20]**
+Five dead before the patrol even saw them coming. Somebody on that road had picked the spot and waited.
 
-The number dropped in the corner of my vision as we reached the war tent.
-
-"Fourteen," Leon said in my ear, quiet and even. "That one just went down."
-
-Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us, still winded. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
+Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
 Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into trees. And every goblin on that line held a different shield, a tent door, a barrel lid, a cart panel, nothing made for the job, with a club in the other hand.
 
@@ -76,11 +72,11 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 "Then they are weak, and I strike now," Sevish said. He straightened off the table. "A tired caster is a slow caster. I take Wyx and the twelve best I have down that road in one rush. The axes reach the tent before their next volley is done. It is finished in a few breaths."
 
-"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads, and the second on whoever steps over him. I count six of ours at the bend, perhaps more, and we have fourteen who can stand."
+"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads, and the second on whoever steps over him. I count six of ours at the bend, perhaps more, and we have fifteen who can stand."
 
 "Six for four of theirs." Sevish's mouth moved at one corner. "I have paid worse."
 
-"You paid worse with the whole clan at your back," Wyx said. "You have fourteen."
+"You paid worse with the whole clan at your back," Wyx said. "You have fifteen."
 
 Sevish said nothing. The candles crackled. It would work, and it would cost him a third of the clan to find out.
 
@@ -310,7 +306,7 @@ The first thing I noticed was the quiet. The oil lamp sat low and guttering, the
 
 **[THRASH CLAN DEFENDERS: 11/20]**
 
-"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "Three more went down the hill after the party while you were out, man. Your guy's gone from the flap, too. The card's still up on the stream. Say when."
+"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "Four more went down the hill after the party while you were out, man. Your guy's gone from the flap, too. The card's still up on the stream. Say when."
 
 I was on my feet before the notification faded.
 
