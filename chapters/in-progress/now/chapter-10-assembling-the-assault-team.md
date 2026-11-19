@@ -38,23 +38,21 @@ Sevish let out a short, rough laugh. "Hah. Who is this?"
 
 "I would hear her report first, brother," Wyx said.
 
-"Then have Ru see to it."
+*"She should. She runs this clan beside her brother, a co-leader in everything but the title, and the scout's word is what the whole camp will move on. Somebody else has to set the line."* I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. *"Ru answers to me now."*
 
-Wyx's brows went up. "Ru?"
+"Ru can do it," I said. "He's with me."
 
-Ru's head came up a half second behind hers. "Me?"
+Sevish's eyes came around to me, heavy and patient, a look that asked a question without saying it. Wyx's brows rose, and for a second she looked at me instead of the scout.
 
-Sevish said nothing. He only looked at Ru, heavy and patient, the kind of look that asks a question without saying it. Wyx glanced from her brother to Ru, and something shifted behind her amber eyes.
+"Very well," Sevish said.
 
-"Very well," she said, and turned to Ru. "Raise the inner barricade behind the stakes. Pull every goblin back inside the line, and make sure each one is armed and listening. If anyone will not listen, use a little force."
+I turned to Ru. "Get the line in order. Raise the inner barricade behind the stakes, pull every goblin back inside, and make sure each one is armed and listening. If anyone won't listen, use a little force."
 
 Ru straightened until the cross rope brushed his hair. "Understood." He turned to the barrel. "Kesh. With me."
 
 "Kesh come," Kesh said, already up, and the two of them ducked out through the flap.
 
-Wyx watched the canvas settle. "That is not the first step he has taken tonight," she said, mostly to herself, and I filed it away. *"She's right. He didn't stutter once."*
-
-"Go on, girl," Wyx said, turning back to the table.
+"That is not the first step you have taken tonight, Nykri," Wyx said quietly. Then she turned back to the table. "Go on, girl."
 
 Zinka stepped up to the near side of the table, on my right. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since. They fight in bursts: a volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff casts the most and drinks the most."
 
