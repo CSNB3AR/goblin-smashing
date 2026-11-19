@@ -4,7 +4,7 @@ Everything below is a PROPOSAL until the author accepts it, except items it mark
 
 | Area | File | Notes |
 |---|---|---|
-| Races and evolutions | `codex/races/race-evolution-baseline.md` | Only Goblin (Goblin, Hobgoblin, Goblin Chieftain, plus the unique Shiv Goblin branch) and Beastfolk (Beastfolk, Beastman, Beast Lord) evolve; the other six races do not. |
+| Races and evolutions | `codex/races/race-evolution-baseline.md` | Only Goblin (Goblin, Hobgoblin, Goblin Chieftain, plus the unique Shiv Goblin branch) and Beastfolk (Beastman, Beast Lord) evolve; the other six races do not. |
 | Goblin race detail | `codex/races/dnd-goblinoid-peoples.md`, `codex/creatures/dnd-goblinoids.md` | Goblin, hobgoblin, Shiv Goblin as one race's evolutions; non-playable goblin-kin kept separate. |
 | Monsters in general | `codex/creatures/dnd-bestiary-baseline.md` | 15 starter monsters across Class I to IV. Add as needed. |
 | Thrash camp and goblin war | `codex/locations/thrash-camp-field-guide.md`, `codex/combat/goblin-warfare-and-tactics.md` | The camp, what fits and what breaks it, and eight tactical patterns (The Ladder is Wyx and Sevish). |

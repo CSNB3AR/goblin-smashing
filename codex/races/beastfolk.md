@@ -20,7 +20,7 @@ A second Beastfolk racial. Below 40% HP, a damage multiplier stacks up to **x12*
 
 ## Evolution line (author-stated)
 
-Beastfolk to **Beastman** (Beastmen) to **Beast Lord**. The stage names are the author's; triggers and stat changes are proposals in `codex/races/race-evolution-baseline.md`. Goblin and Beastfolk are the only two races that can evolve.
+Two stages only: **Beastman** (Beastmen are the race itself) and **Beast Lord**, a very high level Beastman. The stage names are the author's; the trigger and stat changes are proposals in `codex/races/race-evolution-baseline.md`. Goblin and Beastfolk are the only two races that can evolve.
 
 ## Resistances
 

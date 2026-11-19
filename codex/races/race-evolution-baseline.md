@@ -10,7 +10,7 @@ Sources: `codex/races/*.md`, `codex/lore/playable-races-and-character-creation.m
 |---|---|---|
 | **Goblin** | Goblin to **Hobgoblin** to **Goblin Chieftain** | The ordinary line. Hobgoblin is canon (Ru, Zinka, Wyx and Sevish all carry the Hobgoblin tag). Goblin Chieftain is the top step above it, held for later (see Sevish note). |
 | **Goblin, unique branch** | Goblin to **Shiv Goblin** | A rare, unique race among goblins. Not everyone can go down it normally and it is not a playable choice. Tatsuya is the only one so far. Entry is through an **Ordeal**: Shiv must accept the candidate personally, and Tatsuya, as Shiv's only disciple right now, has to agree to a candidate before they can enter the Ordeal. |
-| **Beastfolk** | Beastfolk to **Beastman** (Beastmen) to **Beast Lord** | The only other race with an upgrade. Stage names are the author's; the triggers and stat changes are proposals (see below). |
+| **Beastfolk** | **Beastman** to **Beast Lord** | The only other race with an upgrade, and only two stages: a Beastfolk character is a Beastman, and a Beast Lord is a very high level Beastman. Stage names are the author's; the trigger and stat changes are proposals (see below). |
 
 All other races: no evolution. A level-ups only path (Human, Elf, Dwarf, Orc, Drakekin, Frostborn).
 
@@ -34,11 +34,10 @@ All other races: no evolution. A level-ups only path (Human, Elf, Dwarf, Orc, Dr
 - **Goblin Chieftain (author-stated name, details PROPOSAL).** The leader step above Hobgoblin: a goblin who holds a clan. Gains a clan-wide aura (nearby clan goblins fight steadier), one Command art, and a title that other clans read on sight. Sevish leads Thrash but his tag still reads Hobgoblin; whether he is a Chieftain by tag is left open and not stated on the page.
 - **Shiv Goblin (CANON, unique branch).** Reached only by Shiv's Ordeal and the Call of the Bones necklace bond. Tatsuya grows taller, white hair, lighter skin, Shaman's Veil. The mark is legible to older goblins on sight. Others entering the Ordeal need Shiv's acceptance and Tatsuya's agreement while he is the only disciple.
 
-## The Beastfolk line (stage names author-stated, rest PROPOSAL)
+## The Beastfolk line (two stages, names author-stated, the rest PROPOSAL)
 
-- **Beastfolk.** Base race, Predator's Instinct and Enrage.
-- **Beastman (Beastmen).** The first step: heavier frame and fur or hide, Enrage starts a little earlier (about 50 percent HP instead of 40), one more Physical Art slot.
-- **Beast Lord.** The leader form: a Beastfolk who commands a hunting band or house, an aura that steadies nearby Beastfolk and a command art. Tied to the Myrrhwood kingdom's nobility.
+- **Beastman (Beastmen).** The race itself and its starting stage: Predator's Instinct and Enrage.
+- **Beast Lord.** Not a separate race, a very high level Beastman: Enrage starts a little earlier (about 50 percent HP instead of 40), one more Physical Art slot, an aura that steadies nearby Beastfolk and a command art. Tied to the Myrrhwood kingdom's nobility. The trigger is a very high level, not a bond or a blessing.
 
 ## Rules of evolution in this world
 

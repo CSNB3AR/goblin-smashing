@@ -24,7 +24,7 @@ See `codex/magic/overview.md` for the tier-1 Wisdom-18 threshold itself and how 
 
 ## Evolution (author-stated)
 
-Only **Goblin** (Goblin, Hobgoblin, Goblin Chieftain) and **Beastfolk** (Beastfolk, Beastman, Beast Lord) can evolve. Human, Elf, Dwarf, Orc, Drakekin and Frostborn have no evolution. The Shiv Goblin is a separate rare, unique goblin branch gated by an Ordeal. Full detail: `codex/races/race-evolution-baseline.md`.
+Only **Goblin** (Goblin, Hobgoblin, Goblin Chieftain) and **Beastfolk** (Beastman, then Beast Lord at a very high level) can evolve. Human, Elf, Dwarf, Orc, Drakekin and Frostborn have no evolution. The Shiv Goblin is a separate rare, unique goblin branch gated by an Ordeal. Full detail: `codex/races/race-evolution-baseline.md`.
 
 ## Advanced/evolved races, not selectable at creation
 
