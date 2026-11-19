@@ -2,7 +2,7 @@
 
 Five dead on the east patrol, and that was only the part Kesh had seen.
 
-The alert in the corner of my vision had changed since the last time I'd looked at it. Now that Thrash counted me as one of theirs, it opened past the defenders into the whole clan.
+Now that Thrash counted me as one of theirs, the alert in the corner of my vision opened past the defenders into the whole clan.
 
 **[THRASH CLAN AT CAMP: 14/25]**
 
@@ -78,13 +78,13 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 "Then they are weak, and I strike now," Sevish said. He straightened off the table. "A tired caster is a slow caster. I take Wyx and the twelve best I have down that road in one rush. The axes reach the tent before their next volley is done. It is finished in a few breaths."
 
-"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads, and the second on whoever steps over him. I count six of ours at the bend, perhaps more, and we have fourteen who can stand."
+"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads. I count six of ours at the bend, perhaps more, and we have fourteen who can stand."
 
 "Six for four of theirs," Sevish said. "I have paid worse."
 
 "You paid worse with the whole clan at your back," Wyx said. "You have fourteen."
 
-It would work, and it would cost him a third of the clan to find out.
+It would work, and it would cost a third of the clan.
 
 "Then Wyx and I go alone," Sevish said, and the quiet in his voice made the candles sound loud. "Two axes, four casters. We do not need the twelve."
 
