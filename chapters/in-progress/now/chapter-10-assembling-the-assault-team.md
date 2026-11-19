@@ -2,13 +2,17 @@
 
 Five dead on the east patrol. That couldn't have been a normal party, and the thought wouldn't leave me alone.
 
-Sevish didn't slow. He took the last ten paces to the war tent in long strides with Wyx half a step behind him, Kesh stumbling after them, and I let myself fall a step back with my eyes on nothing. A goblin hauling a bundle of stakes had to swerve around me. "Sorry," I said, and he was already gone.
+Sevish didn't slow. He took the last ten paces to the war tent in long strides with Wyx half a step behind him and Kesh stumbling after them, and I walked with my eyes on nothing until Ru stopped short and I nearly ran into his back.
 
-Ru stayed at my shoulder. The lanes between the tents stood empty, and what was left of the clan stood in a thin line along the stakes under the torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
+"Nykri," Ru said, one big hand coming out to steady me.
+
+"Sorry," I said. "Thinking."
+
+Past him the camp stood quiet. The stew pot sat cold beside the stone-ringed fire pit, the hay cart stood where it always had beside the big tent, the two blue banners hung limp on their poles, and the hide tents along the slope were tied shut with nobody between them. What was left of the clan stood in a thin line along the sharpened stakes where the track left camp, under torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
 Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into the dark. And every goblin on that line held a different shield, a barrel lid, a plank off the hay cart, a tent flap laced wet onto a pole frame, nothing made for the job, with a club in the other hand.
 
-The flap fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
+Bone totems capped the poles either side of the flap. It fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
 
 The tent was round, with timber ribs curving up to the center pole and the lantern hanging from it. The back wall faced the cliff, and through it I could feel the cold coming off the rock.
 
