@@ -40,7 +40,7 @@ Sevish let out a short, rough laugh. "Hah. Who is this?"
 
 "I would hear her report first, brother," Wyx said.
 
-*"She should. She runs this clan beside her brother, a co-leader in everything but the title, and the scout's word is what the whole camp will move on. Somebody else has to set the line."* I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. *"Ru answers to me now."*
+*"She should. She runs this clan beside her brother, and the scout's word is what the whole camp will move on. Somebody else has to set the line."* I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. *"Ru answers to me now."*
 
 "Ru can do it," I said. "He's with me."
 
