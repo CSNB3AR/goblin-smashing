@@ -26,13 +26,17 @@ Sevish went straight through to the far side of the table and lowered himself in
 
 "Wyx," Sevish said, without looking up from the map. "Go outside and see that it is done. We have bled enough sending them down to the road in twos and threes. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
 
-It wasn't a question, and Wyx's eyes went flat for a second before she answered. "Yes, brother, I am open to it." Her hand stayed on the edge of the map. "But I would hear the scouts first. I sent Zinka to watch the east line, and she will have more than we do."
+It wasn't a question, and Wyx had barely opened her mouth to answer when the flap lifted behind me. A lean goblin girl slipped in, dust on her knees, a wrap of dark cloth over one shoulder and a scout's quiet eyes. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white. Wyx's gaze went to her, then to Kesh on his barrel, and stayed there.
+
+"Brother," she said. "I would hear the scouts before I go. Zinka held the east line, and I will not have us act on half of what they saw."
+
+Sevish followed her eyes, and the set of his shoulders eased. "Hm. Very well."
 
 I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "Ru can do it," I said. "He's with me."
 
-Sevish's eyes came around to me, heavy and patient, a look that asked a question without saying it. Wyx's brows rose, and for a second she looked at me instead of the door.
+Sevish's eyes came around to me, heavy and patient, a look that asked a question without saying it. Wyx's brows rose, and for a second she looked at me instead of the scouts.
 
-"Very well," Sevish said.
+"Very well," Sevish said again.
 
 I turned to Ru. "Get the line in order. Raise the inner barricade behind the stakes, pull every goblin back inside, and make sure each one is armed and listening. If anyone won't listen, use a little force."
 
@@ -44,15 +48,9 @@ Ru straightened until the cross rope brushed his hair. "Understood," he said, an
 
 "Four," Kesh said between breaths. "Maybe five. Kesh could not get close."
 
-"It was four, chief."
-
-The flap lifted and a lean goblin girl slipped in, dust on her knees, a wrap of dark cloth over one shoulder and a scout's quiet eyes. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white. She gave Kesh a flat look. "The fifth was his own shadow."
+"It was four, chief," Zinka said. She gave Kesh a flat look. "The fifth was his own shadow."
 
 Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
-
-"Who is this?" Sevish said.
-
-"Zinka," Wyx said. "She counts what she sees."
 
 "Then Kesh's count is settled," Sevish said. "Go and join Ru, Kesh. He does not know the lanes of this camp, and you know every one."
 
