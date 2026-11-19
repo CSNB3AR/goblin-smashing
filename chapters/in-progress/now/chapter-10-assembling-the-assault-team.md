@@ -4,13 +4,19 @@ Five dead on the east patrol. That couldn't have been a normal party, and the th
 
 Sevish didn't slow. He took the last ten paces to the war tent in long strides with Wyx half a step behind him and Kesh stumbling after them, and I walked with my eyes on nothing until Ru stopped short and I nearly ran into his back.
 
-"Nykri," Ru said, one big hand coming out to steady me.
+"My bad, Ru," I said.
 
-"Sorry," I said. "Thinking."
+"A-are you okay, Nykri?" His big hand had come out to steady me, and a stutter still clung to the front of his words.
+
+"Yeah, I'm fine. You?"
+
+"Just a l-little nervous about the meeting," Ru said. "There is a lot at stake. We have to get out of here alive." He looked toward the line of goblins by the stakes. "I hope my brothers stay alive."
+
+*"Shit. I almost forgot."* If I died I lost seventy-two hours. They lost everything. Every move had to count from here, and that included the one standing next to me.
 
 Past him the camp stood quiet. The stew pot sat cold beside the stone-ringed fire pit, the hay cart stood where it always had beside the big tent, the two blue banners hung limp on their poles, and the hide tents along the slope were tied shut with nobody between them. What was left of the clan stood in a thin line along the sharpened stakes where the track left camp, under torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
-Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into the dark. And every goblin on that line held a different shield, a barrel lid, a plank off the hay cart, a tent flap laced wet onto a pole frame, nothing made for the job, with a club in the other hand.
+Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into the dark. And every goblin on that line held the same plain round shield of hide over wood and a club, the kit they'd carried out of Myrrhwood.
 
 Bone totems capped the poles either side of the flap. It fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
 
@@ -18,19 +24,11 @@ The tent was round, with timber ribs curving up to the center pole and the lante
 
 Sevish went straight through to the far side of the table and planted both fists on the wood, the chest and barrels stacked tidy against the back wall behind him, his axe leaning in the chair at his right hand. I took the near side at the center, the flap at my back. Kesh dropped onto a barrel along the left wall and rubbed his knee. Ru stopped inside the flap on the right, one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch. He stood with his head bent under the cross rope above the entrance, still not used to his own height.
 
-"I hope my brothers are all right," Ru said, low, eyes on the strip of light. "We have already lost so many."
-
-*"Players get up at a Cathedral. I've never seen a goblin do it. If his brothers are dying, they're staying dead."* "We'll keep it from getting worse," I said quietly.
-
-Ru gave one short nod and kept watching the camp.
-
 "Wyx," Sevish said, without turning his head. "We have bled enough sending them down to the road in twos and threes. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
 
-"I would hear the scouts first, brother," Wyx said.
+"I would hear the scouts first, brother," Wyx said, and she didn't move from the table, one hand resting on the map.
 
-*"She should. She runs this clan beside her brother, and the scout's word is what the whole camp will move on. Somebody else has to set the line."* I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. *"Ru answers to me now."*
-
-"Ru can do it," I said. "He's with me."
+I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "Ru can do it," I said. "He's with me."
 
 Sevish's eyes came around to me, heavy and patient, a look that asked a question without saying it. Wyx's brows rose, and for a second she looked at me instead of the door.
 
@@ -60,7 +58,7 @@ Sevish let out a short, rough laugh. "Hah. Who is this?"
 
 Zinka stepped up to the near side of the table, on my right. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since. They fight in bursts: a volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff casts the most and drinks the most."
 
-*"Five minutes of sitting still, and they keep stopping to drink. They're not winning this. They're hanging on."* I rubbed my thumb along the edge of the table. *"A party that stops pushing is either resting or waiting on help, and I can't tell which."*
+I rubbed my thumb along the edge of the table. Five minutes of sitting still, and a party that kept stopping to drink was hanging on, not winning. Whether it was resting or waiting on help, I couldn't tell.
 
 "They're hurt and they're tired," I said. "That's why they pulled back. And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
 
@@ -134,7 +132,7 @@ Nobody spoke. Wyx crossed her arms, and the corner of her mouth moved, though sh
 
 "We have to get off," Leon said in my ear. "The VRSA inspector's here."
 
-The anger went out of me all at once. *"Right. He's a Hobgoblin NPC and I was about to shout at him."* I let out a breath.
+The anger went out of me all at once. I let out a breath, and my hand loosened on the edge of the table. I had been about to shout at someone who could end me with one swing.
 
 "Enough," I said. "I'm heading back to my tent to prepare."
 
@@ -200,7 +198,7 @@ Something moved behind her eyes, and she looked at the counter instead of me. "M
 
 Her eyes went briefly unfocused as she pulled her own screen open. "There's a branch past it. Silence. Anyone caught in the mist can't cast and can't call out to their party." Her mouth twisted. "Five points deep, and I've never looked at it twice."
 
-*"The one with the staff casts the most. A fog that shuts a caster's mouth is the piece I was missing."* The plan I'd been carrying finally had a middle, and for the first time since the alert my hands felt steady.
+The one with the staff cast the most, Zinka had said. A fog that shut a caster's mouth was the piece I was missing. The plan I'd been carrying finally had a middle, and for the first time since the alert my hands felt steady.
 
 "Put the points there," I said. "Before you log in."
 
