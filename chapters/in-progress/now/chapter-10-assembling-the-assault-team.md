@@ -56,11 +56,11 @@ A small marker with his name appeared on the mini-map in the corner of my vision
 
 "Kesh go," Kesh said, already off his barrel, and ducked out after Ru.
 
+Zinka stepped up to the near side of the table, on my right, and set one finger on the map where the hill met the road. "It began on the east patrol line. A patrol of three, hit before they saw anyone. Two scouts went in to learn what we faced and were taken the same way. Kesh and I came at it from different routes, and that is the only reason we are still standing. We dodged a few of their strikes, and we watched." Her finger moved to the shoulder of the road. "Four of them, in a red tent set at an angle to the track, so anything climbing or descending is in their sight. They do not push uphill. They take whoever comes within reach. One of them drags a single one of us out of the line, a second locks him in place, and the other two finish him before the rest can reach him. Their casters keep some kind of ward on the ground around them. Anyone of ours who stepped near it grew weaker and slower, as though the strength was being drawn out of us." She looked at the map, not at us. "After the second scout fell, they stopped. I think they had spent their magic. That is why they did not chase Kesh and me, and why we reached camp with a report at all. Twice now they have gone into that tent spent and come out with the caster whole again. I cannot account for it. They went back in about five minutes ago and have not come out."
+
+"A caster in the party, and a ward around it," I said slowly. "That explains how they've been taking us one at a time." My eyes moved from her finger on the map to Sevish's face and back. "And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
+
 --------
-
-Zinka stepped up to the near side of the table, on my right, and set one finger on the map where the hill met the road. "Four of them, in a red tent on the shoulder of the road. It sits at an angle to the track, so anything climbing or descending is in their sight. They do not push uphill. They hold the road and take us when we come down it, and the opening is always the same. One of them drags a single goblin out of our line, a second locks him in place, and the other two finish him before the rest of us can reach him. Then they fall back to the tent." She looked at the map, not at us. "Their spells are small, and they are timed well. We dodged a few when we saw them coming. What I cannot account for is the caster. Each time it went into that tent and came out again, its strength was whole, as if it had never cast at all. They went back in about five minutes ago and have not come out."
-
-"A caster in the party," I said slowly. "That explains how they've been taking us one at a time." My eyes moved from her finger on the map to Sevish's face and back. "And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
 
 Wyx's head turned sharply, her amber eyes narrowing with something close to interest. "You have seen it."
 
