@@ -166,7 +166,7 @@ Nobody spoke. The lantern ticked against the pole. Sevish studied me a long mome
 
 "Hah. He says it to my face." He lifted one hand from the table. "When a goblin of mine falls out there, he does not get up. Remember that when you take your time."
 
-The flap lifted and Ru ducked in under the cross rope. "The line is set, chief," he said, low and steady. "Every goblin is armed and listening." He turned to me. "They will hold. But do not make them hold long, elder."
+The flap lifted and Ru ducked in under the cross rope. "The line is set, chief," he said, low and steady. "Every goblin is armed and listening." He turned to me. "They will hold. But do not make them hold long, Nykri."
 
 I turned and looked at him, taller than me by a full head, his big hands loose at his sides. Until tonight he had only answered when somebody asked. Now he'd gone and done a job and come back to report it unprompted, and it sat in my chest a second longer than I expected.
 
@@ -178,7 +178,7 @@ I cleared my throat and plucked at the split seam of my shoulder. "I'm not going
 
 "Wyx," Sevish said, a flicker of the old amusement coming back. "Get him something that actually fits."
 
-Wyx crossed to the crate against the right wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have our own elder walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather.
+Wyx crossed to the crate against the right wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have the one Shiv marked walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather.
 
 **[ITEM RECEIVED: COMMON GOBLIN LEATHER CHEST (+1 ENERGY)]**
 
