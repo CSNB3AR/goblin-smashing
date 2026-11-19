@@ -236,6 +236,8 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[OBJECTIVE COMPLETE: SPEAK WITH SHIV]**
 
+**[WORLD QUEST REWARD: EXPERIENCE]**
+
 **[CALL OF THE BONES NECKLACE – WORLD]**
 
 **[BOUND ITEM – CANNOT BE DROPPED OR TRADED]**
