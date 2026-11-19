@@ -84,6 +84,8 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 Two goblins came off the left wall, past Kesh's empty barrel, a thickset one who grunted and a thin one who nodded. "Rott go," the thick one said. "Nab carry," the thin one said, and hefted a coil of rope without being asked.
 
+--------
+
 Wyx crossed to the crate against the right wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have the one Shiv marked walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather. "Zinka, join Ru and Kesh. Help him organize every goblin on that line, and follow his instructions. Ru is still in charge out there."
 
 "Yes, Wyx," Zinka said, and went out with Rott and Nab behind her.
@@ -95,8 +97,6 @@ Wyx crossed to the crate against the right wall, shoved the lid back, and dug th
 The chest piece went over my head and settled on my ribs, stiff and smelling of oil, and I pulled the straps tight myself. The boots fit better than they had any right to. I wiggled my toes against the leather, the raw soles finally closed in, and for the first time since I'd woken up in that body I had something under my feet that wasn't dirt.
 
 *"Shoes. Finally."*
-
---------
 
 A small yellow exclamation mark had appeared beside Wyx's tag and Sevish's. I focused on Wyx's, and her panel opened with more in it than the night they'd chained me: a few stats filled in, and the skills list unrolled partway and stopped.
 
