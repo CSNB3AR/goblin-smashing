@@ -40,7 +40,7 @@ I glanced back. A lean goblin girl had slipped in, dust on her knees, a wrap of 
 
 Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
 
-"Ru can go and assist," I said, and looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "The more hands we have on the defense, the better. He's with me."
+"Ru can go and assist," I said, and looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "With so many of us down and so many in here talking, there's hardly anyone on the line. If they pushed now, we'd be finished. The more hands out there, the better."
 
 Sevish studied me for a moment, heavy and patient, a look that asked a question without saying it. Then he gave me a slow nod. Wyx's brows rose, and for a second she looked at me instead of the scout.
 
@@ -50,15 +50,13 @@ Ru straightened until the cross rope brushed his hair. "Understood," he said, an
 
 "That is not the first step you have taken tonight, Nykri," Wyx said quietly.
 
-"Go and join Ru, Kesh," Sevish said. "He does not know the lanes of this camp, and you know every one."
+"Now go join him, Kesh," Sevish said. "He will need someone who knows the lanes."
 
 "Kesh go," Kesh said, already off his barrel, and ducked out after Ru.
 
-Zinka stepped up to the near side of the table, on my right. She set one finger on the map where the hill met the road. "A red tent on the shoulder, set at an angle that watches the track. Four inside. One stays at the flap and does not sleep. They pulled back five minutes ago and have not moved since. They fight in bursts: a volley of small fire and frost, then they stop and drink from vials, then another volley. The one with the staff casts the most and drinks the most."
+Zinka stepped up to the near side of the table, on my right, and set one finger on the map where the hill met the road. "Four of them, in a red tent on the shoulder of the road, where it watches the track. They do not charge. They have a trick: one of them hauls a goblin out of the line, another locks him still, and the rest cut him down before we can reach him. Then they haul the next. They take us the way hunters take beasts, one at a time, with a rest between." Her mouth thinned. "Cowards. We dodged some of the caster's spells. But when the caster went into the tent and came out again, the caster's power was full. I do not know how."
 
-I rubbed my thumb along the edge of the table. Five minutes of sitting still, and a party that kept stopping to drink was hanging on, not winning. Whether it was resting or waiting on help, I couldn't tell.
-
-"They're hurt and they're tired," I said. "That's why they pulled back. And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
+"A caster in the party," I said slowly. "That explains how they've been taking us one at a time." My eyes moved from her finger on the map to Sevish's face and back. "And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
 
 Wyx's head turned sharply, her amber eyes narrowing with something close to interest. "You have seen it."
 
@@ -106,7 +104,7 @@ When I looked up, Sevish had lifted his axe out of the chair. He rolled his shou
 
 "Enough talk," he said. "I take this axe down that road and the best I have behind me, and Wyx beside me. We have the numbers. We end it before the torches burn out."
 
-"You'd win," I said. "I don't doubt it for a second. But think about what it says when you walk down there. Someone as strong as you cutting down four adventurers, with Wyx beside you and the whole clan behind you, this early. Word of that travels, and the next ones to come won't be four. We don't know if they have reinforcements. We don't know if they're a guild or what they have behind them."
+"You'd win," I said. "I don't doubt it for a second. But neither of us can read how strong they are. Some of those four could be old hands, far stronger than they look. We don't know if they have reinforcements or what stands behind them. Someone as strong as you cutting them down this early, with the whole clan at your back, and word of it travels. The next ones to come won't be four."
 
 "There is also the camp," Wyx said. She laid one hand flat on the map beside the stakes. "Brother and I are the walls. Anyone who passes the outer stakes meets me. If I fail, they meet you. If the two of us go down that road, the stakes hold nothing."
 
