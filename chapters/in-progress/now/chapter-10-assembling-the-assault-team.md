@@ -22,11 +22,11 @@ Bone totems capped the poles either side of the flap. It fell shut behind us on 
 
 The tent was round, with timber ribs curving up to the center pole and the lantern hanging from it. The back wall faced the cliff, and through it I could feel the cold coming off the rock.
 
-Sevish went straight through to the far side of the table and planted both fists on the wood, the chest and barrels stacked tidy against the back wall behind him, his axe leaning in the chair at his right hand. I took the near side at the center, the flap at my back. Kesh dropped onto a barrel along the left wall and rubbed his knee. Ru stopped inside the flap on the right, one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch. He stood with his head bent under the cross rope above the entrance, still not used to his own height.
+Sevish went straight through to the far side of the table and lowered himself into the heavy chair there, the chest and barrels stacked tidy against the back wall behind him, his axe propped against the chair arm at his right hand. Wyx took her place at his left. I took the near side at the center, the flap at my back. Kesh dropped onto a barrel along the left wall and rubbed his knee. Ru stopped inside the flap on the right, one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch. He stood with his head bent under the cross rope above the entrance, still not used to his own height.
 
-"Wyx," Sevish said, without turning his head. "We have bled enough sending them down to the road in twos and threes. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
+"Wyx," Sevish said, without looking up from the map. "Go outside and see that it is done. We have bled enough sending them down to the road in twos and threes. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
 
-"I would hear the scouts first, brother," Wyx said, and she didn't move from the table, one hand resting on the map.
+It wasn't a question, and Wyx's eyes went flat for a second before she answered. "Yes, brother, I am open to it." Her hand stayed on the edge of the map. "But I would hear the scouts first. I sent Zinka to watch the east line, and she will have more than we do."
 
 I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "Ru can do it," I said. "He's with me."
 
@@ -40,19 +40,21 @@ Ru straightened until the cross rope brushed his hair. "Understood," he said, an
 
 "That is not the first step you have taken tonight, Nykri," Wyx said quietly.
 
-"Kesh," Sevish said. "A clean count."
+"Kesh," Sevish said. "How many on that road?"
 
-"Kesh saw five," Kesh said between breaths.
+"Four," Kesh said between breaths. "Maybe five. Kesh could not get close."
 
-"Kesh counted the tent pole twice," said a voice from the flap. "There are four, chief."
+"It was four, chief."
 
-A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it came a lean goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes.
+The flap lifted and a lean goblin girl slipped in, dust on her knees, a wrap of dark cloth over one shoulder and a scout's quiet eyes. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white. She gave Kesh a flat look. "The fifth was his own shadow."
 
-Sevish let out a short, rough laugh. "Hah. Who is this?"
+Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
 
-"Zinka runs the east line for me," Wyx said. "She counts what she sees."
+"Who is this?" Sevish said.
 
-"Then Kesh's count is settled. Go and join Ru, Kesh," Sevish said. "He will need every hand."
+"Zinka," Wyx said. "She counts what she sees."
+
+"Then Kesh's count is settled," Sevish said. "Go and join Ru, Kesh. He does not know the lanes of this camp, and you know every one."
 
 "Kesh go," Kesh said, already off his barrel, and ducked out after Ru.
 
