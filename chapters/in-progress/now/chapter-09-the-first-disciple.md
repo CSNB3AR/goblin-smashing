@@ -342,6 +342,10 @@ Then he was gone, the ash collapsing inward and disappearing entirely, and the f
 
 Ru straightened to his new height, his voice low and steady. "Sevish sent me to bring you to the front. The camp is under attack."
 
+**[CALL TO ARMS: DEFEND THRASH CLAN CAMP]**
+
+A second line sat under the main quest, red where the quest was gold.
+
 I looked down at myself, still dressed in the same torn prisoner rags.
 
 I stepped up to the entrance, close enough now that both guards could see me, and both of them went completely still.
