@@ -207,4 +207,122 @@ The closest D&D match to Shiv is the **cooperation god**, the one who forbids tr
 
 ---
 
-<!-- NEXT PART -->
+## 8. Language and speech
+
+**D&D baseline.** All three peoples speak Common and Goblin, and worgs know Goblin and Worg. [SRC](https://www.aidedd.org/dnd/monstres.php?vo=goblin) [SRC](https://www.aidedd.org/dnd/monstres.php?vo=worg) D&D gives no speech pattern by caste or intelligence. The Eberron empire adds honor words and a commander's rallying cry, which show how a disciplined goblinoid culture carries its values in a few set phrases. [SRC](https://keith-baker.com/tag/goblins/) **The third-person, dropped-article speech is our own device**, so there is nothing to translate. It is the author's way of showing Wisdom through voice.
+
+**The canon ladder** (all [CANON `style-guide/race-dialect-and-voice.md`, ledger "Goblin speech and intelligence", and the chapters]):
+
+| Tier | Who | Pattern | Lines already on the page |
+|---|---|---|---|
+| True runt | Ru before the blessing | Short broken words, a stutter. | "M-man, you don't have to d-do this." "Y-you woke up." |
+| Low-Wisdom goblins | Kesh, Rott, Nab | Own name as the subject, no articles, bare verbs, one fact per line. | "Kesh bring news." "Kesh saw five." "Rott go." "Nab carry." |
+| Clan recruits | The two enforcers | Full sentences, blunt, threats and insults. | "Where's my food, runt?" |
+| Hobgoblins | Sevish, Wyx, Zinka, Ru after the blessing | Full sentences, **no contractions**, formal and dry, "brother" and "chief". | "We have tried the rally three times." "Kesh counted the tent pole twice. There are four, chief." "We have already lost so many." |
+| Shiv | The ash spirit | Measured, formal, a little archaic, "little one". | "Make yours greater than mine." |
+| Players | Tatsuya | Free to break the pattern; modern voice. | Everything he says. |
+
+**Rendering rules (PROPOSAL):**
+- Third-person goblins: the name is the subject, three to seven words a line, no subordinate clauses, repeat the key noun, never more than two such lines in a scene, and every line gets its own body cue. This is the same rule that already governs "Big thing coming. We hide." [CANON `style-guide/race-dialect-and-voice.md`, Core Rule 3]
+- Hobgoblin speech reads as controlled: declaratives, no slang, dry humor, titles. It is also how a reader learns who has evolved.
+- Speech drifts with Wisdom. If a goblin's Wisdom rises through a bond, a level or an item, he moves toward first person; Ru already did. [CANON `style-guide/race-dialect-and-voice.md`, `codex/characters/young-goblin-companion-candidate.md`]
+- A clan call and answer: "Walls first!" "Walls hold!" [PROPOSAL; compare the empire's commander's call [SRC](https://keith-baker.com/tag/goblins/)]
+- **Chapter 4's enforcers use contractions and modern idiom** ("You're making a mistake", "Mind your business, new blood"). The NPC-register rule says NPCs speak in a medieval fantasy register. This is a later-pass flag, not a canon change. [CANON `style-guide/race-dialect-and-voice.md`, "NPC register"]
+
+---
+
+## 9. How goblins see adventurers
+
+**D&D baseline.** Goblins avoid stronger settlements and fear more powerful creatures, and they bully the weak. [SRC](https://dungeonmister.com/lore/monsters/goblinoids-in-dnd/) (secondhand) A traditional goblin flees when a fight goes badly. [SRC](https://en.wikipedia.org/wiki/Goblin_%28Dungeons_%26_Dragons%29) Hobgoblins respect a competent opponent and may parley once defeat is clear. [SRC](https://www.tribality.com/2020/12/29/using-monsters-beyond-their-stat-blocks-goblinoid-tactics/) Bugbears harass a party at rest to drain its resources. [SRC](https://www.tribality.com/2020/12/29/using-monsters-beyond-their-stat-blocks-goblinoid-tactics/)
+
+**Canon.** NPCs call players "adventurers". The PK crews treated Bloodhurst as a predictable farm for the whole beta. Wyx names "the adventurers who rally to the city guard" as the wall Thrash could never pass. Tatsuya warns that a mob gets farmed by stronger adventurers, and Sevish understands that they can kill his people. An NPC who dies stays dead; a player wakes at a Cathedral. NPCs never use gamer vocabulary and know a player's name only when told. [CANON `codex/lore/race-world-quests.md`, Chapter 6, ledger "Why Thrash keeps failing", `style-guide/race-dialect-and-voice.md`]
+
+**Proposals.**
+- **What a goblin can know:** the same faces come back after they fall. Not why, not where. [OPEN] whether goblins know the word "Cathedral". Default: they do not.
+- **Three kinds of adventurer in a goblin's mouth:** the *farmers* (PK crews, who come back for the same camp again and again), the *city-backers* (the guard's allies at Lunarest's walls), and the *odd ones* (Tatsuya, who stepped in for a runt). [PROPOSAL]
+- **By rung:** Landed and Stakehands feel dread and envy. Blades feel contempt and caution. Posts feel curiosity, because adventurers carry loot. Hobgoblins read them as strong, fast and undisciplined irregulars who rest when hurt and rarely hold ground. [PROPOSAL]
+- **Slang:** low-Wisdom goblins can say "wakers" for adventurers ("Wakers come"). The formal NPC word stays "adventurers". [PROPOSAL]
+- **Why the farm stings:** they get back up; we do not. A recruit's whole philosophy of fear is in that sentence, and it is the emotional engine behind Ru's "We have already lost so many". [PROPOSAL framing; line CANON Chapter 10]
+
+---
+
+## 10. Names that must not reach the page
+
+D&D proper nouns are research references only. Replace as below. [CANON `style-guide/inspirations-and-borrowing.md`]
+
+| D&D term | Where it appears above | What to use instead |
+|---|---|---|
+| The war god and the goblinoid gods (all of them) | Section 5 | Shiv and Seranis only. |
+| Legion, banner, warlord, captain, devastator, iron shadow | Sections 2 to 4 | Warband, tent, chief, co-leader, "Hobgoblin". No need for the rest. |
+| Lasher, hunter, gatherer, pariah, booyahg | Section 4 | Hand-kin, Spear-kin, Pot-kin, Dust-kin, spirit-listener (feral clans only, off the page for now). |
+| The Eberron empire and its terms (the clan names, the honor words, the storyteller and builder words, the rallying cry) | Sections 3, 5, 8 | The One-Fire years, keeper, builder, "Walls first!". |
+| Bugbear | Section 11 | Longarm, and only if the author accepts it. |
+| Worg | Warfare file | None. Ash Wolves are canon wildlife. |
+| Goblinoid | Throughout | "Goblin folk" in NPC speech. "Goblinoid" stays in codex notes only. |
+| Nimble Escape, Martial Advantage, Redirect Attack, Leadership, Surprise Attack | Warfare file | Our own art names in `codex/combat/goblin-warfare-and-tactics.md`. |
+
+---
+
+## 11. The third people: Longarm (optional PROPOSAL)
+
+The author asked for "bugbears (or our equivalents)". Canon has no third body type. The Beastfolk share Myrrhwood but are a walled kingdom and a separate playable race, so they must not be used as a bugbear stand-in. This section is a stand-by design, not a request.
+
+**D&D reference.** Bugbears are long-limbed, coarse-haired ambushers with fey roots and a talent for lurking; they favor night, rest a lot, bully the weak into serving, put self-reliance above kin, and open fights with a surprise strike. [SRC](https://dnd5e.wikidot.com/lineage:bugbear) They live in small family groups that act like gangs, exile troublemakers, and sit at the top of mixed bands as leaders. [SRC](https://dungeonmister.com/lore/monsters/goblinoids-in-dnd/) (secondhand); [SRC](https://dmdave.com/bugbears-1/) (secondhand) Their lore has two brother gods, one of strength and one of stealth. [SRC](https://www.enworld.org/goto/post?id=8532919) (secondhand)
+
+**Proposal: the Longarm.** [PROPOSAL]
+- **What:** a second branch of the goblin evolution found only in feral clans. A goblin who levels through ambush kills, alone or in pairs, at night and never in formation, evolves into a Longarm instead of a hobgoblin. This extends canon, which only says a goblin becomes a hobgoblin by leveling steadily through combat without dying. [CANON `codex/locations/bloodhurst.md`]
+- **Look:** a head taller than a hobgoblin, hunched, coarse-haired, arms to the knee, surprisingly quiet. [PROPOSAL; D&D says hobgoblins stand shorter than bugbears [SRC](https://dnd5e.wikidot.com/lineage:hobgoblin)]
+- **Where:** the Black Lands. None in Thrash, none in Lunarest.
+- **Order:** kin-packs of five or six; trouble means exile; a strong Longarm often becomes a feral boss's right hand.
+- **Belief:** two brother spirits, the Heavy (strength) and the Hush (stillness). A runner is called "hollow" and shunned.
+- **Speech:** slow, few words, "we" for the pack, long pauses. Not third person. Low on words, not low on cunning.
+- **Weakness:** tires fast and needs long rests. Looks lazy to outsiders, which is the camouflage.
+- **View of adventurers:** prey that stops to rest. The long rest is the Longarm's hunting hour.
+- **Rule:** nothing on the page, and no use of the D&D name, until the author says yes.
+
+---
+
+## 12. Eryndal's goblin folk side by side
+
+| | Thrash goblin | Feral goblin | Hobgoblin | Shiv Goblin | Longarm (optional) |
+|---|---|---|---|---|---|
+| **Look** | About four feet, green, thin long-fingered hands, rags and patched leather. [CANON] | Same body, filthier, bone and scrap. [PROPOSAL] | Human height, markings, built like people. [CANON] | Taller, paler green, white hair, necklace. [CANON] | A head above a hobgoblin, long arms. [PROPOSAL] |
+| **Role** | Line and labor. | Raiders; slave-minders. | Officers, walls, scouts. | Elder, Shiv's heir. | Ambusher, boss's heavy. |
+| **Order** | Earned marks: Landed to Blade, Post. [PROPOSAL] | Birth kin-tiers and a boss. [PROPOSAL] | Species tier, then command. | A status, not a rank. | Small kin-packs. |
+| **Belief** | Shiv remembered, small spirits, Seranis. | Fear, the boss, a half-remembered Shiv. | Duty to Shiv's cause. | Bound by the blessing. | The Heavy and the Hush. |
+| **Food** | Pot stew, ash-cakes, strips, ship rations. | Scavenged, stolen, raw. | The same pot. | The same pot. | Meat, long sleeps. |
+| **Tools** | Club, scavenged shield, knife, pitch, rope. | Scrap, bone, captured steel. | Weapons of their art, crate gear. | Gadget belt, runes. | Spiked clubs, javelins, snares. |
+| **Trade** | Village markets, the ship. | Theft, raids. | The clan chest. | Forward plot: trade company. | None. |
+| **Speech** | Third person, stutter, or blunt full sentences. | Fragments. | Full sentences, no contractions. | Tatsuya's own voice. | Slow, "we". |
+| **Sees adventurers as** | Dread and envy, "wakers". | Prey and farm. | Strong, fast, undisciplined. | One of them, and not. | Prey that rests. |
+
+---
+
+## 13. Conflicts with canon and open questions
+
+**Resolved in favor of canon (and what I did):**
+1. **War god versus Shiv and Seranis.** D&D's chief goblinoid religion is a conquest cult. Canon has Seranis as patron and Shiv as a remembered founder. I kept canon and used D&D's cooperation god as the closest fit. [CANON `codex/lore/patrons-and-world-weapons.md`, `codex/characters/shiv.md`]
+2. **D&D goblin shamans cast spells.** Goblins in Eryndal cannot cast (Wisdom 18 gate; only Tatsuya's necklace bypasses it). I replaced them with non-casting spirit-listeners, keepers and crafters. [CANON `codex/races/goblin.md`]
+3. **D&D goblins are cowards who flee at half health.** Page goblins went down the hill in twos and threes and held the line for Ru. I treat them as obedient and reckless, not cowardly. [CANON Chapter 10]
+4. **D&D legions and warlords.** There are four hobgoblins and a camp of about 25, not a legion. I used warband, tent and chief. [CANON ledger "Head count, audited"]
+5. **D&D goblin slavery.** Thrash does not keep slaves (my reading of Wyx's and Sevish's honor). Feral clans do. [CANON `codex/characters/wyx-thrash.md`, `codex/characters/sevish-thrash.md`]
+6. **D&D birth caste.** Thrash recruits arrive off the ship. Caste by family is a feral-clan feature only. [CANON `codex/locations/bloodhurst.md`]
+7. **Hobgoblin honor includes dying for an afterlife war.** Canon says the dead stay dead. I did not import an afterlife. [CANON Chapter 6]
+
+**Canon inconsistencies I found and did not touch:**
+- **Ranks.** Chapter 6 says "there are ranks in this clan"; the ledger says goblins have no formal ranks yet, only "co-leader". Reconciled as informal ranks that never get a page label (section 4).
+- **Hobgoblin count.** `codex/locations/bloodhurst.md` says two, possibly three or four. Zinka makes five above the grunts (Sevish, Wyx, Zinka, Ru, plus Tatsuya as a Shiv Goblin). `codex/characters/pk-wraith-raiding-party.md` already notes this.
+- **Enforcers' speech.** Chapter 4 enforcers use contractions and modern idiom; the NPC-register rule says to avoid both.
+- **Wyx's weapon.** The necklace file says daggers; the later ability list says dual sabres. I used sabres. [CANON `codex/characters/thrash-siblings-ability-lists.md` "Resolved conflicts"]
+
+**Open for the author:** whether to accept the rank ladder names; whether to accept the feral kin-tiers; whether goblins know the word "Cathedral"; whether any camp goblin builds gas bombs; what Seranis rites exist; whether a Longarm branch is wanted; whether "wakers" is the slang.
+
+---
+
+## 14. Sources and how much to trust them
+
+- Fetched and read: Wikipedia Goblin (D&D) https://en.wikipedia.org/wiki/Goblin_%28Dungeons_%26_Dragons%29 ; D&D Beyond MotM article https://www.dndbeyond.com/posts/1248-exploring-the-new-goblin-hobgoblin-and-kobold ; D&D Beyond hobgoblin article https://www.dndbeyond.com/posts/263-how-to-play-hobgoblins-like-perfect-soldiers ; 5e wikidot lineage pages for goblin, hobgoblin and bugbear (https://dnd5e.wikidot.com/lineage:goblin , https://dnd5e.wikidot.com/lineage:hobgoblin , https://dnd5e.wikidot.com/lineage:bugbear) ; Keith Baker's Eberron blog https://keith-baker.com/tag/goblins/ ; aidedd.org stat blocks and pantheon page https://www.aidedd.org/univers/pantheon/maglubiyet/ ; a Wikipedia mirror of the goblinoid deities page https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Grankhul.html ; Tribality https://www.tribality.com/2020/12/29/using-monsters-beyond-their-stat-blocks-goblinoid-tactics/ ; Wikipedia on Roman camps https://en.wikipedia.org/wiki/Castra .
+- Fetched but **secondhand** (fan guides, forums, reviews that summarize Volo's): Dungeon Mister https://dungeonmister.com/lore/monsters/goblinoids-in-dnd/ and https://dungeonmister.com/guides/hobgoblin-race-in-dnd-5e/ ; EN World posts https://www.enworld.org/goto/post?id=8528920 , https://www.enworld.org/goto/post?id=8532919 ; DM Dave https://dmdave.com/bugbears-1/ ; RPG in Design review https://rpgindesign.blogspot.com/2019/07/analytical-review-of-lost-mine-of.html .
+- **Search summary only** (page blocked or not fetched): Forgotten Realms Wiki hobgoblin page https://forgottenrealms.fandom.com/wiki/Hobgoblin ; Greyhawk Wiki Pomarj https://greyhawkonline.com/greyhawkwiki/Pomarj ; Spelljammer Wiki goblin https://spelljammer.fandom.com/wiki/Goblin ; Kismet's D&D slavery notes https://dnd.kismetrose.com/DMSlaveryReasons.html .
+- **Not reached:** the text of Volo's Guide to Monsters and Monsters of the Multiverse themselves. Check the books before quoting any lore as "official".
+

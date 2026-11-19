@@ -1,6 +1,6 @@
 # Gear Material Map: the tier ladder, materials and professions (D&D baseline, Albion-style)
 
-**Status:** Research and proposal file, not canon until the author accepts it. It sits on top of `codex/materials/overview.md`, `organic.md`, `inorganic-and-salvage.md`, `magical-and-spirit-tied.md`, `monocrystals-and-mono-steel.md` and `blacksmithing-and-farm-resources-book-one.md` and does not edit any of them. Sibling files: `codex/lore/dnd-gear-baseline.md` (the hub), `codex/lore/dnd-weapons-by-way.md`, `codex/lore/dnd-armor-shields-and-slots.md`, `codex/lore/dnd-camp-gear-tools-and-mounts.md`, `codex/lore/dnd-class-dress-and-casting-foci.md`, `codex/lore/dnd-racial-gear-sets.md`, `codex/lore/goblin-gear-and-camp-realism.md`.
+**Status:** Research and proposal file, not canon until the author accepts it. It sits on top of `codex/materials/overview.md`, `organic.md`, `inorganic-and-salvage.md`, `magical-and-spirit-tied.md`, `monocrystals-and-mono-steel.md` and `blacksmithing-and-farm-resources-book-one.md` and does not edit any of them. Sibling files: `codex/lore/dnd-gear-baseline.md` (the hub), `codex/lore/dnd-camp-gear-tools-and-mounts.md`, `codex/lore/dnd-class-dress-and-casting-foci.md`, `codex/lore/dnd-racial-gear-sets.md`, `codex/lore/goblin-gear-and-camp-realism.md`.
 
 **Tags used in this file.**
 - **[SRC]** taken from an outside source and paraphrased, with the URL on or above the line.
@@ -46,9 +46,9 @@ Albion Online is a stated inspiration (`style-guide/inspirations-and-borrowing.m
 | Quality rating | Material grade (Rough to Pristine) plus the Lucky Craft proc (`codex/crafting/crafting-stations-and-process.md`) |
 | Refine raw to refined to finished | Gather, process (tan, smelt, carve), craft. The codex already says each is "a real, separately-crafted intermediate step" (`codex/materials/organic.md`) |
 | Refined material from the tier below | A GT N piece needs processed stock of GT N, and the processing step itself must be done at tier N minus 1 or better [PROPOSAL] |
-| Weapon decides abilities | A Way technique needs a weapon of that Way. See `codex/lore/dnd-weapons-by-way.md` |
+| Weapon decides abilities | A Way technique needs a weapon of that Way. See `codex/lore/dnd-gear-baseline.md` section 6 |
 | Armor slots grant abilities | Rare and higher armor and shields can unlock one named art, as Ru's shield art already does ([CANON] `codex/characters/young-goblin-companion-candidate.md`) |
-| Plate / leather / cloth | Heavy / Light / soft goods, plus our Medium kit. See `codex/lore/dnd-armor-shields-and-slots.md` |
+| Plate / leather / cloth | Heavy / Light / soft goods, plus our Medium kit. See `codex/lore/dnd-gear-baseline.md` section 5 |
 
 ---
 

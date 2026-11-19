@@ -121,4 +121,129 @@ The Thornhide Vest and the Skirmisher set are already in the Book One file ([CAN
 
 **Ranks and gear in the Thrash clan** [PROPOSAL, built on Wyx's line "there are ranks in this clan, you earn them, nothing is handed over"]: recruit (club and rags), defender (board, club or spear, leather vest), enforcer (blade, belt, boots), officer (a pair of Uncommon pieces and a Rare belt fitting), hobgoblin (a seat of gear from the chief's own crate), chief and general (their own weapons, built by Tier 5 to Tier 7 hands before the clan left Myrrhwood). The gear crate in the war tent is **rank stock**: Wyx gave Tatsuya "something that actually fits" and called it a gift for the one Shiv marked, not a right.
 
-<!-- GPART1 END -->
+
+---
+
+## 5. The camp realism sheet
+
+### 5.1 What a goblin hillside camp would plausibly own
+
+Built from the page (section 1) and the codex. Quantities are for the clan at full strength, about 25 [CANON `codex/locations/bloodhurst.md`]: 23 after Tatsuya's two kills, 14 at the start of Chapter 10. All counts [PROPOSAL].
+
+| Category | What is there | Source |
+|---|---|---|
+| **Shelter** | about four hide-covered A-frame tents on timber frames around the big tent, a smaller pale tent, the round canvas war tent with timber ribs, a small holding tent near the eastern edge, a lean-to | [PAGE Ch4 to Ch10] |
+| **Fire and kitchen** | a stone-ringed central fire pit, a second fire, an iron stew pot, a long spoon, wooden bowls, meat strips, iron cressets for torches | [PAGE Ch4, Ch10] |
+| **Water** | a stream and waterfall, a water barrel, buckets | [PAGE Ch4, Ch6] |
+| **Storage** | supply crates, barrels, a chest in the war tent, Wyx's gear crate | [PAGE Ch4, Ch6, Ch10] |
+| **Transport** | a hay cart with bales, handcarts, the Thrash ship offshore that carried the clan's gear | [PAGE Ch4], [CANON] Bloodhurst file |
+| **Defense** | sharpened stakes along the clearing edge, a palisade, an inner barricade, a single track out, two blue banners on poles, bone totems on the war tent poles | [PAGE Ch4, Ch6, Ch9, Ch10] |
+| **Craft** | the Clan Workbench and Forge with a slag pile (Clanmark and Ironvein ore, scrap iron), a tanning rack, bone-carving bench | [CANON] stations and Book One file |
+| **Light** | oil lamps, lanterns, candles in brass holders in the war tent | [PAGE Ch6] |
+| **Clothing** | rough-spun cloth, patched leather, wraps, fur trim, leather bands, bone and fang ornaments | [PAGE Ch4, Ch5] |
+| **Cordage and fasteners** | sinew, hide thong, rope, a few nails and hinges from the forge. Lashing does most jobs | [PROPOSAL] |
+
+**Armory manifest at full strength** [PROPOSAL, built on the page: clubs and boards on the line, six archers in the plan, "the axes" Sevish counts on, two sabres and one war axe]:
+
+| Item | About | Notes |
+|---|---|---|
+| Camp clubs | 18 | what almost every defender holds [PAGE Ch10] |
+| Thrash spears | 6 | the soldiers' weapon, hobgoblin default |
+| Hatchets and fighting axes | 6 | "the axes reach the tent" [PAGE Ch10] |
+| Belt blades (cleaver or short blade) | 5 | two went down with the enforcers |
+| Horn shortbows | 6, plus spares | six who can draw one, none well [CANON ledger] |
+| Slings | 4 | cheap, bone or stone bullets |
+| Sabres | 2 | Wyx's pair |
+| War axe | 1 | Sevish's |
+| Leather chests and vests | 12 | rank stock in the crate |
+| Boots | 10 | scarce, most recruits barefoot |
+| Camp boards | one per defender | improvised, see 5.3 |
+
+### 5.2 Why doors are not plausible in hide tents, and what is
+
+**Short answer.** A hide-and-timber raider camp has **flaps**, not hinged doors. A flap is a sheet of hide or canvas that hangs, ties or pegs shut. A door is a rigid leaf on hinges or loops in a fitted frame. The page already describes flaps everywhere, so "a tent door" is the one word that does not fit.
+
+1. **The page says flap, every time.** "Entrance flap in the front wall", "the flap fell shut", "pushed the canvas aside", "a gap in the cloth", "the flap hung crooked on one tie", "a cross rope above the entrance" [PAGE Ch6, Ch9, Ch10, Ch11 draft]. The earlier draft's "empty lanes between tied-shut tents" says the same.
+2. **A hide tent's "door" is a hide.** [SRC] https://en.wikipedia.org/wiki/Tipi : a tipi is poles under sewn hides staked down at the base, the door is cut out of the cover, the low doorway is covered by an extra skin hung as a drop, and rawhide thongs and wooden pegs bind and close it. Even there "the door" is a piece of hide.
+3. **A real door needs a frame, and the tent is not built for one.** A yurt does include a door frame [SRC] https://en.wikipedia.org/wiki/Yurt , but it is a lattice-walled felt tent made to be taken apart and packed onto animals. Our camp is hide-covered A-frames and a round canvas tent with ribs. Fitting wooden doors would make it a different camp.
+4. **Doors want hinges, and hinges are forge iron.** The clan "did not come out with farm tools" and carried what it raided with [PAGE Ch6]. Lashing and thongs cost nothing. Iron hinges cost smith time the camp spends on blades and stakes.
+5. **It moves.** The clan came by ship, has the Thrash ship to go back to, and is planning the Myrrhwood crossing [CANON Bloodhurst file]. A camp built to leave does not build doors.
+6. **A real plank door is too heavy for a goblin.** A D&D shield weighs 6 lb and a Pathfinder tower shield 45 lb [SRC] https://dnd5e.wikidot.com/armor and https://www.d20pfsrd.com/equipment---final/armor/ . A solid door is tower-shield weight, a Power floor of about 10 [PROPOSAL, see the hub], and a goblin has Power 4 and "genuinely can't do much heavy manual labor" [CANON five-disciplines]. A whole line of goblins holding doors does not work.
+
+**What is door-like and plausible:**
+- **A door flap, stiffened.** Rawhide is stiff when dry, shrinks tight when applied wet, and can be reshaped by soaking [SRC] https://en.wikipedia.org/wiki/Rawhide_(material) . A tent's door flap cut free and laced wet onto a frame of two tent poles is a real shield. That is the honest version of "tent door".
+- **A gate hurdle.** Single woven hurdles serve as temporary gates [SRC] https://en.wikipedia.org/wiki/Hurdle . The camp has one track in and out, so one gate hurdle in the stake line is believable.
+- **A salvaged door.** The camp sits in the Lunarest outskirts, and scrap is "often salvaged directly from human or elf ruins" [CANON `codex/materials/inorganic-and-salvage.md`]. One goblin could hold one, and it would take two goblins to lift [PROPOSAL, comic and plausible].
+- **Ship fittings.** A hatch board or cabin door off the Thrash ship, but stripping a ship you need to sail home is a desperate move.
+- **Lids and sideboards.** Barrel heads, crate lids, chest lids, a cart tailboard.
+
+### 5.3 Twelve improvised shields and barricades that fit the page
+
+All [PROPOSAL] unless a source is shown. They use only what the page and the codex put in the camp. Time and craft: Tier 1 work, no recipe, any camp goblin ([CANON] Tier 1 builds basic gear, `codex/crafting/overview.md`). Block bands are from the hub (1 small to 4 tower).
+
+| # | Name | Kind | Built from | Time and who | Block, weight | Fire and frost | Why it fits |
+|---|---|---|---|---|---|---|---|
+| 1 | **Barrel-head board** | hand shield | the round head of a barrel or the water barrel, two battens, a rope loop | 10 min, anyone | 1, light | wood: scorches if dry, chills but does not break | "a barrel lid" is on the page [PAGE Ch10] |
+| 2 | **Cart sideboard** | hand shield, half height | the hay cart's side rail or tailboard, rope loops | 15 min | 1 to 2, heavy for a goblin | as wood | "a cart panel" is on the page |
+| 3 | **Flap board** | hand shield | a tent's door flap cut free, laced wet onto two tent poles and a crossbar | 30 min, then dries overnight | 1 to 2, light | wet rawhide resists a small fire for a while, dry hide burns | **the honest "tent door"** [SRC rawhide] |
+| 4 | **Wicker-and-rawhide target** | hand shield | green willow or reed from the stream, a woven hoop, wet rawhide stretched over it | 2 to 4 hours plus a night to shrink tight | 1, very light | wet: slow to burn, dry: scorches | wicker and hide shields are real: Mycenaean wicker with leather, Zulu ox-hide, Igbo wicker [SRC] https://en.wikipedia.org/wiki/Shield |
+| 5 | **Plank-and-batten board** | hand shield | three crate or cart planks, two battens, rope handle | 20 min | 2, heavy | as wood | the closest honest thing to a door: a leaf the camp made itself |
+| 6 | **Pot-lid buckler** | buckler | the stew pot's lid or a wooden pot cover | 1 min | 1, small | iron shrugs fire | the stew pot is on the page; a cook's shield, tonal |
+| 7 | **Shoulder-blade shield** | hand shield | the shoulder blade of a big boar or beast, hide-bound rim, a bone grip | 1 hour, a Bonecrafting hand | 1 to 2 | bone does not burn | goblin flavor, uses kill stock [PROPOSAL, no source] |
+| 8 | **Hurdle wall** | standing barricade | woven hazel or willow panels, about 6 feet by 3 feet, a hide face, stake props [SRC] https://en.wikipedia.org/wiki/Hurdle | 1 hour each | cover | wet it first | hurdles also serve as the camp's temporary gate |
+| 9 | **Tent-pole pavise** | standing shield | two tent poles, crossbars, a doubled hide or canvas face, a spike foot, a bearer who props it [SRC] https://en.wikipedia.org/wiki/Pavise | 45 min | 4 or cover | wet it first | shelters the six archers while they reload and "shoot over the shields" [CANON ledger] |
+| 10 | **Overturned-cart rampart** | barricade | the hay cart on its side across the track, lashed [SRC] https://en.wikipedia.org/wiki/Wagon_fort | 10 min, three goblins | cover | hay burns | the hay cart is on the page; an earlier Ch10 draft already had it "on its side across the track" [CANON ledger] |
+| 11 | **Stake rows and inner barricade** | barricade | three rows of sharpened stakes five paces apart, one body-wide gap, and a barricade of bundled stakes and crates behind them [CANON ledger plan and Sevish's first order]. Stakes and palisades are old camp practice [SRC] https://en.wikipedia.org/wiki/Palisade and https://en.wikipedia.org/wiki/Castra | hours | blocks and funnels | stakes burn only slowly | the plan's centerpiece. The stakes stop short of the east cliff [PAGE Ch10] |
+| 12 | **Wet hay-and-crate parapet** | low cover | hay bales from the cart and stacked crates, soaked | 20 min | cover | dry hay is a fire trap, wet hay is a sponge | low cover for the archers; flag the fire risk |
+
+### 5.4 Drop-in lines for Chapter 10
+
+The seed sentence is a canon-ledger item ("they are seeds, never stated as a plan", ledger, Chapter Ten tightened). I edit nothing. The author can choose. Current text: "every goblin on that line held a different shield, a tent door, a barrel lid, a cart panel, nothing made for the job, with a club in the other hand."
+
+- **A (minimal swap):** "...a different shield, a barrel lid, a cart board, a hide laced to a pole frame, nothing made for the job, with a club in the other hand."
+- **B (shows the cost, stripped tents):** "...a different shield, a barrel lid, a cart board, a flap cut off an empty tent, nothing made for the job..." Tatsuya could glance at the bare frames of the tied-shut tents.
+- **C (wicker):** "...a barrel head, a crate plank, a square of rawhide on a wicker hoop, nothing made for the job..."
+- **D (tonal):** "...a barrel lid, a cart board, the lid off the stew pot, nothing made for the job..."
+- **E (keep a door, make it one):** "...a barrel lid, a cart panel, and one salvaged door that took two goblins to hold up, nothing made for the job..." Plausible, funny, and it shows the goblins improvising from the outskirts' ruins.
+
+For Chapter 11's wall: hurdles and a pavise for the archers (5.3 #8 and #9) give the "shields from the hay cart, the barrels and the tents" a believable engineering, and the flap boards are the "hide shields" the early ledger draft wanted.
+
+### 5.5 What burns, what holds
+
+The raiders "fight in bursts: a volley of small fire and frost" [PAGE Ch10]. [CANON] "Any spell hits wood; a wall holds as a unit even with weak arms." So:
+- **Fire:** dry hay, canvas, dry hide and dry wicker burn. Wet rawhide, green wood, bone and iron do not. Soak the hay and the hide before the raiders come.
+- **Frost:** chills and slows (the frost debuffs in `codex/crafting/debuffs-and-resistances.md`) but does not break wood or hide.
+- **Wood splits:** a barrel head or a thin plank breaks first. That is why the line is a **wall**, not a row of individuals. Block bands add between neighbours (hub, section 5.3).
+- **Wicker beats a club**, loses to a blade. Rawhide face over wicker is a classic light shield, not a tower.
+
+### 5.6 What a raider camp would NOT have
+
+Hinged wooden doors on tents, glass, matched sets of shields, tower shields in quantity (unless from old stock), plate armor, chain mail in quantity (the forge is small), kegs of nails (lashing instead), uniforms among the goblins (the hobgoblins run on a system, "the goblins outside live on whatever works" [CANON Bloodhurst file]), and ladders on the cliff side (ropes do that job, Nab and Rott carry a coil).
+
+---
+
+## 6. Conflicts with canon and open items
+
+Canon wins in every case.
+
+1. **"Tent door" versus tent flaps.** Chapter 10's seed uses "tent door", the tents have flaps. This is a word fix, not a plot fix. The author decides. No chapter is edited.
+2. **The earlier ledger line** ("hide shields and tent doors at the stakes", Chapter Ten revised) used the same word and was later replaced by the "seeds" version. Same fix.
+3. **Wyx's weapon.** `codex/combat/way-of-the-bow.md` and the necklace file are stale. The ledger says dual sabres. This file uses sabres.
+4. **D&D hobgoblins in mail and plate** versus **Sevish and Wyx** in vest and bone. Canon wins. No plate for the Thrash hobgoblins.
+5. **"Bloodhurst" has not appeared on the page.** Tatsuya reads "the Thrash clan camp". This file says Thrash camp for page-facing text and Bloodhurst for codex.
+6. **Ironwood** is not a codex material (see the material map).
+7. **Camp numbers.** Page counts run 25, 23, 20, 14 and 10 across chapters. My manifest follows the author's head-count audit (25 at full strength, 23 after the enforcers). Defenders on the line are about 20 in Chapter 9 and Chapter 10.
+8. **The healers and the lean-to were cut** from Chapter 10 by the author. I list healers as a role because a camp of 25 would have one, not because the page shows it.
+9. **Common Goblin items beyond the chest, boots and belt** (cap, leggings, wrist bands, shield, club) are invented.
+10. **Recipes and tiers for wicker, hurdles and tents** have no profession home. Proposed under Bonecrafting/Leatherworking and Smithing, OPEN (material map).
+11. **The Chapter 11 draft** mentions tarp, planks and stakes. It is flagged for rewrite, so I treat it as soft.
+
+---
+
+## 7. Sources
+
+- Goblin and hobgoblin stat blocks: https://api.open5e.com/v1/monsters/?slug=goblin , https://api.open5e.com/v1/monsters/?slug=hobgoblin , https://api.open5e.com/v1/monsters/?slug=bugbear , https://www.aidedd.org/dnd/monstres.php?vo=goblin-boss , https://www.aidedd.org/dnd/monstres.php?vo=hobgoblin-captain , https://www.aidedd.org/dnd/monstres.php?vo=hobgoblin-warlord
+- D&D lore: https://www.dndbeyond.com/posts/263-how-to-play-hobgoblins-like-perfect-soldiers , https://www.wargamer.com/dnd/hobgoblin-5e
+- Pathfinder goblins, hobgoblins, dogslicer: https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin/ , https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/hobgoblin/ , https://pathfinderwiki.com/wiki/Dogslicer
+- D&D weapon and armor tables: https://dnd5e.wikidot.com/weapons , https://dnd5e.wikidot.com/armor , https://www.d20pfsrd.com/equipment---final/armor/
+- Real-world camp and shield references: https://en.wikipedia.org/wiki/Tipi , https://en.wikipedia.org/wiki/Yurt , https://en.wikipedia.org/wiki/Hurdle , https://en.wikipedia.org/wiki/Rawhide_(material) , https://en.wikipedia.org/wiki/Shield , https://en.wikipedia.org/wiki/Pavise , https://en.wikipedia.org/wiki/Wagon_fort , https://en.wikipedia.org/wiki/Palisade , https://en.wikipedia.org/wiki/Castra
