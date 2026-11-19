@@ -22,3 +22,5 @@ All four show `[GUILD: ANSWERS TO PK_WRAITH]` under their nameplate. The mixed B
 **Zinka**, a Thrash scout girl and a Hobgoblin, level 7. Smarter than Kesh, similar in mind to Ru, quiet and exact, a runner for Wyx who has watched the east line for the camp. She has **Toxic Breath** like Ru. She goes to one side of the tent and Ru to the other. Kesh is not a third gasser; he stays the scout who brings the report.
 
 **Canon note.** The camp's Hobgoblin count was "only two (Sevish and Wyx), potentially a third with Tatsuya, a fourth with Ru" (`codex/locations/bloodhurst.md`). Zinka makes it a fifth. The author has not explained how she got Toxic Breath; the simplest reading is that she is a young Hobgoblin whom Wyx kept hidden as a scout. Not on the page yet; the author said gas abilities are not needed early on for other goblins, so only Ru and Zinka carry it.
+
+**Zinka's look (page, Chapter Ten).** Lean, narrow-faced, pale green eyes under a narrow brow, a wrap of dark cloth over one shoulder, dust on her knees, no weapon in her hands. Eye color is a PROPOSAL (the Hobgoblins on the page so far have amber eyes).

@@ -14,9 +14,9 @@ Sevish didn't slow. He took the last ten paces to the war tent in long strides w
 
 *"Shit. I almost forgot."* If I died I lost seventy-two hours. They lost everything. Every move had to count from here, and that included the one standing next to me.
 
-Past him the camp stood quiet. The stew pot sat cold beside the stone-ringed fire pit, the hay cart stood where it always had beside the big tent, the two blue banners hung limp on their poles, and the hide tents along the slope were tied shut with nobody between them. What was left of the clan stood in a thin line along the sharpened stakes where the track left camp, under torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
+Past him the camp stood quiet. The stew pot sat cold beside the stone-ringed fire pit, the hay cart stood where it always had beside the big tent, the two blue banners hung limp on their poles, and the hide tents along the slope were tied shut with nobody between them. Sharpened stakes ringed the camp on the hillside now, set tight, and what was left of the clan stood posted along them under torches, with gaps in the line. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
-Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into the dark. And every goblin on that line held the same plain round shield of hide over wood and a club, the kit they'd carried out of Myrrhwood.
+Two things stuck as I walked. The first was the ways in and out. The track left through the stakes at the front, and the only other way down was the cliffside along the wall, gullies and ledges a goblin might climb if he had to, longer and harder than the path and no use with armor or a pack. Behind the camp there was only sheer rock and falling water, so nothing could come at us from the back. The second was the gear. Every goblin on the line carried the same club and the same plain round shield of hide over wood, like one issue out of one store. I didn't know where they'd gotten it.
 
 Bone totems capped the poles either side of the flap. It fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
 
@@ -24,19 +24,25 @@ The tent was round, with timber ribs curving up to the center pole and the lante
 
 Sevish went straight through to the far side of the table and lowered himself into the heavy chair there, the chest and barrels stacked tidy against the back wall behind him, his axe propped against the chair arm at his right hand. Wyx took her place at his left. I took the near side at the center, the flap at my back. Kesh dropped onto a barrel along the left wall and rubbed his knee. Ru stopped inside the flap on the right, one shoulder to the canvas, where a gap in the cloth gave him a strip of the camp to watch. He stood with his head bent under the cross rope above the entrance, still not used to his own height.
 
-"Wyx," Sevish said, without looking up from the map. "Go outside and see that it is done. We have bled enough sending them down to the road in twos and threes. Pull everyone back inside the stakes and raise the inner barricade. Let them come uphill to us. If they do not come, we do not go."
+For a moment nobody spoke while everyone settled. A chair creaked, the lantern steadied on its hook, and Kesh's breathing slowed.
 
-It wasn't a question, and Wyx had barely opened her mouth to answer when the flap lifted behind me. A lean goblin girl slipped in, dust on her knees, a wrap of dark cloth over one shoulder and a scout's quiet eyes. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white. Wyx's gaze went to her, then to Kesh on his barrel, and stayed there.
+"Kesh," Sevish said. "How many on that road?"
 
-"Brother," she said. "I would hear the scouts before I go. Zinka held the east line, and I will not have us act on half of what they saw."
+"Four," Kesh said between breaths. "Maybe five. Kesh could not get close."
 
-Sevish followed her eyes, and the set of his shoulders eased. "Hm. Very well."
+Sevish grunted and turned his head. "Wyx, could you do me a favor? Go outside and get the men into a defensive formation along the palisade walls. Anyone who comes within sight of the camp, I want to know. Hold the perimeter and let nothing past the stakes."
 
-I looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "Ru can do it," I said. "He's with me."
+Before Wyx could answer, the flap lifted behind me. Her eyes flicked past my shoulder. "Of course, brother," she said. "But could I hear the scouting report first?"
 
-Sevish's eyes came around to me, heavy and patient, a look that asked a question without saying it. Wyx's brows rose, and for a second she looked at me instead of the scouts.
+I glanced back. A lean goblin girl had slipped in, dust on her knees, a wrap of dark cloth over one shoulder, her pale green eyes steady under a narrow brow. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white.
 
-"Very well," Sevish said again.
+"It was four, chief," she said, and gave Kesh a flat look. "The fifth was his own shadow."
+
+Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
+
+"Ru can go and assist," I said, and looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "The more hands we have on the defense, the better. He's with me."
+
+Sevish studied me for a moment, heavy and patient, a look that asked a question without saying it. Then he gave me a slow nod. Wyx's brows rose, and for a second she looked at me instead of the scout.
 
 I turned to Ru. "Get the line in order. Raise the inner barricade behind the stakes, pull every goblin back inside, and make sure each one is armed and listening. If anyone won't listen, use a little force."
 
@@ -44,15 +50,7 @@ Ru straightened until the cross rope brushed his hair. "Understood," he said, an
 
 "That is not the first step you have taken tonight, Nykri," Wyx said quietly.
 
-"Kesh," Sevish said. "How many on that road?"
-
-"Four," Kesh said between breaths. "Maybe five. Kesh could not get close."
-
-"It was four, chief," Zinka said. She gave Kesh a flat look. "The fifth was his own shadow."
-
-Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
-
-"Then Kesh's count is settled," Sevish said. "Go and join Ru, Kesh. He does not know the lanes of this camp, and you know every one."
+"Go and join Ru, Kesh," Sevish said. "He does not know the lanes of this camp, and you know every one."
 
 "Kesh go," Kesh said, already off his barrel, and ducked out after Ru.
 
