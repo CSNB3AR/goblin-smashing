@@ -16,9 +16,11 @@ A red alert cut across my vision before the location tags had finished fading.
 
 I focused on the alert and it opened into the defender count and the timer, nothing else. My pulse thudded in my ears.
 
-*"Someone tracking the quest? I knew this was coming the second my name went public. At least I got on in time."*
+The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen. Loop's been tearing into the world quest all day, man, and people are already trying to work out where it is."
 
-The line from the pod had run out its countdown at the edge of my vision: **[STREAM LIVE – NYKRI]**. Leon's voice came in low through the booth channel. "You're on. Chat's off on your end, I've got it on mine. Core's holding at nineteen, so take your time."
+"Someone tracking the quest," I said under my breath, my eyes still on the alert. "I knew this was coming the second my name went public. At least I got on in time."
+
+"Looks like you've got company," Leon said. "Stay sharp. I'm on this end."
 
 The holding tent came back into focus around me slowly, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. My head was resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
 
@@ -80,7 +82,9 @@ Ash and smoke poured in through the gap in the tent flap, moving slow and delibe
 
 The nameplate read gold.
 
-*"Shiv. The name from those two dead forum threads. That's all I've got on him."*
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
+
+**[OBJECTIVE: SPEAK WITH SHIV]**
 
 The kid behind me had gone completely still. The color around him had gone dull, washed thin and gray. A fine mist crawled low across the packed dirt outside that hadn't been there a second ago.
 
@@ -104,11 +108,9 @@ I tried to speak and my mouth moved half a second late, the words coming out slu
 
 My vision swam slightly at the edges, colors bleeding together, and I forced my eyes to settle on something real. The smell of smoke and old canvas, the rough texture of packed dirt under my palm.
 
-Half expecting to see it dropping, I made myself glance at my health anyway.
+Leon's voice cut in, tight. "Your health's holding at fifty, nothing's touching it. Whatever that is, it isn't damaging you."
 
-**[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
-
-"It just slowed me down," I muttered. "Still have full health."
+"It just slowed me down," I muttered, the words dragging. "Still full health."
 
 The ash and smoke figure stepped closer, each movement smooth and deliberate, completely unaffected by whatever force was pinning me to the ground.
 
@@ -122,53 +124,39 @@ I tried to push myself up again, my arm shaking with the effort, and managed to 
 
 "If you're gonna kill me just do it and stop fucking around," I said, forcing the words out even through the drag. My pulse hammered, real adrenaline spiking even though I knew this was VR.
 
+--------
+
 The figure stepped even closer, ash trailing behind him, and the temperature in the tent dropped noticeably. Cold seeped through the canvas walls, sharp enough that I felt it prickle across my skin.
 
-"Calm yourself," the voice said, quieter now, almost amused. "If I was going to kill you, little one, I would have done so already. This is just what standing near me costs, for now."
+"Calm yourself," the voice said, quieter now, almost amused. "If I was going to kill you, little one, I would have done so already. This is just what standing near me costs, for now. It is the only way I can speak with you."
 
 I reached to scratch my chin where my goatee should have been and found smooth goblin skin, my mind working faster now.
 
-*"Sixteen thousand eight hundred yen yesterday off two elixirs. If this quest chain pays the same way, I'm in."* I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
+I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
 
 A small notification ticked in the corner of my vision, easy to miss against everything else.
 
 **[VIEWERS: 3 → 11]**
 
-*"People are watching. I need to say something."*
+Leon's voice came in low through the booth channel. "Eleven in here now, and chat's already asking about the gold tag. Might want to say something."
 
 "Hey," I said out loud, quick, my voice still dragging slightly through the slow effect. "Thanks for pulling up. Give me a minute, this is a lot."
+
+"That works," Leon said. "Keep it short, and maybe don't narrate the dirt."
 
 The Call of the Bones tag never left my HUD. I filed it away and stayed on my knee, eyes on Shiv.
 
 "What do you even want from me?" I asked, pushing myself back up onto one knee, my palm braced flat against the dirt for balance.
 
-"I don't have much time to talk," Shiv said, his tone shifting slightly, becoming more measured. "So I'll get to it. You should know what you're actually about to carry."
+"I don't have much time," Shiv said, his tone shifting, becoming more measured. "So I will be short. If you truly want the power to unite the goblin folk, I left pieces of my equipment scattered across Eryndal. One of them is already in the Kingdom of Lunarest, hidden deep within the heart of the city itself."
 
-"I'm listening," I said, my weight shifting slightly on my knee, trying to find a position that didn't make my legs shake from holding myself up against the drag.
+"Pieces of your equipment," I said, forcing my head up against the drag. "Where in the city?"
 
-"I wasn't always this," Shiv said, and something almost like a dry laugh moved through the ash. "I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest's own court, back when that meant something."
+"That much you will have to find yourself," Shiv said, and something almost like a dry laugh moved through the ash. "Look where the kingdom buries what it wants forgotten. I did something it would not forgive, and they hid what was left of me there."
 
-The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I dug my long fingers into the dirt to steady it.
+"What did you do?" I asked, my arm trembling under my weight.
 
-"I loved a queen who wasn't mine to love. The king didn't take kindly to that once it came out, and his court's mages made sure I understood it. What they did to me for it, they didn't call it a curse. They called it a correction."
-
-He gestured, vague and dismissive, at his own ash and smoke form, the shape of him flickering slightly at the edges.
-
-"As you can see, this is how the curse changed me, changed my whole way of thinking, that's for sure," Shiv continued. "A lot of dirt the kingdom doesn't want dug back up. I wasn't the first they'd done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I'd been alive. They just ran me out to join them."
-
-"Everywhere I went after that, it didn't matter where, it was the same," Shiv said, something harder settling into his voice. "A monster first. Anything else second, if I was lucky enough to get a second look at all. I decided I wasn't going to spend what was left of this life proving them right. Goblins weren't feral. We could be something civilized, something worth building. That's the only reason Myrrhwood exists at all."
-
-He paused.
-
-He was waiting for me to say something.
-
-I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the split seam of my sleeve with one fingernail, an idle fidget I only noticed once I'd started it.
-
-"Understand," Shiv said, his voice dropping slightly. "The court that cast me out wasn't righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I'm not interested in playing the villain of that story just to sound humble."
-
-*"Okay. So he's not the bad guy. Got it."* My brow had pulled down while I listened, and I made it ease.
-
-"There's more to it than that," Shiv said. "How I managed to hold the goblin clans together at all, that part you'll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn't. I leave what's left of my Warset to any goblin with an open mind enough to go looking for it."
+"If I told you everything that happened, I would fade before I gave you my warning," Shiv said. "I have been gone forty-five years, and what I know is scattered across Eryndal. Find it, if you truly want my tale. Some of it will serve you as you grow." The green eyes didn't blink, just burned steady in the smoke.
 
 I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
 
@@ -176,25 +164,23 @@ A new notification flashed at the edge of my vision, bright yellow bordered.
 
 **[STREAM HOSTED BY HGO OFFICIAL CHANNEL]**
 
-**[VIEWERS: 11 → 891]**
+**[VIEWERS: 11 → 142]**
 
-Everything in me went still.
+Leon's voice came back, close to a laugh. "HGO's official channel just hosted you. A hundred forty-two and climbing. Must be the world quest."
 
-*"Wait. HGO's main channel just hosted me."*
+"Hosted?" I said, low, keeping my eyes on Shiv. "Damn. That's a lot of pressure."
 
-The number kept climbing.
+"A hundred forty strangers watching you eat dirt," Leon said, dry as ever. "Don't mess it up."
 
-*"I can't take this back. Whatever happens here, everyone's going to see it."* A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
+A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
 
-"Alright," I said, my voice steadier now even through the drag. "So why me? You've got a whole camp of goblins out there. Why pull me in here specifically?"
+"Alright," I said, my voice steadier now even through the drag. "What's the warning? And why me, with a whole camp of goblins out there?"
 
 Shiv's burning green eyes stayed locked on my face.
 
-"Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "I've done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That's not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds."
+"The rot in that kingdom does not begin and end with the king," Shiv said, and the ash flickered again. "The princes are moving even now. If goblins do not find a standing sooner rather than later, and someone else takes the throne, the demi-humans will never be given another chance. As for why you, my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once."
 
-*"Guilds are probably watching. Everyone is."*
-
-"What I'm asking isn't small, either," Shiv continued. "It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you're at it. But that takes disciples."
+"To do what I'm asking, you will need strength, which is why I am giving you my gear," Shiv continued. "And it will take disciples."
 
 His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
 
@@ -202,19 +188,23 @@ His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
 
 *"Permission. He's asking, not telling."*
 
-I looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness.
+I looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness. Two goblins had backed him against a crate over a bowl of stew, and nobody in that camp had lifted a hand for him.
 
-*"If I say yes, this kid's in it too. I can't just click through this."* I rubbed my thumb along the edge of one long nail, a nervous motion I'd never had in my human hands.
+*"If I say yes, this kid's in it too."* I rubbed my thumb along the edge of one long nail, a nervous motion I'd never had in my human hands.
 
-I turned back to Shiv, met those burning green eyes, and made the call.
+"Would he be able to defend himself?" I asked, turning back to Shiv. "He's the kid they pushed around."
 
-"Yeah," I said. "I'm down."
+"As you grow in power, so will any of your disciples," Shiv said.
+
+I met those burning green eyes and made the call.
+
+"Then yeah," I said. "I'm down."
 
 Shiv nodded once, slow and deliberate.
 
 Shiv turned his full attention back to me, raising one hand, and a necklace materialized in the air between us. Small bones threaded on a worn leather cord, each one carved with symbols I didn't recognize. It hung there, suspended, waiting.
 
-"This was mine," Shiv said, his voice dropping lower. "Piece of what I was, before and after the change. You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
+"This was mine," Shiv said, his voice dropping lower. "Take it, and I will bless you with some of my power. You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
 
 My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
 
@@ -240,9 +230,13 @@ My hair had gone white. Not gray, not silver, pure white. My skin had shifted to
 
 **[THE FIRST DESCENDANT OF SHIV]**
 
-*"First. That means nobody else has this."* I raked my fingers back through the white hair and felt the odd new weight of it, lighter than my old locs and strangely cool against my fingers.
+*"First. That means nobody else has this."* I raked my fingers back through the white hair and felt the odd new weight of it, lighter than the wild green hair I'd had a minute ago and strangely cool against my fingers.
 
 Notifications came fast, stacking on top of each other in my vision.
+
+**[OBJECTIVE COMPLETE: SPEAK WITH SHIV]**
+
+**[WORLD QUEST REWARD: EXPERIENCE]**
 
 **[CALL OF THE BONES NECKLACE – WORLD]**
 
@@ -258,6 +252,8 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[PASSIVE UNLOCKED: WHISPERS OF SHIV]**
 
+**[SHIV'S BLESSING ACCEPTED]**
+
 **[RACE EVOLVED: GOBLIN → SHIV GOBLIN]**
 
 **[LEVEL 3 → LEVEL 8]**
@@ -268,11 +264,21 @@ Notifications came fast, stacking on top of each other in my vision.
 
 **[ABILITY GRANTED: RUNE PRIMING]**
 
-*"That's a great boost."* I already knew what I was attaching it to.
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
 
-**[VIEWERS: 891 → 3,982]**
+**[NEW OBJECTIVE: FIND THE REMAINING PIECES OF SHIV'S WARSET]**
 
-I pulled the allocation screen open, my mind already running the build.
+*"Five levels at once. That's the quest paying out, not just the necklace."* I already knew what I was attaching them to.
+
+*"Find the rest of the set, no hint, no marker. All I've got is the piece Shiv said is in Lunarest."*
+
+--------
+
+**[VIEWERS: 142 → 620]**
+
+"Six hundred and climbing," Leon said, quiet in my ear. "Everybody's piling in off the world quest, and chat keeps asking where the camp is. Don't say anything that gives it away."
+
+"Wasn't planning on narrating the map," I muttered, pulling the allocation screen open, my mind already running the build.
 
 Four into Wisdom. Six into Fortune.
 
@@ -320,49 +326,57 @@ Notifications came for Ru too, visible in my peripheral vision.
 
 **[ABILITY EVOLVED: GOBLIN GAS → TOXIC BREATH]**
 
-**[TITLE UNLOCKED: FIRST DISCIPLE OF SHIV]**
+**[TITLE UNLOCKED: DISCIPLE OF ELDER NYKRI]**
+
+*"Disciple of Elder Nykri. Huh. I wonder what comes with that."*
 
 *"Hobgoblin. Direct evolution. That's pretty cool."*
 
 Ru looked down at his own hands, flexing them slow, testing the new size and weight of himself.
 
-"Use it well," Shiv said, already starting to fade. "Both of you. They'll see you different now. Every goblin who's ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born decades after I died. It's in their blood, their memory. Don't waste it."
+"Make yours greater than mine," Shiv said, already starting to fade. "Use it well. Both of you. They'll see you different now. Every goblin who's ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born decades after I died. It's in their blood, their memory. Don't waste it."
 
 Then he was gone, the ash collapsing inward and disappearing entirely, and the freeze holding the rest of the world broke all at once, sound and motion rushing back into the tent.
+
+"Ru," I said, turning to him. "What did Sevish want?"
+
+Ru straightened to his new height, his voice low and steady. "Sevish sent me to bring you to the front. The camp is under attack."
+
+**[CALL TO ARMS: DEFEND THRASH CLAN CAMP]**
+
+A second line sat under the main quest, red where the quest was gold.
 
 I looked down at myself, still dressed in the same torn prisoner rags.
 
 I stepped up to the entrance, close enough now that both guards could see me, and both of them went completely still.
 
-The nearer guard's eyes dropped from my face to the necklace hanging at my throat, then tracked up to the white hair, and the flat, hostile line of his mouth came apart.
+The nearer guard's eyes dropped from my face to the necklace hanging at my throat, then tracked up to the white hair and the lighter skin, and the flat, hostile line of his mouth came apart. Something hummed under my skin, a faint pressure pushing outward that I had never felt in this body, and the second guard took half a step back before he seemed to know he had.
 
-"I'm taking Sevish's quest," I said, keeping my tone steady. "Go get him. Tell him I'm ready. Also tell him Shiv has given me his blessing."
+"Tell Sevish I'm ready," I said, keeping my tone steady.
 
 The guard didn't move right away, his mouth working like he was trying to form words that wouldn't come.
 
-"Shiv?" the guard finally managed, his voice coming out quieter than it had been a second ago.
+"Yes," he finally managed, his voice coming out quieter than it had been a second ago. "Yes, elder."
 
-"Yeah," I said, lifting the necklace slightly so the bones caught the dim morning light filtering through the tent flap. "In the tent. The necklace, plus my changes, and Ru, should be easily proof of that."
+He turned to the second guard without waiting for an answer, his voice tight. "Go. Get the chief. Fast."
 
-The first guard looked at the second guard, something passing between them.
+The second guard took off at a run, his boots kicking up dust as he cut through the goblins hurrying toward the palisade.
 
-"Go," the first guard said to the second, his voice tight. "Get the chief. Fast."
+I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see goblins on their way to the palisade slow as they passed, staring, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I felt every eye out there on my skin.
 
-The second guard took off at a run, his boots kicking up dust as he cut through the crowd that had started gathering outside.
+**[VIEWERS: 620 → 1,310]**
 
-I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see more goblins drifting closer, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I felt every eye out there on my skin.
+**[FOLLOWERS: 6 → 96]**
 
-**[VIEWERS: 3,982 → 6,804]**
+Leon came through low and a little stunned. "Thirteen hundred watching. Followers just hit ninety-six, and you started at six. They're not just watching, man, they're staying. Loop already has three clips of this camp. Keep your head down out there."
 
-**[FOLLOWERS: 6 → 580]**
+"Then I'd better not die in front of them," I said under my breath.
 
-*"People are actually following off this. Not just watching, following."*
-
-It took a couple of minutes before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
+It took a couple of minutes before Sevish and Wyx came through the running goblins fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
 
 "You've been," Sevish started, and didn't finish the sentence right away. "When. How long has this."
 
-"Just now," I said, cutting the confused Sevish off while stepping toward them, Ru following. "He came to me and explained the situation, the clans at Myrrhwood."
+"Just now," I said, cutting the confused Sevish off while stepping toward them, Ru following. "Shiv came to me. He wants the goblins standing together."
 
 Wyx's sharp amber eyes went from the necklace to my hair, to Ru's new towering frame, and back again.
 
@@ -384,34 +398,24 @@ Sevish held my gaze for a long moment, then something in his chest gave, most of
 
 "Wouldn't have said otherwise," Sevish said, his hand coming up to rest briefly on my shoulder. "You're an ally of Thrash. That held before. It holds more now. Let's move."
 
-We'd barely taken three steps toward the war tent when Leon's voice crackled through, distant and tinny.
+We'd barely gotten moving toward the war tent when Leon's voice came through, close and tight.
 
-"Hey, sorry to jump back in," Leon said, "but I'm gonna need to step away for a bit." A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
+"Hey. Good news, nobody's ever watched this arcade this hard. Bad news, the pod's running hot." A pause, like he was deciding how much to say. "Streaming load. I've got an override holding it, but that's a patch, not a fix. I called VRSA, he'll be here in ten to fifteen minutes, and he can't touch it while you're connected. I told you I'd pull you if it started cooking, so I'm going to have to pull you."
 
-"Feed's still recording the whole time, for what it's worth," Leon added. "Been watching. Honestly it's been like a movie over here. Didn't want to break in on any of it. Doesn't mean I'm not here, though. Anything you need, I'm still on the other end of this."
+The ash chill was still riding my skin, and I rubbed my arms once, nails scraping the rough fabric.
 
-Hearing him loosened something in my neck I hadn't known was tight.
-
-"Yeah, I'm good," I said out loud. "Take your time."
-
-"Appreciate it," Leon said. "Back shortly."
-
-The line went quiet.
-
-**[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
-
-I barely registered it. The ash chill was still riding my skin, and I rubbed my arms once, nails scraping the rough fabric.
+"Ten to fifteen," I said under my breath.
 
 I followed Sevish and Wyx through the open ground, Ru close at my shoulder, goblins parting around us as we moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
 
 We were maybe ten paces from the entrance when a goblin came sprinting through the gap between two tents, Kesh, one of the camp scouts, breathing hard, blood streaked across one sleeve that wasn't his own.
 
-"Chief," Kesh gasped, one hand braced against his knee, chest working hard for air. "Kesh bring news. Patrol line, east. Party hit it. Two dead already, before Kesh and the others even see them coming."
+"Chief," Kesh gasped, one hand braced against his knee, chest working hard for air. "Kesh bring news. Patrol line, east. Party hit it. Five dead already, before Kesh and the others even see them coming."
 
 I stopped and turned to face him square on.
 
-*"Dammit. That's not good. Has someone already found my location?"*
+*"They already found my location. Fuck. And I'm getting pulled in ten minutes. Worst timing possible."*
 
-**[VIEWERS: 6,804 → 7,392]**
+**[VIEWERS: 1,310 → 1,540]**
 
 **[END CHAPTER NINE]**

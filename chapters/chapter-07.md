@@ -1,445 +1,249 @@
-# Chapter Seven: The First Disciple
+# Chapter Seven: Consequences in Silence
 
-The void collapsed inward, light and sound folding together in that nauseating rush I still wasn't used to, and when the game world of Eryndal snapped back into focus, I was exactly where I'd left off.
+The shell hissed open, and the bell was still ringing in my head. *"That wasn't just for me. That was a public announcement. The whole server just heard a world quest go live, with my name on it."*
 
-**[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
+The room came back around me one piece at a time. The smell first, cigarette smoke and dust and plastic, the same as when I'd gone under. Warm lantern lamps hung low over the brick pillars, and steel beams crossed a dark ceiling above the wood paneling on the far wall. The pod stood tall and dark around me, cable bundles looping down its sides and a blue glow in the seams, Kazuhaya Tech stamped small near the base.
 
-**[CURRENT LOCATION: BLOODHURST, THRASH CLAN WAR CAMP]**
+My vision was blurry, the room smeared and dragging a half-beat behind my eyes every time I moved my head. My stomach swung like I'd stepped off a boat onto a roller coaster, one long lurch and then a drop. I swallowed twice. *"Okay. Rough, but I can work with rough."*
 
-**[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
+My own size hit me next. After the goblin, a little over six feet of me hung in a cradle built for a shorter man, shoulders jammed against the padded spine, arms heavy in the cuffs. My locs had worked half out of the tie while I was under, and they lay against the back of my neck and the headrest, weighing more than I remembered.
 
-The readout sat fixed at the top edge of my vision, clean white numbers I couldn't blink away.
+I popped the cuffs and stepped down off the platform and rolled my shoulders until something cracked. *"I'm stretching before I get in that thing next time. For real."* My backpack sat zipped against the nearest brick pillar where I'd shoved it before I went back in, the toolbox packed inside.
 
-Just like I left it. Ridiculously low. I really needed to start grinding or I wouldn't last in any PvP setting.
+The pod was another story. Heat rolled off the shell the way it had in the blackout, a thin thread of smoke leaking from a seam near the base. The cooling fan dragged in its housing with the same dying whine, and the two leads I'd bridged to the wall were warm to the touch. *"I'm surprised I even got through a session."* I dug the laptop out of the backpack just long enough to plug into the service port, then packed it away. The core read nineteen percent. *"It was twenty when I first logged in."*
 
-The blue UI screen disappeared the second I thought about dismissing it, responsive in a way that still felt weird, reading my intent before I'd fully formed it.
+*"If I want long sessions, it needs a new core."* There were no Kazehaya cores left. Dad's company had gone down with him, every part pulled after the accident. I rested my palm on the warm casing. He built this thing, and I was a few bad sessions from losing it.
 
-The war tent came back into focus around me slowly, canvas walls stained with smoke and age, the single oil lamp hanging from the center pole throwing uneven shadows that climbed the fabric every time the flame guttered. My head was resting on the bedroll I'd logged out on, straw crackling faintly beneath me as I shifted.
+I eased the drive out of the slot beside the headrest and shouldered the backpack off the pillar. Dad's manual was already inside with the letter. I pulled my phone out on the walk down the back hallway, floorboards creaking under my boots.
 
-A notification blinked into existence, soft green text.
+9:43 PM. Leon had said twenty minutes to closing, which left me seventeen. I opened the HGO Companion App and held the drive against the back of the phone.
 
-**[STATUS EFFECT: RESTED TRAVEL]**
+**[SCANNING...]**
 
-**[EFFECT: GRANTS USER 50% EXPERIENCE BUFF FOR ONE HOUR DUE TO SLEEPING IN A SAFE AREA]**
+**[DRIVE DETECTED]**
 
-So sleeping on a bedroll in a busted tent counted as safe for a goblin. That was almost insulting. I let out a short breath that might have been a laugh, sitting up slow, the straw crackling louder under the shift in weight. The buff procced once a day for an hour. I had to make sure that when I logged off I was somewhere I could actually get it. Whatever came out of today needed to be worth something once I was back out.
+**[LOGGING IN...]**
 
-I scanned the tent, letting my eyes adjust to the dim lamplight. I was still wearing the same torn prisoner rags, one shoulder split halfway down the seam, the fabric rough and scratchy against my green skin. The empty Goblin Gadget Belt sat at my waist, pouches hanging limp with nothing loaded yet.
+My account loaded, the goblin face of my avatar staring back at me from a small circle at the top of the screen. *"That's not the face I picked. Not that I picked it."*
 
-The kid was still here.
+**[NYKRI - LEVEL 3 - GOBLIN]**
 
-The smaller goblin, the one I'd stepped in for yesterday, was sitting near the tent flap, knees pulled up to his chest, waiting.
+*"Nykri. Still strange, seeing it written down."* A banner sat across the top of the home screen.
 
-The kid looked up the second my presence fully resolved, scrambling to his feet before either of us had said anything, his whole posture eager in a way that hit harder than I expected.
+**[WORLD QUEST ACTIVATED: CALL OF THE BONES | ACTIVATED BY: NYKRI]**
 
-Guess Sevish and the others had thrown him in here too.
+My name sat right there on the banner. *"They told everyone who. Not where."* I swiped past it, and my thumb wasn't quite steady.
 
-"You woke up," the kid said, his voice pitched slightly too high, cracking on the last word like he'd been holding his breath and hadn't let it out yet.
+Near the bottom of the page, under a small header, my spells sat listed in plain text, Goblin Gas and Goblin Flare. My inventory sat above them.
 
-"Yeah," I said, rolling my shoulders, my balance still settling back into the shorter goblin frame. "Head's kinda dizzy though."
+**[GOBLIN GADGET BELT - COMMON (LOCKED)]**
 
-I rubbed the back of my neck with one clawed hand, the motion automatic even though the proportions were wrong.
+**[GAMBLER'S EARRING - UNIQUE (EQUIPPED)]**
 
-"May I ask, when did you get placed in here?" I said, my eyes redirecting over to the kid.
+**[MINOR ELIXIR x2 - UNCOMMON]**
 
-The kid opened his mouth to answer, and froze mid-breath.
+I tapped the elixirs, and the listing opened.
 
-Not like he'd stopped talking. Like someone had paused him mid-frame, his whole body locking in place, one hand still halfway raised toward me, his eyes still open but not seeing anything anymore.
+**[MINOR ELIXIR | VALUE: 21,000 SHILLINGS EACH]**
 
-"Hey, you okay?" I asked, pushing myself up off the bedroll, straw scattering as my weight shifted. I took a step toward the kid, then stopped.
+*"Twenty-one thousand shillings for a mana potion? What's that in yen?"* I tapped the number, and a rate card slid up.
 
-The kid wasn't moving. Wasn't breathing. Just frozen.
+**[10 SHILLINGS = 1 HGO COIN]**
 
-That couldn't be normal.
+**[1 HGO COIN = ¥4]**
 
-The air changed before I saw anything.
+I ran it in my head. Eight thousand four hundred yen each. I confirmed the listing, already bracing to wait. The vials vanished almost immediately.
 
-A shift in pressure that had no sound attached to it, thick enough that I felt it press against my skin like an invisible hand closing around me. Every noise outside the tent cut off at once, the whole camp going silent in a way that made my pulse kick up hard before my brain had even caught up to why.
+*"That fast? Why?"*
 
-A notification popped at the edge of my vision, red-bordered.
+**[BUY ORDER MATCHED: 2 ITEMS]**
 
-**[WARNING: ANOMALOUS EFFECT DETECTED]**
+*"Buy orders. Somebody had already ordered them."*
 
-Warning signs couldn't be good.
+**[SOLD: 42,000 SHILLINGS]**
 
-Ash and smoke poured in through the gap in the tent flap, moving slow and deliberate. A wide-brimmed hat formed first out of the smoke, solid and detailed, then shoulders, broad and hunched, then burning green eyes that didn't blink, didn't waver, just stared straight at me.
+A second prompt rose over the first.
 
-**[GOBLIN SORCERER SHIV]**
+**[EXCHANGE SHILLINGS FOR HGO COINS?]**
 
-The nameplate read gold.
+I confirmed it, and the coins landed.
 
-Gold tag. World-tier. This was it.
+**[4,200 HGO COINS RECEIVED]**
 
-The kid behind me had gone completely still. The color around him had gone dull, washed thin and gray like the light itself had been dialed down. A fine mist crawled low across the packed dirt outside that hadn't been there a second ago.
+One more prompt followed, and it was the one that mattered.
 
-Three notifications stacked on top of each other in rapid succession, each one flashing brighter red than the last.
+**[CASH OUT HGO COINS?]**
 
-**[WARNING] [WARNING] [WARNING]**
+**[BANK ACCOUNT REQUIRED TO COMPLETE CASH OUT]**
 
-**[YOU HAVE BEEN STRUCK BY FLAMONTA – WORLD-LEVEL EFFECT]**
+I linked the account my WattsUp paychecks already hit, a few taps and a code texted to my phone, and the warning cleared.
 
-**[STATUS: SLOWED x4]**
+**[CASH OUT COMPLETE: ¥16,800 DEPOSITED]**
 
-**[CAUSE: PROXIMITY TO HIGH-LEVEL PRESENCE]**
+**[BANK BALANCE: ¥64,120]**
 
-The floor came up and hit me before I'd registered falling, my knees buckling hard, one clawed hand slapping flat against packed dirt to keep my face out of it. The impact jarred up through my wrist, sharp and immediate, and I tried to push myself back up but my body wasn't answering right, everything dragging like I was moving through water.
+I stood in the back hallway of Sakura Arcade with my chest warm and read the number a third time. *"First one. Definitely not the last."*
 
-What the hell.
+I couldn't walk into the apartment and tell Chiyo I was just playing a game. She'd let me drop a year of school after Dad and Mom, and she'd let it ride because I was working under Gato, and I lived under her roof for next to nothing. As long as I was a kid, she had the last word. If I wasn't at WattsUp and I wasn't at Tochi, she'd ask what I was doing with my time, and the honest answer sounded like a boy wasting his life. I needed a job she could picture and money she could see.
 
-I tried to speak and my mouth moved half a second late, the words coming out sluggish and wrong.
+I backed out of the app and opened Loop. My own profile loaded first. I changed my handle to Nykri to match the game, then picked the goblin profile picture from my HGO character profile and made sure it carried across. That was it.
 
-Slowed times four. I could barely move. If this went bad I was locked out for three days, and I didn't have three days to spare with Crownfall coming.
+Then I checked what was trending in gaming and entertainment. My name and the World Quest sat right there, glittering with reposts and posts about me. A few big heads were already talking about it, Dosuke_AI among them.
 
-My vision swam slightly at the edges, colors bleeding together, and I forced myself to breathe slow through my nose, trying to ground myself in something real. The smell of smoke and old canvas, the rough texture of packed dirt under my palm.
+*"I have to get back here early in the morning."* The feed kept refreshing under my thumb, my name sliding up it again and again.
 
-Half expecting to see it dropping, I made myself glance at my health anyway.
+I swapped out of Loop and opened my browser, then dug the address out of an old receipt I'd saved for the EB's parts. It was a marketplace Dad used to buy from, more eBay than shop, where people sold tech parts that weren't supposed to be sold. I hadn't been on it in years. Everywhere else I'd looked tonight had turned up nothing, so I searched it for processor cores. Nexus cores were locked behind patents. The only ones listed were Kuroshio capsule cores, and the price stopped me cold.
 
-**[HEALTH: 50/50] [STAMINA: 25/25] [MANA: 25/25]**
+**[KUROSHIO CAPSULE CORE | ¥860,000]**
 
-"It just slowed me down," I muttered. "Still have full health."
+*"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."*
 
-The realization eased the pressure in my chest slightly, even though any attack from something of this magnitude would wipe me.
+I couldn't learn that on a laptop in a back room, and I couldn't learn it working in Gato's shop either. The only places I knew that taught anything like it at a high level were Tochi or some other tightly run university, and Tochi was the one I had a way back into. Even then, lab access wasn't handed out. Most students never got in unless they sat on the student council, so I'd have to make some deals. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
 
-The ash and smoke figure stepped closer, each movement smooth and deliberate, completely unaffected by whatever force was pinning me to the ground.
+I knew I had to tell Leon what was going on, but I had to figure out how to do it without it feeling like I'd already broken his trust. The clock said 9:52 PM, so I started toward the front. A draft from the street door stirred my locs as I threaded between the old desks and dark monitors, all six feet and change of me.
 
-"What do you want from me?" I managed, forcing my head up slightly, just enough to meet those burning green eyes through the haze. The words came out slower than I meant them to, dragging against the air.
+Leon was at the counter under the lantern lamps, tablet in one hand, rubbing the bridge of his nose under his glasses. The monitor on the front desk beside him cycled through its screensaver, humming.
 
-"You're the one who said we have bigger problems than fighting each other," the voice said, and it didn't come from one place. It came from everywhere at once, carried on the ash and the smoke and the air itself, not loud but impossible to ignore, resonating in my chest.
+"You look like you got hit by a truck." He set the tablet down and gave me a once-over. "Did everything go well in there?"
 
-Wait, I'd said that yesterday. I froze, thinking about the interaction I'd had with Sevish and Wyx after I'd been captured. To Sevish. After the fight. How did he know that?
+I leaned on the counter, my legs shaky from the pod. "Kinda. My first VR experience kinda did it."
 
-I mumbled the words under my breath, trying to piece it together.
+"Everything okay?" He kept his eyes on my face.
 
-I tried to push myself up again, my arm shaking with the effort, and managed to get one knee under me before the pressure doubled and shoved me back down, my cheek hitting dirt this time. The taste of earth and old smoke filled my mouth.
+I couldn't give him a shrug this time. "No."
 
-This was world-tier content. I had to play this right.
+Worry crossed his face, quick, before he smoothed it over. I had to be honest with him. I was the one who'd caused it.
 
-"If you're gonna kill me just do it and stop fucking around," I said, forcing the words out even through the drag. My pulse hammered, real adrenaline spiking even though I knew this was VR.
+"All right." He turned the tablet a quarter turn on the counter. "What's wrong with the pods?"
 
-The figure stepped even closer, ash trailing behind him like smoke off a dying fire, and the temperature in the tent dropped noticeably. Cold seeped through the canvas walls, sharp enough that I felt it prickle across my skin.
+I straightened off the counter. "That's what I came to talk to you about."
 
-"Calm yourself," the voice said, quieter now, almost amused. "Calm yourself, T-Drag. Or can I call you T? Seems easier on my tongue. If I meant to kill you, you'd already be dead. This is just what standing near me costs, for now."
+"Okay, then." He folded his arms. "Go ahead."
 
-He knew my username. And he'd just shortened it. Forums said quest NPCs responded to keywords, but this felt different. Either way, world-tier meant gear, which meant money, which meant this was the break I needed.
+I made myself say it plain. "I hotwired the pod tonight. I had to override the slot with my dad's manual to get the drive to run. I'm not saying that's what took the power out earlier. I don't know what did. But I'd be lying if I said it couldn't have been me."
 
-My jaw tightened slightly, my mind working faster now.
+Leon went still, and for a second the only sound was the front desk monitor humming. The frustration showed plainly on his face, but he swallowed it down and waited before he spoke, his voice low and level. "I told you that pod only plays retro games. I told you what happens if you push something newer through it. That's the only moneymaker I've got."
 
-Sixteen thousand yen yesterday off two elixirs. Gambler's Gambit procced. A crit one-shot two level threes. The math had already checked out once. If this quest chain paid the same way, I was in. I dragged my tongue across my teeth, the dirt still gritty there, the small sharp points of them catching on it in a way my old mouth never would have.
+"It still runs," I said, keeping my hands where he could see them.
 
-A small notification ticked in the corner of my vision, easy to miss against everything else.
+"You started work on my machine without asking." His fingers pressed white against the edge of the counter. "Typically I'd throw out anyone who touched that. So what's stopping me from kicking you out right now? You must have a plan, or you wouldn't have walked up here. Or did you just come to tell me my stuff is broken?"
 
-**[VIEWERS: 3 → 11]**
+I stayed where I was. "I checked it over before I stepped out. The core is nearly dead, the drive slot's built for older drives, and the wiring's cheap. It read twenty percent when I first logged in, and nineteen after one session."
 
-Then, a breath later, **[VIEWERS: 11 → 24]**.
+"So the one session drained it?" He tilted his head, doing the math behind his glasses, and it wasn't making him happier.
 
-The stream was live. People were watching. I needed to say something.
+"If I'm going off that, a point a session. About twenty logins, maybe fewer." I leaned in over the counter. "Dad left notes and schematics on the Kazehaya VR pods, so I know what I'm looking at. I'm not buying cores. I'm building one. From scratch it would've been brutal, but you've got two pods here to work from, and I think a core that can carry a newer title is doable. My Haya EB has lasted years, and all I've done is upgrade it. Dad's work doesn't die."
 
-"Hey," I said out loud, quick, my voice still dragging slightly through the slow effect. "Thanks for pulling up. Give me a minute, this is a lot."
+"Building it with what?" Leon rested a forearm on the counter.
 
-The Call of the Bones tag never left my HUD. I filed it away and stayed on my knee, eyes on Shiv.
+"I don't have the lab or the parts. Not yet." I looked at the lamp over the counter, buzzing faintly, instead of at him.
 
-"What do you even want from me?" I asked, pushing myself back up onto one knee, my clawed hand braced flat against the dirt for balance.
+Leon laughed once, short and humorless. "A lab and parts like that aren't cheap, and I'd know. Are you rich or something, kid?"
 
-"I don't have much time to talk," Shiv said, his tone shifting slightly, becoming more measured. "So I'll get to it. You should know what you're actually about to carry."
+"No." I met his eyes again. "But Tochi has both."
 
-"I'm listening," I said, my weight shifting slightly on my knee, trying to find a position that didn't make my legs shake from holding myself up against the drag.
+"Tochi." He said it flat, with an edge. "What do you know about Tochi?"
 
-"I wasn't always this," Shiv said, and something almost like a dry laugh moved through the ash. "I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest's own court, back when that meant something."
+"I was enrolled there." I took my wallet out and slid my old student ID across the counter. It was last year's, the corners gone soft, my face a little younger on it. "I haven't been in a while. After my dad died, I took a break."
 
-The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I flexed my clawed fingers into the dirt to steady it.
+Leon picked the card up and read it, then read it again. "The Tochi Academy." He said it like the name had weight in his hand. "Merit entry only. Every top student in the country is fighting for a seat." He slid it back. "And you were in."
 
-Okay. This had to be a quest hook. That was my first thought, hearing it.
+"Yeah." I put it away.
 
-"I loved a queen who wasn't mine to love. The king didn't take kindly to that once it came out, and his court's mages made sure I understood it. What they did to me for it, they didn't call it a curse. They called it a correction."
+"That makes sense, then." His shoulders came down a fraction. "I'm not going to judge anybody for missing school. My sister's the same."
 
-He gestured, vague and dismissive, at his own ash and smoke form, the shape of him flickering slightly at the edges.
+He studied me. "An HGO drive running on one of the Kazehaya pods, especially one that old, is impressive. You really got that running?"
 
-"As you can see, this is how the curse changed me, changed my whole way of thinking, that's for sure," Shiv continued. "A lot of dirt the kingdom doesn't want dug back up. I wasn't the first they'd done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I'd been alive. They just ran me out to join them."
+I gave a small shrug. "Barely."
 
-"Everywhere I went after that, it didn't matter where, it was the same," Shiv said, something harder settling into his voice. "A monster first. Anything else second, if I was lucky enough to get a second look at all. I decided I wasn't going to spend what was left of this life proving them right. Goblins weren't feral. We could be something civilized, something worth building. That's the only reason Myrrhwood exists at all."
+He let a breath out through his nose. "So going to Tochi is the only way to get that done?"
 
-He paused, and something in the pause felt deliberate.
+I rubbed the back of my neck. "That's my lead. Unless I want to spend a shit ton of yen on a temporary fix. That's not bad if you want the pods up faster, but with the traffic you'd get with HGO and VR in the same sentence, a core like that wouldn't last a week, going by what I've tested."
 
-He was waiting for me to say something.
+"I see." Whatever anger he'd been holding ran out of places to go. "I guess you're not just a kid being hopeful, then. You really thought this out." His voice dropped. "I'm going to be honest with you. Those pods are the only thing that's drawn any money or attention here lately, even if it's not the attention most places want. If the one that works stops working, I've got nothing left but a retro arcade." He thumbed the tablet back to life, nervous, and let it dim again. "I don't love being told after the fact. But I'm not in a position to turn down help, so I'm gambling on this too."
 
-I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the split seam of my sleeve with one claw, an idle fidget I only noticed once I'd started it.
+Leon took the cigarette from behind his ear and lit it, turning his head to let the smoke out toward the window, away from me, the way you do around somebody younger. He took a deep breath, and for a moment I didn't know what was going to come out of his mouth. Then he took another drag and spoke.
 
-"Understand," Shiv said, his voice dropping slightly. "The court that cast me out wasn't righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I'm not interested in playing the villain of that story just to sound humble."
+"All right. I've got a proposition for you." He straightened. "My sister Arya ran a guild and got it into the top eight last season, so I know bits and pieces of how this works from trying it with her. Some guild drama got in the way, and I had to pull back, or it would have affected the business." He tapped ash into the saucer by the register. "It's going to take time, I know. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector tomorrow. If you're serious about getting those pods up, how long before profit starts coming in?"
 
-Okay. So he wasn't the bad guy. Got it. My brow had pulled down while I listened, and I made it ease.
+"Depends." I thought about how little I actually knew about this goblin. "I'm still learning the class. I know the game, not what this build does yet. If I have the proper time, I think I can make it, and there's more riding on it than I can say right now." It came out surer than I felt.
 
-"There's more to it than that," Shiv said. "How I managed to hold the goblin clans together at all, that part you'll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn't. I leave what's left of my Warset to any goblin with an open mind enough to go looking for it."
+Leon took another drag. "More than you say." The smoke hung between us a second. "Mhm. What do you mean by that?"
 
-Warset. That was the gear chain. Multiple pieces. This wasn't just one quest, this was a whole chain. I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
+I looked at the lamp, buzzing faintly, and then back at him. "You said you picked up bits and pieces from your sister's run." I let it hang. "So if I told you I ran across a World Quest..."
 
-A new notification flashed at the edge of my vision, bright yellow bordered.
+Leon didn't say anything. The silence ran long enough for the lamp to buzz twice. Then he woke the tablet, thumbed to the trending page, and read the name off the screen like he needed to see it written down.
 
-**[STREAM HOSTED BY HGO OFFICIAL CHANNEL]**
+"Well, goddamn." He let the smoke out slowly and looked up at me, and for the first time all night he looked impressed. "Nykri. That makes sense why you'd gamble on all of this."
 
-**[VIEWERS: 24 → 316]**
+"I don't play the game. If it wasn't for my sister, I wouldn't know much about it." He turned the cigarette over in his fingers. "But I know most of the top guilds that ever got a World Quest saw money out of it, even the ones that never saw a single drop. People pay to watch something that can't happen twice."
 
-Then, half a second later, **[VIEWERS: 316 → 891]**.
+Leon pressed the cigarette out in the saucer, slowly, and didn't reach for the tablet. His eyes went to the dark hallway and stayed there a second. "If we're going to work together, you can't do what you did today. I have to be on top of things from the start." He finally looked at me. "I know you gambled coming in here, and I'm not going to say I'm happy about it. But I feel like we can really do something with this, if we're on the same page."
 
-My breath caught.
+I'd known that part was coming, and he had every right to say it. It landed square, and I let it. "You're right," I said. "I should've come to you before I touched anything."
 
-Wait. HGO's main channel had just hosted me. Everyone watching their feed had just been redirected here.
+"Come in at nine, nine-thirty when we open." He rubbed the bridge of his nose. "Open to close, with the booth monitor running and me watching it. We can work out the paperwork if any's needed. When the second one's up, it's ours. It stays quiet until the clearance comes through." He said it fast, like a man reading out the odds on a bet he'd already placed.
 
-The number kept climbing. **[VIEWERS: 891 → 1,247]**.
+*"Good. Now I can focus on the next step. Getting back into Tochi, and this World Quest. Then Mom."* My thoughts ran back to why I was doing all this. Our family needed her.
 
-I couldn't take this back. Whatever happened here, everyone was going to see it. A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent as if the viewers were standing in it.
+"I'll get it done," I said, and held his eyes until he nodded.
 
-**[FOLLOWERS: 6 → 94]**
+"I believe you." He walked me to the door. The sign flipped behind me and the lock clicked.
 
-People were actually following off this. Not just watching, following.
+Outside, I stowed the backpack in the rear case, but before I pulled the helmet on, I opened my thread with Chiyo. Her last message was the one about Tochi, my thumbs-up still under it, answering nothing. I typed it out.
 
-"Alright," I said, my voice steadier now even through the drag. "So why me? You've got a whole camp of goblins out there. Why pull me in here specifically?"
+**[I want to go back to Tochi.]**
 
-Shiv's burning green eyes stayed locked on my face.
+I sent it before I could argue myself out of it. Then I pulled the helmet on, pressed my thumb to the touchscreen, and waited out the scan until the dash lit green. The motor hummed steady under me on the new battery I'd put in. *"Good. It's holding."*
 
-"Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "I've done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That's not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds."
+Two things to deal with on the way home. The hospital, then whatever Chiyo said back. The ride ran on muscle memory, my hands steady on the grips, the city blurring past in orange and white, the quiet it only got after the dinner crowds went home.
 
-He was talking about yesterday. The camp. Stepping in for the kid. That had triggered this.
+The hospital came up on my left, white-lit and too clean, HANAMIZUKI GENERAL in blue letters over the entrance. My phone buzzed against my ribs before I'd killed the motor. Chiyo.
 
-**[VIEWERS: 1,247 → 1,803]**
+**[Chiyo: That's great, Tatsu. What changed?]**
 
-The chat window was moving too fast to read now, lines stacking on top of each other, questions I couldn't answer yet. The glow of it pressed at the edges of my eyes and I squinted, the letters smearing faster than I could track them.
+I read it twice, once for the words and once for what she hadn't bothered spelling out, and put the phone away. Mom first. I took the stairs two at a time, and the antiseptic smell hit me before the second floor landing, like my body had already memorized the building.
 
-Guilds were probably watching. Everyone.
+Mom's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
 
-"What I'm asking isn't small, either," Shiv continued. "It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you're at it. But that takes disciples."
+She looked smaller than I remembered. Three years in that bed, and every visit took a little more of her. Six foot two, a volleyball star who used to duck under doorframes and drive a ball through a block, and the bed had let the air out of her like a ball left too long in the gym. Her cheeks had hollowed, and her wrist lay thin on a blanket that lay flat where it should have lifted. The IV was doing the eating for her now, and it showed. Monitors beeped quiet and steady, the IV drip slow and regular, her face turned toward the window.
 
-His eyes moved past me, settling on the kid frozen mid-step by the tent flap.
+I pulled the chair close and sat, elbows on my knees. "Hey, Mom." I kept my voice low. "I know it's been a minute."
 
-"That one's already halfway there without knowing it," Shiv said, something almost warm creeping into his tone. "I'd like your permission before I go any further with him. He's yours to vouch for, not mine."
+The monitors kept beeping. "I found a way to finally help, Mom." A braided loc had slipped down over her forehead, out of place the way mine always got, and my hand went to it before I thought, tucking it back behind her ear. "Just a bit more time." My voice caught, and I let it. "You're going to get better. And the twins... they've gotten so big. We miss you, Mom."
 
-Permission. He was asking, not telling.
+I left my hand against her hair a second longer than the loc needed.
 
-I looked back at the kid, caught mid-motion, his whole body locked in that same unnatural stillness.
+"I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, turned up and empty between my knees. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
 
-If I said yes, this kid was in it too. I couldn't just click through this. I rubbed my thumb along the side of one claw, a nervous motion I'd never had in my human hands.
+"I'm gonna figure it out. I always do." I said it to the window as much as to her. I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
 
-I turned back to Shiv, met those burning green eyes, and made the call.
+The nurses' station sat at the bend in the corridor, one lamp on over a chart. I was almost to the corner when I heard Mom's name, and I stopped short, out of the lamp's reach, with the wall between us.
 
-"Yeah," I said. "I'm down."
+"Kazehaya, Ohema." Ms. Sugiyama, the nurse who'd known me by name since Mom was first admitted, ran a finger down the page of the file open between them. "Here, in Dr. Inoue's notes. Six months. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
 
-Shiv nodded once, slow and deliberate.
+I pressed back against the wall at the corner. They hadn't seen me.
 
-**[VIEWERS: 1,803 → 2,456]**
+"And this." The second nurse turned the page and tapped a line near the bottom. "The family contact asked us to keep the prognosis quiet. Chiyo. She didn't want the family worrying."
 
-Shiv turned his full attention back to me, raising one hand, and a necklace materialized in the air between us. Small bones threaded on a worn leather cord, each one carved with symbols I didn't recognize. It hung there, suspended, waiting.
+"I know," Ms. Sugiyama said. She closed the file and squared it against the edge of the desk. "But that boy deserves to know."
 
-"This was mine," Shiv said, his voice dropping lower. "Piece of what I was, before and after the change. You wear it, you're not just a goblin anymore. You're something closer to what I used to be. Do you want that? Say it plain. I won't take the choice from you."
+"Not our call," the second nurse said, already reaching for the next chart.
 
-World-tier item. Bound, so I couldn't sell it. But if it was anything like yesterday's drops, everything that came with it was worth more than the item itself.
+Their voices dropped as they moved off down the opposite hall, and I stood alone in the corridor, hearing the words again in the same order.
 
-My mind ran the calculation fast. My leg had started to cramp from kneeling, and I shifted onto the other knee without taking my eyes off the necklace.
+*"She knew and she didn't tell me. Why?"*
 
-Sixteen thousand off two potions. A World Quest paid better than random trash loot. This was the shot.
+The anger came fast and clean, hotter than anything I'd felt since Dad's funeral, and it dragged all of that back up with it. I couldn't think straight. I stood there trying to pin it together. I'd known things were bad for a while, but why hadn't she told me?
 
-"I want it," I said, my voice clear. "Yes."
+She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
 
-"Then take it," Shiv said.
+I took the stairs down hard, trying not to run into either of the nurses, and went out the back exit, which meant walking all the way around the building in the cold to reach the lot. The EB sat where I'd left it. I pressed my thumb to the touchscreen, the dash took its half-second to read my print and lit green. I pulled my phone back out. Chiyo's question was still sitting there.
 
-I reached out, slow, my clawed hand moving through the dragging resistance of the slowed air, and my fingers closed around the necklace.
+*"What changed?"*
 
-The second my skin touched the bones, the world tilted.
+I sent back one word.
 
-Heat flooded through me, not painful but overwhelming, like something was unraveling me from the inside out and stitching me back together in the same breath. My vision whited out completely for half a second, every sense overloading at once, and when it came back everything felt different. Lighter. Sharper. Clearer.
-
-**[FLAMONTA – EXPIRED]**
-
-The debuff was gone. I could move again.
-
-My legs answered immediately, clean and responsive.
-
-I caught my reflection in the water barrel near the tent entrance.
-
-My hair had gone white. Not gray, not silver, pure white. My skin had shifted too, the green a shade lighter now, paler at the edges. The thing that struck me most was the new purple title glowing above my head.
-
-**[THE FIRST DESCENDANT OF SHIV]**
-
-First. That meant nobody else had this. I raked my fingers back through the white hair and felt the odd new weight of it, lighter than my old locs and strangely cool against my claws.
-
-Notifications came fast, stacking on top of each other in my vision.
-
-**[CALL OF THE BONES NECKLACE – WORLD]**
-
-**[BOUND ITEM – CANNOT BE DROPPED OR TRADED]**
-
-**[+5 WISDOM]**
-
-**[RACIAL PENALTY NEGATED: WISDOM RESTRICTION REMOVED]**
-
-**[ABILITY UNLOCKED: BONE SURGE]**
-
-**[SPIRIT MAGIC PATH UNLOCKED: SHAMAN'S VEIL]**
-
-**[PASSIVE UNLOCKED: WHISPERS OF SHIV]**
-
-**[RACE EVOLVED: GOBLIN → SHIV GOBLIN]**
-
-**[LEVEL 2 → LEVEL 7]**
-
-**[+10 DISCIPLINE POINTS AVAILABLE]**
-
-**[ABILITY EVOLVED: GOBLIN FLARE → SHIV-TOUCHED FLARE]**
-
-**[ABILITY GRANTED: RUNE PRIMING]**
-
-That was a great boost. I already knew what I was attaching it to.
-
-**[VIEWERS: 2,456 → 3,982]**
-
-I pulled the allocation screen open, my mind already running the build.
-
-Four into Wisdom. Six into Fortune.
-
-I split the points fast, didn't touch Power, Courage, or Speed. My eyes ached from the glare of the screen, and I blinked hard twice to clear them.
-
-The new passive sat at the bottom of the list.
-
-**[WHISPERS OF SHIV – PASSIVE]**
-
-**[GARRISON CAPACITY: 1 / 1 (SCALES WITH LEVEL)]**
-
-**[ABILITY GRANTED: CALL OF COMMAND]**
-
-One companion slot. And the kid was about to fill it.
-
-Shiv raised one hand toward the kid, and the freeze broke around him alone. The kid staggered forward half a step, blinking hard, his breath coming fast.
-
-"What," the kid started, his voice cracking.
-
-"Your name," Shiv said, his tone gentle but firm. "I'll need it for this to take properly."
-
-The kid opened his mouth, and nothing came out.
-
-He didn't have one.
-
-"Runt," I said, the word coming out before I'd fully decided to say it. It caught halfway through my own mouth, the sound folding into something shorter. "Ru. That's what I'm calling him. Ru."
-
-Shiv's burning green eyes settled on the kid.
-
-"Ru, then," Shiv said, raising both hands.
-
-Ru didn't answer, couldn't seem to find the capacity for it.
-
-The change hit fast.
-
-Ru's frame cracked outward, the sound of bone snapping and reforming audible even over the muffled silence pressing down on the camp outside. His small clawed hands widened, fingers lengthening, shoulders squaring off and broadening, his spine stretching upward until he wasn't a kid anymore, wasn't small anymore, standing taller than me now, by a full head.
-
-Notifications came for Ru too, visible in my peripheral vision.
-
-**[SHIV'S BLESSING – GRANTED DIRECTLY]**
-
-**[RU: GOBLIN → HOBGOBLIN]**
-
-**[LEVEL 1 → LEVEL 5]**
-
-**[ABILITY EVOLVED: GOBLIN GAS → TOXIC BREATH]**
-
-**[TITLE UNLOCKED: FIRST DISCIPLE OF SHIV]**
-
-Hobgoblin. Direct evolution. That was pretty cool.
-
-Ru looked down at his own hands, flexing them slow, testing the new size and weight of himself.
-
-"Use it well," Shiv said, already starting to fade. "Both of you. They'll see you different now. Every goblin who's ever carried even a piece of what I looked like knows it on sight, even the ones who never met me, even the ones born decades after I died. It's in their blood, their memory. Don't waste it."
-
-Then he was gone, the ash collapsing inward and disappearing entirely, and the freeze holding the rest of the world broke all at once, sound and motion rushing back into the tent.
-
-**[VIEWERS: 3,982 → 5,127]**
-
-The chat window was a blur now, too fast to track.
-
-I looked down at myself, still dressed in the same torn prisoner rags, nothing about my clothes matching what my hair and my skin and the bones rattling softly at my throat were telling me had just happened.
-
-I stepped up to the entrance, close enough now that both guards could see me, and both of them went completely still.
-
-The nearer guard's eyes dropped from my face to the necklace hanging at my throat, then tracked up to the white hair, and the flat, hostile line of his mouth came apart, confusion shifting into something closer to shock.
-
-"I'm taking Sevish's quest," I said, keeping my tone steady. "Go get him. Tell him I'm ready. Also tell him Shiv has given me his blessing."
-
-The guard didn't move right away, his mouth working like he was trying to form words that wouldn't come.
-
-"Shiv?" the guard finally managed, his voice coming out quieter than it had been a second ago.
-
-"Yeah," I said, lifting the necklace slightly so the bones caught the dim morning light filtering through the tent flap. "In the tent. The necklace, plus my changes, and Ru, should be easily proof of that."
-
-The first guard looked at the second guard, something passing between them.
-
-"Go," the first guard said to the second, his voice tight. "Get the chief. Fast."
-
-The second guard took off at a run, his boots kicking up dust as he cut through the crowd that had started gathering outside.
-
-I stayed where I was, just inside the tent entrance, Ru close at my shoulder. Through the gap in the flap I could see more goblins drifting closer, murmuring, pointing, none of them willing to come within arm's reach of the tent itself. I wiped my damp palms down the rags and felt every eye out there like heat on my skin.
-
-**[VIEWERS: 5,127 → 6,804]**
-
-**[FOLLOWERS: 94 → 580]**
-
-A couple of names snapped into focus out of the scroll before I lost the thread of it entirely. One handle I half-recognized, something about the phrasing too familiar to be a stranger, a kid clearly trying too hard to sound older than he was. Taji? I didn't say it out loud, didn't want to know for sure badly enough to ask. If it was him, it was better I stayed quiet about it too. My stomach turned over, and I pressed a hand flat against it as if that could settle anything.
-
-The other name I didn't have to guess at.
-
-Arya.
-
-My thoughts raced for the two minutes it took before Sevish and Wyx came through the crowd fast, the second guard trailing behind them. When Sevish got close enough to see me standing just outside the tent entrance, white hair, lighter skin, the necklace visible at my throat, Ru looming a full head taller than he'd been that morning, he stopped walking entirely.
-
-"You've been," Sevish started, and didn't finish the sentence right away. "When. How long has this."
-
-"Just now," I said, cutting the confused Sevish off while stepping toward them, Ru following. "He came to me and explained the situation, the clans at Myrrhwood."
-
-Wyx's sharp green eyes went from the necklace to my hair, to Ru's new towering frame, and back again.
-
-"Interesting. Very interesting," Wyx said, her voice pitched higher than usual. "You're both marked. That's not a small deal." She looked at Ru, who stumbled at the glance.
-
-"Don't fully know myself," Ru said, his voice deeper now than it had been before the change.
-
-"If this isn't the sign to come back home, I'm not sure what is," Wyx said, mostly to Sevish. "Do you understand what this means, brother?"
-
-Sevish held my gaze for a long moment, then let out a breath that was most of the way to a laugh.
-
-"War tent," Sevish said, his tone shifting. "Now. Before the whole camp starts asking questions I don't have answers for standing out here."
-
-**[PRISONER STATUS REMOVED]**
-
-**[MOVEMENT RESTRICTION LIFTED]**
-
-"He's coming with me," I said, nodding toward Ru.
-
-"Wouldn't have said otherwise," Sevish said, his hand coming up to rest briefly on my shoulder. "You're an ally of Thrash. That held before. It holds more now. Let's move."
-
-We'd barely taken three steps toward the war tent when Leon's voice crackled through, distant and tinny.
-
-"Hey, sorry to jump back in," Leon said, "but I'm gonna need to step away for a bit." A pause, like he was deciding how much to explain. "The pod started overheating on me, probably all the streaming load. Got an override running to keep it from shutting down outright, but that's a patch, not a real fix. VRSA's inspector is swinging by to check on it, but he can't actually work on it while you're still connected, a pod doesn't open up mid-dive. Just checking it's still holding for now."
-
-He'd been quiet this whole time. He hadn't said a word during the Shiv scene, hadn't chimed in with anyone on his side either.
-
-"Feed's still recording the whole time, for what it's worth," Leon added. "Been watching. Honestly it's been like a movie over here. Didn't want to break in on any of it, we agreed I'd keep things low-key while Arya's still around. Doesn't mean I'm not here, though. Anything you need, I'm still on the other end of this."
-
-Good to know he was actually keeping his side of it. My shoulders dropped, the tension I hadn't known I was carrying easing out of my neck.
-
-"Yeah, I'm good," I said out loud. "Take your time."
-
-"Appreciate it," Leon said. "Back shortly."
-
-The line went quiet.
-
-**[OPERATOR STATUS: LEON TEMPORARILY AWAY. MONITORING CONTINUES.]**
-
-I barely registered it. There wasn't room left in my head for anything that wasn't standing directly in front of me right now. The ash chill was still riding my skin, and I rubbed my arms once, claws scraping the rough fabric.
-
-I followed Sevish and Wyx through the open ground, Ru close at my shoulder, goblins parting around us as we moved. The war tent sat at the far edge of camp, bone totems carved into the posts, the flap already pulled back.
-
-We were maybe ten paces from the entrance when a goblin came sprinting through the gap between two tents, Kesh, one of the camp scouts, breathing hard, blood streaked across one sleeve that wasn't his own.
-
-"Chief," Kesh gasped, one hand braced against his knee, chest working hard for air. "Kesh bring news. Patrol line, east. Party hit it. Two dead already, before Kesh and the others even see them coming."
-
-My whole posture changed, shoulders squaring.
-
-Dammit. That wasn't good. Had someone already found my location?
-
-**[VIEWERS: 6,804 → 7,392]**
+**[Me.]**
 
 **[END CHAPTER SEVEN]**

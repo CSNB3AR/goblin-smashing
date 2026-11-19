@@ -1,259 +1,207 @@
-# Chapter Five: Consequences in Silence
+# Chapter Five: Who Did All This?
 
-The pod hissed open and the real world came back wrong.
+The blade split the air an inch behind my ear.
 
-Sound first, the low hum of Sakura Arcade's overhead lights where there'd been fire and wind and thirty goblins doing whatever goblins did at midnight. Then weight, my body settling into the padded interior with legs that were suddenly too long and hands that were suddenly too big. Then smell, old electronics and carpet cleaner instead of woodsmoke and whatever that stew had been.
+I didn't look back. Short, choppy strides, my short legs stretching out with every burst, each push shooting up through my thighs, the wind raking my hair back. I cut between the big tent and a smaller pale one, and the firelight strobed across the canvas as I passed. I'd never felt this quick running in real life. *"I could get used to this."* The Speed points weren't just a number on the sheet.
 
-I lay there a second longer than I needed to, staring at the curved shell of the pod above me.
+The glow thinned out the farther I got from the fires, and my eyes took a second to catch up with the dark. Behind me there were only two silhouettes, thrown long by the firelight and still coming. Cover in a camp was whatever was lying around: barrels, crates, four tents huddled around the big one. I ducked in beside a stack of barrels and waited. The boots had fallen behind. I'd put real distance on two enforcers at a full sprint.
 
-Okay. That was going to be a thing every single time I logged out.
+I looked down at my rags, and at the bare feet under them. The adrenaline had been covering for me, and now that I'd stopped the soles stung, raw from the dirt and gravel. *"I need shoes. I can't run barefoot much longer."*
 
-I sat up slow, pulled the visor off, set it on the rim. The access panel was still open where I'd left it, Dad's manual spread across the floor, pages marked in his handwriting. I closed it carefully, my thumb running along the worn spine before I tucked it back into my bag. Some habits didn't need a reason.
+It all felt real, the sting in my feet, the cold air in my lungs. I'd bet on this game without a word to Gato about stepping back from WattsUp, I'd hardwired a pod behind Leon's back to get in, and I was still having the time of my life. *"But I can't forget why I'm here. Time to get serious."* The death lock was something I'd skimmed in the license screen before I pressed accept. *"I can't die here. 72 hours out isn't time I can waste. I have to show something by the time Chiyo gets back, or all of this blows up in my face."*
 
-I stood, rolled my neck until something popped, and let out a breath. I'd have to stretch before getting in that thing next time. For real.
+Voices murmured somewhere past the tents, the watchers passing it along. I strained after it and caught nothing, not one word. The only thing that came through clear was boots landing in the mud, closing in again.
 
-I pulled my phone out on the walk back to the main room, opened the HGO Companion App, and held the drive against the back of it.
+I brought up my skills menu with a thought, to see what I had.
 
-**[SCANNING...]**
+**[GOBLIN GAS]**
 
-**[DRIVE DETECTED]**
+**[GOBLIN FLARE]**
 
-**[LOGGING IN...]**
+*"Goblin Gas sounds useful."* I focused on it and the description expanded.
 
-My account loaded, the goblin face of my avatar staring back at me from a small circle at the top of the screen.
+**[GOBLIN GAS - RADIUS EFFECT]**
 
-**[USERNAME NOT SET. TAP TO CREATE ONE.]**
+**[Releases a cloud of noxious gas around the user. Poison damage over time, stacks up to 4x. Reduces visibility. Can be ignited for increased effect. Chance to stun. WARNING: User is not immune.]**
 
-Yeah, I'd do that later, when I could think of one. I swiped it away and kept scrolling.
+**[STAMINA COST: 10]**
 
-Near the bottom of the page, under a small header, my spells sat listed in plain text. Goblin Gas. Goblin Flare. That made sense. It showed my active skills at the bottom.
+**[COOLDOWN: 30 SECONDS]**
 
-My inventory sat above that.
+*"Useful. But how do I trigger it? And a 30 second cooldown, that's brutal."* I'd watched players fire off skills a hundred times, but this game was real. No weapon, no arrow to draw, nothing to channel it through. No time to figure it out gently, either.
 
-**[GOBLIN GADGET BELT - COMMON (LOCKED)]**
+I cut back around the tent into the middle of the camp and tried. I shoved at the ability with my head, then my gut, and the name lit up in my vision.
 
-**[GAMBLER'S EARRING - RARE (BOUND, CANNOT BE SOLD)]**
+**[GOBLIN GAS]**
 
-**[MINOR ELIXIR x2 - UNCOMMON]**
+**[COOLDOWN: 30 SECONDS]**
 
-I tapped the elixirs. The app flagged me before I could do anything.
+Pressure built low, sudden and mortifying, and the gas leaked out late and in the wrong place, a thin green puff hanging behind where they'd been a half-second ago.
 
-**[BANK ACCOUNT REQUIRED TO COMPLETE SALE]**
+The enforcers split around it without slowing down, and then they started laughing. "Look at this one!" "The runt's so scared he shit himself!" The goblins watching laughed with them. Behind a crate, the kid clutched his bowl and stared at me like I'd lost my mind. My goblin ears went hot.
 
-I linked the account my WattsUp paychecks already hit, a few taps and a code texted to my phone, and the warning cleared.
+*"Okay. That's an unfortunate skill. But I think I know how to use it now."* Sweat ran down my face, the run and the stamina that gas had burned both catching up with me, and I scowled at the empty spot where the cloud had hung, more annoyed at the skill than at them. I opened the other skill.
 
-**[MARKET VALUE: ¥8,400 EACH]**
+**[GOBLIN FLARE - EMERGENCY SIGNAL]**
 
-**[LIST FOR SALE?]**
+**[Fires a bright flare into the air, visible to allies on the mini-map within roughly a mile. Damage: 2.]**
 
-I confirmed it, already bracing to wait on a listing. Instead the vials vanished from my inventory almost immediately, replaced by a single gold-bordered line.
+**[STAMINA COST: 5]**
 
-**[SALE COMPLETE: ¥16,800 DEPOSITED]**
+**[COOLDOWN: 30 SECONDS]**
 
-**[BANK BALANCE: ¥64,120]**
+*"Two damage. But it's fire, and the gas says it can be ignited."*
 
-That fast? I read it again. Then the logic caught up. Low-tier gear always had a standing buy order sitting somewhere, someone who'd already told the market they'd take it the second it showed up. No bidding, no waiting on a real buyer. Elixirs weren't rare enough to sit on, they just filled a slot somebody else had already paid to reserve. I squinted against the glare of the screen in the dim hallway and tilted it away from my face.
+I broke left behind the biggest tent and pressed into its shadow for half a breath, timing the gaps between their steps. Then I cut around a smaller tent and wrapped back toward the big one. The enforcers followed, calling me names, dumb with confidence.
 
-My bank balance ticked up on the screen, and I stood there in the back hallway of Sakura Arcade letting that number do something to my chest that four hours of getting chased around a goblin camp hadn't managed to.
+Somewhere off to my left a tent flap snapped open and a goblin stepped out, human-tall, strong and full-figured, an athlete's shoulders over a full chest and thick, muscled thighs, dark brown skin lit orange by the fires, black hair piled high and wild around a curved bone clasp, the rest falling past her shoulders. Red markings ran down her face from a diamond glyph on her forehead, with one more streaked across her cheek, and the same blocky lines wrapped her shoulders, her arms, her ribs and stomach, and one thigh. A necklace of fangs lay against her chest over a gray top knotted at the front, a skull swung from her belt, and her arms hung loose at her sides. A gold tag hung over her head, the first I'd seen in the camp. **[WYX THRASH]** Her amber eyes found me immediately, without any visible concern.
 
-First one. Definitely not the last.
+*"Gold. Someone important. And she's not stepping in."*
 
-I pocketed the phone, pulled it back out almost immediately, and opened Loop on habit. My own profile loaded first, follower count still embarrassingly low in the corner. I typed out a real bio this time, not the blank field I'd left sitting there for a year, something short and dry about a goblin who didn't plan on being one, and cut it down twice before I let it post. Then I backed out to the feed, and the feed was already loud.
+The watching goblins started calling out to each other, half cheer, half joke.
 
-**[@PK_Wraith: World Quest just popped at Lunarest. First one in months. Y'all better believe we're getting a piece of that.]**
+*"Oh, y'all think this is funny. Cool."*
 
-**[@Dosuke_AI: interesting timing for a world quest? curious who actually triggered it]**
+**[COOLDOWN: 14 SECONDS. 13. 12.]**
 
-Yeah, I bet you were. I scrolled past a dozen reposts of the same thing, then a different thread stopped me, guild leaders going back and forth about whether it was worth resetting their characters yet for Hearthfire's Legacy Point payout, half of them still sitting on their old accounts, unwilling to start over at level one for a system nobody had fully mapped out yet.
+I dashed for the big tent where she stood, the long diagonal of the Z. One enforcer stayed on my heels. The other cut across to head me off and planted himself in my way. "You're not going anywhere, you little runt." The number in my vision hit zero.
 
-Wild. Their accounts were getting locked at launch whether they liked it or not, and waiting meant missing the Crownfall window. Not my problem. I was already starting at level one.
+I dropped and slid between his legs, dirt scraping up my back, and came up behind him with both of them turning, bunched together a stride away. Then I planted a foot, spun, and pushed everything I had into it, right into their faces.
 
-I raked a hand through my locs, the elastic tugging at my scalp, and filed that thought somewhere useful before killing the screen.
+**[GOBLIN GAS]**
 
-Leon was at the counter when I stepped back into the main room, tablet in one hand, the other hand rubbing the bridge of his nose under his glasses. He set the tablet down when he saw me cross the floor.
+Pressure, mortification, and a thick green cloud erupting across their path. Both enforcers ran straight into it at full speed.
 
-"How'd it go?"
+**[POISON DEBUFF: STACK 1 - CRITICAL HIT - STUNNED]**
 
-"Pod held," I said. "No crashes. Ran longer than I thought it would."
+A green skull bloomed over each of their heads, a sick little swirl beside it, and their health bars started sliding down in small, steady ticks. They stopped dead, grabbed their knees, and the stew they'd just eaten came up in chunks onto the dirt. Behind the crate, the kid made a strangled noise.
 
-"Good." Leon nodded, easy, nothing behind it. He glanced toward the dark hallway where the second pod sat dark, then back. "Listen. I want to be straight with you before you start getting comfortable coming back here. Business is slow right now, and I don't want you thinking that open access is a permanent thing if it turns into a habit for both of us."
+**[POISON DEBUFF: STACK 2 - CRITICAL HIT - STUNNED]**
 
-I did the math fast before speaking. "How slow are we talking?"
+**[POISON DEBUFF: STACK 3 - CRITICAL HIT - STUNNED]**
 
-Leon rubbed a hand over his face. "Nobody wants retro setups anymore. Every third-gen cafe in a five-block radius is eating us alive. Bookings, foot traffic, word of mouth, you name it."
+**[POISON DEBUFF: STACK 4 - CRITICAL HIT - STUNNED]**
 
-"So you're getting cooked on every front." My thumb found the edge of the counter. "Alright. Since we're being real, I've got something you should probably hear too."
+The sick icons stayed lit. Every tick of poison caught them again, and they stayed bent over, heaving, for almost eight seconds. *"Damn. What is happening right now?"* Then, *"This is my chance."*
 
-Leon's eyebrows went up. "Go ahead."
+**[STAMINA: 5/25]**
 
-"I overrode one of the pods tonight." I kept my voice even, watching Leon's face. "Used my dad's manual. That's what caused the blackout earlier. It wasn't the hardware failing on its own."
+My stamina bar was almost empty. Two gases had eaten most of it, and the flare would take the rest.
 
-Leon went very still. "Is the machine okay?"
+Smoke rolled across the ground and stung my eyes. I reached into a pocket on my rags and the flare materialized in my hand, rough in my palm. I struck it on the edge of a crate and it caught, a bright orange hiss of sparks.
 
-"It's fine. Ran the whole session clean after that." I let that land a second before I kept going. "But here's the rest of it. Your second pod is a shell right now, not completely dead. If I can get both of them running properly with the right parts, you've got two working HGO pods in a city where every venue is booked out for months."
+**[GOBLIN FLARE]**
 
-I shifted my weight off the counter, my legs still not quite trusting the floor after the pod.
+I threw it underhand onto the cloud, and it dropped into the gas.
 
-Leon studied me, something shifting behind his glasses. "You're actually telling me you got HGO running on hardware this old."
+The gas caught the instant the flame touched it, and the blast came out bigger than I'd bet on. It hit my chest from fifteen feet away and lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
 
-"That's why the session ran long. It wasn't the game. It was convincing the pod to accept the drive in the first place."
+**[GOBLIN GAS IGNITED BY GOBLIN FLARE]**
 
-Leon started to say something, stopped, shook his head slow instead.
+**[CRITICAL HIT]**
 
-"The second pod's the harder problem," I said. "Getting it running is one thing. Doing it right, keeping it running, that needs parts that don't exist on any shelf anymore." I paused a moment. "I know where to find what I actually need, though."
+Two red numbers burst over their heads, **[96]** and **[94]**, and their health bars were empty before the numbers finished rising.
 
-"Where?"
+**[COMBAT KILL: THRASH CLAN ENFORCER x2]**
 
-"Tochi."
+**[EXPERIENCE GAINED: 150 XP]**
 
-Leon blinked. Something recalibrated in his face, quick and visible. "The Tochi Academy."
+**[LEVEL UP: 3]**
 
-"Yeah."
+**[ATTRIBUTE POINTS AVAILABLE: 4]**
 
-"That explains a lot, actually."
+**[HEALTH: 50/50] [STAMINA: 0/25] [MANA: 25/25]**
 
-"Wasn't trying to hide it," I said. "Just wasn't relevant until now."
+Smoke rose off the two bodies in thin trails and my ears rang. The five or six goblins who'd been watching had gone dead silent. The kid stood frozen by the crate with the bowl clutched to his chest, his mouth hanging open. At the big tent, Wyx hadn't moved, arms still loose at her sides, but her eyes had gone sharp, and they were on me, not the bodies.
 
-Leon leaned back against the counter, arms loose. "Okay. Here's what I want to do. I'll get a tech in here tomorrow, start moving toward proper VRSA clearance, because I can't have just anyone touching that second pod as-is. If you're serious about this, come back around nine, nine-thirty when we open."
+*"Holy shit! That actually worked!"* A laugh burst out of me, and I looked down at my hands, shaking, my whole body buzzing.
 
-"I can do that."
+"Y-you b-blew them up," the kid whispered.
 
-"And if this actually comes together," Leon said, "one of those pods is yours. Permanently, whenever you need it. Consider it a sponsorship arrangement, however that usually works for players and their backers. Just keep it quiet until we're actually ready. No posts, nobody hearing we've got working HGO pods here until the clearance is done."
+"Yeah. I kinda did." I was grinning. I couldn't stop.
 
-Sponsored. I turned the word over once, testing it. Yeah. Okay. That worked. A muscle in my cheek twitched as I tried to keep a grin off my face.
+Then the buzz settled, and one thing kept snagging. *"Four crits. Back to back to back to back. That's not normal."* I pulled up my sheet and found Fortune.
 
-"One more thing," Leon said. "My parents have been pushing to get my sister back overseas for months. She won't go partly because of HGO and partly because she won't leave me holding this place when it's this close to going under. If we actually turn this around it would mean a lot to my family and my grandpa's wishes."
+**[FORTUNE: 12]**
 
-"I'll get it done," I said.
+**[Luck and probability. Affects critical hit chance, loot quality, and the odds on random events.]**
 
-I meant it more than the two words let on. Patching a pod with a bypass and Dad's old notes was one thing. Getting it clean enough to pass a real safety inspection was something else, and that knowledge lived in exactly one place. Tochi had the actual coursework, the technical foundation Kazuku had built the third-gen hardware on, and I could order parts through the academy too. I'd been running on what my dad left behind. If I wanted to do this right instead of just keeping it alive with duct tape and hope, I needed what Tochi was teaching.
+*"Crit chance. I didn't know it did that."* Gas that stuns, Fortune on the crits. Not the Spellforger, but something to build on.
 
-I pressed the heel of my hand against my eyes until a few dull colors bloomed behind the lids.
+*"Four points to spend."* I didn't have long, so I thought it through fast. *"Speed first. Bulky isn't happening in this body, and hard to catch is the whole plan. The way I just moved felt right, and I want more of it. Then Wisdom. Two of it isn't casting anything, and I'm not giving up on magic."* Two into each.
 
-The thought had felt like a loss a week ago. It didn't feel that way anymore.
+**[Speed: 9]**
 
-"I believe you," Leon said.
+**[Wisdom: 4]**
 
-Outside, my breath misted in the cold. I pulled my helmet on, kicked the Haya EB to life, and sat there a second while the motor found its rhythm.
+*"Wisdom at four. Still short of six, but closer."*
 
-Two things to deal with on the way home. The hospital, then Chiyo.
+The die at my ear went warm, and the hum I'd felt since I equipped it climbed until I couldn't ignore it. It had been waiting for this. First fight, first kill, and it finally had something to do.
 
-I pulled out into the street.
+**[ROLL GAMBLER'S GAMBIT TO INCREASE DROP CHANCE? YES / NO]**
 
-The ride to the hospital ran on muscle memory, my hands steady on the grips. The city blurred past in orange and white, the kind of quiet that only existed at this hour, after the dinner crowds had gone home.
+*"So it boosts the drop chance. Let's see if that was worth a skill point."* The prompt hung in front of me while the night air bit at the sweat on my neck. Smoke crawled across the dirt from the blast, the fires had burned low, and the watching goblins stood where they'd stopped, staring. *"Only one way to find out."*
 
-The hospital came up on my left, white-lit and too clean. I parked in the visitor lot, took the stairs two at a time, and caught the antiseptic smell before I hit the second floor landing. It always hit me there, every single time, like my body had already memorized the building.
+*"Yes."*
 
-Ohema's room sat at the end of the hall, door half-open the way it always was. I pushed through and let it swing shut behind me.
+A die dropped into my hands, bronze, the pips worn smooth like the one in my ear, only so big I needed both hands to hold it. I tossed it up, and it swelled as it tumbled through the air, and gold light poured off it and washed over me, rolling out across the dirt. The watching goblins flinched back from the glow. Somebody muttered. The kid stared, and Wyx's head tilted a fraction. *"They can see that?"* The die hit the dirt with a heavy thud, rolled once, and settled.
 
-She looked smaller than I remembered. She always did when I came back after a few days away, like something about the room was slowly winning an argument. Monitors beeped quiet and steady beside the bed, the IV drip slow and regular, her face turned toward the window.
+**[ROLL: 3]**
 
-I pulled the chair close and sat, elbows on my knees, hands loose between them.
+*"Three."* I tilted my head. *"Out of six, I'm guessing. Right in the middle. Does a higher roll mean a better drop?"*
 
-"Hey, Mom." I kept my voice low. "I know it's been a minute."
+**[DROP CHANCE INCREASED]**
 
-The monitors kept beeping. Footsteps passed in the hall outside, a nurse saying something I couldn't catch.
+The gold light drained back into the die at my ear.
 
-"I got into the game," I said. "HGO. Finally. Only took me saving up for a year and hacking an antique pod in someone's back room." I let out a short breath, almost a laugh. "Got locked into the worst race in the game by accident. Power went out mid-creation, whole thing glitched, now I'm permanently stuck as a goblin. Can't reset, can't trade out, can't do anything about it."
+**[LOOT DROPPED]**
 
-I leaned back, ran a hand over my locs, pushed the loose one back where it kept falling.
+Light flickered over the two bodies, and a leather belt and two small glass vials with a faint green glow settled into the dirt where they'd fallen. I crouched, and the belt lit up in my hand, a soft pulse running along its length before the notification appeared.
 
-"But I made some money already. Sixteen thousand eight hundred yen off two elixirs I got from a kill. And there's this ability, Gambler's Gambit, once a day I roll for a chance at rare loot. If I use it right, if I actually grind it properly, I can turn this into something real."
+**[ITEM CLAIMED: GOBLIN GADGET BELT - COMMON]**
 
-The words came easier here than they did anywhere else. Something about a room where nobody was watching.
+**[ABILITIES: SMOKE BOMB, GAS BOMB (LOCKED, REQUIRES CRAFTING MATERIALS)]**
 
-"Crownfall's two weeks out. Ten million yen on the table. I know how that sounds. I've been in the game one time, four hours total, and I'm already talking about the prize." I paused. "But everyone's starting fresh characters for the expansion. For once I'm not coming in behind everybody."
+I looped it around my waist and felt it settle, then picked up the vials, a number stamped faint under the green glass on each one.
 
-I stopped, my throat going tight. I let the quiet sit a second before pushing through it.
+**[ITEM CLAIMED: MINOR ELIXIR x2 - UNCOMMON]**
 
-"I'm doing this for you. For the surgery. For Momo and Taji. For Chiyo, so she doesn't have to keep covering everything herself." I looked at my hands, flat against my thighs. "I know you'd tell me not to put that on myself. But it's already there. It's been there since Dad died."
+**[RESTORES 30 MANA]**
 
-The monitors kept their rhythm. The room stayed quiet.
+**[AUCTION PRICE: 21,000 SHILLINGS EACH]**
 
-"I'm gonna figure it out. I always do."
+The number hadn't even finished registering when a chill swept through me, scalp to fingertips, and my body went numb. A war roar erupted out of the big tent, loud enough to make the fires flinch. I got my head turned toward it. That was all that would move.
 
-I sat there a little longer, then stood and pressed my hand to her shoulder before I headed for the door.
+**[SKILL: CHALLENGING HOWL]**
 
-I was halfway down the hall when I heard them. Two voices, low and careful, the kind of careful that meant they weren't meant to carry.
+**[STATUS EFFECT: IMMOBILIZED]**
 
-"...six months," one of them was saying. Ms. Sugiyama, the nurse who'd known me by name since Ohema was first admitted. "Dr. Inoue was clear. Without surgery soon, the concern isn't just whether she survives. It's whether there's still a mind left to come back to."
+The watching goblins froze mid-step. The kid went rigid against the crate, the bowl still clutched to his chest.
 
-I stopped walking.
+*"Move. Move. Come on, move."* My legs wouldn't answer. My arms wouldn't answer, not even my fingers.
 
-"Chiyo asked us to keep it quiet," the second nurse said. "She didn't want the family worrying."
+The flap tore aside and a goblin stepped out into the firelight. The enforcers had been big. He made them look like children, as tall as a grown man and built like one, a head taller than either of them and broad enough to fill the tent mouth, his chest and shoulders thick with the kind of muscle that comes from training every day, his arms corded, a waist that narrowed under a dark sash, all of it under a burgundy vest that hung open over a white shirt, the collar loose, one sleeve rolled back past the elbow. His skin was a deep, muted green, and swirling dark markings wound up one bare arm to the shoulder. A short black beard and mustache framed a mouth set hard, and under heavy brows his amber eyes didn't blink. Black hair fell past his shoulders in two thick braids tied off with red ribbon, the rest hanging loose behind him. A ring and a bead glinted in one pointed ear, a small tooth hung on a cord at his throat, and a brass-buckled belt held the sash in place. A battle axe hung from one fist like it weighed nothing. No goblin I'd seen in this camp was built like that, any more than she was. Something rolled off him that I felt before I understood it, a weight in the air that made the nearest watchers drop their eyes.
 
-"I know," Ms. Sugiyama said. "But that boy deserves to know."
+Wyx stood off to one side where she'd watched the whole fight, tall and strong, an athlete's build in a gray top and a ragged skirt, one hand resting on the skull at her hip, untouched by the howl. She had a striking face, high cheekbones, a straight nose, full lips closed over small tusks, and rings and hanging teeth lined her pointed ears. A spiked bone guard wrapped one shoulder and arm, leather bands bound the other, fur trimmed her belt, and a torn cloak hung off her back. Her amber eyes were on me, half-lidded, in no hurry at all. She hadn't needed to come out. She'd already seen all of it. Two gold tags blazed in the dark.
 
-"Not our call."
+**[SEVISH THRASH: LV 80]**
 
-Their footsteps faded down the opposite hall, and I stood there alone in the corridor with those words sitting in my chest like something with edges.
+**[WYX THRASH: LV 25]**
 
-Six months. And Chiyo knew. She knew and she didn't tell me.
+Above each name, where every other tag in camp said Goblin, theirs said Hobgoblin. *"So that's why they're built like people."*
 
-The anger came fast and clean, hotter than anything else I'd felt all day. Not at the news itself, I'd known things were bad, I'd known for a while. But the secrecy. Being kept out of the room like a kid who needed shielding while I was out here carrying half the weight myself.
+*"Eighty and twenty-five. I'm level three."* Fighting him wasn't an option. Neither was running, even if my legs had worked. *"Okay. Talking, then."*
 
-She was trying to protect me, even though I'd chosen this route on my own. The thought didn't help.
+"Who did all this?" Sevish's voice wasn't loud. After the roar, it didn't need to be.
 
-I turned and walked, not toward the exit, just away from the voices, my hands going flat against my sides, breathing through my nose the way I did when there wasn't a clean answer on the other side.
+Nobody answered. His gaze crossed the scorched ground and what was left of the two enforcers, then the watchers, and stopped on me.
 
-I wasn't watching where I was going, and the corner came up fast.
+*"This is bad. Don't make it worse."* I made myself slow down and go through it. I'd wiped out two of his people in the middle of his camp, but they'd shoved a kid around first, two on one, over a bowl of stew. Every tag but theirs had stayed white. Wyx had watched the whole thing, and the kid was standing right there. *"I'm not in the wrong here. I can explain this."* My mouth still worked, even if nothing else did. The worry sat in anyway. If he decided I was the problem, I'd die on my first night, and the death lock would take 72 hours I didn't have.
 
-The collision knocked the air out of me, a shoulder catching my chest, papers exploding outward in a soft white flurry. A small startled sound came from whoever I'd walked into, and my hands were already moving, catching an elbow, steadying someone before either of us actually went down.
+Sevish stopped an arm's length from me, the axe's shadow lying across the dirt at my feet.
 
-"Sorry, I wasn't," I started, and then I actually looked at her.
+"Speak," he said. "And choose your words carefully."
 
-Twin buns. Glasses that seemed specifically designed to make her forgettable and were failing completely at the job. She was already crouching to gather pages, hands quick and practiced, and when she looked up at me, something in her face did the exact same double-take mine just had.
-
-Neither of us said anything for a second that ran a beat too long to be nothing.
-
-"It's fine," she said, too fast, like she needed to get ahead of the silence. "I wasn't watching either."
-
-I crouched across from her and started helping stack pages. Her eyes caught on the phone in my other hand, screen still lit, the blank username field still sitting open like an accusation.
-
-"You play?" she asked, tilting her head, a real question.
-
-"Just started." I turned the phone slightly without meaning to. "Haven't even got a name yet."
-
-Something flickered across her face, amused, like I'd said the funniest thing she'd heard all week. "Well, let's change that. What did you have in mind?" She reached over and tapped the screen before I could stop her, the prompt still sitting there patiently.
-
-My thumb hovered a second, then I just typed it, letters and a number, done before I talked myself out of it.
-
-**[USERNAME SET: TDRAG]**
-
-"There," I said, and held the screen up.
-
-"TDRAG." She said it slow, testing how it sat. "I like it."
-
-We finished stacking the last of the pages in a silence that had stopped being awkward somewhere in the last thirty seconds. I was close enough now to see the seam where her glasses didn't quite sit right on her face, like they weren't originally hers.
-
-She stood first, I followed, the stack of papers changing hands without either of us fully letting go for a second.
-
-"I have to go," she said, and somehow didn't sound entirely like she meant it. She pulled a pen from her jacket pocket, scribbled fast on the corner of one page, tore it free, folded it twice, and tucked it into my jacket pocket herself. Her hand rested flat against my chest for half a second longer than the motion needed. "My code. Add me sometime."
-
-"Wait," I started.
-
-"Good luck with the game," she said, taking the papers from me and turning, already three steps into the hallway before I'd finished the sentence. "Hope to see you soon."
-
-I watched her go, twin buns bouncing once as she rounded the corner, gone before I thought to actually move after her. I stood there a second longer than made sense, the rest of the papers still in my arms, some part of me already running the last thirty seconds back to confirm it had actually happened.
-
-I set the papers on the nearest chair and unfolded the note.
-
-A friend code sat at the top, a string of letters and numbers in clean, careful handwriting. Beneath it, a date.
-
-December 23rd. 689450YY
-
-Two days before Crownfall. I turned the paper over, checking the back like something else might be there. Nothing.
-
-I pocketed the note and looked down the empty hall where she'd gone, and the quiet didn't hold. Ms. Sugiyama's voice came back first, then the second nurse's. Six months. Chiyo knew. The two things sat next to each other in my chest, the note and the sentence, and neither one would stay separate from the other.
-
-I pulled out my phone.
-
-Chiyo's last message sat at the top of the thread, the one about Tochi I'd answered with a thumbs-up because a thumbs-up cost me nothing.
-
-She'd kept this from me because she thought it would break something. She was wrong. My jaw set. This was my call.
-
-I slid the phone back into my pocket before continuing out of the building.
-
-The decision was already made.
+*"One shot. Make it count."* I opened my mouth.
 
 **[END CHAPTER FIVE]**

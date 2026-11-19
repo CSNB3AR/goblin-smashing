@@ -31,3 +31,11 @@ Loyal, collected, self-sufficient. Gets things done without needing direction re
 - **Stutter (author-stated, canon-ledger "Goblin speech and intelligence").** Ru is a true runt mob and speaks in short broken words with a stutter ("M-man, you don't have to d-do this", "Y-you b-blew them up"). Chapter Nine's two pre-blessing lines now carry it: "Y-you woke up" and "W-what". After the blessing he reads taller and deeper-voiced, and his one line ("Don't fully know myself") is short and broken but carries no stutter. OPEN for the author: whether the stutter eases with the evolution or stays. The race-dialect guide expects speech to drift with Wisdom, though no drift has been dramatized.
 - **Handoff.** Chapter Six (What Is Your Name?) leaves him with Sevish and Wyx for the final report; Chapter Nine opens with him in Tatsuya's holding tent, and Tatsuya assumes Sevish had him put there.
 - **Flagged, not on the page.** Shiv's blessing is described in the codex as explicitly marked in dialogue as his own one-time act. The page shows only the notification `[SHIV'S BLESSING – GRANTED DIRECTLY]`; no Shiv line says it is a one-off. OPEN: whether to add one short Shiv line.
+
+## Ru's title, latest (author-stated)
+
+Ru's title is **Disciple of Elder Nykri**, not "First Disciple of Shiv" (anything above that says the Shiv title is superseded). It is clan-based and about Nykri, not Shiv: Ru stays under the Thrash clan, keeps Shiv's blessing, and as Nykri gathers more goblins the name spreads. Shiv's own line in Chapter Nine: "Make yours greater than mine." See `outline/canon-ledger.md`.
+
+## Ru's speech after the evolution (author-stated, latest)
+
+As a Hobgoblin, Ru speaks in patterns (not the short broken words and stutter of before), with more gravity and confidence. He is not weak. The evolution changes anyone. This answers the earlier OPEN question about his stutter: it eases with the evolution, though Chapter Nine's one post-blessing line ("Don't fully know myself") can stay as a short transitional line. Later he can voice worry in full sentences ("I hope my brethren are okay. We have already lost so many.").

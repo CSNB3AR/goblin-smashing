@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build a .docx and a .md copy of a chapter for sending or reading.
 
-Usage: python3 tools/build_chapter.py chapters/chapter-04.md [outdir]
+Usage: python3 tools/build_chapter.py archive/old-drafts/chapter-04-old.md [outdir]
 Needs python-docx (pip install python-docx). Output goes to outdir (default
 ./build, which is git-ignored by habit; do not commit it).
 """

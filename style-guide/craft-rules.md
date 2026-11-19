@@ -2,7 +2,9 @@
 
 These are the hard rules. Nothing in `style-guide/voice-technique.md` or anywhere else overrides them.
 
-- No em dashes, anywhere, ever.
+- No em dashes, anywhere, ever. That covers every dash used as punctuation: the em dash (—), the en dash used as a dash (–), a spaced hyphen ( - ) and a double hyphen (--). Use a comma, a period or a rewrite. Paired dashes around an aside (the humanizer habit) are the first thing to fix. Exempt: the hyphens inside words, and the bracketed bold system text (for example **[STREAM LIVE – NYKRI]**).
+- No ellipses in narration and none in the middle of a sentence. In dialogue, "..." is allowed only where a speaker truly trails off at the end of a line, and no more than two per chapter. A thought that cuts off ("I didn't...") counts toward the two.
+- Humanizer or other tool output gets checked before anything else: `python3 tools/chapter_check.py --chunk <file>` flags dashes and ellipses first. Also check it for flipped meanings, dropped canon details, invented names, thoughts that lost their italics and quotes, and lowercase "i".
 - **Before adding anything, check it against `outline/canon-ledger.md` and the chapters; if it contradicts another item, do not add it, mark it OPEN.**
 - **Inner monologue (first person): quotation marks AND italics (the author's format, final, do not change it).** The narration is first person, past tense, inside Tatsuya's head, and his direct thoughts are set off as `*"Damn, she has me cornered."*`, short and in his own voice, present tense inside the marks, with a tag such as "I thought" only when needed. Plain narration stays narration. Spoken dialogue is quotation marks without italics. This replaces the plain-narration rule I wrongly introduced in the first-person conversion. Full notes: `style-guide/first-person-voice.md`.
 - **Text messages, notes, and other on-screen/written text get square brackets, plain, not bold, not quotation marks.** `[Like this.]` No bold wrapping. Keeps them visually distinct from spoken dialogue and from inner monologue at a glance, the same instinct as the blue-box UI presentation for game text (see `codex/lore/deck-building-rarity-and-classes.md`), applied to real-world written text too. OPEN: Chapter 1 sets texts and Dad's letter in bold brackets, while this rule and Chapter 8 use plain brackets; not decided.
@@ -93,3 +95,9 @@ In first person, Tatsuya's inner talk shows how he approaches things, not a fini
 ## One or two things at a time (author-stated, latest)
 
 Because the story is first person, Tatsuya can only pick up one or two things in any given moment. When adding body cues or environment, give a beat one or two perceptions (for example a sound and a body sensation), never a stacked list of sights, smells, sounds and textures in one sentence. Spread them across the scene instead.
+
+## Pacing rule: move the needle (author-stated)
+- Every line of dialogue must move the story or be tied to it. If a scene already has everyone knowing what is going on, proceed; do not spend more of his game time on setup, resource panels, quips or repeated reassurance.
+- Panels and system lists appear when a decision or reveal depends on them, not as inventory. Keep them short.
+- By Chapter Eleven the story has to start paying off the real stakes: the debt (he has not spent anything toward it yet), the reach for Myrrhwood and Book One, and the launch. Push the plot each chapter; this is about progress, not rushing.
+- The next beats the author named: reinforcements arrive, the chase, the warband pulls one way and Tatsuya's group pulls another (and vice versa), then the city of Lunarest.

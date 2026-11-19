@@ -1,0 +1,45 @@
+The screen was showing the remains of an old fort at the edge of a very large, snowy forest. Some broken walls and towers surrounded some smashed houses. However, there was only one structure still standing, the old hall. Above the steps of the hall there was a banner blowing. The video feed of the battle was coming from the orb cameras, the floating camera balls HGO had built to float inside Eryndal and allow viewers to look at battles from various angles. Yuna was calling it live from Singapore. Below the video feed there was an overlay that read **ZONE: CONTESTED**. The WattsUp lightning symbol was in the middle of the sponsor bar, between two logos I did not recognize. I laughed a little bit, then leaned my shoulder toward the screen as if that would help me quit looking. It didn’t.
+
+“And look at how the Knights are playing it,” Yuna said, her voice dropping low and quick, the way it did when she was about to say something good. “They’ve cloaked their whole line in enchantments and gone to ground inside those ruins in small cells, each one covering the breach in the wall from a different angle, hit and fade, hit and fade. Guerrilla warfare. That’s why twenty against twelve is the real number, folks, because nobody coming in from outside changes it. Every Aogiri reinforcement who fights through that forest and runs that breach is a kill, and every kill is six more for London. Behind the walls, Aogiri’s twelve, a guild leader, two officers and nine hands, have dug into the old hall as their fort, and nobody’s burning that down. But they’re bleeding out. And in Eryndal the magic isn’t for show, so don’t let the glowing wards and fancy gear fool you into thinking it’s cosmetic.”
+
+My thumb dragged along the counter’s edge. *"Hit and fade. At least somebody over there knows what they’re doing."*
+
+The twenty Knights of the London Spire were hiding in half-demolished buildings and in the shadow of a fallen tower. They weren’t defending a position. They were waiting. A lone Spellforger wearing midnight blue walked through the breach and was immediately killed by a combination of fireballs and bolts shot out of three separate windows at once. One more Aogiri player was out for seventy-two hours, and with only two hours remaining, out for good.
+
+Aogiri’s guild leader, Lin Haoyu, and the rest of his team, eleven of them, were stuck inside the old hall with their banner on the steps and Haoyu’s name marked as the guardian of the banner. He was poisoned, losing health every few seconds, and all of the Shadowveil players who could have snuck a cure through the narrow way into the hall had died early. Edmund Vane, London’s guild leader himself, was watching over their flag from a tent set back from the breach. The entrance to the tent was sealed. The Knights only had to keep the breach bleeding and let the poison take its toll.
+
+I hated how clean the read came. It was the tactics. It had always been the tactics, the reason I’d loved this game in the first place, back when Eren and I spent whole nights building them out on our tablets and kept arguing about them between classes. That was before Eren took everything, and it was exactly why I kept my back to it now. I stared at the dark window until my reflection settled, and made myself breathe.
+
+*"And they were playing like boneheads."* He could hand the flag off and meet a runner outside the walls, or break out with the eleven while a wave hit the breach from the other side, but a handoff would show on the overlay and London would swarm whoever held it, and both his officers were DPS who wouldn’t last. Sitting on the steps was the only play that couldn’t win. The reinforcements were worse, burning their supplies in the forest and then feeding the breach one at a time instead of massing. The breach was London’s single point of failure too, one input, one output, the kind of thing Dad would have glanced at and asked where the redundancy was. Every minute he sat there was a minute of poison, and the flag was his to guard. If he went, it went.
+
+Aogiri’s leader didn’t move. He sat on the hall steps with his shield across his knees and watched his own health tick down, waiting for a wave that kept dying at the breach. My hands went flat on the counter.
+
+“Pick something,” I said out loud, low, to no one, already knowing how this ended, and I hated that I’d said it. I turned my back on the screen and went back to wiping the same spot I’d already cleaned twice tonight. “Break out or run. Do something.”
+
+Behind me, sound cracked out of the speaker, a double-kill chime that made the crowd explode, and I winced as the volume spiked. Then the roar changed. Something had gone down on the hall steps.
+
+“His health bar’s gone! Aogiri’s leader is down, and the banner goes with him!” Yuna’s voice cut through the noise, half-shouting. “The zone belongs to the Knights alone, and the ten-minute clock is running!”
+
+I didn’t turn around. I wiped the same spot a third time and a fourth while the crowd climbed and the minutes bled off, until one low tone sounded, the kind that meant a hold timer had run out.
+
+“The zone is secured, Thornwatch is London’s!” Yuna’s voice rolled over the eruption. “And look at that, folks, London Spire’s flag is going up over the ruins, and a quest line is opening for the Knights! As soon as they settle it, the points go on the board, and London Spire takes Season Zero, forty million yen worth of shillings for the guild, in front of a sold-out house of fans here in Singapore!”
+
+I turned back around in time to see the camera orbs peel away from the dead leader and drift up over the ruins toward the flag, the way the feed would follow any other fight, while the feed cut to Yuna on a virtual stage, her CG avatar waving at the crowd. *"Tough, losing like that."* I felt nothing about it.
+
+*"Forty million."* The thought went exactly where it always went. *"Even a tenth of that pays for the surgery outright. No more Chiyo quietly covering gaps she thinks I don’t notice. No more Tabuchi calls."*
+
+The broadcast didn’t transition straight into credits. It transitioned into a soundstage covered in silver and blue, and a giant cartoon bear came walking out to applause, both from the arena and faintly from Gato’s little news speaker behind his counter whenever he worked the front.
+
+Kazuku. No one knew what his real face looked like. Only the bear, round-bellied and smiling, with HGO’s compass rose logo sewn onto a vest that always looked freshly ironed no matter how many times he wore it on TV, walked out onto a stage projected with holographic technology that Singapore had developed for years. His avatar was as realistic as if he had walked out onto an actual stage himself.
+
+“Huge congratulations to London Spire,” Kazuku said with his arms stretched wide as if trying to envelop the whole arena, speaking warmly and sincerely in a manner that always made me skeptical. “Big kudos to all the teams competing for this stage tonight. You’ve proven once again why we compete.”
+
+He paused long enough for the applause to grow loud and then fade.
+
+“And now, since you’ve been so patient with me.”
+
+Gold light bloomed across the screen behind him, a map pattern I recognized a half-second before my brain caught up. Not one continent anymore but five. Five separate pieces of land where there had only ever been one, each one detailed enough that I could see mountain ranges and coastlines rendered in fine, careful lines.
+
+“Eryndal is expanding,” Kazuku said, and a huge roar erupted within the arena noise. “The Hearthfire expansion will be released January first. Five entirely new continents will be open for development, each with unique benefits for the people born there. You’ll build your own kingdoms and cities in a world where the native residents notice who you are and what you’ve accomplished so far. Get them to respect and trust you, or fail at getting either. And before the conflicts start, there’s one last surprise awaiting at the conclusion of Open Beta, with even more of Eryndal’s map revealing itself beyond it.”
+
+My weight shifted forward slightly, like I could lean into the screen and see the map more clearly if I just got close enough. Then I caught it and stepped back, and found the counter’s edge with my hand again.

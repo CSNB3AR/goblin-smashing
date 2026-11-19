@@ -4,10 +4,10 @@ This is the current, up-to-date map of the story. Start here.
 
 ## Drafted (Chapters 1-10, first person)
 
-- **Chapters 1-7** — finalized. See `outline/chapters-1-7-summary.md`, one accurate summary per chapter generated directly from the final committed prose in `chapters/chapter-01.md` through `chapters/chapter-07.md`.
-- **Chapter 8** ("Assembling the Assault Team") — drafted. See `outline/chapter-08.md` for its beat-by-beat reference and `chapters/chapter-08.md` for the prose.
-- **Chapter 9** ("Assembling the Assault Team, Part Two"): drafted. See `outline/chapter-09.md` for its beat-by-beat reference and `chapters/chapter-09.md` for the prose.
-- **Chapter 10** ("Silence and Fire," Parts One and Two, the Battle of Thrash Hill): drafted. Its beats are listed in `outline/chapter-09.md` and the prose is `chapters/chapter-10.md`.
+- **Chapters 1-7** — finalized. See `outline/chapters-1-7-summary.md`, one accurate summary per chapter generated directly from the final committed prose in `chapters/chapter-01.md` through `chapters/in-progress/previous/chapter-09-the-first-disciple.md`.
+- **Chapter 8** ("Assembling the Assault Team") — drafted. See `outline/chapter-08.md` for its beat-by-beat reference and `chapters/in-progress/previous/chapter-10-assembling-the-assault-team-part-1.md` for the prose.
+- **Chapter 9** ("Assembling the Assault Team, Part Two"): drafted. See `outline/chapter-09.md` for its beat-by-beat reference and `chapters/in-progress/previous/chapter-10-assembling-the-assault-team-part-2.md` for the prose.
+- **Chapter 10** ("Silence and Fire," Parts One and Two, the Battle of Thrash Hill): drafted. Its beats are listed in `outline/chapter-09.md` and the prose is `chapters/in-progress/previous/chapter-11-silence-and-fire.md`.
 
 ## What's next
 

@@ -1,6 +1,6 @@
 # First-Person Voice (Tatsuya's Head)
 
-The story is first person, past tense, locked inside Tatsuya's head, the way *That Time I Got Reincarnated as a Slime* sits inside Rimuru. This file records how the chapters were converted from the author's third-person draft and what must not change. The third-person originals are archived in `chapters-third-person/` and in git history.
+The story is first person, past tense, locked inside Tatsuya's head, the way *That Time I Got Reincarnated as a Slime* sits inside Rimuru. This file records how the chapters were converted from the author's third-person draft and what must not change. The third-person originals are archived in `archive/third-person/` and in git history.
 
 ## The rule
 
@@ -31,7 +31,7 @@ These were story-level fixes made during conversion, listed in `outline/first-pe
 ## Never changes
 
 - The author's rough-draft phrasings, including deliberate roughness such as `the Loop icon buried on top of each other with some HGO Notifications floating`.
-- No em dashes. No floating quotes. One speaker per paragraph.
+- No em dashes, dash-style punctuation or mid-sentence ellipses (see `craft-rules.md`). No floating quotes. One speaker per paragraph.
 - Real-world pressure (Ohema, Chiyo, the twins, the Tabuchis) never turns off.
 - No metagaming: he cannot know anything he has not seen, and the first-person lock makes this automatic.
 

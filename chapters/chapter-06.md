@@ -1,267 +1,225 @@
-# Chapter Six: VRSA Inspection
+# Chapter Six: What Is Your Name?
 
-The ride back to the Nakamura Grand ran itself the same way the ride to the hospital had, muscle memory carrying me through turns I didn't register making, the city still out there somewhere beyond the visor but not landing the way it usually did. My phone buzzed twice in my jacket pocket before I made it three blocks, Chiyo's name lighting up the screen both times, and I let it sit there unanswered.
+The roar had hit before I'd had a chance to enjoy the money I'd just made. Now my chest was tight and the air itself seemed to be pressing down, squeezing me into a crouch, and no matter how hard I told my body to move, it wouldn't. Only my head would turn. A status icon popped into the top of my vision.
 
-Not tonight. I'd deal with it when I wasn't this pissed off.
+**[STATUS EFFECT: IMMOBILIZED - 6s]**
 
-The frustration was still sitting hot in my chest when I parked the Haya EB around back, locked it, and took the side entrance up to the apartment. The lobby sat quiet below. I let myself in, the day finally settling into my shoulders.
+I'd watched roots and stuns land for six months on the screen over the WattsUp register and on Dosuke's streams, and on paper this was no different. What made it special was that it was the first time one had hit me like this, my body reacting as if it were real. That was probably why HGO ranked among the best virtual MMORPGs of its time, and why it was so cutting edge, with that much detail packed in. It topped the sales charts even in the closed beta. I could finally see why everyone wanted their hands on it.
 
-Just the hum of the refrigerator and the sound of my own boots on the floor. I toed a stray pair of Taji's sandals back into line by the door, automatic, the kind of straightening up I did every time I got home first, and left my bag beside them. My phone went face-down on the kitchen counter without a glance, and I headed straight for the shower.
+The icon ticked to five. Over the kid's head the timer read twelve, double mine. I tried to inspect Sevish and got a panel of question marks, then Wyx and got the same.
 
-The water came out hot enough to sting, and I stood under it longer than I needed to, letting the heat work through the knot sitting between my shoulders, the anger starting to loosen into something closer to exhaustion.
+The icon ticked to three. *"One way in, one way out, straight through two I can't even inspect and twenty goblins. I'm outmatched, and the smart move is probably not getting my ass sent back to the Cathedral."* The lock that came after was the real cost. *"Seventy-two hours is a long wait. The Gambit got me lucky early money, but luck runs out, and three days locked out sends me crawling back to Gato with nothing to show Chiyo. Think."*
 
-I pressed my forehead against the tile, water running down my face, and made myself breathe through my nose once, slow, the way I did when there wasn't a clean answer waiting on the other side.
+**[STATUS EFFECT EXPIRED: IMMOBILIZED]**
 
-I wouldn't even be this mad if I hadn't had to find out from two nurses who thought I was already gone. I let the water hit the back of my neck a second longer. Why didn't she just tell me? Did she actually think I couldn't handle it?
+The weight left all at once and my legs shook and prickled as I came up out of the crouch, slowly, with my hands open and away from my belt so nobody mistook it for a move. Out of habit my hand went to my chin, rubbing for the goatee I only had back home, and found smooth green skin. Sevish stood an arm's length in front of me, a wall of a goblin with my head barely reaching his chest, and I had to look up to hold his eyes. Wyx stood five or six feet behind him, a head shorter than her brother and still taller than me, the big tent twenty feet back where the two of them had come from. She gave me nothing. The kid was still stiff against the crate ten feet to my left.
 
-The thought didn't make me less angry. It just made the anger sit somewhere different.
+"Two of your guys were picking on a kid over some rotten stew," I said, keeping my voice even. "I took care of them. I'd have handled it peacefully, but they wanted violence, so I answered. I'm not losing sleep over it." I folded my arms and held his stare.
 
-I shut the water off, dried off fast, and pulled on a pair of sweats. On my way through the front room I swung by the kitchen counter, scooped the phone up without breaking stride, and carried it back to my room before dropping onto the bed. Only then did I actually look at what she'd sent.
+Sevish said nothing, the axe loose in his fist. I kept going before the quiet could set. "It was two on one, the odds were stacked against the kid, and nobody else wanted to step up. Everybody just stood there and watched." I unfolded my arms and spread my hands a little. "What kind of allies throw punches over a bowl of stew? Don't we have bigger fish to fry?"
 
-Two texts, both short, both hours old.
+A murmur ran through the five or six goblins hanging back by the stew pot and died. It had an edge on it that made my palms sweat. I let my eyes drift over them. One goblin took a step back. The one nearest the pot stared at me like I'd walked up and slapped the chieftain. Beside the crate the kid made a thin, scared sound, his pointed ears pinned flat, still shaking off the stun. Wyx's brow lifted a fraction and the corner of her mouth went with it, a small curve of a smile in the drifting smoke.
 
-**[Chiyo: You doing okay? Haven't heard from you in a bit.]**
+"He has a quick tongue on him," she said, pitched low, just loud enough to carry. "I like him."
 
-**[Chiyo: Let me know when you get home safe.]**
+I blinked, my head tilting a degree. *"Huh. That's not how NPCs talk in the clips. I wasn't expecting that."* A small notification flickered at the edge of my vision.
 
-Nothing about Tochi in either one, same as the note she'd left on the counter that morning, already gone before I'd even gotten up. First real contact between us all day.
+**[AFFILIATION: WYX THRASH - 45% → 48%]**
 
-I typed a reply, cut it down twice, and sent the shortest version.
+*"Affiliation. I've only ever seen it in the clips, never from the inside. I'm curious how it moves for a goblin."* My eyes lingered on the number.
 
-**[I've decided on going to Tochi. Found some stuff in Dad's old manual I want to get back into. Picked up a new part-time job too. I'm good.]**
+Sevish's eyes went from Wyx to me and back, and he rolled one shoulder, shifting his weight like a leader reading the room before he spoke into it. Then a low, rough laugh broke out of him, short and a little delighted, his heavy brows lifting and his whole chest shaking with it as he planted the butt of the axe in the dirt. "Hah. Of course you do."
 
-Short, on purpose. I wasn't in the mood to explain the rest of it tonight, and I wasn't sure I wanted to yet anyway. If she wanted the whole story she could ask when she got back. Right now this was mine.
+The grin thinned. "If it happened as you say, we have no quarrel. The clan's rule is that we do not fight each other. But why should I trust you? Who says it went as you tell it? I came out to a blast and two of mine dead by your hand. By the look of that ground, it was a fierce fight." His eyes went over the watchers, then to the crate. "Those two will not rise again. The dead stay dead. If any of you saw it, speak."
 
-The phone buzzed again before I'd even set it down.
+Sevish's gaze dropped to the black scorch marks. I looked at them too, then back at him.
 
-**[Chiyo: Wait, really? That's amazing, Tatsu. What changed?]**
+I looked back over the watchers, hunting for one face that would meet mine, anyone who'd been near the stew pot when it started. Nobody answered. The kid's mouth worked, but all that came out was a thin breath, and the watchers only muttered, low and shapeless, none of it aimed at Sevish. The dice on my earring ticked against my jaw when I swallowed.
 
-**[Chiyo: A new job, what about Gato? We can talk about the hours when I'm back. School still comes first though, right?]**
+The silence stretched, and I cut into it before it could set. "If you don't believe me, that's on you," I said, and made myself hold his stare. "But it happened how I said it did."
 
-**[School's still first. I got it.]** One line, sent.
+Every word I'd told him was true. What I'd left out sat at the back of my throat, that the fight probably never happens if I hadn't said what I said to those two. *"If that comes out, who knows what he does with it. Hopefully nobody brings it up."* My thumb pressed into my palm.
 
-**[Chiyo: I love you. Get some sleep.]**
+The camp went as silent as a mouse in a room with a cat. A cold drop of sweat slid down my spine.
 
-I didn't answer that one. I opened the banking app instead, one more thing to check before I let myself sleep.
+Then Wyx came forward from behind him, calm and unhurried, a loose sway to her stride, one hand resting on the skull at her hip, and stopped at Sevish's shoulder. "Brother," she said, "I saw all of it."
 
-**[BANK BALANCE: ¥64,120]**
+My eyes followed her. She was the only one in the whole camp who'd stepped out for me.
 
-Not much. But it was mine, earned off two elixirs and an ability I was already learning how to use right. Something almost like a grin pulled at the corner of my mouth before I caught it.
+*"She's siding with me."* My eyes stayed on her while I wondered why. Then it clicked. On the broadcast at work, Kazuku had said the people in this world noticed exactly who you were and what you'd done, and that you could earn their trust or not. I'd filed it as marketing. This was what he meant. How I spoke and what I did was how they'd treat me, so I couldn't move any differently than I did in the real world. I had to be smart.
 
-Whatever this turned into, it wasn't going toward the Tabuchis. Mom came first, but I had to somehow get them off me. I doubted paying them off would be that simple.
+Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Yes. I understand now." He looked me over, slow. "And how do you see us benefiting from having him here?"
 
-I scrolled down out of habit, the way I always checked my own numbers, and the second account caught me before I could stop it. Still listed under Daichi Kazehaya. Still mine to see, next of kin, nobody had ever bothered pulling me off it.
+Boots scraped by the stew pot. The goblin who'd stared at me like I'd slapped the chieftain took a slow step forward, one hand on the club at his belt, and slowed, his eyes on the scorch marks and then on me. Not one of them had lifted a hand when the enforcers went after the kid, and now they crept in behind him, wide of the black patch, like they needed to be seen doing something. Sevish raised a hand without turning around, and every one of them froze. The camp held its breath. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
 
-**[KAZUHAYA TECH - Daichi Kazehaya]**
+I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, running is the only option. Fighting through that isn't happening."* My eyes slid into the corners of my vision without moving my head,. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
 
-**[BALANCE: -¥3,014,200]**
+Wyx rolled one shoulder, her weight settling onto a single hip, black hair sliding off her shoulder. "He is what we have been missing, brother," she said, dry warmth in her voice. "He slipped round two enforcers faster than most of us can turn, then set the ground alight under them. One hell of an explosion, I say. Think what that would do to a wall. And if we are thinking of Shiv, he held to Shiv's law and kept the peace among our own, which is more than those two did. We have failed at our task more than once, and we did not come all this way for nothing. We gave up a great deal leaving Myrrhwood."
 
-**[COLLECTIONS NOTICE: TABUCHI HOLDINGS]**
+My head snapped toward her, and I made myself keep my eyes on her face. Walls. So that was what she saw in it, and I kept the thought to myself. A snort went through the watchers, and the kid's shoulder eased against my side.
 
-I stared at my own balance first, then Dad's, then the name sitting under the collections notice, and Eren's face showed up uninvited, easy and entitled the way it always looked right before it said something meant to sting.
+Sevish let out a short breath through his nose, and the grin came back slow. "Since he has taken two of mine," he said, "he owes me a favor after all."
 
-They'd already taken enough. Now they wanted more on top of it. My jaw set. I'd be damned if I handed them a single thing Dad wasn't willing to give them himself.
+My hands loosened. I was nervous, but under it something bright kept fizzing in my chest. A couple hours ago I'd been planning on an elf, and now I was standing in front of a world quest. *"Stay level. Listen, collect questions. Once I log out, I'll look up everything on this quest and this class."* I kept my face still and my breathing slow.
 
-But legally my hands were tied as long as the balance sat there owing, and that was the actual answer to a question I'd never bothered asking outright. Seven million. I said it flat, testing the weight of it. It wasn't impossible. It was going to be hard, but if there was anywhere I could actually do it, it was HGO.
+Sevish looked at his sister for a long moment and didn't argue.
 
-I set the phone down for real this time, lying back against the pillow, and let myself actually feel it, not the anger from earlier, something closer to the thing I'd been chasing since I was sixteen.
+He pointed the axe at me. "A goblin who can kill two enforcers has power, and power I understand. There is a task I have been turning over. Help us with it, and you stand with Thrash. Refuse, and you are an enemy of this clan."
 
-Debt came first. The family didn't need more pressure right now, least of all Chiyo. If everything played out right I got Mom better. Maybe Crownfall paid out on top of it. The fatigue was shifting in now, the good kind, the kind that came after a day that had actually moved somewhere.
+Clearly nobody had touched this quest. That made it extremely rare, in a game this new, and I had a way to make real money off it. Things were looking up, for the time being. I kept my face still and held his stare.
 
-My eyes closed on something almost like excitement sitting underneath the exhaustion.
+"I'm in," I said. "Tell me what you need."
 
-• • •
+A purple notification bloomed at the edge of my vision.
 
-Morning came too early, sunlight cutting through the blinds in a way that said I'd slept past my usual alarm. I checked my phone. 7:43 AM. December 12th.
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
 
-Damn. I sat up, a loc falling loose across my face that I pushed back automatically. Better move if I wanted to get research in before Leon.
+**[STAGE 1 OBJECTIVE COMPLETE: DEFEND THE YOUNG GOBLIN FROM THE THRASH ENFORCERS]**
 
-I rolled out of bed, crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
+**[NEW OBJECTIVE: GATHER INFORMATION ON SHIV]**
 
-Wild that I was actually in HGO now. I pulled a red hoodie off its hanger, grabbed clean joggers, my Humu 1's off the floor.
+**[LOGOUT AVAILABLE]**
 
-Not the race I wanted. Not that I'd wanted any of them. But honestly? I might have landed something good by accident. Funny how that worked. I tugged the hoodie down.
+The gray line that had blocked my logout since I'd spawned was gone. I filed that away.
 
-I got dressed, cleaned up my room, and dug the folded note out of my jacket pocket before putting it away.
+"Let's get to it," Sevish said. "We talk inside." He jerked his chin at the big tent, then at the kid pressed against my side. "Both of you."
 
-Her handwriting at the top, clean block letters, the friend code underneath. I read the date at the bottom.
+He turned and walked, Wyx falling in at his shoulder. I followed with the kid at my heel, my bare soles aching on the packed dirt.
 
-December 23rd. 689450YY.
+Bone totems capped the poles on either side of the big tent's flap,.
 
-Just a date. No name, nothing else. I turned it over once. Either she was busy that day, or she wanted me there. I folded it back along the same crease and slid it into my pocket.
+Inside, a lantern hung from the center pole, and a chest and a few barrels sat tidy against the canvas. A round war table stood at the center with a map of the continents spread across it, marked in red and ringed with candles.
 
-I grabbed the laptop off the counter on my way to the kitchen stool and started typing before I'd even sat down fully.
+Sevish crossed first, walked behind the war table and sat, the axe leaning within reach. Wyx took a stand beside him. I stopped on the open side of the table, and the kid pressed up against my side. He reminded me of Taji a little. I didn't know if I'd picked up a companion or if he was just part of the mission.
 
-**[Shiv | HGO lore]**
+I rolled my shoulders, easing into the room, and glanced down. The kid looked up at me, ears twitching, checking I was still there. I gave him a small nod. *"Okay. They have structure."*
 
-Almost nothing came back official. Three sparse lines from the game's own codex, two dead forum threads from launch week, both abandoned. I scrolled through them twice and rubbed my eyes with the heel of my hand, the laptop screen too bright for the dim kitchen, and gave up.
+"Well, it's completely different in here," I said, dry as I could keep it. "You guys got it all nice."
 
-Alright, fine. I was learning this one the hard way.
+"What did you expect us to come out here with, farm tools?" Wyx said, the corner of her mouth curving. "We still give our people the tools to succeed, but there are ranks in this clan. You earn them. Nothing is handed over." Her gaze flicked over me. "You are new blood, so you may not know it, but few goblins live long enough to become hobgoblins."
 
-I backed out and pulled up my character sheet, skill list on the left, thumb scrolling. Gambler's Gambit sat there with barely a paragraph under it, the World Quest tag pinned at the top of my log, both active, both about as explained as nothing. I closed a patch-notes post, new World Quest content confirmed rolling out, and sat with that a second.
+"Understood," I said, and nodded. *"Maybe I just expected less from goblins."* I hadn't expected her to answer my crack at all, never mind that fast, and a grin tugged at my mouth as the excitement kept building.
 
-Everyone out there already knew it was live. That was a target on me whether I wanted one or not. A cold prickle crawled between my shoulder blades.
+"What is your name?" Sevish asked, his voice cutting through my distraction and pulling me back.
 
-I switched to Loop, set my handle to TDRAG to match the game, and set a goblin icon as my profile image instead, something pulled straight off my own character sheet. No real photo, not while the goblin stayed separate from anything anyone could actually trace back to me.
+I blinked, and a panel unfolded in the middle of my vision.
 
-After swiping through Loop for a bit I pulled up the Companion App next. Streams stacked down the front page, viewer counts running six figures on some of them, sponsor logos scrolling under the biggest ones.
+**[ENTER YOUR NAME]**
 
-There could be real money if I decided to stream the World Quest, but that came with a huge target on my back.
+*"So that's probably why they held my name back. I hadn't met the clan leader yet. Interesting."* I folded my arms and thought hard about the name before I typed.
 
-I'd read enough threads to know what higher-level players did when they wanted something someone else had. World Quest items came back bound, the forums were consistent on that much, but bound didn't mean safe.
+"Nykri," I said.
 
-If someone decided I was worth the trouble, I wouldn't have an answer for that yet.
+"Nykri." Sevish turned the name over, then stood, slow and deliberate, the axe sliding into the sling across his back, and came around the table. He stopped a few feet away, close enough that I had to tilt my head back to keep eye contact, and crossed his arms over his broad chest.
 
-I almost closed the tab. Then the words Sevish said echoed in my head.
+"Before you go any further, you should hear the true situation," he said. "You said you agree, but you have not heard the full terms. I do not say it to threaten you. I say it because I need to know you are truly with us, and this is not something we take lightly. My sister will lay it out."
 
-Sevish did say I would be an ally of Thrash, and it held as long as I didn't blow the quest. Two powerful NPCs plus a warband of goblins backing me meant anyone coming after me needed an actual party. That was a commitment on their end too.
+Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. The clans fight among themselves while the beastfolk on our border could destroy us all. Shiv has been gone near half a century, and the clans have never found their footing since. Thrash gave up land and power to make this trip." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan stood as one once. My grandfather's generation saw it. I hope to see it with my own eyes. We could be a force if we stopped fighting among ourselves."
 
-Half the accounts that could actually field that kind of party were sitting idle anyway, still deciding whether to cash out for Legacy Points before the reset made the call for them. Fewer real threats walking around this exact week than there'd be in a month. I rolled my shoulders, the knot from the shower still sitting stubborn between them.
+She drew a battered notebook from her belt, the leather cracked and dark with handling, and held it against her chest instead of setting it down. "All we know comes from these notes, carried down in our clan for years. They say Shiv had a connection to something or someone in Lunarest. So we gambled and came here, to find any information, any lead he left behind, that can hold our people together."
 
-I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window.
+*"So they're gambling too. We've got more in common than I figured, even if neither of us planned it."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 
-December 23rd.
+"We have tried the rally three times," Wyx went on, her eyes on the map. "We could not get past the city guard and the adventurers who rally to them. We have never gotten past the walls. But with your help, that could change drastically, especially after what I saw tonight."
 
-Same date as the note in my pocket.
+"So you want me to go to the kingdom of Lunarest for information on Shiv," I said, making sure I understood correctly. "Did I hear that right?"
 
-Already decided. I looked at it one more second. I needed Tochi more now than I had a week ago. If I was expected to actually repair those pods I needed proper training, and they were the only ones I knew that offered that level of teaching without being at university.
+"Yes," Wyx said. "Bring back any information, even if it is barely anything. It gives us something, and then we can go home. Our camp has grown restless, and the sooner we are back in Myrrhwood to hold things down, the better. We have been gone too long."
 
-I skimmed the race comparison page while I double-knotted my laces and caught something I'd glossed over before. Every other race had hard class locks sitting right there in print. Goblin's column was nearly empty. Low base stats, almost no restrictions.
+My hand drifted into my wild, greenish hair as I looked down at the kid and back up at the two of them. I had nothing else to lose, and turning down a world-level quest would be stupid. This could pay out more than I realized. I just needed time to research first. I couldn't keep going in blind.
 
-Nobody had taken this seriously because the numbers scared them off on day one. A short breath, something like a real grin. And if the magic path opened up on top of it, which it looked like it actually would, that was a build nobody had mapped out yet because nobody had stayed long enough to find out.
+"All right, sounds simple enough," I said. "And if I accept your offer, what does that mean for me?"
 
-I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phone in my pocket.
+"By our law, anyone who brings back word of Shiv stands as an ally of Thrash," Sevish said. "Whoever comes for you comes for the clan. Take the quest and do not return, and we will take it as a dismissal and a betrayal. We will leave, and if we cross paths again, we will be enemies." He held my stare. "I would rather you never became one."
 
-I had to move. I didn't want to be stuck in camp when the Gambler's Gambit timer reset.
+*"Real, long-term backup."* A bead of sweat rolled down my temple. *"An ally this early, and a whole warband, could really help. I just have to come up with a plan. An enemy this early, in a zone I might end up in, would be worse. There's only one good choice here."*
 
-I grabbed Dad's manual off the desk, shoved it into my bag with my laptop, and headed for the door.
+"I hear you," I said, and held Sevish's stare. "I don't take this lightly. I told you outside I'm in, and I didn't change my mind that quickly."
 
-The ride gave me room to breathe, the Haya EB humming steady under me, the city still waking up around the edges. I pulled my phone at a red light, Loop already open on habit.
+Wyx's chin dipped, a small smile on her face, and a notification flickered at the edge of my vision.
 
-**[@Dosuke_AI: Has anyone else noticed that the rally outside Lunarest never popped this morning?]**
+**[AFFILIATION: WYX THRASH - 48% → 52%]**
 
-**[@PK_Wraith: Lunarest or nah. somebody confirm..]**
+Sevish let out a loud, rolling chuckle.
 
-**[@Xx_Wraithborn_xX: No doesn't look like they spawned yet]**
+The clock in the corner of my vision read 9:41 PM. I'd barely registered it when a channel opened in my ear and a pop-up slid across the top of my interface.
 
-I killed the screen before the light changed. That meant I was ahead for now.
+**[DIRECTOR IN BOOTH: VOICE CHANNEL]**
 
-• • •
+Leon's voice came through, distant and tinny, from somewhere outside the world I was standing in. "Hey, heads-up, we're closing in about twenty minutes. Also, I'm having someone come check the monitor tomorrow. I wasn't expecting you to have a longer session today, nobody usually does on these pods. If you're coming back soon, I want it prepared and your safety covered. Sorry about that."
 
-Sakura Arcade looked different in the morning light, less like a place barely holding on and more like a place that just needed someone to actually push it. A woman was behind the counter when I walked in, red hair, street-biker aesthetic, sharp eyes that landed on me the second I crossed the threshold and didn't move off.
+"I'll be off shortly," I said out loud, the words aimed at Leon.
 
-Leon's sister had to be. The resemblance was there once you looked.
+"No worries, man," Leon's voice came back through the speaker, relaxed and unbothered. "You've been in there a while. Hope the pod didn't give you any more issues after that initial hiccup."
 
-"How can I help you?" She said it directly.
+"Nah, it's been good," I said, keeping my voice casual while my heart hammered from everything happening inside the game.
 
-"Looking for Leon," I said, keeping my voice level, hands loose at my sides. "He's expecting me."
+Sevish and Wyx were both looking at me strangely now, and my ears went hot.
 
-"You're the guy fixing the pods." Not a question. She jerked her chin toward the back hallway, already turning like the conversation was done, or doing a good job acting like it was. "He's back with the VRSA inspector near them. Go through."
+*"Right. They can't hear Leon. All they see is me talking to empty air. Great first impression, the new guy talks to himself."*
 
-"Appreciate it."
+"Whom do you speak to?" Wyx asked, her head tilting a degree.
 
-I held her look half a second longer than the exchange needed, then turned for the hallway.
+"A voice." I shrugged. "It comes and goes." It was close enough to true.
 
-Leon was crouched near the second pod's access panel with a man in a branded VRSA polo, both of them bent over a tablet, deep in something technical, cables spread across the floor in a tangle that looked worse than it probably was.
+"Spirits do that," she said, and let it go, though her eyes stayed on me a beat longer than the answer needed.
 
-"Morning," Leon said, straightening up slightly, one hand still resting on the pod's frame. "Inspector's already here. Good timing."
+The logout icon still sat white where the quest update had cleared it. I could leave whenever I wanted, but I wasn't going to vanish on them.
 
-"Take your time," I said, dropping my bag by the wall where it wouldn't be in the way, the strap landing with a soft thud against the concrete.
+"Could you give me a bit to think it over?" I said out loud, squaring my shoulders at Sevish this time.
 
-Leon peeled off a few minutes later, the same energy from yesterday still sitting on him, and came back to my side.
+"Of course," Sevish said, and it came out as a decision he'd already made.
 
-"Inspector's confirming what I figured," Leon said, rubbing the back of his neck, his glasses slipping slightly down his nose before he pushed them back up. "Second pod's a real project, not a lost cause."
+"I just need time to prepare," I said. "And to meditate."
 
-"Good. I've got leads on parts from Dad's manual. Can pull more if we need specifics."
+"Then prepare. But you stay in camp while you do."
 
-"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose, posture settling into something that read more relieved than he was probably willing to say out loud. "Been sitting on those pods for two years thinking they were basically scrap." He tipped his head toward the front of the arcade and dropped his voice to a whisper. "Sorry if Arya gave you a hard time out there. She's been asking questions since yesterday. I don't want her near this until we're cleared and running."
+"The boy stays with us," Sevish said, nodding at the kid. "I want a final report." The kid's ears pinned flat, but he stayed put. I gave him a small nod.
 
-"Makes sense," I said, and left it there.
+Sevish leaned toward Wyx and murmured something. She put two fingers to her mouth and let out a loud whistle. A minute or so later, two Thrash goblins came in, hands on their clubs, and cuffed my wrists without a word.
 
-We spent the next twenty minutes going through the parts list from Dad's manual, cross-referencing against what Leon could source locally, flagging the stuff that would need Tochi's labs or a specialty supplier.
+**[YOU ARE NOW A PRISONER OF THE THRASH CLAN]**
 
-"This batch I can't get here," Leon said, tapping a line on the sheet. "Guy I know in Akihabara still stocks first-gen internals, but I've got to go pull them myself, nobody ships this stuff anymore. I'll head out once the inspector's squared away here."
+**[MOVEMENT RESTRICTED TO CAMP BOUNDARIES]**
 
-"I've got leads on funding it, too," I said. "Not gonna let you front the whole bill on something that's supposed to make you money."
+**[DURATION: UNTIL RELEASED BY CHIEFTAIN SEVISH]**
 
-"We'll figure that part out." Leon didn't argue it further, which told me more than an actual answer would have. I tapped a knuckle against the cool frame of the pod and went back down the list, my eyes starting to ache from the small print.
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
 
-By the end Leon looked more settled than he had when I walked in.
+**[STAGE 2 UNLOCKED]**
 
-"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with working first-gen HGO access." He clapped me on the shoulder once, the kind that felt more like sealing something than saying goodbye. Then his face shifted, more careful. "Before you get in there, though. The inspector's not done yet, so let me actually explain what he's doing back there, because it matters for you specifically."
+**[OBJECTIVE: INFILTRATE THE GRAND LIBRARY OF LUNAREST – RESTRICTED FLOORS]**
 
-"Go for it."
+**[REWARD: UNKNOWN]**
 
-"He's not fixing anything. That's you, that's the only reason any of this is possible in the first place." Leon rubbed the back of his neck. "What he's doing is deciding whether VRSA's willing to sign off on us. Think of it like a road closure. Doesn't matter how good the road actually looks, if the sign says closed, you don't drive on it, or you're the one eating the consequences, not the city."
+**[TIME LIMIT: 7 DAYS IN-GAME]**
 
-"And the first pod? The one I already used?"
+The guards walked me out through camp in cuffs, the kid staying behind with Sevish and Wyx. We passed the black scorch mark where the enforcers had gone down, a few goblins already scuffing dirt over it, and the stew pot, down to coals, one last goblin scraping the bottom with a wooden spoon. I took in all of it.
 
-"He's putting in the external monitor. Both pods need it before either one can run anything commercially, period, that's the law, not an arcade rule."
+They stopped at a tent near the eastern edge of camp, away from the central fires. One of the guards pulled the flap open and unlocked my cuffs. "Inside."
 
-"External monitor," I repeated slowly, turning the phrase over in my mouth, not liking the sound of it yet. "Means I need someone watching while I play."
+I ducked through the entrance, and the noise from outside dropped off almost at once. The tent was small, lit by a single oil lamp, a thin patched bedroll taking up most of the floor.
 
-"That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, your gameplay will be displayed on the second monitor. It requires someone to be seated during all sessions in case something happens where the operator has to eject the person playing, aka you."
+I sat and the straw stuffing crackled under me. I pulled one foot up and found the sole raw and gritty. *"Shoes. First thing I buy."*
 
-Makes sense. So basically whoever my operator was would see every move I made from here on out. Something about that settled uncomfortably in my chest, a weight I hadn't anticipated sitting there. I squinted at the dead second monitor, the fluorescent tubes overhead throwing a flat glare across its black glass.
+This was where I'd be staying until I gave them an answer. *"A bit of time. I asked for it."*
 
-"Third-gens do it with a VR agent instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. Old pods don't have that, so it's gotta be an actual body in the chair for most sessions."
+I pulled the two green vials out of my inventory and turned them over in my green hands. Twenty-one thousand shillings each.
 
-"That's pretty strict for just gaming, right?"
+Run through the exchange, that came out to sixteen thousand eight hundred yen from one roll, and the Gambit only fired once a day. I set the vials on the bedroll and grinned at nothing, a fizzy, stupid grin. *"Not a bad first login."*
 
-"Tell that to VRSA," Leon said, and a little of his usual dry humor came back, the corner of his mouth twitching. "I'll do it myself, for what it's worth. Keeps this whole thing quiet a while longer, and honestly." He paused, rubbed the back of his neck again, avoiding eye contact. "I also thought about the sponsorship idea, and I'll be honest, my grandpa was against stuff like that, mainly because corporations always have funny business attached. I know it sounds crazy because I haven't even seen you play this game yet, but because of what you're willing to do for us in fixing these things, I'm willing to take a gamble on you too. So while you're in there, consider me your eyes out here. I may not play, but Arya's been talking my ear off about HGO since before the beta started, so I can at least be a resource when you need something on this side."
+It left me with more questions than answers. I touched the dice at my ear. *"Fortune feeds crits and drops, I know that much. What does this die do as it climbs?"* I knew this game cold, down to the Spellforger build I'd drawn up with Eren. A goblin body I'd never planned for was the blank.
 
-I dragged a hand back through my locs and let out a slow breath while that landed.
+*"Chiyo's going to ask where I'm spending my days."* I picked at a loose thread in the bedroll. If I could call it a job at Leon's, she might let it ride. If not, it was Tochi, a bed on campus and the game on weekends only. Mom's surgery sat under all of it.
 
-"That works for me," I said, and meant it. "Appreciate that. And to keep it clean and real with you, my gamble's got a real need behind it. My mom's sick, in a coma, and I need money fast. Real fast. I think HGO's blessed me with something that can actually get that done."
+I slid the vials back into my inventory. First things first: get offline, cash these in, and start digging. Whatever I found stayed with me until I knew what I was holding.
 
-Leon didn't say much after that, just nodded once, slow, and let the room breathe for a few seconds, the weight of what I'd just said sitting between us before he cleared his throat and changed the topic.
+The chat window suddenly lit up, messages scrolling past too fast to read. Then a bell rang, loud enough that it should have echoed through the camp, though nobody else reacted.
 
-"Inspector's got maybe another hour on the install," Leon said, glancing back toward the booth. "You can get in now if you want, or wait till he's fully done."
+**[SYSTEM ANNOUNCEMENT: WORLD QUEST | CALL OF THE BONES HAS BEEN ACTIVATED BY NYKRI]**
 
-"I'll just wait it out," I said, dropping my bag back by the counter with a soft thud. "Rather go in once everything's done than log in and out twice for no reason."
+I watched it erupt, theories and arguments breaking out faster than I could read.
 
-"Suit yourself," Leon said, tipping his head toward the front of the arcade.
-
-I took a stool near the front counter while the inspector worked. Arya was cleaning down the front counter a few feet away, and the quiet between us lasted longer than I wanted it to.
-
-"So you're the one actually breaking that pod in first," she said, not quite looking over, her hands still moving through the grips. "Leon's been weird about it since yesterday. Won't say why." A glance, quick, sharp green eyes meeting mine for half a second before going back to the counter. "Figured I'd just ask you instead."
-
-"I was told not to say anything right now," I said, keeping my voice easy, hands resting on my knees. "Ask Leon if you want the real answer."
-
-"Already did," she said, and the corner of her mouth twitched, not quite a smile but close. "He changed the subject. Twice."
-
-"Then I guess you're stuck waiting," I said.
-
-She went back behind the counter, but her posture had shifted slightly, shoulders still tense, like she wasn't done with the conversation yet. "Fine. Can't hide it forever though. I do work here."
-
-I let it sit there, easy enough, and killed the rest of the wait scrolling through my phone, nothing loading that actually mattered, just something to do with my hands until the inspector called it done.
-
-By the time the inspector finished, the operator's booth had changed. A second monitor now sat angled beside the first pod, slim and modern compared to the older hardware around it, a soft green waveform glowing across its screen in steady pulses. Leon was crouched in front of it with the inspector, both of them running through something on a checklist, and Leon waved me over without looking up.
-
-"He's signing off now," Leon said, straightening up with a small grunt, one hand on his lower back.
-
-The inspector clicked something on his tablet, nodded once in that flat, procedural way people did when they'd done the same task a hundred times, and peeled a small certification sticker onto the pod's frame without any ceremony.
-
-"You're clear for sessions," the inspector said, his tone as flat as his expression. "Standard operator protocol applies the whole time, no exceptions."
-
-"Got it," Leon said. "Appreciate you fitting us in on short notice."
-
-The inspector packed up his gear, tablet and tools disappearing into a branded case, and headed for the front without another word.
-
-Leon dropped into the chair at the operator's booth, the monitor already syncing to the pod's feed, green lines stabilizing across the screen.
-
-"Alright," Leon said, glancing over the readouts once, then back to me. "Since we overrode this thing, we're gonna need to take breaks. If we don't, it'll overheat, and that's not safe for you to be in if it does."
-
-Right. Makes sense. I climbed into the pod, the padded interior cool against my back, and pulled up my account settings on the small HUD that flickered to life in my vision. Based on what I'd read in the forums, you needed to preset streaming before entering and loading the game, not after.
-
-I flipped it so I could go live as soon as I got back in HGO.
-
-**[STREAM STARTING IN 60 SECONDS – TDRAG]**
-
-No names blinked into the chat window yet. Just me and an empty feed.
-
-Alright. Let's get it started.
-
-The visor lowered, sealing me in, and the world outside went dark.
+*"Damn. That's not good."* I reached for the logout button and my vision of the world went dark.
 
 **[END CHAPTER SIX]**

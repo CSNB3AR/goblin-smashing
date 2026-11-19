@@ -19,7 +19,7 @@
 
 ## Market and binding
 
-Common/Uncommon-tier crafted goods sell instantly through standing buy orders (the same mechanism behind the Minor Elixir sales already on the page, `chapters/chapter-04.md`). Rare-tier and above usually move player-to-player or stay bound if tied to a quest reward. Modular gear (the Goblin Gadget Belt, see `codex/objects/goblin-gadget-belt.md`) can be upgraded in place rather than replaced outright.
+Common/Uncommon-tier crafted goods sell instantly through standing buy orders (the same mechanism behind the Minor Elixir sales already on the page, `archive/old-drafts/chapter-04-old.md`). Rare-tier and above usually move player-to-player or stay bound if tied to a quest reward. Modular gear (the Goblin Gadget Belt, see `codex/objects/goblin-gadget-belt.md`) can be upgraded in place rather than replaced outright.
 
 ## Cross-references
 

@@ -39,3 +39,73 @@ One item from Shiv's Warset (see `codex/objects/shivs-warset.md`) is a **relic**
 ## Page state, Chapter Nine (checked against the chapter file, latest)
 
 Shiv's scene is now Chapter Nine, "The First Disciple". Flamonta lands inside Tatsuya's **holding tent** (a prisoner's tent, not a war tent, so earlier lines saying "inside the war tent" or "his own war tent" are stale). The kid is in the tent with him and is frozen mid-motion by Flamonta. On the page Shiv says the effect around him is "just what standing near me costs, for now", names himself Shivaris Jutsuin, calls Tatsuya "little one" (no Nykri or Nyk nickname on the page), and asks permission before he touches the kid. His line about reach reads "It stretches across this whole map, and past it" (the codex says all five continents; the "and past it" is the author's wording, left as written, flagged OPEN only if it ever needs to match the continent count). Stream context: HGO's official channel hosts the stream during the scene; chat is off on Tatsuya's side, so he never sees chat reacting to Shiv.
+
+## Chapter Nine: what Shiv says on the page, and what was held back (author-stated, latest)
+
+**On the page, short and sweet, with Tatsuya answering back.** Shiv says he has little time and gives one lead: if Tatsuya truly wants the power to unite the goblin folk, he left pieces of his equipment scattered across Eryndal, and one is already in the Kingdom of Lunarest, hidden deep within the heart of the city itself, "where the kingdom buries what it wants forgotten." Tatsuya asks where in the city and what Shiv did; Shiv answers that he did something the kingdom would not forgive and that Tatsuya will have to find the rest himself. That is the seed that sends Tatsuya to the library and the archive. The Flamonta slow is explained in one line ("the only way I can speak with you").
+
+**Held back for later (ledger and codex, to be found in the archives, not given up front).** Shiv's full backstory speech was cut from Chapter Nine and is kept here verbatim so nothing is lost:
+
+> "I don't have much time to talk," Shiv said, his tone shifting slightly, becoming more measured. "So I'll get to it. You should know what you're actually about to carry."
+>
+> "I'm listening," I said, my weight shifting slightly on my knee, trying to find a position that didn't make my legs shake from holding myself up against the drag.
+>
+> "I wasn't always this," Shiv said, and something almost like a dry laugh moved through the ash. "I had a name once, before this one. Shivaris Jutsuin. A noble, if you can believe it, looking at me now. Lunarest's own court, back when that meant something."
+>
+> The green eyes didn't blink, didn't move, just burned steady in the smoke. My arm had started to tremble under my weight, and I dug my long fingers into the dirt to steady it.
+>
+> "I loved a queen who wasn't mine to love. The king didn't take kindly to that once it came out, and his court's mages made sure I understood it. What they did to me for it, they didn't call it a curse. They called it a correction."
+>
+> He gestured, vague and dismissive, at his own ash and smoke form, the shape of him flickering slightly at the edges.
+>
+> "As you can see, this is how the curse changed me, changed my whole way of thinking, that's for sure," Shiv continued. "A lot of dirt the kingdom doesn't want dug back up. I wasn't the first they'd done it to, either. Goblins, beastfolk, anything that counted as demi-human had already been hunted as feral for longer than I'd been alive. They just ran me out to join them."
+>
+> "Everywhere I went after that, it didn't matter where, it was the same," Shiv said, something harder settling into his voice. "A monster first. Anything else second, if I was lucky enough to get a second look at all. I decided I wasn't going to spend what was left of this life proving them right. Goblins weren't feral. We could be something civilized, something worth building. That's the only reason Myrrhwood exists at all."
+>
+> He paused.
+>
+> He was waiting for me to say something.
+>
+> I stayed quiet, just kept my eyes on Shiv, reading the moment. I tugged at the split seam of my sleeve with one fingernail, an idle fidget I only noticed once I'd started it.
+>
+> "Understand," Shiv said, his voice dropping slightly. "The court that cast me out wasn't righteous about it. That kingdom had been rotting from the inside long before I ever gave them a reason to point at someone else. I'm not interested in playing the villain of that story just to sound humble."
+>
+> *"Okay. So he's not the bad guy. Got it."* My brow had pulled down while I listened, and I made it ease.
+>
+> "There's more to it than that," Shiv said. "How I managed to hold the goblin clans together at all, that part you'll have to find on your own. My methods might not be something you can just copy, but yours might work where mine didn't. I leave what's left of my Warset to any goblin with an open mind enough to go looking for it."
+>
+> I wiped my palm down the rags, damp from the dirt and my own nerves, before bracing it on the ground again.
+>
+> A new notification flashed at the edge of my vision, bright yellow bordered.
+>
+> **[STREAM HOSTED BY HGO OFFICIAL CHANNEL]**
+>
+> **[VIEWERS: 11 → 891]**
+>
+> Everything in me went still.
+>
+> *"Wait. HGO's main channel just hosted me."*
+>
+> The number kept climbing.
+>
+> *"I can't take this back. Whatever happens here, everyone's going to see it."* A prickle ran up the back of my neck under the ash chill, and I fought the urge to glance around the tent for the people watching.
+>
+> "Alright," I said, my voice steadier now even through the drag. "So why me? You've got a whole camp of goblins out there. Why pull me in here specifically?"
+>
+> Shiv's burning green eyes stayed locked on my face.
+>
+> "Because my reach is fading, and you're the only one who's shown me the same kind of wisdom I had, once," Shiv said, and the ash flickered again. "I've done everything I can to hold the pieces of this apart from each other, keep them from finishing each other off before they ever get the chance to actually unify. That's not the same as fixing it. Goblins have never truly stood together, not once, and if the feral clans keep tearing at each other, none of it holds."
+>
+> *"Guilds are probably watching. Everyone is."*
+>
+> "What I'm asking isn't small, either," Shiv continued. "It stretches across this whole map, and past it. Others have picked up pieces of what I used to carry. Find them if you want the full set, and help me put the goblins back together while you're at it. But that takes disciples."
+
+**New ledger detail for the reveal (author-stated).** Shiv and the first queen (Isaveil, see `codex/lore/lunarest-royal-court.md`) were childhood friends who already had a bond before the king married her; the king was corrupt, and much more was entangled. The first queen is lost to history: the second queen is the one remembered as the first. Tatsuya eventually finds the details of the affair and why it happened. Do not state "affair" or "queen" to Tatsuya until he reaches the archive.
+
+## Chapter Nine: the warning and the reason for the gear (author-stated, latest)
+
+Shiv gives Tatsuya a warning, not his history: the rot in the Kingdom of Lunarest does not stop with the king, others are gathering power, and if the goblins do not find a standing soon and someone else takes the throne, the demi-humans will never get another chance. The third prince is not named. The gear exists to give Tatsuya the strength to act on that warning (cause and effect, not a gift for nothing). Shiv has been gone forty-five years and his tale is scattered across Eryndal. Ledger only: a world quest can be overtaken, because if other storylines activate and resolve before Tatsuya's, they can cancel his.
+
+## Ru's title, latest (author-stated)
+
+Ru's title is **Disciple of Elder Nykri**, not "First Disciple of Shiv" (anything above that says the Shiv title is superseded). It is clan-based and about Nykri, not Shiv: Ru stays under the Thrash clan, keeps Shiv's blessing, and as Nykri gathers more goblins the name spreads. Shiv's own line in Chapter Nine: "Make yours greater than mine." See `outline/canon-ledger.md`.

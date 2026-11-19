@@ -305,14 +305,14 @@ Tochi has a real, enforced zero-tolerance policy on bullying, hazing, and family
 
 ## 10. Craft / Writing Rules (Non-Negotiable)
 
-- No em dashes, anywhere, ever.
+- No em dashes, anywhere, ever. No en-dash or spaced-hyphen dashes, and no ellipses in narration or mid-sentence (see `style-guide/craft-rules.md`).
 - **Inner monologue: italics and quotation marks together.** `*"Like this."*` A deliberate, permanent house format (this rule has flip-flopped several times across drafts; italics+quotes is the real, final, confirmed standard, matching how chapters 8, 9, and 10 actually read on the page, don't relitigate this again). First-person.
 - **Text messages, notes, and other on-screen/written text get square brackets, plain, not bold, not quotation marks.** [Like this.] No bold wrapping. Keeps them visually distinct from spoken dialogue and from inner monologue at a glance, the same instinct as the blue-box UI presentation for game text (see `bible/game-system.md` §5), applied to real-world written text too.
 - One speaker or thinker per paragraph.
 - Full sentences in narration, no action fragments.
 - Every line of dialogue paired with an action, posture, or tone cue. No floating quotes.
 - **Banned physical beats:** jaw clenching, sighing as an emotional beat, pacing, swallowing hard, crossing arms, "chill ran down his spine," "heart pounded."
-- **POV:** First person, past tense, locked inside Tatsuya's head at all times, no exceptions (the Slime effect; see `style-guide/first-person-voice.md`). Everything the reader learns about the world, other characters, or the setting has to arrive through what Tatsuya sees, hears, does, or thinks, not through outside exposition. The third-person originals are archived in `chapters-third-person/`. Real world first, VR second. No generic fantasy narration inside HGO. Real-life pressure (bills, twins, mom, Tabuchi) never fully turns off, even in-game.
+- **POV:** First person, past tense, locked inside Tatsuya's head at all times, no exceptions (the Slime effect; see `style-guide/first-person-voice.md`). Everything the reader learns about the world, other characters, or the setting has to arrive through what Tatsuya sees, hears, does, or thinks, not through outside exposition. The third-person originals are archived in `archive/third-person/`. Real world first, VR second. No generic fantasy narration inside HGO. Real-life pressure (bills, twins, mom, Tabuchi) never fully turns off, even in-game.
 - **Chapter target:** roughly 3,000–4,000 words (updated from the earlier 2,000–2,500 baseline as the author's actual chapters settled at this length). Serial format. Every chapter ends on a decision, complication, reveal, or gut-punch. No neat bows. No recap-heavy internal monologue. No lore dumps, the world is revealed only through Tatsuya living inside it.
 
 ## 11. Open Questions / Flags for Confirmation

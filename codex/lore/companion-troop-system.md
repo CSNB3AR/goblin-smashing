@@ -39,3 +39,7 @@ The old draft has Tatsuya opening a system/status screen mid-fight, with a small
 - `codex/characters/goblin-squad-companions.md` — Drosh's existing Hobgoblin rank is the target tier this system's rank-up leads toward.
 
 - **Non-troops do not level (author-stated).** NPCs who are not under the troop system (for example Sevish and his sister Wyx) cannot gain levels and stay at the level they are held at until they become troops of the player and receive the troop experience buff. Developer updates may adjust this later.
+
+## Ru's title, latest (author-stated)
+
+Ru's title is **Disciple of Elder Nykri**, not "First Disciple of Shiv" (anything above that says the Shiv title is superseded). It is clan-based and about Nykri, not Shiv: Ru stays under the Thrash clan, keeps Shiv's blessing, and as Nykri gathers more goblins the name spreads. Shiv's own line in Chapter Nine: "Make yours greater than mine." See `outline/canon-ledger.md`.

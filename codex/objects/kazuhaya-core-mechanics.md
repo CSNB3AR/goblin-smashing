@@ -2,7 +2,7 @@
 
 **Type:** Object/tech, real-world. Technical reference for the processor core inside the Kazehaya pods (Daichi's line, the old upright full-body pods). Codex only: it gives the author and any agent one consistent set of numbers and terms so the page can stay light.
 
-**Status:** Mixed. Facts the author has stated are tagged **(canon)**. Everything I added to make it work as engineering is tagged **(proposal)** and can be changed freely. Chapter references are to `chapters/chapter-03-new.md` and `chapters/chapter-06-new.md`.
+**Status:** Mixed. Facts the author has stated are tagged **(canon)**. Everything I added to make it work as engineering is tagged **(proposal)** and can be changed freely. Chapter references are to `chapters/chapter-03.md` and `chapters/chapter-07.md`.
 
 **Naming used here.** The Kazehaya pod (Daichi's line, from Kazuhaya Tech), the Kuroshio capsule (the Tabuchi-backed line, working name) and the Nexus helmet (Kazuku's line). No numbered-generation labels appear below.
 

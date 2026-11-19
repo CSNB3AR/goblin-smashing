@@ -1,6 +1,6 @@
 # First-Person Conversion Log (Chapters 1 to 10)
 
-Chapters 1 to 10 were converted from the author's third-person draft into first person, past tense, inside Tatsuya's head, and the esports framing was reworked as story (not a term swap). Third-person originals: `chapters-third-person/` (chapters 1 to 10 as they stood) and git history. Method and rules: `style-guide/first-person-voice.md`.
+Chapters 1 to 10 were converted from the author's third-person draft into first person, past tense, inside Tatsuya's head, and the esports framing was reworked as story (not a term swap). Third-person originals: `archive/third-person/` (chapters 1 to 10 as they stood) and git history. Method and rules: `style-guide/first-person-voice.md`.
 
 **Review guide:** items marked NEW are passages written or substantially reshaped during this pass, to review and rework in your own voice. Everything else keeps the author's sentences with only pronoun, tense and thought-format changes.
 

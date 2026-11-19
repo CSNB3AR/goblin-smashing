@@ -1,241 +1,245 @@
-# Chapter Eight: Assembling the Assault Team
+# Chapter Eight: VRSA Inspection
 
-The smoke reached me before the words did, a thin gray thread drifting low along the treeline outside the war tent, and underneath the smell of it I could still taste the ash from an hour ago, Shiv's ash, clinging to the back of my throat no matter how many times I swallowed. My new hair kept catching the firelight wrong, white where it should have been dark, and every time it happened my brain still snagged on it for half a second before catching up to what I was actually looking at.
+One word was enough to make Chiyo text me twice before I'd made it three blocks. My phone sat docked in the module under the dash, and the visor put her name in the corner of my vision both times, and I let it ride. The trip back to the Nakamura Grand ran itself the way the ride to the hospital had, muscle memory carrying me through turns I didn't register making, the streetlights sliding past the visor.
 
-A notification flickered at the edge of my vision before I could stop myself from reading it.
+*"Not tonight. I'll deal with it when I'm not this pissed off."*
 
-**[VIEWERS: 7,392 → 8,110]**
+The frustration was still sitting hot in my chest when I parked the Haya EB around back, locked it, and came in through the staff door. The back stairs were on the far side of the lobby.
 
-Chat was still scrolling underneath it, too fast to make out more than fragments, still churning off whatever the Shiv reveal had lit under it. I shoved it out of view without opening it. Chat could wait.
+The lobby was small and warm at that hour, pale stone underfoot, plants in the corners, one lamp burning over the front desk. Someone was behind it for the first time in weeks, her back to the door, reaching up to a shelf, ink running down both forearms and white hair twisted into a messy bun.
 
-Kesh hadn't moved from the spot he'd skidded to a stop in, one hand still braced hard against his knee, claws gone pale at the tips, his breath coming in short, ragged pulls that hadn't evened out at all.
+I didn't say a word to her. She was busy, and I walked past before she could turn around and say welcome to the Nakamura Grand. If she had, I'd have had to answer, and tonight whatever came out of my mouth would have been snapped at somebody who hadn't done anything to me. I pushed through the stairwell door without looking back.
 
-Someone should tell his lungs the danger's already over. The corner of my mouth twitched toward a grin I had no business wearing right now, and I flattened it out again before it could fully surface.
+The back stairs ran three floors, concrete steps and a metal handrail that rang under my boots. On the third-floor landing I dug out my key, unlocked the apartment door, and let myself in. I stood in the dark entry a second, listening to nothing.
 
-Sevish didn't wait for anyone to catch their breath. He was already moving, closing the last stretch of ground into the tent in three long strides, Wyx a half step behind him, and I followed with Ru crowding close at my shoulder, the flap falling shut behind us on canvas heat, woodsmoke, and old leather instead of open air.
+Just the hum of the refrigerator and the sound of my own boots on the floor. I toed a stray pair of Taji's sandals back into line by the door, automatic, the kind of straightening up I did every time I got home first, and left my bag beside them. My phone went face-down on the kitchen counter without a glance, and I headed straight for the shower.
 
-Sevish's voice cut through it sharp and clean before anyone had really settled, the two-handed battle axe leaning against his chair already in reach the second he crossed the threshold. "Wyx. Get the barricades up, reinforce the eastern watch, pull everyone back inside the palisade line. Nobody engages past the treeline." He turned back toward the flap, toward Kesh trailing in last, his scarred face set. "How many on that road, Kesh? Give me a clean count."
+The water came out hot enough to sting, and I stood under it longer than I needed to, letting the heat work through the knot sitting between my shoulders, the anger starting to loosen into something closer to exhaustion.
 
-"Four," Kesh said, still catching his breath, his hand finally coming off his knee to gesture low and wide. "Maybe five. Not farmers. Kesh couldn't, couldn't get close enough. They saw Kesh coming, they saw everything."
+I pressed my forehead against the tile, water running down my face, and made myself breathe through my nose once, slow, the way I did when there wasn't a clean answer waiting on the other side.
 
-Every word cost him something. My weight shifted forward without me deciding to, drawn half a step closer to the sound of Kesh fighting for air.
+I shut the water off, dried off fast, and pulled on a pair of sweats. On my way through the front room I scooped the phone off the kitchen counter and grabbed my bag from beside Taji's sandals without breaking stride. My feet took me down the hall to the last door, the room that used to be Dad's. Since the funeral I'd slept on the couch next to Taji and stayed out of here as much as I could. It was the only place in the apartment where nobody would ask me anything.
 
-Sevish's stance squared, his scarred hand tightening on the axe shaft. "That's not a for-sure number, Kesh." His tone carried an edge now, the kind that said he was running out of patience. "I take it as four for a safe number, and you're telling me four men gave you all this trouble?"
+I left the overhead off. The desk lamp was enough. The room still smelled the way it always had, dust and metal, and the two pale grooves the wheelchair had worn still ran along the floorboards from the desk to the door. The shelf above the desk sat empty. I took the manual out of the bag and set it on the desk under the lamp, its cracked spine catching the light, the letter still folded somewhere in the controller diagrams where I'd tucked it.
 
-Kesh scratched at the back of his head again, his claws catching in matted hair, his eyes dropping to the dirt. "They attacked us. Random. They have caster."
+I dropped onto the bed I hardly ever slept in and sat there with the phone dark in my hand, the lamp buzzing faintly. *"You carried all of it by yourself too. The Tabuchis, Kazuku, whatever you couldn't put on paper."* He'd still found a way to leave me something where I'd look. My shoulders came down a notch, and my breathing slowed without my asking it to. For the first time since the funeral, the room felt a little like mine, and I thought I might actually sleep in here tonight.
 
-The wisdom of goblins really shone in a crisis, didn't it. A laugh threatened at the back of my throat, and I let it die there instead of on my face, not with Sevish standing right there working through an actual threat.
+Only then did I actually look at what she'd sent.
 
-Sevish's eyes tracked to me for half a second, something passing behind them, then back to Kesh. "Where exactly? Road shoulder, treeline, where? I need locations, Kesh."
+Two texts, both short, sent a minute apart.
 
-"Road itself," Kesh said, his voice steadying slightly now that he'd caught his breath, both hands going to his knees this time. "Big red tent. They set up next to edge, where hill leads to road. Anyone coming down, they see first."
+**[Chiyo: You doing okay? Haven't heard from you in a bit.]**
 
-Damn. We were trapped. My stomach dropped before my brain finished the thought, my weight rocking back onto my heels.
+**[Chiyo: Let me know when you get home safe.]**
 
-"They're using our own rally point against us," I said, half to myself.
+Nothing new about Tochi in either one. She'd already asked what changed, and all I'd sent back was one word, same as the note she'd left on the counter that morning, already gone before I'd even gotten up.
 
-Wyx's head turned sharp at that, her green eyes narrowing with something close to interest, a flicker of real respect she didn't bother hiding. "You've seen it."
+I typed a reply, cut it down twice, and sent the shortest version.
 
-"Didn't have to see it," I said, my voice steady. "Only one road down means whoever's sitting on it controls whether anyone leaves at all. Whoever's down there picked the smartest spot to single us out." I glanced back at Kesh, watching the goblin's claws still digging into his own knees. "He said it himself, they're not even bothered enough to move once they've got position."
+**[Home. I'm good.]**
 
-**[AFFILIATION: THRASH CLAN 10% → 12%]**
+Short, on purpose. Right now this was mine.
 
-I wondered what that meant. I'd have to do more research once I logged off for the day. I kept my expression flat, my eyes on Sevish, not letting the notification distract me.
+The phone buzzed again before I'd even set it down.
 
-Wyx was already moving before Sevish said another word, her voice pitched to carry past the tent flap toward the goblins scrambling outside. "You heard him. Palisade line, now, nobody stands out there proving a point when we've got a headcount to protect."
+**[Chiyo: I love you. Get some sleep.]**
 
-A notification bloomed at the edge of my vision, gold-bordered, bigger than anything else that had come through tonight.
+I didn't answer that one. It sat on the screen longer than I wanted, and I closed the thread without typing anything back. The banking app was one more thing to check before I let myself sleep.
 
-**[BREACH QUEST: DOMAIN DEFENSE]** **[INTRUDERS INVADING BLOODHURST]** **[THRASH CLAN DEFENDERS: 50/50]** **[INVASION TIMER: 00:04:37]**
+**[BANK BALANCE: ¥64,120]**
 
-Okay. So them attacking us had triggered a new quest. I dismissed the notification and pulled up my own character sheet instead, the blue UI screen resolving clean in my vision.
+Not much. But it was mine. The corner of my mouth lifted before I caught it.
 
-**[CHARACTER: TDRAG]**
-**[RACE: SHIV GOBLIN]**
-**[LEVEL: 7]**
-**[TITLE: THE FIRST DESCENDANT OF SHIV]**
+I scrolled down out of habit, the way I always checked my own numbers, and the second account caught me before I could stop it. Still listed under Daichi Kazehaya, and somehow still mine to see. Nobody had ever bothered pulling me off it.
 
-**[HP: 65/65] [SP: 32/32] [MP: 32/32]**
+**[KAZUHAYA TECH - Daichi Kazehaya]**
 
-**[STATS]**
-**[COURAGE: 4]**
-**[POWER: 4]**
-**[WISDOM: 8 (13)] +5 Call of the Bones (Necklace)**
-**[SPEED: 9]**
-**[FORTUNE: 15 (18)] +3 (Gambler's Earring)**
-**[ENERGY: 4]**
+**[BALANCE: -¥3,014,200]**
 
-**[ABILITIES]**
-**[GOBLIN GAS]**
-**[SHIV-TOUCHED FLARE – TIER 1]**
-**[CALL OF COMMAND – TIER 1]**
-**[RUNE PRIMING – TIER 3]**
-**[ANCIENT BONE FLAME BARRAGE – TIER 5]**
-**[GAMBLER'S GAMBIT – PASSIVE]**
-**[BONE SURGE – PASSIVE]**
+**[COLLECTIONS NOTICE: TABUCHI HOLDINGS]**
 
-I squinted against the glare of it, the blue washing the firelight flat across my eyes. Four points Wisdom, six Fortune. That was the build. Speed was sitting at nine, and that was enough for now. I dismissed the screen and looked back at Sevish, my stance settling back to even.
+I stared at my own balance first, then Dad's, then the name under the collections notice.
 
-My eyes had caught on Gambler's Gambit one more time before the screen faded, and something close to a real grin threatened this time. I still hadn't made a single actual yen off any of this, whatever chat thought about that. I wondered if Gambit even procced off a player kill the same way it did a mob. I'd never had a reason to test it. Four raiders with real gear on their backs were about to be the first.
+*"Three million, and I'm still a minor. The only way that's sitting there is if I have something to do with Dad's business."* As far as I knew I didn't, but that could have changed when he died. *"Damn. So many questions I don't have answers to yet."*
 
-Sevish was already barking orders, his voice carrying across the tent and out into the camp beyond, goblins scrambling the second his words landed.
+I set the phone down for real this time and lay back against the pillow.
 
-"Wyx, I want rotation shifts every thirty seconds."
+The update at the end of the year was going to be huge, and Kazuku had said there was an event in it worth millions. There weren't many weeks left, and I didn't know what it would be, so I couldn't build a plan on it. What I could count on was my build, and how much of it I could use came down to how much money I made first. Before the new kingdoms opened I had to be ready for whatever Kazuku had coming, and I needed a way to build something that paid whether I won or not, crafting maybe.
 
-A second notification bloomed in the corner of my vision, smaller, gray-bordered.
+The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV, running Season Zero highlights back to back, the Thornwatch siege and London's flag going up, and I left it on low for the noise. Along the bottom the headline crawl cut across the clips: **[WORLD QUEST ACTIVE: CALL OF THE BONES | ACTIVATED BY: NYKRI]**. Under it a gold timer ran the sale countdown: **47:26:39**. I watched my name scroll past twice. Tomorrow I'd be back in it.
 
-**[STREAM CONNECTION LOST]** **[RECONNECT?]**
+The fatigue was shifting in now, the good kind. My eyes closed on a low hum of excitement underneath the exhaustion.
 
-Stream dropped. That wasn't good. I dismissed it, already knowing what was coming next.
+• • •
 
-Leon's voice cut in a moment later, no longer quiet, no longer careful, the tone tight enough to pull my focus away from the tent entirely.
+Morning came with sunlight cutting through the blinds and the alarm still a few minutes off. I checked my phone. 7:31 AM. December 12th. Another text from Chiyo sat on the lock screen, and I left it unopened.
 
-"I need you now," Leon said. "The feed's not holding, I can't see anything on my end, and VRSA's going to be on my ass if I let this slide any longer. Ten minutes, that's all I'm asking."
+I sat up, a loc falling loose across my face that I pushed back automatically. For once I wasn't behind on anything. *"Good. Research before Leon."*
 
-Damn, it had to be at the most inconvenient time. I couldn't push Dad's old pods without the repairs, or have VRSA close it down before I could even do that. I rolled my shoulders once before I answered.
+I crossed to the closet I shared with the twins. My head nearly touched the ceiling frame when I stepped inside, which still caught me off guard sometimes.
 
-"Give me a second," I said, my voice low enough that Sevish barely caught it, then turned back to the chieftain.
+*"Alright. Let's get to work."* I went through my routine, a fresh Urawa jersey off its hanger, black joggers, my Humu 1's off the floor, my hoop in.
 
-Sevish's eyes stayed on me, holding there in the grim dark like his glare alone was piercing my chest. "So. Will you be joining us, or facing this alone?"
+The goblin wasn't the race I wanted. I'd wanted the Elf, the Spellforger build I'd drawn out myself, and the game had handed me a goblin. *"But honestly? I might have landed something good by accident."* Funny how that worked. I tugged the jersey straight.
 
-I knew that question was coming, and right now there was only one real answer if I didn't want to risk the 72-hour lock facing them solo.
+Before I touched the laptop I wiped the dust off the shelf where the manual used to sit and squared the desk under the window. It was a room I could work in now, if I ever got the time.
 
-"Yeah, I'm in. But if you're expecting me to run down there in prisoner rags, I won't be very productive. You got anything better I can work with? Also, I need some time to prepare, if you can give me the space for that," I said, readjusting my new frame, which gave me a couple of inches.
+I pulled the laptop out of my backpack, the toolbox still packed in beside it, set it on the desk, and started typing before I'd even sat down.
 
-Sevish studied me a beat longer, his scarred face unreadable, then nodded once, sharp. "Understood. We'll hold stage one defense while you prepare. Wyx, get him something that actually fits."
+**[Goblin race | Shiv | HGO lore]**
 
-"Already ahead of you," Wyx said, already moving toward a crate stacked near the tent's back wall, her hands working the latch before Sevish had finished the sentence. "Can't have our own elder walking out there looking like he crawled out of a ditch."
+Almost nothing came back official. The goblin entry was three sparse lines from the game's own codex, clan-based and mostly written off as feral. Shiv was two dead forum threads from launch week, both abandoned. I scrolled through them twice, turned the brightness down against the dim room, and gave up.
 
-Sevish's eyes stayed on me, something working behind them. "When you're back, you go down with Ru. I will have Rott and Nab guide you. You'll meet them there."
+*"Alright, fine. I'm learning this one the hard way."*
 
-"Sounds good. I'll have a plan shortly," I said.
+I pulled up the Tochi portal next. The entrance application was sitting exactly where I'd left it weeks ago, untouched. I filled in what I could from memory and stopped at the submission window. December 23rd.
 
-Wyx returned a moment later with a bundle in her arms, rough-spun leather dyed a muted brown, stitched together with cord that looked like it had been salvaged from three different sources. She set it on the table between us without ceremony.
+Already decided. *"I made it sound easy last night. Now I have to execute."* Getting into Tochi might be the easy part. *"I can pass their exams again, even though it's the toughest school in Tokyo to get into. And with recommendations from Chiyo and Mom, I can get in, especially from Chiyo."* It wasn't something I wanted to do, but I had to. *"I don't have many options right now."*
 
-**[COMMON GOBLIN LEATHER CHEST – COMMON]** **[+1 ENERGY]** **[BASIC CRAFTED GEAR]**
+The hard part was the classes. *"I have to get into the right ones to build a processor core off Dad's old schematics. That's going to be a challenge on its own."*
 
-Common tier. But it was something for now. I picked it up, turning it over in my hands, the leather stiff and worn but intact.
+I scratched at my goatee. *"The debt's the other thing. If it's still in my name, maybe I can clear it and bring Dad's name back. The Tabuchis are sitting on top of all of it. Maybe they're the reason Dad's gone, and they're the reason Chiyo can't even cover Mom's bills. I can't go after them on a feeling. I need proof, and I need money first."* The anger came up again, and I let it. *"And Eren will be on campus. I keep my cool. I don't let him bait me into anything, especially now that I'm in HGO."*
 
-"It'll do," I said.
+I checked the time. 8:47 AM. Sakura Arcade was thirty minutes out. I put my phone in my pocket.
 
-Sevish gestured toward the tent flap with his free hand, the axe still gripped in the other. "I will have my men show you to a tent. When you're back, we move."
+*"I have to move. I don't want to be stuck in camp when the Gambler's Gambit timer resets."*
 
-Two goblins fell in on either side of me without being told to, one of them the same one from earlier, gas pouches still hanging at his belt. They walked me through camp in silence, past goblins hauling crates toward the palisade line, past the fire pit where someone was sharpening a blade on a whetstone, the scrape of metal on stone cutting through the low murmur of voices.
+I grabbed Dad's manual off the desk, shoved it into my bag with my laptop, and headed for the door.
 
-They stopped at a tent near the far edge of camp, smaller than Sevish's but still standing on its own, a crude nameplate carved into the post beside the flap.
+The ride gave me room to breathe, the Haya EB humming steady under me, the route to Sakura drawn in front of my face on the visor, the city still waking up around the edges. I docked my phone in the module under the dash, and it linked to the visor before I cleared the block. At the first stop I thumbed the radio over to the HGO station, and one of Yuna's new tracks came on, off the album she'd just dropped. A patch note flashed in the corner of the visor, the Companion App pushing an update. I left it unopened. It could wait until I parked.
 
-**[WAR TENT – ELDER T-DRAG]**
+The rest of the ride I kept coming back to Leon. I still didn't know what this partnership really was. If it came down to streaming, like he'd hinted, we were on the same page, but I wondered how much he wanted to take, because that would decide how long I stayed at Sakura. I had to hope it was a good deal. I didn't have another option.
 
-It was interesting how much had changed so fast. I had so many questions I didn't have answers to right now, but this was fun. I pushed through the flap and let it fall shut behind me.
+• • •
 
-The tent was sparse, just a bedroll, a single oil lamp hanging from the center pole, and a small crate stacked against the back wall.
+Sakura Arcade had a different energy in the morning, the lights on and one guy in his late twenties at the desktop rows, deep in some old computer game. Most places had gone straight to VR, and those rows were what kept Leon's place retro.
 
-Ru came trailing in behind me, positioning near the entrance, his larger hobgoblin frame filling half the space.
+A woman was behind the counter, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, her eyes on the screen in front of her. I knew the hair before I knew the face. It was the same messy bun I'd walked past behind the hotel desk the night before. *"So the desk hire is Leon's sister, and she works here too."*
 
-"What's next, elder," Ru said, watching me cross to the bedroll.
+She didn't look up until I reached the counter. "Morning. Can I help you?"
 
-"Yeah, I'm going to meditate for a bit. Maybe it'll give me a chance to channel Shiv once more, for guidance," I said, clearly lying through my teeth, but I didn't want to give them player terms, not anymore, this was the only way I could earn their trust.
+"I'm here for Leon. He's expecting me."
 
-I sat down on the bedroll, the straw crunching under me. "If anything happens while I'm out, you stand guard. If they push the camp, if anything happens, you keep me alive. Understood?"
+Her eyes came up, sharp and grey, and went over me once, top to bottom. "You're his client." It wasn't a question. "He's already in the VR room. Up the stairs."
 
-Ru's tusks caught the lamplight as his mouth pulled into something that wasn't quite a grin. "Understood. Nobody gets past Ru, or touches the elder."
+She said it politely enough, then gave me a smirk that stopped at the corner of her mouth, like someone who didn't deal with many people and wasn't about to start. *"Okay."* I gave her a nod and headed for the stairs, bending my knees as I came around the spiral staircase up to the pod room.
 
-**[AFFILIATION: RU 75%] (TRUSTED)**
+Leon was at the operator's desk in front of the two pods with a man in a black suit, long black hair tied low at his neck, bangs hanging over one lens of his thin rectangular glasses. They were finishing a checklist on the desk computer. The setup had been cleaned up since last night, no tangle of cables left on the floor.
 
-"Good," I said, before crossing my legs into a meditation-like position and letting my thoughts open the UI log-off screen.
+"Morning," Leon said, straightening up slightly, one hand on the desk. "He's wrapping up. Good timing."
 
-The lid hissed open and the ceiling of the operator's booth swam into focus, too bright after however many hours my eyes had actually been closed. I sat up slow, joints stiff in a way that made me wince, and the VRSA inspector was already crouched at the monitor bay, panel open, tools laid out in a neat row on a cloth beside him.
+"Take your time," I said, dropping my bag by the wall, the strap landing with a soft thud against the concrete.
 
-Leon stood next to him, one hip braced against the monitor bay, glasses slipping slightly down his nose, and he looked up the second I sat up. "Hey. I think the pod started to overheat, might be from the streaming. We may have to consider not doing that for as long, until we get the new parts in. But we can talk about that later."
+Leon peeled off a few minutes later, still carrying yesterday's tension in his shoulders, and came back to my side.
 
-"For sure, man, that was crazy. My heart's still pounding from the rush." I pushed myself off the pod's edge and rolled my neck until something popped.
+"Inspector's confirming what I figured," Leon said, rubbing the back of his neck, his glasses slipping slightly down his nose before he pushed them back up. "Second pod's a real project, not a lost cause."
 
-"Man, I've run this place a long time, watched a lot of streams on that screen up there. I haven't seen anything like what you just pulled. Don't get me wrong, I don't get deep into the game myself, but I'm not gonna sugarcoat it, that was new to me too." Leon still hadn't looked up from the panel, but something in his voice had shifted, like he was already doing math he hadn't meant to start. "Give me the ten minutes. Go stretch your legs or something, you've been under a long time."
+"Good. I've got leads on parts from Dad's manual. Can pull more if we need specifics."
 
-"Yeah, for sure. Chat's just noise to me right now anyway. Be nice having someone real in my ear instead," I said, my legs stiff under me as I crossed toward the hallway. "Bathroom first."
+"Exactly what I wanted to hear." Leon leaned back against the wall, arms loose. "Two years I've been sitting on those pods thinking they were scrap."
 
-Leon didn't answer right away, still bent over the panel. Then, quieter, mostly to himself, his voice echoing after me as I shifted down the aisles toward the bathroom: "Coach." A pause, like he was actually turning it over. "Yeah. Yeah, I could see that."
+I looked at the nearest pod, the cable bundles running up its side and the blue glow in the seams. Dad's work, sitting here the whole time as somebody's dead weight. I laid my palm against the cool casing. "They're not scrap. They've been waiting on the right parts."
 
-The bathroom at Sakura Arcade was small and smelled like the same industrial cleaner it always had, harsh enough to catch in the back of my throat after hours of woodsmoke and canvas. I splashed water on my face before I even looked at my phone, both hands braced against the sink, needing a second to remember which world I was actually standing in.
+Leon huffed through his nose, close to a laugh, and pushed off the wall. "Then let's find out what the right parts are." He pulled a folded sheet from his back pocket, smoothed it flat on the desk, and slid it toward me, tapping the first line with a knuckle. "Start with what's in the manual. I'll tell you what I can get."
 
-My phone had a dozen notifications stacked on the lock screen, more than I'd ever seen at once, the Loop icon buried on top of each other with some HGO Notifications floating.
+I dug Dad's manual out of my bag, opened it to the pages I'd marked, and set it beside the sheet. Leon pulled his glasses down to read the small print, then pushed them back up again, and we started working down the list, me reading part numbers off the diagrams, him crossing off what he could get. It turned into twenty minutes of it, checking each line against what Leon could source locally. The drive slot housing, the wiring harness and the cooling fan went on one side. The cores went on the other, since nobody sold them and the only place I knew to look was Tochi's labs.
 
-[Your follower count has grown by 2,140 in the last hour.]
+"This batch I can't get here," Leon said, tapping a line near the bottom of the sheet. "Guy I know in Akihabara still has old stock that fits these, the slot housing, the harness and a fan, but I have to go pull it myself. Nobody ships this stuff anymore. I'll head out once the inspector's squared away."
 
-I wasn't a no-name anymore. I had to move smarter, with people watching my moves now. I stared at the number, water still dripping off my chin.
+"I can put money toward the parts," I said. "You shouldn't be fronting all of it on something that's supposed to make you money."
 
-I thumbed it open and the feed loaded slow, clip after clip of the same green-skinned figure kneeling in ash and smoke. A handle I didn't recognize had stitched together every notification bracket from the Shiv scene into a single clip captioned "did anyone else catch this live." Another had zoomed in on the necklace, freeze-framed, circled in red, captioned "world tier confirmed, somebody check the wiki." My own name, T-Drag, sat tagged in reply after reply. I scrolled until my thumb cramped and made myself stop, setting the phone on the edge of the sink.
+"We'll figure that part out." I tapped a knuckle against the cool frame of the pod and went back down the list, my eyes starting to ache from the small print.
 
-I pulled up my HGO account next, and there it was, a button that hadn't existed the last time I'd checked this screen.
+By the end Leon looked more settled than he had when I walked in.
 
-[Apply for Affiliate Status]
+"Doable," Leon said. "Expensive, but doable. And if we pull it off, we're the only place in a five-ward radius with a working Kazehaya pod." He tapped the sheet once with a knuckle, which from Leon counted as celebrating. Then his face went careful. "Before you get in there, you should know what the inspector's doing back there. It affects you."
 
-Five hundred and eighty followers, huh. Not bad for the first stream. It was crazy how lucky I'd been, but I could only expect there'd be bullshit too. Just wait until Eren found out about me. My thumb hovered over it for a second before I tapped it, the dread of the Tabuchis sitting in my chest. Not to mention telling Chiyo the truth about this. I could tell her about Sakura, but if I made anything big off it, she wouldn't believe an arcade built on old tech paid me that much. I shook the thought off and looked at the screen again.
+"Go for it."
 
-The confirmation screen that loaded back wasn't the instant green light I'd half expected.
+"He's not fixing anything." Leon rubbed the back of his neck. "VRSA's the safety authority for anything full-dive. If a business is putting paying people in a pod, they sign off first, because somebody under can't tell when something goes wrong. That's why they're here."
 
-[Application received. Affiliate status requires a minimum of 30 days active streaming history. Current eligibility: Day 1.]
+"And the first pod? The one I already used?"
 
-Thirty days. I set the phone down on the sink's edge and stared at it. That meant I could gain an audience, but I wouldn't be able to really make anything until after. That was fine. Subs were nice, but the real money was sponsorships, and that didn't have a limit, I just had to be smart about how I approached my brand. I couldn't tell anyone who I was behind the goblin, not right now, not even family. Taji and Momo were the first to come to mind, and Chiyo.
+"He's putting in the external monitor. Both pods need it before either one can run anything commercially, period, that's the law, not an arcade rule. The one I had is out of date, so he's replacing it. That's on me."
 
-A quick search turned up the rest of it in under a minute, a forum thread somebody had laid out plain: HGO's official channel auto-hosts any stream actively progressing a World Quest, standing platform practice, free exposure handed to whoever happened to be live when the algorithm noticed, not a permanent slot, and not something that followed me back online automatically. Coming back live after a break meant starting closer to zero and climbing again, not picking up where I'd left off.
+"External monitor," I repeated slowly, turning the phrase over in my mouth, not liking the sound of it yet. "Means I need someone watching while I play."
 
-I rubbed my eyes with the heel of my hand, the bathroom's fluorescent buzz needling at them. It made sense why they hosted World Quests. It also meant a lot of eyes landed on whoever happened to be live when the algorithm noticed. I picked the phone back up, my grip firming around it.
+"That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, and your gameplay will be on the second monitor. Someone has to be seated there for every session, in case the operator has to eject whoever's playing. Which is you."
 
-Subs themselves weren't much once I actually read the fine print. Seven hundred fifty yen a month, and whoever paid it got a couple of cosmetic emotes to throw around and a special chat tag, unless the streamer set their own perks, nothing that let them type more than any other viewer. I pinched the bridge of my nose, a dull ache starting up behind my eyes.
+*"Makes sense. So Leon sees every move I make in there from here on out."* That didn't bother me as long as it was Leon. Arya in the seat was another matter, since I hadn't said a word to her, and I looked at the dead second monitor instead, the lantern light sliding across its black glass.
 
-It would be nice to have that now. I couldn't even read that wave of mess earlier. Maybe I could get a setting to limit spam chat or something faster. Waiting thirty days to say anything was going to be horrible. I turned the phone over in my hand, once. Lesson for next time, I supposed.
+"Nexus helmets do it with an AI watcher instead of a person," Leon went on, pushing his glasses up again, a nervous tic I was starting to recognize. "Part of why they cost what they cost. The pods don't have that, so it's got to be an actual body in the chair."
 
-Two more notifications sat under the Loop pile, both real-world, both waiting.
+"Strict, for a game."
 
-[Tochi Academy Admissions: Your application has been reviewed. You are invited to sit the entrance interest exam. Reply for scheduling.]
+"Tell that to VRSA." The corner of Leon's mouth twitched, there and gone. "I'll sit the booth myself most days." He rubbed the back of his neck, eyes on the floor. "Some days it'll be my sister in the seat. I don't play, but Arya's been talking my ear off about HGO since before the beta. She can tell you things I can't, and a voice in your ear is worth a lot when you can't check your phone."
 
-I stared at that one longer than I meant to, my thumb going still against the screen. I'd sent that application off this morning knowing the deal I had with Leon.
+"I understand," I said, and meant it. "Just know I'm serious. I have a lot on the line."
 
-I wasn't dealing with that right now. I locked the screen and set the phone face-down on the sink. It would still be there when I actually had time to think about it straight.
+Leon looked at me a moment, one finger at the bridge of his nose. "Anyone crazy enough to touch my pod has to have something on the line. I respect it." He cleared his throat, and that was that.
 
-I picked the phone back up and opened my banking app instead, pulled up the balance sitting at ¥64,120, and moved a piece of it into the account that covered my mother's ongoing costs.
+"While he finishes, let's get the paperwork done." He took a short stack of papers from the drawer, keeping his voice low. "It's built to look like you're staff, nine to five, so you've got cover for whatever else you've got going."
 
-[Transfer sent: ¥15,000 → Ohema Kazehaya, Medical.]
+"This isn't me signing my life over to you, is it?" I said.
 
-Small. I held the confirmation screen for a second longer than I needed to. But it was real, and it was mine, and it wasn't a promise this time.
+"Nothing that serious." Leon ran one finger down the first page: the sponsorship split, his percentage, what the arcade was allowed to do and what I was allowed to do. "Read the fine print. If you have any questions, let me know."
 
-I thought about Chiyo seeing that line item whenever she finally checked the statement, and for the first time in a while the thought didn't make me brace for an argument.
+"I trust you," I said. "I'll read it over though." I went through every page. The split stopped me. "You wrote eighty-twenty."
 
-I opened my texts next and typed one out to Gato before I lost the nerve.
+"Your way," Leon said. "You're the one carrying the quest."
 
-[Hey. Gonna need tomorrow off. Been thinking hard about going back to Tochi, actually doing something with it this time. Wanted you to hear it from me instead of me just not showing up. I'll come by and talk properly when I can.]
+"Make it fifty-fifty, and we sit down again in six months."
 
-The reply came back faster than I expected.
+Leon's pen stopped over the page. "You sure about fifty-fifty? I went eighty-twenty because I figured ten for Sakura and ten for the cores. If you're willing to do fifty-fifty, I'll do twenty-five, twenty-five. That gets this place off the ground."
 
-[No worries at all. Proud of you for even considering it. You know you're always welcome here whenever, shift or no shift. Go handle your business.]
+"I put one of your pods at risk to get in here. I'd rather the money go into the cores and getting both of them running."
 
-That was Gato for you. The corner of my mouth pulled flat, something close to a smile before it was gone.
+"Most people don't ask for less." One of Leon's eyebrows moved a quarter inch. "I appreciate it." He crossed out the numbers, wrote in the new ones, and initialed the change, and I signed under it.
 
-I splashed more water on my face, the cold biting against my skin, and gripped the edge of the sink with both hands. Three days locked out if I died down there. Three days I didn't have, not with Crownfall sitting thirteen days out, not with no team locked in yet. This was the first real fight I'd ever be in against actual players, not scripted mobs, and right now it was still just me and Ru walking into it.
+"One thing about my sister," Leon said, filing the papers in the drawer. "She's going to push you about the second pod. Tell her not yet. I can't hand that to anyone until I've got my money's worth."
 
-My grip on the sink tightened once, then loosened. Real people on the other end this time, with real gear and a real reason to put me down. I chuckled to myself, adrenaline forming.
+"So two people know about the quest," I said.
 
-I was about to pocket my phone when a Loop headline pushed past everything else on the feed, big enough to cut through even my own name trending underneath it.
+"Yeah. You can trust her. While she works here she won't run her mouth, and with her reputation in HGO right now, I doubt anyone would listen if she did." He pushed his glasses up. "It's not great. She's had a run of it already, and we've got enough going on."
 
-[Haruto Murayama announces departure from Kansai Black Lotus, effective immediately.]
+I let that sit. I didn't know what the run had been, and I didn't ask.
 
-Haruto was leaving. Actually leaving. I went still in the middle of the bathroom, caught off guard by it.
+The inspector clicked something on his tablet, nodded once in that flat, procedural way people did when they'd done the same task a hundred times, and peeled a small certification sticker onto the pod's frame without any ceremony.
 
-The post underneath was short and careful, nothing like the messy public blowups Loop usually ran on. Haruto thanked Tochi and Kansai Black Lotus for the opportunity, said he still respected what the guild had tried to build, and then, without naming Eren directly, said he wasn't willing to keep carrying a guild whose own signature build he'd started to suspect wasn't built by the person taking credit for it. Replies underneath were already split between people defending Eren and people reading between the lines exactly the way I was. I read it a second time, a wince tugging at one side of my face.
+"You're clear for sessions," he said, his tone as flat as his expression. "Standard operator protocol applies the whole time, no exceptions." He tapped the pod's readout with his stylus without looking at either of us. "The battery core's reading really low. You'll want to check that." A pause. "I'm surprised you got one of these running at all. The second one does need work."
 
-He knew. My hand came out of my pocket and curled into a loose fist at my side. Maybe not everything, but enough. And he still hadn't said the name.
+"I know," Leon said. "We're working on it."
 
-I knew exactly why that mattered, because the same shape of idea had been mine, once, sketched out on paper with Eren back before either of us had touched the game for real, before Eren took the whole build and ran with only half of what it could actually do. Eren copied the notes. He never understood them. That gap was the whole reason he'd capped out as a captain instead of anything more, and it was the same gap I'd been staring at for a year.
+I kept my face flat and let Leon do the talking.
 
-Everything Eren built was starting to come apart. I pushed off the wall and headed for the door. That bastard had better not crash yet. I wanted to settle everything when I faced him in this world. The thought sat heavy, an anger surfacing that I didn't know I had, but a smile crept onto my face as I realized what was at stake.
+The inspector packed up his gear, tablet and tools disappearing into a branded case, and headed for the front without another word.
 
-I was already down the hallway, thumb still hovering over my phone, when a voice cut through the noise behind me.
+Leon dropped into the chair at the operator's desk, the computer already syncing to the pod's feed, green lines stabilizing across the screen.
 
-"Hey, T-Drag."
+"Last thing," Leon said. "I'm running diagnostics on the first live stream, and I don't know how it looks when it goes. The inspector only signed off on the battery draw. Nobody's tested what streaming does to this thing, and I'd rather find out on my own floor than from a customer. So we go live and see what works and what doesn't. If it holds, we've got something we can market once we're ready."
 
-My whole body went still for half a second before my brain caught up to whose voice that actually was. Not Leon's. Different pitch, different rhythm, and it took me a second longer to place exactly why that mattered.
+"Your call," I said. "If anything runs hot, pull me out. I know what to look for on these."
 
-I turned around slow, and there she was, Arya, leaning against the operator's desk where Leon should have been, but wasn't.
+"The inspector tied everything into this one computer. I'll read it from here, and I'll pull you out if I have to. We'll take breaks. This thing was never built for HGO, and it's not safe for you in there if it overheats."
+
+*"Right. Makes sense."*
+
+Leon slid the keyboard toward me. "I need your HGO account linked to this machine before I can start anything."
+
+I signed in on the desk computer and linked my account, the stream software picking up my name, then slid the keyboard back. "Can you turn the chat off? It's going to be a distraction on the next quest."
+
+"I'll keep an eye on it for you," Leon said. "If there's anything worth telling you, I'll chime in. Use me for information. If you've got questions or need something looked up, that's what I'm here for."
+
+I gave him a nod. "I like that."
+
+I climbed into the pod, the padded interior cool against my back. Leon started the stream from his end, and a line flickered across the small HUD in my vision.
+
+**[STREAM STARTING IN 60 SECONDS – NYKRI]**
+
+No names blinked into the chat window yet. Just me and an empty feed, and I couldn't tell if that was a relief or the opposite.
+
+*"Alright. Let's get it started."*
+
+The core sat at nineteen. The visor lowered, sealing me in, and the world outside went dark.
 
 **[END CHAPTER EIGHT]**
