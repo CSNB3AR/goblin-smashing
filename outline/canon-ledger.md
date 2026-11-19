@@ -1167,3 +1167,6 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## Final drafts folder (author-stated, confirmed)
 - `chapters/final-drafts/` holds only chapters that finished the whole process (author, Claude, Walter in 1,400-word sections, Claude repair, detector check, sign-off). Chapter One is the first: `chapters/final-drafts/chapter-01.md` (moved, no duplicate). Chapters 2 to 8 stay drafts in `chapters/` until Walter finishes them; Chapters 9 and 10 stay in `chapters/in-progress/now/`. Each chapter moves to final-drafts when done, one file, nothing left behind.
+
+## Walter status (author-stated)
+- Chapter Nine is also waiting on Walter (the new updated version, with dividers). The author is running Chapter Ten through Walter now. Do not edit Chapters Nine or Ten while the pass is in progress; any further fixes (the Chapter Ten shield line, the Chapter Nine "pulse" repeat, the Gambit wording) are applied to the repaired versions after Walter returns.

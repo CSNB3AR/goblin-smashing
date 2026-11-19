@@ -106,7 +106,6 @@ The page already shows two shapes: a received line, `[ITEM RECEIVED: COMMON GOBL
 
 No slot exists for a quiver, a back sling, a bag or a mount. [PROPOSAL] Quiver, sheaths and ammo pouches are belt sockets, a back sling for a big axe is a chest-piece harness socket (Sevish's axe rides "in the sling across his back" [PAGE Ch6]), and a mount is an item, not a slot (see the camp gear file). The belt is already modular and upgradable in place [CANON `codex/objects/goblin-gadget-belt.md`].
 
-<!-- PART1 END -->
 
 ---
 
@@ -167,4 +166,211 @@ D&D 5e has a single shield, +2 AC, 6 lb, 10 gp [SRC] https://dnd5e.wikidot.com/a
 
 **Shield wall** [PROPOSAL, from the plan in `outline/canon-ledger.md`: "a wall holds as a unit even with weak arms"]: adjacent shields add a fraction of their Block to each neighbour. It is a formation property, not an item. **Shield arts** unlock at Rare and carry the art name on the card (Ru's pending shield art, `codex/characters/young-goblin-companion-candidate.md`).
 
-<!-- PART2 END -->
+
+---
+
+## 6. Weapons, per Way
+
+### 6.1 The rule
+
+[CANON] There are five Ways: Fist, Spear, Blade, Axe, Bow (`codex/combat/physical-arts-overview.md`). Abilities fire off "a drawn arrow plus the intent" or a weapon action, and Albion's lesson that the weapon decides the abilities is already the house style (`style-guide/inspirations-and-borrowing.md`). [PROPOSAL] So a Way technique needs a weapon of that Way equipped. Fist needs bare hands, a gauntlet, or an improvised weapon. Put the wrong weapon in the hand and you have plain strikes and no arts, which is exactly Tatsuya's problem in Ch11, "mechanically hand-to-hand" with no weapon equipped [CANON `codex/lore/equipment-and-gear-slots.md`].
+
+### 6.2 Property tags
+
+D&D definitions: [SRC] https://dnd5e.wikidot.com/weapons . HGO column [PROPOSAL].
+
+| Tag | D&D meaning | HGO |
+|---|---|---|
+| Light | small, suited to two-weapon fighting | may fill **both hand slots** (Wyx's dual sabres); arts cost a little less SP |
+| Finesse | Strength or Dexterity for attack and damage | Physical AP leans on **Speed** as well as Power (it is normally Power first, Speed partial [CANON]) |
+| Heavy | Small or Tiny wielders have disadvantage | a **Small frame** (a four-foot goblin) loses Edge and reach with it. Hobgoblins and humans do not. Explains why Sevish carries a two-handed axe and camp goblins carry clubs |
+| Two-handed | needs two hands to attack | fills both hand slots [CANON] |
+| Versatile | one or two hands, bigger die in two | one slot (with a shield) or both slots for about half a band more Edge |
+| Reach | adds 5 ft | adds about one pace and hits first. The Spear Way's whole identity |
+| Thrown | can be thrown with the melee modifier | thrown use runs on Ranged AP (Speed primary) [CANON]. The item lands in the world and must be walked over to collect (pickup needs a physical claim [CANON]) |
+| Ammunition | consumed, about half recoverable | a stack in a quiver socket. Half can be collected after the fight by walking the ground |
+| Loading | one shot per action | a short reload beat or cooldown |
+| Range | normal and long, beyond normal is hard | meters on the page: shortbow about 25 and 100, longbow about 45 and 180, light crossbow about 25 and 100, heavy crossbow about 30 and 120, sling about 9 and 37, thrown spear about 6 and 18 (D&D feet converted) |
+| Special | unusual rules | nets, lances (mounted), see 6.4 |
+
+**Edge bands** [PROPOSAL], from average D&D weapon damage, kept off the page: **E1** (1d4), **E2** (1d6), **E3** (1d8), **E4** (1d10 to 1d12), **E5** (2d6).
+
+**Material ladder for all weapons** (details in the material map): metal heads and blades go GT1 scrap iron or sharpened bone, GT2 Clanmark or Ironvein, GT3 Greywall Iron, GT4 Garrison Steel, GT5 Hallmarked Steel, GT6 Mono Steel (holds a Physical Arts augment), GT7 Fallstone Iron. Hafts go Scrap Wood, Planks, Thornwood or Bonewood, Hollow Heartwood. Bowstaves go Thornwood Bark, Bonewood, Hollow Heartwood with sinew strings. Rarity follows crafter and grade, so any row below runs Common at GT1 to GT3 and climbs.
+
+### 6.3 Weapon tables
+
+D&D analog costs and properties: [SRC] https://dnd5e.wikidot.com/weapons (weapon names marked non-SRD there are left out unless noted). Names in the first column are in-world [PROPOSAL].
+
+**Way of the Fist.** [CANON] Unarmed and improvised-weapon combat, the default for those with no signature weapon, Ru's path. Techniques: Guard Break, Low Sweep, Palm Check, Silent Three Fang, Veil-Pierce Gaze.
+
+| HGO item | D&D analog | Props | Hands | Edge | GT (rarity) | Who |
+|---|---|---|---|---|---|---|
+| Hand wraps | unarmed strike | Light | both hands | E1 | 1 to 6 (Common to Rare) | brawlers, Beastfolk, recruits |
+| Fist-guards (a gauntlet with a striking face) | none in SRD | Light | Gauntlets slot | E1 to E2 | 2 to 7 (Common to Legendary) | brawlers, Pac_Pac-type tanks |
+| Camp club | Club (1 sp, 1d4) | Light | 1 | E1 | 1 to 2 (Common) | camp goblins, the enforcers' belts [PAGE Ch6] |
+| Great cudgel | Greatclub (2 sp, 1d8) | Two-handed | 2 | E3 | 1 to 3 (Common) | orcs, goblin heavies |
+| Improvised weapon | improvised (about 1d4) [SRC] DDB equipment page | varies | 1 | E1 | 1 (Common) | tent poles, barrel staves, ladles, cart rails: anything in a camp raid |
+| Thong-lash | Whip (2 gp, 1d4, finesse, reach) | Finesse, Reach | 1 | E1 | 3 to 7 | handlers; the Rare+ Spiritlash Whip [CANON] sits here (OPEN placement) |
+| Shield strike | shield bash | none | shield hand | E1 | any | uses Guard Break and Palm Check |
+
+**Way of the Spear.** [CANON] Reach-focused, controlled distance. Techniques: Thrust Line, Guard Sweep, Butt Check, Serpent's Reach. Ru's weapon.
+
+| HGO item | D&D analog | Props | Hands | Edge | GT | Who |
+|---|---|---|---|---|---|---|
+| Thrash spear | Spear (1 gp, 1d6, thrown, versatile 1d8) | Thrown, Versatile | 1 or 2 | E2 | 1 to 8 | camp goblins, guards, Ru |
+| Dart-spear | Javelin (5 sp, 1d6, thrown 30/120) | Thrown | 1 | E2 | 1 to 6 | scouts, skirmishers, the **throwing option under a shield wall** |
+| Bo shaft | Quarterstaff (2 sp, 1d6, versatile 1d8) | Versatile | 1 or 2 | E2 | 1 to 6 | travelers, monks, casters' backup |
+| Fork-spear | Trident (5 gp, 1d6, thrown, versatile) | Thrown, Versatile | 1 or 2 | E2 | 2 to 6 | coastal and Tides-leaning fighters |
+| Bill-glaive | Glaive (20 gp, 1d10, heavy, reach) | Heavy, Reach, Two-handed | 2 | E4 | 3 to 8 | guards |
+| Hook-bill | Halberd (20 gp, 1d10, heavy, reach) | Heavy, Reach, Two-handed | 2 | E4 | 3 to 8 | garrison polearm |
+| **Wall-pike** | Pike (5 gp, 1d10, heavy, reach, 18 lb) | Heavy, Reach, Two-handed | 2 | E4 | 2 to 6 | formation troops: "spears over the shield wall" is a Kingdom-style line [CANON ledger] |
+| Charge-lance | Lance (10 gp, 1d12, reach, special) | Reach, Special (mounted) | 1 | E4 | 4 to 8 | mounted knights, Wyvern riders |
+
+**Way of the Blade.** [CANON] The most common trained weapon in Eryndal. Techniques: Clean Draw, Parry Riposte, Guard Break Swing, Flowing Edge. Wyx's Way.
+
+| HGO item | D&D analog | Props | Hands | Edge | GT | Who |
+|---|---|---|---|---|---|---|
+| Cut-knife | Dagger (2 gp, 1d4, finesse, light, thrown 20/60) | Finesse, Light, Thrown | 1 | E1 | 1 to 8 | rogues, casters' backup, enforcer belts |
+| Scrap cleaver | none in D&D. Pathfinder's dogslicer is a crude single-piece curved goblin blade that often snaps [SRC] https://pathfinderwiki.com/wiki/Dogslicer | Light | 1 | E1 to E2 | 1 to 2 | camp goblins. May **break** on a low roll [PROPOSAL] |
+| Short blade | Shortsword (10 gp, 1d6, finesse, light) | Finesse, Light | 1 | E2 | 2 to 8 | Tatsuya's backup on the gadget belt [CANON archetype file] |
+| **Sabre** | Scimitar (25 gp, 1d6 slashing, finesse, light) | Finesse, Light | 1, pair | E2 | 3 to 8 | **Wyx's two sabres** [CANON ledger], also the goblin boss and Wildcallers in D&D |
+| Arming blade | Longsword (15 gp, 1d8, versatile 1d10) | Versatile | 1 or 2 | E3 | 3 to 8 | garrison default, hobgoblin officers in D&D |
+| Needle-blade | Rapier (25 gp, 1d8, finesse) | Finesse | 1 | E3 | 4 to 8 | duelists |
+| Two-hand blade | Greatsword (50 gp, 2d6, heavy, two-handed) | Heavy, Two-handed | 2 | E5 | 4 to 8 | champions |
+| Reaping hook | Sickle (1 gp, 1d4, light) | Light | 1 | E1 | 1 to 4 | druids, Wildcallers (OPEN placement) |
+
+**Way of the Axe.** [CANON] Heavy and momentum-driven. Techniques: Split Strike, Hook Pull, Haft Check, Momentum Chain. Sevish's Way. [PROPOSAL] Head-and-haft hammers, picks and maces live here too, since a mace is momentum on a haft and no sixth Way exists.
+
+| HGO item | D&D analog | Props | Hands | Edge | GT | Who |
+|---|---|---|---|---|---|---|
+| Hatchet | Handaxe (5 gp, 1d6, light, thrown 20/60) | Light, Thrown | 1 | E2 | 1 to 8 | everyone, thrown |
+| Fighting axe | Battleaxe (10 gp, 1d8, versatile 1d10) | Versatile | 1 or 2 | E3 | 2 to 8 | Thrash axes, dwarves, orcs |
+| **War axe** | Greataxe (30 gp, 1d12, heavy, two-handed) | Heavy, Two-handed | 2 | E4 | 4 to 8 | **Sevish** [CANON], Shiv's war axe [CANON], Berserkers |
+| Crow-pick | War pick (5 gp, 1d8 piercing) | none | 1 | E3 | 3 to 8 | armor-breakers |
+| Hammer | Warhammer (15 gp, 1d8, versatile 1d10) | Versatile | 1 or 2 | E3 | 2 to 8 | dwarves, Wardens |
+| Sledge-maul | Maul (10 gp, 2d6, heavy, two-handed) | Heavy, Two-handed | 2 | E5 | 3 to 8 | orcs, wall-breakers |
+| Flanged mace | Mace (5 gp, 1d6) | none | 1 | E2 | 2 to 7 | Wardens, temple guards |
+| Tack hammer | Light hammer (2 gp, 1d4, light, thrown 20/60) | Light, Thrown | 1 | E1 | 1 to 5 | tinkers, brigands |
+| Morning star | Morningstar (15 gp, 1d8 piercing) | none | 1 | E3 | 3 to 7 | goblin bosses and bugbears in D&D |
+| Spiked flail | Flail (10 gp, 1d8) | none | 1 | E3 | 3 to 7 | raiders |
+
+**Way of the Bow.** [CANON] Ranged, Speed and Wisdom-adjacent precision. Techniques: Steady Draw, Snap Loose, Pin Shot, Volley Draw. [PROPOSAL] Slings, darts, crossbows and blowguns are Bow Way "draw-less" cousins with a reduced technique list (no Volley Draw for loading weapons). OPEN.
+
+| HGO item | D&D analog | Props | Hands | Edge | GT | Who |
+|---|---|---|---|---|---|---|
+| Horn shortbow | Shortbow (25 gp, 1d6, 80/320) | Ammunition, Two-handed | 2 | E2 | 1 to 6 | goblin archers (the six who "learn in half an hour" [CANON ledger]), scouts |
+| Warbow | Longbow (50 gp, 1d8, 150/600, heavy) | Ammunition, Heavy, Two-handed | 2 | E3 | 3 to 8 | elves, hobgoblin and human archers, Windriders. Small frames struggle |
+| Hand-bolt thrower | Hand crossbow (75 gp, 1d6, 30/120) | Light, Loading | 1 | E2 | 4 to 7 | Shadowveil |
+| Lever crossbow | Light crossbow (25 gp, 1d8, 80/320) | Loading, Two-handed | 2 | E3 | 3 to 7 | garrisons, tinkers |
+| Siege crossbow | Heavy crossbow (50 gp, 1d10, 100/400) | Heavy, Loading, Two-handed | 2 | E4 | 4 to 8 | dwarf wall guards |
+| Herder's sling | Sling (1 sp, 1d4, 30/120) | Ammunition | 1 | E1 | 1 to 4 | goblins, shepherds. Bone or stone bullets |
+| Throwing dart | Dart (5 cp, 1d4, finesse, thrown 20/60) | Finesse, Thrown | 1 | E1 | 1 to 5 | Shadowveil, poisoners |
+| Reed dart-tube | Blowgun (10 gp, 1 piercing, 25/100) | Ammunition, Loading | 1 | E0 plus coating | 2 to 5 | goblin silent weapon (Hollowreed Stalk, Nightveil needles) |
+
+**Ammunition** [SRC] DDB equipment page: arrows 1 gp per 20, bolts 1 gp per 20, sling bullets 4 cp per 20, blowgun needles 1 gp per 50. HGO ammunition ladder [PROPOSAL]: GT1 fire-hardened shaft or bone tip, GT2 flint or iron tip, GT3 Greywall tip, GT5 steel bodkin, GT6 Glassfang or Mono Steel tip, GT7 spirit-fletched.
+
+### 6.4 Special, gadget and relic items (no Way required)
+
+| Item | D&D analog | HGO |
+|---|---|---|
+| Net | Net (1 gp, thrown 5/15, restrains Large or smaller, DC 10 Strength to break or 5 slashing) [SRC] DDB equipment page | Skitterling Silk net. A trap-line tool, not a Way item |
+| Snares and tripwires | hunting trap (5 gp, 25 lb) | Hookvine Cord line [CANON Book One file], trap crafting |
+| Gadget line | alchemist's fire, acid | Smoke Bomb, Gas Bomb, Ignition Gas Grenade, Rune-Primed Flare Launcher [CANON recipes] |
+| Steampunk sidearm | none | Tatsuya's two-handed tank-fed Gas and Flare shooter [CANON battle-items file]. SP, a Physical Arts identity, not a Way |
+| Staves, wands, orbs, tomes | arcane focus (crystal 10, orb 20, rod 10, staff 5, wand 10 gp) [SRC] DDB equipment page | caster foci, see the class file |
+| World weapons | artifacts | seven patron relics, for example the three-form Staff of the Mist God [CANON patrons file] |
+
+---
+
+## 7. Adventuring and camp gear, baseline list
+
+Full tool, kit, mount and vehicle tables are in `codex/lore/dnd-camp-gear-tools-and-mounts.md`. Costs [SRC] https://dnd5e.wikidot.com/adventuring-gear and https://www.dndbeyond.com/sources/dnd/basic-rules-2014/equipment . Because the HGO inventory is a pocket ("the flare materialized in my hand" [PAGE Ch5]), bulky kit is **placed in the world and walked back to** (pickup needs a physical claim [CANON]), and ready items live in belt sockets.
+
+| HGO item | D&D analog (cost, weight) | Where it sits | GT | Notes |
+|---|---|---|---|---|
+| Satchel and pouches | backpack (2 gp, 5 lb), pouch (5 sp) | belt sockets | 1 to 3 | quick-use items; a backpack expands ready sockets [PROPOSAL] |
+| Bedroll and blanket | bedroll (1 gp, 7 lb), blanket (5 sp) | placed | 1 | straw-stuffed patched bedroll in the holding tent [PAGE Ch6] |
+| Tent, scouting | tent, two-person (2 gp, 20 lb) | placed | 2 | the scouting tent keeps a character in place when the player logs off [CANON preserved-misc] |
+| Hide A-frame tent | none (large) | placed, camp | 2 | the camp's tents [PAGE Ch4] |
+| Rope, hemp or sinew | rope 50 ft (1 gp, 10 lb) | belt coil | 1 to 3 | Nab's coil [PAGE Ch10]. 2 hit points, burst DC 17 in D&D |
+| Torch and cresset | torch (1 cp), lantern (5 gp) | hand or pole | 1 to 3 | torches in iron cressets along the stakes [PAGE Ch10] |
+| Oil lamp | lamp (5 sp), oil (1 sp) | hook | 2 | the holding tent's lamp [PAGE Ch6] |
+| Fire kit | tinderbox (5 sp) | belt | 1 | Portable Campfire Kit is the goblin craft default [CANON] |
+| Iron pot, bowls, ladle | iron pot (2 gp, 10 lb), mess kit (2 sp) | camp | 2 | the stew pot and wooden bowls [PAGE Ch4] |
+| Rations | rations (5 sp, 2 lb) | pocket | 1 | Clanmark Trail Ration [CANON food file] |
+| Waterskin and barrel | waterskin (2 sp), barrel (2 gp, 70 lb) | belt, camp | 1 | the water barrel [PAGE Ch4] |
+| Hammer, crowbar, shovel, pick | hammer (1 gp), crowbar (2 gp), shovel (2 gp), miner's pick (2 gp) | tool hooks | 1 to 3 | doubles as improvised weapon |
+| Spikes, pitons, stakes | pitons (5 cp), spikes (1 gp per 10) | belt | 1 | sharpened stakes line the clearing [PAGE Ch4] |
+| Caltrops | caltrops (1 gp per 20) | belt | 1 | scrap-iron, Smithing T1 |
+| Signal whistle and bell | whistle (5 cp), bell (1 gp) | belt | 1 | Scout's Whistle battle item [CANON] |
+| Climber's kit | climber's kit (25 gp, 12 lb) | belt | 3 | rope-down flanks, the east rockslide |
+| Healer's kit | healer's kit (5 gp) | belt | 2 | the lean-to healers (cut from Ch10 but a camp would have them) |
+| Potion of healing analog | potion of healing (50 gp) | belt loop | 2 | Minor Elixir restores 30 mana [PAGE Ch5] |
+| Chest and crates | chest (5 gp, 25 lb) | camp | 1 | Wyx's crate, the war tent chest [PAGE Ch6, Ch10] |
+
+---
+
+## 8. How each archetype dresses (summary)
+
+Full table, caster foci and level-band kits are in `codex/lore/dnd-class-dress-and-casting-foci.md`. D&D proficiencies: [SRC] https://api.open5e.com/v1/classes/ (fighter and paladin all armor and shields, barbarian, ranger and cleric light and medium and shields, rogue and bard and warlock light only, druid light and medium and no metal, monk, wizard and sorcerer none). Base classes are [CANON] (`codex/lore/deck-building-rarity-and-classes.md`). The fit column is [PROPOSAL].
+
+| Base class | D&D cousins | Kit | Shield | Ways | Hands | Dress in one line |
+|---|---|---|---|---|---|---|
+| Ironbreaker | fighter, paladin | Heavy, Medium | yes | Spear, Blade, Axe | weapon and shield | plate, round board, taunt arts |
+| Berserker | barbarian | Light, none, Thickhide | no | Axe, Blade | two-handed or paired | big edge, little cloth (Sevish wears a vest) |
+| Shadowveil | rogue | Light | no | Blade, Bow | paired light blades or crossbow | quiet leather, thieves' kit |
+| Windrider | ranger | Light, Medium | optional | Bow, Spear | bow | leather, quiver, pet harness |
+| Spellforger | wizard, sorcerer | Light or cloth | no | none (focus) | staff or wand and orb | robe, focus matched to a Book |
+| Warden | cleric | Medium | yes | Axe (mace), Spear | mace and shield, holy symbol | mail under a surcoat, Radiance symbol |
+| Wildcaller | druid | Light, Thickhide, no metal | wood only | Spear, Blade (sickle) | totem or wooden staff | hide and wood, no iron |
+| Hybrid and Custom | bard, monk, warlock | any | any | any | any | gear-driven, Tatsuya's Arcane Bomber is the model |
+
+---
+
+## 9. Where the page's items already sit
+
+| Item | Slot | Rarity, GT | Source |
+|---|---|---|---|
+| Spawn rags (patched with mismatched leather), bare feet | none | GT1, no stats | [PAGE Ch4] |
+| Gambler's Earring `[+3 FORTUNE]` | Accessory | Unique (object file says Rare), GT n/a | [PAGE Ch4], [CANON] object file |
+| Goblin Gadget Belt | Belt | Common, GT2 | [PAGE Ch5] |
+| Enforcer's blade, club at belt | Hands | GT2 | [PAGE Ch4, Ch6] |
+| Common Goblin Leather Chest `[+1 ENERGY]` | Chest | Common, GT1 to 2 | [PAGE Ch10] |
+| Common Goblin Boots | Boots | Common, GT1 to 2 | [PAGE Ch10] |
+| Call of the Bones Necklace `[+5 WISDOM]` | Necklace | World, bound | [PAGE Ch9] |
+| Sevish: war axe, burgundy vest, sash, brass-buckled belt, tooth pendant, ring and bead earrings | Hands, chest, belt, necklace, accessory | level 80, high GT | [PAGE Ch5] |
+| Wyx: two sabres, spiked bone guard, leather arm bands, fang necklace, skull at the belt, torn cloak, ear hoops | Hands, gauntlets, necklace, belt, accessory | level 25, high GT | [PAGE Ch5], [CANON] sabres |
+| Ru: patched leather vest and dented cap a size too big | Chest, helmet | GT1 | [PAGE Ch9] |
+| Zinka: a wrap of dark cloth over one shoulder | Chest layer | GT1 to 2 | [PAGE Ch10] |
+| Defenders: a different shield each (tent door, barrel lid, cart panel), a club | Hands | GT1 | [PAGE Ch10] |
+| Iron cressets, sharpened stakes, bone totems, blue banners | camp | GT1 to 2 | [PAGE Ch4, Ch6, Ch10] |
+| Ironhide Chestplate, Vanguard's Greaves, PK Raiding Crest, Shivbone Staff, Doppelganger's Band | Chest, Legs, Accessory, Hands, Accessory | Rare, Rare, Rare, Legendary, Legacy | [PAGE Ch11 draft] |
+
+---
+
+## 10. Conflicts with canon and open items
+
+Canon wins in every case below.
+
+1. **Gambler's Earring rarity.** `codex/objects/gamblers-earring.md` says Rare. The page says UNIQUE. I treat Unique as a tag beside the ladder.
+2. **Wyx's weapon.** `codex/combat/way-of-the-bow.md` calls the Bow Wyx's category and `codex/objects/call-of-the-bones-necklace.md` says dual daggers. The ledger and `codex/characters/thrash-siblings-ability-lists.md` settle on **dual sabres, Way of the Blade**, and the ledger says to fix the stale files. Those files are not edited here. The Ch4-era "quiver across her back" was superseded by the reference image.
+3. **Tent doors.** Ch10 says "a tent door, a barrel lid, a cart panel" but the camp's tents have flaps tied shut. Canon seed, see `codex/lore/goblin-gear-and-camp-realism.md` for the fix options.
+4. **Epic tier.** Four material and recipe files say "Epic". The ladder has none. I read it as Legendary.
+5. **D&D hobgoblins wear chain mail, half plate or plate.** Canon hobgoblin officers (Sevish, Wyx) wear no plate. Canon wins. Plate belongs to dwarves, humans and Ironbreakers.
+6. **D&D goblins are leather-and-shield skirmishers.** HGO camp goblins are clubs, boards and patched hide, GT1 to 2, which is poorer than D&D's goblin. That fits "what they raided with" and the clan's ranks [CANON Ch6, `codex/locations/bloodhurst.md`].
+7. **Shield arts versus Ways.** Ru's shield art is not under any of the five Ways in the codex. I make it an item-granted art (the Albion pattern). OPEN.
+8. **Placement of clubs, maces, hammers, whips, daggers, crossbows and slings** inside five Ways is my reading. The ledger once lists "sword, spear, dagger, bow" as the physical-arts weapons. OPEN whether a sixth Way is wanted.
+9. **No cloak, quiver, bag or mount slot.** Eleven slots is canon. I used sockets and the stat-bearing-cloak rule. OPEN.
+10. **Guard shares, Power floors, Block bands, Edge bands, price index and level bands** are placeholders.
+11. **Chapter 11 draft items** are soft until Chapter 11 is rewritten.
+12. **Inventory as a pocket versus backpacks.** I kept both: the pocket stores, belt sockets ready, bulky camp kit is placed.
+
+---
+
+## 11. Sources
+
+- D&D weapons, armor and gear (SRD-based): https://dnd5e.wikidot.com/weapons , https://dnd5e.wikidot.com/armor , https://dnd5e.wikidot.com/adventuring-gear , https://www.dndbeyond.com/sources/dnd/basic-rules-2014/equipment
+- D&D class proficiencies and rarity: https://api.open5e.com/v1/classes/ , https://api.open5e.com/v1/magicitems/weapon-1-2-or-3/ , https://dnd-srd-sphinx.readthedocs.io/en/latest/magic-item/armor.html , https://dnd-srd-sphinx.readthedocs.io/en/latest/magic-item/shield.html , https://roll20.net/compendium/dnd5e/Magic%20Items
+- Pathfinder shields and the dogslicer: https://www.d20pfsrd.com/equipment---final/armor/ , https://pathfinderwiki.com/wiki/Dogslicer
+- Real shields: https://en.wikipedia.org/wiki/Shield , https://en.wikipedia.org/wiki/Pavise
+- Albion Online: https://guildorder.com/games/albion/wiki/gear-tier-system , https://heaven-guardian.com/albion-online-gear-guide/

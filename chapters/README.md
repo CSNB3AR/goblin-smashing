@@ -14,7 +14,9 @@ The working story text, first person, past tense, inside Tatsuya's head. One fil
 | 6 What Is Your Name? | `chapter-06.md` | Updated draft. Waiting on the Walter pass. |
 | 7 Consequences in Silence | `chapter-07.md` | Updated draft. Waiting on the Walter pass. |
 | 8 VRSA Inspection | `chapter-08.md` | Updated draft. Waiting on the Walter pass. |
-| 9 to 11 | `in-progress/now/` and `in-progress/previous/` | Not reviewed yet. The only place with a "now" and a "previous" version side by side. |
+| 9 The First Disciple | `in-progress/now/chapter-09-the-first-disciple.md` | Updated draft with Walter dividers (1,400 words or fewer per chunk). Waiting on the Walter pass. |
+| 10 Assembling the Assault Team | `in-progress/now/chapter-10-assembling-the-assault-team.md` | Updated draft with Walter dividers. The author is running the Walter pass on it now; hold edits until it is back. |
+| 11 | `in-progress/now/chapter-11-silence-and-fire.md` | Old draft, to be rewritten when we reach it. Older versions of 9 to 11 are in `in-progress/previous/`. |
 
 ## The process that makes a final draft
 
