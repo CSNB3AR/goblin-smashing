@@ -10,9 +10,11 @@ Sevish didn't slow. He took the last ten paces to the war tent in long strides w
 
 "Yeah, I'm fine. You?"
 
-"Just a l-little nervous about the meeting," Ru said. "There is a lot at stake. We have to get out of here alive." He looked toward the line of goblins by the stakes. "I hope my brothers stay alive."
+"Just a l-little nervous about the meeting," Ru said. "There is a lot at stake. We have to get out of here alive."
 
-*"Shit. I almost forgot."* If I died I lost seventy-two hours. They lost everything. Every move had to count from here, and that included the one standing next to me.
+"Yeah," I said.
+
+*"For them, life and death means a lot more than it does for me."*
 
 Past him the camp stood quiet. The stew pot sat cold beside the stone-ringed fire pit, the hay cart stood where it always had beside the big tent, the two blue banners hung limp on their poles, and the hide tents along the slope were tied shut with nobody between them. Sharpened stakes ringed the camp on the hillside now, set tight, and what was left of the clan stood posted along them under torches, with gaps in the line. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 

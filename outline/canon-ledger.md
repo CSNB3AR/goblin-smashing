@@ -1254,3 +1254,6 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## Eren history fixed in Chapters One and Two (author-stated, latest)
 - Chapter One (final draft and the unhumanized, pre-Walter and parts copies of it): "back when Eren and I spent whole nights building them out on our tablets and kept arguing about them between classes" became "back when I still thought Eren cared about it as much as I did." Chapter Two: "for months after that we argued about the game between classes" became "for a few months after that we sat at the same cafeteria table and argued about the game between classes". The history is: a temporary friendship Tatsuya believed was real (cafeteria tables, a few months), then the game came out, Eren used what he learned, showed his true colors and took the build. No fond-memory framing. Backups: ch1-before-eren-fix.md, ch2-before-eren-fix.md.
+
+## Ru's walking exchange, shorter (author-stated, latest)
+- After Ru says "There is a lot at stake. We have to get out of here alive," Tatsuya answers "Yeah," and his inner thought is the point: "For them, life and death means a lot more than it does for me." Cut: Ru's "I hope my brothers stay alive" and the seventy-two-hours paragraph. Backup: ch10-before-life-death.md.
