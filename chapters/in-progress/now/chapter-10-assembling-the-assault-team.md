@@ -1,6 +1,10 @@
 # Chapter Ten: Assembling the Assault Team
 
-Five dead before the patrol even saw them coming. Somebody on that road had picked the spot and waited.
+Five dead on the east patrol, and that was only the part Kesh had seen.
+
+"Fourteen left," Leon said in my ear. "Twenty-five on the roster when you logged off, man. That's eleven gone in an hour."
+
+*"Eleven. Nobody wanders into a camp and does that. That's a party with a roster and a plan, and they've been bleeding the clan on purpose."*
 
 Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
@@ -24,7 +28,7 @@ Ru gave one short nod and kept watching the camp.
 
 "Kesh counted the tent pole twice," said a voice from the flap. "There are four, chief."
 
-Ru shifted along the canvas to let her through, and I watched his head turn to follow her, a hobgoblin looking at another hobgoblin. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it came a lean goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes. Dust coated her knees. She carried no weapon in her hands.
+Ru shifted aside to let her through, his head turning to follow her, one hobgoblin watching another. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white, and under it came a lean goblin girl with a narrow face, a wrap of dark cloth over one shoulder and a scout's quiet eyes.
 
 Sevish let out a short, rough laugh. "Hah. Who is this?"
 
@@ -72,13 +76,13 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 "Then they are weak, and I strike now," Sevish said. He straightened off the table. "A tired caster is a slow caster. I take Wyx and the twelve best I have down that road in one rush. The axes reach the tent before their next volley is done. It is finished in a few breaths."
 
-"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads, and the second on whoever steps over him. I count six of ours at the bend, perhaps more, and we have fifteen who can stand."
+"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads, and the second on whoever steps over him. I count six of ours at the bend, perhaps more, and we have fourteen who can stand."
 
-"Six for four of theirs." Sevish's mouth moved at one corner. "I have paid worse."
+"Six for four of theirs," Sevish said. "I have paid worse."
 
-"You paid worse with the whole clan at your back," Wyx said. "You have fifteen."
+"You paid worse with the whole clan at your back," Wyx said. "You have fourteen."
 
-Sevish said nothing. The candles crackled. It would work, and it would cost him a third of the clan to find out.
+It would work, and it would cost him a third of the clan to find out.
 
 "Then Wyx and I go alone," Sevish said, and the quiet in his voice made the candles sound loud. "Two axes, four casters. We do not need the twelve."
 
@@ -304,9 +308,9 @@ The first thing I noticed was the quiet. The oil lamp sat low and guttering, the
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
-**[THRASH CLAN DEFENDERS: 11/20]**
+**[THRASH CLAN DEFENDERS: 10/20]**
 
-"Eleven," Leon said in my ear, and for once he didn't sound deadpan. "Four more went down the hill after the party while you were out, man. Your guy's gone from the flap, too. The card's still up on the stream. Say when."
+"Ten," Leon said in my ear, and for once he didn't sound deadpan. "Four more went down the hill after the party while you were out, man. Your guy's gone from the flap, too. The card's still up on the stream. Say when."
 
 I was on my feet before the notification faded.
 
