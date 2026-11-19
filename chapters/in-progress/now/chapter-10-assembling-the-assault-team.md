@@ -10,7 +10,7 @@ Now that Thrash counted me as one of theirs, the alert in the corner of my visio
 
 Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
-Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into trees. And every goblin on that line held a different shield, a tent door, a barrel lid, a cart panel, nothing made for the job, with a club in the other hand.
+Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into trees. And every goblin on that line held a different shield, a barrel lid, a plank off the hay cart, a tent flap laced wet onto a pole frame, nothing made for the job, with a club in the other hand.
 
 The flap fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
 

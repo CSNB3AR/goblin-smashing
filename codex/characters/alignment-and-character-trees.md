@@ -363,3 +363,84 @@ A banished High Elf with "papal authority" who "corrected" Shiv (the court's wor
 **Why:** Season Zero champions, "disciplined, patient", they hide inside the ruins with a kill zone at the breach and let a poisoned rival leader run out his clock with no antidote reaching him [CANON `pro-teams.md`, `hearthfire-expansion-and-seasons.md`]. They back Prince Dorrin as contractors and "ask what is in it for them" rather than hand anything to the NPCs [CANON ledger]. A "Knights" name rides on mercenary, professional conduct, which is the Gap.
 
 - **Traits:** disciplined and patient; paid and proud of it. **Ideal (Order):** hold the fort and hold the price. **Bond:** Thornwatch, their banner, a contract with a prince. **Flaw:** the name promises more chivalry than the conduct delivers. **Line:** will not give away the supply for nothing. **Trust:** a fair price and kept contracts. **Break:** a broken contract or a public insult to the banner. [PROPOSAL]
+
+## 7. Where cells rub: the friction map [PROPOSAL]
+
+D&D advice is that allies of different alignments can work together and that differences make scenes, not splits [SRC S2, S25]. Kingmaker's designers say the same about mixed parties: they need a reason to stay together [SRC S29]. Each pair below is a scene seed, not a plot.
+
+| Pair | Cells | Where they rub | Scene seed |
+|---|---|---|---|
+| Sevish and Tatsuya | Unbound (honor) and Freeheart (traps) | A fair duel versus an ambush; spending recruits versus sparing them | Sevish asks whether the tent was a duel or a hunt. Tatsuya answers in the camp's own terms: the raiders farmed, and farmers earn no duel. |
+| Wyx and Tatsuya | Freeheart with a Straight vow, and a Freeheart who gambles | His Fortune-driven gambles versus her people's lives (a Break in her block) | Before a risky plan she asks who pays if the dice fall wrong. He has to name a name. |
+| Leon and Arya | Hearthkeeper guardian and Freeheart "delinquent" | His caution against her all-in bets | Leon refuses the second pod once, then pays for it. |
+| Tatsuya and Eren | Freeheart and Taker | Mirror images: one lost his work to the other | Eren pitches teamwork in Tatsuya's own old words. |
+| Dorrin, Ilyan, Maldren | Oathkeeper, Warden, Ironhand | A shield, a steward and a reformer under one dying crown | The funeral truce is the one room where all three have to speak. |
+| The Church of Seranis and Seranis | A Straight institution and a Wild goddess | A Pope who judges a bearer the goddess chose as odd | A relic bearer refused on grounds of form. |
+| Ru and the camp | Oathkeeper and a bystander custom | A goblin who now speaks up | Ru stops a bowl-taking and must explain why to a hobgoblin. |
+| Zinka and Kesh | Two Wardens, one exact and one willing | Count against courage | Her number saves lives; his run does too. Neither can do the other's job. |
+| London Spire and Tatsuya | Warden and Freeheart | Contract against conscience | The price of the elixir supply, asked by a small goblin guild. |
+| PK_Wraith and Yuna | Taker and Hearthkeeper | A lie as a weapon (already canon) | The lie works because it attacks trust, not strength. |
+
+## 8. Drift watch [PROPOSAL]
+
+Only gold NPCs drift, and only through an arc: a pattern plus a Landmark (framework 7.8).
+
+| Character | Now | Pulls toward | What would move them | Signal on the page |
+|---|---|---|---|---|
+| Tatsuya | Freeheart | Unbound, or Oathkeeper | A gambler's habit of treating people as stakes; or vouches that harden into oaths | He spends goblins and tells himself the odds are good; or he swears a clan oath |
+| Wyx | Freeheart, Road wavering | Oathkeeper | Command and losses | She issues orders as law instead of asking |
+| Sevish | Unbound | Oathkeeper | Plans replacing pushes | He hears a plan out and waits |
+| Ru | Oathkeeper, Wavering | Settled | A voice of his own | He refuses an order and gives a reason |
+| Eren | Taker, Wavering | Wayfarer, or deeper Taker | The respec; Haruto's exit | A real loss and an honest rematch, or a cover-up that works |
+| Haruto | Wayfarer | Hearthkeeper | His public exit from the guild | He speaks up for someone else |
+| Ilyan | Warden, Wavering | Ironhand, or Oathkeeper | Corvith's hold; the king's death | The days after the funeral |
+| PK_Wraith | Taker | Ironhand | His group hardening into an organization | He stops posturing and starts planning quietly |
+
+## 9. Page evidence log (what the drafts already fix)
+
+| Where | What happens | Who it fixes |
+|---|---|---|
+| ch4 | Two enforcers take a bowl from a runt; the pot-keeper turns away; nobody steps in; Tatsuya does | Tatsuya (Freeheart), the camp's bystander custom, the enforcers (Taker in miniature) |
+| ch5 | Wyx watches the whole fight and does not interfere; Sevish roars and asks who did this, then tells Tatsuya to speak and choose his words with care | Wyx (tests wit), Sevish (tests nerve, hears a witness) |
+| ch6 | "I like him" and the first ticks; "the clan's rule is that we do not fight each other"; "the dead stay dead"; "he owes me a favor"; "by our law, anyone who brings back word of Shiv stands as an ally"; Thrash "gave up land and power"; the cuffs | Sevish, Wyx, the clan's code |
+| ch9 | Shiv asks consent for the bond and permission for Ru; the guards call Tatsuya "elder"; Kesh sprints in with five dead | Shiv (Oathkeeper), Ru, Kesh |
+| ch10 | Zinka corrects Kesh; "she makes it a law; it is the only law I keep"; "he says it to my face"; "when a goblin of mine falls out there, he does not get up"; "call it a bargain, I will call it a debt"; Ru holds the flap | Sevish, Wyx, Zinka, Ru, Tatsuya |
+| ch11 (draft) | Sevish: "I am not a coward, we push them"; Tatsuya asks him whose fault it is; the ticks 47 to 50 and 52 to 56; the tent trap; Arya's guild-feed warning | Sevish, Tatsuya, Arya |
+
+## 10. Conflicts with canon and open questions
+
+Where my placements touch canon, canon wins.
+
+**Conflicts and how I resolved them**
+
+1. **Wyx.** The author reads her as chaotic good and is unsure. The page shows a Straight vow (the walls rule, earned ranks). Resolved by keeping the author's read and noting that a chaotic good conscience can choose a code. Road is marked Wavering.
+2. **Sevish.** Canon states no alignment. The placement is mine; Chaotic Good is the warmer alternative.
+3. **Zinka's tent role.** The ledger says Zinka and Ru are the two gassers and Kesh is not a third. The ch11 draft sends Ru, Rott and Nab and omits Zinka. Her block relies on ch10 and the ledger.
+4. **How PK_Wraith's crew found the camp.** The codex says it was a genuine accident and the crew never knew it was the quest camp [CANON `pk-wraith.md`, "Confirmed, Chapter 8"]. The ch11 draft ends Part One with Arya reporting that his handle runs a thread tracking world quests and Tatsuya concluding "they were looking". My Taker reading works either way, but the first reading is opportunism and the second is planning.
+5. **Ranks.** Wyx says earned ranks exist [PAGE ch6]; a later ledger entry says goblins have no formal ranks and the page uses only "co-leader". I treat ranks as informal earned tiers with no rank labels on the page.
+6. **Camp numbers.** The ch11 draft says fifty goblins became fifteen; the codex and ledger say 25 in total and about 15 left. This matters because the weight of Sevish's flaw (spending bodies) depends on the count. Not mine to decide.
+7. **London Spire's names.** `pro-teams.md` already flags that Alistair Rhodes (shotcaller) clashes with the leader's name Edmund Vane. I used Edmund Vane as the leader and left it open.
+8. **Ru's title.** Superseded to "Disciple of Elder Nykri"; I used that.
+9. **Isaveil and Maravel.** Not placed. Canon gives too little and the archive reveal should define Isaveil.
+
+**Open questions, ranked**
+
+1. Should Sevish stay Unbound with a good code, or be warmer (Chaotic Good)?
+2. Should Wyx's lawful lean be dramatized or left under the Chaotic Good read?
+3. Who gasses the tent: Zinka (ledger) or Rott and Nab (ch11 draft)?
+4. Is Dorrin's parentage to stay silent or be teased?
+5. May PK_Wraith's Line be openly a vanity ("never seen to lose") rather than a virtue?
+6. Does the author want any cast member in Ravager? I recommend not, to keep the cell rare.
+
+## 11. Source key
+
+All outside material is paraphrased. "Fetched" means I read the page; "search summary" means I saw only a search result.
+
+| Key | Source | URL | Status |
+|---|---|---|---|
+| S2 | D&D Beyond, "Breaking Down Alignment in D&D" | https://www.dndbeyond.com/posts/1869-breaking-down-alignment-in-d-d | fetched |
+| S3 | D&D Beyond, Mike Mearls, "Alignment and Your Place in the D&D Multiverse" | https://www.dndbeyond.com/posts/44-alignment-and-your-place-in-the-d-d-multiverse | fetched |
+| S25 | Gnome Stew, alignment at the table | https://gnomestew.com/playing-alignments-in-rpg-good-or-not-so-good/ | fetched |
+| S29 | Pathfinder: Kingmaker, GameBanshee Update 40 (companions, mixed-alignment parties) | http://www.gamebanshee.com/kd464 | fetched |
+
+Other keys (S1 to S31) are listed in `codex/lore/alignment-framework.md`, section 14.

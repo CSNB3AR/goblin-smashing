@@ -106,3 +106,99 @@ Goblin, Hobgoblin, Bugbear, Warchief, Totem-bearer, Wolfriders, and their relati
 | Orc is a playable race (Sunmarch) with Unbroken, poison resistance, frost weakness | `codex/races/orc.md` |
 | Existing creature types for the "creature-type bonus" gear affix: beast, undead, humanoid, demihuman | `codex/lore/secondary-combat-stats.md` |
 | NPCs speak in a medieval-fantasy register ("D&D-like") in their own world | ledger "Speech register and sources" |
+
+## 3. The HGO goblin ladder
+
+Canon makes "Hobgoblin" a rank a goblin earns, not a separate species, so the D&D three-species family becomes a **ladder with one side branch**. Levels are [PROPOSAL] and follow the class bands in the mapping note (Class I about LV 1 to 8, Class II about LV 6 to 22, Class III about LV 18 to 50, Class IV LV 45 and up). Canon calibration points are marked.
+
+| Rank | Level band | Class | Type tag | Speech [CANON ledger] | Canon calibration |
+|---|---|---|---|---|---|
+| Runt Goblin | 1 to 2 | I | Demihuman | short broken words, stutter | Ru before the blessing (LV 1) |
+| Goblin (grunt, enforcer, skulker, gas or flare unit) | 2 to 8 | I | Demihuman | full sentences in a clan, short and rough when feral | Thrash Clan Enforcer LV 3 |
+| Hobgoblin, young | 5 to 12 | I top, II | Demihuman | patterns, gravity, no stutter | Ru LV 5, Zinka LV 7 |
+| Hobgoblin, veteran or lieutenant | 12 to 24 | II | Demihuman | patterns | Drosh (level not stated) |
+| Hobgoblin captain, gold tag when named | about 25 | III-equivalent | Demihuman | patterns | Wyx LV 25 |
+| Hobgoblin warlord, gold tag when named | about 80 | IV-equivalent | Demihuman | patterns | Sevish LV 80 |
+| Bugbear (feral side branch) | 10 to 22 | II | Demihuman | grunts and short phrases | none, [PROPOSAL] |
+| Shiv Goblin | player evolution only | n/a | Demihuman | n/a | Tatsuya LV 8, not a mob |
+
+Reading the ladder:
+
+- **Wyx and Sevish are calibration points, not spawns.** They are gold-tag NPCs, do not level while they are non-troops, and have fixed levels [CANON `codex/lore/companion-troop-system.md`]. By the D&D conversion in the mapping note, LV 25 is about CR 6 and LV 80 is about CR 17, which is where a "named boss goblin" and a "dragon-class war leader" would sit on the D&D scale.
+- **Why feral clans make more hobgoblins than Thrash does.** [PROPOSAL, consistent with canon] Canon's reason Thrash has only two hobgoblins is that Sevish never sends recruits out to fight and the spawn zone has no high-level monsters [CANON `codex/locations/bloodhurst.md`]. A feral clan does the opposite: it throws recruits into constant skirmishes. Most die, a few survive and level without dying, and those few evolve. So the Black Lands should be thick with hobgoblins and bugbears, which is also why the clans fear each other and why Thrash goblins read them red.
+
+## 4. Entries
+
+### 4.1 Goblin (the clan grunt)
+
+**D&D idea:** Goblin, with the Goblin Minion and Goblin Warrior split from the 2024 rules [SRC S3, S5]. Small, quick, ranged, fragile, and every tribe has hundreds of them [SRC S11, S18].
+**Class I. LV 1 to 8. Type: Demihuman. Role: skirmisher and minion (artillery for archers). Rarity: Common.**
+**Eryndal status:** exists [CANON]. Thrash goblins are white-tag allies to a goblin player. Feral goblins are red.
+
+**What it is.** The same body Tatsuya wears: about four feet tall, thin fingers (never claws), pointed ears, small tusks on the older ones [CANON `codex/races/reference`, `codex/races/goblin.md`]. Most goblins in a camp are recruits who never leveled. A feral goblin is the same animal without Shiv's law: no rule against fighting its own, so a feral camp is always shedding members.
+
+**Variants**
+
+| Variant | Level | Role | Arts (Way, tier) | Panel (placeholder) |
+|---|---|---|---|---|
+| Runt Goblin | 1 to 2 | minion | Palm Check (Fist T1) | `[RUNT GOBLIN: LV 2 - DEMIHUMAN - CLASS I] [HEALTH: 45/45] [POWER: 1] [SPEED: 2]` |
+| Enforcer or Grunt | 3 to 8 | grunt, soldier | Clean Draw (Blade T1), Guard Break Swing (Blade T1), Haft Check (Axe T1) | canon: `[THRASH CLAN ENFORCER: LV 3] [HEALTH: 48/48] [POWER: 5] [SPEED: 3]` |
+| Slinger or Bowman | 3 to 8 | artillery | Steady Draw, Snap Loose, Pin Shot (Bow T1); Volley Draw (Bow T3) from LV 6 | as Enforcer |
+| Skulker (scout) | 4 to 8 | skirmisher, lurker | Slip Step (Blade T2) | `[GOBLIN SKULKER: LV 4 - DEMIHUMAN - CLASS I] [HEALTH: 50/50] [POWER: 2] [SPEED: 6]` |
+| Gas Unit | 4 to 8 | controller | Goblin Gas (kit) | `[GOBLIN GAS UNIT: LV 4 - DEMIHUMAN - CLASS I] [HEALTH: 50/50] [POWER: 2] [SPEED: 4]` |
+| Flare Unit | 4 to 8 | artillery, signaller | Goblin Flare (kit) | as Gas Unit |
+| Cutpurse | 5 to 8 | skirmisher | Lift (Nimble Hands, racial) | as Skulker |
+
+**How it fights.** In a pack, at range first, then a rush on whoever is loose. It picks casters and anyone carrying a visible item, drops aggro the moment it is cut, and runs when the leader falls (the old-school morale idea [SRC S20] as a simple rule: below 30 percent HP, or within 5 s of its leader dropping, a goblin routs). Gas Units open a fight with a cloud in a closed space, the way Tatsuya's does.
+
+**Signature arts**
+- **Slip Step** (Blade T2, about 20 percent SP, 15 s) [PROPOSAL, from Nimble Escape [SRC S3]]. A cut then a short back-step. For 2 s the goblin's threat is halved and slow, heavy arts have to re-aim. Limiter: cancelled by Slow, Immobilise or Root, and it costs the goblin its next action.
+- **Goblin Gas** (kit, 10 SP of a 25 pool, 30 s) [CANON ledger]. Radius poison, stacks to 4x, stun chance, can be ignited, and hurts the user if the user stays in it. A mob Gas Unit never links it to the Flare (canon: no NPC has used the combination).
+- **Goblin Flare** (kit, 5 SP, 30 s) [CANON]. A signal flare visible to allies on the mini-map within about a mile. As a mob skill it is a **call**: any hostile goblin within a mile turns toward it. That is the "send for reinforcements" rule with no summoning.
+- **Lift** (Nimble Hands, racial, Fist T1, 60 s) [PROPOSAL]. Takes one unequipped Common item from a belt pouch, then flees toward camp. Limiter: one lift per target per fight, killing the thief returns the item, and the item is lost after 10 minutes. Canon's karma and Affiliation costs for Nimble Hands apply to players using it on NPCs, so the mob version carries none [CANON `codex/races/goblin.md`].
+
+**Passives and racials** (trigger and limiter stated)
+- **Goblin Rally** (passive, name is CANON from the old draft) [CANON `codex/characters/goblin-squad-companions.md`]. Trigger: allied goblins within 6 m. Effect: +4 percent Power and Speed per ally. Limiter: caps at +20 percent and drops under two allies.
+- **Scavenger's Eye** (racial) [CANON]. Mob form: when a player in the fight drops an item, the nearest goblin runs for it. Limiter: only an item dropped within 10 m, one carrier at a time, and killing the carrier returns it. This gives feral goblins their "strip the fallen" habit, which suits full-loot zones.
+
+**Weaknesses.** Flat resistances (canon: none), so Frost, Fire and Toxin all land in full. Courage is low, so fear and taunt effects work. HP is low. A runt cannot hold a line. A camp's goblins are very weak to the exact thing Tatsuya does: a closed space and a cloud.
+
+**Drops** (materials from `codex/materials`)
+
+| Variant | Typical drops |
+|---|---|
+| Any goblin | Scrap Tin Sheet (Common), Clanmark Ore (Common), Common Spirit Dust (Common), Beast Leather (Common, Rough) |
+| Camp goblins at Bloodhurst | Bloodhurst Slag (Common) |
+| Gas Unit | Ashroot Fungus (the toxin base behind Goblin Gas), Gas Sac (Uncommon, low odds) |
+| Flare Unit | Fuse Moss, Pine Pitch (Common), Flarebloom |
+| Skulker | Smokeleaf (Common) |
+| Cutpurse | whatever it lifted, plus Scrap Tin Sheet |
+
+**Behaviour and clan structure.** See section 5. A feral band is 4 to 12 goblins with one named Skulker as a lookout and, past LV 6, a hobgoblin sergeant.
+
+### 4.2 Hobgoblin (the ranked soldier)
+
+**D&D idea:** Hobgoblin, with the 2024 Captain's aura [SRC S3, S5]. Armoured, drilled, fights in formation, and the best fighters lead goblin tribes [SRC S12].
+**Class II. LV 5 to 24 (young 5 to 12, veteran 12 to 24). Type: Demihuman. Role: soldier and leader. Rarity: Uncommon.**
+**Eryndal status:** exists [CANON]. In the Thrash camp there are only a handful (Sevish, Wyx, Ru, Zinka, plus Tatsuya's form). Feral clans can field many.
+
+**What it is.** A goblin that leveled steadily without dying. Human height and build, much bigger than camp goblins, speech in patterns, and a mind for system: the hobgoblins run the war tent on rank and order while the goblins outside live on whatever works [CANON `codex/locations/bloodhurst.md` war tent notes, ledger]. Skin and markings vary by clan. The D&D red-orange look survives only as Sevish's superseded early description (`ledger`: muted green is now canon).
+
+**How it fights.** Shield or spear line, short orders, covers an ally's flank, advances as a block. A single hobgoblin is a fair Class II fight. A drilled five is a wall.
+
+**Signature arts**
+- **Measured Thrust** (Spear T2, about 20 percent SP, 15 s) [PROPOSAL]. A straight thrust that adds a small "set" bonus if the hobgoblin has not moved for 1 s. Limiter: moving cancels the set.
+- **Hold the Line** (Spear T3, about 30 percent SP, 45 s) [PROPOSAL]. Braces a pole or shield and covers an ally within 3 m: 70 percent of hits meant for that ally strike the hobgoblin instead for 6 s. Limiter: needs a shield or a braced pole, and a stagger breaks it. Do not hand this exact name to Ru: canon already gives Ru a separate shield-protection art that unlocks through rare-tier gear [CANON `young-goblin-companion-candidate.md`].
+- **Serpent's Reach** (Spear T3, existing canon move) [CANON `codex/combat/way-of-the-spear.md`]. The multi-angle thrust combo for veterans.
+- **Toxic Breath** (kit, the evolved Goblin Gas) [CANON]. A gut-charged cloud, granted at the rank-up. Canon shows it only on Ru and Zinka, and Wyx and Sevish have it listed but never use it. Mob hobgoblins should carry it rarely, and a feral hobgoblin that uses it is a deliberate surprise. Stacks accelerate when two or more sources hit the same target [CANON `codex/crafting/debuffs-and-resistances.md`].
+
+**Passives and racials**
+- **Ranked Drill** (racial passive) [PROPOSAL, from Martial Advantage [SRC S3] and Pack Tactics [SRC S5]]. Trigger: an allied goblinoid within 2 m of the target. Effect: +15 percent on that hit. Limiter: once per 3 s per hobgoblin, lost while staggered.
+- **Captain's Presence** (passive, veterans and captains only) [PROPOSAL, from Aura of Authority [SRC S5]]. Trigger: allies within 6 m. Effect: +10 percent accuracy and +10 percent resistance to Fear. Limiter: ends if the captain is stunned, immobilised or silenced, and shrinks to 3 m below 30 percent HP.
+- **Goblin Rally** is inherited from the goblin rank [CANON].
+
+**Weaknesses.** A formation is only as good as its slowest member: knockdown and flip effects (**Upheaval**, Book of Stone's Tremor Cascade) break it [CANON `codex/combat/physical-arts-overview.md`]. Silence locks Physical Arts for anyone without a drawn weapon, which matters to any hobgoblin carrying its spear at rest [CANON `codex/crafting/debuffs-and-resistances.md`]. No racial resistances, so Toxin works unless gear covers it. Poison is a hobgoblin's own tool, so a hobgoblin with Toxic Breath is not afraid of gas but still takes full stacks from enemy gas.
+
+**Drops.** Ironvein Ore (Common), Clanmark Ore (Common), Beast Leather (Uncommon), Rune Stone Fragments (Uncommon, low odds). Veterans add Greywall Iron (Uncommon). Hobgoblins living in the Thornwatch ruins add Old Kingdom Rivets (Uncommon). A hobgoblin with Toxic Breath is the one goblin that can drop a Gas Sac, because Gas Sacs come from "evolved Toxic Breath sources" [CANON `codex/materials/organic.md`].
+
+**Panels.** `[HOBGOBLIN LEGIONARY: LV 8 - DEMIHUMAN - CLASS II] [HEALTH: 74/74] [POWER: 10] [SPEED: 8]` and `[HOBGOBLIN LIEUTENANT: LV 16 - DEMIHUMAN - CLASS II] [HEALTH: 147/147] [POWER: 18] [SPEED: 16]`. Named gold-tag hobgoblins show `[WYX THRASH: LV 25 - HOBGOBLIN - BLADE DANCER]` style plates [CANON chapter 10] and are not mobs.

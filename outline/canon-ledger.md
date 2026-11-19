@@ -1170,3 +1170,7 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## Walter status (author-stated)
 - Chapter Nine is also waiting on Walter (the new updated version, with dividers). The author is running Chapter Ten through Walter now. Do not edit Chapters Nine or Ten while the pass is in progress; any further fixes (the Chapter Ten shield line, the Chapter Nine "pulse" repeat, the Gambit wording) are applied to the repaired versions after Walter returns.
+
+## Chapter Ten: the goblin equipment line matched to the gear baseline (author-requested)
+- The seed sentence about the defenders' shields no longer says "a tent door". It now reads: "every goblin on that line held a different shield, a barrel lid, a plank off the hay cart, a tent flap laced wet onto a pole frame, nothing made for the job, with a club in the other hand." (From the camp realism sheet: hide tents have flaps, not doors; a stiff rawhide flap laced wet onto a frame is the honest version.) Backup: ch10-before-gear-line.md.
+- Chapter Ten as sent carries every change requested so far: opening on the roster realisation with the 14/23 clan panel, nine down, Ru and Kesh sent out by Tatsuya, Wyx's thought without the co-leader label, "Nykri" and "the one Shiv marked" instead of "elder", the quick re-inspect with the exclamation marks, the matching ending (10/23, Leon only says what he sees), and this equipment line. Dividers 1,381 / 1,362 / 1,298.
