@@ -2,9 +2,9 @@
 
 Five dead on the east patrol, and that was only the part Kesh had seen.
 
-"Fourteen left," Leon said in my ear. "Twenty-five on the roster when you logged off, man. That's eleven gone in an hour."
+"Fourteen left," Leon said in my ear. "There were twenty-five in that camp when you logged off, man. That's eleven gone in an hour."
 
-*"Eleven. Nobody wanders into a camp and does that. That's a party with a roster and a plan, and they've been bleeding the clan on purpose."*
+*"Eleven. Nobody wanders into a camp and does that. That's a party that came with a plan, and they've been bleeding the clan on purpose."*
 
 Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
