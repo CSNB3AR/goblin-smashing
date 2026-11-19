@@ -2,9 +2,11 @@
 
 Five dead on the east patrol, and that was only the part Kesh had seen.
 
-"Fourteen left," Leon said in my ear. "There were twenty-five in that camp when you logged off, man. That's eleven gone in an hour."
+The alert in the corner of my vision had changed since the last time I'd looked at it. Now that Thrash counted me as one of theirs, it opened past the defenders into the whole clan.
 
-*"Eleven. Nobody wanders into a camp and does that. That's a party that came with a plan, and they've been bleeding the clan on purpose."*
+**[THRASH CLAN AT CAMP: 14/25]**
+
+*"Twenty-five at full strength. Fourteen now. Eleven gone in an hour, and nobody wanders into a camp and does that. That's a party that came with a plan, and they've been bleeding the clan on purpose."*
 
 Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. Nobody had raided the camp. The goblins who were missing had gone down the track in twos and threes to meet the party and hadn't come back, and what was left stood in a thin line along the stakes under the torches, with gaps where somebody had been a minute ago. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
@@ -308,7 +310,7 @@ The first thing I noticed was the quiet. The oil lamp sat low and guttering, the
 
 **[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
 
-**[THRASH CLAN DEFENDERS: 10/20]**
+**[THRASH CLAN AT CAMP: 10/25]**
 
 "Ten," Leon said in my ear, and for once he didn't sound deadpan. "Four more went down the hill after the party while you were out, man. Your guy's gone from the flap, too. The card's still up on the stream. Say when."
 
