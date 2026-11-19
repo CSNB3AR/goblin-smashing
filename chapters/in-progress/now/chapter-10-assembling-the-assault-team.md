@@ -48,13 +48,17 @@ I turned to Ru. "Get the line in order. Raise the inner barricade behind the sta
 
 Ru straightened until the cross rope brushed his hair. "Understood," he said, and ducked out through the flap.
 
+A small marker with his name appeared on the mini-map in the corner of my vision and slid along the edge of camp, and the gray around it cleared as it went. *"Huh. So that's how that works."*
+
 "That is not the first step you have taken tonight, Nykri," Wyx said quietly.
 
 "Now go join him, Kesh," Sevish said. "He will need someone who knows the lanes."
 
 "Kesh go," Kesh said, already off his barrel, and ducked out after Ru.
 
-Zinka stepped up to the near side of the table, on my right, and set one finger on the map where the hill met the road. "Four of them, in a red tent on the shoulder of the road, where it watches the track. They do not charge. They have a trick: one of them hauls a goblin out of the line, another locks him still, and the rest cut him down before we can reach him. Then they haul the next. They take us the way hunters take beasts, one at a time, with a rest between." Her mouth thinned. "Cowards. We dodged some of the caster's spells. But when the caster went into the tent and came out again, the caster's power was full. I do not know how."
+--------
+
+Zinka stepped up to the near side of the table, on my right, and set one finger on the map where the hill met the road. "Four of them, in a red tent on the shoulder of the road. It sits at an angle to the track, so anything climbing or descending is in their sight. They do not push uphill. They hold the road and take us when we come down it, and the opening is always the same. One of them drags a single goblin out of our line, a second locks him in place, and the other two finish him before the rest of us can reach him. Then they fall back to the tent." She looked at the map, not at us. "Their spells are small, and they are timed well. We dodged a few when we saw them coming. What I cannot account for is the caster. Each time it went into that tent and came out again, its strength was whole, as if it had never cast at all. They went back in about five minutes ago and have not come out."
 
 "A caster in the party," I said slowly. "That explains how they've been taking us one at a time." My eyes moved from her finger on the map to Sevish's face and back. "And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
 
@@ -73,8 +77,6 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 **[CALL OF COMMAND: RETURN | SCOUT | CALL TO ARMS]**
 
 Two goblins came off the left wall, past Kesh's empty barrel, a thickset one who grunted and a thin one who nodded. "Rott go," the thick one said. "Nab carry," the thin one said, and hefted a coil of rope without being asked.
-
---------
 
 Wyx crossed to the crate against the right wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have the one Shiv marked walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather. "Zinka, join Ru and Kesh. Help him organize every goblin on that line, and follow his instructions. Ru is still in charge out there."
 
