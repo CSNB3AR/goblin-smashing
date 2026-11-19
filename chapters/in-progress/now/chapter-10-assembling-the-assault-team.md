@@ -312,7 +312,9 @@ The first thing I noticed was the quiet. The oil lamp sat low and guttering, the
 
 **[THRASH CLAN AT CAMP: 10/25]**
 
-"Ten," Leon said in my ear, and for once he didn't sound deadpan. "Four more went down the hill after the party while you were out, man. Your guy's gone from the flap, too. The card's still up on the stream. Say when."
+*"Ten. It was fourteen when I left."*
+
+"Your guy's not at the flap," Leon said in my ear, and for once he didn't sound deadpan. "Card's still up on the stream. Say when."
 
 I was on my feet before the notification faded.
 

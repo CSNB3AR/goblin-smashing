@@ -1128,3 +1128,6 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## Chapter Ten: where the roster math comes from (author question, latest; replaces Leon's line)
 - Leon cannot know the camp's headcount (he is not in the game and only sees what Tatsuya's stream shows), so the numbers no longer come from him. Now that Thrash counts Tatsuya as an ally, the camp alert opens past the defenders into the whole clan: [THRASH CLAN AT CAMP: 14/25]. Tatsuya does the math himself in his head (25 at full strength, 14 now, eleven gone in an hour) and concludes the raiders are an organised party that came with a plan. The ending count is [THRASH CLAN AT CAMP: 10/25] with Leon only relaying what he sees on his screen. The Chapter Nine alert (DEFENDERS 15/20) is the narrower defenders view of the same camp. Backup: ch10-before-leon-fix.md.
+
+## Chapter Ten ending: Leon is not there (author-stated, latest)
+- Leon is not in the game, so at login he cannot know what happened while Tatsuya was offline (no "four more went down the hill"). He sees only Tatsuya's view and the stream. Tatsuya reads the clan count himself (10/25, it was 14 when he left) and infers the rest; Leon says only what he can see ("Your guy's not at the flap"). RULE: Leon's lines are limited to what is on Tatsuya's screen, what chat and Loop show, and the pod. Backup: ch10-before-ending-leon.md.
