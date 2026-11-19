@@ -2,7 +2,7 @@
 
 **Status:** Research and proposal file, not canon until the author accepts it. It edits no existing file. For each of the eight playable races (human, elf, dwarf, orc, beastfolk, goblin, frostborn, drakekin) it gives a starting kit, a typical kit by role (weapon, armor, shield, tools, camp gear), the materials and craft traditions the race would use from `codex/materials/`, racial fit rules (size, tail, horns, wings, cold and heat gear), and what the race's NPC guards, scouts, soldiers and civilians wear. Every item stays inside our system: Way-appropriate weapons, the eleven gear slots, the Common to World ladder, the six professions, and the Gear Tier ladder (GT1 to GT8).
 
-**Tags.** **[SRC]** outside source, paraphrased, URL given. **[CANON]** already in this repo, file named. **[PAGE]** shown in a chapter. **[PROPOSAL]** my invention.
+**Tags.** SRC (outside source), CANON (in repo), PAGE (in a chapter), PROPOSAL (invented). Core chart: `codex/lore/dnd-gear-baseline.md` section 0.
 
 **Sibling files.** `codex/lore/dnd-gear-baseline.md` (rules, weapons per Way, armor, shields, rarity), `codex/materials/dnd-gear-material-map.md` (materials, GT ladder, professions), `codex/lore/goblin-gear-and-camp-realism.md` (the full goblin and camp treatment), `codex/lore/dnd-camp-gear-tools-and-mounts.md`, `codex/lore/dnd-class-dress-and-casting-foci.md`.
 
@@ -56,8 +56,6 @@ The baseline race. "The material base every other region's specialties get compa
 | **Caster or support** | ash staff with a Book-matched focus, or mace and holy symbol (Warden) | linen robe or Tanned Jerkin, light cap | none or buckler | rune chalk, scroll case, healer's kit | tent, bedroll |
 | **Crafter or civilian** | hammer, knife, cleaver | wool, leather apron, work boots | none | trade tools | market stall cart |
 
-**Human NPCs.** Civilians in wool and linen with aprons and caps. **Guards** (city and gate): spear or hook-bill, round board, Mail Shirt over a livery tabard, kettle cap. **Scouts** (Lunarest border rangers): Tanned Jerkin, cloak, short or warbow. **Soldiers** (garrison, the "adventurers who rally" to the guard [PAGE Ch6]): arming blade or Wall-pike, round or kite board, Mail Hauberk at the line, banner colours of the prince they serve (the page names Prince Dorrin's and Prince Maldren's banners [PAGE Ch1]).
-
 ---
 
 ## 3. Elf (Azure Expanse)
@@ -76,7 +74,6 @@ Light, long and fine. Power 3 means medium and heavy kit cost real points, so an
 | **Caster** (the elf default) | **Skyglass-capped staff** or wand and orb, Book-matched focus | Enchanted Thread robe (soft goods), cap, sash with sockets | none | rune chalk, ink, scroll case | tent with lamp, bedroll, tea kit (Moonpetal Infusion [CANON food file]) |
 | **Crafter or civilian** | knife | fine linen, apron | none | scribe's and weaver's tools | none |
 
-**Elf NPCs.** Civilians in fine linen, long robes, sashes. **Guards**: bow and sabre, leather with Skyglass buckles, hooded cloaks. **Scouts**: green and grey cloaks, warbows, soft boots. **Soldiers**: skirmish archers and caster officers rather than a shield line. **Earth weakness gear** [PROPOSAL]: Stone-ward charms in an accessory slot, and no Book of Stone fittings.
 
 ---
 
@@ -96,7 +93,6 @@ The heavy-gear race, and the crafters. Locked out of magic, with "a strong craft
 | **Support** (no magic) | hammer, mace | Cuirass or Mail Hauberk | round board | **engineer's tinker kit, smith's tools** | field forge |
 | **Crafter** | hammer, tongs | thick leather apron, gloves | none | smith's, mason's, brewer's | forge, workbench |
 
-**Dwarf NPCs.** Civilians in leather aprons, wool, beard-braid caps. **Guards**: Splint or Mail Hauberk, tower board, warhammer. **Scouts**: crossbow and mattock, Rimeiron-lined cloak. **Soldiers**: Mail Hauberk, round board, fighting axe, house-stamped plates. [CANON] The dwarven kingdom lies beside Thornwatch and a half-dwarf "dwarfling" blacksmith befriends Tatsuya near the mountains (`codex/lore/merchant-license-auction-and-jobs.md`, Book One file).
 
 ---
 
@@ -116,7 +112,6 @@ Power 9, the strongest base line. Weak to Frost, resists Poison, restricted from
 | **Caster** (restricted) | Sunforged-capped rod or staff (Embers) | hide robe, scale trim | none | rune chalk | tent |
 | **Crafter or cook** | hammer, cleaver | leather apron | none | smith's tools, Redroot spices | forge, cookpot |
 
-**Orc NPCs.** Civilians in hide and coarse linen. **Guards**: Thickhide, spear, round board. **Scouts**: light hides, javelins, a boar-skin cloak. **Soldiers**: Ring Hauberk or Scale Coat, war axe, tower board for line holders. [PROPOSAL, OPEN] Boar riders on Ironback Boar mounts, since the codex gives no orc mount.
 
 
 ---
@@ -183,7 +178,6 @@ Courage 8, Energy 7. **Cold Endurance** gives full immunity to environmental col
 | **Caster** (partial magic, rune-leaning) | rune mallet or staff, Frost Book focus (Rimeiron-capped) | hide coat, fur collar | none | rune chalk | tent |
 | **Crafter** | hammer, knife | leather and fur | none | furrier's and smith's kit, Frostbloom pot | workshop |
 
-**Frostborn NPCs.** Civilians in fur-trimmed coats. **Guards**: Thickhide, long spear, round board. **Scouts**: snow cloaks, short bows, sleds. **Soldiers**: fur-lined Mail Hauberk, hammer and board. Draft work uses the **Drevhorn** and sleds [CANON `codex/creatures/overview.md`, flagged optional].
 
 ---
 
@@ -205,7 +199,6 @@ Strong across the board (7, 7, 7, 6, 6, 7) with **Draconic Presence**, resists *
 | **Caster** (open to any Book, Embers synergy) | staff or rod with a Book-matched focus | robe with tail slit, light cap | none | rune chalk, scroll case | tent |
 | **Crafter** | hammer | apron | none | tools by trade | none |
 
-**Drakekin NPCs.** None have a home zone, so they appear as individual adventurers, mercenaries and Wyvern Pact riders rather than as guards. [PROPOSAL] A lone drakekin in a Lunarest crowd wears road-worn Scale Coat and a cloak, often with a wyvern badge.
 
 ---
 

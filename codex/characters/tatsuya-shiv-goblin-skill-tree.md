@@ -148,3 +148,110 @@ Pools by level [PROPOSAL, defers to the secondary stats agent]: HP = 50 + 3 x (l
 | W | Witnessed: seen on or near him, now listed on his tree (the Flamonta mechanism, section 10.3) |
 
 ---
+
+## 3. Level gates at a glance [PROPOSAL]
+
+| Level | What opens |
+|---|---|
+| 8 to 9 | Tier 2 Veil, Tier 2 to 3 runes (with setup). Ward Glyph, Slowing Thread |
+| 10 | First Crossing (respec), Gambit upgrade, Tier 2 nodes in every branch |
+| 12 to 19 | Tier 3: Weak Hand, Insignia of Warding, Toxic Breath, Marked Kin, Ward of Bones |
+| 20 to 29 | Tier 4: Gravebrand, Kindled Glyph (first rune that damages), Bone Mine Glyph |
+| 30 to 44 | Tier 5: Unlucky Cast, Heavy Air, Barrage rank II, Kinweight |
+| 45 to 59 | Tier 6: Stilling Hand, Greater Gravebrand, Barrage rank III, Banner of Bones |
+| 60, 70, 80 | Tier 7: Flamonta I, II, III. Barrage rank IV at 60 |
+
+Format below: name, tier, SKP, cost band, cooldown band, level gate, source code (section 2.6).
+
+## 4. Branch A: The Weighing Line (Veil, MP)
+
+| Ability | Tier | SKP | Cost | CD | Lv | Src | Effect |
+|---|---|---|---|---|---|---|---|
+| Slowing Thread | 2 | 1 | s | A | 9 | L | Slow 25 percent, 6 s |
+| Dread Mark | 2 | 1 | s | A | 10 | L | Marked target takes 10 percent more from allies, 10 s |
+| Weak Hand | 3 | 2 | s | A | 12 | L | Target attack power down 20 percent, 10 s |
+| Ward of Bones | 3 | 2 | m | B | 14 | L | Enchant an ally: absorbs damage equal to his Wisdom x 2, 20 s |
+| Gravebrand | 4 | 3 | m | B | 20 | L | Enchants an ally's weapon for 60 s: hits add slow and a small Veil rider |
+| Sapping Hex | 4 | 3 | m | B | 24 | L | Drains SP from the target, feeds it to an ally |
+| Unlucky Cast | 5 | 4 | m | C | 30 | L | Target makes its next rolls (crit, resist, hit) at disadvantage, 8 s. The rehearsal for Flamonta |
+| Heavy Air | 5 | 4 | l | C | 36 | L | Zone slow, 30 percent, 12 s |
+| Greater Gravebrand | 6 | 5 | l | C | 45 | L | Gravebrand on a whole squad, 45 s |
+| Stilling Hand | 6 | 5 | l | C | 50 | L | Root 3 s, then a 10 s immunity window (house rule 2) |
+| Flamonta I to III | 7 | 7 each | l, l, x | D, D, E | 60, 70, 80 | S, W | Section 10 |
+
+## 5. Branch B: Runes (Rune Priming, R mastery)
+
+Rule: runes begin as enchantments and debuffs. The first destructive rune is level 20.
+
+| Ability | Tier | SKP | Cost | CD | Lv | Src | Effect |
+|---|---|---|---|---|---|---|---|
+| Rune Priming | 1 | 0 | per roll | 6 s | have | N | Place a glyph on a successful roll, mana every attempt [PAGE] |
+| Ward Glyph | 2 | 1 | s | A | 9 | L | Ground glyph: allies on it take 15 percent less damage |
+| Tether Rune | 2 | 1 | s | A | 10 | L | Glyph that slows anything crossing it 30 percent |
+| Insignia of Warding | 3 | 2 | m | B | 13 | L | Worn on an ally: resists one slow or silence |
+| Kindled Glyph | 4 | 3 | m | B | 20 | L | First damaging rune, a small fire pulse on trigger |
+| Bone Mine Glyph | 4 | 3 | m | B | 28 | L | Armed glyph, detonates on step. The trap bomber's tool |
+| Chain Primer | 5 | 4 | m | B | 32 | L | Primes two glyph points on one roll, only a fail costs both |
+| Ancient Bone Flame Barrage, ranks I to IV | 5, 5, 6, 7 | 0 (I), 4, 5, 7 | x | D | I dormant at 8, II at 30, III at 45, IV at 60 | N, L | Three primed points. 25 MP at rank I. Once per fight, a finisher, not his identity |
+
+## 6. Branch C: Goblin Kit (SP)
+
+Goblin Gas (10 SP, 30 s) and Shiv-Touched Flare (5 SP, 30 s) are held [PAGE]. Toxic Breath (Tier 2, 1 SKP, cost s, band B, level 12, source R, Ru's gift is the same art) stacks poison to 4. Snare Pouch (Tier 3, 2, m, B, level 14, C) and Smoke Pouch (Tier 3, 2, m, B, level 16, C) are Gadget Belt arts, locked until he gathers materials. Vile Curse (Tier 3, 2, s, A, level 18, R) is a weak hex. Caustic Flare (Tier 4, 3, m, B, level 24, L) is Gas plus Flare in one cast, burning poisoned targets.
+
+## 7. Branch D: The Kin Line
+
+Whispers of Shiv and Call of Command are held. Marked Kin (Tier 3, 2 SKP, s, A, level 15, N) gives Ru and named allies a mark he can read at range. Kinweight (passive, Tier 5, 4, level 30, N): allies near him resist 10 percent more slow and fear. Banner of Bones (Tier 5, 4, l, C, level 40, Q): a banner aura of Ward Glyph strength. No summoning, no taunt (house rule 6).
+
+## 8. Branch E: Shield and Mace (Physical Arts, SP)
+
+Styles are in `codex/characters/tatsuya-weapon-and-playstyle.md`. Haft Check, Hook Pull and Split Strike (Way of the Axe, Tier 1, 0 SKP, [CANON]) come free once he holds a mace. Guard Stance and Shield Bash (Way of the Fist, Tier 1, 0 SKP) come with the shield. Braced Counter (Tier 3, 2, s, A, level 16, L): a counter after a block. Momentum Chain (Tier 3, 2, m, B, level 18, T) needs a teacher. Slip Step (Way of the Blade, Tier 2, 1, s, A, level 14, L): the one mobility art. Upheaval (Tier 4 to 5, 4, m, C, level 40, T): flips a heavy target, a once in a while tool for a small goblin.
+
+## 9. Branch F: Passives
+
+Gambler's Gambit is held, upgraded at every tenth level to 80 (Gambit file rules; a failed roll breaks the item, so he keeps a spare habit, not a spare item). Kinweight is in D. Bone Surge is held (necklace file). Footing (passive, Tier 2, 1, level 12, L): Speed gives a stagger resist. Hand Skill (passive, Tier 3, 2, level 20, L): Rune Priming needs one less second of setup.
+
+## 10. Flamonta, the capstone
+
+### 10.1 What it is
+Flamonta is the slow, disadvantage spell Shiv cast on him in Chapter Nine [PAGE]. On the page it was world tier: it dropped him. His version is the player-scaled echo, the last and heaviest of his bigger spells, because it is the purest form of what he is: weigh the enemy down and make its luck fail.
+
+### 10.2 The three Forms [PROPOSAL]
+
+| Form | Lv | Effect | Cost | CD |
+|---|---|---|---|---|
+| I, Weighing | 60 | One target. Slow 40 percent for 10 s and its rolls at disadvantage. Needs one primed rune under the target | l | D |
+| II, Hushed Ground | 70 | A zone, 6 m. Same, plus lesser enemies stagger and lose reaction. Bosses get half | l | D |
+| III, The Long Moment | 80 | The zone for 20 s. Slow up to 75 percent on enemies at or below his level plus 10. Bosses 40 percent. Allies inside gain advantage on their first roll | x | E |
+
+The slow cap is bounded by the level gap (house rule 3), so a world boss never freezes: that is Shiv's alone. In events the numbers halve (house rule 7).
+
+### 10.3 The seed mechanism (Witnessed)
+From Chapter Nine his tree shows a greyed node, **Flamonta [WITNESSED]**, listing its needs: Veil Tier 7, Veil Mastery 8, level 60, Unlucky Cast, Stilling Hand, one rune of the Weighing Line. Seeing it on the page early costs nothing and promises everything.
+
+### 10.4 Ancient Bone Flame Barrage sits beside it
+It stays a Branch B finisher, a spectacle he can afford once. Flamonta sets it up: slowed targets stand still inside the glyph ring, so a Barrage under Flamonta hits every target and gets advantage.
+
+### 10.5 Destructive runes
+Kindled Glyph (20), Bone Mine Glyph (28), Barrage ranks. Everything before level 20 is a ward, tether or enchant.
+
+## 11. The Crossing (respec and branch choice) [PROPOSAL]
+
+On every tenth level (10, 20, 30, 40, 50, 60, 70, 80) the necklace "turns a bone": a free, tree only respec. He may refund and rebuy any nodes of Tier 5 and below, and at the First Crossing (10) any node at all, plus one choice: **which Way the mace sits in** (Axe for weight, Fist for shield work) which locks the other's Tier 3 nodes for 10 levels. Stats are never refunded. Flamonta Forms are not refundable once bought. Each Crossing also grants 2 SKP and a Gambit upgrade. On the page it is a quiet bone-click and a menu he does not trust, until it saves him.
+
+## 12. What he really has, Chapters 11 to 20 (level 8 to about 15)
+
+| Level | New |
+|---|---|
+| 8 (Ch11) | Gas, Flare, Rune Priming, Bone Surge, Whispers, Call of Command. Fails two rune rolls and lands the third. Nothing new |
+| 9 | Slowing Thread, Ward Glyph |
+| 10 (First Crossing) | Dread Mark, Tether Rune, Gambit upgrade 1. He tests the respec by moving one node |
+| 11 | Shield and mace gear (see weapon file), Guard Stance, Shield Bash |
+| 12 | Toxic Breath, Weak Hand, Footing |
+| 13 to 14 | Insignia of Warding, Ward of Bones, Snare Pouch, Slip Step |
+| 15 | Marked Kin |
+
+Skill points: 5 held, plus about 9 from levels and the Crossing, about 14, spending about 11 and holding 3 for the next Crossing. Ancient Bone Flame Barrage stays dormant and is cast once at most, as a gamble. Kindled Glyph, Gravebrand and any destruction wait until 20.
+
+## 13. Conflicts
+
+Older lines saying he reads as a Barrage nuker, or that the Book of the Veil's tier 1 to 2 is Barrage, are superseded: the Barrage is a Branch B finisher. Lines naming a staff or gun are superseded by the shield and mace or short wand.

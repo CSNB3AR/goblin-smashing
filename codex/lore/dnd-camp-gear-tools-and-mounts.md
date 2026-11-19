@@ -2,7 +2,7 @@
 
 **Status:** Research and proposal file, not canon until the author accepts it. It edits no existing file. It translates D&D's tools, adventuring gear, equipment packs, mounts, vehicles and trade goods into HGO, and ties each to a profession, a station, a Gear Tier and the codex's existing camp and travel rules.
 
-**Tags.** **[SRC]** outside source, paraphrased, URL given. **[CANON]** already in this repo, file named. **[PAGE]** shown in a chapter. **[PROPOSAL]** my invention. Siblings: `codex/lore/dnd-gear-baseline.md`, `codex/materials/dnd-gear-material-map.md`, `codex/lore/dnd-racial-gear-sets.md`, `codex/lore/goblin-gear-and-camp-realism.md`, `codex/lore/dnd-class-dress-and-casting-foci.md`.
+**Tags.** SRC (outside source), CANON (in repo), PAGE (in a chapter), PROPOSAL (invented). Core chart: `codex/lore/dnd-gear-baseline.md` section 0.
 
 D&D sources for the tables below: [SRC] https://dnd5e.wikidot.com/adventuring-gear and https://www.dndbeyond.com/sources/dnd/basic-rules-2014/equipment . The price index is 1 gp roughly 15 shillings at the Common level [PROPOSAL, OPEN]. The hard canon anchors are 10 shillings = 1 HGO Coin = 4 yen [CANON `codex/materials/blacksmithing-and-farm-resources-book-one.md`].
 

@@ -2,7 +2,7 @@
 
 **Status:** Research and proposal file, not canon until the author accepts it. It edits no existing file. It answers the author's question about Chapter 10: how would a goblin hillside camp have "tent doors" to use as shields? Short answer: it would not. The longer answer, a full goblin kit by role, and twelve improvised shields and barricades that fit the page, follow.
 
-**Tags.** **[SRC]** outside source, paraphrased, URL given. **[CANON]** already in this repo, file named. **[PAGE]** shown in a chapter. **[PROPOSAL]** my invention. Sibling files: `codex/lore/dnd-gear-baseline.md` (rules and tables), `codex/materials/dnd-gear-material-map.md` (tiers GT1 to GT8, materials, professions), `codex/lore/dnd-racial-gear-sets.md`, `codex/lore/dnd-camp-gear-tools-and-mounts.md`, `codex/lore/dnd-class-dress-and-casting-foci.md`.
+**Tags.** SRC (outside source), CANON (in repo), PAGE (in a chapter), PROPOSAL (invented). Core chart: `codex/lore/dnd-gear-baseline.md` section 0.
 
 ---
 

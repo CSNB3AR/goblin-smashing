@@ -17,6 +17,119 @@
 
 ---
 
+## 0. Core chart (read this first; sections 1 to 11 are the long reference)
+
+Everything below is **[PROPOSAL]** unless tagged **[CANON]**. It is the working standard for any gear the story needs. The long sections give prices, weights and the full item lists.
+
+### 0.1 Weapon properties and what they mean in HGO
+
+| Property | Meaning | Effect in HGO |
+|---|---|---|
+| Light | small, one-handed | can fill both hand slots (dual wield) |
+| Finesse | skill over strength | Physical AP leans on Speed as well as Power |
+| Heavy | too large for Small frames | a four-foot goblin loses Edge and reach |
+| Two-handed | needs both hands | fills both hand slots [CANON] |
+| Versatile | one or two hands | one slot with a shield, or both slots for more Edge |
+| Reach | long weapon | hits first, about one pace further |
+| Thrown | can be hurled | uses Ranged AP; the item lies on the ground until picked up |
+| Ammunition | arrows, bolts, stones | a quiver stack; about half can be collected after a fight |
+
+### 0.2 Weapons per Way
+
+Each Way needs a weapon of its own kind to use its techniques [CANON]. Edge is damage: E1 weakest to E5 strongest. GT is the material tier (0.5). Rarity is the card colour (0.6).
+
+| Way | Weapon | Properties | Hands | Edge | GT | Rarity |
+|---|---|---|---|---|---|---|
+| **Fist** | hand wraps | light | both hands | E1 | 1 to 6 | Common to Rare |
+| Fist | fist-guards (gauntlet with a striking face) | light | gauntlet slot | E1 to E2 | 2 to 7 | Common to Legendary |
+| Fist | camp club, improvised weapon | light | 1 | E1 | 1 to 2 | Common |
+| Fist | great cudgel | two-handed | 2 | E3 | 1 to 3 | Common |
+| **Spear** | javelin | thrown | 1 | E2 | 1 to 5 | Common to Rare |
+| Spear | spear | versatile, thrown | 1 or 2 | E2 to E3 | 2 to 6 | Common to Rare |
+| Spear | long spear or pike | reach, two-handed | 2 | E3 | 3 to 7 | Uncommon to Legendary |
+| **Blade** | dagger, needle-blade | light, finesse | 1 | E1 to E2 | 1 to 6 | Common to Rare |
+| Blade | sabre, arming blade | versatile (arming blade), finesse (sabre) | 1 | E2 to E3 | 2 to 7 | Common to Legendary |
+| Blade | greatsword | heavy, two-handed | 2 | E4 | 4 to 7 | Rare to Legendary |
+| **Axe** | hand axe | light, thrown | 1 | E2 | 1 to 5 | Common to Rare |
+| Axe | war axe, hammer | versatile | 1 or 2 | E3 | 2 to 7 | Common to Legendary |
+| Axe | great axe | heavy, two-handed | 2 | E4 to E5 | 3 to 8 | Uncommon to Legendary |
+| **Bow** | sling | ammunition | 1 | E1 | 1 to 3 | Common |
+| Bow | shortbow | ammunition, two-handed | 2 | E2 | 2 to 6 | Common to Rare |
+| Bow | longbow, heavy crossbow | ammunition, heavy, two-handed | 2 | E3 to E4 | 3 to 7 | Uncommon to Legendary |
+
+Range in meters (normal and long): shortbow about 25 and 100, longbow about 45 and 180, sling about 9 and 37, thrown spear about 6 and 18. Heavy weapons are for Medium frames and up. Sevish carries a two-handed axe while camp goblins carry clubs because of this rule [CANON usage, PAGE].
+
+### 0.3 Shields
+
+A shield fills one hand slot and adds Block. Power floor is the minimum Power to carry it without a speed penalty.
+
+| Shield | Block | Power floor | GT | Use |
+|---|---|---|---|---|
+| Camp board (plank, lid, wicker; breaks) | 1 | none | 1 | goblin line on the page; see the camp sheet for the improvised list |
+| Buckler | 1 | none | 1 to 6 | belt-hung, leaves the hand free for a grip |
+| Round board (the standard shield) | 2 | 8 | 3 to 8 | garrison default; Rare versions carry a shield art |
+| Kite board | 2 | 8 | 4 to 7 | mounted troops |
+| Tower board or pavise | 4 or cover | 10 | 3 to 7 | holds a line, shelters an archer |
+
+Adjacent shields in a formation share a share of their Block: a shield wall [PROPOSAL].
+
+### 0.4 Armor by kit and by slot
+
+Kits: **Light** (no Power floor, full Evasion, 1 minute to don), **Medium** (Power floor 8, Evasion capped, 5 minutes), **Heavy** (Power floor 10 to 12, Evasion least, 10 minutes, noisy). Guard is the damage soaked by a full set.
+
+| Kit | Typical pieces | Guard | Power floor | GT | Wearers |
+|---|---|---|---|---|---|
+| Light | Quilted Wrap, Tanned Jerkin, Riveted Leather | 1 to 2 | none | 1 to 6 | scouts, rogues, goblins |
+| Medium | Thickhide, Mail Shirt, Scale Coat, Cuirass | 2 to 4 | 8 | 2 to 7 | guards, soldiers, skirmishers |
+| Heavy | Ring or Mail Hauberk, Splint Harness, Plate | 5 to 8 | 10 to 12 | 4 to 8 | frontline, officers, dwarves |
+
+How each of the eleven slots changes by kit (the Guard of a full set is spread over the five armor slots):
+
+| Slot | Light | Medium | Heavy |
+|---|---|---|---|
+| Helmet | cap, hood | kettle cap, open helm | great helm (needs horn and ear ports where worn) |
+| Chest | jerkin, wrap | mail shirt, scale coat | hauberk, splint, plate (the largest share of Guard) |
+| Gauntlets | leather gloves, wraps | studded or mail gloves | steel gauntlets |
+| Legs | trousers, hide wraps | mail chausses, scale skirt | plate greaves, cuisses |
+| Boots | soft boots | hobnailed boots | sabatons |
+| Necklace, 2 accessories, belt | worn over any kit; these carry stat lines and insignia seats, not Guard | | |
+| Two hand slots | weapon, shield, or both hands on one weapon | | |
+
+A set made for the wrong frame does not close; refit costs 10 to 40 percent of the price (see the racial gear file). Spiked or armored bone guards are a gauntlet piece, not a chest piece.
+
+### 0.5 Material tier ladder (Gear Tier, with the profession)
+
+Full material lists are in `codex/materials/dnd-gear-material-map.md`. The profession is the crafter who makes the piece. A crafter at tier N makes GT N reliably, GT N plus 1 is a gamble [CANON rule, GT names PROPOSAL].
+
+| GT | Name | Wearer level | Typical metal | Typical hide and other | Profession | Rarity |
+|---|---|---|---|---|---|---|
+| 1 | Scrap | 1 to 10 | iron scrap, sharpened bone | raw hide, scrap wood, sinew | any, no recipe | Common |
+| 2 | Camp | 8 to 25 | Clanmark, Ironvein ingots | tanned leather, carved bone, canvas | Leatherworking, Smithing T2 | Common |
+| 3 | Shop | 20 to 45 | Greywall Iron, Old Kingdom Rivets | Boarhide, Thornwood bark, Skitterling Silk | Smithing, Leatherworking T3 | Common to Uncommon |
+| 4 | Garrison | 40 to 70 | Garrison Steel | Boarhide (Refined), Bonewood | Smithing T4 | Uncommon to Rare |
+| 5 | Guild | 65 to 100 | Hallmarked Steel, Rimeiron, Sunforged Iron | Myrrhwood Hide, Hollow Heartwood | Smithing, Bonecrafting T5 | Rare |
+| 6 | Captain | 95 to 125 | Mono Steel | Barrow Bear Hide, Thornback Scale, Warlord Chitin | Smithing, Bonecrafting T6 | Rare to Legendary |
+| 7 | Marshal | 120 to 150 | Fallstone Iron | Pristine hide with a Legendary catalyst | T7 craft plus Enchanting seats | Legendary |
+| 8 | Crown | 150 and up | Fallstone with Mono Steel fittings | named crafters only | Tier 8 named crafters | Legendary |
+
+Other professions on gear: Enchanting makes insignia seats and charged thread, Alchemy and Poisoncraft the gadgets and coatings, Runecrafting and Spirit-Binding the gated rune work, Cooking the camp rations. A character holds at most two professions [CANON], so a camp has a named smith and a named leatherworker and everyone else makes Tier 1 gear.
+
+### 0.6 Rarity applied to gear
+
+The ladder is [CANON]; the numbers are fitted to the page (`[+1 ENERGY]` Common chest, `+3 FORTUNE` earring, `[+5 WISDOM]` World necklace).
+
+| Rarity | Colour | Typical GT | Stat line | Insignia seats | What it can carry | Page example |
+|---|---|---|---|---|---|---|
+| Common | white | 1 to 3 | none or +1 | 0 to 1 | nothing special | Common Goblin Leather Chest |
+| Uncommon | green | 2 to 5 | +2 | 1 | a passive or minor trait | Minor Elixir |
+| Rare | blue | 4 to 7 | +3 | 2 | one named art (shield arts unlock here) | Ironhide Chestplate, raider legacy pieces |
+| Legendary | gold | 5 to 8 | +4 to +5 | 3 | signature passive, set bonus | Shivbone Staff, Shiv's Warset |
+| World | purple | 8 | +5 and up | World Quest only | abilities that rewrite a build | Call of the Bones Necklace |
+
+Beside the ladder sit four tags: Unique, Legacy, Relic and Bound [CANON]. Legacy gear can have rarity above the wearer's level, so a low-level raider in a Rare breastplate is fine. World gear is never crafted or sold.
+
+---
+
 ## 1. Translation rules: D&D concept to HGO concept
 
 The system already has the right hooks. `codex/lore/secondary-combat-stats.md` gives Physical Damage Reduction (Power plus gear armor), Physical Evasion (Speed), Block Rate (Power, only with a shield), Magic Resistance, elemental and toxin resistance, and gear affixes. So I do not invent a new combat layer. I only map D&D's armor and weapon vocabulary onto what is already there.

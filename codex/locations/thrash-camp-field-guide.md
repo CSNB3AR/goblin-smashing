@@ -187,4 +187,58 @@ Do not turn any of these into a plan in this file. They are what an observant pe
 
 ---
 
-<!-- NEXT PART -->
+## 5. Details that fit, and details that break the setting
+
+### Fifteen that fit
+
+1. Tent flaps tied back with sinew cord, or weighted with a stone at the hem. Hide has no hinge. [PROPOSAL]
+2. Hide patches of different pale shades on one tent, stitched with dark sinew in uneven knots. [IMAGE]
+3. A shield that is plainly a tent door, a barrel lid or a cart panel, still showing the barrel's brand. [CANON Chapter 10]
+4. Crate lids and barrel staves as spare shield stock, stacked by the stakes. [PROPOSAL]
+5. Stakes with fire-blackened points and stripped bark, pale where fresh, grey where old. [PROPOSAL]
+6. A pot lid banged on a post as the cook's alarm. [PROPOSAL]
+7. Wet hides on lashed frames, and the reek that goes with them. [CANON smell]
+8. Knucklebones scratched on a flat stone, and a free hand sliding under an arm-wrestle table. [CANON Chapter 4; PROPOSAL bones]
+9. Bone totems whose carving is blocky and thick, matching Wyx's arms. Bone only, never a person. [CANON]
+10. Plank steps cut into the slope, slick when it rains. [IMAGE]
+11. Iron cressets and pitch torches hissing in the damp air off the fall. [CANON]
+12. Straw bedding crackling in the holding tent, and the lamp's smell of cheap oil. [CANON]
+13. Salt pork, hardtack and fish stew from ship stores and stream traps, with a few foraged roots. [PROPOSAL]
+14. Banners limp on their poles because the valley air barely moves. [IMAGE]
+15. A smith's hammer muffled by the fall, so the forge is heard before it is seen. [PROPOSAL]
+
+### Eight that break it
+
+1. **Doors, hinges, latches or locks on tents.** Hide tents have flaps. Wyx's chest is the only lock in camp and it is a crate hasp. [CANON tent flaps]
+2. **Glass, windows, chimneys or stoves.** Smoke leaves through the ridge gap. Light is lamp, torch or fire. [PROPOSAL]
+3. **A stone wall, gate, tower or ditch.** The camp has stakes and a hurried barricade only. [CANON ledger on Chapter 10]
+4. **Healing potions, priests or cast healing in camp.** Goblins cannot cast, and the bone-setter works with splints and herbs. [CANON `codex/races/goblin.md`]
+5. **A wolf or worg kennel, or mounted goblins.** Ash Wolves are wild Class I creatures, not clan animals. [CANON `codex/creatures/class-1.md`]
+6. **Plate armour, matched shields, matched uniforms.** Gear is rank-locked and scavenged. Only the two co-leaders and the Blades look equipped. [CANON]
+7. **Clean water from the pool, or a latrine upstream.** The pool is stagnant mud. Drinking water is drawn from the stream above it. [CANON Chapter 4]
+8. **A large veteran garrison, or any named goblin over level 2 beyond the co-leaders.** The monthly turnover keeps everyone green. [CANON `codex/locations/bloodhurst.md`]
+
+---
+
+## 6. Who lives where
+
+| Place | Who | Notes |
+|---|---|---|
+| Big tent, back half | Sevish, Wyx | Co-leaders share the war tent; the cot, chest and bedrolls sit behind the war table. [CANON; PROPOSAL cot] |
+| Four tents around it | Blades (one tent), Stakehands (two), scouts (one) | Five to a tent, sleeping with feet to the fire side. [PROPOSAL] |
+| Pale small tent | The cook and the smith's helper | Closest to the pot and the stream. [PROPOSAL] |
+| Lean-to by the stream | Smith, bone-setter | Work and sleep in one place; near water for quenching. [PROPOSAL] |
+| Holding tent, east edge | Prisoner, guard pair | Posted by Sevish. [CANON] |
+| Rock shelf and watch hut | Zinka and the east line | Two on at a time, in rotation. [CANON; PROPOSAL rotation] |
+| Under a cart or at a tent's edge | Ru and other Landed | Landed sleep where they are told; rank shows in sleeping place. [PROPOSAL] |
+
+---
+
+## 7. Open conflicts and decisions
+
+1. **Two smoke trails.** The image shows cookfire smoke plus a darker trail behind the big tent. Treat the dark one as the forge or leave it unexplained. [OPEN]
+2. **Hide outside, canvas inside the big tent.** Chapter 6 describes a cream canvas lining. Reconcile as a hide A-frame with a canvas liner the Goblin March looted from a ship. [PROPOSAL]
+3. **The holding tent's place.** The image puts a small tent at the right edge; the chapters put it at the east edge. These agree. Keep it there. [CANON]
+4. **Animals.** Whether the camp keeps a pony or goat is the author's call. [OPEN]
+5. **The name Bloodhurst.** Stays a codex name until the page gives it to Tatsuya. [CANON]
+

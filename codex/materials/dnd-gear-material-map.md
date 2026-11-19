@@ -2,11 +2,7 @@
 
 **Status:** Research and proposal file, not canon until the author accepts it. It sits on top of `codex/materials/overview.md`, `organic.md`, `inorganic-and-salvage.md`, `magical-and-spirit-tied.md`, `monocrystals-and-mono-steel.md` and `blacksmithing-and-farm-resources-book-one.md` and does not edit any of them. Sibling files: `codex/lore/dnd-gear-baseline.md` (the hub), `codex/lore/dnd-camp-gear-tools-and-mounts.md`, `codex/lore/dnd-class-dress-and-casting-foci.md`, `codex/lore/dnd-racial-gear-sets.md`, `codex/lore/goblin-gear-and-camp-realism.md`.
 
-**Tags used in this file.**
-- **[SRC]** taken from an outside source and paraphrased, with the URL on or above the line.
-- **[CANON]** already in this repo, file named. Items taken from the Book One materials file are in the repo, but that file calls itself a proposal, so treat them as soft canon.
-- **[PAGE]** shown in a chapter on the page.
-- **[PROPOSAL]** my invention or adaptation. Nothing marked this way is canon.
+**Tags.** SRC (outside source), CANON (in repo), PAGE (in a chapter), PROPOSAL (invented). Core chart with the tier ladder in one table: `codex/lore/dnd-gear-baseline.md` section 0.
 
 **Purpose.** Any item the writer needs (a camp club, a shield, a sabre, a staff, a tent) can be traced to a material, a processing step, a profession and a station, at a stated tier. Wherever the codex already names a material, I use it. Where it has a gap I say so and propose a plain generic term, never a new brand name pretending to be canon.
 
