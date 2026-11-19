@@ -22,6 +22,10 @@ One file per playable race, split out of the shared table that used to live in `
 
 See `codex/magic/overview.md` for the tier-1 Wisdom-18 threshold itself and how casting access works generally.
 
+## Evolution (author-stated)
+
+Only **Goblin** (Goblin, Hobgoblin, Goblin Chieftain) and **Beastfolk** (Beastfolk, Beastman, Beast Lord) can evolve. Human, Elf, Dwarf, Orc, Drakekin and Frostborn have no evolution. The Shiv Goblin is a separate rare, unique goblin branch gated by an Ordeal. Full detail: `codex/races/race-evolution-baseline.md`.
+
 ## Advanced/evolved races, not selectable at creation
 
 **Shiv Goblin** (Tatsuya's evolution, see `codex/races/goblin.md` and `codex/objects/call-of-the-bones-necklace.md`) — the only one documented so far, forward material for other advanced evolutions as the story needs them.

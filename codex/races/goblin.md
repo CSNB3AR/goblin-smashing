@@ -34,9 +34,13 @@ Restricted, not hard-locked. Goblins default to Physical Arts (see `codex/combat
 
 Not a generic racial trait, a rare-variant roll result specific to Tatsuya (see `codex/lore/playable-races-and-character-creation.md`), a Fortune bonus and a once-per-day chance after combat to roll for Rare-or-higher loot. Manifests physically as the Gambler's Earring (see `codex/objects/gamblers-earring.md`). Governs loot only, unrelated to the World Quest activation itself (see `codex/lore/world-quests.md`) and unrelated to the necklace's own combat ability, Bone Surge, beyond a shared Fortune/gambling theme.
 
-## Shiv Goblin (advanced evolution, not a creation-time option)
+## Evolution line (author-stated)
 
-See `codex/lore/playable-races-and-character-creation.md` and `codex/objects/call-of-the-bones-necklace.md`. Reached only by bonding with the Call of the Bones Necklace during the "Call of the Bones" World Quest, evolves the race entry itself, Goblin to Shiv Goblin, not a cosmetic-only change.
+Goblin to **Hobgoblin** to **Goblin Chieftain**. Hobgoblin is canon (Ru, Zinka, Wyx and Sevish). Goblin Chieftain is the leader step above it, held for later; details in `codex/races/race-evolution-baseline.md`. Goblin and Beastfolk are the only two races that can evolve at all.
+
+## Shiv Goblin (a unique branch, not a creation-time option and not a normal evolution)
+
+See `codex/lore/playable-races-and-character-creation.md` and `codex/objects/call-of-the-bones-necklace.md`. Reached only by bonding with the Call of the Bones Necklace during the "Call of the Bones" World Quest, evolves the race entry itself, Goblin to Shiv Goblin, not a cosmetic-only change. **Author-stated:** it is a rare, unique race among goblins. Not everyone can go down it. Entry is through an Ordeal: Shiv must accept the candidate personally, and Tatsuya, as Shiv's only disciple right now, has to agree to a candidate before they can enter the Ordeal.
 
 ## Cross-references
 

@@ -1180,3 +1180,9 @@ There are **two entirely separate accidents**. Never conflate them.
 
 ## D&D baseline finished (author-requested: baseline core, not a manual)
 - All eight agent areas now have a working baseline in the codex, indexed at `codex/dnd-baseline-index.md`. Author's correction applied: goblinoids are the goblin race's EVOLUTIONS (Goblin, Hobgoblin, Shiv Goblin) mapped onto the actual eight playable races, not separate D&D peoples. Everything is PROPOSAL until the author accepts it. The Gambit page guide's line numbers still need checking against the chapters before any chapter is edited.
+
+## Race evolution, corrected (author-stated, latest; supersedes the agent proposals)
+- ONLY Goblin and Beastfolk can evolve. Goblin line: Goblin, Hobgoblin, Goblin Chieftain. Beastfolk line: Beastfolk, Beastman (Beastmen), Beast Lord. Human, Elf, Dwarf, Orc, Drakekin and Frostborn do not evolve. The agents' non-goblin evolutions and the Bugbear form are removed.
+- The Shiv Goblin is a rare, unique race amongst goblins, not a normal evolution step and not a playable choice. Not everyone can go down it. Entry is through an Ordeal: Shiv accepts the candidate personally, and Tatsuya, as the only disciple right now, must agree to a candidate before they can enter the Ordeal.
+- Files updated to match: `codex/races/race-evolution-baseline.md`, `codex/races/goblin.md`, `codex/races/beastfolk.md`, `codex/races/overview.md`, `codex/races/dnd-goblinoid-peoples.md`, `codex/creatures/dnd-goblinoids.md`, `codex/dnd-baseline-index.md`. Open (low priority): whether Sevish already counts as a Goblin Chieftain by tag (the page says Hobgoblin); stat deltas for the Chieftain and Beast Lord are proposals.
+- Working rule (author-stated): chapters do not need rewriting; nothing in Chapters 1 to 10 conflicts. Put decisions into the codex and ledger now so they can be added to chapters gradually and we do not have to ask the same questions later.

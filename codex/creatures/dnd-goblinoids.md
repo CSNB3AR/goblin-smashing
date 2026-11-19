@@ -1,6 +1,6 @@
 # Goblin-Kin Creatures: What Is Not the Race
 
-The goblin race and its evolutions (Goblin, Hobgoblin, Shiv Goblin, and the proposed Bugbear form) are covered in `codex/races/dnd-goblinoid-peoples.md` and `codex/races/race-evolution-baseline.md`. Goblins and hobgoblins are **playable and NPC people**, not monsters. This file keeps only what a goblin fights, rides, hunts with or is mistaken for, and what the D&D picture can lend as combat feel for goblin NPCs.
+The goblin race and its evolutions (Goblin, Hobgoblin, Goblin Chieftain, and the unique Shiv Goblin branch) are covered in `codex/races/dnd-goblinoid-peoples.md` and `codex/races/race-evolution-baseline.md`. Goblins and hobgoblins are **playable and NPC people**, not monsters. This file keeps only what a goblin fights, rides, hunts with or is mistaken for, and what the D&D picture can lend as combat feel for goblin NPCs.
 
 Tags: **[CANON]** from the codex or chapters, **[PROPOSAL]** invented here.
 
@@ -22,7 +22,7 @@ Class bands: Class I about LV 1 to 8, Class II about LV 6 to 22, Class III about
 | Hobgoblin, veteran | 12 to 24 | Drosh, level not stated |
 | Hobgoblin captain | about 25 | Wyx LV 25 |
 | Hobgoblin warlord | about 80 | Sevish LV 80 |
-| Bugbear form | 10 to 22 | none, PROPOSAL |
+| Goblin Chieftain | 25 and up | none yet on the page |
 | Shiv Goblin | player evolution | Tatsuya LV 8 |
 
 Wyx and Sevish are gold tag NPCs with fixed levels, so they are anchors, not spawns. [CANON `codex/lore/companion-troop-system.md`]
@@ -30,7 +30,7 @@ Wyx and Sevish are gold tag NPCs with fixed levels, so they are anchors, not spa
 D&D feel to borrow for goblin fighters [PROPOSAL]:
 - **Goblin:** skirmish and run. Hit, slip away, use the shield that does not match.
 - **Hobgoblin:** formation fighting. A hobgoblin beside another gets the better of a lone adventurer.
-- **Bugbear form:** ambush first. The first strike is heavy and quiet, then the form loses patience.
+- **Goblin Chieftain:** commands first. A chieftain lets the clan fight and steps in only for the decisive blow.
 
 ## 3. Wild creatures near goblin camps (not playable) [PROPOSAL]
 
@@ -47,7 +47,7 @@ Keep each creature at a low band. Spawn zones have no high level monsters, which
 ## 4. Things that might be mistaken for goblin kin [PROPOSAL]
 
 - **Imps and gas sprites:** magical, small, fire or gas flavored. Not Demihuman and not goblins. A Goblin Gas ability is a goblin skill, not a sprite.
-- **Ogres and trolls:** big, dumb brutes. A bugbear form is a goblin who got big, not an ogre. Keep them apart so evolution stays meaningful.
+- **Ogres and trolls:** big, dumb brutes. A Goblin Chieftain is a goblin who rose to lead, not an ogre. Keep them apart so evolution stays meaningful.
 - **Players on a feral clan's side:** still players, still the Goblin race.
 
 ## 5. Rules for using these in scenes
@@ -59,6 +59,5 @@ Keep each creature at a low band. Spawn zones have no high level monsters, which
 
 ## 6. Open questions
 
-- Is the Bugbear form kept, renamed, or cut?
 - Does a worg count as a Beast or a Magical Beast under the NPC tag system?
 - Do feral clans ever field evolved goblins above Class II?

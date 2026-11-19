@@ -4,7 +4,7 @@ Everything below is a PROPOSAL until the author accepts it, except items it mark
 
 | Area | File | Notes |
 |---|---|---|
-| Races and evolutions | `codex/races/race-evolution-baseline.md` | One row per playable race with its evolution path. Goblin to Hobgoblin to Shiv Goblin is canon, the rest are proposals. |
+| Races and evolutions | `codex/races/race-evolution-baseline.md` | Only Goblin (Goblin, Hobgoblin, Goblin Chieftain, plus the unique Shiv Goblin branch) and Beastfolk (Beastfolk, Beastman, Beast Lord) evolve; the other six races do not. |
 | Goblin race detail | `codex/races/dnd-goblinoid-peoples.md`, `codex/creatures/dnd-goblinoids.md` | Goblin, hobgoblin, Shiv Goblin as one race's evolutions; non-playable goblin-kin kept separate. |
 | Monsters in general | `codex/creatures/dnd-bestiary-baseline.md` | 15 starter monsters across Class I to IV. Add as needed. |
 | Thrash camp and goblin war | `codex/locations/thrash-camp-field-guide.md`, `codex/combat/goblin-warfare-and-tactics.md` | The camp, what fits and what breaks it, and eight tactical patterns (The Ladder is Wyx and Sevish). |
@@ -15,4 +15,4 @@ Everything below is a PROPOSAL until the author accepts it, except items it mark
 | Gambler's Gambit | `codex/lore/gamblers-gambit-baseline.md`, `codex/lore/gamblers-gambit-page-guide.md` | d6 table, what breaks, upgrade ladder every 10 levels, page wording and a list of chapter lines to change (to be checked before use). |
 | Tatsuya's build | `codex/characters/tatsuya-shiv-goblin-skill-tree.md`, `codex/objects/call-of-the-bones-necklace-passive.md`, `codex/characters/tatsuya-weapon-and-playstyle.md` | Tree with Flamonta as capstone, the Crossing respec, necklace passive, shield and mace. |
 
-Open items to settle: the Bugbear evolution and every non-goblin evolution are proposals; who gasses the tent, the camp head count and Dorrin's parentage are kept as open questions in the trees file; the Gambit change list line numbers need checking against the chapter text; the older long versions replaced by agents are kept in the scratchpad backups, not the repo.
+Open items to settle: only Goblin and Beastfolk evolve (author-stated), Goblin Chieftain and Beast Lord details are proposals; who gasses the tent, the camp head count and Dorrin's parentage are kept as open questions in the trees file; the Gambit change list line numbers need checking against the chapter text; the older long versions replaced by agents are kept in the scratchpad backups, not the repo.

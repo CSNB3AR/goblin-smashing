@@ -1,6 +1,6 @@
-# Goblins, Hobgoblins and Bugbear Forms: How the Goblin Race Lives
+# Goblins, Hobgoblins and Chieftains: How the Goblin Race Lives
 
-This replaces the earlier "separate peoples" draft. In HGO there are no three goblinoid nations. There is one playable race, **Goblin**, and its **evolutions**. D&D's goblin, hobgoblin and bugbear are only the model for what each stage feels like. For the table of every race's evolutions see `codex/races/race-evolution-baseline.md`.
+This replaces the earlier "separate peoples" draft. In HGO there are no three goblinoid nations. There is one playable race, **Goblin**, and its **evolutions**. D&D's goblin, hobgoblin and hobgoblin warlord are only the model for what each stage feels like. For the table of every race's evolutions see `codex/races/race-evolution-baseline.md`.
 
 Tags: **[CANON]** from the codex or chapters, **[PROPOSAL]** invented here and not for the page until the author accepts it.
 
@@ -20,12 +20,10 @@ Tags: **[CANON]** from the codex or chapters, **[PROPOSAL]** invented here and n
 | **Runt Goblin** | Spawns off the Thrash ship at level 1 | Stuttering, short, a bowl and rags. Ru before Shiv. | CANON |
 | **Goblin** | Levels and survives | Rank and file: club, mismatched shield, three to seven word speech. | CANON |
 | **Hobgoblin** | Level threshold without dying, or a direct blessing | Human height, markings, formal speech, no contractions. A leader by default. | CANON |
-| **Shiv Goblin** | Necklace bond, a world quest | Taller, pale lock, red eyes. Old goblins know the mark on sight. | CANON |
-| **Bugbear form** | A Hobgoblin who takes the brute road | Big frame, long arms, few words. Common in feral clans. | PROPOSAL |
+| **Shiv Goblin** | A rare, unique branch, not a normal step: Shiv's Ordeal and the necklace bond. Shiv must accept the candidate, and Tatsuya, the only disciple, must agree before anyone enters the Ordeal. | Taller, white hair, lighter skin. Old goblins know the mark on sight. | CANON (author-stated) |
+| **Goblin Chieftain** | The step above Hobgoblin: a goblin who holds a clan | A clan aura, a command art, read on sight as a clan leader. | Name CANON (author-stated), details PROPOSAL |
 
-The D&D picture gives the feel: goblins are scrappy and numerous, hobgoblins are drilled soldiers and officers, bugbears are big ambush hunters. In Eryndal all of these are the same people at different points in a life. A goblin does not become another people, only a stronger version of itself.
-
-**Why feral clans make more bugbear forms.** [PROPOSAL] A feral clan throws recruits into constant skirmish, so more of them survive long enough to evolve. They evolve rough because nobody drills them. Thrash hobgoblins are formal because Sevish and Wyx run a camp with law.
+The D&D picture gives the feel: goblins are scrappy and numerous, hobgoblins are drilled soldiers and officers, chieftains are the warlords who hold them together. In Eryndal all of these are the same people at different points in a life. A goblin does not become another people, only a stronger version of itself.
 
 ## 3. Ranks inside the clan (PROPOSAL, informal, never on the page unless accepted)
 
@@ -87,4 +85,4 @@ NPCs call players "adventurers." Goblins read them as short lived, loud and rich
 
 - Hobgoblin level threshold and stat deltas are not fixed in canon. See the baseline file for proposals.
 - Do rank labels ever reach the page, or do they stay as internal notes?
-- Whether bugbear forms exist at all is the author's call. They are the first thing to cut.
+- Whether Sevish already counts as a Goblin Chieftain by tag (the page tag says Hobgoblin).

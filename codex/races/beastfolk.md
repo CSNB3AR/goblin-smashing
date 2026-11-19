@@ -18,6 +18,10 @@ Bonus initiative and a passive read on the nearest real threat in a room. Matche
 
 A second Beastfolk racial. Below 40% HP, a damage multiplier stacks up to **x12** while the Beastfolk loses HP and defenses in exchange. It rewards a tank who can survive on the edge, which is why wards, heals and enchantments matter so much to a Beastfolk brawler such as Pac_Pac (see `codex/characters/pac-pac.md`). Beastfolk carry bad infamy in Lunarest (see `codex/lore/lunarest-royal-court.md`).
 
+## Evolution line (author-stated)
+
+Beastfolk to **Beastman** (Beastmen) to **Beast Lord**. The stage names are the author's; triggers and stat changes are proposals in `codex/races/race-evolution-baseline.md`. Goblin and Beastfolk are the only two races that can evolve.
+
 ## Resistances
 
 | Notable resistance | Notable weakness |
