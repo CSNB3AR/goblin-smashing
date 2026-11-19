@@ -78,7 +78,7 @@ Wyx's head turned sharply, her amber eyes narrowing with something close to inte
 
 "Then they are weak, and I strike now," Sevish said. He straightened off the table. "A tired caster is a slow caster. I take Wyx and the twelve best I have down that road in one rush. The axes reach the tent before their next volley is done. It is finished in a few breaths."
 
-"It would work, brother," Wyx said, and the quiet in her voice made Sevish look at her. "But the road is one body wide at the bend. The first volley lands on whoever leads. I count six of ours at the bend, perhaps more, and we have fourteen who can stand."
+"It would work, brother," Wyx said. "But the road is one body wide at the bend. The first volley lands on whoever leads. I count six of ours at the bend, perhaps more, and we have fourteen who can stand."
 
 "Six for four of theirs," Sevish said. "I have paid worse."
 
