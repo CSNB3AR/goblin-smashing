@@ -1,16 +1,18 @@
 # Chapter Ten: Assembling the Assault Team
 
-Five dead on the east patrol.
+Five dead on the east patrol, and the number wouldn't leave me alone.
 
-Now that Thrash counted me as one of theirs, the alert in the corner of my vision opened past the defenders into the whole clan.
+Sevish didn't slow. He took the last ten paces to the war tent in long strides with Wyx half a step behind him, Kesh stumbling after them, and I let myself fall a step back with my eyes on nothing. A goblin hauling a bundle of stakes had to swerve around me. "Sorry," I said, and he was already gone.
+
+A thought had run across me and it just wouldn't go away. Now that Thrash counted me as one of theirs, the alert in the corner of my vision opened past the defenders into the whole clan.
 
 **[THRASH CLAN AT CAMP: 14/23]**
 
 **[ATTACK DURATION: 01:07:52]**
 
-*"Twenty-three, after the two enforcers I killed myself. Fourteen now. Nine in an hour and seven minutes. A party that wandered in by accident doesn't do that. Somebody came for this camp on purpose."*
+*"Fourteen of twenty-three, and that twenty-three is after the two enforcers I killed myself. So the party took nine in an hour and seven minutes."* I read it again and it came out the same. *"That's not a normal group. Nobody wanders into a camp by accident and does that. Somebody came for this one on purpose."*
 
-Sevish didn't slow. He took the last ten paces in long strides with Wyx half a step behind him, and I followed with Ru at my shoulder and Kesh stumbling after us. The lanes between the tents stood empty, and what was left of the clan stood in a thin line along the stakes under the torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
+Ru stayed at my shoulder. The lanes between the tents stood empty, and what was left of the clan stood in a thin line along the stakes under the torches, with gaps in it. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
 Two things stuck as I walked. The stakes stopped a few paces short of the cliff on the east side, where the ground broke into loose rock and fell away into the dark. And every goblin on that line held a different shield, a barrel lid, a plank off the hay cart, a tent flap laced wet onto a pole frame, nothing made for the job, with a club in the other hand.
 
