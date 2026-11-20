@@ -102,12 +102,29 @@ Leon looked at the clock on his monitor and winced. "Ten minutes was a lie. It's
 
 I did the math with my stomach. Five minutes left on the return clock. Arya already had her jacket on and was backing toward the door, spinning one finger by her ear. "J-Link. The big cafe down the line, third-generation pods, I book weeks ahead. See you on the other side, Nykri."
 
-I shoved myself into the pod and the lid came down.
+I shoved myself into the pod and dropped back against the cushion. "Leon. Don't stream the first ten minutes," I said, one hand on the visor. "We'll be planning, and I don't need anyone watching us do it. We don't know if these four answer to a guild, and someone could be in their ear, same as you're in mine."
 
-The tent was cold when the world came back, the lamp low and the canvas shifting in the wind. A bundle sat on the bedroll: leather bracers, a plain iron knife, and two coils of hemp rope somebody had thought to add. I strapped it on in the time it took to read the panel.
+Leon stopped with a knuckle against the monitor, then pushed his glasses up. "You're right. Good thinking. It stays dark until you say."
+
+The lid came down.
+
+The tent was cold when the world came back, the lamp low and the canvas shifting in the wind. A bundle sat on the bedroll: leather bracers, a plain iron knife, and two coils of hemp rope somebody had thought to add. I strapped it on while the panel opened.
 
 **[TIME LIMIT: 01:05:00]**
 **[RETURN TO THE CENTER OF CAMP: 00:05:00]**
+
+Shiv's level jump had left four ability points sitting unspent under the clock, and I'd been too busy to touch them. I had maybe ninety seconds. *"Two things I can't go down that hill without."* The first was in the bow tree, the only branch I'd ever open, and only for one skill. I'd watched archers take it at the first tier and shrug, and I'd watched a mage stand inside a fog with it and see the whole fight.
+
+**[FARSIGHT: LONG-RANGE VISION]**
+**[POINTS SPENT: 2]**
+
+The canvas seemed to slide away from me. I could see the torches along the east line, the stakes under them, the shape of a goblin's ear at a hundred paces, and I blinked until it settled. The second pair of points went into the earring. I pulled the Gambit up on the panel, found the line that had been grayed out since the night I put it on, and spent the last two.
+
+**[GAMBLER'S GAMBIT: DAMAGE MODIFIER UNLOCKED]**
+**[ROLL OF 6: POWER SURGE]**
+**[ROLL OF 1: ITEM BREAKS. DEBUFF: SLOWED, WEAKENED]**
+
+I read the last line twice. *"A one doesn't just fail. It breaks whatever I rolled on and leaves me slow and weak in the middle of a fight."* I'd always known the earring was a gamble. This was the first time the price was a number I could see. I closed the panel and ran.
 
 --------
 
@@ -143,120 +160,52 @@ I drew the trail running down from the top, and fifteen paces below the crest I 
 
 "They will see a path," Wyx said, tilting her head. "And they will walk it."
 
-"That's the point. It looks like a way up, and it's the only one. If they climb around the stakes they're slow targets on the rock. If they jump them, they're in the air with nowhere to go, and five bows are on them." The Romans never let a fight go where the enemy wanted it. They picked the ground and made the other side come through it. "Whoever gets that far runs a lane, and the lane ends at the wall."
+"That's the point. It looks like a way up, and it's the only one. If they climb around the stakes, they're slow targets on the rock. If they jump them, they're in the air with nowhere to go." The Romans never let a fight go where the enemy wanted it, and neither did the Qin. They picked the ground and made the other side come through it. "Whoever gets that far runs a lane, and the lane ends at a wall of shields."
 
-"The wall," Sevish said.
+--------
 
-"Six on clubs and shields at the top, locked edge to edge. The Vikings did it, and so did the Romans. Five of your best on bows behind them." I looked along the half circle at the five I'd picked. None of them had ever used a bow in a real fight, and I'd bet only one could hit a barn. Every goblin on that hill had lived through the night so far, and it nagged at me in a way I couldn't name yet. "They'll get better tonight if they live."
+"Six on clubs and shields at the top, locked edge to edge, the way the Vikings stood." I looked at Sevish. "Behind them, five of your best on bows. The bows don't shoot when they feel like it. They shoot when you call it, chief, one volley every fifteen seconds, from the moment they come in range. The raiders never get a breath to plan. If they've got an enchanter, he burns his mana on wards, and if they've got a mage, she burns hers answering."
 
-"Kesh shoot," Kesh said, nodding hard, one hand already on his short bow. "Not before Wyx step out. Kesh understand."
+Sevish grunted. "Fifteen."
 
-I turned to Wyx. "If they reach the first stakes, you go down to meet them. That move your brother used on me earlier, the one that pinned me to the dirt. Can you use it the same way?"
+I looked along the line at the five I'd picked. None of them had ever used a bow in a real fight, and I'd bet only one could hit a barn. Every goblin on that hill had lived through the night so far, and it nagged at me in a way I couldn't name yet. "They'll get better tonight if they live."
+
+"Kesh shoot," Kesh said, nodding hard, one hand on his short bow. "When Sevish call. Kesh understand."
+
+"They'll reach the first stakes as a group, because they will." I turned to Wyx. "That's when you go down to meet them. That move your brother used on me earlier, the one that pinned me to the dirt. Can you use it the same way?"
 
 "Mine is not as strong as my brother's." She tipped her head, amused. "But I can do it. You want me to scream at your enemies?"
 
-"They won't be able to ignore you." I met her eyes. "If they're weak, you take the fight yourself."
+"They won't be able to ignore you. A big boss has finally shown up, and they'll want to test you." I met her eyes. "They'll fail, because they're being shot the whole time. If they're weak, take the fight yourself."
 
 Her smile widened. "I do enjoy a fight."
 
-"And if they push you back, you retreat to the second set, and the chief steps out and takes it while you recover." I looked at Sevish. "You use the same roar if you have to, so they turn on you."
+"It holds about thirty seconds." I looked at Sevish again. "You count it in your head, chief, and when it's done you call your sister back. Then the wall goes up, shields raised, and steps forward while she falls behind it. The mage hits the boards with fire, the sword-and-shield man hits a goblin and the goblin hits him in the gut, and he backs off. The roar needs about forty-five seconds before she can use it again, so the wall holds fifteen. Then she walks out and does it again, and every one of them has to look at her."
 
-His knuckles tightened on the axe haft, and he looked at the stakes, then at me. "Then I am the insurance."
+"I would go out myself." His knuckles tightened on the axe haft. "Every time."
 
-"You're mine and the clan's. The second set is the last resort, and I don't think we get there." I stood and dropped the stick. "But it's there."
+"Not every time." I kept my voice level. "If you go down, there's no one to lead Thrash."
+
+He looked at the stakes, then at me, and a long breath went out of him. "That is true."
+
+"The second set of stakes is the last resort. If they push Wyx back that far, you step out and take it while she recovers, and you use your own roar to pull them in." I dropped the stick. "I don't think we get there. But it's there."
 
 Wyx studied me for a long moment, and the smile came back. "Interesting."
 
 **[DIRECTOR IN BOOTH: VOICE CHANNEL]**
 
-"Heads up," Leon said in my ear, quick and low. "Arya called. She's in position and she's moving. I'm turning the stream back on, since chat's already asking where you went."
+"Heads up," Leon said in my ear, quick and low. "Arya called. She's in position and she's moving. Do you want the stream?"
+
+"Not yet." I looked at the three of them, Ru, Zinka, and a slope of dark rock that didn't care how much I'd planned. "When I go over the edge."
+
+"Copy."
+
+The rockslide dropped away under my boots in a slide of loose gravel. I locked a knot around a stump, tested it with my whole weight, and went over, Ru a body-length below me, Zinka already on the rock beside him. My palms burned from the first few meters. Below us the trees ran dark and close, and through the trunks I could see the red glow of the tent.
+
+"Leon," I said. "Now."
 
 **[STREAM ONLINE]**
 
-"Copy," I said under my breath. "Go."
-
---------
-
-The rockslide dropped away under my boots in a slide of loose gravel and I locked a knot around a stump and went over the edge on the rope, Ru a body-length below me, Zinka already on the rock beside him. My palms burned from the first few meters. Below us the trees ran dark and close, and through the trunks I could see the red glow of the tent.
-
-The first thirty feet were loose rock that slid under my boots, and the next stretch was ledges narrow enough that I climbed them with my belly flat to the stone. Zinka went first and tied off at every bend without a sound, and Ru brought up the back and caught my belt twice when my feet went out. My forearms were shaking by the time the rope ran out, and we dropped the last body-length into the dark of the trees.
-
-Ru stopped with his back against a trunk, his chin lifted toward the camp above. "I hope my brethren are okay," he said quietly. "We have already lost so many."
-
-"They'll be okay." I laid a hand on his shoulder, and felt it shake. "That's why we're here."
-
-Zinka was already gone, a pale shadow slipping between the trees. Voices carried across the clearing, bored and loose. Somebody was laughing, and somebody else was complaining about what the elixirs cost.
-
-I crept to the edge of the light. **[RIAN - LV 13 - HUMAN]** over the tall one with the shield on his back. **[TALO - LV 12 - DWARF]** beside him, arms like barrels. **[SPELLWEAVER_LYN - LV 14 - ELF]**, a staff across her knees. **[JOSS - LV 12 - BEASTFOLK]**, pale blue enchantments rippling off his hands. I could feel it already, a heaviness settling into my legs that had nothing to do with the climb, like wading into a river. *"Joss. Whatever those blue ripples are, they're what's pulling at us."* I held up two fingers to Ru and Zinka, then pointed left and right, and they slid away into the dark on either side of the clearing.
-
-A whistle cut through the dark behind me, low and short. Arya stood twenty paces up the ridge in the trees, a staff in one hand, a coat that was too big for her. She held up two fingers. I held up two back, and my panel lit up in the corner of my eye.
-
-**[ARISKY - LEVEL 10 - SPELLFORGER]**
-**[ARISKY HAS JOINED YOUR PARTY]**
-
-She planted her feet, and the world went gray.
-
-**[STATUS EFFECT: HUSHVEIL]**
-
-Fog rolled over the tent like something poured, and the voices stopped as if someone had thrown a switch. The heaviness went out of my legs. *"It cuts the mana. That pull runs on mana, and he can't pay for it now."* I ran.
-
-I reached the tent mouth in the fog, and I was out of breath by the time I dropped to my knees in front of it, the dirt cold under my hands. I called up the rune on my panel and looked at it hard: a triangle drawn as one line of jagged claws, the corners left open so the points never touched. I drew it in the sand with the knife, pulling the first claw, then the second. The third closed a corner.
-
-**[RUNE PRIMING: 10 MP]**
-
-The sand flickered and went dark. I wiped it flat with my palm and started again, slower, the second line too even this time, the claws like teeth instead of talons. It sputtered and faded.
-
-**[RUNE PRIMING: 10 MP]**
-
-I checked my mana. Twelve left. Enough for one more.
-
-*"Hands. Learn where the hands go."* I spread my fingers wide, anchored the heel of my hand, and breathed. From the ridge came three whistles, slow, spaced apart.
-
-Behind the fog Rian was shouting something I couldn't hear. The wall of the tent bulged, and a shadow moved, and I kept my eyes on the sand. Three more whistles, the same slow spacing.
-
-*"Ten seconds."*
-
-I counted. The first claw came out sharp. The second came out sharp. I dragged the third line and the triangle held, the points open and wrong in exactly the right way. I let my breath go and pressed down.
-
-**[RUNE PRIMING: 10 MP]**
-**[BASE ARCANA RUNE: SET]**
-
-The mist thinned, and the shouting came through all at once. Ru and Zinka had already put their mouths to the canvas on either side, green gas pouring in. Somebody coughed hard. The Elf and the Beastfolk went down inside the tent. The Human and the Dwarf burst out of the entrance together, swinging blind, and Talo's boot came down on the rune.
-
-The ground lit. A ring of blue-white force slammed up around them and rooted both men where they stood.
-
-I stepped back, held my palm out, and let the flare go.
-
-**[SHIV-TOUCHED FLARE]**
-
-The gas caught. The whole tent went up from the inside out, a roar I felt in my teeth, the heat across my face and the smell of singed lashes. For one moment everything rang. Then the fire fell back, and in the quiet the panels came down in a line.
-
-**[COMBAT KILL: SPELLWEAVER_LYN]**
-**[COMBAT KILL: JOSS]**
-**[COMBAT KILL: TALO]**
-**[COMBAT KILL: RIAN]**
-
-My legs gave out. I sat down in the scorched dirt, mana at two, hands shaking, while the fire sank back and the drops rolled out of the ash one at a time.
-
-**[LOOT: IRONHIDE CHESTPLATE]**
-**[LOOT: VANGUARD'S GREAVES]**
-**[LOOT: DOPPELGANGER'S BAND]**
-**[LOOT: SHIVBONE STAFF - LEGENDARY]**
-
-Arya stepped out of the trees with her own staff against her shoulder, breathing hard, and sank onto her haunches next to me. "You drew that on the ground," she said.
-
-"Twice wrong first."
-
-She laughed, short and shaky. "You wiped a full party in under a minute with a spell I was ready to throw away an hour ago."
-
-I picked the Shivbone Staff out of the ash and held it out to her, handle first. Her eyes went wide, and her mouth opened before she caught it. "That's a legendary drop."
-
-"I know what it's worth." I kept my arm out until her fingers closed around it. "You held that mist up on trust. Just keep speccing into what works."
-
-She turned the staff over once in her hands, and the half-smirk came back, softer than before. Then the laughter stopped. A new banner hung across the corner of my vision.
-
-**[PLAYER ENTERING ZONE: PK_WRAITH - ETA 00:08:00]**
-
-"That wasn't one of the four," Arya said, and for the first time, she wasn't smirking at all.
+From somewhere behind and above me on the ridge, someone whistled once, low and short.
 
 **[END CHAPTER ELEVEN]**
