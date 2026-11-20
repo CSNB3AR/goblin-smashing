@@ -28,17 +28,19 @@ I crossed my arms too, without deciding to, and I could feel my face doing somet
 
 "Why me?" I said.
 
-"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I could be impressed by how you moved through that world quest, or by how you even got HGO running on one of those old pods. I'm not going to ask which is crazier. That's a question for Leon." She said it lightly, and then went on. "I have information, too. I've been playing this game a very long time, and a legacy account can still drag a few friends up your hill for loot."
+"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I could be impressed by how you moved through that world quest, or by how you even got HGO running on one of those ancient pods. I'm not going to ask which is crazier. That's a question for Leon." She said it lightly, and then went on. "I have information, too. I've been playing this game a very long time, and a legacy account can still drag a few friends up your hill for loot."
 
-It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't trying to be rude. I knew that. But "old pods" landed wrong, because that pod was my dad's, it was still half repaired, and my hand had tightened on the desk edge before I noticed. I'd been burned by that exact tone once, and my body took it the way it had learned to.
+It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't trying to be rude. I knew that. But "ancient" landed wrong, and my hand had tightened on the edge of the desk before I noticed. I'd been burned by that exact tone once, and my body took it the way it had learned to.
 
-"No, I'm okay." I held up a hand, a little too polite. "I already have a plan. I've got everything figured out. I appreciate it."
+"One of those ancient pods is my dad's." I kept my voice level. "We're in the process of fixing both."
 
-I turned toward the pod.
+"No thank you." I held up a hand, a little too polite. "I already have a plan. I've got everything figured out. I appreciate it."
+
+I stepped around her toward the door. Behind me her footsteps stopped, and when I glanced back she wasn't looking at me. She was looking at the base of the working pod, where the old Kazuhaya Tech stamp sat under the cable bundles, and then at me, and I watched something come together in her face.
 
 "Please, hear me out."
 
-She said it quietly, and I stopped with my hand on the pod's edge. When I looked back, the smirk was gone and her arms had come uncrossed.
+She said it quietly, and I stopped in the doorway. The smirk was gone, and her arms had come uncrossed.
 
 "I have a lot riding on this." Her thumb scraped the ink on her wrist, back and forth. "And trust me, the last thing I'd ever want to do is randomly ask a person I've never met to create a guild with me. But I've been watching your stream for the last forty minutes. I've seen what you can do. The conversations you've had with those NPCs, I haven't seen anything like that, and I've been playing for a long time." She took a breath. "Being a professional player with a professional guild means everything to me right now. It's my only way to stay in Japan. I was texting my mom when you got here."
 
