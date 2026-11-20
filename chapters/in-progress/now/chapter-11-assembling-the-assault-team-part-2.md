@@ -28,11 +28,11 @@ I crossed my arms too, without deciding to, and I could feel my face doing somet
 
 "Why me?" I said.
 
-"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I have information, too. I've been playing this game a very long time, and a legacy account can still drag a few friends up your hill for loot."
+"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I could be impressed by how you moved through that world quest, or by how you even got HGO running on one of those old pods. I'm not going to ask which is crazier. That's a question for Leon." She said it lightly, and then went on. "I have information, too. I've been playing this game a very long time, and a legacy account can still drag a few friends up your hill for loot."
 
-It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't being rude. I knew that. But I'd been burned by that exact tone once, and my body took it the way it had learned to.
+It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't trying to be rude. I knew that. But "old pods" landed wrong, because that pod was my dad's, it was still half repaired, and my hand had tightened on the desk edge before I noticed. I'd been burned by that exact tone once, and my body took it the way it had learned to.
 
-"No, I'm okay." I held up a hand, polite. "I already have a plan. I've got everything figured out. I appreciate it."
+"No, I'm okay." I held up a hand, a little too polite. "I already have a plan. I've got everything figured out. I appreciate it."
 
 I turned toward the pod.
 
@@ -62,19 +62,29 @@ Her whole body let out the breath. "Then what do you need?"
 
 Her eyes narrowed, the look of someone who already knew the answer and was waiting to hear the trick. "It doesn't deal damage. Fifteen seconds up, thirty seconds down, and it doesn't scale on anything you'd want to scale. I'm not spending fresh points on a spell that doesn't kill things."
 
-"It blinds everyone inside, and it mutes them too, so nothing that runs on stamina or mana works in there. You see where everybody is while it's up." I leaned on the pod's edge with my arms folded. "Lightning conducts through it."
+"If you underestimate that spell, you'll never understand its true power." I leaned on the pod's edge with my arms folded.
 
-"Lightning also hits me, and my friends, and the guy holding the bucket." She shrugged one shoulder. "That's why nobody runs it."
+"What do you mean by that?" She tilted her head, wary.
 
-"Take Protective Lightning. It's a passive, so your lightning doesn't hurt the people you're standing with." I pointed at her. "And did you read Chain Lightning all the way through?"
+"Use it and find out."
+
+She didn't answer, and I didn't push. "Take Protective Lightning too," I said.
+
+"Nobody takes the lightning tree." She shrugged one shoulder. "It's weak, and it's expensive."
+
+"Did you read Chain Lightning all the way through?"
 
 "Obviously."
 
-"Did you read the part where it bounces off anything with mana? Allies included, and with the passive they're fine. You see them in the mist, so you use them as a relay when the target is out of range." I watched her face change. "I'm a goblin, but I have mana."
+"Read it again." I pointed at her eyes.
 
-She was quiet, her tongue pressed against the inside of her cheek, her eyes somewhere past me. "My best spell is a fireball," she said slowly. "And I've never once used a teammate as part of a chain."
+She unfocused, reading what only she could see, and her eyebrows climbed. "It bounces off allies who have mana." She looked up at me. "And with the passive, it doesn't hurt them. You're a goblin with mana."
 
-"I need the continuous cast, and I need stage two." I kept my arms folded. "The sporadic one gets you fifteen seconds, and that's not enough. The continuous one eats your mana and you can't move while you hold it, but it stays up as long as you can pay."
+"Exactly."
+
+She was quiet, her tongue pressed against the inside of her cheek. "My best spell is a fireball," she said slowly. "And I've never once used a teammate as part of a chain."
+
+"I need the continuous cast, and I need stage two." I kept my arms folded.
 
 "Stage two is three points by itself." She said it the way people said the price of a bad meal, and then her eyes unfocused as she pulled the skill up and read what only she could see. "It adds deafen. Blind, silenced, and now deaf." Her mouth twisted. "That's a lot of points for one more debuff."
 
