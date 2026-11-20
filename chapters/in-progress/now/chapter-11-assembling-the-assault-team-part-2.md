@@ -2,9 +2,9 @@
 
 The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. The inspector was already at the side panel with his tablet, and Leon stood over him with one hand on the desk. "Give us ten minutes or so," Leon said, not looking up. "He has to reprogram a few things."
 
-The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I untied my locs, still dragging at the back of my neck from the visor strap, and twisted them up again, then took the last stall and sat down with my phone. I'd had a picture in my head for months. Tonight I only needed to check it against what other people had done, so I pulled up page after page of diagrams and old maps and read until what I saw on the screen matched what I'd already drawn.
+The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I untied my locs, still dragging at the back of my neck from the visor strap, and twisted them up again, then took the last stall and sat down with my phone. I opened the world map in the HGO app first and dragged it until the camp sat in the middle of the screen, the hill, the road below it, the cliff behind. Then I pulled up a few diagrams beside it. The plan was only a rough shape in my head: a distraction up front, and a way to come at them from somewhere they weren't looking. I could name two people I'd take down the back with me. I ran the gas through it, the stuns, what happened if one of them resisted, and every time I reached the end the same hole stayed open. I needed something I didn't have yet, and I couldn't say what.
 
-When I came back across the pavilion ten minutes later the pod room was quiet. Leon and the inspector had gone downstairs, and Arya sat at the operator desk with her feet up on an open drawer, white hair in a messy bun, ink running down both forearms to the wrist, her eyes on her own phone. I walked past the desk toward the pod without looking at her.
+When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer, white hair in a messy bun, ink running down both forearms to the wrist, her eyes on her own phone. I walked past the desk toward the pod without looking at her.
 
 "Hey, Nykri."
 
@@ -44,7 +44,7 @@ I stepped around her toward the door. Behind me her footsteps stopped, and when 
 
 I stopped in the doorway without turning around. "Yeah."
 
-"I didn't know." It came out fast, almost over me. "I've had my head in my phone the whole time you've been around, and I thought you were just another player. My brother never shuts up about that company, and I just said that to your face." She pressed the heel of her hand against her forehead. "That was out of line. I'm sorry. It makes sense now, why he does business with you."
+"I didn't know." It came out fast, almost over me. "Leon told me to be here when you came back, and I wasn't trying to insult it. I've had my head in my phone the whole time you've been around, and I thought you were just another player. My brother never shuts up about that company, and I just said that to your face." She pressed the heel of her hand against her forehead. "That was out of line. I'm sorry. It makes sense now, why he does business with you."
 
 I turned around slowly and kept my arms folded. Her eyes were on the floor.
 
@@ -82,7 +82,7 @@ She grinned, a real one for the first time, and clapped her hands once. "Okay. T
 
 "What are you running?"
 
-"Elf, Spellforger, level ten." She counted it off on her fingers. "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
+"Elf, Spellforger, level ten." She counted it off on her fingers, and something in my head clicked into place, the hole I hadn't been able to close in that bathroom stall. "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
 
 "Can you cast Hushveil?"
 
