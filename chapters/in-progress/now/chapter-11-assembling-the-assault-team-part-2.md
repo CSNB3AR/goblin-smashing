@@ -1,6 +1,6 @@
 # Chapter Eleven: Assembling the Assault Team, Part Two
 
-The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. Leon was already crouched at the side panel with the inspector, a flashlight clamped in his teeth, and he flapped one hand at me without turning around, which meant ten minutes, go.
+The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. Leon already had the inspector halfway out the door, one hand on the man's elbow, steering him toward the stairs down to the lounge. "I'll be downstairs finishing the paperwork with VRSA," he said over his shoulder. "Ten minutes. Arya can start the pod back up when you're ready."
 
 I did the math on the way up the stairs. Thirty minutes on the game clock, and it had not stopped when I did. By the time I reached the bathroom at the end of the upstairs hall I had already decided I'd be back under the visor with whatever was left, and the plan I'd promised Sevish was still one sentence long. I sat on the closed lid with my phone and typed *how does a shield wall actually hold* into the search bar. The Romans I already knew, shields locked edge to edge with short swords working through the gaps. The armies of the Warring States had drilled their spear and shield ranks until the front could take a charge, and the Vikings had stood shoulder to shoulder with their shields overlapping in one solid row. Different centuries, same idea. *"A line that holds, and something sharp behind it."* I kept my head down and my thumb moving.
 
@@ -11,6 +11,8 @@ My thumb froze mid-scroll. I looked up fast enough to feel it in my neck, and a 
 "How do you know that name?" I stayed on the lid, phone in my hand.
 
 "I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough downstairs to settle it."
+
+She jerked her thumb at the stairs. "He's still down in the lounge with the inspector. He said you can get back on whenever you're ready, and I'm the one who's supposed to start the pod."
 
 "Okay. So you watched." I got up, because sitting down made me feel like I was the one being interviewed. "What do you want?"
 
@@ -34,7 +36,7 @@ She blinked, and then she laughed once, short and surprised, the smirk finally g
 
 "I'm good, though." I took the steps down two at a time, the way a person walks something off, and she followed.
 
-At the bottom the pod room smelled of warm plastic and solder. Leon and the inspector were bent over the open panel with their backs to us, the inspector murmuring numbers in his flat voice while Leon said "Mm" at the right places. Arya kept her voice low and close behind my shoulder.
+At the bottom the pod room smelled of warm plastic and solder. The lid of the pod stood open, and the operator desk was lit by the monitor Leon had left running. Nobody else was there, and Arya still kept her voice low and close behind my shoulder, out of habit.
 
 "I can seriously help you. A guild adds weight, and you don't have any right now."
 
@@ -48,7 +50,7 @@ I didn't repeat a word of it. *"Guild-based. That's the second time somebody's s
 
 The smirk went out of her face all at once. Her hands stopped moving, and I realized that was the first time I'd seen them still.
 
-"Please, just hear me out." She said it quietly, glancing once at Leon's back. "I wouldn't ask someone random to form a guild with me. I've been watching your stream. When I noticed my brother was actually helping you, I thought, okay, this is real. I'm sorry if I came off rude. I'm in a really bad spot."
+"Please, just hear me out." She said it quietly, glancing once toward the stairs. "I wouldn't ask someone random to form a guild with me. I've been watching your stream. When I noticed my brother was actually helping you, I thought, okay, this is real. I'm sorry if I came off rude. I'm in a really bad spot."
 
 I waited, because she wasn't done.
 
@@ -90,7 +92,7 @@ She was quiet, her tongue pressed against the inside of her cheek, her eyes some
 
 "What plan?" She dropped her hand and stared at me, hands finally still. "You want me to burn a fistful of points on a fog spell and you won't tell me the rest."
 
-"I can't explain the whole thing. I have to get back, and I'm on a time limit." I glanced at the inspector's back, hoping he'd rush. "You'll have to trust me on this one."
+"I can't explain the whole thing. I have to get back, and I'm on a time limit." I glanced at the stairs, hoping the inspector would hurry Leon along. "You'll have to trust me on this one."
 
 "I've been sitting on fifteen points since the guild went down." She said it flatly, to the ceiling, and then looked back at me.
 
@@ -102,13 +104,15 @@ For a second I thought she'd walk. Then she groaned and dragged a hand down her 
 
 "Ten seconds. Got it."
 
-The inspector straightened behind us, panel closed, tablet tucked under his arm. "The unit is sound for now," he told Leon in that flat voice. "Do not run the stream at that draw again."
+Footsteps came up from the lounge, and Leon walked in with his glasses slipping down his nose and a signed readout folded in one hand. "Inspector's gone. He says don't run the stream at that draw again." He looked at the clock on his monitor and winced. "Ten minutes was a lie. It's been twenty-five."
 
-Leon looked at the clock on his monitor and winced. "Ten minutes was a lie. It's been twenty-five."
+I did the math with my stomach. Five minutes left on the return clock.
 
-I did the math with my stomach. Five minutes left on the return clock. Arya already had her jacket on and was backing toward the door, spinning one finger by her ear. "J-Link. The big cafe down the line, third-generation pods, I book weeks ahead. See you on the other side, Nykri."
+Leon looked from me to his sister, one eyebrow lifting. "What did I miss?"
 
-I shoved myself into the pod and dropped back against the cushion. "Leon. Don't stream the first ten minutes," I said, one hand on the visor. "We'll be planning, and I don't need anyone watching us do it. We don't know if these four answer to a guild, and someone could be in their ear, same as you're in mine."
+"Nothing, brother." Arya already had her jacket on and was backing toward the door, her voice smooth, and she gave me a quick look. "Heading to J-Link to hop on for a bit. Met a new friend." She spun one finger by her ear. "The big cafe down the line, third-generation pods, I book weeks ahead. See you on the other side, Nykri."
+
+Leon motioned me toward the pod, and I climbed in and dropped back against the cushion. "Don't stream the first ten minutes," I said, one hand on the visor. "We'll be planning, and I don't need anyone watching us do it. We don't know if these four answer to a guild, and someone could be in their ear, same as you're in mine."
 
 Leon stopped with a knuckle against the monitor, then pushed his glasses up. "You're right. Good thinking. It stays dark until you say."
 
