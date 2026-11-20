@@ -109,37 +109,63 @@ The tent was cold when the world came back, the lamp low and the canvas shifting
 **[TIME LIMIT: 01:05:00]**
 **[RETURN TO THE CENTER OF CAMP: 00:05:00]**
 
-Five minutes. I took the ridge path at a run, stakes and torches blurring past on both sides, and I was breathing hard when I reached the fire pit. They were all there. Sevish stood at the head of the circle with his axe grounded and his arms folded, Wyx at his left with her amber eyes already on me. Kesh, Ru and Zinka waited in front of them, and behind them ten goblins in the same club and round shield stood in a loose half circle, trying to look like they weren't afraid.
+--------
+
+Five minutes. I took the ridge path at a run, stakes and torches blurring past on both sides, and a pop-up slid across the top of my interface before I had covered thirty paces.
+
+**[DIRECTOR IN BOOTH: VOICE CHANNEL]**
+
+"Quick one while you run," Leon said, a little out of breath, like he'd been running too. "I've been reading Loop since you went under. People are tying the missing monthly goblin march to your world quest. Nobody's seen Thrash walk down to the walls of Lunarest this month, and a few streamers say they've been camped on that road for hours waiting for it."
+
+I slowed half a step and caught a stake to keep my balance. *"The march didn't happen because I held them for a whole day."* Every month the camp rallied, charged the city walls, and got cut down, an easy early-level farm every newbie knew about. A party sitting on that road with nobody coming down it would have gone looking, and what they'd found was a camp on a hill. That was how four raiders had ended up in a red tent at the foot of mine.
+
+"That explains why they're here," I said, breathing hard. "Thanks. Keep reading it."
+
+"Copy," Leon said. "Stream's still off."
+
+I reached the fire pit with a little over four minutes on the clock. They were all there. Sevish stood at the head of the circle with his axe grounded and his arms folded, Wyx at his left with her amber eyes already on me. Kesh, Ru and Zinka waited in front of them, and behind them ten goblins in the same club and round shield stood in a loose half circle, trying not to look afraid.
 
 "You are on time," Wyx said, the half-smile thin.
 
-I crouched and drew in the dirt with a stick. "Here is the track. Here is the camp. The raiders sit in a red tent on the shoulder of the road, here, and anything that gets close to it gets weaker and slower. So nobody goes close to it from the road."
+I crouched and drew in the dirt with a stick, one line for the track, one for the cliffside, and a square on the road for the red tent. "The raiders sit here, on the shoulder of the road. They hold it, they rest, and they take whoever walks into range. Anything that creeps close to that tent gets weaker and slower, so nobody goes at it from the road." I split the drawing in two with the stick. "So we split. Three of us go down the back and come in behind them. Everyone else holds the hill, in case we fail."
 
-"Then how?" Sevish's voice was low.
+"Who goes down the back?" Sevish's voice was low.
 
-"Three of us go down the back." I pointed to the east edge, where the stakes ended and the ground broke into loose rock. "Ru and Zinka and me, on rope. A regular goblin would take an hour to climb that, and I don't have an hour. These two don't."
+"Ru, Zinka and me." I pointed to the east edge, where the stakes ended and the ground broke into loose rock. "A regular goblin would take an hour to climb that, and I don't have an hour."
 
 Ru stood very straight, one hand clamped around the other. Zinka only nodded once, the way she did everything, and then spoke, level and exact. "The east edge breaks into loose rock, then ledges, then trees. I have scouted it, and I have not climbed it. Someone must tie off first."
 
 "We carry the rope," Ru said, stiff, trying to stand taller. "We-we can do that."
 
-"And the rest?" Wyx asked.
+"Good." I turned back to the dirt. "Now the hill. This is the part that matters."
 
-"The rest hold the track, in case we fail." I swept the stick across the dirt, three rows of marks. "Stakes, five paces apart, with one gap, one body wide, in the first two rows. Six on shields, locked edge to edge, with the bows behind and above. Kesh with the bows." I looked at him. "Any spell hits wood, and the wall holds as a unit. Wyx, you stand behind it. When they reach the wall, you step out and use your Howl so every caster turns on you, not on the archers. Then you step back. You don't follow them down."
+I drew the trail running down from the top, and fifteen paces below the crest I made two short rows of marks, three on each side. "Stakes, here. Three on the left of the trail and three on the right, set at an angle, points down the hill at whoever comes up. Between them, a gap as wide as the trail." *"Dash, space, dash."* "Then a second set, about seven paces above the first, built the same way."
 
-"Kesh and the bows shoot when Wyx step out," Kesh said, nodding hard, one hand already on his short bow. "Not before. Kesh understand."
+"They will see a path," Wyx said, tilting her head. "And they will walk it."
 
-"Good." I turned to Sevish, who had not moved. "Chief, this part is yours."
+"That's the point. It looks like a way up, and it's the only one. If they climb around the stakes they're slow targets on the rock. If they jump them, they're in the air with nowhere to go, and five bows are on them." The Romans never let a fight go where the enemy wanted it. They picked the ground and made the other side come through it. "Whoever gets that far runs a lane, and the lane ends at the wall."
 
-"And I?" Sevish said, with an edge.
+"The wall," Sevish said.
 
-"You stay out of sight." I didn't flinch. "If a level eighty walks into their view, they go home for more, and then I have ten raiders instead of four. If they come up the hill, you're the last thing they meet."
+"Six on clubs and shields at the top, locked edge to edge. The Vikings did it, and so did the Romans. Five of your best on bows behind them." I looked along the half circle at the five I'd picked. None of them had ever used a bow in a real fight, and I'd bet only one could hit a barn. Every goblin on that hill had lived through the night so far, and it nagged at me in a way I couldn't name yet. "They'll get better tonight if they live."
+
+"Kesh shoot," Kesh said, nodding hard, one hand already on his short bow. "Not before Wyx step out. Kesh understand."
+
+I turned to Wyx. "If they reach the first stakes, you go down to meet them. That move your brother used on me earlier, the one that pinned me to the dirt. Can you use it the same way?"
+
+"Mine is not as strong as my brother's." She tipped her head, amused. "But I can do it. You want me to scream at your enemies?"
+
+"They won't be able to ignore you." I met her eyes. "If they're weak, you take the fight yourself."
+
+Her smile widened. "I do enjoy a fight."
+
+"And if they push you back, you retreat to the second set, and the chief steps out and takes it while you recover." I looked at Sevish. "You use the same roar if you have to, so they turn on you."
 
 His knuckles tightened on the axe haft, and he looked at the stakes, then at me. "Then I am the insurance."
 
-"You're mine and the clan's, and you're the reason I get to try this."
+"You're mine and the clan's. The second set is the last resort, and I don't think we get there." I stood and dropped the stick. "But it's there."
 
-Wyx tipped her head, studying me, and the smile came back. "Interesting."
+Wyx studied me for a long moment, and the smile came back. "Interesting."
 
 **[DIRECTOR IN BOOTH: VOICE CHANNEL]**
 
@@ -147,7 +173,7 @@ Wyx tipped her head, studying me, and the smile came back. "Interesting."
 
 **[STREAM ONLINE]**
 
-"Copy," I said under my breath, and stood. "Go."
+"Copy," I said under my breath. "Go."
 
 --------
 
