@@ -14,7 +14,7 @@ Used for Chapter Eleven. The mist itself is in `codex/magic/hushveil-mist-mechan
 Tatsuya remembers his own old Spellforger build, so he knows the odd corners of the wind tree that nobody takes. He tells her to take three things:
 
 1. **Gale Force** (wind tree).
-2. **Wind Mist** (wind tree), the mist. See the mechanics file.
+2. **Hushveil**, the mist. See the mechanics file.
 3. **Protective Lightning** (passive, lightning tree).
 
 **Protective Lightning.** It lets her use lightning abilities directly without harming teammates caught by sporadic lightning. It is a natural passive for a lightning user, but most players skip the lightning tree because it is considered weaker and costs more experience (known from the beta). That is why nobody has built the mist and lightning together: the mist is a conductor, and lightning through it hits everyone inside, her included, unless she owns this passive.
@@ -33,7 +33,7 @@ The mist earns her a name. PROPOSAL: viewers and rival guilds call her **the Fog
 |---|---|---|---|
 | Arya's skills | Static Lash, Tempest Fan, Storm Shear, Stormwall, Hushveil base (`arya.md`, plan notes) | Destruction Spellforger; wind and lightning only after Tatsuya | Author wins. Rewrite the "Current spell unlocks" line in `arya.md`. |
 | Her school | Tempest "field-spell-heavy mage" (`book-of-tempest.md`) | Not the wind tree at start | Author wins. Rewrite the "Arya's real build identity" paragraph in `book-of-tempest.md`. |
-| Name of the fog | Hushveil | Wind Mist (the mist) | Author's skill name wins in canon. Hushveil survives only as a nickname or in older files. PROPOSAL: sweep the name in one pass. |
+| Name of the fog | Hushveil | Wind Mist (the mist) | Hushveil is the author's name wins in canon. Hushveil survives only as a nickname or in older files. PROPOSAL: sweep the name in one pass. |
 | Mist effect | Silence upgrade: no casting, no Physical Arts, no sound | Blinds and mutes: blocks SP, stamina Physical Arts and MP; no sight out | Author wins. It also gives radar and buffs. |
 | Friendly fire | Silences allies too (`book-of-tempest.md`) | Allies get buffs inside; only lightning is a risk, fixed by Protective Lightning | Author wins. Allies fight freely. |
 | Duration | 15 s mist, 30 s cooldown (cooldown starts at cast, 15 more after) | Sporadic: 15 s up, then a 30 s cooldown. Continuous: held, MP every 2 s | Both kept. Ambiguity: is the 30 s measured from cast or from drop? See the mechanics file. |

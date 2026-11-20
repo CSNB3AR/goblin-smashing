@@ -66,7 +66,7 @@ Her whole body let out the breath. "Then what do you need?"
 
 "Elf, Spellforger, level ten." She counted it off on her fingers. "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
 
-"Is there a fog spell in the wind tree? Wind Mist."
+"Can you cast Hushveil?"
 
 Her eyes narrowed, the look of someone who already knew the answer and was waiting to hear the trick. "It doesn't deal damage. Fifteen seconds up, thirty seconds down, and it doesn't scale on anything you'd want to scale. I'm not spending fresh points on a spell that doesn't kill things."
 
@@ -88,7 +88,7 @@ She was quiet, her tongue pressed against the inside of her cheek, her eyes some
 
 "Fifteen unspent points since the guild went down." I kept my voice level. "I'd call that a fund."
 
-For a second I thought she'd walk. Then she groaned and dragged a hand down her face. "Fine. Wind Mist, the continuous cast, and Protective Lightning. If you're wrong, you owe me every one of those points."
+For a second I thought she'd walk. Then she groaned and dragged a hand down her face. "Fine. Hushveil, the continuous cast, and Protective Lightning. If you're wrong, you owe me every one of those points."
 
 "There's no voice chat in the game," I said. "How do I know you're running dry?"
 
@@ -196,7 +196,7 @@ A whistle cut through the dark behind me, low and short. Arya stood twenty paces
 
 She planted her feet, and the world went gray.
 
-**[STATUS EFFECT: WIND MIST]**
+**[STATUS EFFECT: HUSHVEIL]**
 
 Fog rolled over the tent like something poured, and the voices stopped as if someone had thrown a switch. The heaviness went out of my legs. *"It cuts the mana. That pull runs on mana, and he can't pay for it now."* I ran.
 

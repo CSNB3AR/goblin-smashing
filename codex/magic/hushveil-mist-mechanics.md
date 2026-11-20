@@ -1,6 +1,6 @@
-# Wind Mist (Hushveil): full mechanics (author-stated, latest)
+# Hushveil (the mist): full mechanics (author-stated, latest)
 
-One place for everything. Skill name: **Wind Mist**, in the wind tree. "Hushveil" is the older name and survives as a nickname. Inventions are marked PROPOSAL. Her build is in `codex/characters/arya-build-and-mist-kit.md`.
+One place for everything. Skill name: **Hushveil** (author-stated, never rename without asking). Earlier agent text called it Wind Mist; that was wrong. Inventions are marked PROPOSAL. Her build is in `codex/characters/arya-build-and-mist-kit.md`.
 
 ## What it is
 

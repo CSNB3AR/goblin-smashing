@@ -1377,3 +1377,6 @@ AUTHOR-STATED (written into Chapter Eleven):
 - Top of the hill: eleven goblins, six on clubs and shields as a shield wall, five best on bows (bad at it, they will improve; goblins who survive gain experience, which Tatsuya works out later, only a nag on the page).
 - Goblin March: players know a monthly early-level farm event where Thrash's goblins charge Lunarest's walls. It did not happen because Tatsuya held them a whole day (world quest). Loop speculation ties the missing march to the world quest, and the raiders were waiting on that road and went looking. Written into Chapter Eleven as Leon's voice channel line on the walk. NOT put into Chapters 8 or 10 (Walter is running); the author may want a one-line plant in the repaired Chapter Ten.
 OPEN: the line count (author says eleven goblins on the hill; 15 minus Sevish, Wyx, Tatsuya, Ru, Zinka is ten, so one extra); the second layer distance.
+
+## Skill name fixed (author, latest): HUSHVEIL
+The mist skill is called **Hushveil**. I wrongly changed it to "Wind Mist" on my own because an agent file called Wind Mist canon. Reverted in Chapter Eleven (dialogue, party line, status text) and in the codex mechanics file. Rule: never rename a named skill, item, place or person without asking the author first. (The author's dictated "WinMiss" and "Hushinville" are voice dictation of Hushveil.)
