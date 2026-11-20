@@ -28,29 +28,41 @@ I crossed my arms too, without deciding to, and I could feel my face doing somet
 
 "Why me?" I said.
 
-"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I could be impressed by how you moved through that world quest, or by how you even got HGO running on one of those ancient pods. I'm not going to ask which is crazier. That's a question for Leon." She said it lightly, and then went on. "I have information, too. I've been playing this game a very long time, and a legacy account can still drag a few friends up your hill for loot."
+"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I could be impressed by how you moved through that world quest, or by how you even got HGO running on one of those ancient pods. I'm not going to ask which is crazier. That's a question for Leon. I have information, too. I've been playing this game a very long time."
 
-It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't trying to be rude. I knew that. But "ancient" landed wrong, and my hand had tightened on the edge of the desk before I noticed. I'd been burned by that exact tone once, and my body took it the way it had learned to.
+It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't trying to be rude. I knew that. But "ancient" landed wrong, and my hand had tightened on the edge of the desk before I noticed.
 
 "One of those ancient pods is my dad's." I kept my voice level. "We're in the process of fixing both."
 
-"No thank you." I held up a hand, a little too polite. "I already have a plan. I've got everything figured out. I appreciate it."
+Her mouth opened, and nothing came out of it.
 
-I stepped around her toward the door. Behind me her footsteps stopped, and when I glanced back she wasn't looking at me. She was looking at the base of the working pod, where the old Kazuhaya Tech stamp sat under the cable bundles, and then at me, and I watched something come together in her face.
+"No thank you." I held up a hand, a little too polite. "I appreciate it."
 
-"Please, hear me out."
+I stepped around her toward the door. Behind me her footsteps stopped, and when I glanced back she wasn't looking at me. She was looking at the base of the working pod, where the old Kazuhaya Tech stamp sat under the cable bundles, and the color had gone out of her face.
 
-She said it quietly, and I stopped in the doorway. The smirk was gone, and her arms had come uncrossed.
+"Wait." Her voice had changed. "Kazuhaya. That's Kazuhaya Tech."
 
-"I have a lot riding on this." Her thumb scraped the ink on her wrist, back and forth. "And trust me, the last thing I'd ever want to do is randomly ask a person I've never met to create a guild with me. But I've been watching your stream for the last forty minutes. I've seen what you can do. The conversations you've had with those NPCs, I haven't seen anything like that, and I've been playing for a long time." She took a breath. "Being a professional player with a professional guild means everything to me right now. It's my only way to stay in Japan. I was texting my mom when you got here."
+I stopped in the doorway without turning around. "Yeah."
 
-I didn't say anything, because she wasn't finished.
+"I didn't know." It came out fast, almost over me. "I've had my head in my phone the whole time you've been around, and I thought you were just another player. My brother never shuts up about that company, and I just said that to your face." She pressed the heel of her hand against her forehead. "That was out of line. I'm sorry. It makes sense now, why he does business with you."
 
-"And honestly, the world quest, I don't care about." She shrugged, a little helplessly. "But I have information about the event at the end of the month, and it's going to take numbers. Every build gets monitored, and yours is the only one I've never seen anyone play. Something like that raises our odds in Thornwatch Forest. I'm willing to do anything."
+I turned around slowly and kept my arms folded. Her eyes were on the floor.
 
-I scratched at my thin goatee. Four raiders in a red tent that drained anyone who crept close, and I'd be walking down a hill with two goblins I'd known for a day. I thought about how long she'd been carrying this by herself, and I let my arms drop.
+"I'll hire you," she said. "Name a number. I don't care what it is."
 
-"Okay," I said. "Yes."
+"I'm not for sale."
+
+"Okay." She nodded, quick, taking it without arguing. "Okay. That's fair."
+
+The pod room went quiet, the monitor humming. I scratched at my thin goatee and looked at her, really looked, at the ink on her wrist and the way she was holding her own elbow to keep her hands still. She'd gone from cocky to this in a minute, and none of it looked like an act.
+
+"If I said yes," I said slowly, "why would it be me? You were top eight. You could pick anyone."
+
+"Being a girl gamer is already tough." She said it without looking away. "Add a reputation that isn't even true, and getting people to join your guild is hard, and getting them to stay is harder. I'm not going to pressure you. You can say no. I saw the opportunity, and I figured I had nothing left to lose." Her thumb scraped the ink on her wrist. "I've been watching your stream for forty minutes. The way you talk to those NPCs, I haven't seen anything like it, and I've been playing a long time. A professional guild is the only way I stay here. I was texting my mom when you got here."
+
+I didn't answer right away. *"Myrrhwood first, and Thornwatch at the end of all of it."* I wanted to be there when it happened, and I couldn't do it alone with a camp of goblins. Whatever came out of Thornwatch, I'd be taking on guilds, and I needed people who weren't only goblins. I let my arms drop.
+
+"All right," I said. "If you're willing to help me, we can discuss it."
 
 --------
 
