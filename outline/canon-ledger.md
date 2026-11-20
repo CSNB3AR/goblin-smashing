@@ -1323,3 +1323,5 @@ AUTHOR-STATED:
 - Rune roll is an automatic dice check, NOT Gambler's Gambit. Two crit fails, then any number in the last second (a four is a weak rune, enough).
 
 PROPOSAL (agents): codex/characters/arya-build-and-mist-kit.md, codex/magic/hushveil-mist-mechanics.md, outline/chapter-11-beat-sheet.md. Open: 2 MP per tick, 3 s rune channel, which two things the two upgrades are, Arya level 10 vs 11. Old arya.md / book-of-tempest.md skill lists (Static Lash, Tempest Fan, Storm Shear, Stormwall, Hushveil) are superseded by the author's words; the old Silence-hits-allies text is superseded (allies get buffs).
+
+AUTHOR-STATED (addition): The Wind Mist also gives Arya a massive agility boost, wind-style movement. This is rare for mages, who are slow, so it lets her relocate. OPEN: this sits against "continuous cast, she cannot move." Recommended resolution (PROPOSAL): the agility boost and relocation belong to the sporadic cast (15 s up, 30 s cooldown, she can reposition inside her own mist); the continuous cast roots her, which is the price of holding it for the whole assault.

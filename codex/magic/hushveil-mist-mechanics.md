@@ -75,3 +75,6 @@ The flare is a palm fireball, 4 damage (from his fingers, no ratchet box). It ig
 ## Cross-references
 
 `codex/subplots/tent-ambush-rune-traps-and-crit-fails.md`, `codex/characters/pk-wraith-raiding-party.md`, `codex/magic/book-of-tempest.md`.
+
+## Addition (author-stated): movement
+The Wind Mist gives the caster a massive agility boost, wind-style movement. This is rare for mages, who are slow, so relocation becomes possible. PROPOSAL to reconcile with the continuous cast rule: the boost works in the sporadic cast, where she can reposition inside her own mist. The continuous cast roots her in place, which is the cost of holding it all night. Awaiting the author's ruling.
