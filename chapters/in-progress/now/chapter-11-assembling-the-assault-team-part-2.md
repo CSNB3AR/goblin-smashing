@@ -175,9 +175,9 @@ I drew the trail running down from the top, and twelve yards below the camp I ma
 
 Sevish grunted. "Fifteen."
 
-I looked along the line at the five I'd picked. None of them had ever used a bow in a real fight, and I'd bet only one could hit a barn. Every goblin on that hill had lived through the night so far, and it nagged at me in a way I couldn't name yet. "They'll get better tonight if they live."
+I looked along the line at the five I'd picked. Four of them had never used a bow in a real fight. The fifth was Kesh, who had carried one on the scouting runs, and I'd bet he was the only one of them who could hit a barn. Every goblin on that hill had lived through the night so far, and it nagged at me in a way I couldn't name yet. "They'll get better tonight if they live."
 
-"Kesh shoot," Kesh said, nodding hard, one hand on his short bow. "When Sevish call. Kesh understand."
+"Kesh shoot first," Kesh said, nodding hard, one hand already on his short bow. "Others look at Kesh, shoot when Kesh shoot. When Sevish call. Kesh understand."
 
 "They'll reach the first stakes as a group, because they will." I turned to Wyx. "That's when you go down to meet them. That move your brother used on me earlier, the one that pinned me to the dirt. Can you use it the same way?"
 
