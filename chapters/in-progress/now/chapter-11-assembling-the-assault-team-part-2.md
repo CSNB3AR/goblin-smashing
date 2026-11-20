@@ -84,13 +84,13 @@ She was quiet, her tongue pressed against the inside of her cheek, her eyes some
 
 "I need the continuous cast, and I need stage two." I kept my arms folded. "The sporadic one gets you fifteen seconds, and that's not enough. The continuous one eats your mana and you can't move while you hold it, but it stays up as long as you can pay."
 
-"Stage two is three points by itself." She said it the way people said the price of a bad meal. "Plus the continuous cast, plus the passive. What does stage two even do?"
+"Stage two is three points by itself." She said it the way people said the price of a bad meal, and then her eyes unfocused as she pulled the skill up and read what only she could see. "It adds deafen. Blind, silenced, and now deaf." Her mouth twisted. "That's a lot of points for one more debuff."
 
-"It's what makes the mist work for this." I didn't say more than that, because I couldn't.
+"If they can't hear us move, that's ideal for my plan." I kept my arms folded.
 
-"That's not an answer." She dropped her hand and stared at me, hands finally still. "You want me to burn a fistful of points on a fog spell, and you won't tell me why."
+"What plan?" She dropped her hand and stared at me, hands finally still. "You want me to burn a fistful of points on a fog spell and you won't tell me the rest."
 
-"I can't tell you everything." I held her eyes. "You'll have to trust me on this one."
+"I can't explain the whole thing. I have to get back, and I'm on a time limit." I glanced at the inspector's back, hoping he'd rush. "You'll have to trust me on this one."
 
 "I've been sitting on fifteen points since the guild went down." She said it flatly, to the ceiling, and then looked back at me.
 
