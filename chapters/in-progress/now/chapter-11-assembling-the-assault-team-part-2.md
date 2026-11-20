@@ -2,7 +2,7 @@
 
 The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. Leon already had the inspector halfway out the door, one hand on the man's elbow, steering him toward the stairs down to the lounge. "I'll be downstairs finishing the paperwork with VRSA," he said over his shoulder. "Ten minutes. Arya can start the pod back up when you're ready."
 
-I did the math on the way up the stairs. Thirty minutes on the game clock, and it had not stopped when I did. By the time I reached the bathroom at the end of the upstairs hall I had already decided I'd be back under the visor with whatever was left, and the plan I'd promised Sevish was still one sentence long. I sat on the closed lid with my phone and typed *how does a shield wall actually hold* into the search bar. The Romans I already knew, shields locked edge to edge with short swords working through the gaps. The armies of the Warring States had drilled their spear and shield ranks until the front could take a charge, and the Vikings had stood shoulder to shoulder with their shields overlapping in one solid row. Different centuries, same idea. *"A line that holds, and something sharp behind it."* I kept my head down and my thumb moving.
+I did the math on the walk across the pavilion. Thirty minutes on the game clock, and it had not stopped when I did. By the time I reached the bathroom at the end of the upstairs hall I had already decided I'd be back under the visor with whatever was left, and the plan I'd promised Sevish was still one sentence long. I sat on the closed lid with my phone and typed *how does a shield wall actually hold* into the search bar. The Romans I already knew, shields locked edge to edge with short swords working through the gaps. The armies of the Warring States had drilled their spear and shield ranks until the front could take a charge, and the Vikings had stood shoulder to shoulder with their shields overlapping in one solid row. Different centuries, same idea. *"A line that holds, and something sharp behind it."* I kept my head down and my thumb moving.
 
 "Hey, Nykri."
 
@@ -34,9 +34,9 @@ I stopped at the top of the stairs and looked back at her over my shoulder. "Pot
 
 She blinked, and then she laughed once, short and surprised, the smirk finally getting somewhere. "Okay. Fair."
 
-"I'm good, though." I took the steps down two at a time, the way a person walks something off, and she followed.
+"I'm good, though." I started down the black staircase, the way a person walks something off, and stopped on the second step. Leon and the inspector were in the lounge at the bottom, and I didn't want to explain her to either of them. I turned around and went back up and into the pod room instead, and she followed.
 
-At the bottom the pod room smelled of warm plastic and solder. The lid of the pod stood open, and the operator desk was lit by the monitor Leon had left running. Nobody else was there, and Arya still kept her voice low and close behind my shoulder, out of habit.
+The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor under the amber lantern lamps, brick behind them and the mezzanine stair lost in the shadows, the lid of the working one still open. The operator desk sat at floor level right in front of them, lit by the monitor Leon had left running. Nobody else was there, and Arya still kept her voice low and close behind my shoulder, out of habit.
 
 "I can seriously help you. A guild adds weight, and you don't have any right now."
 
@@ -174,7 +174,7 @@ I drew the trail running down from the top, and fifteen paces below the crest I 
 
 --------
 
-"Six on clubs and shields at the top, locked edge to edge, the way the Vikings stood." I looked at Sevish. "Behind them, five of your best on bows. The bows don't shoot when they feel like it. They shoot when you call it, chief, one volley every fifteen seconds, from the moment they come in range. The raiders never get a breath to plan. If they've got an enchanter, he burns his mana on wards, and if they've got a mage, she burns hers answering."
+"Six on clubs and shields at the top, locked edge to edge, the way the Vikings stood. Shield on the off hand, club in the other. They raise the shields together, and when it's time to swing they drop them together and swing in one motion. A club doesn't stab through the cracks, so the swing is all they have." I looked at Sevish. "Behind them, five of your best on bows. The bows don't shoot when they feel like it. They shoot when you call it, chief, one volley every fifteen seconds, from the moment they come in range. The raiders never get a breath to plan. If they've got an enchanter, he burns his mana on wards, and if they've got a mage, she burns hers answering."
 
 Sevish grunted. "Fifteen."
 
