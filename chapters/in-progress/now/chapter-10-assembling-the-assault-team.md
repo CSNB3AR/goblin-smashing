@@ -58,39 +58,19 @@ A small marker with his name appeared on the mini-map in the corner of my vision
 
 "Kesh go," Kesh said, already off his barrel, and ducked out after Ru.
 
-Zinka stepped up to the near side of the table, on my right, and set one finger on the map where the hill met the road. "It began on the east patrol line. A patrol of three, hit before they saw anyone. Two scouts went in to learn what we faced and were taken the same way. Kesh and I came at it from different routes, and that is the only reason we are still standing. We dodged a few of their strikes, and we watched." Her finger moved to the shoulder of the road. "Four of them, in a red tent set at an angle to the track, so anything climbing or descending is in their sight. They do not push uphill. They take whoever comes within reach. One of them drags a single one of us out of the line, a second locks him in place, and the other two finish him before the rest can reach him. Their casters keep some kind of ward on the ground around them. Anyone of ours who stepped near it grew weaker and slower, as though the strength was being drawn out of us." She looked at the map, not at us. "After the second scout fell, they stopped. I think they had spent their magic. That is why they did not chase Kesh and me, and why we reached camp with a report at all. Twice now they have gone into that tent spent and come out with the caster whole again. I cannot account for it. They went back in about five minutes ago and have not come out."
+Zinka stepped up to the near side of the table, on my right. "Four of them in a red tent on the shoulder of the road," she said, and set one finger on the map. "Do not go near that tent. Something is wrong around it. When we crept close to see who they were, before they ever struck, we grew weaker and slower with every step. That is how the patrol was taken, and the two scouts after them. Kesh and I came from different routes, and that is the only reason we got away."
 
-"A caster in the party, and a ward around it," I said slowly. "That explains how they've been taking us one at a time." My eyes moved from her finger on the map to Sevish's face and back. "And the tent isn't random either. There's one road down from this camp, and whoever sits on it decides who leaves."
+"That explains how they've been taking us out one at a time," I said. "And the tent isn't randomly placed either. Whoever they are, they knew exactly what they were doing."
 
---------
+Wyx's head turned, her amber eyes narrowing.
 
-Wyx's head turned sharply, her amber eyes narrowing with something close to interest. "You have seen it."
+It felt oddly like the situation Aogiri found itself in at Thornwatch. I wasn't going to let that happen to us.
 
-"I didn't have to see it. They didn't choose that spot for the view."
+"Thank you, Zinka," Sevish said.
 
-**[AFFILIATION: THRASH CLAN - 45% → 47%]**
+"Go and join Ru and Kesh," Wyx said. "Follow his instructions."
 
-One way in, one way out. It felt awfully like what Aogiri went through at Thornwatch, trapped in that hall while London Spire bled them through a single breach. I wasn't going to sit here and let that happen to us.
-
-"Thank you, Zinka," Sevish said. "Rott. Nab. Go with her. For this fight you answer to Nykri, and to Ru."
-
-**[FIELD COMMAND: 3 THRASH CLAN AUXILIARIES ASSIGNED]**
-
-**[CALL OF COMMAND: RETURN | SCOUT | CALL TO ARMS]**
-
-Two goblins came off the left wall, past Kesh's empty barrel, a thickset one who grunted and a thin one who nodded. "Rott go," the thick one said. "Nab carry," the thin one said, and hefted a coil of rope without being asked.
-
-Wyx crossed to the crate against the right wall, shoved the lid back, and dug through it with the unhurried efficiency of someone who had done it a hundred times. "We cannot have the one Shiv marked walking out there looking like he crawled out of a ditch," she said, and tossed me a bundle of brown leather. "Zinka, join Ru and Kesh. Help him organize every goblin on that line, and follow his instructions. Ru is still in charge out there."
-
-"Yes, Wyx," Zinka said, and went out with Rott and Nab behind her.
-
-**[ITEM RECEIVED: COMMON GOBLIN LEATHER CHEST (+1 ENERGY)]**
-
-**[ITEM RECEIVED: COMMON GOBLIN BOOTS]**
-
-The chest piece went over my head and settled on my ribs, stiff and smelling of oil, and I pulled the straps tight myself. The boots fit better than they had any right to. I wiggled my toes against the leather, the raw soles finally closed in, and for the first time since I'd woken up in that body I had something under my feet that wasn't dirt.
-
-*"Shoes. Finally."*
+"Yes, Wyx," Zinka said, and went out through the flap.
 
 A small yellow exclamation mark had appeared beside Wyx's tag and Sevish's. I focused on Wyx's, and her panel opened with more in it than the night they'd chained me: a few stats filled in, and the skills list unrolled partway and stopped.
 
@@ -104,13 +84,15 @@ A small yellow exclamation mark had appeared beside Wyx's tag and Sevish's. I fo
 
 *"The more I learn about someone, the more the panel gives me. And it only shows what they've shown me."* Sevish's had the same gaps under **[SEVISH THRASH: LV 80 - HOBGOBLIN - BERSERKER]**, and the same line sat at the top of it. *"Challenging Howl. The roar that pinned me to the dirt the first night, and Wyx has it too. That could come in handy."*
 
-When I looked up, Sevish had lifted his axe out of the chair. He rolled his shoulders once, slow, and the lantern flame leaned away from him. He was done sitting.
+--------
+
+When I looked up, Sevish had lifted his axe from the chair arm. He rolled his shoulders once, slow, and the lantern flame leaned away from him. He was done sitting.
 
 "Enough talk," he said. "I take this axe down that road and the best I have behind me, and Wyx beside me. We have the numbers. We end it before the torches burn out."
 
-"You'd win," I said. "I don't doubt it for a second. But neither of us can read how strong they are. Some of those four could be old hands, far stronger than they look. We don't know if they have reinforcements or what stands behind them. Someone as strong as you cutting them down this early, with the whole clan at your back, and word of it travels. The next ones to come won't be four."
+"You'd win," I said. "I don't doubt it. But we don't know how strong those adventurers are. They have a ward and a caster, and they could be weak or far stronger than they look. We can't tell, because nobody got close enough to scout without being struck and having to run. We know almost nothing. If we go down there with the few we have and they're stronger than us, what if we don't come back up? That's the risk, going in without a plan that doesn't put every life we have in jeopardy."
 
-"There is also the camp," Wyx said. She laid one hand flat on the map beside the stakes. "Brother and I are the walls. Anyone who passes the outer stakes meets me. If I fail, they meet you. If the two of us go down that road, the stakes hold nothing."
+"There is also the camp," Wyx said. She rested one hand on the map beside the stakes. "Brother and I are the walls. Anyone who passes the outer stakes meets me. If I fail, they meet you. If the two of us go down that road, the stakes hold nothing."
 
 "So what would you have me do?" Sevish's voice dropped, and the anger came up under it, slow and heavy. "Sit back and let those bastards bleed us out?"
 
@@ -118,9 +100,9 @@ When I looked up, Sevish had lifted his axe out of the chair. He rolled his shou
 
 "One of your own," Sevish said.
 
-"Ru. Last I checked, Shiv put him under my calling. You heard him. He hopes his brothers are all right. He says we have already lost so many." I put my palms on the table. "If we all charge down there, whether you or me or Wyx or Ru himself survives, that doesn't mean the others will. What do we go back to then? How do we take Myrrhwood back with a warband this small? We hold, we see what they can do, and we hit them from two sides. We lose nobody for nothing."
+"Ru. Last I checked, Shiv put him under my calling. He's also a member of Thrash, the same one two of your enforcers nearly pummeled." I put my palms on the table. "I'm not trying to split the clan or take it from you. But this is what Shiv was talking about, the fighting among ourselves. There has to be a way to handle this without putting everyone's lives in jeopardy. You might win that fight, Sevish. Can the ones you just sent to hold those walls say the same? We hold, we see what they can do, and we hit them from two sides."
 
-Nobody spoke. Wyx crossed her arms, and the corner of her mouth moved, though she said nothing. A notification flashed in the corner of my eye and I let it.
+Sevish didn't answer. His hand had stopped on the haft, and for a long moment the only sound in the tent was the lantern ticking against the pole. Wyx crossed her arms, and the corner of her mouth moved, though she said nothing. A notification flashed in the corner of my eye and I let it.
 
 **[AFFILIATION: WYX THRASH - 52% → 55%]**
 
