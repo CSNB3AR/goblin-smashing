@@ -4,7 +4,7 @@ The lamp smeared into one long white line, the world went out, and the pod lid h
 
 The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I untied my locs, still dragging at the back of my neck from the visor strap, and twisted them up again, then took the last stall and sat down with my phone. My drive synced the world map to the HGO app, with a pin where I'd logged off, and I dragged it until the camp sat in the middle of the screen, the hill, the road below it, the cliff behind. Then I pulled up a few diagrams beside it. The plan was only a rough shape in my head: a fight up front to hold their eyes, and a strike from somewhere they weren't looking. I could name two people I'd take down the back with me. I ran the gas through it, the stuns, what happened if one of them resisted, and every time I reached the end the same hole stayed open. I needed something I didn't have yet, and I couldn't say what.
 
-When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer, white hair in a messy bun, ink running down both forearms to the wrist, her eyes on her own phone. I walked past the desk toward the pod without looking at her.
+When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer and her eyes on her own phone. *"Leon knew about my clock, so he sent her up to cover the pod."* I walked past the desk toward the pod without looking at her.
 
 "Hey, Nykri."
 
@@ -20,7 +20,7 @@ She blinked, and then she laughed once, short and surprised. "Okay. Fair."
 
 "I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough to settle it." She nodded at the pod, its lid still open under the amber lantern lamps. "It didn't take long. He only had to program a few things and re-download a few things, so you can hop back in about ten minutes. Everything's rebooting right now. And your stream got big while you were out. People are talking about the world quest, London Spire and some of the other big guilds included."
 
-The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor, brick behind them and the mezzanine stair lost in the shadows, the operator desk at floor level in front of them with the monitor Leon had left running. Nobody else was there, and Arya stood up and came around the desk and stopped close.
+The pod room smelled of warm plastic and solder, the two pods standing dark under the lantern lamps. Nobody else was there, and Arya stood up and came around the desk and stopped close.
 
 She crossed her arms and looked me directly in the eyes, tilting her head back to do it. "Can you make a guild with me?"
 
@@ -82,7 +82,7 @@ She grinned, a real one for the first time, and clapped her hands once. "Okay. T
 
 "What are you running?"
 
-"Elf, Spellforger, level ten." She counted it off on her fingers, and something in my head clicked into place, the hole I hadn't been able to close in that bathroom stall. "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
+"Elf, Spellforger, level ten." She counted it off on her fingers, and something in my head clicked into place, the hole I hadn't been able to close in that bathroom stall. *"A Spellforger. Anyone else and I'd have kept saying no."* "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
 
 "Can you cast Hushveil?"
 
