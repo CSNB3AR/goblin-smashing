@@ -37,3 +37,7 @@ Canon says only that the other clans are fractured, warring and barred from vill
 | **Ravager bands** | Ravager | None by default. Reserved for scenes that need a true horror |
 
 Gold NPCs in other clans must be written individually: a gentle goblin can live in a broken clan, and a cold one in Thrash. Beastfolk claims about goblin territory stay goblin rumor until a player goes to see.
+
+## Alignment by path (author-stated, latest; ledger only, never said on the page)
+- Goblinoids are chaotic neutral by nature. A goblin who has gone fully feral is chaotic evil. A goblin who stands where Shiv stands (unity, no fighting among ourselves) is chaotic neutral. Thrash is the clan that refuses the feral label; it is one seed among ferals who do not care.
+- Sevish is chaotic neutral but bleeds toward chaotic evil because of the constant fighting; that is his personality, not a plan. He will test a challenger, he contests everything with his fighting spirit, but he will never fight Shiv or disobey him. Wyx is the code the clan runs on and the brains; she shows the most human-like interest in Tatsuya's choices.

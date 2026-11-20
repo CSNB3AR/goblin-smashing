@@ -52,7 +52,7 @@ I glanced back. A lean goblin girl had slipped in, dust on her knees, a wrap of 
 
 Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
 
-Keeping Wyx here was probably ideal. She was the most experienced of us, but someone else could get the line moving, and my first thought was Ru.
+Both leaders needed to hear this. Sevish was the top dog and Wyx was the one who made the clan run, and nothing I said would stick unless the two of them heard it together. Someone else could get the line moving, and my first thought was Ru.
 
 "Ru can go and assist," I said, and looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "With so many of us down and so many in here talking, there's hardly anyone on the line. If they pushed now, we'd be finished. The more hands out there, the better."
 
@@ -98,7 +98,9 @@ Sevish had lifted his axe from the chair arm. He rolled his shoulders once, slow
 
 "I take counsel from my sister and my elders," he went on. "You are neither."
 
-I lifted the Call of the Bones necklace from my chest. Nobody in that camp had met Shiv, but they all knew what he looked like, and the bones and my white hair should be enough to show the resemblance.
+Wyx leaned forward a fraction, her eyes going from her brother to me and back.
+
+I lifted the Call of the Bones necklace from my chest. Nobody in that camp had met Shiv, but its color told them whose disciple wore it, and my white hair backed it up.
 
 "Neither," I said. "But I'm the only one in recent history who's gained Shiv's blessing. No one in this camp can say they've met him except me. It's the same reason he reached out to me in the first place. The fighting among our own is already starting here. What do you think is happening back in Myrrhwood? What do you think the rest of the world sees when it looks at us? If we really mean to do what Shiv asked, to unify and show the other races we mean business and aren't feral, we can't start by throwing our own away." I put my palms on the table. "I'm hearing out Ru, because Shiv put him under my calling and he's Thrash, the same one two of your enforcers nearly pummeled. You might win that fight yourself, Sevish. Can the ones you sent to hold the walls?"
 
