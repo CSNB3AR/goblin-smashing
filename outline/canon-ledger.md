@@ -1337,3 +1337,14 @@ AUTHOR-STATED:
 - Chain Lightning with Protective Lightning: she thinks she knows Chain Lightning; Tatsuya asks if she read it all the way. Chain Lightning also bounces off allies who can conduct (allies with mana; goblins with MP count, Tatsuya has MP). Protective Lightning means it does not hurt them (at worst a short slow, covered by the mist buff). She can use allies as conductors when the target is out of range, and she sees allies inside the mist on the mist's minimap radar.
 
 OPEN (asked of the author): ground count 9 or 10 (does Zinka count in the strike unit, does Kesh hold the line); agility boost in sporadic only or both casts; Arya level (default 10).
+
+## Rune Priming: how it works on the page (author, latest) SUPERSEDES the "automatic dice check" ruling
+
+AUTHOR-STATED:
+- No random dice shown on the page. A rune is drawn by hand. He opens his spell details, studies the glyph's display, and has to recreate it in the sand in front of the tent, with the right proportions. It takes real time and a Perception-style check lives underneath it, but the reader only sees him drawing and getting the shape wrong.
+- Because he has never used it, he must learn how to hold the proportions with his hands. He gets the design wrong twice. Each wrong attempt costs MP. Three attempts can wipe out his MP, so the MP cost per attempt is chosen to show that.
+- This rune is a base arcana rune: a triangle of jagged, claw-like points drawn as one line, where the triangle does not connect at its points.
+- Same logic for crafting: insignias must be drawn, which is why high enchantments are hard. He will get faster with practice.
+- The page so far (Chapter Nine) only shows `[ABILITY GRANTED: RUNE PRIMING]`, no details, so Chapter Eleven is where the mechanic is first shown.
+
+PROPOSAL (to be confirmed): 10 MP per attempt, so three attempts are 30 of his 32 MP (the Barrage's 25 MP trigger already leaves a sliver; here he has 2 MP left). Fail twice, land the third inside Arya's ten-second whistle window. No 3-second channel and no dice message.
