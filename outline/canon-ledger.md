@@ -1406,3 +1406,5 @@ AUTHOR-STATED: five on the hill with clubs and shields, five rookie archers (ten
 
 ## Kesh the best archer (author, latest)
 AUTHOR-STATED: Kesh is probably the best of the five archers; he was with the scouting group, so he already uses a bow, even though his vocabulary is limited (third person, short). Written into Chapter Eleven: he is the one who can hit a barn, and the others shoot when Kesh shoots, on Sevish's call. Wyx, Zinka, Ru unchanged.
+
+CORRECTION to the Kesh entry above (author, latest): Kesh is NOT the best archer overall. He is one of the best of the rookie archers on the hill, because he was on the scouting team and used a bow. Zinka and other scouts are better. Written into Chapter Eleven.
