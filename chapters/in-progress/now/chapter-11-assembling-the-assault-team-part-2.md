@@ -115,18 +115,23 @@ The tent was cold when the world came back, the lamp low and the canvas shifting
 **[TIME LIMIT: 01:05:00]**
 **[RETURN TO THE CENTER OF CAMP: 00:05:00]**
 
-Shiv's level jump had left four ability points sitting unspent under the clock, and I'd been too busy to touch them. I had maybe ninety seconds. *"Two things I can't go down that hill without."* The first was in the bow tree, the only branch I'd ever open, and only for one skill. I'd watched archers take it at the first tier and shrug, and I'd watched a mage stand inside a fog with it and see the whole fight.
+Shiv's level jump had left four points sitting unspent under the clock, and I'd been too busy to touch them. I had maybe ninety seconds. *"Wisdom first. Everything I own runs on it."* Two points went into Wisdom, one into Fortune for the earring, and one into Speed, because a goblin who couldn't move had no business on a rope.
 
-**[FARSIGHT: LONG-RANGE VISION]**
-**[POINTS SPENT: 2]**
+**[WISDOM +2] [FORTUNE +1] [SPEED +1]**
 
-The canvas seemed to slide away from me. I could see the torches along the east line, the stakes under them, the shape of a goblin's ear at a hundred paces, and I blinked until it settled. The second pair of points went into the earring. I pulled the Gambit up on the panel, found the line that had been grayed out since the night I put it on, and spent the last two.
+The jump had also unlocked a new line on the earring, and I pulled the Gambit up to read it.
 
 **[GAMBLER'S GAMBIT: DAMAGE MODIFIER UNLOCKED]**
 **[ROLL OF 6: POWER SURGE]**
 **[ROLL OF 1: ITEM BREAKS. DEBUFF: SLOWED, WEAKENED]**
 
-I read the last line twice. *"A one doesn't just fail. It breaks whatever I rolled on and leaves me slow and weak in the middle of a fight."* I'd always known the earring was a gamble. This was the first time the price was a number I could see. I closed the panel and ran.
+I read the last line twice. *"A one doesn't just fail. It breaks whatever I rolled on and leaves me slow and weak in the middle of a fight."* I'd always known the earring was a gamble. This was the first time the price was a number I could see.
+
+One skill point was left. I opened the bow tree, the only branch I'd ever touch, and went to the single skill in it I wanted. I'd watched archers take it at the first tier and shrug, and I'd watched a mage stand inside a fog with it and see the whole fight.
+
+**[EYES OF THE EAGLE: LONG-RANGE VISION]**
+
+The canvas seemed to slide away from me. I could see the torches along the east line, the stakes under them, the shape of a goblin's ear at a hundred paces, and I blinked until it settled. I closed the panel and ran.
 
 --------
 
@@ -142,7 +147,7 @@ I slowed half a step and caught a stake to keep my balance. *"The march didn't h
 
 "Copy," Leon said. "Stream's still off."
 
-I reached the fire pit with a little over four minutes on the clock. They were all there. Sevish stood at the head of the circle with his axe grounded and his arms folded, Wyx at his left with her amber eyes already on me. Kesh, Ru and Zinka waited in front of them, and behind them ten goblins in the same club and round shield stood in a loose half circle, trying not to look afraid.
+I reached the fire pit with a little over four minutes on the clock. They were all there. Sevish stood at the head of the circle with his axe grounded and his arms folded, Wyx at his left with her amber eyes already on me. Kesh, Ru and Zinka waited in front of them, and behind them nine goblins in the same club and round shield stood in a loose half circle, trying not to look afraid.
 
 "You are on time," Wyx said, the half-smile thin.
 
@@ -158,7 +163,7 @@ Ru stood very straight, one hand clamped around the other. Zinka only nodded onc
 
 "Good." I turned back to the dirt. "Now the hill. This is the part that matters."
 
-I drew the trail running down from the top, and fifteen paces below the crest I made two short rows of marks, three on each side. "Stakes, here. Three on the left of the trail and three on the right, set at an angle, points down the hill at whoever comes up. Between them, a gap as wide as the trail." *"Dash, space, dash."* "Then a second set, about seven paces above the first, built the same way."
+I drew the trail running down from the top, and twelve yards below the camp I made two short rows of marks, three on each side. "Stakes, here. Three on the left of the trail and three on the right, set at an angle, points down the hill at whoever comes up. Between them, a gap as wide as the trail." *"Dash, space, dash."* "Then a second set, six yards from the camp, built the same way."
 
 "They will see a path," Wyx said, tilting her head. "And they will walk it."
 
@@ -166,7 +171,7 @@ I drew the trail running down from the top, and fifteen paces below the crest I 
 
 --------
 
-"Six on clubs and shields at the top, locked edge to edge, the way the Vikings stood. Shield on the off hand, club in the other. They raise the shields together, and when it's time to swing they drop them together and swing in one motion. A club doesn't stab through the cracks, so the swing is all they have." I looked at Sevish. "Behind them, five of your best on bows. The bows don't shoot when they feel like it. They shoot when you call it, chief, one volley every fifteen seconds, from the moment they come in range. The raiders never get a breath to plan. If they've got an enchanter, he burns his mana on wards, and if they've got a mage, she burns hers answering."
+"Five on clubs and shields at the top, locked edge to edge, the way the Vikings stood. Shield on the off hand, club in the other. They raise the shields together, and when it's time to swing they drop them together and swing in one motion. A club doesn't stab through the cracks, so the swing is all they have." I looked at Sevish. "Behind them, five rookies on bows, the best you've got. The bows don't shoot when they feel like it. They shoot when you call it, chief, one volley every fifteen seconds, from the moment they come in range. The raiders never get a breath to plan. If they've got an enchanter, he burns his mana on wards, and if they've got a mage, she burns hers answering."
 
 Sevish grunted. "Fifteen."
 
