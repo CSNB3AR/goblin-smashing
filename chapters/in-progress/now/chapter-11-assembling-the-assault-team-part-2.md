@@ -6,55 +6,47 @@ I did the math on the walk across the pavilion. Thirty minutes on the game clock
 
 "Hey, Nykri."
 
-My thumb froze mid-scroll. I looked up fast enough to feel it in my neck, and a pair of gray eyes was already waiting for me. She stood in the doorway with one shoulder against the frame, white hair in a messy bun, ink running down both forearms to the wrist, a half-smirk that didn't reach the rest of her face.
-
-"How do you know that name?" I stayed on the lid, phone in my hand.
-
-"I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough downstairs to settle it."
-
-She jerked her thumb at the stairs. "He's still down in the lounge with the inspector. He said you can get back on whenever you're ready, and I'm the one who's supposed to start the pod."
-
-"Okay. So you watched." I got up, because sitting down made me feel like I was the one being interviewed. "What do you want?"
-
-"Would you create a guild with me?" She said it flat, hands loose at her sides, no run-up. "Not join your team. A guild, you and me founding it."
-
-I stared at her. "You're serious."
-
-"My last one had three leaders, and two of them cared more about the stream than the match." Her fingers moved while she talked, a quick flick toward the floor, a fist, an open palm. "I want one where the match is the point. You've got four raiders on your hill and a camp full of NPCs, and I can read a fight."
-
-I stepped past her into the hall. *"Guild. With her. I don't even have a team."*
+I was already out of the bathroom by then, walking back across the pavilion with my head down and my thumb still moving, and the name slid right past me. Nobody in the real world had ever called me that. I kept walking toward the pod room.
 
 "Hey man, I'm talking."
 
-"Heard you." I kept walking toward the stairs.
+"Please, listen." Boots on the boards behind me, quick. "Why are you ignoring me?"
 
-"Please, listen." She fell in a step behind me, close enough that I could hear her boots on the boards. "Why are you ignoring me?"
+I stopped in the pod room doorway and looked back at her over my shoulder. "Pot calling the kettle black. You gave me that same energy when I first walked in."
 
-I stopped at the top of the stairs and looked back at her over my shoulder. "Pot calling the kettle black. You gave me that same energy when I first walked in."
+She blinked, and then she laughed once, short and surprised. "Okay. Fair."
 
-She blinked, and then she laughed once, short and surprised, the smirk finally getting somewhere. "Okay. Fair."
+She stood in the hall with one shoulder against the frame, white hair in a messy bun, ink running down both forearms to the wrist, a half-smirk that didn't reach the rest of her face. I turned all the way around.
 
-"I'm good, though." I started down the black staircase, the way a person walks something off, and stopped on the second step. Leon and the inspector were in the lounge at the bottom, and I didn't want to explain her to either of them. I turned around and went back up and into the pod room instead, and she followed.
+"How do you know that name?"
 
-The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor under the amber lantern lamps, brick behind them and the mezzanine stair lost in the shadows, the lid of the working one still open. The operator desk sat at floor level right in front of them, lit by the monitor Leon had left running. Nobody else was there, and Arya still kept her voice low and close behind my shoulder, out of habit.
+"I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough downstairs to settle it." She jerked her thumb at the stairs. "He's still down in the lounge with the inspector. He said you can get back on whenever you're ready, and I'm the one who's supposed to start the pod."
 
-"I can seriously help you. A guild adds weight, and you don't have any right now."
+The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor under the amber lantern lamps, brick behind them and the mezzanine stair lost in the shadows, the lid of the working one still open. The operator desk sat at floor level right in front of them, lit by the monitor Leon had left running. Nobody else was there, and Arya came in after me and stopped close, in front of the desk.
 
-"That's good to hear." I turned around and gave her a polite nod, the kind I'd give a cashier. "Not interested, thanks."
+She crossed her arms and looked me directly in the eyes. "Can you make a guild with me?"
 
-"I have information." She stepped around to where I could see her face. "About Thornwatch. I've got sources, nothing confirmed, only rumors. But it's going to be guild-based, Nykri. Whoever walks in there without one walks in as a free kill."
+*"A guild. With me?"* The thoughts ran over each other. *"Why ask me? Is it the quest? It can't be random, but we've barely talked. Yes, I'm working with her brother, and that's it."* I could feel my face doing something dumbfounded, and I didn't try to stop it.
 
-I didn't repeat a word of it. *"Guild-based. That's the second time somebody's said it."* If it was true, then a guild was either the best thing I could own or the fastest way to get every other guild in Tokyo pointing at me. I couldn't tell which, and I didn't answer on a guess.
+"Why me?" I said.
 
-"No," I said.
+"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "Plus I have information. I've been playing this game a very long time."
 
-The smirk went out of her face all at once. Her hands stopped moving, and I realized that was the first time I'd seen them still.
+It came out confident, a touch cocky, and it reminded me of Eren so hard I could almost hear his voice under hers. She wasn't being rude. I knew that. But I'd been burned by that exact tone once, and my body took it the way it had learned to.
 
-"Please, just hear me out." She said it quietly, glancing once toward the stairs. "I wouldn't ask someone random to form a guild with me. I've been watching your stream. When I noticed my brother was actually helping you, I thought, okay, this is real. I'm sorry if I came off rude. I'm in a really bad spot."
+"No, I'm okay." I held up a hand, polite. "I already have a plan. I've got everything figured out. I appreciate it."
 
-I waited, because she wasn't done.
+I turned toward the pod.
 
-"I was texting my mom when you got here." Her thumb scraped the ink on her wrist, back and forth. "If I don't make it in this game, I have to leave my brother and everything here. We both rely on HGO to figure something out. I'm not asking you to like me. I'm asking you to let me be useful."
+"Please, hear me out."
+
+She said it quietly, and I stopped with my hand on the pod's edge. When I looked back, the smirk was gone and her arms had come uncrossed.
+
+"I have a lot riding on this." Her thumb scraped the ink on her wrist, back and forth. "And trust me, the last thing I'd ever want to do is randomly ask a person I've never met to create a guild with me. But I've been watching your stream for the last forty minutes. I've seen what you can do. The conversations you've had with those NPCs, I haven't seen anything like that, and I've been playing for a long time." She took a breath. "Being a professional player with a professional guild means everything to me right now. It's my only way to stay in Japan. My mom and dad want me in America, and if I'm making real money, I can fight them on it. I was texting my mom when you got here."
+
+I didn't say anything, because she wasn't finished.
+
+"And honestly? The world quest, I don't care about." She shrugged, a little helplessly. "But I have information about the event at the end of the month, and it's going to take numbers. Every build gets monitored, and yours is the only one I've never seen anyone play. Something like that raises our odds in Thornwatch Forest. I'm willing to do anything."
 
 I scratched at my thin goatee, the habit I couldn't shake whether I was in the game or out of it. Four raiders in a red tent that drained anyone who crept close, and I'd be walking down a hill with two goblins I'd known for a day. *"I can't afford to die. And I don't know what's down there."* Arya had been through a real guild fight, and she'd read one better than any NPC I could point at. I looked at the ink on her wrist, at the way she was holding her own arm to keep from fidgeting, and I thought about how long she'd been carrying this by herself.
 
