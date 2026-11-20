@@ -1,38 +1,36 @@
 # Chapter Eleven: Assembling the Assault Team, Part Two
 
-The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. Leon already had the inspector halfway out the door, one hand on the man's elbow, steering him toward the stairs down to the lounge. "I'll be downstairs finishing the paperwork with VRSA," he said over his shoulder. "Ten minutes. Arya can start the pod back up when you're ready."
+The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. The inspector was already at the side panel with his tablet, and Leon stood over him with one hand on the desk. "Give us ten minutes or so," Leon said, not looking up. "He has to reprogram a few things."
 
-I did the math on the walk across the pavilion. Thirty minutes on the game clock, and it had not stopped when I did. By the time I reached the bathroom at the end of the upstairs hall I had already decided I'd be back under the visor with whatever was left, and the plan I'd promised Sevish was still one sentence long. I sat on the closed lid with my phone and typed *how does a shield wall actually hold* into the search bar. The Romans I already knew, shields locked edge to edge with short swords working through the gaps. The armies of the Warring States had drilled their spear and shield ranks until the front could take a charge, and the Vikings had stood shoulder to shoulder with their shields overlapping in one solid row. Different centuries, same idea. *"A line that holds, and something sharp behind it."* I kept my head down and my thumb moving.
+The upstairs bathroom was at the far end of the pavilion. I locked the door and sat on the closed lid with my phone, and my locs, still dragging at the back of my neck from the visor strap, got twisted up and tied before I did anything else. History was the one class I had never skipped. The day I figured out what kind of game HGO was, a game built on war, I'd started drawing formations in the margins of everything, and for months I never got a chance to try one, because the bills always came first. Tonight I wasn't learning anything new, only checking the details. I typed *angle of stakes against an uphill charge* into the search bar, then *how a shield line rotates under pressure*, and read until the numbers matched what I'd already drawn.
+
+Ten minutes later I walked back across the pavilion with the phone in my hand. Leon was already at the pod room door with the inspector's case on his shoulder, and he gave me a short nod that said Arya had it from here, and kept walking. The inspector had gone ahead of him down the stairs. Arya stood at the operator desk with her weight on one hip, white hair in a messy bun, ink running down both forearms to the wrist.
 
 "Hey, Nykri."
 
-I was already out of the bathroom by then, walking back across the pavilion with my head down and my thumb still moving, and the name slid right past me. Nobody in the real world had ever called me that. I kept walking toward the pod room.
+The name breezed over me because I wasn't used to hearing it, and I took two more steps before it landed.
 
 "Hey man, I'm talking."
 
-"Please, listen." Boots on the boards behind me, quick. "Why are you ignoring me?"
-
-I stopped in the pod room doorway and looked back at her over my shoulder. "Pot calling the kettle black. You gave me that same energy when I first walked in."
+I stopped and turned. "Pot calling the kettle black. You gave me that same energy when I first walked in."
 
 She blinked, and then she laughed once, short and surprised. "Okay. Fair."
 
-She stood in the hall with one shoulder against the frame, white hair in a messy bun, ink running down both forearms to the wrist, a half-smirk that didn't reach the rest of her face. I turned all the way around.
+"How do you know that name?" I asked.
 
-"How do you know that name?"
+"I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough to settle it." She nodded at the pod, its lid still open under the amber lantern lamps. "It didn't take long. He only had to program a few things and re-download a few things, so you can hop back in about ten minutes. Everything's rebooting right now. And your stream got big while you were out. People are talking about the world quest, London Spire and some of the other big guilds included."
 
-"I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough downstairs to settle it." She jerked her thumb at the stairs. "He's still down in the lounge with the inspector. He said you can get back on whenever you're ready, and I'm the one who's supposed to start the pod."
+The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor, brick behind them and the mezzanine stair lost in the shadows, the operator desk at floor level in front of them with the monitor Leon had left running. Nobody else was there, and Arya came around the desk and stopped close.
 
-The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor under the amber lantern lamps, brick behind them and the mezzanine stair lost in the shadows, the lid of the working one still open. The operator desk sat at floor level right in front of them, lit by the monitor Leon had left running. Nobody else was there, and Arya came in after me and stopped close, in front of the desk.
+She crossed her arms and looked me directly in the eyes, tilting her head back to do it. "Can you make a guild with me?"
 
-She crossed her arms and looked me directly in the eyes. "Can you make a guild with me?"
-
-*"A guild. With me?"* The thoughts ran over each other. *"Why ask me? Is it the quest? It can't be random, but we've barely talked. Yes, I'm working with her brother, and that's it."* I could feel my face doing something dumbfounded, and I didn't try to stop it.
+I crossed my arms too, without deciding to, and I could feel my face doing something dumbfounded. We had barely spoken. Yes, I was working with her brother, and that was all.
 
 "Why me?" I said.
 
-"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "Plus I have information. I've been playing this game a very long time."
+"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I have information, too. I've been playing this game a very long time, and a legacy account can still drag a few friends up your hill for loot."
 
-It came out confident, a touch cocky, and it reminded me of Eren so hard I could almost hear his voice under hers. She wasn't being rude. I knew that. But I'd been burned by that exact tone once, and my body took it the way it had learned to.
+It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't being rude. I knew that. But I'd been burned by that exact tone once, and my body took it the way it had learned to.
 
 "No, I'm okay." I held up a hand, polite. "I already have a plan. I've got everything figured out. I appreciate it."
 
@@ -46,9 +44,9 @@ She said it quietly, and I stopped with my hand on the pod's edge. When I looked
 
 I didn't say anything, because she wasn't finished.
 
-"And honestly? The world quest, I don't care about." She shrugged, a little helplessly. "But I have information about the event at the end of the month, and it's going to take numbers. Every build gets monitored, and yours is the only one I've never seen anyone play. Something like that raises our odds in Thornwatch Forest. I'm willing to do anything."
+"And honestly, the world quest, I don't care about." She shrugged, a little helplessly. "But I have information about the event at the end of the month, and it's going to take numbers. Every build gets monitored, and yours is the only one I've never seen anyone play. Something like that raises our odds in Thornwatch Forest. I'm willing to do anything."
 
-I scratched at my thin goatee, the habit I couldn't shake whether I was in the game or out of it. Four raiders in a red tent that drained anyone who crept close, and I'd be walking down a hill with two goblins I'd known for a day. *"I can't afford to die. And I don't know what's down there."* Arya had been through a real guild fight, and she'd read one better than any NPC I could point at. I looked at the ink on her wrist, at the way she was holding her own arm to keep from fidgeting, and I thought about how long she'd been carrying this by herself.
+I scratched at my thin goatee. Four raiders in a red tent that drained anyone who crept close, and I'd be walking down a hill with two goblins I'd known for a day. I thought about how long she'd been carrying this by herself, and I let my arms drop.
 
 "Okay," I said. "Yes."
 
@@ -96,7 +94,7 @@ For a second I thought she'd walk. Then she groaned and dragged a hand down her 
 
 "Ten seconds. Got it."
 
-Footsteps came up from the lounge, and Leon walked in with his glasses slipping down his nose and a signed readout folded in one hand. "Inspector's gone. He says don't run the stream at that draw again." He looked at the clock on his monitor and winced. "Ten minutes was a lie. It's been twenty-five."
+Footsteps came up from the lounge, and Leon walked in with his glasses slipping down his nose and a signed readout folded in one hand. "Inspector's gone. He says don't run the stream at that draw again." He looked at the clock on his monitor and winced. "The reboot ran long. It's been twenty-five minutes since you came out."
 
 I did the math with my stomach. Five minutes left on the return clock.
 
