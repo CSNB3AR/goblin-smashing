@@ -2,15 +2,15 @@
 
 The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. The inspector was already at the side panel with his tablet, and Leon stood over him with one hand on the desk. "Give us ten minutes or so," Leon said, not looking up. "He has to reprogram a few things."
 
-The upstairs bathroom was at the far end of the pavilion. I locked the door and sat on the closed lid with my phone, and my locs, still dragging at the back of my neck from the visor strap, got twisted up and tied before I did anything else. History was the one class I had never skipped. The day I figured out what kind of game HGO was, a game built on war, I'd started drawing formations in the margins of everything, and for months I never got a chance to try one, because the bills always came first. Tonight I wasn't learning anything new, only checking the details. I typed *angle of stakes against an uphill charge* into the search bar, then *how a shield line rotates under pressure*, and read until the numbers matched what I'd already drawn.
+The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I untied my locs, still dragging at the back of my neck from the visor strap, and twisted them up again, then took the last stall and sat down with my phone. I'd had a picture in my head for months. Tonight I only needed to check it against what other people had done, so I pulled up page after page of diagrams and old maps and read until what I saw on the screen matched what I'd already drawn.
 
-Ten minutes later I walked back across the pavilion with the phone in my hand. Leon was already at the pod room door with the inspector's case on his shoulder, and he gave me a short nod that said Arya had it from here, and kept walking. The inspector had gone ahead of him down the stairs. Arya stood at the operator desk with her weight on one hip, white hair in a messy bun, ink running down both forearms to the wrist.
+When I came back across the pavilion ten minutes later the pod room was quiet. Leon and the inspector had gone downstairs, and Arya sat at the operator desk with her feet up on an open drawer, white hair in a messy bun, ink running down both forearms to the wrist, her eyes on her own phone. I walked past the desk toward the pod without looking at her.
 
 "Hey, Nykri."
 
-The name breezed over me because I wasn't used to hearing it, and I took two more steps before it landed.
+My feet stopped for half a step. I kept going, and I didn't answer.
 
-"Hey man, I'm talking."
+"Hey man, I'm talking." She set the phone down. "Why are you ignoring me?"
 
 I stopped and turned. "Pot calling the kettle black. You gave me that same energy when I first walked in."
 
@@ -20,7 +20,7 @@ She blinked, and then she laughed once, short and surprised. "Okay. Fair."
 
 "I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough to settle it." She nodded at the pod, its lid still open under the amber lantern lamps. "It didn't take long. He only had to program a few things and re-download a few things, so you can hop back in about ten minutes. Everything's rebooting right now. And your stream got big while you were out. People are talking about the world quest, London Spire and some of the other big guilds included."
 
-The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor, brick behind them and the mezzanine stair lost in the shadows, the operator desk at floor level in front of them with the monitor Leon had left running. Nobody else was there, and Arya came around the desk and stopped close.
+The pod room smelled of warm plastic and solder. The two tall pods stood dark on the open floor, brick behind them and the mezzanine stair lost in the shadows, the operator desk at floor level in front of them with the monitor Leon had left running. Nobody else was there, and Arya stood up and came around the desk and stopped close.
 
 She crossed her arms and looked me directly in the eyes, tilting her head back to do it. "Can you make a guild with me?"
 
