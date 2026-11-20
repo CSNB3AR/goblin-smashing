@@ -10,7 +10,7 @@ My thumb froze mid-scroll. I looked up fast enough to feel it in my neck, and a 
 
 "How do you know that name?" I stayed on the lid, phone in my hand.
 
-"I watched the stream." Arya tipped her head toward the floor below. "Gray skin, white hair, a goblin who talks to himself. Nobody else is running that, and Leon looked guilty enough downstairs to settle it."
+"I watched the stream." Arya tipped her head toward the floor below. "A goblin with gray skin and white hair. Nobody else is running that, and Leon looked guilty enough downstairs to settle it."
 
 "Okay. So you watched." I got up, because sitting down made me feel like I was the one being interviewed. "What do you want?"
 
