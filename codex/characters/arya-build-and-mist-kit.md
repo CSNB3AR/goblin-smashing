@@ -46,3 +46,6 @@ The mist earns her a name. PROPOSAL: viewers and rival guilds call her **the Fog
 
 - She does not talk to him in person during the fight; only whistles (see the mechanics file).
 - Her stat sheet on screen should still read HP 88, SP 44, MP 72. MP is what the mist spends.
+
+## Chapter Eleven draft (author-directed)
+Spellforger destruction, level 10, five points in the opening branch, fifteen unspent since the guild collapse. Tatsuya talks her into Hushveil stage two (three points), the continuous cast and Protective Lightning, and he will not say why: "You'll have to trust me on this one." Her agreement ("Fine...") is tied to the guild. Whistle code unchanged. See `codex/magic/hushveil-mist-mechanics.md`.

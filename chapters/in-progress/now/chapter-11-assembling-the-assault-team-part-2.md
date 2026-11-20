@@ -70,7 +70,7 @@ Her whole body let out the breath. "Then what do you need?"
 
 Her eyes narrowed, the look of someone who already knew the answer and was waiting to hear the trick. "It doesn't deal damage. Fifteen seconds up, thirty seconds down, and it doesn't scale on anything you'd want to scale. I'm not spending fresh points on a spell that doesn't kill things."
 
-"It blinds everyone inside. It mutes them too, so nothing that runs on stamina or mana works in there, and you see where everybody is while it's up." I leaned on the pod's edge with my arms folded. "Lightning conducts through it."
+"It blinds everyone inside, and it mutes them too, so nothing that runs on stamina or mana works in there. You see where everybody is while it's up." I leaned on the pod's edge with my arms folded. "Lightning conducts through it."
 
 "Lightning also hits me, and my friends, and the guy holding the bucket." She shrugged one shoulder. "That's why nobody runs it."
 
@@ -80,15 +80,21 @@ Her eyes narrowed, the look of someone who already knew the answer and was waiti
 
 "Did you read the part where it bounces off anything with mana? Allies included, and with the passive they're fine. You see them in the mist, so you use them as a relay when the target is out of range." I watched her face change. "I'm a goblin, but I have mana."
 
-She was quiet, her tongue pressed against the inside of her cheek, her eyes somewhere past me. "Stormwall was my best field," she said slowly. "And I've never once used a teammate as part of a chain."
+She was quiet, her tongue pressed against the inside of her cheek, her eyes somewhere past me. "My best spell is a fireball," she said slowly. "And I've never once used a teammate as part of a chain."
 
-"I need the continuous version of the mist. The sporadic one gets you fifteen seconds, and that's not enough. The continuous one eats your mana and you can't move while you're holding it, but it stays up as long as you can pay."
+"I need the continuous cast, and I need stage two." I kept my arms folded. "The sporadic one gets you fifteen seconds, and that's not enough. The continuous one eats your mana and you can't move while you hold it, but it stays up as long as you can pay."
 
-"That costs another point." She said it the way people said the price of a bad meal.
+"Stage two is three points by itself." She said it the way people said the price of a bad meal. "Plus the continuous cast, plus the passive. What does stage two even do?"
 
-"Fifteen unspent points since the guild went down." I kept my voice level. "I'd call that a fund."
+"It's what makes the mist work for this." I didn't say more than that, because I couldn't.
 
-For a second I thought she'd walk. Then she groaned and dragged a hand down her face. "Fine. Hushveil, the continuous cast, and Protective Lightning. If you're wrong, you owe me every one of those points."
+"That's not an answer." She dropped her hand and stared at me, hands finally still. "You want me to burn a fistful of points on a fog spell, and you won't tell me why."
+
+"I can't tell you everything." I held her eyes. "You'll have to trust me on this one."
+
+"I've been sitting on fifteen points since the guild went down." She said it flatly, to the ceiling, and then looked back at me.
+
+For a second I thought she'd walk. Then she groaned and dragged a hand down her face. "Fine. Hushveil, stage two, the continuous cast, and Protective Lightning. If you're wrong, you owe me every one of those points, and I'll still want my guild."
 
 "There's no voice chat in the game," I said. "How do I know you're running dry?"
 

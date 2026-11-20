@@ -1,5 +1,7 @@
 # Chapter Eleven (Assembling the Assault Team, Part Two): plan notes
 
+> **UPDATE (author, latest):** the plan below is superseded. Chapter Eleven now ends as the strike unit goes over the edge on rope. The assault is Chapter Twelve (`outline/chapter-12-assault-notes.md`). Hushveil is the skill name. See the ledger sections "Chapter Eleven restructured" and "Skill name fixed".
+
 Everything the author has dictated for the next chapter, in one place, so it does not have to be asked again. Ledger entries still hold the detail; this is the working order. Names for the raiders and the crit-fail rule are ledger only, never on the page.
 
 ## Clock and state when it opens

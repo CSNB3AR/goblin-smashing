@@ -81,3 +81,9 @@ The Wind Mist gives the caster a massive agility boost, wind-style movement. Thi
 
 ## Correction (author-stated): the rune is drawn, not rolled
 The "automatic dice check" in this file is replaced. Tatsuya draws the base arcana rune (a triangle of jagged claw lines, one line, points not joined) in the sand while reading the glyph from his spell details. He misdraws it twice; each attempt costs MP (PROPOSAL 10 MP, 3 attempts = 30 of 32). The third lands inside the ten-second whistle window. No dice text on the page.
+
+## Stages (author-stated, latest) and Chapter Eleven
+- **Stage one (base):** blind and silence (silence blocks SP arts and MP spells). Radar for the caster. Conductor. Ally buff.
+- **Stage two:** adds DEAFEN, so enemies are blind, silenced and deaf (three debuffs). It costs three points on its own. Tatsuya never explains why he needs it; Arya has to trust him. This is the Chapter Eleven negotiation: stage two, the continuous cast and Protective Lightning, all for a guild.
+- **Casts:** sporadic first (15 s up, 30 s cooldown); the continuous cast needs another point. Sporadic still works in ordinary combat.
+- Name is **Hushveil**. Do not rename it.

@@ -1,5 +1,7 @@
 # Chapter Eleven beat sheet: Assembling the Assault Team, Part Two
 
+> **UPDATE (author, latest):** the plan below is superseded. Chapter Eleven now ends as the strike unit goes over the edge on rope. The assault is Chapter Twelve (`outline/chapter-12-assault-notes.md`). Hushveil is the skill name. See the ledger sections "Chapter Eleven restructured" and "Skill name fixed".
+
 Working sheet for drafting. Anything not already in the plan file, ledger or the author's dictation is marked PROPOSAL. No dashes anywhere on the page. First person, past tense, Tatsuya only.
 
 Word budget: drafted opening (pod room, inspector, Leon, stretch your legs, the phone research) stays at about 800 words as is. New writing: about 3,800 words in 12 beats. The drafted Arya scene gets rewritten under B1 to B4 to follow the dictation.
