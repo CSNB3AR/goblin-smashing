@@ -42,7 +42,7 @@ I turned toward the pod.
 
 She said it quietly, and I stopped with my hand on the pod's edge. When I looked back, the smirk was gone and her arms had come uncrossed.
 
-"I have a lot riding on this." Her thumb scraped the ink on her wrist, back and forth. "And trust me, the last thing I'd ever want to do is randomly ask a person I've never met to create a guild with me. But I've been watching your stream for the last forty minutes. I've seen what you can do. The conversations you've had with those NPCs, I haven't seen anything like that, and I've been playing for a long time." She took a breath. "Being a professional player with a professional guild means everything to me right now. It's my only way to stay in Japan. My mom and dad want me in America, and if I'm making real money, I can fight them on it. I was texting my mom when you got here."
+"I have a lot riding on this." Her thumb scraped the ink on her wrist, back and forth. "And trust me, the last thing I'd ever want to do is randomly ask a person I've never met to create a guild with me. But I've been watching your stream for the last forty minutes. I've seen what you can do. The conversations you've had with those NPCs, I haven't seen anything like that, and I've been playing for a long time." She took a breath. "Being a professional player with a professional guild means everything to me right now. It's my only way to stay in Japan. I was texting my mom when you got here."
 
 I didn't say anything, because she wasn't finished.
 
