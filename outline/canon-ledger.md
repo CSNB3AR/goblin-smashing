@@ -1348,3 +1348,7 @@ AUTHOR-STATED:
 - The page so far (Chapter Nine) only shows `[ABILITY GRANTED: RUNE PRIMING]`, no details, so Chapter Eleven is where the mechanic is first shown.
 
 PROPOSAL (to be confirmed): 10 MP per attempt, so three attempts are 30 of his 32 MP (the Barrage's 25 MP trigger already leaves a sliver; here he has 2 MP left). Fail twice, land the third inside Arya's ten-second whistle window. No 3-second channel and no dice message.
+
+## Strike unit and Arya's route (author, latest)
+AUTHOR-STATED: Kesh does not go. The strike unit is Tatsuya, Arya and Zinka. Zinka joins Tatsuya's troop count, which becomes 2 (my reading: Ru plus Zinka; CONFIRM). Arya can only join his party when she is within vicinity of him, so she cannot party up from where she is. She knows where he is from the stream but needs coordinates (the world map shows coordinates). She logs in, gears up, travels close, then leaves the pod and contacts her brother Leon through her third-generation J-Link pod (J-Star is the high-end J-Link). Leon, already watching Tatsuya, opens the voice channel: Arya just came out of the pod and asked for his location, are they working together? Tatsuya says yes, give her my coordinates (she is useful: his plan should not rely only on NPCs). The author will supply a map file for locating coordinates.
+PROPOSAL: map brief at codex/locations/map-commission-brief.md.
