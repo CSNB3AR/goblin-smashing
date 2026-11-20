@@ -1355,3 +1355,13 @@ PROPOSAL: map brief at codex/locations/map-commission-brief.md.
 
 ## Camp name (author, latest)
 AUTHOR-STATED: "Bloodhurst" is retired. The camp is not named. Call it Thrash Clan's outpost camp (it is temporary, so it does not need a name). The page never used "Bloodhurst" (Chapter Nine's tag reads `[CURRENT LOCATION: THRASH CLAN CAMP]` and `[CALL TO ARMS: DEFEND THRASH CLAN CAMP]`); only codex, outline and archived drafts do. Old files that say Bloodhurst mean the outpost camp. Chapter Nine's location tag is left alone while Walter runs; if the author wants "outpost" on the tag, apply it to the repaired version.
+
+## Arya's call and in-game communication (author, latest) SUPERSEDES the visible "Arya leaves the pod and calls Leon" sequence
+
+AUTHOR-STATED:
+- The reader never sees Arya call for coordinates or travel to him. In the middle of a scene, Leon cuts in (opening the voice channel with the bracket) and says Arya just called him, and that she is in position (she has J-Star access, so Leon can place her). Time passes offscreen, which lets the chapter move fast; she "eventually will be there."
+- There is NO voice chat or party chat in HGO. People talk face to face, old school. In-world communication has to be created by us (messenger birds and the like, since it is a mythical game); party chat is not one of them.
+- Tier 2 and Tier 3 pro players typically have a coach who can speak to them. An operator (anyone who knows the game and watches over you, any gender) is an advantage at all three tiers. Leon is Tatsuya's operator.
+- Still true: Arya can only join his party once she is within vicinity.
+
+PROPOSAL: in-world messaging as paid messenger birds (a courier service for adventurers and NPC clans, slow, can be intercepted). OPEN: not yet decided by the author.
