@@ -64,6 +64,8 @@ I stared at my own balance first, then Dad's, then the name under the collection
 
 I set the phone down for real this time and lay back against the pillow.
 
+--------
+
 The update at the end of the year was going to be huge, and Kazuku had said there was an event in it worth millions. There weren't many weeks left, and I didn't know what it would be, so I couldn't build a plan on it. What I could count on was my build, and how much of it I could use came down to how much money I made first. Before the new kingdoms opened I had to be ready for whatever Kazuku had coming, and I needed a way to build something that paid whether I won or not, crafting maybe.
 
 The room was too quiet. I reached over and thumbed on the old TV in the corner, one I hadn't touched in forever, and it took a few seconds to wake. It came up on HGO TV, running Season Zero highlights back to back, the Thornwatch siege and London's flag going up, and I left it on low for the noise. Along the bottom the headline crawl cut across the clips: **[WORLD QUEST ACTIVE: CALL OF THE BONES | ACTIVATED BY: NYKRI]**. Under it a gold timer ran the sale countdown: **47:26:39**. I watched my name scroll past twice. Tomorrow I'd be back in it.
@@ -113,6 +115,8 @@ The rest of the ride I kept coming back to Leon. I still didn't know what this p
 • • •
 
 Sakura Arcade had a different energy in the morning, the lights on and one guy in his late twenties at the desktop rows, deep in some old computer game. Most places had gone straight to VR, and those rows were what kept Leon's place retro.
+
+--------
 
 A woman was behind the counter, white hair knotted in a messy bun, ink running down both arms to the wrist, strong and full-figured under a plain black tee, her eyes on the screen in front of her. I knew the hair before I knew the face. It was the same messy bun I'd walked past behind the hotel desk the night before. *"So the desk hire is Leon's sister, and she works here too."*
 
@@ -165,6 +169,8 @@ By the end Leon looked more settled than he had when I walked in.
 "External monitor," I repeated slowly, turning the phrase over in my mouth, not liking the sound of it yet. "Means I need someone watching while I play."
 
 "That's exactly what that means," Leon said. "Once you're in the game, your mind and your body are both gone. Your vitals will be on a chart, and your gameplay will be on the second monitor. Someone has to be seated there for every session, in case the operator has to eject whoever's playing. Which is you."
+
+--------
 
 *"Makes sense. So Leon sees every move I make in there from here on out."* That didn't bother me as long as it was Leon. Arya in the seat was another matter, since I hadn't said a word to her, and I looked at the dead second monitor instead, the lantern light sliding across its black glass.
 

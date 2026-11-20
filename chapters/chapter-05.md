@@ -94,6 +94,8 @@ Smoke rolled across the ground and stung my eyes. I reached into a pocket on my 
 
 I threw it underhand onto the cloud, and it dropped into the gas.
 
+--------
+
 The gas caught the instant the flame touched it, and the blast came out bigger than I'd bet on. It hit my chest from fifteen feet away and lit the whole camp for half a second, heat washing back hard enough that I raised an arm.
 
 **[GOBLIN GAS IGNITED BY GOBLIN FLARE]**

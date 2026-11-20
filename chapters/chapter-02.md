@@ -70,6 +70,8 @@ The door swung shut behind them with a soft chime, and the store went quiet agai
 
 I stood there a moment longer than I needed to, watching through the window as the black car's taillights disappeared down the block, red glow fading into the neon of Shibuya at midnight. The hum of the charging cables outside was the only sound left in the place, apart from a siren somewhere across Shibuya that rose and faded.
 
+--------
+
 The courtyard at Tochi came back without me asking, the one spot where nobody bothered me, a tablet propped on my knee and an HGO trailer playing. Dad was already gone by then. He had always loved the idea of building a world inside VR, and he used to talk about it all the time. I didn't know why, but that game made me feel connected to him. Then Eren walked by, stopped, and said something about the trailer, and for a few months after that we sat at the same cafeteria table and argued about the game between classes, until I thought I finally had a friend. I'd been wrong. Once he saw what my head could do, he made his offer. I couldn't get into the game yet. He could. So he flipped, ran my work on his father's money, and let the whole school watch him do it. It was the best thing I'd ever made, and now it was his. My throat went tight.
 
 The light bulbs buzzed overhead and the courtyard was gone. Just the counter, the dark glass and my own hands.
@@ -107,6 +109,8 @@ Some track was playing low through the scooter's tiny speaker, one of Yuna's, so
 The ride home ran out before I was ready for it. Two blocks short, the Haya EB slowed under my hand, the dash blinking dark for a full second and coming back dim, and then the motor quit altogether, the hum dropping out like someone had pulled a plug. I thumbed the throttle twice. Nothing. *"Come on, now. I'm already having a day."* I crouched and pressed my palm flat to the dead dash. *"Not you too. You're the last thing of his that still runs."*
 
 It was also how I got to work, how I got everywhere. *"I've got a shift tomorrow. I can't be walking, and I can't be paying for the train. The charge is free at WattsUp, and that's one expense I don't have."* I stood, wiped the rain off the dash with my sleeve, and pushed it the rest of the way. *"I'm fixing you. I don't care how long it takes."* My boots splashed through the gutter, my arms burned on the handlebars and my breath rasped. Two women under a shop awning looked me up and down, a six-foot-three Black guy in the rain pushing a dead scooter, and one leaned toward the other and said something. I kept my eyes on the road, my shoulders hunched against the rain as the familiar six-story building came up on my left, the one I'd looked at every night for two years without really seeing it anymore. A striped green awning caught the streetlight, faded a shade lighter than when we'd first moved in, and the glass doors of the lobby threw back the dead headlight of the scooter I was pushing before I steered it around the corner.
+
+--------
 
 I parked around back on reflex, in the spot that wasn't technically mine but nobody else ever used, and came in through the side door the hotel staff used during the day.
 
@@ -161,6 +165,8 @@ Something slid out from between the pages and landed face-up on the desk. A sing
 **[Tatsuya,]**
 
 **[If you're reading this and I'm not there, I didn't manage to deal with the Tabuchis. I can't explain everything, not on paper. But what's in this manual is what they need, so don't give it to them. Not a page, not a drawing. They've been pushing me hard over my schematics, and I haven't given in, and I hope that by the time you read this they still haven't gotten hold of anything that matters to their plans.]**
+
+--------
 
 **[I'm sorry. I know I'm leaving this on you and Chiyo, and that isn't fair. But I know you can carry it.]**
 

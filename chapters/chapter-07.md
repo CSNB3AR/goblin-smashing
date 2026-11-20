@@ -98,6 +98,8 @@ I swapped out of Loop and opened my browser, then dug the address out of an old 
 
 *"For one core?"* There wasn't anything else to search, so I dropped the thought of buying one. More debt was the last thing I needed, with Mom's surgery already hanging over every yen. I leaned on the wall and worked at ways to make this different. I scratched my goatee. Dad hadn't copied anyone, so why should I? *"Build my own, off his schematics, made for his pod."*
 
+--------
+
 I couldn't learn that on a laptop in a back room, and I couldn't learn it working in Gato's shop either. The only places I knew that taught anything like it at a high level were Tochi or some other tightly run university, and Tochi was the one I had a way back into. Even then, lab access wasn't handed out. Most students never got in unless they sat on the student council, so I'd have to make some deals. It meant walking back into the place I'd left, with Eren still in it. I thumbed the screen dark before that thought got any louder.
 
 I knew I had to tell Leon what was going on, but I had to figure out how to do it without it feeling like I'd already broken his trust. The clock said 9:52 PM, so I started toward the front. A draft from the street door stirred my locs as I threaded between the old desks and dark monitors, all six feet and change of me.
@@ -167,6 +169,8 @@ Leon took the cigarette from behind his ear and lit it, turning his head to let 
 "All right. I've got a proposition for you." He straightened. "My sister Arya ran a guild and got it into the top eight last season, so I know bits and pieces of how this works from trying it with her. Some guild drama got in the way, and I had to pull back, or it would have affected the business." He tapped ash into the saucer by the register. "It's going to take time, I know. Let me work out the details and the paperwork, and I'll bring in the VRSA inspector tomorrow. If you're serious about getting those pods up, how long before profit starts coming in?"
 
 "Depends." I thought about how little I actually knew about this goblin. "I'm still learning the class. I know the game, not what this build does yet. If I have the proper time, I think I can make it, and there's more riding on it than I can say right now." It came out surer than I felt.
+
+--------
 
 Leon took another drag. "More than you say." The smoke hung between us a second. "Mhm. What do you mean by that?"
 

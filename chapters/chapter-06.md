@@ -50,6 +50,8 @@ My eyes followed her. She was the only one in the whole camp who'd stepped out f
 
 Sevish turned to her, the amusement still sitting in the corner of his mouth. He loved a good fight, and it showed. "Yes. I understand now." He looked me over, slow. "And how do you see us benefiting from having him here?"
 
+--------
+
 Boots scraped by the stew pot. The goblin who'd stared at me like I'd slapped the chieftain took a slow step forward, one hand on the club at his belt, and slowed, his eyes on the scorch marks and then on me. Not one of them had lifted a hand when the enforcers went after the kid, and now they crept in behind him, wide of the black patch, like they needed to be seen doing something. Sevish raised a hand without turning around, and every one of them froze. The camp held its breath. The kid edged up against my side, ears flat, not saying a word. He didn't have the rank to speak, but he stood there anyway.
 
 I felt the pressure Sevish was putting on the camp, steady and heavy, and I kept an eye on anything that moved at the edges. *"If this goes bad, running is the only option. Fighting through that isn't happening."* My eyes slid into the corners of my vision without moving my head,. The goblins stood close enough that a cloud of gas right now would buy me a few steps.
@@ -117,6 +119,8 @@ I blinked, and a panel unfolded in the middle of my vision.
 Wyx stepped up beside him. "You caused quite a commotion in our camp," she said, the dry warmth going out of her voice, "but we need someone who will change things around here. The situation back in Myrrhwood only gets worse. The clans fight among themselves while the beastfolk on our border could destroy us all. Shiv has been gone near half a century, and the clans have never found their footing since. Thrash gave up land and power to make this trip." Her voice softened, her eyes going somewhere far past the canvas wall. "The old tales say every clan stood as one once. My grandfather's generation saw it. I hope to see it with my own eyes. We could be a force if we stopped fighting among ourselves."
 
 She drew a battered notebook from her belt, the leather cracked and dark with handling, and held it against her chest instead of setting it down. "All we know comes from these notes, carried down in our clan for years. They say Shiv had a connection to something or someone in Lunarest. So we gambled and came here, to find any information, any lead he left behind, that can hold our people together."
+
+--------
 
 *"So they're gambling too. We've got more in common than I figured, even if neither of us planned it."* I shifted my weight onto the other foot, the cold of the packed dirt coming up through my bare soles, and kept my eyes on her face.
 

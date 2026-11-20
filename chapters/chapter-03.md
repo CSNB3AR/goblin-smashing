@@ -41,6 +41,7 @@ The race table sat on the same page. I opened the Elf row without really decidin
 I caught myself grinning at the screen. Half excitement, half nerves. Dad's game, the world he said he helped create, and at least I had an idea what I'd build instead of walking in blind. *"If I run into that son of a bitch in there, I can't be the one who gets outmatched."* *"It isn't revenge. I just can't hand Eren any kind of recognition."* Haruto's face crossed my mind with it.
 
 *"Six days."* Chiyo would be back by then, and I wanted something of value to show her. *"I've never played a minute of it, only watched."* *"I can't let how I used to feel about this game decide how I go in. Clear head. Positive income. For Mom, the twins, Chiyo."*
+
 My bank balance:
 
 **[¥47,320]**
@@ -48,6 +49,8 @@ My bank balance:
 *"Every month I hand Chiyo what she asks for. Groceries, a small bill. It's never the real number, and she knows I know."* It still felt good to put it in her hand.
 
 I opened Loop, the big social app where everything happened, gaming included. I followed the HGO account, Yuna, a few major accounts like Dosuke AI and a few guilds, to keep up with updates.
+
+--------
 
 Then the cafe booking app, since I didn't own a rig. Every cafe in the city was booked solid, the sale and the open beta both, and a truck idled outside. *"Second-gen is still full-body rigs. Third-gen helmets are full dive too and easy to keep at home, but ninety thousand yen? I've got forty-seven."* The second-gen cafes ran pods from developers the Tabuchis had put money into. *"Not a yen of mine goes anywhere near the Tabuchis. And the earliest opening is March. Three months. Chiyo's not going to wait three months. She'll have me back at Tochi."*
 
@@ -82,6 +85,8 @@ I'd barely cleared the door when a voice cracked across the showroom. A guy abou
 "Sir, as I stated, that's the only option we can offer."
 
 "That's not an option, that's a scam!" He slapped the case down hard enough to turn heads. "I want my refund. I want a manager. I want my money back!"
+
+--------
 
 The attendant lifted two fingers toward the door, and two guards in tailored dark suits closed in on either side of him, hands loose, like they'd done this before. "Sir, you need to step outside." "Don't touch me, I'm going, I'm going!" He snatched up his case and let them walk him out, still yelling. The attendant, a young guy in round wire glasses with tousled brown hair, a white collared shirt with the sleeves rolled and a brown vest, pushed his glasses up and pinched the bridge of his nose. The showroom ran like a release night, a line out past the demo pods, cases clutched to chests, staff in Nexus polos moving fast. *"No refunds, and the respec is steep. So that's my one shot going in."*
 
@@ -152,6 +157,8 @@ Leon nodded toward a back hallway. "Pods are through there, second door on the l
 The hallway ran past dark rooms and humming racks, the floorboards creaking under my boots, the air cooling with every step.
 
 The pod room was clean, the overhead tube humming, the shell polished, the cable bundles tied off. Kazuhaya Tech was stamped in small letters near the base, and I stood there longer than I meant to. *"Dad really did this."* Pride and grief, both, and I wasn't going to look at either one right now.
+
+--------
 
 I dropped my bag and pulled the sleeve out. The drive was smaller than I'd expected, black with a single port and the HGO logo etched in thin gold. While the pod warmed up I flipped through the manual. Three sections tabbed in his blocky hand: the first-gen pod, the Sedan, the EB. After the last tab the pages went blank, dozens of them. *"Room for my own notes."* I scrolled past the first-gen diagram and the build steps, every part laid out clean enough to copy. Second-gen pods had been glitching for years, and I figured that was half the reason the third-gen helmets blew up with HGO. *"Maybe that's why they wanted it so much."*
 

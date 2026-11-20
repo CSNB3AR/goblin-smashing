@@ -56,6 +56,8 @@ The joke helped a little. It was still a huge climb, and unless something change
 
 I started walking, short quick steps, learning the body as I went. The wind came down off the rock cold and damp. My legs ached, my ribs ached, and under it all my heart was pounding, hard enough that I could feel it in my throat. A heartbeat, in a game. This was what full dive actually was.
 
+--------
+
 Every goblin I could see had a marker floating over their head. I dug back through every stream I'd watched. White was usually NPCs, friendly. Gold meant somebody important, and I saw none. Blue was other players. My own tag was blue, and everybody else's was white.
 
 Two goblins were arm-wrestling by a crate with a crowd shouting them on. A pot boiled in the middle of camp, a goblin stirring it with a long spoon. And the biggest tent sat in the center, wide and tall, the kind of place whoever ran this camp would be. Okay. Now I knew where things were.
@@ -125,6 +127,8 @@ Out of every conversation in that camp, that was the one that carried. I turned 
 "Then give it here."
 
 Above each head, over the word Goblin, the same line: Thrash Clan. All three. *"Same clan. Why are they going at each other?"*
+
+--------
 
 The big ones had already scraped their own bowls clean. The goblin at the stew pot ladled the last of it into somebody else's bowl and turned back to his pot like he hadn't heard a thing. Nobody stepped in. Nobody called it fair, nobody told them to quit. A few watched with their food held close and then looked away. That sat wrong with me. I knew that feeling from when I was younger, being picked on, and nobody stepping up for me either.
 
