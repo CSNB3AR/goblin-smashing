@@ -94,17 +94,17 @@ When I looked up, Sevish had lifted his axe from the chair arm. He rolled his sh
 
 "There is also the camp," Wyx said. She rested one hand on the map beside the stakes. "Brother and I are the walls. Anyone who passes the outer stakes meets me. If I fail, they meet you. If the two of us go down that road, the stakes hold nothing."
 
-"So what would you have me do?" Sevish's voice dropped, and the anger came up under it, slow and heavy. "Sit back and let those bastards bleed us out?"
+"I take my counsel from my sister, and from Shiv," Sevish said, and the anger came up under his voice, slow and heavy. "You are neither."
 
-"Give me time to organize a plan. Let me handle it." I kept my voice level. "If I can't, and you and Wyx want to march down there, then go. But I'm at least hearing out one of my own."
-
-"One of your own," Sevish said.
-
-"Ru. Last I checked, Shiv put him under my calling. He's also a member of Thrash, the same one two of your enforcers nearly pummeled." I put my palms on the table. "I'm not trying to split the clan or take it from you. But this is what Shiv was talking about, the fighting among ourselves. There has to be a way to handle this without putting everyone's lives in jeopardy. You might win that fight, Sevish. Can the ones you just sent to hold those walls say the same? We hold, we see what they can do, and we hit them from two sides."
+"Then take it from Shiv." I put my palms on the table. "Last I checked, he put Ru under my calling. Ru is also a member of Thrash, the same one two of your enforcers nearly pummeled. I'm not trying to split the clan or take it from you. But this is what Shiv was talking about, the fighting among ourselves. There has to be a way to handle this without putting everyone's lives in jeopardy. You might win that fight, Sevish. Can the ones you just sent to hold those walls say the same?"
 
 Sevish didn't answer. His hand had stopped on the haft, and for a long moment the only sound in the tent was the lantern ticking against the pole. Wyx crossed her arms, and the corner of her mouth moved, though she said nothing. A notification flashed in the corner of my eye and I let it.
 
 **[AFFILIATION: WYX THRASH - 52% → 55%]**
+
+"Fine," Sevish said, flat and slow. "Then what are you suggesting? We sit here and let these bastards bleed us out?"
+
+"No." A short laugh got out of me before I could stop it. "I'm not suggesting we sit here with our hands folded, and I'm not suggesting we be walking targets either. Give me enough time to organize a proper plan. I'll put together a small team and hit them from two sides while they're recovering. I'll make it work if you give me the time."
 
 "Shiv put him under your calling," Sevish said at last, slowly. "Then I will not disobey Shiv." His hand tightened on the haft. "Handle the ones at the bottom of the hill. You have until the east torches burn out. If they are not handled, I handle it my way."
 
@@ -146,7 +146,9 @@ Leon didn't answer right away, still bent over the panel. Then, quieter, mostly 
 
 "Give me the ten minutes," he said, louder. "Go stretch your legs. You've been under a long time."
 
-I took the spiral staircase down to the lounge, my knees stiff. It was quiet for the hour, the clock over the counter reading 8:54, one desktop glowing at the far wall. The only person in the room was behind the front counter, and she looked up before I reached the last step.
+I ducked into the bathroom at the end of the upstairs hall and braced my phone against the sink. The Romans I already knew: the legion's shields locked edge to edge, short swords working between them. For the rest I had a few minutes. The armies of China's Warring States had drilled their spear and shield lines until the front rank could take a charge, Japan's Sengoku armies had done the same with spear walls behind their shield screens, and the Vikings stood shoulder to shoulder with their shields overlapping like a fence. Different centuries, same idea: a line that holds, and something sharp behind it. I read until I had the shape of it, pocketed the phone, and went downstairs.
+
+I took the spiral staircase down to the lounge. It was quiet for the hour, the clock over the counter reading 8:54, one desktop glowing at the far wall. The only person in the room was behind the front counter, and she looked up before I reached the last step.
 
 She had white hair in a messy bun, ink running down both forearms to the wrist, a plain black tee and sharp gray eyes. A half-smirk.
 
