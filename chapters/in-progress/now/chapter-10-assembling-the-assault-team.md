@@ -18,7 +18,17 @@ Sevish didn't slow. He took the last ten paces to the war tent in long strides w
 
 Past him the camp stood quiet. The stew pot sat cold beside the stone-ringed fire pit, the hay cart stood where it always had beside the big tent, the two blue banners hung limp on their poles, and the hide tents along the slope were tied shut with nobody between them. Sharpened stakes ringed the camp on the hillside now, set tight, and what was left of the clan stood posted along them under torches, with gaps in the line. The sky over the cliff was clear and full of stars, and the waterfall hissed behind the tents.
 
-Two things stuck as I walked. The first was the ways in and out. The track left through the stakes at the front, and the only other way down was the cliffside along the wall, gullies and ledges a goblin might climb if he had to, longer and harder than the path and no use with armor or a pack. Behind the camp there was only sheer rock and falling water, so nothing could come at us from the back. The second was the gear. Every goblin on the line carried the same club and the same plain round shield of hide over wood, like one issue out of one store. I didn't know where they'd gotten it.
+Two things stuck as I walked. The first was the ways in and out. The track left through the stakes at the front, and the only other way down was the cliffside along the wall, gullies and ledges a goblin might climb if he had to, longer and harder than the path and no use with armor or a pack. Behind the camp there was only sheer rock and falling water, so nothing could come at us from the back. The second was the gear. Every goblin on the line carried the same club and the same round shield, like one issue out of one store.
+
+A small yellow exclamation mark had appeared beside Wyx's tag and Sevish's as they walked ahead of me. I focused on Wyx's, and her panel opened with a little more than the night they'd chained me: a few base stats, and a skills list that unrolled one line and stopped.
+
+**[WYX THRASH: LV 25 - HOBGOBLIN]**
+
+**[CHALLENGING HOWL - THRASH TECHNIQUE]**
+
+**[???]**
+
+Sevish's showed more of his base stats, since he was the one who had used the roar on me, but the rest of his list was blank too, with the same line at the top. *"Challenging Howl. The roar that pinned me to the dirt the first night, and Wyx has it too."*
 
 Bone totems capped the poles either side of the flap. It fell shut behind us on canvas heat and old leather, and the noise of the camp went flat and far away.
 
@@ -32,9 +42,9 @@ For a moment nobody spoke while everyone settled. A chair creaked, the lantern s
 
 "Four," Kesh said between breaths. "Maybe five. Kesh could not get close."
 
-Sevish grunted and turned his head. "Wyx, could you do me a favor? Go outside and get the men into a defensive formation along the palisade walls. Anyone who comes within sight of the camp, I want to know. Hold the perimeter and let nothing past the stakes."
+Sevish grunted. "Kesh, that is not an accurate number." He turned his head. "Wyx, could you do me a favor? Go outside and get the men into a defensive formation along the palisade walls. Anyone who comes within sight of the camp, I want to know. Hold the perimeter and let nothing past the stakes."
 
-Before Wyx could answer, the flap lifted behind me. Her eyes flicked past my shoulder. "Of course, brother," she said. "But could I hear the scouting report first?"
+Before Wyx could answer, the flap lifted behind me. A smile crossed her face as her eyes flicked past my shoulder. "Of course, brother," she said. "But if you don't mind, one of my scouts has just returned, and I think what she has to say will be vital. I would like to hear it."
 
 I glanced back. A lean goblin girl had slipped in, dust on her knees, a wrap of dark cloth over one shoulder, her pale green eyes steady under a narrow brow. A **[ZINKA: LV 7 - HOBGOBLIN]** nameplate resolved over her head, white.
 
@@ -42,19 +52,23 @@ I glanced back. A lean goblin girl had slipped in, dust on her knees, a wrap of 
 
 Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
 
+Keeping Wyx here was probably ideal. She was the most experienced of us, but someone else could get the line moving, and my first thought was Ru.
+
 "Ru can go and assist," I said, and looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "With so many of us down and so many in here talking, there's hardly anyone on the line. If they pushed now, we'd be finished. The more hands out there, the better."
 
-Sevish studied me for a moment, heavy and patient, a look that asked a question without saying it. Then he gave me a slow nod. Wyx's brows rose, and for a second she looked at me instead of the scout.
+Sevish looked at me, then at Ru, then at me again, heavy and patient, a look that asked a question without saying it. He gave a slow nod. I couldn't tell whether he was angry or only tired.
 
-I turned to Ru. "Get the line in order. Raise the inner barricade behind the stakes, pull every goblin back inside, and make sure each one is armed and listening. If anyone won't listen, use a little force."
+I turned to Ru. "You heard what Chief Sevish said. Make sure it gets done. I'm trusting you on it."
 
-Ru straightened until the cross rope brushed his hair. "Understood," he said, and ducked out through the flap.
+"Understood," Ru said. He glanced at Kesh, and Kesh gave him a nod without a word. Then he straightened until the cross rope brushed his hair and ducked out through the flap.
 
 A small marker with his name appeared on the mini-map in the corner of my vision and slid along the edge of camp, and the gray around it cleared as it went. *"Huh. So that's how that works."*
 
-"That is not the first step you have taken tonight, Nykri," Wyx said quietly.
+"Interesting," Wyx said quietly, watching me.
 
-"Now go join him, Kesh," Sevish said. "He will need someone who knows the lanes."
+The way she studied me, the way Ru had answered and walked out, all of it felt so real that for a second I forgot I was sitting in a game. A small, stupid grin tugged at my mouth, and I pushed it down.
+
+"Kesh," Sevish said. "Go with him. They will need the numbers."
 
 "Kesh go," Kesh said, already off his barrel, and ducked out after Ru.
 
@@ -72,31 +86,21 @@ It felt oddly like the situation Aogiri found itself in at Thornwatch. I wasn't 
 
 "Yes, Wyx," Zinka said, and went out through the flap.
 
-A small yellow exclamation mark had appeared beside Wyx's tag and Sevish's. I focused on Wyx's, and her panel opened with more in it than the night they'd chained me: a few stats filled in, and the skills list unrolled partway and stopped.
-
-**[WYX THRASH: LV 25 - HOBGOBLIN - BLADE DANCER]**
-
-**[CHALLENGING HOWL - THRASH TECHNIQUE]**
-
-**[???]**
-
-**[???]**
-
-*"The more I learn about someone, the more the panel gives me. And it only shows what they've shown me."* Sevish's had the same gaps under **[SEVISH THRASH: LV 80 - HOBGOBLIN - BERSERKER]**, and the same line sat at the top of it. *"Challenging Howl. The roar that pinned me to the dirt the first night, and Wyx has it too. That could come in handy."*
-
 --------
 
-When I looked up, Sevish had lifted his axe from the chair arm. He rolled his shoulders once, slow, and the lantern flame leaned away from him. He was done sitting.
+Sevish had lifted his axe from the chair arm. He rolled his shoulders once, slow, and the lantern flame leaned away from him. He was done sitting.
 
 "Enough talk," he said. "I take this axe down that road and the best I have behind me, and Wyx beside me. We have the numbers. We end it before the torches burn out."
 
-"You'd win," I said. "I don't doubt it. But we don't know how strong those adventurers are. They have a ward and a caster, and they could be weak or far stronger than they look. We can't tell, because nobody got close enough to scout without being struck and having to run. We know almost nothing. If we go down there with the few we have and they're stronger than us, what if we don't come back up? That's the risk, going in without a plan that doesn't put every life we have in jeopardy."
+"You'd win," I said. "I don't doubt it. But we don't know how strong those adventurers are, and nobody got close enough to scout without being struck or having to run. We know almost nothing. If we go down there with the few we have and they're stronger than us, what if we don't come back? That's the risk, going in without a proper plan that doesn't put every life we have in jeopardy."
 
-"There is also the camp," Wyx said. She rested one hand on the map beside the stakes. "Brother and I are the walls. Anyone who passes the outer stakes meets me. If I fail, they meet you. If the two of us go down that road, the stakes hold nothing."
+"A proper plan," Sevish said, slow and heavy, and the anger came up under his voice. "You think mine is not."
 
-"I take my counsel from my sister, and from Shiv," Sevish said, and the anger came up under his voice, slow and heavy. "You are neither."
+"I take counsel from my sister and my elders," he went on. "You are neither."
 
-"Then take it from Shiv." I put my palms on the table. "Last I checked, he put Ru under my calling. Ru is also a member of Thrash, the same one two of your enforcers nearly pummeled. I'm not trying to split the clan or take it from you. But this is what Shiv was talking about, the fighting among ourselves. There has to be a way to handle this without putting everyone's lives in jeopardy. You might win that fight, Sevish. Can the ones you just sent to hold those walls say the same?"
+I lifted the Call of the Bones necklace from my chest. Nobody in that camp had met Shiv, but they all knew what he looked like, and the bones and my white hair should be enough to show the resemblance.
+
+"Neither," I said. "But I'm the only one in recent history who's gained Shiv's blessing. No one in this camp can say they've met him except me. It's the same reason he reached out to me in the first place. The fighting among our own is already starting here. What do you think is happening back in Myrrhwood? What do you think the rest of the world sees when it looks at us? If we really mean to do what Shiv asked, to unify and show the other races we mean business and aren't feral, we can't start by throwing our own away." I put my palms on the table. "I'm hearing out Ru, because Shiv put him under my calling and he's Thrash, the same one two of your enforcers nearly pummeled. You might win that fight yourself, Sevish. Can the ones you sent to hold the walls?"
 
 Sevish didn't answer. His hand had stopped on the haft, and for a long moment the only sound in the tent was the lantern ticking against the pole. Wyx crossed her arms, and the corner of her mouth moved, though she said nothing. A notification flashed in the corner of my eye and I let it.
 
@@ -106,7 +110,7 @@ Sevish didn't answer. His hand had stopped on the haft, and for a long moment th
 
 "No." A short laugh got out of me before I could stop it. "I'm not suggesting we sit here with our hands folded, and I'm not suggesting we be walking targets either. Give me enough time to organize a proper plan. I'll put together a small team and hit them from two sides while they're recovering. I'll make it work if you give me the time."
 
-"Shiv put him under your calling," Sevish said at last, slowly. "Then I will not disobey Shiv." He leaned across the table, and the chair groaned under him. "But I will hear this plan of yours. Now."
+"Then I will not disobey Shiv," Sevish said at last, slowly. He leaned across the table, and the chair groaned under him. "But I will hear this plan of yours. Now."
 
 His eyes stayed on mine, two alphas in one small room, neither of us looking away. I felt my own temper rising to meet his, and for one second I forgot he could end me with a single swing.
 
