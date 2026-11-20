@@ -1,5 +1,7 @@
 # Bloodhurst
 
+> **NAME RETIRED (author, latest):** "Bloodhurst" is no longer used. This file describes Thrash Clan's temporary outpost camp. Wherever other files say Bloodhurst, read "Thrash Clan outpost camp".
+
 **Type:** In-game location, Eryndal. The Thrash clan's goblin camp, a specific site within Lunarest Outskirts (see `codex/locations/eryndal-world-overview.md`), not a renaming of the outskirts itself, and not itself in Myrrhwood (Myrrhwood is ship-locked and genuinely separate from the reachable supercontinent, not a short walk, see `codex/locations/eryndal-world-overview.md`). This is where a new goblin character actually starts, and where Tatsuya first spawns as a result of the goblin glitch (see `codex/lore/playable-races-and-character-creation.md`).
 
 ## Visual reference (locked, from uploaded image)
