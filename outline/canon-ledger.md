@@ -1312,3 +1312,14 @@ There are **two entirely separate accidents**. Never conflate them.
 ## Walter-ready set: Chapters 2 to 10 (author-stated plan)
 - Chapters 2 to 8 now carry `--------` dividers (every chunk 1,400 words or fewer; text unchanged, checked against the committed version) and Chapters 9 and 10 already did, so the author can run Chapters 2 to 10 through Walter. Chapter One is already final. Known leftover checker flags (not fixed, awaiting the author): Chapter Three line 90 and Chapter Seven line 213 (ellipses), Chapter Nine "pulse" twice.
 - Launch plan (author-stated): Royal Road, Monday, Wednesday and Friday uploads at the 7:30 window; about 24 chapters banked before launch (eight first, then three a week; later five a day for a stretch once about 20,000 words are queued); Patreon needs about 48; the author has never passed chapter 17 before (burnout), so 24 first. A Discord, a cover and ads are in progress.
+
+## Chapter Eleven information pass (author dictation, latest)
+
+AUTHOR-STATED:
+- Arya scene order: Tatsuya heads upstairs to the bathroom; VRSA inspector and Leon are downstairs with the pod. Arya calls "Nykri" (watched the stream). He keeps walking ("Hey man, I'm talking"; "pot calling the kettle black", light humor, never rude). She proposes a GUILD with him. He says no politely twice. She hints Thornwatch will be guild-oriented (unconfirmed rumor; he does not voice it). She gets desperate: not asking a random person, has watched his stream, her brother helping him, in a bad spot, was texting her mom when he arrived, gambling, does not want to go back to her mom's. He says yes after two nos.
+- Arya's build: Spellforger DESTRUCTION (not wind). Tatsuya steers her to Gale Force, Wind Mist and the passive Protective Lightning (lightning does not hurt teammates). Lightning tree is weak and costly in beta XP, so most players skip it.
+- The Mist: conductor. Blinds and mutes enemies (blocks SP arts and MP spells). Radar of everyone inside for the caster. Two upgrades (duration/strength/debuffs). Allies inside get an attack or mana regeneration buff. Sporadic cast: 15 s up, 30 s cooldown. Continuous cast: spends MP every two seconds, she cannot move, a hit can break it. Mist title/rumor later.
+- Whistle calls (no talking in the fight): three slow whistles when low on mana; at 10 MP three whistles gives Tatsuya a ten-second timer.
+- Rune roll is an automatic dice check, NOT Gambler's Gambit. Two crit fails, then any number in the last second (a four is a weak rune, enough).
+
+PROPOSAL (agents): codex/characters/arya-build-and-mist-kit.md, codex/magic/hushveil-mist-mechanics.md, outline/chapter-11-beat-sheet.md. Open: 2 MP per tick, 3 s rune channel, which two things the two upgrades are, Arya level 10 vs 11. Old arya.md / book-of-tempest.md skill lists (Static Lash, Tempest Fan, Storm Shear, Stormwall, Hushveil) are superseded by the author's words; the old Silence-hits-allies text is superseded (allies get buffs).
