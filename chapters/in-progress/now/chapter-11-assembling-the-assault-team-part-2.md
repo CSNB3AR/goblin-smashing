@@ -221,6 +221,8 @@ I looked along the line at the five I'd picked. Four of them had never used a bo
 
 Her smile widened. "I do enjoy a fight."
 
+I let that sit, and filed away what it would tell me. *"Wyx is twenty-five. If they can't get past her, they're under twenty-five, and that says what's in that tent."*
+
 "It holds about thirty seconds." I looked at Sevish again. "You count it in your head, chief, and when it's done you call your sister back. Then the wall goes up, shields raised, and steps forward while she falls behind it. The mage hits the boards with fire, the sword-and-shield man hits a goblin and the goblin hits him in the gut, and he backs off. The roar needs about forty-five seconds before she can use it again, so the wall holds fifteen. Then she walks out and does it again, and every one of them has to look at her."
 
 "I would go out myself." His knuckles tightened on the axe haft. "Every time."
