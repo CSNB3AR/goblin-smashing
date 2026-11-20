@@ -112,17 +112,19 @@ Sevish didn't answer. His hand had stopped on the haft, and for a long moment th
 
 "No." A short laugh got out of me before I could stop it. "I'm not suggesting we sit here with our hands folded, and I'm not suggesting we be walking targets either. Give me enough time to organize a proper plan. I'll put together a small team and hit them from two sides while they're recovering. I'll make it work if you give me the time."
 
-"Then I will not disobey Shiv," Sevish said at last, slowly. He leaned across the table, and the chair groaned under him. "But I will hear this plan of yours. Now."
+"Then I will not disobey the disciple of Shiv," Sevish said at last, slowly. He leaned across the table, and the chair groaned under him. "But keep my warning. I do not take kindly to being challenged in my own camp. Now say this plan of yours."
 
 His eyes stayed on mine and neither of us looked away. The lantern ticked against the pole, the tent felt smaller than it had a minute ago, and I felt my own temper rising to meet his. For one second I forgot he could end me with a single swing.
 
-"I need you off now," Leon said in my ear. "The pod's overheating and the VRSA inspector's here. Now, man."
+"I need you off now," Leon said in my ear. "I know it's not the time, but VRSA is running and I don't think the pod can last five more minutes without a cooldown. I held off as long as I could and tried not to interrupt, because I know how serious this is. I also turned off the stream to give you more time, in case you hadn't noticed."
 
-I let out a breath, and my hand loosened on the edge of the table. I couldn't give him the plan. I didn't have it yet.
+**[STREAM OFFLINE - 00:01:14]**
 
-"I can't. Not yet," I said. "Give me some time to work it out, and I'll be back shortly. I need time to prepare."
+I didn't answer Leon. I didn't want to speak out loud in the middle of this, so I let out a long breath and looked straight at Sevish.
 
-Sevish studied me for a long moment. Then he let the axe settle against his shoulder. "All right. Fine. I will let you handle it. But you have an hour and a half of this night. Handle the ones at the bottom of our hill, or I handle them my way."
+"You'll have your plan," I said. "Give me thirty minutes to prepare for battle. If you can have someone send proper equipment to my tent, it will give me the time to work out a plan that holds. Gather everyone in the center of camp, and I'll bring it to you."
+
+I could tell it angered him. His hand flexed on the haft, and for a moment I thought he might refuse. Then he gave a short nod. "Fine. I will go through with this. But you have an hour and a half of this night to handle the ones at the foot of our hill. If you are not back in that time, or this does not work, I go with my plan."
 
 **[WORLD QUEST UPDATED: CALL OF THE BONES]**
 
@@ -130,9 +132,11 @@ Sevish studied me for a long moment. Then he let the axe settle against his shou
 
 **[TIME LIMIT: 01:30:00]**
 
-"Fair enough," I said. "And if I handle it, I hope we can work together a lot smoother after."
+"Fair enough," I said. "And if I handle it, I hope we don't keep having disagreements like this."
 
-"Hah." The rough laugh came out low and short. Wyx's eyes followed me as I stepped back from the table.
+"Oh, trust me, we won't." The corner of his mouth moved. "But know this. Once we are back in Myrrhwood, I want a good, friendly spar to test our metal."
+
+"Hah." The laugh came out of me short. Wyx's eyes followed me as I stepped back from the table, and the only thing she did was take in the exchange with a devious smile.
 
 I turned my back on both of them and shoved the flap aside.
 
