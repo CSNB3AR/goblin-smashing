@@ -128,13 +128,15 @@ I didn't answer Leon. I didn't want to speak out loud in the middle of this, so 
 
 "You'll have your plan," I said. "Give me thirty minutes to prepare for battle. If you can have someone send proper equipment to my tent, it will give me the time to work out a plan that holds. Gather everyone in the center of camp, and I'll bring it to you."
 
-I could tell it angered him. His hand flexed on the haft, and for a moment I thought he might refuse. Then he gave a short nod. "Fine. I will go through with this. But you have thirty minutes of this night to handle the ones at the foot of our hill. If you are not back in that time, or this does not work, I go with my plan."
+I could tell it angered him. His hand flexed on the haft, and for a moment I thought he might refuse. Then he gave a short nod. "Fine. I will go through with this. Be back at the center of camp in thirty minutes, with your plan. You have an hour and a half of this night in all to handle the ones at the foot of our hill. If you are not back in time, or this does not work, I go with my plan."
 
 **[WORLD QUEST UPDATED: CALL OF THE BONES]**
 
 **[NEW OBJECTIVE: HANDLE THE INTRUDERS AT THE FOOT OF THE HILL]**
 
-**[TIME LIMIT: 00:30:00]**
+**[TIME LIMIT: 01:30:00]**
+
+**[RETURN TO THE CENTER OF CAMP: 00:30:00]**
 
 "Fair enough," I said. "And if I handle it, I hope we don't keep having disagreements like this."
 

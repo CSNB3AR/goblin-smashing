@@ -20,7 +20,7 @@ Leon didn't answer right away, still bent over the panel. Then, quieter, mostly 
 
 "Give me the ten minutes," he said, louder. "Go stretch your legs. You've been under a long time."
 
-I washed my face in the bathroom at the end of the upstairs hall, then leaned against the rail at the top of the stairs with my phone in both hands. The Romans I already knew: the legion's shields locked edge to edge, short swords working between them. For the rest I had a few minutes. The armies of China's Warring States had drilled their spear and shield lines until the front rank could take a charge, Japan's Sengoku armies had done the same with spear walls behind their shield screens, and the Vikings stood shoulder to shoulder with their shields overlapping in one solid row. Different centuries, same idea: a line that holds, and something sharp behind it. I kept my head down and my thumb moving, reading until I had the shape of it.
+I washed my face in the bathroom at the end of the upstairs hall, then leaned against the rail at the top of the stairs with my phone in both hands. The Romans I already knew: the legion's shields locked edge to edge, short swords working between them, and three lines that took turns holding the front. For the rest I had a few minutes. The armies of China's Warring States had drilled their spear and shield lines until the front rank could take a charge, Japan's Sengoku armies had done the same with spear walls behind their shield screens, and the Vikings stood shoulder to shoulder with their shields overlapping in one solid row. Different centuries, same idea: a line that holds, and something sharp behind it. I kept my head down and my thumb moving, reading until I had the shape of it.
 
 --------
 
