@@ -1287,3 +1287,6 @@ There are **two entirely separate accidents**. Never conflate them.
 - The necklace's color is the clear sign he is Shiv's disciple (Chapter Ten: "its color told them whose disciple wore it, and my white hair backed it up"). Sevish tests it a little but will not test Shiv.
 - Tatsuya's current look: author picture saved at `codex/characters/reference/tatsuya-shiv-goblin.png` and described in `codex/characters/tatsuya-kazehaya.md` (gray skin, white hair, yellow eyes, dice earring, medallion necklace, brown poncho, bandaged forearms and shins). Open: Chapter Nine's "green a shade lighter" skin and "small bones on a leather cord" differ from the picture.
 - Alignments by path recorded in `codex/lore/goblin-code-and-clan-alignments.md`. Backup of Chapter Ten: ch10-before-leaders.md.
+
+## No "top dog" or "alpha" labels on the page (author-stated, latest)
+- Chapter Ten no longer says "top dog" or "two alphas in one small room". Sevish is simply the man in charge here (clearly established), and the clash with Tatsuya is shown through body cues (eye contact held, the lantern ticking, the tent feeling smaller, his temper rising) instead of calling it an alpha standoff. Backup: ch10-before-alpha.md.

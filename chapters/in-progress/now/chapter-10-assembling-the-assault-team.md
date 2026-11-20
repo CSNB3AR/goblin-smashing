@@ -52,7 +52,7 @@ I glanced back. A lean goblin girl had slipped in, dust on her knees, a wrap of 
 
 Sevish didn't laugh. A breath of laughter escaped me before I could stop it, and I covered my mouth with my fist. Kesh scratched the back of his head and studied the dirt floor.
 
-Both leaders needed to hear this. Sevish was the top dog and Wyx was the one who made the clan run, and nothing I said would stick unless the two of them heard it together. Someone else could get the line moving, and my first thought was Ru.
+Both leaders needed to hear this. Sevish was the man in charge here and Wyx was the one who made the clan run, and nothing I said would stick unless the two of them heard it together. Someone else could get the line moving, and my first thought was Ru.
 
 "Ru can go and assist," I said, and looked at the big hobgoblin standing under the cross rope with his hands loose, waiting. "With so many of us down and so many in here talking, there's hardly anyone on the line. If they pushed now, we'd be finished. The more hands out there, the better."
 
@@ -114,7 +114,7 @@ Sevish didn't answer. His hand had stopped on the haft, and for a long moment th
 
 "Then I will not disobey Shiv," Sevish said at last, slowly. He leaned across the table, and the chair groaned under him. "But I will hear this plan of yours. Now."
 
-His eyes stayed on mine, two alphas in one small room, neither of us looking away. I felt my own temper rising to meet his, and for one second I forgot he could end me with a single swing.
+His eyes stayed on mine and neither of us looked away. The lantern ticked against the pole, the tent felt smaller than it had a minute ago, and I felt my own temper rising to meet his. For one second I forgot he could end me with a single swing.
 
 "I need you off now," Leon said in my ear. "The pod's overheating and the VRSA inspector's here. Now, man."
 
