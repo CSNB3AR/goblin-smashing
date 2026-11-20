@@ -1365,3 +1365,6 @@ AUTHOR-STATED:
 - Still true: Arya can only join his party once she is within vicinity.
 
 PROPOSAL: in-world messaging as paid messenger birds (a courier service for adventurers and NPC clans, slow, can be intercepted). OPEN: not yet decided by the author.
+
+## Chapter Eleven draft written (author said "create the chapter")
+Drafted at chapters/in-progress/now/chapter-11-assembling-the-assault-team-part-2.md, about 3,400 words, three chunks with dividers. Built from the author's dictation plus the two source packets (outline/chapter-11-arya-source-packet.md, outline/chapter-11-source-packet-world.md). Choices that are PROPOSAL, flagged for the author: Wind Mist replaces "Hushveil" on the page (no earlier chapter names it); her 15 unspent points fund the mist (the repo has no refusal scene, so her doubt is the old-draft line "doesn't deal damage"); 10 MP per rune attempt; Joss's tent pull runs on mana, so the mute lifts the sap; 10 defenders on the line (6 shields, 4 bows with Kesh); Arya level 10; closing banner [PLAYER ENTERING ZONE: PK_WRAITH - ETA 00:08:00]; Arya joins the party on sight near the tent. Author lore about Arya's ex guild (e-girl team, two streamers, Clayster/Momo energy) added only as one spoken line; the full account is still not in the repo, ask the author to dictate it for the codex.
