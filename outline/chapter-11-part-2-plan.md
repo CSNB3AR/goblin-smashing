@@ -22,3 +22,8 @@ Everything the author has dictated for the next chapter, in one place, so it doe
 - Kills must be Tatsuya's (an NPC finishing them gives him nothing), which is why Sevish and Wyx cannot just go down.
 - Stream: Leon turns it back on after the teaching (Tatsuya had it off so the raiders could not see the plan).
 - Culture notes: goblinoids chaotic neutral; the Thrash clan refuses the feral label; Sevish chaotic neutral bleeding toward chaotic evil from the fighting, will test but never disobey Shiv.
+
+## UPDATE (author rulings, see ledger "Chapter Eleven rulings")
+- Count: about 9 goblins on the ground, so the old 8 shields plus 6 archers is dropped. Rework the line (smaller wall, fewer archers) in the beat sheet.
+- Clock: he logs in with about five minutes left to reach the center. Stream stays OFF until after the teaching.
+- Arya: sporadic first, continuous needs a second skill point; Chain Lightning through mana-carrying allies with Protective Lightning.

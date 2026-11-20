@@ -1325,3 +1325,15 @@ AUTHOR-STATED:
 PROPOSAL (agents): codex/characters/arya-build-and-mist-kit.md, codex/magic/hushveil-mist-mechanics.md, outline/chapter-11-beat-sheet.md. Open: 2 MP per tick, 3 s rune channel, which two things the two upgrades are, Arya level 10 vs 11. Old arya.md / book-of-tempest.md skill lists (Static Lash, Tempest Fan, Storm Shear, Stormwall, Hushveil) are superseded by the author's words; the old Silence-hits-allies text is superseded (allies get buffs).
 
 AUTHOR-STATED (addition): The Wind Mist also gives Arya a massive agility boost, wind-style movement. This is rare for mages, who are slow, so it lets her relocate. OPEN: this sits against "continuous cast, she cannot move." Recommended resolution (PROPOSAL): the agility boost and relocation belong to the sporadic cast (15 s up, 30 s cooldown, she can reposition inside her own mist); the continuous cast roots her, which is the price of holding it for the whole assault.
+
+## Chapter Eleven rulings (author, latest)
+
+AUTHOR-STATED:
+- The timer keeps running while Tatsuya is logged out. VRSA plus the Arya scene eat most of the thirty-minute return window, so he logs back in with about five minutes left on [RETURN TO THE CENTER OF CAMP] (my reading: the real-world part takes him 20 to 25 minutes). Overall timer still 01:00:00 at the center if he makes it.
+- Fix the Part Two draft: the stream is OFF (Chapter Ten ends with it off); Leon must not say it is running.
+- Troop count rule: everyone counts as a goblin, Tatsuya included (Shiv's Savage counts as a goblin). Chapter Nine shows 15 defenders. Remove Sevish and Wyx (not in the fight) and the strike unit (Tatsuya, Kesh, Ru by the author's list; Zinka goes down the rope too) and only about 9 goblins hold the ground. The plan's 8 shields plus 6 archers (14) is dead. Arya counts toward the strike unit and is a main reason she joins: Tatsuya can bring someone who can fight other players, since he cannot afford to die and does not know what is down there. That seals his plan.
+- Anything in Chapter Eleven that contradicts Chapter Ten is fixed in Chapter Eleven. Zinka's tent warning (the red tent saps speed and strength as you creep close) must be respected by the plan.
+- Casts: the sporadic cast comes first (basic, bought with skill points). The continuous cast needs another skill point, which is why Tatsuya tells her to level it up. Sporadic still works in normal combat.
+- Chain Lightning with Protective Lightning: she thinks she knows Chain Lightning; Tatsuya asks if she read it all the way. Chain Lightning also bounces off allies who can conduct (allies with mana; goblins with MP count, Tatsuya has MP). Protective Lightning means it does not hurt them (at worst a short slow, covered by the mist buff). She can use allies as conductors when the target is out of range, and she sees allies inside the mist on the mist's minimap radar.
+
+OPEN (asked of the author): ground count 9 or 10 (does Zinka count in the strike unit, does Kesh hold the line); agility boost in sporadic only or both casts; Arya level (default 10).
