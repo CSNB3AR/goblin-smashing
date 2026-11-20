@@ -15,7 +15,8 @@ The working story text, first person, past tense, inside Tatsuya's head. One fil
 | 7 Consequences in Silence | `chapter-07.md` | Updated draft. Waiting on the Walter pass. |
 | 8 VRSA Inspection | `chapter-08.md` | Updated draft. Waiting on the Walter pass. |
 | 9 The First Disciple | `in-progress/now/chapter-09-the-first-disciple.md` | Updated draft with Walter dividers (1,400 words or fewer per chunk). Waiting on the Walter pass. |
-| 10 Assembling the Assault Team | `in-progress/now/chapter-10-assembling-the-assault-team.md` | Updated draft with Walter dividers. The author is running the Walter pass on it now; hold edits until it is back. |
+| 10 Assembling the Assault Team | `in-progress/now/chapter-10-assembling-the-assault-team.md` | Reworked draft (the tent scene only, about 2,100 words), ends on Leon's cut, the new quest timer and Tatsuya leaving the tent. Dividers in. |
+| 11 Assembling the Assault Team, Part Two | `in-progress/now/chapter-11-assembling-the-assault-team-part-2.md` | New draft start: logout, the pod room and the Coach beat, the bathroom research, Arya's "Hey, Nykri" and her yes. To be continued (her build and Hushveil, J-Link, the plan). The older `chapter-11-silence-and-fire.md` in the same folder is an old draft to be rewritten. |
 | 11 | `in-progress/now/chapter-11-silence-and-fire.md` | Old draft, to be rewritten when we reach it. Older versions of 9 to 11 are in `in-progress/previous/`. |
 
 ## The process that makes a final draft

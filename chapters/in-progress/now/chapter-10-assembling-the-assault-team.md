@@ -106,132 +106,28 @@ Sevish didn't answer. His hand had stopped on the haft, and for a long moment th
 
 "No." A short laugh got out of me before I could stop it. "I'm not suggesting we sit here with our hands folded, and I'm not suggesting we be walking targets either. Give me enough time to organize a proper plan. I'll put together a small team and hit them from two sides while they're recovering. I'll make it work if you give me the time."
 
-"Shiv put him under your calling," Sevish said at last, slowly. "Then I will not disobey Shiv." His hand tightened on the haft. "Handle the ones at the bottom of the hill. You have until the east torches burn out. If they are not handled, I handle it my way."
+"Shiv put him under your calling," Sevish said at last, slowly. "Then I will not disobey Shiv." He leaned across the table, and the chair groaned under him. "But I will hear this plan of yours. Now."
+
+His eyes stayed on mine, two alphas in one small room, neither of us looking away. I felt my own temper rising to meet his, and for one second I forgot he could end me with a single swing.
+
+"I need you off now," Leon said in my ear. "The pod's overheating and the VRSA inspector's here. Now, man."
+
+I let out a breath, and my hand loosened on the edge of the table. I couldn't give him the plan. I didn't have it yet.
+
+"I can't. Not yet," I said. "Give me some time to work it out, and I'll be back shortly. I need time to prepare."
+
+Sevish studied me for a long moment. Then he let the axe settle against his shoulder. "All right. Fine. I will let you handle it. But you have an hour and a half of this night. Handle the ones at the bottom of our hill, or I handle them my way."
+
+**[WORLD QUEST UPDATED: CALL OF THE BONES]**
+
+**[NEW OBJECTIVE: HANDLE THE INTRUDERS AT THE FOOT OF THE HILL]**
+
+**[TIME LIMIT: 01:30:00]**
 
 "Fair enough," I said. "And if I handle it, I hope we can work together a lot smoother after."
 
-"Hah." The rough laugh came out low and short. His eyes stayed on mine, two alphas in one small room, neither of us looking away. I felt my own temper rising to meet his, and for one second I forgot that he could end me with a single swing.
-
-"We have to get off," Leon said in my ear. "The VRSA inspector's here."
-
-The anger went out of me all at once. I let out a breath, and my hand loosened on the edge of the table. I had been about to shout at someone who could end me with one swing.
-
-"Enough," I said. "I'm heading back to my tent to prepare."
+"Hah." The rough laugh came out low and short. Wyx's eyes followed me as I stepped back from the table.
 
 I turned my back on both of them and shoved the flap aside.
-
-The holding tent stood where I'd left it, the bedroll still flattened where I'd slept, the oil lamp low on its hook. I sat down on the bedroll.
-
-"Sit," Leon said. "Hold still."
-
-The lamp smeared into one long white line, and then the world went out.
-
---------
-
-The lid hissed open on the ceiling of the pod room, soft lantern light after the dark of the visor. I sat up slow, and my joints complained the way they always did after a long dive. The inspector was already at the monitor bay, crouched in front of the open panel with his black suit pressed flat against the chair, his long black hair tied low at the neck, a bang falling across one lens of his glasses. His tools lay in a neat row on a cloth beside him.
-
-Leon stood next to him, one hip against the desk, glasses slipping down his nose. He looked up when I moved.
-
-"It hit the thermal limit," he said. "The override held. It's the stream that cooked it."
-
-"Streaming roughly doubles the draw," the inspector said, flat, without looking up. "The unit was not built for that."
-
-"Sorry about the pod," I said.
-
-"Don't be." Leon pushed his glasses back up. "I've run this place a long time. I've watched a lot of streams on that screen." He nodded at the monitor in front of the inspector. "I never saw anything like what you just pulled."
-
-"You could be my coach," I said, half a joke.
-
-Leon didn't answer right away, still bent over the panel. Then, quieter, mostly to himself, "Coach. Yeah." A pause, like he was turning it over. "Yeah, I could see that."
-
-"Give me the ten minutes," he said, louder. "Go stretch your legs. You've been under a long time."
-
-I ducked into the bathroom at the end of the upstairs hall and braced my phone against the sink. The Romans I already knew: the legion's shields locked edge to edge, short swords working between them. For the rest I had a few minutes. The armies of China's Warring States had drilled their spear and shield lines until the front rank could take a charge, Japan's Sengoku armies had done the same with spear walls behind their shield screens, and the Vikings stood shoulder to shoulder with their shields overlapping like a fence. Different centuries, same idea: a line that holds, and something sharp behind it. I read until I had the shape of it, pocketed the phone, and went downstairs.
-
-I took the spiral staircase down to the lounge. It was quiet for the hour, the clock over the counter reading 8:54, one desktop glowing at the far wall. The only person in the room was behind the front counter, and she looked up before I reached the last step.
-
-She had white hair in a messy bun, ink running down both forearms to the wrist, a plain black tee and sharp gray eyes. A half-smirk.
-
-"Hey, Nykri."
-
-She'd used the handle instead of my name. I stopped with one hand on the rail.
-
-"Relax," Arya said, folding her arms on the counter. "Leon said you were on the quest. I watched the stream on the screen out here, and your camp's in trouble." She pushed off the counter. "So I'll skip the speech. I want in. Your quest, your camp, your fight. Whatever's coming for that camp, I've seen where the guild chat thinks it goes next, and I'd rather be on the inside when it does."
-
-"No."
-
-"I haven't said what I'm offering."
-
-"Still no." I kept my voice even. "I don't know you. I'm a goblin in a hole and I'm not putting anybody else in it."
-
-"Easy." The smirk went a little crooked. "I've heard goblins bite. I'm friendly, I promise."
-
-"I've been told that," I said.
-
-Something moved behind her eyes, and she looked at the counter instead of me. "My crew fell apart early in the season. The point is I've got a build and nowhere to run it, and you've got a quest the whole server wants."
-
-"What's your build?" I said finally.
-
-"Elf, Spellforger, level ten." She shrugged one shoulder. "Mostly field spells. Static Lash, Tempest Fan, Storm Shear, Stormwall, and a fog spell called Hushveil that I never use."
-
-"What does the fog do?"
-
-"Hides whoever's standing in it. It's about as wide as a small room, it lasts fifteen seconds, and then it needs thirty to cool down." She counted it off on her fingers. "It eats mana fast and it does zero damage. Nobody builds around it."
-
-"Does the tree let you push it further?"
-
-Her eyes went briefly unfocused as she pulled her own screen open. "There's a branch past it. Silence. Anyone caught in the mist can't cast and can't call out to their party." Her mouth twisted. "Five points deep, and I've never looked at it twice."
-
-The one with the staff cast the most, Zinka had said. A fog that shut a caster's mouth was the piece I was missing. The plan I'd been carrying finally had a middle, and for the first time since the alert my hands felt steady.
-
-"Put the points there," I said. "Before you log in."
-
-She stared at me for a long moment. "You want me to put everything I have into the one spell nobody takes, on the word of a goblin."
-
-"Yes."
-
-"I could lose all of it."
-
-"You could." I didn't look away. "How many points are you sitting on?"
-
-"Too many," she said, and laughed once, short and a little ragged. "Fine. I'm gambling it all on the weakest race in the game."
-
-"Before you log in," I said again.
-
-"Before I log in." She pulled her phone from under the counter, thumb already moving. "J-Link's two blocks over. Give me twenty minutes to get a seat and log in, and another ten to reach you. Half an hour, all in. Leon's the only one with the voice channel, so once I'm in your party we talk in person. Don't wait for me to call you."
-
-"I won't," I said.
-
-Shoes scuffed on the stairs behind me. Leon came down with his cigarette tucked behind his ear and stopped at the bottom, looking from her to me and back.
-
-"What the hell did I miss?"
-
-"Nothing, brother," Arya said, grabbing her bag from under the counter. "Heading to J-Link to hop on for a bit. Met a new friend."
-
-She was already out the door, the bell over it jangling. Leon stared at it for a second.
-
-"Your sister is different," I said.
-
-"Yeah." He took the cigarette from behind his ear and put it back. "Tell me about it."
-
-The inspector had finished with his panel by the time we got back upstairs, a sticker half-peeled from a sheet in his hand. He peeled it onto the pod's frame and stepped aside.
-
-"It will hold for the session," he said. "Not past it."
-
-"That's all I need," I said, and lay back.
-
-The lid came down and sealed. The visor lowered. The dark came, and then the rush, and then the game folded back into focus around me.
-
-The first thing I noticed was the quiet. The oil lamp sat low and guttering, the flap hung crooked on one tie, and the straw crackled under me as I sat up.
-
-**[WELCOME BACK TO ERYNDAL, LUNAREST OUTSKIRTS]**
-
-**[THRASH CLAN DEFENDERS: 10/20]**
-
-*"Ten. Sevish said fourteen."*
-
-A roar rolled across the camp before I was on my feet, rough and wide, a woman's voice. It didn't freeze me. It dragged every head in earshot toward the stakes, mine included. *"Wyx's Howl. She doesn't howl at nothing."*
-
-I shoved the flap aside and ran.
 
 **[END CHAPTER TEN]**
