@@ -70,7 +70,7 @@ Her whole body let out the breath. "Thank you. Seriously."
 
 "Joining your guild doesn't mean I want to lead it." I kept my arms loose. "But I'm not going to sit there with nothing to say about it, either. We'd have to work out how it looks. I don't mind splitting the leadership."
 
-"Co-leaders works." She nodded, quick. "It'd be great for recruitment, too, and I'm not trying to use you as bait. Bringing people in with a player on the roster who's tied to a world quest is huge." She hesitated, and her hand went back to her wrist. "It also decides what kind of crowd we end up with, and not all of that is good."
+"Co-leaders works." She nodded, quick. "It'd be great for recruitment, too, and I'm not trying to use you as bait. Bringing people in with a player in the guild who's tied to a world quest is huge." She hesitated, and her hand went back to her wrist. "It also decides what kind of crowd we end up with, and not all of that is good."
 
 "Leon already mentioned some of that when he brought up the stream."
 
