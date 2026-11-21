@@ -14,9 +14,17 @@ When I came out fifteen minutes later, Leon and the inspector were already going
 
 "I'm not ignoring anybody." I stopped, but I didn't turn. "I don't know who you're talking to."
 
-"So you're telling me..." She laughed under her breath. "No need to hide it. It's kind of hard to when you're the only person playing in those pods, and HGO's up on this monitor." She nodded at the screen and then at the pod beside me. "How did you guys even get these ancient pods to work? I thought they were just shells."
+"So you're telling me you're not Nykri?" She tipped her head, the smirk creeping back. "Even though you're the only person outside of my brother who's ever in this store, and HGO's up on that monitor right now."
 
-She walked over and knocked her knuckles against the shell of the working one. For some reason it bothered me a little.
+*"Shit."* She'd closed every door I could think of. I stood there with my back to her, and nothing in my head came up with a way out. *"Damn."* I let out a slow breath and turned around.
+
+"All right." I kept my voice flat. "So what if I am?"
+
+"Then there's no need to hide it." She said it easily, like she'd won something small, and nodded at the pod beside me. "How did you guys even get these ancient pods to work? I thought they were just shells."
+
+"They work."
+
+"Clearly." She walked over and knocked her knuckles against the shell of the working one. For some reason it bothered me a little.
 
 "Leon said it didn't take long," she went on, backing off a step. "He only had to program a few things and re-download a few things, so you can hop back in about ten minutes. Everything's rebooting right now. And your stream got big while you were out. People are talking about the world quest, London Spire and some of the other big guilds included."
 
