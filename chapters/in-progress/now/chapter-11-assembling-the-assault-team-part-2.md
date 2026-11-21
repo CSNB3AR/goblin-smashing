@@ -20,17 +20,21 @@ She walked over and knocked her knuckles against the shell of the working one. F
 
 "Leon said it didn't take long," she went on, backing off a step. "He only had to program a few things and re-download a few things, so you can hop back in about ten minutes. Everything's rebooting right now. And your stream got big while you were out. People are talking about the world quest, London Spire and some of the other big guilds included."
 
-I turned around. The pod room smelled of warm plastic and solder, the two pods standing dark under the lantern lamps, and nobody else was there.
+"Ten minutes." I nodded, mostly to myself. That was enough time to get ready, so I went to the working pod, sat on the platform step beside it, and took my drive out of my pocket. The pod room looked the way it always did, brick pillars and steel trusses, the lantern lamps throwing amber across the concrete, the pod standing dark in the open floor like a tower with its cable bundles running down into the base. The port beside the seat waited for my drive. I turned the drive over in my fingers and checked the contacts, the way I'd checked them a hundred times.
 
-She crossed her arms and looked me directly in the eyes, tilting her head back to do it. "Can you make a guild with me?"
+Arya followed me over and stopped close, one hand still resting on the pod's frame as if she'd forgotten what she'd just done to it. Her smirk sat crooked, and her eyes moved fast over the pod, the drive and my face, the way someone's did when they'd already made up their mind. A loose strand of white hair fell across her cheek, and she blew it away.
 
-I crossed my arms too, without deciding to, and I could feel my face doing something dumbfounded. We had barely spoken. Yes, I was working with her brother, and that was all.
+She crossed her arms and looked me directly in the eyes, tilting her head back to do it. "Can you make a guild with me?" It came out flat and quick, smug at the edges, like she already knew what I'd say.
+
+I laughed once through my nose, and there was no humor in it. My face was doing something dumbfounded, and I let it. I stood up off the step and took a step back from her. "A guild. We've talked maybe twice. You know a name I never gave you, you knocked on my pod, and now this."
+
+She held her ground, eyebrows lifting, waiting. I crossed my arms.
 
 "Why me?" I said.
 
 "Honestly, one, I wouldn't have picked you if you didn't have the connection to my brother." She said it easily, her weight on one hip. "When he said he had someone working on the pods, I figured it was general maintenance. But someone who can bring these pods back, and keep learning, I can grow with that." She shrugged. "If I'm being honest, it has nothing to do with your world quest. It has a lot to do with the people, the system, what I've seen you do. You seem like a voice of reason. And nobody else has a troop system, NPCs under your control. I can't get that anywhere."
 
-It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. I didn't think she was trying to be rude. But the knock on that shell still sat wrong, and my hand had tightened on the edge of the desk before I noticed.
+It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. I didn't think she was trying to be rude. But the knock on that shell still sat wrong, and my hand had tightened around the drive before I noticed.
 
 "One of those ancient pods is my dad's." I kept my voice level. "We're in the process of fixing both."
 
@@ -46,6 +50,8 @@ I stopped in the doorway without turning around. "Yeah."
 
 "I didn't know." It came out fast, almost over me. "Leon told me to be here when you came back, and I wasn't trying to insult it. I've had my head in my phone the whole time you've been around, and I thought you were just another player. My brother never shuts up about that company, and I just knocked on it." She pressed the heel of her hand against her forehead. "That was out of line. I'm sorry. It makes sense now, why he does business with you."
 
+--------
+
 I turned around slowly and kept my arms folded. Her eyes were on the floor.
 
 "I'll hire you," she said. "Name a number. I don't care what it is."
@@ -54,11 +60,11 @@ I turned around slowly and kept my arms folded. Her eyes were on the floor.
 
 "Okay." She nodded, quick, taking it without arguing. "Okay. That's fair."
 
-The pod room went quiet, the monitor humming. I scratched at my thin goatee and looked at her, really looked, at the ink on her wrist and the way she was holding her own elbow to keep her hands still. She'd gone from cocky to this in a minute, and none of it looked like an act.
+The pod room went quiet, the monitor humming. I scratched at my thin goatee and looked at her, really looked, at the way she was holding her own elbow to keep her hands still. She'd gone from cocky to this in a minute, and none of it looked like an act.
 
 "Why does this matter so much to you?" I asked.
 
-"Being a girl gamer is already tough." She said it without looking away. "Add a reputation that isn't even true, and getting people to join your guild is hard, and getting them to stay is harder. I need money. I need to fight my parents, and I want to stay here. I want to go pro, my own way." Her thumb scraped the ink on her wrist. "I'm not going to pressure you. You can say no. I saw the opportunity, and I figured I had nothing left to lose. I was texting my mom when you got here."
+"Being a girl gamer is already tough." She said it without looking away. "Add a reputation that isn't even true, and getting people to join your guild is hard, and getting them to stay is harder. I need money. I need to fight my parents, and I want to stay here. I want to go pro, my own way." Her thumb pressed hard against her wrist. "I'm not going to pressure you. You can say no. I saw the opportunity, and I figured I had nothing left to lose. I was texting my mom when you got here."
 
 I didn't answer right away. Thornwatch was where all of this ended up, and I couldn't walk into it with only a camp of goblins. Whatever came out of it, I'd be up against guilds. Maybe a partner was worth the risk. I let my arms drop.
 
