@@ -1447,3 +1447,6 @@ LEDGER ONLY, Arya's side (do not put on the page): Leon and Arya already worked 
 
 ## Tatsuya guesses; he does not know (author, latest) STANDING RULE
 AUTHOR-STATED: Tatsuya must be curious and guess, not hand himself the answer. He assumes ("I take it he asked her to help while he works with VRSA"), he does not know for sure because nobody said so. Never write his thoughts as settled fact when no one has told him. Applied in Chapter Eleven: why Arya is at the desk, why the march did not happen, how the raiders ended up on the road, what the level deduction means, whether she was being rude, and whether a Spellforger is the missing piece. The foreshadowing stays in what he notices, not in what he concludes.
+
+## Two fixes (author, latest)
+AUTHOR-STATED: Arya does not give a long explanation of how she knew it was him; Leon already recorded most of the session on the monitor, so "all I needed to do was sit down." No visor strap detail: he redid his locs at the bathroom mirror because they had worked loose. Author is listening live and will interrupt with fixes; apply each as it comes.
