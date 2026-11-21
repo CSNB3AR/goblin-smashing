@@ -1,5 +1,7 @@
 # Eryndal Map Commission Brief (working list)
 
+> **UPDATE (author, latest):** the author now has a free map (`codex/locations/eryndal-map-notes.md`). This commission brief is paused.
+
 Purpose: what a map artist needs. Tags: [PAGE] shown in a chapter, [AUTHOR] author-stated in the codex, [OPEN] undecided, do not draw it as final. Nothing here invents a new name. The map must show coordinates (the author says the in-game world map displays exact coordinates).
 
 ## The five continents (Hearthfire expansion)
