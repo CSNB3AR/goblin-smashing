@@ -1450,3 +1450,6 @@ AUTHOR-STATED: Tatsuya must be curious and guess, not hand himself the answer. H
 
 ## Two fixes (author, latest)
 AUTHOR-STATED: Arya does not give a long explanation of how she knew it was him; Leon already recorded most of the session on the monitor, so "all I needed to do was sit down." No visor strap detail: he redid his locs at the bathroom mirror because they had worked loose. Author is listening live and will interrupt with fixes; apply each as it comes.
+
+## Valefrost cleaned (author, latest)
+AUTHOR-STATED: Valefrost is only Frostborn and Dwarves, like Dwargon from That Time I Got Reincarnated as a Slime. Ashenveil Forest and Mountains, Skaldmere, Varekpass, Varekhold and the Barren Lands came from BKC and are not part of Valefrost or the current map; they are parked (files marked PARKED) and can be used later. I should not have pulled BKC material into the map brief. Rule: do not carry BKC names into the Goblin Smashing world without the author's say. OPEN: Khen-Mora, the Astralum Archive and Luxor Lakes are also "forward material" of uncertain origin; ask before they go on any map.

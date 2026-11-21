@@ -1,5 +1,7 @@
 # The Ashenveil Forest and Mountains
 
+> **PARKED (author, latest):** BKC leftover. NOT in Valefrost and not part of the current world. Kept only in case the author wants it later.
+
 **Type:** In-game location, Eryndal. A vast ancient forest and mountain belt across south-central Valefrost. Forward material.
 
 ## Facts

@@ -1,5 +1,7 @@
 # Skaldmere
 
+> **PARKED (author, latest):** BKC leftover. NOT in Valefrost and not part of the current world. Kept only in case the author wants it later.
+
 **Type:** In-game location, Eryndal. A small waypost town on the southern approach to the first pass in Valefrost. Forward material.
 
 ## Facts

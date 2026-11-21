@@ -1,5 +1,7 @@
 # The Barren Lands
 
+> **PARKED (author, latest):** BKC leftover. NOT in Valefrost and not part of the current world. Kept only in case the author wants it later.
+
 **Type:** In-game location, Eryndal. A contested borderland zone. Forward material.
 
 ## Facts

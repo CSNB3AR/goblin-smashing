@@ -1,5 +1,7 @@
 # Varekhold
 
+> **PARKED (author, latest):** BKC leftover. NOT in Valefrost and not part of the current world. Kept only in case the author wants it later.
+
 **Type:** In-game location, Eryndal. A mountain fortress above a cold coast in Valefrost (which coast is OPEN). Forward material, not yet on the page.
 
 ## Facts

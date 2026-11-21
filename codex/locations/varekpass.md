@@ -1,5 +1,7 @@
 # Varekpass
 
+> **PARKED (author, latest):** BKC leftover. NOT in Valefrost and not part of the current world. Kept only in case the author wants it later.
+
 **Type:** In-game location, Eryndal. A garrison settlement at the northern pass in Valefrost. Forward material.
 
 ## Facts

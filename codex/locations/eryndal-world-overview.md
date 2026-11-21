@@ -18,7 +18,7 @@ An abandoned, broken-down fortress the king once held, now rubble and old stone,
 
 ## Places by region (forward material)
 
-- **Valefrost (north):** the **Ashenveil Forest and Mountains** (`codex/locations/ashenveil-forest.md`) divide the southern lowlands from the northern holds. **Skaldmere** (`codex/locations/skaldmere.md`) is the waypost town on the approach, **Varekpass** (`codex/locations/varekpass.md`) the garrison pass beyond it, and **Varekhold** (`codex/locations/varekhold.md`) the mountain fortress above a cold coast (which coast is OPEN). The **Barren Lands** (`codex/locations/barren-lands.md`) are the contested zone (placement on Valefrost's southern lowlands is the working read, OPEN) where the first big guild clashes land once the map opens.
+- **Valefrost (north):** Frostborn and Dwarves only, a Dwarven kingdom in the manner of Dwargon from That Time I Got Reincarnated as a Slime. No other places are named. (Author-stated, latest: Ashenveil Forest and Mountains, Skaldmere, Varekpass, Varekhold and the Barren Lands are BKC leftovers, NOT in Valefrost. The files stay in `codex/locations/` as parked material to reuse later if the author wants.)
 - **Myrrhwood (west):** **Khen-Mora** (`codex/locations/khen-mora.md`) is the border march on the Beastfolk side facing goblin territory.
 - These are node and hall sites for Node Wars (towns, resource sites, forts), not capitals.
 
