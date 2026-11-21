@@ -4,11 +4,11 @@ The lamp smeared into one long white line, the world went out, and the pod lid h
 
 The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I redid my locs, which had worked loose, and tied them back up, then took the last stall and sat down with my phone. My drive synced the world map to the HGO app, with a pin where I'd logged off, and I dragged it until the camp sat in the middle of the screen, the hill, the road below it, the cliff behind. I pulled up a few diagrams beside it and went through who I could take. Ru and Zinka, at best. Zinka had information on the ground, so she'd be the better of the two. Pulling more goblins off the line would wreck the strategy up front, so two it would be. *"Damn it."* I'd have to bear with it and hope the gas landed, and catch them while they were recovering. Fighting them head-on would be trouble.
 
-When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer and her eyes on her own phone. *"Why is she up here and not Leon? Maybe he asked her to cover the pod while he deals with the inspector."* I walked past the desk toward the pod without looking at her.
+When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer and her eyes on her own phone. *"So she'll be watching over me now."* Leon had said she'd be in that seat some days. *"It is what it is."* My head was already back in the game, so I walked past the desk toward the pod and gave her nothing but a glance at the phone in her hands.
 
 "Hey, Nykri."
 
-I kept walking. Nobody in the real world was supposed to know that name, and I wasn't going to turn around for it.
+*"Shit. She was paying attention. How much does she know?"* Nobody in the real world was supposed to know that name. I kept walking toward the pod, and I didn't answer.
 
 "Hey man." She set the phone down. "Why are you ignoring me?"
 
