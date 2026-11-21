@@ -1453,3 +1453,6 @@ AUTHOR-STATED: Arya does not give a long explanation of how she knew it was him;
 
 ## Valefrost cleaned (author, latest)
 AUTHOR-STATED: Valefrost is only Frostborn and Dwarves, like Dwargon from That Time I Got Reincarnated as a Slime. Ashenveil Forest and Mountains, Skaldmere, Varekpass, Varekhold and the Barren Lands came from BKC and are not part of Valefrost or the current map; they are parked (files marked PARKED) and can be used later. I should not have pulled BKC material into the map brief. Rule: do not carry BKC names into the Goblin Smashing world without the author's say. OPEN: Khen-Mora, the Astralum Archive and Luxor Lakes are also "forward material" of uncertain origin; ask before they go on any map.
+
+## Wraith Isles removed (author, latest)
+AUTHOR-STATED: the Wraith Isles are not a thing anymore. Removed from the map brief and the world overview. STALE mentions remain in: codex/creatures/dnd-bestiary-baseline.md, codex/creatures/class-4.md, codex/materials/dnd-gear-material-map.md, codex/materials/overview.md, codex/arena/overview.md, bible/writing-bible.md, and older ledger lines. Do not use it. Where the arena or ranked zone is needed, ask the author what replaces it.
