@@ -4,7 +4,7 @@ The lamp smeared into one long white line, the world went out, and the pod lid h
 
 The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I untied my locs, still dragging at the back of my neck from the visor strap, and twisted them up again, then took the last stall and sat down with my phone. My drive synced the world map to the HGO app, with a pin where I'd logged off, and I dragged it until the camp sat in the middle of the screen, the hill, the road below it, the cliff behind. Then I pulled up a few diagrams beside it. The plan was only a rough shape in my head: a fight up front to hold their eyes, and a strike from somewhere they weren't looking. I could name two people I'd take down the back with me. I ran the gas through it, the stuns, what happened if one of them resisted, and every time I reached the end the same hole stayed open. I needed something I didn't have yet, and I couldn't say what.
 
-When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer and her eyes on her own phone. *"Leon knew about my clock, so he sent her up to cover the pod."* I walked past the desk toward the pod without looking at her.
+When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer and her eyes on her own phone. *"Why is she up here and not Leon? Maybe he asked her to cover the pod while he deals with the inspector."* I walked past the desk toward the pod without looking at her.
 
 "Hey, Nykri."
 
@@ -30,7 +30,7 @@ I crossed my arms too, without deciding to, and I could feel my face doing somet
 
 "I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I could be impressed by how you moved through that world quest, or by how you even got HGO running on one of those ancient pods. I'm not going to ask which is crazier. That's a question for Leon. I have information, too. I've been playing this game a very long time."
 
-It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. She wasn't trying to be rude. I knew that. But "ancient" landed wrong, and my hand had tightened on the edge of the desk before I noticed.
+It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. I didn't think she was trying to be rude. But "ancient" landed wrong, and my hand had tightened on the edge of the desk before I noticed.
 
 "One of those ancient pods is my dad's." I kept my voice level. "We're in the process of fixing both."
 
@@ -82,7 +82,7 @@ She grinned, a real one for the first time, and clapped her hands once. "Okay. T
 
 "What are you running?"
 
-"Elf, Spellforger, level ten." She counted it off on her fingers, and something in my head clicked into place, the hole I hadn't been able to close in that bathroom stall. *"A Spellforger. Anyone else and I'd have kept saying no."* "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
+"Elf, Spellforger, level ten." She counted it off on her fingers, and something in my head clicked into place, the hole I hadn't been able to close in that bathroom stall. *"A Spellforger. That might be the piece I'm missing."* "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
 
 "Can you cast Hushveil?"
 
@@ -175,7 +175,7 @@ Five minutes. I took the ridge path at a run, stakes and torches blurring past o
 
 "Quick one while you run," Leon said, a little out of breath, like he'd been running too. "I've been reading Loop since you went under. People are tying the missing monthly goblin march to your world quest. Nobody's seen Thrash walk down to the walls of Lunarest this month, and a few streamers say they've been camped on that road for hours waiting for it."
 
-I slowed half a step and caught a stake to keep my balance. *"The march didn't happen because I held them for a whole day."* Every month the camp rallied, charged the city walls, and got cut down, an easy early-level farm every newbie knew about. A party sitting on that road with nobody coming down it would have gone looking, and what they'd found was a camp on a hill. That was how four raiders had ended up in a red tent at the foot of mine.
+I slowed half a step and caught a stake to keep my balance. *"Maybe the march didn't happen because I held them for a whole day."* Every month the camp rallied, charged the city walls, and got cut down, an easy early-level farm every newbie knew about. A party sitting on that road with nobody coming down it would have gone looking, and what they'd found was a camp on a hill. That could be how four raiders had ended up in a red tent at the foot of mine.
 
 "That explains why they're here," I said, breathing hard. "Thanks. Keep reading it."
 
@@ -221,7 +221,7 @@ I looked along the line at the five I'd picked. Four of them had never used a bo
 
 Her smile widened. "I do enjoy a fight."
 
-I let that sit, and filed away what it would tell me. *"Wyx is twenty-five. If they can't get past her, they're under twenty-five, and that says what's in that tent."*
+I let that sit, and filed away what it would tell me. *"Wyx is twenty-five. If they can't get past her, they're under twenty-five, and that might say something about who's in that tent."*
 
 "It holds about thirty seconds." I looked at Sevish again. "You count it in your head, chief, and when it's done you call your sister back. Then the wall goes up, shields raised, and steps forward while she falls behind it. The mage hits the boards with fire, the sword-and-shield man hits a goblin and the goblin hits him in the gut, and he backs off. The roar needs about forty-five seconds before she can use it again, so the wall holds fifteen. Then she walks out and does it again, and every one of them has to look at her."
 
