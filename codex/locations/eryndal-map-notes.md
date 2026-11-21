@@ -21,3 +21,12 @@ Images: `codex/locations/reference/eryndal-world-map.png` (original) and `codex/
 6. **Lunarest Outskirts** matches (southwest of the royal city), where the Thrash Clan outpost camp is.
 
 Use the map as the visual reference. Do not change names or positions in the story until the author rules on the conflicts.
+
+
+## Edits made to the corrected copy (author asked)
+- Sunmarch is split into six pieces by water channels (a rough edit, the land art is the original): left three marked with a lizard badge and a camp (swamp, Lizardmen), right three marked with a crossed-axes badge and a camp (desert, Orcs). Reeds mark the swamp islands, dune arcs mark the desert islands.
+- Beast Kingdom: the castle icon is replaced with a paw under a crown.
+- Valefrost: an anvil-and-hammer emblem beside the name for the Dwarven kingdom.
+- Lunarest and Azure Expanse left as drawn (the author likes them).
+- Labels: Khen-Mora, The Goblin Tribal Lands.
+Limits: the channels are painted over the original land, so the islands read as split regions more than clean archipelago islands. A regenerated map would do this better.
