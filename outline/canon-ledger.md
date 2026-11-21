@@ -1488,3 +1488,6 @@ AUTHOR-STATED: the free map is a codex reference for me only; its names are the 
 
 ## Map labels corrected (author asked)
 Edited the two labels on the free map to match the lore: Kenmore to Khen-Mora, The Wasted Tribal Lands to The Black Lands. Saved as codex/locations/reference/eryndal-world-map-corrected.png; the original stays beside it. Positions were not changed (Thornwatch is still drawn on Valefrost, Azure Expanse still east).
+
+## Goblin Tribal Lands (author, latest) CORRECTS the previous map edit
+AUTHOR-STATED: the label on Myrrhwood's goblin region is "The Goblin Tribal Lands" (what the author originally asked for), not "The Black Lands." Map re-edited. The older lore name "Black Lands" appears in codex/locations/eryndal-world-overview.md; treat it as the same place and prefer "Goblin Tribal Lands" going forward. The author also dislikes the giant ring drawn around the Beast Kingdom, but said to leave it as is.
