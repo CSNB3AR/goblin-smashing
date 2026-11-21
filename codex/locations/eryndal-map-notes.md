@@ -2,7 +2,7 @@
 
 > **Reference only (author, latest):** this map is for the codex so the names and shapes are identifiable; readers are not going to see it. The names on it are the same as the lore ("Kenmore" is the lore's Khen-Mora, "The Wasted Tribal Lands" is the Black Lands). Lore names win. The conflicts listed below are cosmetic notes, not open questions. The author allows correcting the labels on the graphic.
 
-Image: `codex/locations/reference/eryndal-world-map.png`. Parchment style, compass with north up, a legend (Major City, Fort / Stronghold, Camp, Mountains, Forest, Territory Border). No coordinate grid on it yet; the story says the in-game map shows coordinates, so a grid can be added later.
+Images: `codex/locations/reference/eryndal-world-map.png` (original) and `codex/locations/reference/eryndal-world-map-corrected.png` (labels fixed to the lore: "Kenmore" is now "Khen-Mora", "The Wasted Tribal Lands" is now "The Black Lands"; positions unchanged). Use the corrected copy. Parchment style, compass with north up, a legend (Major City, Fort / Stronghold, Camp, Mountains, Forest, Territory Border). No coordinate grid on it yet; the story says the in-game map shows coordinates, so a grid can be added later.
 
 ## What the map shows (labels exactly as drawn)
 - **Valefrost** (north): mountains, a large walled gate across the top, then **Thornwatch Fort** and **Thornwatch Forest** on the southern forested half.

@@ -1485,3 +1485,6 @@ AUTHOR-STATED: two more peoples are added at the end of the announcement: Orcs a
 
 ## Books One to Three and "the game is the cake" (author, latest)
 AUTHOR-STATED: the free map is a codex reference for me only; its names are the same as the lore (Kenmore = Khen-Mora, Wasted Tribal Lands = Black Lands). Lore names win; the map conflicts are cosmetic, not questions. Series shape: Book One is Lunarest (level up, quests, money, a guild, the trip to the Azure forest; long goal Myrrhwood); Book Two reaches Myrrhwood (clans, politics, alliance, Beast Kingdom partnership); Book Three is Sunmarch (already being claimed by others, new raids, an expansion-style arc). Each kingdom gets its own arc, like Avatar; they need not all open at once for the reader. The game is the main storyline and the real world is the subplot: the game is the cake, the real world is the icing. Make the princes, the court and the game politics excellent. Saved in outline/series-structure-books-one-to-three.md.
+
+## Map labels corrected (author asked)
+Edited the two labels on the free map to match the lore: Kenmore to Khen-Mora, The Wasted Tribal Lands to The Black Lands. Saved as codex/locations/reference/eryndal-world-map-corrected.png; the original stays beside it. Positions were not changed (Thornwatch is still drawn on Valefrost, Azure Expanse still east).
