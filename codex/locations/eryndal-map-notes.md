@@ -7,7 +7,7 @@ Image: `codex/locations/reference/eryndal-world-map.png`. Parchment style, compa
 - **Myrrhwood** (west, its own island): the walled **Beast Kingdom, "Kenmore"** at the top (a ring wall and a keep icon), a territory border across the middle, and **The Wasted Tribal Lands** below with camp icons (tents).
 - **Lunarest** (center): **Royal City of Lunarest** in the middle, **Lunarest Outskirts** to the southwest, dotted territory borders cutting the continent into provinces.
 - **Azure Expanse** (east): dense forest and mountains, a glowing stone archway on the east side (reads as the elven gate).
-- **Sunmarch** (south): mountains and forest across the whole bottom.
+- **Sunmarch** (south): mountains and forest across the whole bottom. Orcs and Lizardmen clans (author, latest).
 - Small islands are scattered between them. No arena zone is drawn (consistent with the Wraith Isles being removed).
 
 ## Conflicts between the map and the written canon (author to decide)

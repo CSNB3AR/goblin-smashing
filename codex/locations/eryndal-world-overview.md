@@ -29,7 +29,7 @@ An abandoned, broken-down fortress the king once held, now rubble and old stone,
 - **Lunarest**: central hub, human-dominated, the Season Zero continent. Where Tatsuya's goblin glitch drops him: Lunarest Outskirts. Seat of the royal court.
 - **Valefrost**: north, Frostborn and Dwarves. A separate continent that opens with Hearthfire (boat, or the one free teleport).
 - **Myrrhwood**: west, Beastfolk and Goblin clans. Ship-locked, see above. Where Tatsuya eventually operates and finds his real advantage (not immediately, he starts in Lunarest Outskirts). See the Myrrhwood advantage note below, and the two-landmass structure and accessibility note directly below that.
-- **Sunmarch**: south, Orcs. A separate continent that opens with Hearthfire (boat, or the one free teleport).
+- **Sunmarch**: south, Orcs and Lizardmen (author-stated, latest: two peoples added at the end of the announcement; the author wrote "guilds", read as races or peoples). It is clan land, not a kingdom: the Orcs run tribes, the Lizardmen answer to a head chieftain in the manner of the lizardfolk chief in That Time I Got Reincarnated as a Slime. A separate continent that opens with Hearthfire (boat, or the one free teleport).
 - **Wraith Isles**: REMOVED (author, latest: "Wraith Isles isn't a thing anymore"). Older files that mention it are stale.
 - **Azure Expanse**: north peaks, Elves. A separate continent that opens with Hearthfire (boat, or the one free teleport).
 
@@ -59,3 +59,7 @@ The Thornwatch Forest sits closer to the Dwarven and Frostborn lands than to the
 ## Myrrhwood geography, author's latest description (supersedes the Dominican Republic/Haiti comparison where they differ)
 
 Myrrhwood is one plateau continent, in shape something like Australia crossed with Alaska, shared by two peoples. The Beast Kingdom holds the walled half and dominates most of the region; its wall is modeled on Ba Sing Se from Avatar: The Last Airbender (a city ringed by enormous outer and inner walls) but set in desert. The rest of the region is the **Black Lands**: not exactly feral land or wasteland, but many small goblin camps fighting each other over untouched terrain and raw materials, with no kingdom. Shiv united the goblins under one banner but never built a kingdom or a city, and he tried to settle things at the negotiating table, which the player finds out later from the game's history. The author also named the Dwarven Kingdom from That Time I Got Reincarnated as a Slime as the model for the Dwarves, and asked that these references be looked up rather than taken from the description alone; the Ba Sing Se walls were checked, the Dwarven reference still needs checking against the series itself.
+
+
+## Organized kingdoms versus clan lands (author-stated, latest)
+Organized kingdoms: Lunarest, the Beast Kingdom (the author spells it Kimora; the map says Kenmore; the codex says Khen-Mora, to settle) and Azure Expanse. Valefrost is the Frostborn and Dwarven kingdom. Sunmarch and Myrrhwood's tribal land are where a player can gather the most territory, because they are many clans and no single organized kingdom. Tatsuya's likely path: not only take the Myrrhwood clan lands but partner with the Beast Kingdom, and make Sunmarch the first big goal after that.
