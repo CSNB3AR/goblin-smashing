@@ -2,25 +2,25 @@
 
 The lamp smeared into one long white line, the world went out, and the pod lid hissed open on the ceiling lights. The inspector was already at the side panel with his tablet, and Leon stood over him with one hand on the desk. "Give us ten minutes or so," Leon said, not looking up. "He has to reprogram a few things."
 
-The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I redid my locs, which had worked loose, and tied them back up, then took the last stall and sat down with my phone. My drive synced the world map to the HGO app, with a pin where I'd logged off, and I dragged it until the camp sat in the middle of the screen, the hill, the road below it, the cliff behind. Then I pulled up a few diagrams beside it. The plan was only a rough shape in my head: a fight up front to hold their eyes, and a strike from somewhere they weren't looking. I could name two people I'd take down the back with me. I ran the gas through it, the stuns, what happened if one of them resisted, and every time I reached the end the same hole stayed open. I needed something I didn't have yet, and I couldn't say what.
+The bathroom at the far end of the pavilion was one of the open ones, the kind you'd find in a theater or any arcade, a row of stalls along one wall and a row of sinks under a long mirror, a tap dripping somewhere. Nobody else was in it. At the mirror I redid my locs, which had worked loose, and tied them back up, then took the last stall and sat down with my phone. My drive synced the world map to the HGO app, with a pin where I'd logged off, and I dragged it until the camp sat in the middle of the screen, the hill, the road below it, the cliff behind. I pulled up a few diagrams beside it and went through who I could take. Ru and Zinka, at best. Zinka had information on the ground, so she'd be the better of the two. Pulling more goblins off the line would wreck the strategy up front, so two it would be. *"Damn it."* I'd have to bear with it and hope the gas landed, and catch them while they were recovering. Fighting them head-on would be trouble.
 
 When I came out fifteen minutes later, Leon and the inspector were already going down the black staircase, the inspector's case on Leon's shoulder, and neither of them looked back. Across the pavilion, Arya sat at the operator desk with her feet up on an open drawer and her eyes on her own phone. *"Why is she up here and not Leon? Maybe he asked her to cover the pod while he deals with the inspector."* I walked past the desk toward the pod without looking at her.
 
 "Hey, Nykri."
 
-My feet stopped for half a step. I kept going, and I didn't answer.
+I kept walking. Nobody in the real world was supposed to know that name, and I wasn't going to turn around for it.
 
-"Hey man, I'm talking." She set the phone down. "Why are you ignoring me?"
+"Hey man." She set the phone down. "Why are you ignoring me?"
 
-I stopped and turned. "Pot calling the kettle black. You gave me that same energy when I first walked in."
+"I'm not ignoring anybody." I stopped, but I didn't turn. "I don't know who you're talking to."
 
-She blinked, and then she laughed once, short and surprised. "Okay. Fair."
+"So you're telling me..." She laughed under her breath. "No need to hide it. It's kind of hard to when you're the only person playing in those pods, and HGO's up on this monitor." She nodded at the screen and then at the pod beside me. "How did you guys even get these ancient pods to work? I thought they were just shells."
 
-"How do you know that name?" I asked.
+She walked over and knocked her knuckles against the shell of the working one. For some reason it bothered me a little.
 
-"It would have been harder to figure out." Arya tapped the monitor beside her. "But Leon's been recording most of the session on here, so all I had to do was sit down." She nodded at the pod, its lid still open under the amber lantern lamps. "It didn't take long. He only had to program a few things and re-download a few things, so you can hop back in about ten minutes. Everything's rebooting right now. And your stream got big while you were out. People are talking about the world quest, London Spire and some of the other big guilds included."
+"Leon said it didn't take long," she went on, backing off a step. "He only had to program a few things and re-download a few things, so you can hop back in about ten minutes. Everything's rebooting right now. And your stream got big while you were out. People are talking about the world quest, London Spire and some of the other big guilds included."
 
-The pod room smelled of warm plastic and solder, the two pods standing dark under the lantern lamps. Nobody else was there, and Arya stood up and came around the desk and stopped close.
+I turned around. The pod room smelled of warm plastic and solder, the two pods standing dark under the lantern lamps, and nobody else was there.
 
 She crossed her arms and looked me directly in the eyes, tilting her head back to do it. "Can you make a guild with me?"
 
@@ -28,9 +28,9 @@ I crossed my arms too, without deciding to, and I could feel my face doing somet
 
 "Why me?" I said.
 
-"I feel like we'd make a great pairing." She said it easily, her weight on one hip. "And it looks like you need some extra help in the situation you're in. I can take some of the load, and you don't know what kind of enemies you're about to face." The half-smirk widened a little. "I could be impressed by how you moved through that world quest, or by how you even got HGO running on one of those ancient pods. I'm not going to ask which is crazier. That's a question for Leon. I have information, too. I've been playing this game a very long time."
+"Honestly, one, I wouldn't have picked you if you didn't have the connection to my brother." She said it easily, her weight on one hip. "When he said he had someone working on the pods, I figured it was general maintenance. But someone who can bring these pods back, and keep learning, I can grow with that." She shrugged. "If I'm being honest, it has nothing to do with your world quest. It has a lot to do with the people, the system, what I've seen you do. You seem like a voice of reason. And nobody else has a troop system, NPCs under your control. I can't get that anywhere."
 
-It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. I didn't think she was trying to be rude. But "ancient" landed wrong, and my hand had tightened on the edge of the desk before I noticed.
+It came out confident, a touch cocky, and it sounded so much like Eren that I could almost hear his voice under hers. I didn't think she was trying to be rude. But the knock on that shell still sat wrong, and my hand had tightened on the edge of the desk before I noticed.
 
 "One of those ancient pods is my dad's." I kept my voice level. "We're in the process of fixing both."
 
@@ -44,7 +44,7 @@ I stepped around her toward the door. Behind me her footsteps stopped, and when 
 
 I stopped in the doorway without turning around. "Yeah."
 
-"I didn't know." It came out fast, almost over me. "Leon told me to be here when you came back, and I wasn't trying to insult it. I've had my head in my phone the whole time you've been around, and I thought you were just another player. My brother never shuts up about that company, and I just said that to your face." She pressed the heel of her hand against her forehead. "That was out of line. I'm sorry. It makes sense now, why he does business with you."
+"I didn't know." It came out fast, almost over me. "Leon told me to be here when you came back, and I wasn't trying to insult it. I've had my head in my phone the whole time you've been around, and I thought you were just another player. My brother never shuts up about that company, and I just knocked on it." She pressed the heel of her hand against her forehead. "That was out of line. I'm sorry. It makes sense now, why he does business with you."
 
 I turned around slowly and kept my arms folded. Her eyes were on the floor.
 
@@ -56,11 +56,11 @@ I turned around slowly and kept my arms folded. Her eyes were on the floor.
 
 The pod room went quiet, the monitor humming. I scratched at my thin goatee and looked at her, really looked, at the ink on her wrist and the way she was holding her own elbow to keep her hands still. She'd gone from cocky to this in a minute, and none of it looked like an act.
 
-"If I said yes," I said slowly, "why would it be me? You were top eight. You could pick anyone."
+"Why does this matter so much to you?" I asked.
 
-"Being a girl gamer is already tough." She said it without looking away. "Add a reputation that isn't even true, and getting people to join your guild is hard, and getting them to stay is harder. I'm not going to pressure you. You can say no. I saw the opportunity, and I figured I had nothing left to lose." Her thumb scraped the ink on her wrist. "I've been watching your stream for forty minutes. The way you talk to those NPCs, I haven't seen anything like it, and I've been playing a long time. A professional guild is the only way I stay here. I was texting my mom when you got here."
+"Being a girl gamer is already tough." She said it without looking away. "Add a reputation that isn't even true, and getting people to join your guild is hard, and getting them to stay is harder. I need money. I need to fight my parents, and I want to stay here. I want to go pro, my own way." Her thumb scraped the ink on her wrist. "I'm not going to pressure you. You can say no. I saw the opportunity, and I figured I had nothing left to lose. I was texting my mom when you got here."
 
-I didn't answer right away. *"Myrrhwood first, and Thornwatch at the end of all of it."* I wanted to be there when it happened, and I couldn't do it alone with a camp of goblins. Whatever came out of Thornwatch, I'd be taking on guilds, and I needed people who weren't only goblins. I let my arms drop.
+I didn't answer right away. Thornwatch was where all of this ended up, and I couldn't walk into it with only a camp of goblins. Whatever came out of it, I'd be up against guilds. Maybe a partner was worth the risk. I let my arms drop.
 
 "All right," I said. "If you're willing to help me, we can discuss it."
 
@@ -82,7 +82,7 @@ She grinned, a real one for the first time, and clapped her hands once. "Okay. T
 
 "What are you running?"
 
-"Elf, Spellforger, level ten." She counted it off on her fingers, and something in my head clicked into place, the hole I hadn't been able to close in that bathroom stall. *"A Spellforger. That might be the piece I'm missing."* "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
+"Elf, Spellforger, level ten." She counted it off on her fingers. *"A Spellforger."* I'd designed a Spellforger build once. Eren had kept the base stats and a few spell picks and rebuilt the rest his own way, so I'd never seen it played the way I drew it. "Destruction, mostly. I put five points in the opening branch before the guild blew up and left the rest alone. I don't read guides, so most of my sheet is stubbornness."
 
 "Can you cast Hushveil?"
 
